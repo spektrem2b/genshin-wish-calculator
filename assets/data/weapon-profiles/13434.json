@@ -1,0 +1,316 @@
+{
+  "id": 13434,
+  "name": "Sacrificer's Staff",
+  "rarity": 4,
+  "type": "Polearm",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_Krivule.png",
+  "ascensionMaterials": [
+    {
+      "id": 112122,
+      "name": "Broken Drive Shaft",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112122.png",
+      "rarity": 1
+    },
+    {
+      "id": 112123,
+      "name": "Reinforced Drive Shaft",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112123.png",
+      "rarity": 2
+    },
+    {
+      "id": 112124,
+      "name": "Precision Drive Shaft",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112124.png",
+      "rarity": 3
+    },
+    {
+      "id": 112134,
+      "name": "Mistshroud Manifestation",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112134.png",
+      "rarity": 2
+    },
+    {
+      "id": 112135,
+      "name": "Mistshroud Plate",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112135.png",
+      "rarity": 3
+    },
+    {
+      "id": 112136,
+      "name": "Mistshroud Helmet",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112136.png",
+      "rarity": 4
+    },
+    {
+      "id": 114077,
+      "name": "Ember of Long Night Flint",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114077.png",
+      "rarity": 2
+    },
+    {
+      "id": 114078,
+      "name": "Afterglow of Long Night Flint",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114078.png",
+      "rarity": 3
+    },
+    {
+      "id": 114079,
+      "name": "Flare of Long Night Flint",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114079.png",
+      "rarity": 4
+    },
+    {
+      "id": 114080,
+      "name": "Blaze of Long Night Flint",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114080.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112122,
+      "name": "Broken Drive Shaft",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112122.png",
+      "rarity": 1
+    },
+    {
+      "id": 112123,
+      "name": "Reinforced Drive Shaft",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112123.png",
+      "rarity": 2
+    },
+    {
+      "id": 112124,
+      "name": "Precision Drive Shaft",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112124.png",
+      "rarity": 3
+    },
+    {
+      "id": 112134,
+      "name": "Mistshroud Manifestation",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112134.png",
+      "rarity": 2
+    },
+    {
+      "id": 112135,
+      "name": "Mistshroud Plate",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112135.png",
+      "rarity": 3
+    },
+    {
+      "id": 112136,
+      "name": "Mistshroud Helmet",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112136.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114077,
+      "name": "Ember of Long Night Flint",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114077.png",
+      "rarity": 2
+    },
+    {
+      "id": 114078,
+      "name": "Afterglow of Long Night Flint",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114078.png",
+      "rarity": 3
+    },
+    {
+      "id": 114079,
+      "name": "Flare of Long Night Flint",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114079.png",
+      "rarity": 4
+    },
+    {
+      "id": 114080,
+      "name": "Blaze of Long Night Flint",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114080.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112122,
+          "name": "Broken Drive Shaft",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112122.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 112134,
+          "name": "Mistshroud Manifestation",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112134.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 114077,
+          "name": "Ember of Long Night Flint",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114077.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112122,
+          "name": "Broken Drive Shaft",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112122.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 112134,
+          "name": "Mistshroud Manifestation",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112134.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 114078,
+          "name": "Afterglow of Long Night Flint",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114078.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112123,
+          "name": "Reinforced Drive Shaft",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112123.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 112135,
+          "name": "Mistshroud Plate",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112135.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114078,
+          "name": "Afterglow of Long Night Flint",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114078.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112123,
+          "name": "Reinforced Drive Shaft",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112123.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112135,
+          "name": "Mistshroud Plate",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112135.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114079,
+          "name": "Flare of Long Night Flint",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114079.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112124,
+          "name": "Precision Drive Shaft",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112124.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112136,
+          "name": "Mistshroud Helmet",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112136.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 114079,
+          "name": "Flare of Long Night Flint",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114079.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112124,
+          "name": "Precision Drive Shaft",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112124.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112136,
+          "name": "Mistshroud Helmet",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112136.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 114080,
+          "name": "Blaze of Long Night Flint",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114080.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

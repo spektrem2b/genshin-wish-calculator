@@ -1,0 +1,316 @@
+{
+  "id": 12504,
+  "name": "The Unforged",
+  "rarity": 5,
+  "type": "Claymore",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Claymore_Kunwu.png",
+  "ascensionMaterials": [
+    {
+      "id": 112026,
+      "name": "Mist Grass Pollen",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112026.png",
+      "rarity": 2
+    },
+    {
+      "id": 112027,
+      "name": "Mist Grass",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112027.png",
+      "rarity": 3
+    },
+    {
+      "id": 112028,
+      "name": "Mist Grass Wick",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112028.png",
+      "rarity": 4
+    },
+    {
+      "id": 112035,
+      "name": "Treasure Hoarder Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112035.png",
+      "rarity": 1
+    },
+    {
+      "id": 112036,
+      "name": "Silver Raven Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112036.png",
+      "rarity": 2
+    },
+    {
+      "id": 112037,
+      "name": "Golden Raven Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112037.png",
+      "rarity": 3
+    },
+    {
+      "id": 114017,
+      "name": "Mist Veiled Lead Elixir",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114017.png",
+      "rarity": 2
+    },
+    {
+      "id": 114018,
+      "name": "Mist Veiled Mercury Elixir",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114018.png",
+      "rarity": 3
+    },
+    {
+      "id": 114019,
+      "name": "Mist Veiled Gold Elixir",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114019.png",
+      "rarity": 4
+    },
+    {
+      "id": 114020,
+      "name": "Mist Veiled Primo Elixir",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114020.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112026,
+      "name": "Mist Grass Pollen",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112026.png",
+      "rarity": 2
+    },
+    {
+      "id": 112027,
+      "name": "Mist Grass",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112027.png",
+      "rarity": 3
+    },
+    {
+      "id": 112028,
+      "name": "Mist Grass Wick",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112028.png",
+      "rarity": 4
+    },
+    {
+      "id": 112035,
+      "name": "Treasure Hoarder Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112035.png",
+      "rarity": 1
+    },
+    {
+      "id": 112036,
+      "name": "Silver Raven Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112036.png",
+      "rarity": 2
+    },
+    {
+      "id": 112037,
+      "name": "Golden Raven Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112037.png",
+      "rarity": 3
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114017,
+      "name": "Mist Veiled Lead Elixir",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114017.png",
+      "rarity": 2
+    },
+    {
+      "id": 114018,
+      "name": "Mist Veiled Mercury Elixir",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114018.png",
+      "rarity": 3
+    },
+    {
+      "id": 114019,
+      "name": "Mist Veiled Gold Elixir",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114019.png",
+      "rarity": 4
+    },
+    {
+      "id": 114020,
+      "name": "Mist Veiled Primo Elixir",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114020.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 10000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112026,
+          "name": "Mist Grass Pollen",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112026.png",
+          "rarity": 2,
+          "qty": 5
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112035.png",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 114017,
+          "name": "Mist Veiled Lead Elixir",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114017.png",
+          "rarity": 2,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112026,
+          "name": "Mist Grass Pollen",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112026.png",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 112035,
+          "name": "Treasure Hoarder Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112035.png",
+          "rarity": 1,
+          "qty": 12
+        },
+        {
+          "id": 114018,
+          "name": "Mist Veiled Mercury Elixir",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114018.png",
+          "rarity": 3,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112027,
+          "name": "Mist Grass",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112027.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112036.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 114018,
+          "name": "Mist Veiled Mercury Elixir",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114018.png",
+          "rarity": 3,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112027,
+          "name": "Mist Grass",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112027.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 112036,
+          "name": "Silver Raven Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112036.png",
+          "rarity": 2,
+          "qty": 14
+        },
+        {
+          "id": 114019,
+          "name": "Mist Veiled Gold Elixir",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114019.png",
+          "rarity": 4,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 55000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112028,
+          "name": "Mist Grass Wick",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112028.png",
+          "rarity": 4,
+          "qty": 14
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112037.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 114019,
+          "name": "Mist Veiled Gold Elixir",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114019.png",
+          "rarity": 4,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 65000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112028,
+          "name": "Mist Grass Wick",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112028.png",
+          "rarity": 4,
+          "qty": 27
+        },
+        {
+          "id": 112037,
+          "name": "Golden Raven Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112037.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 114020,
+          "name": "Mist Veiled Primo Elixir",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114020.png",
+          "rarity": 5,
+          "qty": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": 14505,
+  "name": "Jadefall's Splendor",
+  "rarity": 5,
+  "type": "Catalyst",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Morax.png",
+  "ascensionMaterials": [
+    {
+      "id": 112059,
+      "name": "Fungal Spores",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112059.png",
+      "rarity": 1
+    },
+    {
+      "id": 112060,
+      "name": "Luminescent Pollen",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112060.png",
+      "rarity": 2
+    },
+    {
+      "id": 112061,
+      "name": "Crystalline Cyst Dust",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112061.png",
+      "rarity": 3
+    },
+    {
+      "id": 112077,
+      "name": "A Flower Yet to Bloom",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112077.png",
+      "rarity": 2
+    },
+    {
+      "id": 112078,
+      "name": "Treasured Flower",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112078.png",
+      "rarity": 3
+    },
+    {
+      "id": 112079,
+      "name": "Wanderer's Blooming Flower",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112079.png",
+      "rarity": 4
+    },
+    {
+      "id": 114013,
+      "name": "Luminous Sands from Guyun",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114013.png",
+      "rarity": 2
+    },
+    {
+      "id": 114014,
+      "name": "Lustrous Stone from Guyun",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114014.png",
+      "rarity": 3
+    },
+    {
+      "id": 114015,
+      "name": "Relic from Guyun",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114015.png",
+      "rarity": 4
+    },
+    {
+      "id": 114016,
+      "name": "Divine Body from Guyun",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114016.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112059,
+      "name": "Fungal Spores",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112059.png",
+      "rarity": 1
+    },
+    {
+      "id": 112060,
+      "name": "Luminescent Pollen",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112060.png",
+      "rarity": 2
+    },
+    {
+      "id": 112061,
+      "name": "Crystalline Cyst Dust",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112061.png",
+      "rarity": 3
+    },
+    {
+      "id": 112077,
+      "name": "A Flower Yet to Bloom",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112077.png",
+      "rarity": 2
+    },
+    {
+      "id": 112078,
+      "name": "Treasured Flower",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112078.png",
+      "rarity": 3
+    },
+    {
+      "id": 112079,
+      "name": "Wanderer's Blooming Flower",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112079.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114013,
+      "name": "Luminous Sands from Guyun",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114013.png",
+      "rarity": 2
+    },
+    {
+      "id": 114014,
+      "name": "Lustrous Stone from Guyun",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114014.png",
+      "rarity": 3
+    },
+    {
+      "id": 114015,
+      "name": "Relic from Guyun",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114015.png",
+      "rarity": 4
+    },
+    {
+      "id": 114016,
+      "name": "Divine Body from Guyun",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114016.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 10000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112059,
+          "name": "Fungal Spores",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112059.png",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 112077,
+          "name": "A Flower Yet to Bloom",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112077.png",
+          "rarity": 2,
+          "qty": 5
+        },
+        {
+          "id": 114013,
+          "name": "Luminous Sands from Guyun",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114013.png",
+          "rarity": 2,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112059,
+          "name": "Fungal Spores",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112059.png",
+          "rarity": 1,
+          "qty": 12
+        },
+        {
+          "id": 112077,
+          "name": "A Flower Yet to Bloom",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112077.png",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 114014,
+          "name": "Lustrous Stone from Guyun",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114014.png",
+          "rarity": 3,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112060,
+          "name": "Luminescent Pollen",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112060.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112078,
+          "name": "Treasured Flower",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112078.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 114014,
+          "name": "Lustrous Stone from Guyun",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114014.png",
+          "rarity": 3,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112060,
+          "name": "Luminescent Pollen",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112060.png",
+          "rarity": 2,
+          "qty": 14
+        },
+        {
+          "id": 112078,
+          "name": "Treasured Flower",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112078.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 114015,
+          "name": "Relic from Guyun",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114015.png",
+          "rarity": 4,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 55000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112061,
+          "name": "Crystalline Cyst Dust",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112061.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 112079,
+          "name": "Wanderer's Blooming Flower",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112079.png",
+          "rarity": 4,
+          "qty": 14
+        },
+        {
+          "id": 114015,
+          "name": "Relic from Guyun",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114015.png",
+          "rarity": 4,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 65000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112061,
+          "name": "Crystalline Cyst Dust",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112061.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 112079,
+          "name": "Wanderer's Blooming Flower",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112079.png",
+          "rarity": 4,
+          "qty": 27
+        },
+        {
+          "id": 114016,
+          "name": "Divine Body from Guyun",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114016.png",
+          "rarity": 5,
+          "qty": 6
+        }
+      ]
+    }
+  ]
+}

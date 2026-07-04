@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "genshin-data-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add assets/data/characters.js assets/data/weapons.js assets/data/character-profiles/ scripts/.ambr-version
+          git add assets/data/characters.js assets/data/weapons.js assets/data/character-profiles/ assets/data/weapon-profiles/ scripts/.ambr-version
           if git diff --cached --quiet; then
             echo "No data changes, skipping commit."
           else

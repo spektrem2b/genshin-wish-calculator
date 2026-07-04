@@ -1,0 +1,316 @@
+{
+  "id": 12515,
+  "name": "Gest of the Mighty Wolf",
+  "rarity": 5,
+  "type": "Claymore",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Claymore_EnsisAquilonis.png",
+  "ascensionMaterials": [
+    {
+      "id": 112032,
+      "name": "Recruit's Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112032.png",
+      "rarity": 1
+    },
+    {
+      "id": 112033,
+      "name": "Sergeant's Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112033.png",
+      "rarity": 2
+    },
+    {
+      "id": 112034,
+      "name": "Lieutenant's Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112034.png",
+      "rarity": 3
+    },
+    {
+      "id": 112137,
+      "name": "Fractured Eye of the Deep Shadow",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112137.png",
+      "rarity": 2
+    },
+    {
+      "id": 112138,
+      "name": "Aberrant Core of the Deep Shadow",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112138.png",
+      "rarity": 3
+    },
+    {
+      "id": 112139,
+      "name": "Hooked Beak of the Deep Shadow",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112139.png",
+      "rarity": 4
+    },
+    {
+      "id": 114005,
+      "name": "Boreal Wolf's Milk Tooth",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114005.png",
+      "rarity": 2
+    },
+    {
+      "id": 114006,
+      "name": "Boreal Wolf's Cracked Tooth",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114006.png",
+      "rarity": 3
+    },
+    {
+      "id": 114007,
+      "name": "Boreal Wolf's Broken Fang",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114007.png",
+      "rarity": 4
+    },
+    {
+      "id": 114008,
+      "name": "Boreal Wolf's Nostalgia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114008.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112032,
+      "name": "Recruit's Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112032.png",
+      "rarity": 1
+    },
+    {
+      "id": 112033,
+      "name": "Sergeant's Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112033.png",
+      "rarity": 2
+    },
+    {
+      "id": 112034,
+      "name": "Lieutenant's Insignia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112034.png",
+      "rarity": 3
+    },
+    {
+      "id": 112137,
+      "name": "Fractured Eye of the Deep Shadow",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112137.png",
+      "rarity": 2
+    },
+    {
+      "id": 112138,
+      "name": "Aberrant Core of the Deep Shadow",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112138.png",
+      "rarity": 3
+    },
+    {
+      "id": 112139,
+      "name": "Hooked Beak of the Deep Shadow",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112139.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114005,
+      "name": "Boreal Wolf's Milk Tooth",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114005.png",
+      "rarity": 2
+    },
+    {
+      "id": 114006,
+      "name": "Boreal Wolf's Cracked Tooth",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114006.png",
+      "rarity": 3
+    },
+    {
+      "id": 114007,
+      "name": "Boreal Wolf's Broken Fang",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114007.png",
+      "rarity": 4
+    },
+    {
+      "id": 114008,
+      "name": "Boreal Wolf's Nostalgia",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114008.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 10000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112032,
+          "name": "Recruit's Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112032.png",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 112137,
+          "name": "Fractured Eye of the Deep Shadow",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112137.png",
+          "rarity": 2,
+          "qty": 5
+        },
+        {
+          "id": 114005,
+          "name": "Boreal Wolf's Milk Tooth",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114005.png",
+          "rarity": 2,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112032,
+          "name": "Recruit's Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112032.png",
+          "rarity": 1,
+          "qty": 12
+        },
+        {
+          "id": 112137,
+          "name": "Fractured Eye of the Deep Shadow",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112137.png",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 114006,
+          "name": "Boreal Wolf's Cracked Tooth",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114006.png",
+          "rarity": 3,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112033,
+          "name": "Sergeant's Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112033.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112138,
+          "name": "Aberrant Core of the Deep Shadow",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112138.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 114006,
+          "name": "Boreal Wolf's Cracked Tooth",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114006.png",
+          "rarity": 3,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112033,
+          "name": "Sergeant's Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112033.png",
+          "rarity": 2,
+          "qty": 14
+        },
+        {
+          "id": 112138,
+          "name": "Aberrant Core of the Deep Shadow",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112138.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 114007,
+          "name": "Boreal Wolf's Broken Fang",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114007.png",
+          "rarity": 4,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 55000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112034,
+          "name": "Lieutenant's Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112034.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 112139,
+          "name": "Hooked Beak of the Deep Shadow",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112139.png",
+          "rarity": 4,
+          "qty": 14
+        },
+        {
+          "id": 114007,
+          "name": "Boreal Wolf's Broken Fang",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114007.png",
+          "rarity": 4,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 65000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112034,
+          "name": "Lieutenant's Insignia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112034.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 112139,
+          "name": "Hooked Beak of the Deep Shadow",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112139.png",
+          "rarity": 4,
+          "qty": 27
+        },
+        {
+          "id": 114008,
+          "name": "Boreal Wolf's Nostalgia",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114008.png",
+          "rarity": 5,
+          "qty": 6
+        }
+      ]
+    }
+  ]
+}

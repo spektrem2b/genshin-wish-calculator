@@ -199,6 +199,33 @@
         return { mora, items };
     }
 
+    // Weapons only ever use Mystic Enhancement Ore for EXP leveling
+    // (10,000 EXP / 1,000 Mora each — a flat 0.1 Mora per EXP, unlike
+    // characters' 3-tier book system). The game refunds excess EXP on
+    // weapons, so no greedy-fill optimization is needed — just ceiling
+    // division to the nearest whole Ore.
+    const MYSTIC_ORE = { id: 104013, name: "Mystic Enhancement Ore", exp: 10000, mora: 1000, rarity: 3 };
+
+    function weaponExpToOreCost(expNeeded) {
+        if (expNeeded <= 0) return { mora: 0, items: [] };
+        const oreCount = Math.ceil(expNeeded / MYSTIC_ORE.exp);
+        return {
+            mora: oreCount * MYSTIC_ORE.mora,
+            items: [{
+                id: MYSTIC_ORE.id, name: MYSTIC_ORE.name,
+                icon: `https://gi.yatta.moe/assets/UI/UI_ItemIcon_${MYSTIC_ORE.id}.png`,
+                rarity: MYSTIC_ORE.rarity, qty: oreCount,
+            }],
+        };
+    }
+
+    function weaponExpTableForRarity(rarity) {
+        if (rarity <= 3 && typeof weapon3ExpTable !== 'undefined') return weapon3ExpTable;
+        if (rarity === 4 && typeof weapon4ExpTable !== 'undefined') return weapon4ExpTable;
+        if (typeof weapon5ExpTable !== 'undefined') return weapon5ExpTable;
+        return null;
+    }
+
     // Sums Mora + material quantities for a set of {moraCost, items} rows
     // (either promote phases or talent levelCosts) into a running total.
     function accumulateCost(rows, totals) {
@@ -258,10 +285,34 @@
 
         const materialsList = (totals) => Object.values(totals.materials).sort((a, b) => (b.rarity || 0) - (a.rarity || 0));
 
+        // Weapon ascension cost only (promotes phases). Weapon EXP/enhancement-ore
+        // leveling isn't tracked — this is a resource manager, not a stat
+        // calculator, and we deliberately didn't pull weapon base-stat/growth-curve
+        // data, so there's no clean EXP-to-material conversion like characters have.
+        let weaponTotals = null;
+        if (build.weapon && build.profile !== undefined && inputs.weaponLevel && build.weaponProfile) {
+            weaponTotals = { mora: 0, materials: {} };
+            const weaponPromotesByPhase = {};
+            (build.weaponProfile.promotes || []).forEach(p => { weaponPromotesByPhase[p.promoteLevel] = p; });
+            accumulateCost(inputs.weaponLevel.phasesToAscend.map(i => weaponPromotesByPhase[i]), weaponTotals);
+
+            const expTable = weaponExpTableForRarity(build.weapon.rarity);
+            if (expTable) {
+                const fromLvl = inputs.weaponLevel.fromLevel;
+                const toLvl = inputs.weaponLevel.toLevel;
+                const fromExp = (expTable[fromLvl - 1] || {}).total || 0;
+                const toExp = (expTable[toLvl - 1] || {}).total || 0;
+                const expNeeded = Math.max(0, toExp - fromExp);
+                const oreCost = weaponExpToOreCost(expNeeded);
+                accumulateCost([{ moraCost: oreCost.mora, items: oreCost.items }], weaponTotals);
+            }
+        }
+
         return {
-            totalMora: ascensionTotals.mora + talentTotals.mora,
+            totalMora: ascensionTotals.mora + talentTotals.mora + (weaponTotals ? weaponTotals.mora : 0),
             ascension: { mora: ascensionTotals.mora, materials: materialsList(ascensionTotals) },
             talents: { mora: talentTotals.mora, materials: materialsList(talentTotals) },
+            weapon: weaponTotals ? { mora: weaponTotals.mora, materials: materialsList(weaponTotals) } : null,
         };
     }
 
@@ -289,6 +340,13 @@
         if (talMoraEl) talMoraEl.textContent = `${formatMora(cost.talents.mora)} Mora`;
         const talMatsEl = document.getElementById(`talMats_${buildId}`);
         if (talMatsEl) talMatsEl.innerHTML = materialsSummaryHtml(cost.talents.materials);
+
+        if (cost.weapon) {
+            const weaponMoraEl = document.getElementById(`weaponMora_${buildId}`);
+            if (weaponMoraEl) weaponMoraEl.textContent = `${formatMora(cost.weapon.mora)} Mora`;
+            const weaponMatsEl = document.getElementById(`weaponMats_${buildId}`);
+            if (weaponMatsEl) weaponMatsEl.innerHTML = materialsSummaryHtml(cost.weapon.materials);
+        }
     }
 
     // Same basic/skill/burst indexing as calculateBuildCost (burst = last
@@ -315,11 +373,12 @@
     // each only ever contains a subset, so filtering this list down to
     // what's present naturally produces the right order for either.
     const TYPE_ORDER = [
-        'EXP Books', 'Weekly Boss Material', 'Boss Material', 'Talent Books',
-        'Local Specialty', 'Enemy Materials', 'Gemstones', 'Special',
-        'Weapon Material', 'Other',
+        'Weapon EXP', 'EXP Books', 'Weekly Boss Material', 'Boss Material', 'Talent Books',
+        'Local Specialty', 'Gemstones', 'Special',
+        'Weapon Material', 'Enemy Materials', 'Other',
     ];
     function materialCategory(materialId, rarity) {
+        if (materialId === MYSTIC_ORE.id) return 'Weapon EXP';
         const type = typeof GENSHIN_MATERIAL_TYPES !== 'undefined' ? GENSHIN_MATERIAL_TYPES[materialId] : null;
         switch (type) {
             case 'characterEXPMaterial': return 'EXP Books';
@@ -345,8 +404,8 @@
             const items = byCategory[cat].sort((a, b) => (b.rarity || 0) - (a.rarity || 0));
             const rows = items.map(m => {
                 const icon = m.icon
-                    ? `<img class="cost-material-icon" src="${m.icon}" alt="">`
-                    : `<div class="cost-material-icon cost-material-icon-placeholder">?</div>`;
+                    ? `<img class="cost-material-icon rarity-${m.rarity || 1}" src="${m.icon}" alt="">`
+                    : `<div class="cost-material-icon cost-material-icon-placeholder rarity-${m.rarity || 1}">?</div>`;
                 return `
                     <div class="cost-material-row">
                         ${icon}
@@ -457,6 +516,20 @@
             .catch(() => null);
     }
 
+    const weaponProfileCache = {};
+
+    function fetchWeaponProfile(id) {
+        if (!id) return Promise.resolve(null);
+        if (weaponProfileCache[id]) return Promise.resolve(weaponProfileCache[id]);
+        return fetch(`assets/data/weapon-profiles/${id}.json`)
+            .then(res => res.ok ? res.json() : null)
+            .then(data => {
+                weaponProfileCache[id] = data;
+                return data;
+            })
+            .catch(() => null);
+    }
+
     function setBuildCharacter(buildId, characterEntry) {
         const build = builds.find(b => b.id === buildId);
         if (!build) return;
@@ -535,10 +608,21 @@
     function setBuildWeapon(buildId, weaponEntry) {
         const build = builds.find(b => b.id === buildId);
         if (!build) return;
+        if (!weaponEntry.id && typeof GENSHIN_WEAPON_PROFILE_INDEX !== 'undefined') {
+            const match = GENSHIN_WEAPON_PROFILE_INDEX.find(p => p.name === weaponEntry.name);
+            if (match) weaponEntry = { ...weaponEntry, id: match.id };
+        }
         build.weapon = weaponEntry;
         build.weaponLevel = { from: '1', to: '90' };
+        build.weaponProfile = null;
         renderBuilds();
         saveState();
+
+        fetchWeaponProfile(weaponEntry.id).then(profile => {
+            if (build.weapon !== weaponEntry) return; // swapped again before this resolved
+            build.weaponProfile = profile;
+            renderBuilds();
+        });
     }
 
     function clearBuildWeapon(buildId) {
@@ -546,6 +630,7 @@
         if (!build) return;
         build.weapon = null;
         build.weaponLevel = null;
+        build.weaponProfile = null;
         renderBuilds();
         saveState();
     }
@@ -607,15 +692,24 @@
             </div>
         `;
 
-        // Weapon ascension/refinement data isn't available yet, so this is
-        // intentionally NOT folded into totalMora. Say so plainly instead of
-        // showing a bare "—" that looks like a number is just late to load.
-        const weaponCostRows = build.weapon ? `
+        const weaponCostRows = build.weapon ? (() => {
+            const cost = calculateBuildCost(build);
+            if (build.weapon && !build.weaponProfile) {
+                return `
                 <div class="cost-row" style="margin-top:14px;">
                     <span class="cost-row-label">Weapon <span class="cost-row-plan" id="planWeaponLevel_${build.id}">→ ${build.weaponLevel.to}</span></span>
-                    <span class="cost-row-value cost-placeholder">Not tracked yet</span>
+                    <span class="cost-row-value"><span class="cost-placeholder">—</span> Mora</span>
+                </div>`;
+            }
+            const wMora = cost && cost.weapon ? `${formatMora(cost.weapon.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
+            const wMats = cost && cost.weapon ? materialsSummaryHtml(cost.weapon.materials) : '<span class="cost-placeholder">—</span>';
+            return `
+                <div class="cost-row" style="margin-top:14px;">
+                    <span class="cost-row-label">Weapon <span class="cost-row-plan" id="planWeaponLevel_${build.id}">→ ${build.weaponLevel.to}</span></span>
+                    <span class="cost-row-value" id="weaponMora_${build.id}">${wMora}</span>
                 </div>
-        ` : '';
+                <div class="cost-materials-panel" id="weaponMats_${build.id}">${wMats}</div>`;
+        })() : '';
 
         const headerBlock = swapOpenIds.has(build.id) ? `
             <div style="display:flex; align-items:flex-start; gap:14px; margin-bottom:22px;">
@@ -935,7 +1029,7 @@
     function saveState() {
         try {
             const toSave = builds.map(b => {
-                const { profile, ...rest } = b;
+                const { profile, weaponProfile, ...rest } = b;
                 return rest;
             });
             localStorage.setItem(SAVE_KEY, JSON.stringify(toSave));
@@ -950,16 +1044,30 @@
             if (Array.isArray(parsed)) {
                 builds = parsed.map(migrateBuild);
                 builds.forEach(b => {
-                    if (!b.character) return;
-                    if (!b.character.id && typeof GENSHIN_CHARACTER_PROFILE_INDEX !== 'undefined') {
-                        const match = GENSHIN_CHARACTER_PROFILE_INDEX.find(p => p.name === b.character.name);
-                        if (match) b.character.id = match.id;
+                    if (b.character) {
+                        if (!b.character.id && typeof GENSHIN_CHARACTER_PROFILE_INDEX !== 'undefined') {
+                            const match = GENSHIN_CHARACTER_PROFILE_INDEX.find(p => p.name === b.character.name);
+                            if (match) b.character.id = match.id;
+                        }
+                        if (b.character.id) {
+                            fetchCharacterProfile(b.character.id).then(profile => {
+                                b.profile = profile;
+                                renderBuilds();
+                            });
+                        }
                     }
-                    if (!b.character.id) return;
-                    fetchCharacterProfile(b.character.id).then(profile => {
-                        b.profile = profile;
-                        renderBuilds();
-                    });
+                    if (b.weapon) {
+                        if (!b.weapon.id && typeof GENSHIN_WEAPON_PROFILE_INDEX !== 'undefined') {
+                            const match = GENSHIN_WEAPON_PROFILE_INDEX.find(p => p.name === b.weapon.name);
+                            if (match) b.weapon.id = match.id;
+                        }
+                        if (b.weapon.id) {
+                            fetchWeaponProfile(b.weapon.id).then(profile => {
+                                b.weaponProfile = profile;
+                                renderBuilds();
+                            });
+                        }
+                    }
                 });
             }
         } catch (e) { builds = []; }

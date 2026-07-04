@@ -89,6 +89,7 @@ function searchGenshinWeapons(query, rarity = 5) {
 
 function makeCustomWeapon(name, rarity = 5) {
     return {
+        id: null,
         name: name,
         rarity: rarity,
         weaponType: null,
@@ -122,9 +123,10 @@ def build_character_entry(c):
 
 def build_weapon_entry(w):
     return {
+        "id": w.id,
         "name": w.name,
         "rarity": w.rarity,
-        "weaponType": None,
+        "weaponType": getattr(w, "type", None),
         "icon": getattr(w, "icon", None),
         "isCustom": False,
     }
@@ -355,8 +357,126 @@ def write_stored_version(version):
         f.write(version)
 
 
+def categorize_weapon_material(mat_id):
+    """
+    Weapon-specific split: 112xxx = common enemy drops (shared item
+    family with characters, e.g. Drive Shafts), 114xxx = weapon-only
+    ascension ore/crystal materials. Weapons don't have the
+    gems/local-specialty/talent-book concept characters do, so those
+    buckets don't apply here.
+    """
+    if 112000 <= mat_id < 113000:
+        return "enemyDrops"
+    if 114000 <= mat_id < 115000:
+        return "weaponMaterials"
+    return None
+
+
+def trim_weapon_profile(raw, material_lookup):
+    ascension_materials = []
+    buckets = {"enemyDrops": [], "weaponMaterials": []}
+
+    for m in raw.get("ascension_materials", []):
+        mat_id = m.get("id")
+        resolved = material_lookup.get(mat_id, {})
+        entry = {
+            "id": mat_id,
+            "name": resolved.get("name"),
+            "icon": resolved.get("icon"),
+            "rarity": m.get("rarity"),
+        }
+        ascension_materials.append(entry)
+        bucket = categorize_weapon_material(mat_id)
+        if bucket:
+            buckets[bucket].append(entry)
+
+    promotes = []
+    for p in raw.get("upgrade", {}).get("promotes", []):
+        promotes.append({
+            "promoteLevel": p.get("promote_level"),
+            "unlockMaxLevel": p.get("unlock_max_level"),
+            "moraCost": p.get("coin_cost"),
+            "requiredPlayerLevel": p.get("required_player_level"),
+            "items": resolve_cost_items(p.get("cost_items"), material_lookup, "amount"),
+        })
+
+    return {
+        "id": raw.get("id"),
+        "name": raw.get("name"),
+        "rarity": raw.get("rarity"),
+        "type": raw.get("type"),
+        "icon": raw.get("icon"),
+        "ascensionMaterials": ascension_materials,
+        "enemyDrops": buckets["enemyDrops"],
+        "weaponMaterials": buckets["weaponMaterials"],
+        "promotes": promotes,
+    }
+
+
+async def fetch_all_weapon_profiles(client, weapons, material_lookup):
+    # Skip 1-2 star weapons entirely — nobody uses them, no point
+    # spending API calls or shipping files nobody will ever load.
+    eligible = [w for w in weapons if w.rarity >= 3]
+    profiles = []
+    skipped_non_playable = []
+    total = len(eligible)
+    print(f"  ({len(weapons) - total} weapons at 1-2 star skipped)")
+    for i, w in enumerate(eligible, 1):
+        try:
+            detail = await client.fetch_weapon_detail(w.id)
+            profiles.append(trim_weapon_profile(detail.model_dump(), material_lookup))
+            print(f"  [{i}/{total}] OK: {w.name}")
+        except Exception as e:
+            # Weapon skins (e.g. "X - Sublimation" reforged variants)
+            # share their base weapon's stats entirely and carry no
+            # independent ascension/refinement data of their own —
+            # that's why these fields come back missing. Not a real
+            # fetch failure, just a catalog entry with nothing new to
+            # pull; skip it quietly instead of alarming about it.
+            missing = ("storyId", "affix", "upgrade", "ascension")
+            err_text = str(e)
+            if all(f"{field}\n  Field required" in err_text for field in missing):
+                skipped_non_playable.append((w.id, w.name))
+                print(f"  [{i}/{total}] SKIPPED (non-playable entry): {w.name}")
+            else:
+                print(f"  [{i}/{total}] FAILED: {w.name} ({w.id}) - {e}")
+        await asyncio.sleep(DETAIL_FETCH_DELAY)
+    if skipped_non_playable:
+        print(f"  {len(skipped_non_playable)} weapon skin entries skipped (share base weapon's stats, no independent data)")
+    return profiles
+
+
+def write_weapon_profiles(profiles_dir, entries):
+    os.makedirs(profiles_dir, exist_ok=True)
+
+    existing_ids = {f"{e['id']}.json" for e in entries}
+    for fname in os.listdir(profiles_dir):
+        if fname.endswith(".json") and fname not in existing_ids:
+            os.remove(os.path.join(profiles_dir, fname))
+
+    index = []
+    for e in entries:
+        path = os.path.join(profiles_dir, f"{e['id']}.json")
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(e, f, ensure_ascii=False, indent=2)
+        index.append({
+            "id": e["id"], "name": e["name"], "rarity": e["rarity"],
+            "type": e["type"], "icon": e.get("icon"),
+        })
+
+    index_path = os.path.join(profiles_dir, "index.js")
+    with open(index_path, "w", encoding="utf-8") as f:
+        f.write(f"const GENSHIN_WEAPON_PROFILE_INDEX = {js_value(index)};\n")
+
+    return index_path
+
+
 async def main():
-    async with ambr.AmbrAPI() as client:
+    # cache_ttl set well above our own daily version-check cadence, so
+    # re-running this script for reasons unrelated to Ambr's data itself
+    # (e.g. a bug fix on our end, testing) is served from the local
+    # SQLite cache instead of re-hitting their servers for everything.
+    async with ambr.AmbrAPI(cache_ttl=60 * 60 * 24 * 7) as client:
         print("Checking Ambr data version...")
         latest_version = await client.fetch_latest_version()
         stored_version = read_stored_version()
@@ -399,15 +519,21 @@ async def main():
         profile_entries = await fetch_all_character_profiles(client, characters, material_lookup)
         profile_entries.sort(key=lambda e: (e["name"] or "").lower())
 
+        print(f"Fetching weapon detail profiles, 3-star and up only (sequential, {DETAIL_FETCH_DELAY}s between calls)...")
+        weapon_profile_entries = await fetch_all_weapon_profiles(client, weapons, material_lookup)
+        weapon_profile_entries.sort(key=lambda e: (e["name"] or "").lower())
+
         project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         out_dir = os.path.join(project_root, "assets", "data")
         char_path = os.path.join(out_dir, "characters.js")
         weapon_path = os.path.join(out_dir, "weapons.js")
         profiles_dir = os.path.join(out_dir, "character-profiles")
+        weapon_profiles_dir = os.path.join(out_dir, "weapon-profiles")
 
         write_js_db(char_path, "GENSHIN_CHARACTER_DB", char_entries, CHARACTERS_JS_FOOTER)
         write_js_db(weapon_path, "GENSHIN_WEAPON_DB", weapon_entries, WEAPONS_JS_FOOTER)
         index_path = write_character_profiles(profiles_dir, profile_entries)
+        weapon_index_path = write_weapon_profiles(weapon_profiles_dir, weapon_profile_entries)
 
         write_stored_version(latest_version)
 
@@ -416,6 +542,8 @@ async def main():
         print(weapon_path)
         print(f"{profiles_dir}\\ ({len(profile_entries)} files)")
         print(index_path)
+        print(f"{weapon_profiles_dir}\\ ({len(weapon_profile_entries)} files)")
+        print(weapon_index_path)
         print(VERSION_FILE)
 
 

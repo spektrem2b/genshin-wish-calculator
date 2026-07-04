@@ -1,0 +1,316 @@
+{
+  "id": 14401,
+  "name": "Favonius Codex",
+  "rarity": 4,
+  "type": "Catalyst",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Zephyrus.png",
+  "ascensionMaterials": [
+    {
+      "id": 112008,
+      "name": "Divining Scroll",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112008.png",
+      "rarity": 1
+    },
+    {
+      "id": 112009,
+      "name": "Sealed Scroll",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112009.png",
+      "rarity": 2
+    },
+    {
+      "id": 112010,
+      "name": "Forbidden Curse Scroll",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112010.png",
+      "rarity": 3
+    },
+    {
+      "id": 112014,
+      "name": "Heavy Horn",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112014.png",
+      "rarity": 2
+    },
+    {
+      "id": 112015,
+      "name": "Black Bronze Horn",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112015.png",
+      "rarity": 3
+    },
+    {
+      "id": 112016,
+      "name": "Black Crystal Horn",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112016.png",
+      "rarity": 4
+    },
+    {
+      "id": 114001,
+      "name": "Tile of Decarabian's Tower",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114001.png",
+      "rarity": 2
+    },
+    {
+      "id": 114002,
+      "name": "Debris of Decarabian's City",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114002.png",
+      "rarity": 3
+    },
+    {
+      "id": 114003,
+      "name": "Fragment of Decarabian's Epic",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114003.png",
+      "rarity": 4
+    },
+    {
+      "id": 114004,
+      "name": "Scattered Piece of Decarabian's Dream",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114004.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112008,
+      "name": "Divining Scroll",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112008.png",
+      "rarity": 1
+    },
+    {
+      "id": 112009,
+      "name": "Sealed Scroll",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112009.png",
+      "rarity": 2
+    },
+    {
+      "id": 112010,
+      "name": "Forbidden Curse Scroll",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112010.png",
+      "rarity": 3
+    },
+    {
+      "id": 112014,
+      "name": "Heavy Horn",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112014.png",
+      "rarity": 2
+    },
+    {
+      "id": 112015,
+      "name": "Black Bronze Horn",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112015.png",
+      "rarity": 3
+    },
+    {
+      "id": 112016,
+      "name": "Black Crystal Horn",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112016.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114001,
+      "name": "Tile of Decarabian's Tower",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114001.png",
+      "rarity": 2
+    },
+    {
+      "id": 114002,
+      "name": "Debris of Decarabian's City",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114002.png",
+      "rarity": 3
+    },
+    {
+      "id": 114003,
+      "name": "Fragment of Decarabian's Epic",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114003.png",
+      "rarity": 4
+    },
+    {
+      "id": 114004,
+      "name": "Scattered Piece of Decarabian's Dream",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114004.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112008,
+          "name": "Divining Scroll",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112008.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 112014,
+          "name": "Heavy Horn",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112014.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 114001,
+          "name": "Tile of Decarabian's Tower",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114001.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112008,
+          "name": "Divining Scroll",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112008.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 112014,
+          "name": "Heavy Horn",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112014.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 114002,
+          "name": "Debris of Decarabian's City",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114002.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112009,
+          "name": "Sealed Scroll",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112009.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 112015,
+          "name": "Black Bronze Horn",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112015.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114002,
+          "name": "Debris of Decarabian's City",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114002.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112009,
+          "name": "Sealed Scroll",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112009.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112015,
+          "name": "Black Bronze Horn",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112015.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114003,
+          "name": "Fragment of Decarabian's Epic",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114003.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112010,
+          "name": "Forbidden Curse Scroll",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112010.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112016,
+          "name": "Black Crystal Horn",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112016.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 114003,
+          "name": "Fragment of Decarabian's Epic",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114003.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112010,
+          "name": "Forbidden Curse Scroll",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112010.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112016,
+          "name": "Black Crystal Horn",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112016.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 114004,
+          "name": "Scattered Piece of Decarabian's Dream",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114004.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

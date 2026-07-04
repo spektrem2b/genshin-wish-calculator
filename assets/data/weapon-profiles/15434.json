@@ -1,0 +1,316 @@
+{
+  "id": 15434,
+  "name": "Rainbow Serpent's Rain Bow",
+  "rarity": 4,
+  "type": "Bow",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Bow_ElegguaBow.png",
+  "ascensionMaterials": [
+    {
+      "id": 112116,
+      "name": "Refractive Bud",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112116.png",
+      "rarity": 2
+    },
+    {
+      "id": 112117,
+      "name": "Bewildering Broadleaf",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112117.png",
+      "rarity": 3
+    },
+    {
+      "id": 112118,
+      "name": "Illusory Leafcoil",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112118.png",
+      "rarity": 4
+    },
+    {
+      "id": 112125,
+      "name": "Tattered Warrant",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112125.png",
+      "rarity": 1
+    },
+    {
+      "id": 112126,
+      "name": "Immaculate Warrant",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112126.png",
+      "rarity": 2
+    },
+    {
+      "id": 112127,
+      "name": "Frost-Etched Warrant",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112127.png",
+      "rarity": 3
+    },
+    {
+      "id": 114069,
+      "name": "Night-Wind's Mystic Consideration",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114069.png",
+      "rarity": 2
+    },
+    {
+      "id": 114070,
+      "name": "Night-Wind's Mystic Premonition",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114070.png",
+      "rarity": 3
+    },
+    {
+      "id": 114071,
+      "name": "Night-Wind's Mystic Augury",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114071.png",
+      "rarity": 4
+    },
+    {
+      "id": 114072,
+      "name": "Night-Wind's Mystic Revelation",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114072.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112116,
+      "name": "Refractive Bud",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112116.png",
+      "rarity": 2
+    },
+    {
+      "id": 112117,
+      "name": "Bewildering Broadleaf",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112117.png",
+      "rarity": 3
+    },
+    {
+      "id": 112118,
+      "name": "Illusory Leafcoil",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112118.png",
+      "rarity": 4
+    },
+    {
+      "id": 112125,
+      "name": "Tattered Warrant",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112125.png",
+      "rarity": 1
+    },
+    {
+      "id": 112126,
+      "name": "Immaculate Warrant",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112126.png",
+      "rarity": 2
+    },
+    {
+      "id": 112127,
+      "name": "Frost-Etched Warrant",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112127.png",
+      "rarity": 3
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114069,
+      "name": "Night-Wind's Mystic Consideration",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114069.png",
+      "rarity": 2
+    },
+    {
+      "id": 114070,
+      "name": "Night-Wind's Mystic Premonition",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114070.png",
+      "rarity": 3
+    },
+    {
+      "id": 114071,
+      "name": "Night-Wind's Mystic Augury",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114071.png",
+      "rarity": 4
+    },
+    {
+      "id": 114072,
+      "name": "Night-Wind's Mystic Revelation",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114072.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112116,
+          "name": "Refractive Bud",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112116.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 112125,
+          "name": "Tattered Warrant",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112125.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 114069,
+          "name": "Night-Wind's Mystic Consideration",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114069.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112116,
+          "name": "Refractive Bud",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112116.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 112125,
+          "name": "Tattered Warrant",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112125.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 114070,
+          "name": "Night-Wind's Mystic Premonition",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114070.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112117,
+          "name": "Bewildering Broadleaf",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112117.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112126,
+          "name": "Immaculate Warrant",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112126.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 114070,
+          "name": "Night-Wind's Mystic Premonition",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114070.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112117,
+          "name": "Bewildering Broadleaf",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112117.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112126,
+          "name": "Immaculate Warrant",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112126.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 114071,
+          "name": "Night-Wind's Mystic Augury",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114071.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112118,
+          "name": "Illusory Leafcoil",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112118.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 112127,
+          "name": "Frost-Etched Warrant",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112127.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114071,
+          "name": "Night-Wind's Mystic Augury",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114071.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112118,
+          "name": "Illusory Leafcoil",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112118.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 112127,
+          "name": "Frost-Etched Warrant",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112127.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114072,
+          "name": "Night-Wind's Mystic Revelation",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114072.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

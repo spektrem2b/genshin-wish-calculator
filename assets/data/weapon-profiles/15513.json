@@ -1,0 +1,316 @@
+{
+  "id": 15513,
+  "name": "Silvershower Heartstrings",
+  "rarity": 5,
+  "type": "Bow",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Bow_Arcdange.png",
+  "ascensionMaterials": [
+    {
+      "id": 112080,
+      "name": "Transoceanic Pearl",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+      "rarity": 1
+    },
+    {
+      "id": 112081,
+      "name": "Transoceanic Chunk",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+      "rarity": 2
+    },
+    {
+      "id": 112082,
+      "name": "Xenochromatic Crystal",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+      "rarity": 3
+    },
+    {
+      "id": 112095,
+      "name": "Feathery Fin",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112095.png",
+      "rarity": 2
+    },
+    {
+      "id": 112096,
+      "name": "Lunar Fin",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112096.png",
+      "rarity": 3
+    },
+    {
+      "id": 112097,
+      "name": "Chasmlight Fin",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112097.png",
+      "rarity": 4
+    },
+    {
+      "id": 114053,
+      "name": "Dross of Pure Sacred Dewdrop",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114053.png",
+      "rarity": 2
+    },
+    {
+      "id": 114054,
+      "name": "Sublimation of Pure Sacred Dewdrop",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114054.png",
+      "rarity": 3
+    },
+    {
+      "id": 114055,
+      "name": "Spring of Pure Sacred Dewdrop",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114055.png",
+      "rarity": 4
+    },
+    {
+      "id": 114056,
+      "name": "Essence of Pure Sacred Dewdrop",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114056.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112080,
+      "name": "Transoceanic Pearl",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+      "rarity": 1
+    },
+    {
+      "id": 112081,
+      "name": "Transoceanic Chunk",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+      "rarity": 2
+    },
+    {
+      "id": 112082,
+      "name": "Xenochromatic Crystal",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+      "rarity": 3
+    },
+    {
+      "id": 112095,
+      "name": "Feathery Fin",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112095.png",
+      "rarity": 2
+    },
+    {
+      "id": 112096,
+      "name": "Lunar Fin",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112096.png",
+      "rarity": 3
+    },
+    {
+      "id": 112097,
+      "name": "Chasmlight Fin",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112097.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114053,
+      "name": "Dross of Pure Sacred Dewdrop",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114053.png",
+      "rarity": 2
+    },
+    {
+      "id": 114054,
+      "name": "Sublimation of Pure Sacred Dewdrop",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114054.png",
+      "rarity": 3
+    },
+    {
+      "id": 114055,
+      "name": "Spring of Pure Sacred Dewdrop",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114055.png",
+      "rarity": 4
+    },
+    {
+      "id": 114056,
+      "name": "Essence of Pure Sacred Dewdrop",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114056.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 10000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112080,
+          "name": "Transoceanic Pearl",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 112095,
+          "name": "Feathery Fin",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112095.png",
+          "rarity": 2,
+          "qty": 5
+        },
+        {
+          "id": 114053,
+          "name": "Dross of Pure Sacred Dewdrop",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114053.png",
+          "rarity": 2,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112080,
+          "name": "Transoceanic Pearl",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+          "rarity": 1,
+          "qty": 12
+        },
+        {
+          "id": 112095,
+          "name": "Feathery Fin",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112095.png",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 114054,
+          "name": "Sublimation of Pure Sacred Dewdrop",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114054.png",
+          "rarity": 3,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112081,
+          "name": "Transoceanic Chunk",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112096,
+          "name": "Lunar Fin",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112096.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 114054,
+          "name": "Sublimation of Pure Sacred Dewdrop",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114054.png",
+          "rarity": 3,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112081,
+          "name": "Transoceanic Chunk",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+          "rarity": 2,
+          "qty": 14
+        },
+        {
+          "id": 112096,
+          "name": "Lunar Fin",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112096.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 114055,
+          "name": "Spring of Pure Sacred Dewdrop",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114055.png",
+          "rarity": 4,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 55000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112082,
+          "name": "Xenochromatic Crystal",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 112097,
+          "name": "Chasmlight Fin",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112097.png",
+          "rarity": 4,
+          "qty": 14
+        },
+        {
+          "id": 114055,
+          "name": "Spring of Pure Sacred Dewdrop",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114055.png",
+          "rarity": 4,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 65000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112082,
+          "name": "Xenochromatic Crystal",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 112097,
+          "name": "Chasmlight Fin",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112097.png",
+          "rarity": 4,
+          "qty": 27
+        },
+        {
+          "id": 114056,
+          "name": "Essence of Pure Sacred Dewdrop",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114056.png",
+          "rarity": 5,
+          "qty": 6
+        }
+      ]
+    }
+  ]
+}

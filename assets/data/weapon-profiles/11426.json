@@ -1,0 +1,316 @@
+{
+  "id": 11426,
+  "name": "Fleuve Cendre Ferryman",
+  "rarity": 4,
+  "type": "Sword",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Machination.png",
+  "ascensionMaterials": [
+    {
+      "id": 112080,
+      "name": "Transoceanic Pearl",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+      "rarity": 1
+    },
+    {
+      "id": 112081,
+      "name": "Transoceanic Chunk",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+      "rarity": 2
+    },
+    {
+      "id": 112082,
+      "name": "Xenochromatic Crystal",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+      "rarity": 3
+    },
+    {
+      "id": 112086,
+      "name": "Drop of Tainted Water",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112086.png",
+      "rarity": 2
+    },
+    {
+      "id": 112087,
+      "name": "Scoop of Tainted Water",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112087.png",
+      "rarity": 3
+    },
+    {
+      "id": 112088,
+      "name": "Newborn Tainted Hydro Phantasm",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112088.png",
+      "rarity": 4
+    },
+    {
+      "id": 114049,
+      "name": "Fragment of an Ancient Chord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114049.png",
+      "rarity": 2
+    },
+    {
+      "id": 114050,
+      "name": "Chapter of an Ancient Chord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114050.png",
+      "rarity": 3
+    },
+    {
+      "id": 114051,
+      "name": "Movement of an Ancient Chord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114051.png",
+      "rarity": 4
+    },
+    {
+      "id": 114052,
+      "name": "Echo of an Ancient Chord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114052.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112080,
+      "name": "Transoceanic Pearl",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+      "rarity": 1
+    },
+    {
+      "id": 112081,
+      "name": "Transoceanic Chunk",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+      "rarity": 2
+    },
+    {
+      "id": 112082,
+      "name": "Xenochromatic Crystal",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+      "rarity": 3
+    },
+    {
+      "id": 112086,
+      "name": "Drop of Tainted Water",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112086.png",
+      "rarity": 2
+    },
+    {
+      "id": 112087,
+      "name": "Scoop of Tainted Water",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112087.png",
+      "rarity": 3
+    },
+    {
+      "id": 112088,
+      "name": "Newborn Tainted Hydro Phantasm",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112088.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114049,
+      "name": "Fragment of an Ancient Chord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114049.png",
+      "rarity": 2
+    },
+    {
+      "id": 114050,
+      "name": "Chapter of an Ancient Chord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114050.png",
+      "rarity": 3
+    },
+    {
+      "id": 114051,
+      "name": "Movement of an Ancient Chord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114051.png",
+      "rarity": 4
+    },
+    {
+      "id": 114052,
+      "name": "Echo of an Ancient Chord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114052.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112080,
+          "name": "Transoceanic Pearl",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 112086,
+          "name": "Drop of Tainted Water",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112086.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 114049,
+          "name": "Fragment of an Ancient Chord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114049.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112080,
+          "name": "Transoceanic Pearl",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 112086,
+          "name": "Drop of Tainted Water",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112086.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 114050,
+          "name": "Chapter of an Ancient Chord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114050.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112081,
+          "name": "Transoceanic Chunk",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 112087,
+          "name": "Scoop of Tainted Water",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112087.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114050,
+          "name": "Chapter of an Ancient Chord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114050.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112081,
+          "name": "Transoceanic Chunk",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112087,
+          "name": "Scoop of Tainted Water",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112087.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114051,
+          "name": "Movement of an Ancient Chord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114051.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112082,
+          "name": "Xenochromatic Crystal",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112088,
+          "name": "Newborn Tainted Hydro Phantasm",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112088.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 114051,
+          "name": "Movement of an Ancient Chord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114051.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112082,
+          "name": "Xenochromatic Crystal",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112088,
+          "name": "Newborn Tainted Hydro Phantasm",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112088.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 114052,
+          "name": "Echo of an Ancient Chord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114052.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

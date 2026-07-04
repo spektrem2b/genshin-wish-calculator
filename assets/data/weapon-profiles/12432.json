@@ -1,0 +1,316 @@
+{
+  "id": 12432,
+  "name": "Flame-Forged Insight",
+  "rarity": 4,
+  "type": "Claymore",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Claymore_Polilith.png",
+  "ascensionMaterials": [
+    {
+      "id": 112080,
+      "name": "Transoceanic Pearl",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+      "rarity": 1
+    },
+    {
+      "id": 112081,
+      "name": "Transoceanic Chunk",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+      "rarity": 2
+    },
+    {
+      "id": 112082,
+      "name": "Xenochromatic Crystal",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+      "rarity": 3
+    },
+    {
+      "id": 112119,
+      "name": "Cold-Cracked Shellshard",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112119.png",
+      "rarity": 2
+    },
+    {
+      "id": 112120,
+      "name": "Warm Back-Shell",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112120.png",
+      "rarity": 3
+    },
+    {
+      "id": 112121,
+      "name": "Blazing Prismshell",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112121.png",
+      "rarity": 4
+    },
+    {
+      "id": 114065,
+      "name": "Delirious Decadence of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114065.png",
+      "rarity": 2
+    },
+    {
+      "id": 114066,
+      "name": "Delirious Desolation of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114066.png",
+      "rarity": 3
+    },
+    {
+      "id": 114067,
+      "name": "Delirious Demeanor of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114067.png",
+      "rarity": 4
+    },
+    {
+      "id": 114068,
+      "name": "Delirious Divinity of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114068.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112080,
+      "name": "Transoceanic Pearl",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+      "rarity": 1
+    },
+    {
+      "id": 112081,
+      "name": "Transoceanic Chunk",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+      "rarity": 2
+    },
+    {
+      "id": 112082,
+      "name": "Xenochromatic Crystal",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+      "rarity": 3
+    },
+    {
+      "id": 112119,
+      "name": "Cold-Cracked Shellshard",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112119.png",
+      "rarity": 2
+    },
+    {
+      "id": 112120,
+      "name": "Warm Back-Shell",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112120.png",
+      "rarity": 3
+    },
+    {
+      "id": 112121,
+      "name": "Blazing Prismshell",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112121.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114065,
+      "name": "Delirious Decadence of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114065.png",
+      "rarity": 2
+    },
+    {
+      "id": 114066,
+      "name": "Delirious Desolation of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114066.png",
+      "rarity": 3
+    },
+    {
+      "id": 114067,
+      "name": "Delirious Demeanor of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114067.png",
+      "rarity": 4
+    },
+    {
+      "id": 114068,
+      "name": "Delirious Divinity of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114068.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112080,
+          "name": "Transoceanic Pearl",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 112119,
+          "name": "Cold-Cracked Shellshard",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112119.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 114065,
+          "name": "Delirious Decadence of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114065.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112080,
+          "name": "Transoceanic Pearl",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112080.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 112119,
+          "name": "Cold-Cracked Shellshard",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112119.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 114066,
+          "name": "Delirious Desolation of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114066.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112081,
+          "name": "Transoceanic Chunk",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 112120,
+          "name": "Warm Back-Shell",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112120.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114066,
+          "name": "Delirious Desolation of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114066.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112081,
+          "name": "Transoceanic Chunk",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112081.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112120,
+          "name": "Warm Back-Shell",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112120.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114067,
+          "name": "Delirious Demeanor of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114067.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112082,
+          "name": "Xenochromatic Crystal",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112121,
+          "name": "Blazing Prismshell",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112121.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 114067,
+          "name": "Delirious Demeanor of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114067.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112082,
+          "name": "Xenochromatic Crystal",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112082.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112121,
+          "name": "Blazing Prismshell",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112121.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 114068,
+          "name": "Delirious Divinity of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114068.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

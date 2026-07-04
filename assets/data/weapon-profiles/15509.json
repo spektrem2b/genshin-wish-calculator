@@ -1,0 +1,316 @@
+{
+  "id": 15509,
+  "name": "Thundering Pulse",
+  "rarity": 5,
+  "type": "Bow",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Bow_Narukami.png",
+  "ascensionMaterials": [
+    {
+      "id": 112011,
+      "name": "Firm Arrowhead",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112011.png",
+      "rarity": 1
+    },
+    {
+      "id": 112012,
+      "name": "Sharp Arrowhead",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112012.png",
+      "rarity": 2
+    },
+    {
+      "id": 112013,
+      "name": "Weathered Arrowhead",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112013.png",
+      "rarity": 3
+    },
+    {
+      "id": 112050,
+      "name": "Dismal Prism",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112050.png",
+      "rarity": 2
+    },
+    {
+      "id": 112051,
+      "name": "Crystal Prism",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112051.png",
+      "rarity": 3
+    },
+    {
+      "id": 112052,
+      "name": "Polarizing Prism",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112052.png",
+      "rarity": 4
+    },
+    {
+      "id": 114029,
+      "name": "Narukami's Wisdom",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114029.png",
+      "rarity": 2
+    },
+    {
+      "id": 114030,
+      "name": "Narukami's Joy",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114030.png",
+      "rarity": 3
+    },
+    {
+      "id": 114031,
+      "name": "Narukami's Affection",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114031.png",
+      "rarity": 4
+    },
+    {
+      "id": 114032,
+      "name": "Narukami's Valor",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114032.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112011,
+      "name": "Firm Arrowhead",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112011.png",
+      "rarity": 1
+    },
+    {
+      "id": 112012,
+      "name": "Sharp Arrowhead",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112012.png",
+      "rarity": 2
+    },
+    {
+      "id": 112013,
+      "name": "Weathered Arrowhead",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112013.png",
+      "rarity": 3
+    },
+    {
+      "id": 112050,
+      "name": "Dismal Prism",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112050.png",
+      "rarity": 2
+    },
+    {
+      "id": 112051,
+      "name": "Crystal Prism",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112051.png",
+      "rarity": 3
+    },
+    {
+      "id": 112052,
+      "name": "Polarizing Prism",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112052.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114029,
+      "name": "Narukami's Wisdom",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114029.png",
+      "rarity": 2
+    },
+    {
+      "id": 114030,
+      "name": "Narukami's Joy",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114030.png",
+      "rarity": 3
+    },
+    {
+      "id": 114031,
+      "name": "Narukami's Affection",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114031.png",
+      "rarity": 4
+    },
+    {
+      "id": 114032,
+      "name": "Narukami's Valor",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114032.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 10000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112011,
+          "name": "Firm Arrowhead",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112011.png",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 112050,
+          "name": "Dismal Prism",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112050.png",
+          "rarity": 2,
+          "qty": 5
+        },
+        {
+          "id": 114029,
+          "name": "Narukami's Wisdom",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114029.png",
+          "rarity": 2,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112011,
+          "name": "Firm Arrowhead",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112011.png",
+          "rarity": 1,
+          "qty": 12
+        },
+        {
+          "id": 112050,
+          "name": "Dismal Prism",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112050.png",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 114030,
+          "name": "Narukami's Joy",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114030.png",
+          "rarity": 3,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112012,
+          "name": "Sharp Arrowhead",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112012.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112051,
+          "name": "Crystal Prism",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112051.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 114030,
+          "name": "Narukami's Joy",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114030.png",
+          "rarity": 3,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112012,
+          "name": "Sharp Arrowhead",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112012.png",
+          "rarity": 2,
+          "qty": 14
+        },
+        {
+          "id": 112051,
+          "name": "Crystal Prism",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112051.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 114031,
+          "name": "Narukami's Affection",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114031.png",
+          "rarity": 4,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 55000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112013,
+          "name": "Weathered Arrowhead",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112013.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 112052,
+          "name": "Polarizing Prism",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112052.png",
+          "rarity": 4,
+          "qty": 14
+        },
+        {
+          "id": 114031,
+          "name": "Narukami's Affection",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114031.png",
+          "rarity": 4,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 65000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112013,
+          "name": "Weathered Arrowhead",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112013.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 112052,
+          "name": "Polarizing Prism",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112052.png",
+          "rarity": 4,
+          "qty": 27
+        },
+        {
+          "id": 114032,
+          "name": "Narukami's Valor",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114032.png",
+          "rarity": 5,
+          "qty": 6
+        }
+      ]
+    }
+  ]
+}

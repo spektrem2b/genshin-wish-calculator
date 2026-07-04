@@ -5,6 +5,9 @@
             --accent-purple: #a255ff;
             --accent-purple-dark: #7b2cbf;
             --accent-gold: #f4d35e;
+            --accent-blue: #3ea8e8;
+            --accent-green: #8fd97a;
+            --accent-gray: #9aa0ac;
             --text-main: #f0f0f5;
             --text-muted: #8b8c9f;
             --border-color: rgba(255, 255, 255, 0.08);
@@ -215,6 +218,11 @@
 
         .el-icon { width: 13px; height: 13px; vertical-align: -2px; flex-shrink: 0; margin-right: 3px; object-fit: contain; }
         .gold-star { color: var(--accent-gold); font-weight: 700; }
+        .rarity-5 { border-color: var(--accent-gold) !important; }
+        .rarity-4 { border-color: var(--accent-purple) !important; }
+        .rarity-3 { border-color: var(--accent-blue) !important; }
+        .rarity-2 { border-color: var(--accent-green) !important; }
+        .rarity-1 { border-color: var(--accent-gray) !important; }
 
         .avatar-badge {
             position: relative;
@@ -409,6 +417,7 @@
             object-fit: cover;
             flex: none;
             background: rgba(255,255,255,0.04);
+            border: 2px solid var(--border-color);
         }
         .cost-material-icon-placeholder {
             display: flex;

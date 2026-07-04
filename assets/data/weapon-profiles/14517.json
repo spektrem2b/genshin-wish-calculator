@@ -1,0 +1,316 @@
+{
+  "id": 14517,
+  "name": "Starcaller's Watch",
+  "rarity": 5,
+  "type": "Catalyst",
+  "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Figurines.png",
+  "ascensionMaterials": [
+    {
+      "id": 112104,
+      "name": "Sentry's Wooden Whistle",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112104.png",
+      "rarity": 1
+    },
+    {
+      "id": 112105,
+      "name": "Warrior's Metal Whistle",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112105.png",
+      "rarity": 2
+    },
+    {
+      "id": 112106,
+      "name": "Saurian-Crowned Warrior's Golden Whistle",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112106.png",
+      "rarity": 3
+    },
+    {
+      "id": 112107,
+      "name": "Shard of a Shattered Will",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112107.png",
+      "rarity": 2
+    },
+    {
+      "id": 112108,
+      "name": "Locus of a Clear Will",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112108.png",
+      "rarity": 3
+    },
+    {
+      "id": 112109,
+      "name": "Sigil of a Striding Will",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112109.png",
+      "rarity": 4
+    },
+    {
+      "id": 114065,
+      "name": "Delirious Decadence of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114065.png",
+      "rarity": 2
+    },
+    {
+      "id": 114066,
+      "name": "Delirious Desolation of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114066.png",
+      "rarity": 3
+    },
+    {
+      "id": 114067,
+      "name": "Delirious Demeanor of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114067.png",
+      "rarity": 4
+    },
+    {
+      "id": 114068,
+      "name": "Delirious Divinity of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114068.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112104,
+      "name": "Sentry's Wooden Whistle",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112104.png",
+      "rarity": 1
+    },
+    {
+      "id": 112105,
+      "name": "Warrior's Metal Whistle",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112105.png",
+      "rarity": 2
+    },
+    {
+      "id": 112106,
+      "name": "Saurian-Crowned Warrior's Golden Whistle",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112106.png",
+      "rarity": 3
+    },
+    {
+      "id": 112107,
+      "name": "Shard of a Shattered Will",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112107.png",
+      "rarity": 2
+    },
+    {
+      "id": 112108,
+      "name": "Locus of a Clear Will",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112108.png",
+      "rarity": 3
+    },
+    {
+      "id": 112109,
+      "name": "Sigil of a Striding Will",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112109.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114065,
+      "name": "Delirious Decadence of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114065.png",
+      "rarity": 2
+    },
+    {
+      "id": 114066,
+      "name": "Delirious Desolation of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114066.png",
+      "rarity": 3
+    },
+    {
+      "id": 114067,
+      "name": "Delirious Demeanor of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114067.png",
+      "rarity": 4
+    },
+    {
+      "id": 114068,
+      "name": "Delirious Divinity of the Sacred Lord",
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114068.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 10000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112104,
+          "name": "Sentry's Wooden Whistle",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112104.png",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 112107,
+          "name": "Shard of a Shattered Will",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112107.png",
+          "rarity": 2,
+          "qty": 5
+        },
+        {
+          "id": 114065,
+          "name": "Delirious Decadence of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114065.png",
+          "rarity": 2,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112104,
+          "name": "Sentry's Wooden Whistle",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112104.png",
+          "rarity": 1,
+          "qty": 12
+        },
+        {
+          "id": 112107,
+          "name": "Shard of a Shattered Will",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112107.png",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 114066,
+          "name": "Delirious Desolation of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114066.png",
+          "rarity": 3,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112105,
+          "name": "Warrior's Metal Whistle",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112105.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112108,
+          "name": "Locus of a Clear Will",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112108.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 114066,
+          "name": "Delirious Desolation of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114066.png",
+          "rarity": 3,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112105,
+          "name": "Warrior's Metal Whistle",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112105.png",
+          "rarity": 2,
+          "qty": 14
+        },
+        {
+          "id": 112108,
+          "name": "Locus of a Clear Will",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112108.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 114067,
+          "name": "Delirious Demeanor of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114067.png",
+          "rarity": 4,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 55000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112106,
+          "name": "Saurian-Crowned Warrior's Golden Whistle",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112106.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 112109,
+          "name": "Sigil of a Striding Will",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112109.png",
+          "rarity": 4,
+          "qty": 14
+        },
+        {
+          "id": 114067,
+          "name": "Delirious Demeanor of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114067.png",
+          "rarity": 4,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 65000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112106,
+          "name": "Saurian-Crowned Warrior's Golden Whistle",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112106.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 112109,
+          "name": "Sigil of a Striding Will",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112109.png",
+          "rarity": 4,
+          "qty": 27
+        },
+        {
+          "id": 114068,
+          "name": "Delirious Divinity of the Sacred Lord",
+          "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_114068.png",
+          "rarity": 5,
+          "qty": 6
+        }
+      ]
+    }
+  ]
+}
