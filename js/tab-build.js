@@ -1,6 +1,8 @@
 (function () {
 
     const SAVE_KEY = 'genshin_build_tab_v1';
+    const KAMERA_SAVE_KEY = 'genshin_kamera_inventory_v1';
+    let kameraInventory = null;
 
     const LEVEL_STEPS = ['1', '20', '40', '50', '60', '70', '80', '90'];
     const SOFT_CAP = 10;
@@ -1024,6 +1026,61 @@
         return b;
     }
 
+    // --- InventoryKamera import ---
+
+    function handleKameraImport(file) {
+        const statusEl = document.getElementById('kameraImportStatus');
+        const reader = new FileReader();
+        reader.onload = (e) => {
+            let parsed;
+            try {
+                parsed = JSON.parse(e.target.result);
+            } catch (err) {
+                if (statusEl) statusEl.innerHTML = `<span style="color:var(--danger);">Couldn't read that file — not valid JSON.</span>`;
+                return;
+            }
+
+            if (!parsed || parsed.format !== 'GOOD' || !Array.isArray(parsed.characters) || !Array.isArray(parsed.weapons) || typeof parsed.materials !== 'object') {
+                if (statusEl) statusEl.innerHTML = `<span style="color:var(--danger);">That doesn't look like a GOOD-format InventoryKamera export — missing expected fields.</span>`;
+                return;
+            }
+
+            // Only keep what we actually use — characters, weapons, materials.
+            // Anything else in the file (artifacts, etc.) is never read or stored.
+            kameraInventory = {
+                characters: parsed.characters,
+                weapons: parsed.weapons,
+                materials: parsed.materials,
+                importedAt: Date.now(),
+            };
+
+            try {
+                localStorage.setItem(KAMERA_SAVE_KEY, JSON.stringify(kameraInventory));
+            } catch (err) { /* ignore, non-critical */ }
+
+            if (statusEl) {
+                statusEl.innerHTML = `Imported ${kameraInventory.characters.length} characters, ${kameraInventory.weapons.length} weapons, ${Object.keys(kameraInventory.materials).length} material types.`;
+            }
+            renderBuilds();
+        };
+        reader.onerror = () => {
+            if (statusEl) statusEl.innerHTML = `<span style="color:var(--danger);">Couldn't read that file.</span>`;
+        };
+        reader.readAsText(file);
+    }
+
+    function loadKameraInventory() {
+        try {
+            const raw = localStorage.getItem(KAMERA_SAVE_KEY);
+            if (!raw) return;
+            kameraInventory = JSON.parse(raw);
+            const statusEl = document.getElementById('kameraImportStatus');
+            if (statusEl && kameraInventory) {
+                statusEl.innerHTML = `Imported ${kameraInventory.characters.length} characters, ${kameraInventory.weapons.length} weapons, ${Object.keys(kameraInventory.materials).length} material types.`;
+            }
+        } catch (e) { kameraInventory = null; }
+    }
+
     // --- persistence ---
 
     function saveState() {
@@ -1082,6 +1139,18 @@
             addBtn.addEventListener('click', addBlankBuild);
         }
 
+        const kameraBtn = document.getElementById('kameraImportBtn');
+        const kameraInput = document.getElementById('kameraFileInput');
+        if (kameraBtn && kameraInput && !kameraBtn.dataset.wired) {
+            kameraBtn.dataset.wired = '1';
+            kameraBtn.addEventListener('click', () => kameraInput.click());
+            kameraInput.addEventListener('change', (e) => {
+                const file = e.target.files && e.target.files[0];
+                kameraInput.value = ''; // allow re-selecting the same file later
+                if (file) handleKameraImport(file);
+            });
+        }
+
         if (!document.body.dataset.buildOutsideClickWired) {
             document.body.dataset.buildOutsideClickWired = '1';
             document.addEventListener('click', (e) => {
@@ -1118,6 +1187,7 @@
     window.activateBuildTab = function () {
         if (!initialized) {
             loadState();
+            loadKameraInventory();
             initGlobalHandlers();
             initialized = true;
         }
