@@ -436,6 +436,16 @@
             color: var(--text-muted);
             flex: none;
         }
+        .cost-material-covered {
+            color: var(--success);
+        }
+        .cost-material-shortfall {
+            color: var(--text-main);
+        }
+        .cost-material-owned-note {
+            color: var(--text-muted);
+            font-size: 0.78rem;
+        }
         .cost-row-label {
             display: flex;
             flex-direction: column;

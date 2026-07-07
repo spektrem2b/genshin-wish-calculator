@@ -2,7 +2,42 @@
 
     const SAVE_KEY = 'genshin_build_tab_v1';
     const KAMERA_SAVE_KEY = 'genshin_kamera_inventory_v1';
+    const KAMERA_OVERRIDE_SAVE_KEY = 'genshin_kamera_manual_overrides_v1';
     let kameraInventory = null;
+    let manualOverrides = {}; // { [GOOD key]: number } — user-entered counts for items InventoryKamera failed to scan
+
+    // Some InventoryKamera versions have a known bug where scanning gets
+    // interrupted (e.g. erroring on the Traveler) and silently reports
+    // "done" without ever reaching these items, so they're just absent from
+    // the export rather than genuinely zero. These are the only items we
+    // let the user manually fill in, and ONLY when they're missing from the
+    // import — if a future InventoryKamera version scans them correctly,
+    // the override input for that item disappears on its own.
+    const MANUAL_OVERRIDE_ITEMS = [
+        { key: 'HerosWit', label: "Hero's Wit" },
+        { key: 'AdventurersExperience', label: "Adventurer's Experience" },
+        { key: 'WanderersAdvice', label: "Wanderer's Advice" },
+        { key: 'MysticEnhancementOre', label: "Mystic Enhancement Ore" },
+    ];
+
+    function loadManualOverrides() {
+        try {
+            const raw = localStorage.getItem(KAMERA_OVERRIDE_SAVE_KEY);
+            manualOverrides = raw ? JSON.parse(raw) : {};
+        } catch (e) { manualOverrides = {}; }
+    }
+
+    function saveManualOverrides() {
+        try { localStorage.setItem(KAMERA_OVERRIDE_SAVE_KEY, JSON.stringify(manualOverrides)); }
+        catch (e) { /* ignore, non-critical */ }
+    }
+
+    // Keys missing from the current import — these are the only ones the
+    // override panel should show inputs for.
+    function missingOverrideItems() {
+        const present = (kameraInventory && kameraInventory.materials) || {};
+        return MANUAL_OVERRIDE_ITEMS.filter(item => !(item.key in present));
+    }
 
     const LEVEL_STEPS = ['1', '20', '40', '50', '60', '70', '80', '90'];
     const SOFT_CAP = 10;
@@ -325,10 +360,19 @@
     // to catch up, so they'd sit frozen at whatever they were on the last
     // full render (e.g. the 1/1/1 defaults right after adding a build).
     function refreshCostDisplay(buildId) {
-        const build = builds.find(b => b.id === buildId);
-        if (!build) return;
+        const idx = builds.findIndex(b => b.id === buildId);
+        if (idx === -1) return;
+        const build = builds[idx];
         const cost = calculateBuildCost(build);
         if (!cost) return; // profile not loaded yet — full render will handle it
+
+        // Fast-forward the shared pool through every earlier card (in the
+        // same order they're displayed) so this card's "have enough" check
+        // reflects what's actually left, not the full stash all over again.
+        const pool = freshInventoryPool();
+        for (let i = 0; i < idx; i++) {
+            depletePoolForCost(pool, calculateBuildCost(builds[i]));
+        }
 
         const totalEl = document.getElementById(`costTotalMora_${buildId}`);
         if (totalEl) totalEl.textContent = `${formatMora(cost.totalMora)} Mora`;
@@ -336,18 +380,18 @@
         const ascMoraEl = document.getElementById(`ascMora_${buildId}`);
         if (ascMoraEl) ascMoraEl.textContent = `${formatMora(cost.ascension.mora)} Mora`;
         const ascMatsEl = document.getElementById(`ascMats_${buildId}`);
-        if (ascMatsEl) ascMatsEl.innerHTML = materialsSummaryHtml(cost.ascension.materials);
+        if (ascMatsEl) ascMatsEl.innerHTML = materialsSummaryHtml(cost.ascension.materials, pool);
 
         const talMoraEl = document.getElementById(`talMora_${buildId}`);
         if (talMoraEl) talMoraEl.textContent = `${formatMora(cost.talents.mora)} Mora`;
         const talMatsEl = document.getElementById(`talMats_${buildId}`);
-        if (talMatsEl) talMatsEl.innerHTML = materialsSummaryHtml(cost.talents.materials);
+        if (talMatsEl) talMatsEl.innerHTML = materialsSummaryHtml(cost.talents.materials, pool);
 
         if (cost.weapon) {
             const weaponMoraEl = document.getElementById(`weaponMora_${buildId}`);
             if (weaponMoraEl) weaponMoraEl.textContent = `${formatMora(cost.weapon.mora)} Mora`;
             const weaponMatsEl = document.getElementById(`weaponMats_${buildId}`);
-            if (weaponMatsEl) weaponMatsEl.innerHTML = materialsSummaryHtml(cost.weapon.materials);
+            if (weaponMatsEl) weaponMatsEl.innerHTML = materialsSummaryHtml(cost.weapon.materials, pool);
         }
     }
 
@@ -395,7 +439,76 @@
         }
     }
 
-    function materialsSummaryHtml(materials) {
+    // Mirrors GOOD format's key convention (InventoryKamera export):
+    // strip apostrophes (kept glued, e.g. "Hero's" -> "Heros"), then
+    // PascalCase every remaining word — including lowercase joining
+    // words like "of"/"to" which Ambr's names don't capitalize but
+    // GOOD keys do ("Teachings of Freedom" -> "TeachingsOfFreedom").
+    // Verified against a real export: 100% match including talent
+    // books, EXP books, and all previously-working cases.
+    function normalizeGoodKey(name) {
+        return String(name || '')
+            .replace(/'/g, '')
+            .split(/[\s\-.]+/)
+            .filter(Boolean)
+            .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+            .join('');
+    }
+
+    function getOwnedQty(materialId, materialName) {
+        if (!kameraInventory || !kameraInventory.materials) return null;
+        if (materialId === 202) return kameraInventory.materials.Mora || 0; // Mora itself
+        const key = normalizeGoodKey(materialName);
+        const owned = kameraInventory.materials[key];
+        if (typeof owned === 'number') return owned;
+        return typeof manualOverrides[key] === 'number' ? manualOverrides[key] : 0;
+    }
+
+    // --- Shared inventory pool (fixes double-counting across build cards) ---
+    // Most materials (character ascension gems, specific talent books, boss
+    // drops) are only ever needed by ONE build card, so comparing that card's
+    // need against your full stash "just works" by coincidence. But EXP books
+    // (Hero's Wit/Adventurer's Experience/Wanderer's Advice) and Mystic
+    // Enhancement Ore are needed by EVERY character/weapon card. Without a
+    // shared pool, each card independently checks its need against your full
+    // owned amount and would happily show "have enough" on 5 different cards
+    // using the same 10 books. freshInventoryPool() makes a mutable copy of
+    // owned quantities; claimFromPool() deducts what a card claims so the
+    // NEXT card (in the same builds-array order) sees the true leftover.
+    function freshInventoryPool() {
+        if (!kameraInventory || !kameraInventory.materials) return null;
+        const pool = Object.assign({}, kameraInventory.materials);
+        // Only fill in an override for a key the import genuinely lacks —
+        // never let a manual number override real scanned data.
+        MANUAL_OVERRIDE_ITEMS.forEach(item => {
+            if (!(item.key in pool) && typeof manualOverrides[item.key] === 'number') {
+                pool[item.key] = manualOverrides[item.key];
+            }
+        });
+        return pool;
+    }
+
+    function claimFromPool(pool, materialId, materialName, qtyNeeded) {
+        if (!pool) return null;
+        if (materialId === 202) return pool.Mora || 0; // Mora itself — not depleted here
+        const key = normalizeGoodKey(materialName);
+        const owned = typeof pool[key] === 'number' ? pool[key] : 0;
+        pool[key] = Math.max(0, owned - Math.max(0, qtyNeeded));
+        return owned;
+    }
+
+    // Depletes `pool` for a build's already-computed cost without rendering
+    // anything — used to "fast-forward" through earlier build cards so a
+    // single card's refresh still sees the correct leftover amounts.
+    function depletePoolForCost(pool, cost) {
+        if (!pool || !cost) return;
+        const claimAll = (materials) => (materials || []).forEach(m => claimFromPool(pool, m.id, m.name, m.qty || 0));
+        claimAll(cost.ascension && cost.ascension.materials);
+        claimAll(cost.talents && cost.talents.materials);
+        if (cost.weapon) claimAll(cost.weapon.materials);
+    }
+
+    function materialsSummaryHtml(materials, pool) {
         if (!materials.length) return '<span class="cost-placeholder">—</span>';
         const byCategory = {};
         materials.forEach(m => {
@@ -408,11 +521,24 @@
                 const icon = m.icon
                     ? `<img class="cost-material-icon rarity-${m.rarity || 1}" src="${m.icon}" alt="">`
                     : `<div class="cost-material-icon cost-material-icon-placeholder rarity-${m.rarity || 1}">?</div>`;
+
+                const owned = pool ? claimFromPool(pool, m.id, m.name, m.qty || 0) : getOwnedQty(m.id, m.name);
+                let qtyHtml;
+                if (owned === null) {
+                    // No inventory imported — show plain total, as before.
+                    qtyHtml = `<span class="cost-material-qty">×${formatMora(m.qty)}</span>`;
+                } else if (owned >= m.qty) {
+                    qtyHtml = `<span class="cost-material-qty cost-material-covered">✓ have enough</span>`;
+                } else {
+                    const remaining = m.qty - owned;
+                    qtyHtml = `<span class="cost-material-qty cost-material-shortfall">${formatMora(remaining)} more <span class="cost-material-owned-note">(${formatMora(owned)}/${formatMora(m.qty)})</span></span>`;
+                }
+
                 return `
                     <div class="cost-material-row">
                         ${icon}
                         <span class="cost-material-name">${m.name}</span>
-                        <span class="cost-material-qty">×${formatMora(m.qty)}</span>
+                        ${qtyHtml}
                     </div>`;
             }).join('');
             return `<div class="cost-material-tier"><div class="cost-material-tier-label">${cat}</div>${rows}</div>`;
@@ -657,7 +783,7 @@
         </div>`;
     }
 
-    function renderBuildCard(build) {
+    function renderBuildCard(build, pool) {
         if (!build.character) return renderBlankCard(build);
 
         const c = build.character;
@@ -704,7 +830,7 @@
                 </div>`;
             }
             const wMora = cost && cost.weapon ? `${formatMora(cost.weapon.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
-            const wMats = cost && cost.weapon ? materialsSummaryHtml(cost.weapon.materials) : '<span class="cost-placeholder">—</span>';
+            const wMats = cost && cost.weapon ? materialsSummaryHtml(cost.weapon.materials, pool) : '<span class="cost-placeholder">—</span>';
             return `
                 <div class="cost-row" style="margin-top:14px;">
                     <span class="cost-row-label">Weapon <span class="cost-row-plan" id="planWeaponLevel_${build.id}">→ ${build.weaponLevel.to}</span></span>
@@ -800,9 +926,9 @@
                 const cost = calculateBuildCost(build);
                 const totalMora = cost ? `${formatMora(cost.totalMora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
                 const ascMora = cost ? `${formatMora(cost.ascension.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
-                const ascMats = cost ? materialsSummaryHtml(cost.ascension.materials) : '<span class="cost-placeholder">—</span>';
+                const ascMats = cost ? materialsSummaryHtml(cost.ascension.materials, pool) : '<span class="cost-placeholder">—</span>';
                 const talMora = cost ? `${formatMora(cost.talents.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
-                const talMats = cost ? materialsSummaryHtml(cost.talents.materials) : '<span class="cost-placeholder">—</span>';
+                const talMats = cost ? materialsSummaryHtml(cost.talents.materials, pool) : '<span class="cost-placeholder">—</span>';
                 const loadingNote = build.character && !build.profile
                     ? `<div class="explanation" style="margin:0 0 10px;">Loading build data…</div>` : '';
                 return `
@@ -859,7 +985,8 @@
             attachCardListeners();
             return;
         }
-        wrap.innerHTML = builds.map(renderBuildCard).join('');
+        const pool = freshInventoryPool();
+        wrap.innerHTML = builds.map(b => renderBuildCard(b, pool)).join('');
         attachCardListeners();
     }
 
@@ -1026,7 +1153,77 @@
         return b;
     }
 
+    // --- Manual override panel ---
+    // Keeps the "+ Add" button honest about what it'll do, and shows/hides
+    // the Reset button depending on whether there's anything to reset.
+    function syncKameraButtonsUI() {
+        const kameraBtn = document.getElementById('kameraImportBtn');
+        const resetBtn = document.getElementById('kameraResetBtn');
+        if (kameraBtn) kameraBtn.textContent = kameraInventory ? '↻ Replace InventoryKamera .json' : '+ Add InventoryKamera .json';
+        if (resetBtn) resetBtn.classList.toggle('hidden', !kameraInventory);
+    }
+
+    // Shows one number input per material InventoryKamera failed to include
+    // in the import. Disappears entirely once nothing's missing (either
+    // because the user filled everything in, or a future InventoryKamera
+    // version scans it correctly on its own).
+    function renderOverridePanel() {
+        const panel = document.getElementById('kameraOverridePanel');
+        if (!panel) return;
+
+        if (!kameraInventory) {
+            panel.classList.add('hidden');
+            panel.innerHTML = '';
+            return;
+        }
+
+        const missing = missingOverrideItems();
+        if (!missing.length) {
+            panel.classList.add('hidden');
+            panel.innerHTML = '';
+            return;
+        }
+
+        panel.classList.remove('hidden');
+        panel.innerHTML = `
+            <div style="color:var(--danger); font-size:0.85rem; margin-bottom:8px;">
+                Your InventoryKamera export didn't include ${missing.length === 1 ? 'this item' : 'these items'}.
+                Enter how many you actually own and they'll count toward your builds:
+            </div>
+            ${missing.map(item => `
+                <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
+                    <label style="flex:1; font-size:0.9rem;">${item.label}</label>
+                    <input type="number" min="0" step="1" class="kamera-override-input" data-override-key="${item.key}"
+                        placeholder="0" value="${typeof manualOverrides[item.key] === 'number' ? manualOverrides[item.key] : ''}"
+                        style="width:100px;">
+                </div>
+            `).join('')}
+        `;
+
+        panel.querySelectorAll('.kamera-override-input').forEach(input => {
+            input.addEventListener('input', () => {
+                const key = input.dataset.overrideKey;
+                if (input.value === '') {
+                    delete manualOverrides[key];
+                } else {
+                    const val = Math.max(0, parseInt(input.value, 10) || 0);
+                    manualOverrides[key] = val;
+                }
+                saveManualOverrides();
+                renderBuilds();
+            });
+        });
+    }
+
     // --- InventoryKamera import ---
+
+    function kameraStatusMessage(inv) {
+        const matCount = Object.keys(inv.materials).length;
+        if (!inv.characters.length && !inv.weapons.length) {
+            return `Imported ${matCount} material types (materials-only scan — no character/weapon data included).`;
+        }
+        return `Imported ${inv.characters.length} characters, ${inv.weapons.length} weapons, ${matCount} material types.`;
+    }
 
     function handleKameraImport(file) {
         const statusEl = document.getElementById('kameraImportStatus');
@@ -1040,16 +1237,24 @@
                 return;
             }
 
-            if (!parsed || parsed.format !== 'GOOD' || !Array.isArray(parsed.characters) || !Array.isArray(parsed.weapons) || typeof parsed.materials !== 'object') {
+            if (!parsed || parsed.format !== 'GOOD' || typeof parsed.materials !== 'object' || parsed.materials === null) {
                 if (statusEl) statusEl.innerHTML = `<span style="color:var(--danger);">That doesn't look like a GOOD-format InventoryKamera export — missing expected fields.</span>`;
                 return;
             }
 
+            // characters/weapons are optional — a scan with only "Materials"
+            // and "Char Development Items" checked in InventoryKamera won't
+            // include them at all, and that's a perfectly valid import for
+            // this tab's purposes (it only needs materials to check coverage
+            // against your existing build cards).
+            const characters = Array.isArray(parsed.characters) ? parsed.characters : [];
+            const weapons = Array.isArray(parsed.weapons) ? parsed.weapons : [];
+
             // Only keep what we actually use — characters, weapons, materials.
             // Anything else in the file (artifacts, etc.) is never read or stored.
             kameraInventory = {
-                characters: parsed.characters,
-                weapons: parsed.weapons,
+                characters: characters,
+                weapons: weapons,
                 materials: parsed.materials,
                 importedAt: Date.now(),
             };
@@ -1059,8 +1264,10 @@
             } catch (err) { /* ignore, non-critical */ }
 
             if (statusEl) {
-                statusEl.innerHTML = `Imported ${kameraInventory.characters.length} characters, ${kameraInventory.weapons.length} weapons, ${Object.keys(kameraInventory.materials).length} material types.`;
+                statusEl.innerHTML = kameraStatusMessage(kameraInventory);
             }
+            renderOverridePanel();
+            syncKameraButtonsUI();
             renderBuilds();
         };
         reader.onerror = () => {
@@ -1076,9 +1283,29 @@
             kameraInventory = JSON.parse(raw);
             const statusEl = document.getElementById('kameraImportStatus');
             if (statusEl && kameraInventory) {
-                statusEl.innerHTML = `Imported ${kameraInventory.characters.length} characters, ${kameraInventory.weapons.length} weapons, ${Object.keys(kameraInventory.materials).length} material types.`;
+                statusEl.innerHTML = kameraStatusMessage(kameraInventory);
             }
         } catch (e) { kameraInventory = null; }
+        loadManualOverrides();
+        renderOverridePanel();
+        syncKameraButtonsUI();
+    }
+
+    // Wipes the imported inventory AND any manual overrides — for when
+    // someone's stuck with a stale/outdated scan and doesn't want to
+    // re-run InventoryKamera right now, or just wants a clean slate.
+    function resetKameraInventory() {
+        kameraInventory = null;
+        manualOverrides = {};
+        try {
+            localStorage.removeItem(KAMERA_SAVE_KEY);
+            localStorage.removeItem(KAMERA_OVERRIDE_SAVE_KEY);
+        } catch (e) { /* ignore, non-critical */ }
+        const statusEl = document.getElementById('kameraImportStatus');
+        if (statusEl) statusEl.textContent = '';
+        renderOverridePanel();
+        syncKameraButtonsUI();
+        renderBuilds();
     }
 
     // --- persistence ---
@@ -1148,6 +1375,16 @@
                 const file = e.target.files && e.target.files[0];
                 kameraInput.value = ''; // allow re-selecting the same file later
                 if (file) handleKameraImport(file);
+            });
+        }
+
+        const kameraResetBtn = document.getElementById('kameraResetBtn');
+        if (kameraResetBtn && !kameraResetBtn.dataset.wired) {
+            kameraResetBtn.dataset.wired = '1';
+            kameraResetBtn.addEventListener('click', () => {
+                if (confirm('Clear your imported InventoryKamera data and any manual overrides? Your build cards will stay, but material coverage will show as unknown until you import again.')) {
+                    resetKameraInventory();
+                }
             });
         }
 
