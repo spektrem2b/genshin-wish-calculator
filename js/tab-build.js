@@ -236,6 +236,63 @@
         return { mora, items };
     }
 
+    const EXP_BOOK_IDS = new Set(EXP_BOOKS.map(b => b.id));
+
+    // EXP books are fully fungible in-game — the character doesn't care
+    // whether their EXP came from Hero's Wit, Adventurer's Experience, or
+    // Wanderer's Advice, it's all just EXP. So checking each tier against
+    // your owned count independently is wrong: someone with 0 Hero's Wit
+    // but a huge stash of Adventurer's Experience is still completely
+    // covered, not "short 418 Hero's Wit." This spends owned books
+    // largest-tier-first (mirrors how expToBookCost prices a fresh
+    // purchase), and only prices out a NEW purchase for whatever EXP is
+    // still missing after every owned book of every tier has been used.
+    function computeExpBookCoverage(expNeeded, pool) {
+        if (expNeeded <= 0) return { rows: [] };
+
+        if (!pool) {
+            // No inventory imported — same plain shopping-list behavior as before.
+            return { rows: expToBookCost(expNeeded).items.map(it => ({ ...it, owned: null, need: it.qty })) };
+        }
+
+        let remaining = expNeeded;
+        const usedByKey = {};
+        EXP_BOOKS.forEach(book => {
+            const key = normalizeGoodKey(book.name);
+            const owned = typeof pool[key] === 'number' ? pool[key] : 0;
+            let use = 0;
+            if (remaining > 0 && owned > 0) {
+                const neededCount = Math.ceil(remaining / book.exp);
+                use = Math.min(owned, neededCount);
+                remaining -= use * book.exp;
+                pool[key] = owned - use;
+            }
+            usedByKey[key] = use;
+        });
+
+        // Still short after using everything you own? Price out the
+        // cheapest fresh purchase for the leftover EXP, and fold those
+        // counts back into the same tier rows so nothing gets listed twice.
+        const purchase = remaining > 0 ? expToBookCost(remaining) : { items: [] };
+        const purchaseByKey = {};
+        purchase.items.forEach(it => { purchaseByKey[normalizeGoodKey(it.name)] = it.qty; });
+
+        const rows = EXP_BOOKS.map(book => {
+            const key = normalizeGoodKey(book.name);
+            const used = usedByKey[key] || 0;
+            const toBuy = purchaseByKey[key] || 0;
+            if (used === 0 && toBuy === 0) return null; // not relevant — skip the row entirely
+            return {
+                id: book.id, name: book.name, rarity: book.rarity,
+                icon: `https://gi.yatta.moe/assets/UI/UI_ItemIcon_${book.id}.png`,
+                owned: used, need: used + toBuy,
+            };
+        }).filter(Boolean);
+
+        return { rows };
+    }
+
+
     // Weapons only ever use Mystic Enhancement Ore for EXP leveling
     // (10,000 EXP / 1,000 Mora each — a flat 0.1 Mora per EXP, unlike
     // characters' 3-tier book system). The game refunds excess EXP on
@@ -292,13 +349,14 @@
         (profile.promotes || []).forEach(p => { promotesByPhase[p.promoteLevel] = p; });
         accumulateCost(inputs.characterLevel.phasesToAscend.map(i => promotesByPhase[i]), ascensionTotals);
 
+        let charExpNeeded = 0;
         if (typeof GENSHIN_LEVEL_XP !== 'undefined') {
             const fromLvl = inputs.characterLevel.fromLevel;
             const toLvl = inputs.characterLevel.toLevel;
             const fromExp = (GENSHIN_LEVEL_XP[fromLvl] || {}).totalExp || 0;
             const toExp = (GENSHIN_LEVEL_XP[toLvl] || {}).totalExp || 0;
-            const expNeeded = Math.max(0, toExp - fromExp);
-            const bookCost = expToBookCost(expNeeded);
+            charExpNeeded = Math.max(0, toExp - fromExp);
+            const bookCost = expToBookCost(charExpNeeded);
             accumulateCost([{ moraCost: bookCost.mora, items: bookCost.items }], ascensionTotals);
         }
 
@@ -347,7 +405,7 @@
 
         return {
             totalMora: ascensionTotals.mora + talentTotals.mora + (weaponTotals ? weaponTotals.mora : 0),
-            ascension: { mora: ascensionTotals.mora, materials: materialsList(ascensionTotals) },
+            ascension: { mora: ascensionTotals.mora, materials: materialsList(ascensionTotals), expNeeded: charExpNeeded },
             talents: { mora: talentTotals.mora, materials: materialsList(talentTotals) },
             weapon: weaponTotals ? { mora: weaponTotals.mora, materials: materialsList(weaponTotals) } : null,
         };
@@ -380,7 +438,7 @@
         const ascMoraEl = document.getElementById(`ascMora_${buildId}`);
         if (ascMoraEl) ascMoraEl.textContent = `${formatMora(cost.ascension.mora)} Mora`;
         const ascMatsEl = document.getElementById(`ascMats_${buildId}`);
-        if (ascMatsEl) ascMatsEl.innerHTML = materialsSummaryHtml(cost.ascension.materials, pool);
+        if (ascMatsEl) ascMatsEl.innerHTML = materialsSummaryHtml(cost.ascension.materials, pool, cost.ascension.expNeeded);
 
         const talMoraEl = document.getElementById(`talMora_${buildId}`);
         if (talMoraEl) talMoraEl.textContent = `${formatMora(cost.talents.mora)} Mora`;
@@ -508,10 +566,23 @@
         if (cost.weapon) claimAll(cost.weapon.materials);
     }
 
-    function materialsSummaryHtml(materials, pool) {
+    function materialsSummaryHtml(materials, pool, expNeeded) {
         if (!materials.length) return '<span class="cost-placeholder">—</span>';
+
+        // EXP books (Hero's Wit / Adventurer's Experience / Wanderer's
+        // Advice) are fungible — swap the naive per-tier entries out for
+        // substitution-aware rows before bucketing into categories. Other
+        // material types (talent books, ascension gems, etc.) are NOT
+        // interchangeable 1:1 like this, so they keep the normal per-id
+        // ownership check below untouched.
+        const nonBookMaterials = materials.filter(m => !EXP_BOOK_IDS.has(m.id));
+        const hasBookItems = nonBookMaterials.length !== materials.length;
+        const displayMaterials = hasBookItems
+            ? nonBookMaterials.concat(computeExpBookCoverage(expNeeded || 0, pool).rows.map(r => ({ ...r, qty: r.need, _precomputedOwned: r.owned })))
+            : materials;
+
         const byCategory = {};
-        materials.forEach(m => {
+        displayMaterials.forEach(m => {
             const cat = materialCategory(m.id, m.rarity);
             (byCategory[cat] = byCategory[cat] || []).push(m);
         });
@@ -522,7 +593,9 @@
                     ? `<img class="cost-material-icon rarity-${m.rarity || 1}" src="${m.icon}" alt="">`
                     : `<div class="cost-material-icon cost-material-icon-placeholder rarity-${m.rarity || 1}">?</div>`;
 
-                const owned = pool ? claimFromPool(pool, m.id, m.name, m.qty || 0) : getOwnedQty(m.id, m.name);
+                const owned = Object.prototype.hasOwnProperty.call(m, '_precomputedOwned')
+                    ? m._precomputedOwned
+                    : (pool ? claimFromPool(pool, m.id, m.name, m.qty || 0) : getOwnedQty(m.id, m.name));
                 let qtyHtml;
                 if (owned === null) {
                     // No inventory imported — show plain total, as before.
@@ -926,7 +999,7 @@
                 const cost = calculateBuildCost(build);
                 const totalMora = cost ? `${formatMora(cost.totalMora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
                 const ascMora = cost ? `${formatMora(cost.ascension.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
-                const ascMats = cost ? materialsSummaryHtml(cost.ascension.materials, pool) : '<span class="cost-placeholder">—</span>';
+                const ascMats = cost ? materialsSummaryHtml(cost.ascension.materials, pool, cost.ascension.expNeeded) : '<span class="cost-placeholder">—</span>';
                 const talMora = cost ? `${formatMora(cost.talents.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
                 const talMats = cost ? materialsSummaryHtml(cost.talents.materials, pool) : '<span class="cost-placeholder">—</span>';
                 const loadingNote = build.character && !build.profile
