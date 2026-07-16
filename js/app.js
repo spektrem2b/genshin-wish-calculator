@@ -1,4 +1,4 @@
-
+console.log("BUILD a3a145f");
 function setActiveRarityTab(tab) {
     const is5 = tab === '5star';
     const is4 = tab === '4star';
