@@ -1,3 +1,4 @@
+// testlol
 function activateOddsTab() {
     initOddsPanel();
     const charInput = document.getElementById('oddsCharInput');
