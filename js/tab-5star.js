@@ -15,6 +15,41 @@ let priorityPipeline = [];
     const hasWelkinEl = document.getElementById('hasWelkin');
     const hasBPEl = document.getElementById('hasBP');
 
+    const startPatchMajorEl = document.getElementById('startPatchMajor');
+    const startPatchMinorEl = document.getElementById('startPatchMinor');
+
+    // Genshin patch numbering: X.0 through X.7 (8 minor versions), then
+    // rolls over to (X+1).0. Given a "Start Patch" (major.minor) and an
+    // offset in patches-from-now, returns the resulting "major.minor"
+    // string — e.g. start 7.0 + offset 2 = "7.2"; start 5.7 + offset 1 = "6.0".
+    function getStartPatch() {
+        const major = parseInt(startPatchMajorEl?.value) || 1;
+        let minor = parseInt(startPatchMinorEl?.value);
+        if (isNaN(minor) || minor < 0) minor = 0;
+        if (minor > 7) minor = 7;
+        return { major, minor };
+    }
+
+    function patchVersionAt(offset) {
+        const { major, minor } = getStartPatch();
+        const total = minor + Math.max(0, offset);
+        const bumpedMajor = major + Math.floor(total / 8);
+        const bumpedMinor = total % 8;
+        return `${bumpedMajor}.${bumpedMinor}`;
+    }
+
+    [startPatchMajorEl, startPatchMinorEl].forEach(el => {
+        if (!el) return;
+        el.addEventListener('input', () => {
+            if (parseInt(el.value) > 7 && el === startPatchMinorEl) el.value = '7';
+            renderPipeline();
+            renderCustomIncomeRows();
+            updateTargetPatchOptions();
+            calculateForecast();
+            saveState();
+        });
+    });
+
     function updateStarglitterHint() {
         const sg = parseInt(currentStarglitterEl.value) || 0;
         const wishes = Math.floor(sg / 5);
@@ -38,10 +73,10 @@ let priorityPipeline = [];
         for(let i = 0; i <= rangeMax; i++) {
             const opt = document.createElement('option');
             opt.value = i;
-            if (i === 0) opt.innerText = "Current Patch";
-            else if (i === 1) opt.innerText = "Next Patch";
-            else if (i === 2) opt.innerText = "2 Patches Later";
-            else opt.innerText = `${i} Patches Later`;
+            if (i === 0) opt.innerText = `Current Patch (${patchVersionAt(0)})`;
+            else if (i === 1) opt.innerText = `Next Patch (${patchVersionAt(1)})`;
+            else if (i === 2) opt.innerText = `2 Patches Later (${patchVersionAt(2)})`;
+            else opt.innerText = `${i} Patches Later (${patchVersionAt(i)})`;
             patchSelect.appendChild(opt);
         }
 
@@ -156,10 +191,10 @@ let priorityPipeline = [];
         container.innerHTML = '<label>Custom Base Wishes Per Patch</label>';
         for (let i = 0; i <= total; i++) {
             let labelStr;
-            if (i === 0) labelStr = "Current Patch";
-            else if (i === 1) labelStr = "Next Patch";
-            else if (i === 2) labelStr = "2 Patches Later";
-            else labelStr = `${i} Patches Later`;
+            if (i === 0) labelStr = `Current Patch (${patchVersionAt(0)})`;
+            else if (i === 1) labelStr = `Next Patch (${patchVersionAt(1)})`;
+            else if (i === 2) labelStr = `2 Patches Later (${patchVersionAt(2)})`;
+            else labelStr = `${i} Patches Later (${patchVersionAt(i)})`;
             container.innerHTML += `
                 <div class="custom-patch-row">
                     <div class="custom-patch-label">${labelStr}</div>
@@ -371,9 +406,9 @@ let priorityPipeline = [];
         if(!pSelect || !hSelect) return;
         const val = parseInt(pSelect.value) || 0;
         let patchLabel;
-        if (val === 0) patchLabel = "current patch";
-        else if (val === 1) patchLabel = "next patch";
-        else patchLabel = `${val} patches from now`;
+        if (val === 0) patchLabel = `current patch (${patchVersionAt(0)})`;
+        else if (val === 1) patchLabel = `next patch (${patchVersionAt(1)})`;
+        else patchLabel = `${val} patches from now (${patchVersionAt(val)})`;
         let text = val === 0 ? "Allocating base wishes" : `Allocating base + income through ${patchLabel}`;
 
         const isFirst = hSelect.value === 'first';
@@ -445,9 +480,8 @@ let priorityPipeline = [];
             div.draggable = true;
             div.setAttribute('data-id', item.id);
             let strategyClass = item.strategy === 'Hard Lock' ? 'tag-hard-lock' : (item.strategy === 'One Shot' ? 'tag-one-shot' : 'tag-optional');
-            const patchLabel = item.targetPatch === 0 ? 'Current Patch' : item.targetPatch === 1 ? 'Next Patch' : item.targetPatch === 2 ? '2 Patches Later' : `${item.targetPatch} Patches Later`;
             const halfTag = item.bannerHalf === 'first' ? (item.applyPacing !== false ? '1st Half' : '1st Half, Instant') : '2nd Half';
-            let meta = `${patchLabel} (${halfTag}) • ${item.type === 'character' ? item.constellation : 'R' + (item.refinement || 1)}`;
+            let meta = `${patchVersionAt(item.targetPatch)} · ${halfTag} • ${item.type === 'character' ? item.constellation : 'R' + (item.refinement || 1)}`;
             const isEnabled = item.enabled !== false;
             if (!isEnabled) div.classList.add('disabled-item');
             const iconHtml = avatarBadgeHtml(item.icon, elementIconPath(item.element), 52, 20);
@@ -631,7 +665,7 @@ let priorityPipeline = [];
             const firstHalf = Math.floor(full * 0.65);
             const firstHalfTotal = running + firstHalf;
             const fullTotal = running + full;
-            const label = i === 0 ? 'Current Patch' : i === 1 ? 'Next Patch' : `${i} Patches Later`;
+            const label = i === 0 ? `Current Patch (${patchVersionAt(0)})` : i === 1 ? `Next Patch (${patchVersionAt(1)})` : `${i} Patches Later (${patchVersionAt(i)})`;
 
             rows += `
                 <div class="wish-totals-row">
@@ -698,14 +732,17 @@ let priorityPipeline = [];
             const charWin = parseInt(charSoftPityEl.value) || 76;
             const wepWin = parseInt(wepSoftPityEl.value) || 65;
             if (item.type === 'character') {
+                // Post-expansion, a character entry is always exactly one
+                // copy/pull. A guaranteed win only comes from a pre-existing
+                // guarantee (item.guaranteed === 'yes', first copy only) —
+                // base pity cost, no doubling. Every other copy is its own
+                // independent 50/50, loss or no loss.
                 const pitySaved = isFirstChar ? Math.min(parseInt(charPityEl.value) || 0, charWin - 1) : 0;
                 if (item.strategy === 'One Shot') return Math.max(1, charWin - pitySaved);
 
-                const loseCount = Math.min(loses, 1);
-                const firstCopyCost = (item.guaranteed === 'yes') ? charWin : charWin * (loseCount + 1);
-                const firstCopy = firstCopyCost - pitySaved;
-                const restCopyCost = loseCount > 0 ? charWin * 2 : charWin;
-                return firstCopy + (copies - 1) * restCopyCost;
+                const guaranteed = item.guaranteed === 'yes';
+                const cost = guaranteed ? charWin : charWin * (loses > 0 ? 2 : 1);
+                return Math.max(1, cost - pitySaved);
             } else {
                 const pitySaved = isFirstWep ? Math.min(parseInt(wepPityEl.value) || 0, wepWin - 1) : 0;
                 if (item.strategy === 'One Shot') return Math.max(1, wepWin - pitySaved);
@@ -731,19 +768,28 @@ let priorityPipeline = [];
             let failed = false;
             let isFirstChar = true;
             let isFirstWep = true;
-            const enabledItems = priorityPipeline.filter(x => x.enabled !== false);
+            const radianceIndices = losePattern.radianceIndices || new Set();
+            const enabledItems = expandPipeline(priorityPipeline.filter(x => x.enabled !== false));
 
             enabledItems.forEach((item, idx) => {
                 const incomeCeiling = getIncomeCeiling(item);
                 const currentPool = incomeCeiling - totalSpent;
                 const loses = losePattern[idx] || 0;
+                const capturedRadiance = radianceIndices.has(idx);
                 const label = item.type === 'character' ? item.constellation : 'R' + (item.refinement || 1);
-                const patchLabel = item.targetPatch === 0 ? 'This Patch' : item.targetPatch === 1 ? 'Next Patch' : `+${item.targetPatch} Patches`;
+                const patchLabel = patchVersionAt(item.targetPatch);
                 const halfLabel = item.bannerHalf === 'first' ? (item.applyPacing !== false ? '1st Half' : '1st Half, Instant') : '2nd Half';
                 const timing = `${patchLabel} · ${halfLabel}`;
 
                 if (skipRemaining) {
                     rows.push({ type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'One Shot stopped here' });
+                    return;
+                }
+
+                if (loses === -1) {
+                    // Optional target deprioritized in this scenario's story —
+                    // not attempted at all, no wishes spent.
+                    rows.push({ type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'Skipped — Optional, deprioritized to protect Hard Lock targets', remaining: Math.max(0, currentPool) });
                     return;
                 }
 
@@ -756,7 +802,7 @@ let priorityPipeline = [];
                 if (currentPool >= cost) {
                     totalSpent += cost;
                     const remaining = currentPool - cost;
-                    rows.push({ type: loses > 0 ? 'lose-win' : 'win', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, loses, rawCost, cost, sgRefund, remaining });
+                    rows.push({ type: loses > 0 ? 'lose-win' : 'win', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, loses, capturedRadiance, rawCost, cost, sgRefund, remaining });
                 } else {
                     if (item.strategy === 'Hard Lock') {
                         // Must-have target that can't be afforded — this really is a
@@ -811,11 +857,17 @@ let priorityPipeline = [];
             }
 
             const rowClass = row.type === 'lose-win' ? 'row-lose-win' : 'row-win';
-            const ocClass = row.type === 'lose-win' ? 'oc-lose' : 'oc-win';
+            const ocClass = row.type === 'lose-win' ? 'oc-lose' : (row.capturedRadiance ? 'oc-radiance' : 'oc-win');
             const isWep = row.itemType === 'weapon';
-            const ocLabel = row.loses === 1
-                ? (isWep ? 'Lost 75/25' : 'Lost 55/45')
-                : (isWep ? 'Won 75/25' : 'Won 55/45');
+            const radianceIconHtml = `<img class="radiance-icon" src="assets/data/custom_icons/Item_Intertwined_Fate.webp" alt="Capture Radiance" title="Capture Radiance — guaranteed win after 2 consecutive losses" style="width:15px;height:15px;vertical-align:-2px;margin-right:4px;">`;
+            let ocLabel;
+            if (row.capturedRadiance) {
+                ocLabel = `${radianceIconHtml}<span class="radiance-text">Capture Radiance</span>`;
+            } else {
+                ocLabel = row.loses === 1
+                    ? (isWep ? 'Lost 75/25' : 'Lost 55/45')
+                    : (isWep ? 'Won 75/25' : 'Won 55/45');
+            }
             const sgHtml = (row.sgRefund > 0) ? `<div class="log-sg">~${row.sgRefund} wishes back via Starglitter</div>` : '';
             const remClass = row.remaining > 50 ? 'rem-ok' : row.remaining > 0 ? 'rem-low' : 'rem-deficit';
             return `<div class="log-row ${rowClass}">
@@ -824,7 +876,7 @@ let priorityPipeline = [];
                     <div class="log-name">${row.name} <span style="color:var(--text-muted);font-weight:400;font-size:0.85rem;">${row.label}</span></div>
                     <div class="log-name-sub">${row.timing} · ${row.strategy}</div>
                 </div>
-                <div class="log-outcome ${ocClass}">${ocLabel}</div>
+                <div class="log-outcome ${ocClass}" style="${row.capturedRadiance ? 'display:flex;align-items:center;' : ''}">${ocLabel}</div>
                 <div class="log-right">
                     <div class="log-pulls">${row.rawCost} pulls${row.cost < row.rawCost ? ` · ${row.cost} net` : ''}</div>
                     ${sgHtml}
@@ -837,33 +889,118 @@ let priorityPipeline = [];
         const enabledPipeline = priorityPipeline.filter(x => x.enabled !== false);
         const ne = enabledPipeline.length;
 
-        const bestPattern = new Array(ne).fill(0);
+        // ep = the per-copy expanded pipeline. Every scenario pattern below
+        // is an array over ep (not enabledPipeline) — a C2 target occupies
+        // TWO slots ("Tsaritsa C1", "Tsaritsa C2"), each with its own
+        // genuine win/lose roll and Capture Radiance eligibility, instead
+        // of one shared flag for the target.
+        const ep = expandPipeline(enabledPipeline);
+        const nep = ep.length;
 
-        const worstPattern = enabledPipeline.map(item => item.type === 'weapon' ? 1 : 1);
+        // groups: maps each ORIGINAL pipeline item back to the indices it
+        // occupies in ep, so the scenario-picking logic below ("first
+        // target", "last target", "priciest target"...) can still reason at
+        // target granularity while the pattern itself operates per copy.
+        const groups = enabledPipeline.map(item => {
+            const idxs = [];
+            ep.forEach((e, i) => {
+                if (item.type === 'character' ? e._sourceId === item.id : e === item) idxs.push(i);
+            });
+            return { item, idxs };
+        }).filter(g => g.idxs.length > 0); // drop targets already at goal (0 copies needed)
+
+        const bestPattern = new Array(nep).fill(0);
+
+        // Worst Case story: Hard Lock and One Shot targets are things you're
+        // always actually pulling for, so they genuinely can lose. Optional
+        // targets are discretionary — a player already having bad luck on
+        // their real priorities would rationally skip an Optional pull
+        // rather than gamble away wishes needed for what's actually locked
+        // in. So Optional items get a skip sentinel (-1) here instead of a
+        // forced loss (1): they're left alone entirely, not attempted.
+        // Marking EVERY copy of a Hard Lock/One Shot target as "attempted
+        // loss" is intentional here too — Capture Radiance below can still
+        // force a win on the banner-wide 3-in-a-row streak, but each copy
+        // is otherwise its own independent 50/50, loss or no loss.
+        const worstPattern = resolvePattern(
+            ep.map(item => {
+                if (item.type === 'character' && item.strategy !== 'Hard Lock' && item.strategy !== 'One Shot') {
+                    return -1; // skip sentinel — Optional, not attempted in Worst Case
+                }
+                return 1;
+            }),
+            ep
+        );
 
         const okScenarios = [];
 
-        if (ne >= 2) {
-            const p = new Array(ne).fill(0);
-            p[0] = enabledPipeline[0].type === 'weapon' ? 1 : 1;
-            okScenarios.push({ title: '🟡 OK-A — first target loses once, rest win', short: 'OK-A', pattern: p });
+        if (groups.length >= 2) {
+            const p = new Array(nep).fill(0);
+            p[groups[0].idxs[0]] = 1;
+            okScenarios.push({ title: '🟡 OK-A — first target loses once, rest win', short: 'OK-A', pattern: resolvePattern(p, ep) });
         }
 
-        if (ne >= 2) {
-            const p = new Array(ne).fill(0);
-            p[ne - 1] = 1;
-            okScenarios.push({ title: '🟡 OK-B — last target loses once, rest win', short: 'OK-B', pattern: p });
+        if (groups.length >= 2) {
+            const p = new Array(nep).fill(0);
+            p[groups[groups.length - 1].idxs[0]] = 1;
+            okScenarios.push({ title: '🟡 OK-B — last target loses once, rest win', short: 'OK-B', pattern: resolvePattern(p, ep) });
         }
 
-        if (ne >= 3) {
-            const p = enabledPipeline.map((_, i) => i % 2 === 1 ? 1 : 0);
-            okScenarios.push({ title: '🟡 OK-C — alternating (every other loses once)', short: 'OK-C', pattern: p });
+        if (groups.length >= 3) {
+            const p = new Array(nep).fill(0);
+            groups.forEach((g, i) => { if (i % 2 === 1) p[g.idxs[0]] = 1; });
+            okScenarios.push({ title: '🟡 OK-C — alternating (every other loses once)', short: 'OK-C', pattern: resolvePattern(p, ep) });
         }
 
-        const hasWeapon = enabledPipeline.some(item => item.type === 'weapon');
-        if (hasWeapon && ne >= 2) {
-            const p = enabledPipeline.map(item => item.type === 'weapon' ? 1 : 0);
-            okScenarios.push({ title: '🟠 OK-D — weapon(s) hit fate point (lose→guaranteed), chars win', short: 'OK-D', pattern: p });
+        const hasWeapon = groups.some(g => g.item.type === 'weapon');
+        if (hasWeapon && groups.length >= 2) {
+            const p = new Array(nep).fill(0);
+            groups.forEach(g => { if (g.item.type === 'weapon') g.idxs.forEach(i => { p[i] = 1; }); });
+            okScenarios.push({ title: '🟠 OK-D — weapon(s) hit fate point (lose→guaranteed), chars win', short: 'OK-D', pattern: resolvePattern(p, ep) });
+        }
+
+        // OK-E: losses cluster at the tail of the pipeline instead of the
+        // start. Capture Radiance only ever saves the NEXT eligible pull
+        // after 2 consecutive losses — if those 2 losses are your last two
+        // real (Hard Lock / One Shot) targets' FINAL copy, there's no
+        // later item left in this plan to receive the guaranteed win (and
+        // no next copy of that same target either, so the guarantee
+        // cascade can't save it here either — this is the genuinely worst
+        // possible timing). It doesn't vanish (it'll trigger on some future
+        // pull outside this plan), but within THIS plan you eat the full
+        // double cost on both with no offsetting save.
+        {
+            const eligibleGroups = groups.filter(g => g.item.type === 'character' && (g.item.strategy === 'Hard Lock' || g.item.strategy === 'One Shot'));
+            if (eligibleGroups.length >= 2) {
+                const p = new Array(nep).fill(0);
+                const lastTwo = eligibleGroups.slice(-2);
+                lastTwo.forEach(g => { p[g.idxs[g.idxs.length - 1]] = 1; });
+                okScenarios.push({
+                    title: '🟣 OK-E — losses land at the very end (no target left for radiance to save)',
+                    short: 'OK-E',
+                    pattern: resolvePattern(p, ep)
+                });
+            }
+        }
+
+        // OK-F: isolate the single most expensive real target — now judged
+        // directly by how many copies it needs (item.copies), not a regex
+        // guess at constellation depth — losing its FIRST copy's 50/50,
+        // with everything else in the plan winning clean. This answers a
+        // different question than OK-E: not "what if bad luck clusters",
+        // but "how much does just my single biggest gamble hurt on its own."
+        {
+            const eligibleGroups = groups.filter(g => g.item.type === 'character' && (g.item.strategy === 'Hard Lock' || g.item.strategy === 'One Shot'));
+            if (eligibleGroups.length >= 1) {
+                const priciest = eligibleGroups.reduce((a, b) => ((b.item.copies || 1) > (a.item.copies || 1) ? b : a), eligibleGroups[0]);
+                const p = new Array(nep).fill(0);
+                p[priciest.idxs[0]] = 1;
+                okScenarios.push({
+                    title: `🔵 OK-F — only your priciest target (${priciest.item.name}) loses, everything else clean`,
+                    short: 'OK-F',
+                    pattern: resolvePattern(p, ep)
+                });
+            }
         }
 
         const allScenarios = [
@@ -891,9 +1028,9 @@ let priorityPipeline = [];
             return { ...scen, rows, failed, net };
         });
 
-        const odds = computeScenarioOdds(enabledPipeline);
+        const odds = computeScenarioOdds(ep);
 
-        outputSpace.innerHTML += renderScenarioSummary(results, enabledPipeline, odds);
+        outputSpace.innerHTML += renderScenarioSummary(results, ep, odds);
 
         let gridHtml = '<div class="scenario-grid">';
         results.forEach(res => {
@@ -918,6 +1055,97 @@ let priorityPipeline = [];
     // characters resolve their 50/50 (or lose→guaranteed) at 55/45, weapons'
     // Epitomized Path resolves at 75/25. This is the same constant already
     // shown in the scenario labels ("Won 55/45", "Lost 75/25" etc).
+    // Capture Radiance: on the character (limited) banner, you cannot lose
+    // your 50/50 three times in a row — after 2 consecutive losses, the
+    // next character 50/50 is a guaranteed win. This does NOT apply to
+    // weapons (Epitomized Path is a separate fate-point system already
+    // handled via item.guaranteed), so only character-type slots are
+    // capped here.
+    //
+    // Transparency to the streak is decided per-scenario, not by strategy
+    // label: a target is only skipped over if THIS scenario's pattern
+    // actually didn't attempt it (-1) — e.g. an Optional target dropped in
+    // Worst Case. If a target WAS attempted, win or lose, it's a real pull
+    // with a real outcome and counts fully toward the streak, whether it's
+    // Hard Lock, One Shot, or Optional — the game's pity system doesn't
+    // know or care about your planning labels, only whether a pull
+    // actually happened.
+    // Splits a multi-copy character target (e.g. "Tsaritsa C2" with 2 copies
+    // needed) into one entry per copy — "Tsaritsa C1", "Tsaritsa C2" — each
+    // getting its own genuine 50/50 roll and its own Capture Radiance
+    // eligibility, instead of one shared win/lose flag standing in for the
+    // whole target. Weapon copies stay bundled: Epitomized Path's fate-point
+    // system and Capture Radiance are character-only mechanics, so splitting
+    // weapon copies wouldn't add accuracy.
+    function expandPipeline(pipeline) {
+        const expanded = [];
+        pipeline.forEach(item => {
+            if (item.type !== 'character') { expanded.push(item); return; }
+            const copies = item.copies !== undefined ? item.copies : 1;
+            if (copies <= 0) return; // already at goal — nothing to pull
+            const goalC = parseInt((item.constellation || 'C0').replace('C', '')) || 0;
+            const startConst = item.currentConst !== undefined ? item.currentConst : (goalC - copies);
+            for (let i = 0; i < copies; i++) {
+                expanded.push({
+                    ...item,
+                    copies: 1,
+                    _sourceId: item.id,
+                    _copyIndex: i,
+                    _totalCopies: copies,
+                    constellation: 'C' + (startConst + i + 1),
+                    // A pre-existing guarantee (player already lost a 50/50
+                    // before starting this plan) only ever applies to the
+                    // very first copy of a target — later copies get their
+                    // guarantee (if any) from the cascade rule below instead.
+                    guaranteed: i === 0 ? item.guaranteed : 'no'
+                });
+            }
+        });
+        return expanded;
+    }
+
+    // Resolves a raw "attempted loss" pattern (over the expanded, per-copy
+    // pipeline) into what actually happens: banner-wide Capture Radiance
+    // applied to whatever the pattern says.
+    function resolvePattern(rawPattern, expandedPipeline) {
+        return applyCaptureRadiance(rawPattern, expandedPipeline);
+    }
+
+    function applyCaptureRadiance(pattern, pipeline) {
+        const result = [...pattern];
+        const radianceIndices = new Set();
+        let consecutiveCharLosses = 0;
+        for (let i = 0; i < pipeline.length; i++) {
+            const item = pipeline[i];
+            if (item.type !== 'character') continue;
+
+            // Only a target genuinely NOT attempted this scenario (-1) is
+            // transparent to the streak — that's a real "no pull happened,"
+            // so it can neither build nor break the streak, and can't
+            // receive a forced win it was never in line for. A target that
+            // WAS attempted — win or lose, Optional or not — is a real
+            // pull with a real outcome in this story, so it counts fully:
+            // a win here resets the streak exactly like a Hard Lock win
+            // would, and a loss builds it. Strategy label is a planning
+            // concept, not something the game's pity system knows about.
+            if (result[i] === -1) continue;
+
+            if (consecutiveCharLosses >= 2) {
+                // Forced win: Capture Radiance overrides whatever the
+                // pattern said for this slot.
+                result[i] = 0;
+                radianceIndices.add(i);
+                consecutiveCharLosses = 0;
+            } else if (result[i] > 0) {
+                consecutiveCharLosses++;
+            } else {
+                consecutiveCharLosses = 0;
+            }
+        }
+        result.radianceIndices = radianceIndices;
+        return result;
+    }
+
     function itemWinProb(item) {
         return item.type === 'weapon' ? 0.75 : 0.55;
     }
@@ -927,16 +1155,45 @@ let priorityPipeline = [];
     // Mixed = everything in between (some win, some lose) — the detailed
     // combinations of that live in the OK-A/B/C/D scenario cards and table
     // below, so this stat just needs to say how likely "some mix" is overall.
-    function computeScenarioOdds(enabledPipeline) {
-        const ne = enabledPipeline.length;
-        if (ne === 0) return { bestPct: 100, mixedPct: 0, worstPct: 0 };
+    function computeScenarioOdds(ep) {
+        const nep = ep.length;
+        if (nep === 0) return { bestPct: 100, mixedPct: 0, worstPct: 0 };
 
-        let best = 1, worst = 1;
-        enabledPipeline.forEach(item => {
-            const p = itemWinProb(item);
-            best *= p;
-            worst *= (1 - p);
+        // Best-case probability is unaffected: everyone winning their first
+        // 50/50 doesn't touch Capture Radiance at all. ep is already
+        // per-copy, so a C2 target correctly contributes two independent
+        // rolls here instead of being counted once.
+        let best = 1;
+        ep.forEach(item => {
+            best *= itemWinProb(item);
         });
+
+        // Worst-case probability must follow the actual Capture-Radiance-
+        // capped, Optional-skipping pattern used in the scenario cards
+        // themselves:
+        // - Hard Lock / One Shot copies can genuinely lose: probability (1 - p).
+        // - Optional items are skipped entirely in this story: no coin flip
+        //   happens, so they contribute probability 1 (certainty), not (1-p).
+        // - A forced win (banner-wide Capture Radiance) also contributes
+        //   probability p (its normal win chance), not (1-p), since it
+        //   isn't a real flip.
+        const worstRawPattern = ep.map(item => {
+            if (item.type === 'character' && item.strategy !== 'Hard Lock' && item.strategy !== 'One Shot') {
+                return -1;
+            }
+            return 1;
+        });
+        const worstPattern = resolvePattern(worstRawPattern, ep);
+        let worst = 1;
+        ep.forEach((item, i) => {
+            const p = itemWinProb(item);
+            if (worstPattern[i] === -1) {
+                worst *= 1; // skipped — not a coin flip, certain by construction
+            } else {
+                worst *= worstPattern[i] > 0 ? (1 - p) : p;
+            }
+        });
+
         const mixed = Math.max(0, 1 - best - worst);
         return { bestPct: best * 100, mixedPct: mixed * 100, worstPct: worst * 100 };
     }
@@ -952,7 +1209,7 @@ let priorityPipeline = [];
         return oneIn > 1 ? `${str}% (1 in ${oneIn})` : `${str}%`;
     }
 
-    function renderScenarioSummary(results, enabledPipeline, odds) {
+    function renderScenarioSummary(results, ep, odds) {
         const best = results.reduce((a, b) => (b.net > a.net ? b : a), results[0]);
         const worst = results.reduce((a, b) => (b.net < a.net ? b : a), results[0]);
 
@@ -960,13 +1217,13 @@ let priorityPipeline = [];
         const worstLabel = worst.net >= 0 ? `${worst.net} wishes left` : `${Math.abs(worst.net)} wishes short`;
 
         const dotClass = { 'Best': 'scen-dot-best', 'Worst': 'scen-dot-worst' };
-        const scenDot = r => dotClass[r.short] || (r.short === 'OK-D' ? 'scen-dot-okd' : 'scen-dot-ok');
+        const scenDot = r => dotClass[r.short] || (r.short === 'OK-D' ? 'scen-dot-okd' : (r.short === 'OK-E' ? 'scen-dot-oke' : (r.short === 'OK-F' ? 'scen-dot-okf' : 'scen-dot-ok')));
 
         const headerCells = results.map(r => `
             <th class="scen-item-cell"><span class="scen-dot ${scenDot(r)}"></span>${r.short}</th>
         `).join('');
 
-        const bodyRows = enabledPipeline.map((item, idx) => {
+        const bodyRows = ep.map((item, idx) => {
             const label = item.type === 'character' ? item.constellation : 'R' + (item.refinement || 1);
             const cells = results.map(r => {
                 const row = r.rows[idx];
@@ -977,13 +1234,37 @@ let priorityPipeline = [];
                     return `<td class="scen-item-cell"><span class="scen-item-mark scen-item-short">⛔ Short</span></td>`;
                 }
                 const lost = row.loses > 0;
+                if (row.capturedRadiance) {
+                    return `<td class="scen-item-cell">
+                        <span class="scen-item-mark scen-item-radiance" style="display:inline-flex;align-items:center;gap:5px;" title="Capture Radiance — guaranteed win after 2 consecutive losses">
+                            <img class="radiance-icon" src="assets/data/custom_icons/Item_Intertwined_Fate.webp" alt="Capture Radiance" style="width:14px;height:14px;">
+                            <span class="radiance-text">Radiance</span>
+                        </span>
+                    </td>`;
+                }
                 return `<td class="scen-item-cell">
                     <span class="scen-item-mark ${lost ? 'scen-item-lose' : 'scen-item-win'}">${lost ? '❌' : '✅'} ${lost ? 'Lose' : 'Win'}</span>
                 </td>`;
             }).join('');
+
+            // Consecutive copies of the same character target (same
+            // _sourceId, produced back-to-back by expandPipeline) are
+            // grouped under one name+patch header row — only the
+            // constellation label repeats on the follow-up rows, with a
+            // touch of extra spacing above the group to separate it from
+            // the previous target.
+            const prevItem = idx > 0 ? ep[idx - 1] : null;
+            const isGroupContinuation = item.type === 'character' && prevItem &&
+                prevItem.type === 'character' && prevItem._sourceId !== undefined &&
+                item._sourceId === prevItem._sourceId;
+
+            const nameCell = isGroupContinuation
+                ? `<td class="scen-name-cell scen-name-continuation" style="padding-left:0.6em;"><span style="display:inline-block;width:6px;height:6px;border-radius:50%;background:#f2c94c;margin-right:8px;vertical-align:middle;"></span>${item.name} <span class="scen-item-sub">${label}</span></td>`
+                : `<td class="scen-name-cell">${item.name} <span class="scen-item-sub">${label}</span> <span class="scen-item-sub" style="opacity:0.6; font-size:0.85em;">${patchVersionAt(item.targetPatch)}</span></td>`;
+
             return `
-                <tr>
-                    <td class="scen-name-cell">${item.name} <span class="scen-item-sub">${label}</span></td>
+                <tr${isGroupContinuation ? '' : ' style="border-top:0.5em solid transparent;"'}>
+                    ${nameCell}
                     ${cells}
                 </tr>
             `;
@@ -1079,6 +1360,8 @@ let priorityPipeline = [];
             wepPity: wepPityEl.value,
             welkin: hasWelkinEl.checked,
             bp: hasBPEl.checked,
+            startPatchMajor: startPatchMajorEl.value,
+            startPatchMinor: startPatchMinorEl.value,
             incomeMode: document.querySelector('input[name="incomeMode"]:checked')?.value || 'average',
 
             customPatches: Array.from(document.querySelectorAll('.custom-val-input')).map(inp => inp.value),
@@ -1116,6 +1399,8 @@ let priorityPipeline = [];
         wepPityEl.value = s.wepPity ?? '0';
         hasWelkinEl.checked = s.welkin || false;
         hasBPEl.checked = s.bp || false;
+        startPatchMajorEl.value = s.startPatchMajor ?? '1';
+        startPatchMinorEl.value = s.startPatchMinor ?? '0';
         const modeEl = document.querySelector(`input[name="incomeMode"][value="${s.incomeMode || 'average'}"]`);
         if (modeEl) { modeEl.checked = true; modeEl.dispatchEvent(new Event('change')); }
         updateStarglitterHint();
@@ -1200,6 +1485,8 @@ let priorityPipeline = [];
         wepPityEl.value = '0';
         hasWelkinEl.checked = false;
         hasBPEl.checked = false;
+        startPatchMajorEl.value = '';
+        startPatchMinorEl.value = '';
         const avgMode = document.querySelector('input[name="incomeMode"][value="average"]');
         avgMode.checked = true;
         avgMode.dispatchEvent(new Event('change'));

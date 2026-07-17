@@ -285,6 +285,40 @@
             animation: fieldPulseHighlight 0.9s ease-out 2;
         }
 
+        /* Capture Radiance — themed after the in-game 5★ burst: a bright
+           shimmer highlight sweeps across a static gold base color,
+           rather than moving the whole gradient. The gradient is much
+           wider than the text (250%) and the sweep only travels between
+           -150% and 150%, so the wrap-around point sits well off-screen
+           and is never actually visible. Icon is left as a plain static
+           image — no glow, no motion. */
+        @keyframes radianceShimmer {
+            0%   { background-position: -150% 50%; }
+            100% { background-position: 150% 50%; }
+        }
+        .radiance-text {
+            background-image: linear-gradient(
+                90deg,
+                #f2c94c 0%,
+                #ffe8a3 6%,
+                #7ec8ff 22%,
+                #4f9fff 38%,
+                #c58bff 54%,
+                #8d5cff 70%,
+                #7ec8ff 86%,
+                #ffe8a3 94%,
+                #f2c94c 100%
+            );
+            background-size: 500% 100%;
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            font-weight: 700;
+            animation: radianceShimmer 16s linear infinite;
+        }
+        .radiance-icon {
+        }
+
         .fs4-result {
             margin-top: 20px;
             padding: 24px 16px;
@@ -1036,6 +1070,8 @@
         .scen-dot-best { background: var(--success); }
         .scen-dot-ok { background: var(--warning); }
         .scen-dot-okd { background: #ff9838; }
+        .scen-dot-oke { background: #a855f7; }
+        .scen-dot-okf { background: #38bdf8; }
         .scen-dot-worst { background: var(--danger); }
 
         .scen-sum-table-full thead th.scen-item-cell {
