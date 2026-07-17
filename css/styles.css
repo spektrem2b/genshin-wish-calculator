@@ -199,6 +199,17 @@
 
         .form-group { margin-bottom: 26.4px; }
         .form-group:last-child { margin-bottom: 0; }
+
+        .wish-income-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0 40px;
+            align-items: start;
+        }
+
+        @media (max-width: 800px) {
+            .wish-income-grid { grid-template-columns: 1fr; }
+        }
         
         label { display: block; font-size: 0.99rem; font-weight: 500; color: var(--text-muted); margin-bottom: 8.8px; }
         
