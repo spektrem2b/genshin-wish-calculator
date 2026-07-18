@@ -3,6 +3,7 @@ let priorityPipeline = [];
 
     const currentWishesEl = document.getElementById('currentWishes');
     const currentStarglitterEl = document.getElementById('currentStarglitter');
+    const currentPrimogemsEl = document.getElementById('currentPrimogems');
     const wishesPerPatchEl = document.getElementById('wishesPerPatch');
     const totalPatchesEl = document.getElementById('totalPatchesPlan');
     const starglitterEl = document.getElementById('starglitterRate');
@@ -71,10 +72,39 @@ let priorityPipeline = [];
         hint.textContent = wishes > 0 ? `→ ${wishes} wish${wishes !== 1 ? 'es' : ''} (+${sg % 5} leftover)` : '';
     }
 
+    function updatePrimogemsHint() {
+        const pg = parseInt(currentPrimogemsEl.value) || 0;
+        const wishes = Math.floor(pg / 160);
+        const hint = document.getElementById('primogemsWishCount');
+        hint.textContent = wishes > 0 ? `→ ${wishes} wish${wishes !== 1 ? 'es' : ''} (+${pg % 160} leftover)` : '';
+    }
+
     const debouncedCalculateForecast = _debounce(calculateForecast, 150);
+
+    // Quiet digit caps — no error message, just silently truncate excess
+    // digits as they're typed (mirrors the startPatch clamp above).
+    currentWishesEl.addEventListener('input', () => {
+        if (currentWishesEl.value.length > 5) currentWishesEl.value = currentWishesEl.value.slice(0, 5);
+    });
+    currentStarglitterEl.addEventListener('input', () => {
+        if (currentStarglitterEl.value.length > 4) currentStarglitterEl.value = currentStarglitterEl.value.slice(0, 4);
+    });
+    currentPrimogemsEl.addEventListener('input', () => {
+        if (currentPrimogemsEl.value.length > 6) currentPrimogemsEl.value = currentPrimogemsEl.value.slice(0, 6);
+    });
+    [starglitterEl, charSoftPityEl, wepSoftPityEl, charPityEl, wepPityEl].forEach(el => {
+        el.addEventListener('input', () => {
+            if (el.value.length > 2) el.value = el.value.slice(0, 2);
+        });
+    });
+    wishesPerPatchEl.addEventListener('input', () => {
+        if (wishesPerPatchEl.value.length > 5) wishesPerPatchEl.value = wishesPerPatchEl.value.slice(0, 5);
+    });
 
     currentStarglitterEl.addEventListener('input', () => { updateStarglitterHint(); debouncedCalculateForecast(); });
     updateStarglitterHint();
+    currentPrimogemsEl.addEventListener('input', () => { updatePrimogemsHint(); debouncedCalculateForecast(); });
+    updatePrimogemsHint();
 
     [currentWishesEl, wishesPerPatchEl, starglitterEl, charSoftPityEl, wepSoftPityEl, charPityEl, wepPityEl].forEach(el => el.addEventListener('input', debouncedCalculateForecast));
     [hasWelkinEl, hasBPEl].forEach(el => el.addEventListener('change', calculateForecast));
@@ -219,6 +249,9 @@ let priorityPipeline = [];
             `;
         }
         document.querySelectorAll('.custom-val-input').forEach(inp => {
+            inp.addEventListener('input', () => {
+                if (inp.value.length > 5) inp.value = inp.value.slice(0, 5);
+            });
             inp.addEventListener('input', _debounce(() => { calculateForecast(); saveState(); }, 150));
         });
     }
@@ -670,7 +703,7 @@ let priorityPipeline = [];
         const finalEl = document.getElementById('wishTotalsFinal');
         const bodyEl = document.getElementById('wishTotalsBody');
         if (!finalEl || !bodyEl) return;
-        const baseWishes = (parseInt(currentWishesEl.value) || 0) + Math.floor((parseInt(currentStarglitterEl.value) || 0) / 5);
+        const baseWishes = (parseInt(currentWishesEl.value) || 0) + Math.floor((parseInt(currentStarglitterEl.value) || 0) / 5) + Math.floor((parseInt(currentPrimogemsEl.value) || 0) / 160);
         const totalPatches = Math.max(0, Math.min(8, parseInt(totalPatchesEl.value) || 0));
 
         let rows = '';
@@ -713,7 +746,7 @@ let priorityPipeline = [];
 
     function calculateForecast() {
         renderWishTotals();
-        const baseWishes = (parseInt(currentWishesEl.value) || 0) + Math.floor((parseInt(currentStarglitterEl.value) || 0) / 5);
+        const baseWishes = (parseInt(currentWishesEl.value) || 0) + Math.floor((parseInt(currentStarglitterEl.value) || 0) / 5) + Math.floor((parseInt(currentPrimogemsEl.value) || 0) / 160);
         const sgRate = (parseInt(starglitterEl.value) || 8) / 100;
         const outputSpace = document.getElementById('outputLogSpace');
         if (priorityPipeline.length === 0 || priorityPipeline.every(x => x.enabled === false)) {
@@ -1264,24 +1297,30 @@ let priorityPipeline = [];
         const dotClass = { 'Best': 'scen-dot-best', 'Worst': 'scen-dot-worst' };
         const scenDot = r => dotClass[r.short] || (r.short === 'OK-D' ? 'scen-dot-okd' : (r.short === 'OK-E' ? 'scen-dot-oke' : (r.short === 'OK-F' ? 'scen-dot-okf' : 'scen-dot-ok')));
 
+        // OK-E and OK-F are the least essential columns (edge-case tail-loss
+        // and single-priciest-target scenarios) — on mobile we drop them so
+        // the remaining columns aren't squeezed illegibly.
+        const mobileHideClass = r => (r.short === 'OK-E' || r.short === 'OK-F') ? ' scen-col-mobile-hide' : '';
+
         const headerCells = results.map(r => `
-            <th class="scen-item-cell"><span class="scen-dot ${scenDot(r)}"></span>${r.short}</th>
+            <th class="scen-item-cell${mobileHideClass(r)}"><span class="scen-dot ${scenDot(r)}"></span>${r.short}</th>
         `).join('');
 
         const bodyRows = ep.map((item, idx) => {
             const label = item.type === 'character' ? item.constellation : 'R' + (item.refinement || 1);
             const cells = results.map(r => {
                 const row = r.rows[idx];
+                const hideCls = mobileHideClass(r);
                 if (!row || row.type === 'skip') {
                     const skipText = item.strategy === 'Optional' ? 'Skipped' : '—';
-                    return `<td class="scen-item-cell"><span class="scen-item-mark scen-item-na">${skipText}</span></td>`;
+                    return `<td class="scen-item-cell${hideCls}"><span class="scen-item-mark scen-item-na">${skipText}</span></td>`;
                 }
                 if (row.type === 'deficit') {
-                    return `<td class="scen-item-cell"><span class="scen-item-mark scen-item-short">⛔ Short</span></td>`;
+                    return `<td class="scen-item-cell${hideCls}"><span class="scen-item-mark scen-item-short">⛔ Short</span></td>`;
                 }
                 const guaranteed = row.loses > 0;
                 if (row.capturedRadiance) {
-                    return `<td class="scen-item-cell">
+                    return `<td class="scen-item-cell${hideCls}">
                         <span class="scen-item-mark scen-item-radiance" style="display:inline-flex;align-items:center;gap:5px;" title="Capture Radiance — guaranteed win after 2 consecutive losses">
                             <img class="radiance-icon" src="assets/data/custom_icons/Item_Intertwined_Fate.webp" alt="Capture Radiance" style="width:14px;height:14px;">
                             <span class="radiance-text">Radiance</span>
@@ -1290,13 +1329,13 @@ let priorityPipeline = [];
                 }
                 if (guaranteed) {
                     const isWepItem = item.type === 'weapon';
-                    return `<td class="scen-item-cell">
+                    return `<td class="scen-item-cell${hideCls}">
                         <span class="scen-item-mark scen-item-guaranteed" title="${isWepItem ? 'Missed the featured weapon, gained a Fate Point — obtained via Epitomized Path on the next 5★ weapon pull' : 'Lost the featured 50/50, then obtained it on the guaranteed next pull'}">
                             <img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="${isWepItem ? 'Epitomized' : 'Guaranteed'}">${isWepItem ? 'Epitomized' : 'Guaranteed'}
                         </span>
                     </td>`;
                 }
-                return `<td class="scen-item-cell">
+                return `<td class="scen-item-cell${hideCls}">
                     <span class="scen-item-mark scen-item-win">✅ Win</span>
                 </td>`;
             }).join('');
@@ -1328,7 +1367,7 @@ let priorityPipeline = [];
         const resultCells = results.map(r => {
             const resultText = r.failed ? `${Math.abs(r.net)} wishes short` : `${r.net} wishes left`;
             const resultClass = r.failed ? 'scen-result-fail' : 'scen-result-ok';
-            return `<td class="scen-result-cell ${resultClass}">${resultText}</td>`;
+            return `<td class="scen-result-cell ${resultClass}${mobileHideClass(r)}">${resultText}</td>`;
         }).join('');
 
         return `
@@ -1357,6 +1396,7 @@ let priorityPipeline = [];
                 </div>
                 <div class="scen-sum-divider"></div>
                 <div class="scen-sum-title">Scenario Summary</div>
+                <div class="scen-mobile-hint">📱 This table reads best on a tablet or desktop. On phones, use <strong>View Full Table</strong> or <strong>Export as PNG</strong> below.</div>
                 <div class="scen-sum-table-wrap">
                     <table class="scen-sum-table-full">
                         <thead>
@@ -1374,6 +1414,9 @@ let priorityPipeline = [];
                         </tbody>
                     </table>
                 </div>
+                <button type="button" class="scen-mobile-expand-btn" onclick="openScenarioSummaryModal(this)">
+                    ⛶ View Full Table
+                </button>
                 <div class="scen-legend">
                     <span class="scen-legend-title">Legend</span>
                     <span class="scen-legend-item"><span class="scen-item-mark scen-item-win">✅ Win</span><span class="scen-legend-desc">Won the 50/50.</span></span>
@@ -1415,6 +1458,7 @@ let priorityPipeline = [];
             pipeline: priorityPipeline,
             wishes: currentWishesEl.value,
             starglitter: currentStarglitterEl.value,
+            primogems: currentPrimogemsEl.value,
             wishesPerPatch: wishesPerPatchEl.value,
             totalPatches: totalPatchesEl.value,
             sgRate: starglitterEl.value,
@@ -1454,6 +1498,7 @@ let priorityPipeline = [];
         }));
         currentWishesEl.value = s.wishes ?? '';
         currentStarglitterEl.value = s.starglitter ?? '';
+        currentPrimogemsEl.value = s.primogems ?? '';
         wishesPerPatchEl.value = s.wishesPerPatch ?? '80';
         totalPatchesEl.value = s.totalPatches ?? '0';
         starglitterEl.value = s.sgRate ?? '8';
@@ -1468,6 +1513,7 @@ let priorityPipeline = [];
         const modeEl = document.querySelector(`input[name="incomeMode"][value="${s.incomeMode || 'average'}"]`);
         if (modeEl) { modeEl.checked = true; modeEl.dispatchEvent(new Event('change')); }
         updateStarglitterHint();
+        updatePrimogemsHint();
         renderCustomIncomeRows();
         updateTargetPatchOptions();
         if (s.customPatches) {
@@ -1525,6 +1571,7 @@ let priorityPipeline = [];
         el.addEventListener('input', debouncedSaveState)
     );
     currentStarglitterEl.addEventListener('input', debouncedSaveState);
+    currentPrimogemsEl.addEventListener('input', debouncedSaveState);
     [hasWelkinEl, hasBPEl].forEach(el => el.addEventListener('change', saveState));
     document.querySelectorAll('input[name="incomeMode"]').forEach(r => r.addEventListener('change', saveState));
 
@@ -1541,6 +1588,7 @@ let priorityPipeline = [];
         priorityPipeline = [];
         currentWishesEl.value = '';
         currentStarglitterEl.value = '';
+        currentPrimogemsEl.value = '';
         wishesPerPatchEl.value = '80';
         totalPatchesEl.value = '0';
         starglitterEl.value = '8';
@@ -1556,6 +1604,7 @@ let priorityPipeline = [];
         avgMode.checked = true;
         avgMode.dispatchEvent(new Event('change'));
         updateStarglitterHint();
+        updatePrimogemsHint();
         renderCustomIncomeRows();
         updateTargetPatchOptions();
         pipelineUpdated();
@@ -1623,5 +1672,44 @@ let priorityPipeline = [];
             btn.disabled = false;
             btn.innerText = originalLabel;
         });
+    };
+
+    // Mobile-only "View Full Table" modal. The inline table is squeezed and
+    // sideways-scrolling on small screens, so instead we clone it into a
+    // fullscreen overlay where it can be viewed comfortably (and, since
+    // width is now the phone's full dimension, works well if the user
+    // rotates their phone to landscape too).
+    window.openScenarioSummaryModal = function(btn) {
+        const wrap = document.querySelector('.scen-sum-table-wrap');
+        if (!wrap) return;
+
+        const existing = document.getElementById('scenSumModalOverlay');
+        if (existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'scenSumModalOverlay';
+        overlay.className = 'scen-sum-modal-overlay';
+        overlay.innerHTML = `
+            <div class="scen-sum-modal-rotate">
+                <div class="scen-sum-modal-header">
+                    <span class="scen-sum-modal-title">Scenario Summary</span>
+                    <button type="button" class="scen-sum-modal-close" aria-label="Close">✕</button>
+                </div>
+                <div class="scen-sum-modal-body"></div>
+            </div>
+        `;
+        overlay.querySelector('.scen-sum-modal-body').appendChild(wrap.cloneNode(true));
+
+        function close() {
+            overlay.remove();
+            document.body.classList.remove('scen-modal-open');
+        }
+        overlay.querySelector('.scen-sum-modal-close').addEventListener('click', close);
+        overlay.addEventListener('click', (e) => {
+            if (e.target === overlay) close();
+        });
+
+        document.body.appendChild(overlay);
+        document.body.classList.add('scen-modal-open');
     };
 

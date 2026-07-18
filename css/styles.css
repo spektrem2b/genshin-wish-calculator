@@ -121,6 +121,7 @@
         .container {
             width: 100%;
             max-width: min(1500px, calc(100% - 16px));
+            margin: 0 auto;
         }
 
         h1 { 
@@ -824,39 +825,49 @@
 
         @media (max-width: 640px) {
             .priority-item {
-                flex-direction: column;
+                display: flex;
+                flex-wrap: wrap;
                 align-items: center;
+                justify-content: center;
                 text-align: center;
-                padding: 18px 18px 16px;
-            }
-            .reorder-btns {
-                order: 3;
-                margin: 14px 0 0;
-                padding-top: 12px;
-                border-top: 1px solid rgba(255, 255, 255, 0.06);
+                padding: 14px 16px;
             }
             .priority-item .avatar-badge {
                 order: 1;
-                margin: 0 0 10px;
+                flex: 0 0 100%;
+                display: flex;
+                justify-content: center;
+                margin: 0 0 8px;
+            }
+            .priority-item .avatar-badge img:not(.el-badge-icon) {
+                width: 40px !important;
+                height: 40px !important;
             }
             .item-details {
                 order: 2;
-                flex: 1 1 auto;
+                flex: 0 0 100%;
                 width: 100%;
                 min-width: 0;
+                margin-bottom: 10px;
             }
             .item-name {
                 justify-content: center;
                 flex-wrap: wrap;
+                font-size: 1.15rem;
             }
             .item-meta {
                 justify-content: center;
             }
+            .reorder-btns {
+                order: 3;
+                margin: 0 6px 0 0;
+                padding: 0;
+                border-top: none;
+            }
             .item-actions {
                 order: 4;
-                flex: 0 0 100%;
+                flex: 0 0 auto;
                 justify-content: center;
-                margin-top: 10px;
                 gap: 6px;
             }
         }
@@ -1122,6 +1133,10 @@
         }
         .scen-export-btn:disabled { opacity: 0.6; cursor: default; }
 
+        .scenario-summary-card.exporting-for-png {
+            width: 1400px !important;
+            max-width: none !important;
+        }
         .scenario-summary-card.exporting-for-png .radiance-text {
             background: none !important;
             -webkit-background-clip: initial !important;
@@ -1137,10 +1152,24 @@
             max-width: none !important;
         }
         .scenario-summary-card.exporting-for-png .scen-sum-table-wrap {
+            display: block !important;
             overflow: visible !important;
         }
         .scenario-summary-card.exporting-for-png .scen-sum-table-wrap::after {
             display: none !important;
+        }
+        /* Mobile normally hides the table (in favor of the "View Full
+           Table" button) and drops the OK-E/OK-F columns to save space —
+           neither makes sense in an exported PNG, so force the full
+           desktop table back for the capture regardless of viewport. */
+        .scenario-summary-card.exporting-for-png .scen-mobile-expand-btn {
+            display: none !important;
+        }
+        .scenario-summary-card.exporting-for-png .scen-col-mobile-hide {
+            display: table-cell !important;
+        }
+        .scenario-summary-card.exporting-for-png .scen-sum-table-full {
+            width: 100%;
         }
 
         .scen-legend {
@@ -1288,6 +1317,117 @@
 
         .scen-result-row { border-top: 2px solid var(--border-color); }
         .scen-result-row .scen-name-cell { color: var(--text-muted); font-weight: 700; }
+
+        @media (max-width: 700px) {
+            .scen-col-mobile-hide { display: none; }
+        }
+
+        /* --- Mobile "View Full Table" button + fullscreen modal --- */
+
+        .scen-mobile-expand-btn {
+            display: none;
+            width: 100%;
+            margin-top: 12px;
+            padding: 12px;
+            background: var(--input-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            color: var(--text-main);
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .scen-mobile-expand-btn:hover { border-color: var(--accent-purple); }
+
+        .scen-mobile-hint {
+            display: none;
+        }
+
+        @media (max-width: 700px) {
+            .scen-sum-table-wrap { display: none; }
+            .scen-mobile-expand-btn { display: block; }
+            .scen-mobile-hint {
+                display: block;
+                font-size: 0.8rem;
+                line-height: 1.4;
+                color: var(--text-muted);
+                background: rgba(162, 85, 255, 0.06);
+                border: 1px solid rgba(162, 85, 255, 0.18);
+                border-radius: 8px;
+                padding: 10px 12px;
+                margin-bottom: 12px;
+            }
+            .scen-mobile-hint strong { color: var(--text-main); }
+        }
+
+        body.scen-modal-open { overflow: hidden; }
+
+        .scen-sum-modal-overlay {
+            position: fixed;
+            inset: 0;
+            z-index: 1000;
+            background: #0a0918;
+            overflow: hidden;
+        }
+
+        /* Default (already-landscape / desktop / tablet): normal upright column. */
+        .scen-sum-modal-rotate {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Phone held in portrait: rotate the whole panel 90° so it renders
+           sideways/landscape-style and fills the screen, without needing
+           the user to physically turn their phone. Swaps width/height to
+           the viewport's cross-dimensions before rotating into place. */
+        @media (max-width: 700px) and (orientation: portrait) {
+            .scen-sum-modal-rotate {
+                position: absolute;
+                top: 0;
+                left: 100%;
+                width: 100vh;
+                height: 100vw;
+                transform-origin: 0 0;
+                transform: rotate(90deg);
+            }
+        }
+
+        .scen-sum-modal-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 14px 16px;
+            border-bottom: 1px solid var(--border-color);
+            flex: 0 0 auto;
+        }
+        .scen-sum-modal-title { font-weight: 700; font-size: 1rem; color: var(--text-main); }
+        .scen-sum-modal-close {
+            background: var(--input-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-main);
+            width: 34px;
+            height: 34px;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+        .scen-sum-modal-body {
+            flex: 1 1 auto;
+            overflow: auto;
+            padding: 16px;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        /* Inside the modal there's room to breathe, so let the table lay
+           out at full width instead of squeezing/sticky-pinning the name
+           column like the inline mobile view does. */
+        .scen-sum-modal-body .scen-sum-table-wrap { display: block; overflow: visible; }
+        .scen-sum-modal-body .scen-sum-table-wrap::after { display: none; }
+        .scen-sum-modal-body .scen-name-cell { position: static; box-shadow: none; max-width: none; background: none; }
+        .scen-sum-modal-body .scen-sum-table-full { min-width: 700px; }
 
         .failsafe-banner { background: rgba(255, 194, 51, 0.1); border: 1px solid var(--warning); color: var(--warning); padding: 15.4px; border-radius: 13.2px; margin-bottom: 26.4px; font-size: 0.99rem; font-weight: 500; text-align: center; }
         

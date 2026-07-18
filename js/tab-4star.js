@@ -35,6 +35,10 @@
     fs4BannerPityEl.addEventListener('input', fs4UpdateStopModeUI);
     fs4UpdateStopModeUI();
 
+    fs4WishesEl.addEventListener('input', () => {
+        if (fs4WishesEl.value.length > 5) fs4WishesEl.value = fs4WishesEl.value.slice(0, 5);
+    });
+
     function fs4ResolveWishBudget() {
         const manual = Math.min(999, Math.max(0, parseInt(fs4WishesEl.value) || 0));
         const mode = fs4StopModeEl.value;
