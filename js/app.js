@@ -1,5 +1,3 @@
-console.log("BUILD a3a145f");
-
 function debounce(fn, wait = 150) {
     let t;
     return function (...args) {
