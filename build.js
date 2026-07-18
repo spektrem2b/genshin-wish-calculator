@@ -4,12 +4,12 @@ const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
 const JS_ORDER = [
-  'app.js',
   'tab-5star.js',
   'tab-5star-odds.js',
   'tab-4star.js',
   'tab-other.js',
   'tab-build.js',
+  'app.js',
 ];
 const jsDir = path.join(__dirname, 'js');
 for (const file of JS_ORDER) {
