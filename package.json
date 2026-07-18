@@ -1,0 +1,11 @@
+{
+  "name": "genshin-wish-calculator",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
