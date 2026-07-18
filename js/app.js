@@ -1,8 +1,5 @@
 console.log("BUILD a3a145f");
 
-// Shared debounce helper — delays a function until `wait` ms after the
-// last call, so rapid-fire events (typing, etc.) only trigger it once
-// the user pauses instead of on every single keystroke.
 function debounce(fn, wait = 150) {
     let t;
     return function (...args) {

@@ -1,6 +1,3 @@
-// Character level -> XP reference table.
-// toNext: total EXP required to go from this level to the next one (null at 90, the cap).
-// totalExp: cumulative EXP spent to reach this level starting from level 1.
 const GENSHIN_LEVEL_XP = {
   1: { toNext: 1000, totalExp: 0 },
   2: { toNext: 1325, totalExp: 1000 },
@@ -94,8 +91,6 @@ const GENSHIN_LEVEL_XP = {
   90: { toNext: null, totalExp: 8362650 },
 };
 
-// Convenience helper: total XP needed to go from one level to another.
-// e.g. GENSHIN_LEVEL_XP_COST(12, 88) -> XP for levels 13 through 88.
 function GENSHIN_LEVEL_XP_COST(fromLevel, toLevel) {
   const from = GENSHIN_LEVEL_XP[fromLevel];
   const to = GENSHIN_LEVEL_XP[toLevel];
@@ -103,9 +98,6 @@ function GENSHIN_LEVEL_XP_COST(fromLevel, toLevel) {
   return Math.max(0, to.totalExp - from.totalExp);
 }
 
-// Weapon level -> XP reference table (same shape as GENSHIN_LEVEL_XP, but
-// for weapon EXP books instead of character EXP books — keep these two
-// separate so the math never mixes character and weapon leveling costs).
 const GENSHIN_WEAPON_LEVEL_XP = {
   1: { toNext: 600, totalExp: 0 },
   2: { toNext: 950, totalExp: 600 },
@@ -199,9 +191,6 @@ const GENSHIN_WEAPON_LEVEL_XP = {
   90: { toNext: null, totalExp: 9064450 },
 };
 
-// Same helper, weapon side — deliberately a separate function (not a shared
-// generic) so a future typo can't accidentally point weapon math at the
-// character table or vice versa.
 function GENSHIN_WEAPON_LEVEL_XP_COST(fromLevel, toLevel) {
   const from = GENSHIN_WEAPON_LEVEL_XP[fromLevel];
   const to = GENSHIN_WEAPON_LEVEL_XP[toLevel];

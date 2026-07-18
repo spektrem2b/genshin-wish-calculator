@@ -29,8 +29,6 @@
             line-height: 1.6; 
         }
 
-        /* ---------- Desktop app shell: sidebar + main content ---------- */
-
         .app-shell {
             display: flex;
             align-items: stretch;
@@ -120,9 +118,6 @@
             align-items: flex-start;
         }
 
-        /* Each "page" (the tab content wrappers) defines its own max-width and
-           is centered by the flex parent above. .container is kept as a generic
-           page-width default so existing markup/JS needs no changes. */
         .container {
             width: 100%;
             max-width: min(1500px, calc(100% - 16px));
@@ -169,7 +164,6 @@
             }
             .sidebar-header h1 br { display: none; }
 
-            /* Single control that both shows the active tab and opens the dropdown */
             .mobile-tab-toggle {
                 display: flex;
                 align-items: center;
@@ -196,8 +190,6 @@
                 transform: rotate(180deg);
             }
 
-            /* Nav collapses into a dropdown driven by the toggle button.
-               Hidden by default on mobile; JS toggles .nav-open on .sidebar. */
             .sidebar-nav {
                 flex-direction: column;
                 flex-wrap: nowrap;
@@ -342,31 +334,6 @@
         }
         .explanation a:hover { color: var(--accent-gold); }
 
-        /* TEMP DISABLED for perf test
-        @keyframes fieldPulseHighlight {
-            0%   { box-shadow: 0 0 0 0 rgba(162, 85, 255, 0.65); }
-            50%  { box-shadow: 0 0 0 6px rgba(162, 85, 255, 0.15); }
-            100% { box-shadow: 0 0 0 0 rgba(162, 85, 255, 0); }
-        }
-        .field-pulse-highlight {
-            animation: fieldPulseHighlight 0.9s ease-out 2;
-        }
-        */
-
-        /* Capture Radiance — themed after the in-game 5★ burst: a bright
-           shimmer highlight sweeps across a static gold base color,
-           rather than moving the whole gradient. The gradient is much
-           wider than the text (250%) and the sweep only travels between
-           -150% and 150%, so the wrap-around point sits well off-screen
-           and is never actually visible. Icon is left as a plain static
-           image — no glow, no motion. */
-        /* Capture Radiance — themed after the in-game 5★ burst: a static
-           gold-to-purple gradient text. Previously animated the gradient
-           via background-position, but that's a paint-only property with
-           no GPU compositing path — with many "Capture Radiance" rows on
-           screen at once (pull log, scenario table), each ran its own
-           12s repaint loop in parallel, dominating Paint time. Static
-           gradient keeps the visual identity at zero ongoing repaint cost. */
         .radiance-text {
             background-image: linear-gradient(
                 90deg,
@@ -1155,9 +1122,6 @@
         }
         .scen-export-btn:disabled { opacity: 0.6; cursor: default; }
 
-        /* html2canvas can't render background-clip:text gradients reliably,
-           so during export the Radiance shimmer is swapped for a flat gold
-           color. Restored immediately after the capture completes. */
         .scenario-summary-card.exporting-for-png .radiance-text {
             background: none !important;
             -webkit-background-clip: initial !important;
@@ -1167,13 +1131,6 @@
         .scenario-summary-card.exporting-for-png .scen-export-btn {
             display: none;
         }
-        /* html2canvas doesn't handle position:sticky correctly — it
-           freezes the sticky name column at its last scroll offset while
-           laying out the rest of the table at full width, causing
-           misaligned/blank cells in the exported image. It DOES capture
-           the full unscrolled table width by default though, so turning
-           sticky off for the capture effectively gives us a clean
-           "desktop" render for free, regardless of the phone's viewport. */
         .scenario-summary-card.exporting-for-png .scen-name-cell {
             position: static !important;
             box-shadow: none !important;
@@ -1265,10 +1222,6 @@
             text-overflow: ellipsis;
         }
 
-        /* On narrow screens the table needs to scroll horizontally to see
-           every scenario column, so the Target/name column is pinned to
-           the left edge — otherwise you lose track of which row is which
-           the moment you scroll right. */
         @media (max-width: 700px) {
             .scen-sum-table-wrap::after {
                 content: '';
@@ -1313,10 +1266,6 @@
         .scen-item-mark.scen-item-guaranteed { color: var(--accent-blue); display: inline-flex; align-items: center; gap: 5px; }
         .scen-item-mark.scen-item-short { color: var(--danger); font-weight: 700; }
         .scen-item-mark.scen-item-na { color: var(--text-muted); font-weight: 400; }
-        /* Qiqi — the resident 50/50 ruiner — stands in for the shield icon
-           on "Guaranteed" outcomes. Source image is 820x640 (not square),
-           so this sizes by height only and lets width follow the natural
-           aspect ratio rather than squashing it. */
         .guaranteed-icon {
             height: 1.3em;
             width: auto;
