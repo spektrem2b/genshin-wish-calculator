@@ -63,6 +63,14 @@
                     <div class="explanation" id="starglitterWishCount"></div>
                 </div>
                 <div class="form-group">
+                    <label>Start Patch <span style="color: var(--text-muted); font-size:0.8rem; font-weight:400;">(e.g. 5.7)</span></label>
+                    <div style="display:flex; align-items:center; gap:6px;">
+                        <input type="number" id="startPatchMajor" placeholder="5" min="1" style="width:80px;">
+                        <span style="color: var(--text-muted);">.</span>
+                        <input type="number" id="startPatchMinor" placeholder="7" min="0" max="7" style="width:80px;">
+                    </div>
+                </div>
+                <div class="form-group">
                     <label>Total Patches to Plan Ahead <span style="color: var(--text-muted); font-size:0.8rem; font-weight:400;">(Max 8)</span></label>
                     <input type="number" id="totalPatchesPlan" placeholder="0" min="0" max="8">
                 </div>
@@ -492,6 +500,7 @@
     </main>
 </div>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <script src="assets/data/characters.js?v=2153099"></script>
     <script src="assets/data/weapons.js?v=2153099"></script>
     <script src="assets/data/levels.js?v=2153099"></script>

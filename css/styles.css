@@ -138,25 +138,44 @@
                 position: static;
                 width: auto;
                 height: auto;
-                flex-direction: row;
-                align-items: center;
-                flex-wrap: wrap;
+                flex-direction: column;
+                align-items: stretch;
                 border-right: none;
                 border-bottom: 1px solid var(--border-color);
-                padding: 16px 18px;
-                gap: 14px;
+                padding: 14px 0 12px;
+                gap: 12px;
             }
 
-            .sidebar-header h1 { font-size: 1.15rem; margin: 0; }
+            .sidebar-header { padding: 0 18px; }
+            .sidebar-header h1 {
+                font-size: 1.15rem;
+                margin: 0;
+                white-space: nowrap;
+            }
             .sidebar-header h1 br { display: none; }
 
+            /* Horizontally swipeable tab bar instead of wrapping pills —
+               avoids the unpredictable flex-wrap fight between the logo
+               and nav buttons at narrow widths. Scrollbar hidden but the
+               row still scrolls via touch/trackpad. */
             .sidebar-nav {
                 flex-direction: row;
-                flex-wrap: wrap;
-                flex: 1;
+                flex-wrap: nowrap;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+                gap: 8px;
+                padding: 0 18px 2px;
             }
+            .sidebar-nav::-webkit-scrollbar { display: none; }
 
-            .nav-link { flex: 1 1 auto; justify-content: center; padding: 10px 12px; }
+            .nav-link {
+                flex: 0 0 auto;
+                width: auto;
+                white-space: nowrap;
+                justify-content: center;
+                padding: 10px 16px;
+            }
 
             .main-content { padding: 20px 16px 40px; }
         }
@@ -283,6 +302,40 @@
         }
         .field-pulse-highlight {
             animation: fieldPulseHighlight 0.9s ease-out 2;
+        }
+
+        /* Capture Radiance — themed after the in-game 5★ burst: a bright
+           shimmer highlight sweeps across a static gold base color,
+           rather than moving the whole gradient. The gradient is much
+           wider than the text (250%) and the sweep only travels between
+           -150% and 150%, so the wrap-around point sits well off-screen
+           and is never actually visible. Icon is left as a plain static
+           image — no glow, no motion. */
+        @keyframes radianceShimmer {
+            0%   { background-position: -150% 50%; }
+            100% { background-position: 150% 50%; }
+        }
+        .radiance-text {
+            background-image: linear-gradient(
+                90deg,
+                #f2c94c 0%,
+                #ffe8a3 6%,
+                #7ec8ff 22%,
+                #4f9fff 38%,
+                #c58bff 54%,
+                #8d5cff 70%,
+                #7ec8ff 86%,
+                #ffe8a3 94%,
+                #f2c94c 100%
+            );
+            background-size: 500% 100%;
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            font-weight: 700;
+            animation: radianceShimmer 16s linear infinite;
+        }
+        .radiance-icon {
         }
 
         .fs4-result {
@@ -945,7 +998,7 @@
         }
 
         .log-row.row-win { border-left: 3px solid var(--success); }
-        .log-row.row-lose-win { border-left: 3px solid var(--warning); }
+        .log-row.row-lose-win { border-left: 3px solid var(--accent-blue); }
         .log-row.row-deficit { border-left: 3px solid var(--danger); background: rgba(255,77,90,0.05); }
         .log-row.row-skip { border-left: 3px solid rgba(255,255,255,0.15); opacity: 0.5; }
 
@@ -953,7 +1006,7 @@
         .log-name-sub { font-size: 0.858rem; color: var(--text-muted); font-weight: 400; margin-top: 2px; }
         .log-outcome { font-size: 0.858rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.55px; white-space: nowrap; }
         .log-outcome.oc-win { color: var(--success); }
-        .log-outcome.oc-lose { color: var(--warning); }
+        .log-outcome.oc-guaranteed { color: var(--accent-blue); }
         .log-outcome.oc-deficit { color: var(--danger); }
         .log-outcome.oc-skip { color: var(--text-muted); }
 
@@ -1007,7 +1060,83 @@
 
         .scen-sum-title { font-weight: 700; font-size: 0.99rem; color: var(--text-main); margin-bottom: 11px; }
 
-        .scen-sum-table-wrap { overflow-x: auto; }
+        .scen-export-btn {
+            background: var(--input-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-muted);
+            font-size: 0.78rem;
+            font-weight: 600;
+            padding: 5px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: color 0.15s ease, border-color 0.15s ease;
+            margin-left: auto;
+        }
+        .scen-export-btn:hover:not(:disabled) {
+            color: var(--text-main);
+            border-color: var(--accent-purple);
+        }
+        .scen-export-btn:disabled { opacity: 0.6; cursor: default; }
+
+        /* html2canvas can't render background-clip:text gradients reliably,
+           so during export the Radiance shimmer is swapped for a flat gold
+           color. Restored immediately after the capture completes. */
+        .scenario-summary-card.exporting-for-png .radiance-text {
+            background: none !important;
+            -webkit-background-clip: initial !important;
+            background-clip: initial !important;
+            color: var(--accent-gold) !important;
+            animation: none !important;
+        }
+        .scenario-summary-card.exporting-for-png .scen-export-btn {
+            display: none;
+        }
+        /* html2canvas doesn't handle position:sticky correctly — it
+           freezes the sticky name column at its last scroll offset while
+           laying out the rest of the table at full width, causing
+           misaligned/blank cells in the exported image. It DOES capture
+           the full unscrolled table width by default though, so turning
+           sticky off for the capture effectively gives us a clean
+           "desktop" render for free, regardless of the phone's viewport. */
+        .scenario-summary-card.exporting-for-png .scen-name-cell {
+            position: static !important;
+            box-shadow: none !important;
+            max-width: none !important;
+        }
+        .scenario-summary-card.exporting-for-png .scen-sum-table-wrap {
+            overflow: visible !important;
+        }
+        .scenario-summary-card.exporting-for-png .scen-sum-table-wrap::after {
+            display: none !important;
+        }
+
+        .scen-legend {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 6px 22px;
+            margin-top: 16px;
+            padding-top: 14px;
+            padding-left: 10px;
+            border-top: 1px solid var(--border-color);
+        }
+        .scen-legend-title {
+            font-weight: 700;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin-right: 4px;
+        }
+        .scen-legend-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.82rem;
+        }
+        .scen-legend-desc { color: var(--text-muted); }
+
+        .scen-sum-table-wrap { overflow-x: auto; position: relative; }
 
         .scen-sum-table-full { border-collapse: collapse; width: 100%; min-width: 560px; }
 
@@ -1032,10 +1161,35 @@
             text-overflow: ellipsis;
         }
 
+        /* On narrow screens the table needs to scroll horizontally to see
+           every scenario column, so the Target/name column is pinned to
+           the left edge — otherwise you lose track of which row is which
+           the moment you scroll right. */
+        @media (max-width: 700px) {
+            .scen-sum-table-wrap::after {
+                content: '';
+                position: absolute;
+                top: 0; right: 0; bottom: 0;
+                width: 18px;
+                background: linear-gradient(90deg, transparent, rgba(15, 14, 30, 0.55));
+                pointer-events: none;
+            }
+            .scen-name-cell {
+                position: sticky;
+                left: 0;
+                z-index: 2;
+                background: #14132c;
+                box-shadow: 2px 0 6px rgba(0, 0, 0, 0.35);
+                max-width: 150px;
+            }
+        }
+
         .scen-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 8px; vertical-align: middle; }
         .scen-dot-best { background: var(--success); }
         .scen-dot-ok { background: var(--warning); }
         .scen-dot-okd { background: #ff9838; }
+        .scen-dot-oke { background: #a855f7; }
+        .scen-dot-okf { background: #38bdf8; }
         .scen-dot-worst { background: var(--danger); }
 
         .scen-sum-table-full thead th.scen-item-cell {
@@ -1052,9 +1206,19 @@
 
         .scen-item-mark { display: inline-flex; align-items: center; gap: 5px; font-weight: 600; }
         .scen-item-mark.scen-item-win { color: var(--success); }
-        .scen-item-mark.scen-item-lose { color: var(--danger); }
+        .scen-item-mark.scen-item-guaranteed { color: var(--accent-blue); display: inline-flex; align-items: center; gap: 5px; }
         .scen-item-mark.scen-item-short { color: var(--danger); font-weight: 700; }
         .scen-item-mark.scen-item-na { color: var(--text-muted); font-weight: 400; }
+        /* Qiqi — the resident 50/50 ruiner — stands in for the shield icon
+           on "Guaranteed" outcomes. Source image is 820x640 (not square),
+           so this sizes by height only and lets width follow the natural
+           aspect ratio rather than squashing it. */
+        .guaranteed-icon {
+            height: 1.3em;
+            width: auto;
+            vertical-align: -0.3em;
+            margin-right: 4px;
+        }
 
         .scen-sum-table-full tbody tr { border-bottom: 1px solid rgba(255,255,255,0.05); }
         .scen-sum-table-full tbody tr:last-child { border-bottom: none; }
