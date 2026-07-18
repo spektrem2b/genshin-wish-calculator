@@ -42,6 +42,7 @@ let priorityPipeline = [];
         if (!el) return;
         el.addEventListener('input', () => {
             if (parseInt(el.value) > 7 && el === startPatchMinorEl) el.value = '7';
+            if (parseInt(el.value) > 30 && el === startPatchMajorEl) el.value = '30';
             renderPipeline();
             renderCustomIncomeRows();
             updateTargetPatchOptions();
@@ -492,9 +493,15 @@ let priorityPipeline = [];
                     <div class="item-name">${item.name} <span class="item-tag ${strategyClass}">${item.strategy}</span></div>
                     <div class="item-meta">${meta}</div>
                 </div>
-                <button class="toggle-btn ${isEnabled ? 'enabled' : ''}" title="${isEnabled ? 'Disable' : 'Enable'}" onclick="togglePipelineItem('${item.id}')">${isEnabled ? '●' : '○'}</button>
-                <button class="edit-btn" onclick="editPipelineItem('${item.id}')">✏️</button>
-                <button class="delete-btn" onclick="removePipelineItem('${item.id}')">&times;</button>
+                <div class="item-actions">
+                    <div class="reorder-btns">
+                        <button class="reorder-btn" title="Move up" onclick="movePipelineItem('${item.id}', -1)">▲</button>
+                        <button class="reorder-btn" title="Move down" onclick="movePipelineItem('${item.id}', 1)">▼</button>
+                    </div>
+                    <button class="toggle-btn ${isEnabled ? 'enabled' : ''}" title="${isEnabled ? 'Disable' : 'Enable'}" onclick="togglePipelineItem('${item.id}')">${isEnabled ? '●' : '○'}</button>
+                    <button class="edit-btn" onclick="editPipelineItem('${item.id}')">✏️</button>
+                    <button class="delete-btn" onclick="removePipelineItem('${item.id}')">&times;</button>
+                </div>
             `;
             div.addEventListener('dragstart', (e) => { draggedElementId = item.id; });
             div.addEventListener('dragover', (e) => e.preventDefault());
@@ -516,6 +523,17 @@ let priorityPipeline = [];
 
     function removePipelineItem(id) {
         priorityPipeline = priorityPipeline.filter(x => x.id !== id);
+        pipelineUpdated();
+    }
+
+    function movePipelineItem(id, direction) {
+        const idx = priorityPipeline.findIndex(x => x.id === id);
+        if (idx === -1) return;
+        const newIdx = idx + direction;
+        if (newIdx < 0 || newIdx >= priorityPipeline.length) return;
+        const temp = priorityPipeline[idx];
+        priorityPipeline.splice(idx, 1);
+        priorityPipeline.splice(newIdx, 0, temp);
         pipelineUpdated();
     }
 
@@ -1343,7 +1361,7 @@ let priorityPipeline = [];
         `;
     }
 
-    const SAVE_KEY = 'genshin_planner_v1';
+    const SAVE_KEY = 'genshin_calculator_v1';
     const banner = document.getElementById('failsafeBanner');
 
     function showBanner(html) {
@@ -1356,7 +1374,7 @@ let priorityPipeline = [];
 
     function storageIsWorking() {
         try {
-            const probe = '__planner_probe__';
+            const probe = '__calculator_probe__';
             localStorage.setItem(probe, '1');
             const ok = localStorage.getItem(probe) === '1';
             localStorage.removeItem(probe);
