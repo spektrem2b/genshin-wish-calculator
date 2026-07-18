@@ -38,16 +38,19 @@ let priorityPipeline = [];
         return `${bumpedMajor}.${bumpedMinor}`;
     }
 
+    const debouncedStartPatchUpdate = debounce((el) => {
+        renderPipeline();
+        renderCustomIncomeRows();
+        updateTargetPatchOptions();
+        calculateForecast();
+        saveState();
+    }, 150);
     [startPatchMajorEl, startPatchMinorEl].forEach(el => {
         if (!el) return;
         el.addEventListener('input', () => {
             if (parseInt(el.value) > 7 && el === startPatchMinorEl) el.value = '7';
             if (parseInt(el.value) > 30 && el === startPatchMajorEl) el.value = '30';
-            renderPipeline();
-            renderCustomIncomeRows();
-            updateTargetPatchOptions();
-            calculateForecast();
-            saveState();
+            debouncedStartPatchUpdate(el);
         });
     });
 
@@ -58,10 +61,12 @@ let priorityPipeline = [];
         hint.textContent = wishes > 0 ? `→ ${wishes} wish${wishes !== 1 ? 'es' : ''} (+${sg % 5} leftover)` : '';
     }
 
-    currentStarglitterEl.addEventListener('input', () => { updateStarglitterHint(); calculateForecast(); });
+    const debouncedCalculateForecast = debounce(calculateForecast, 150);
+
+    currentStarglitterEl.addEventListener('input', () => { updateStarglitterHint(); debouncedCalculateForecast(); });
     updateStarglitterHint();
 
-    [currentWishesEl, wishesPerPatchEl, starglitterEl, charSoftPityEl, wepSoftPityEl, charPityEl, wepPityEl].forEach(el => el.addEventListener('input', calculateForecast));
+    [currentWishesEl, wishesPerPatchEl, starglitterEl, charSoftPityEl, wepSoftPityEl, charPityEl, wepPityEl].forEach(el => el.addEventListener('input', debouncedCalculateForecast));
     [hasWelkinEl, hasBPEl].forEach(el => el.addEventListener('change', calculateForecast));
 
     function updateTargetPatchOptions(extendTo) {
@@ -204,8 +209,7 @@ let priorityPipeline = [];
             `;
         }
         document.querySelectorAll('.custom-val-input').forEach(inp => {
-            inp.addEventListener('input', calculateForecast);
-            inp.addEventListener('input', saveState);
+            inp.addEventListener('input', debounce(() => { calculateForecast(); saveState(); }, 150));
         });
     }
     renderCustomIncomeRows();
@@ -1494,10 +1498,11 @@ let priorityPipeline = [];
 
     function pipelineUpdated() { renderPipeline(); calculateForecast(); saveState(); }
 
+    const debouncedSaveState = debounce(saveState, 300);
     [currentWishesEl, wishesPerPatchEl, starglitterEl, charSoftPityEl, wepSoftPityEl, charPityEl, wepPityEl, totalPatchesEl].forEach(el =>
-        el.addEventListener('input', saveState)
+        el.addEventListener('input', debouncedSaveState)
     );
-    currentStarglitterEl.addEventListener('input', saveState);
+    currentStarglitterEl.addEventListener('input', debouncedSaveState);
     [hasWelkinEl, hasBPEl].forEach(el => el.addEventListener('change', saveState));
     document.querySelectorAll('input[name="incomeMode"]').forEach(r => r.addEventListener('change', saveState));
 
@@ -1537,18 +1542,46 @@ let priorityPipeline = [];
     loadState();
     pipelineUpdated();
 
+    // html2canvas is only needed for PNG export, so it's loaded on demand
+    // the first time someone clicks the export button instead of on every
+    // page load — saves ~200KB of parse/exec on the common path.
+    let html2canvasLoadPromise = null;
+    function loadHtml2Canvas() {
+        if (typeof html2canvas !== 'undefined') return Promise.resolve();
+        if (html2canvasLoadPromise) return html2canvasLoadPromise;
+        html2canvasLoadPromise = new Promise((resolve, reject) => {
+            const script = document.createElement('script');
+            script.src = 'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js';
+            script.onload = resolve;
+            script.onerror = reject;
+            document.head.appendChild(script);
+        });
+        return html2canvasLoadPromise;
+    }
+
     // Captures the Scenario Summary card as a PNG. html2canvas doesn't
     // reliably render `background-clip: text` gradients (the Radiance
     // shimmer), so we swap it to a flat gold color just for the capture,
     // then restore the live animated version immediately after.
-    window.exportScenarioSummaryPNG = function(btn) {
+    window.exportScenarioSummaryPNG = async function(btn) {
         const card = document.querySelector('.scenario-summary-card');
-        if (!card || typeof html2canvas === 'undefined') return;
+        if (!card) return;
 
         const originalLabel = btn.innerText;
         btn.disabled = true;
-        btn.innerText = 'Exporting…';
+        btn.innerText = 'Loading…';
 
+        try {
+            await loadHtml2Canvas();
+        } catch (e) {
+            console.error('Failed to load html2canvas:', e);
+            alert('Export failed to load — check your connection and try again.');
+            btn.disabled = false;
+            btn.innerText = originalLabel;
+            return;
+        }
+
+        btn.innerText = 'Exporting…';
         card.classList.add('exporting-for-png');
 
         html2canvas(card, {

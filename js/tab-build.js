@@ -1093,7 +1093,7 @@
                 if (build && build[field]) {
                     const dir = input.dataset.rangeDir;
                     build[field][dir] = String(val);
-                    saveState();
+                    saveStateDebounced();
                     const noteEl = document.getElementById(`ascensionNote_${field}_${build.id}_${dir}`);
                     if (noteEl) noteEl.textContent = noteTextForLevelValue(String(val));
                     const clarifySlot = document.getElementById(`ascensionClarifySlot_${field}_${build.id}_${dir}`);
@@ -1129,7 +1129,7 @@
                 const build = builds.find(b => b.id === input.dataset.buildId);
                 if (build) {
                     build.talents[input.dataset.talent][input.dataset.rangeDir] = String(val);
-                    saveState();
+                    saveStateDebounced();
                     const planEl = document.getElementById(`planTalents_${build.id}`);
                     if (planEl) planEl.textContent = `→ ${build.talents.basic.to}/${build.talents.skill.to}/${build.talents.burst.to}`;
                     refreshCostDisplay(build.id);
@@ -1274,7 +1274,7 @@
         `;
 
         panel.querySelectorAll('.kamera-override-input').forEach(input => {
-            input.addEventListener('input', () => {
+            input.addEventListener('input', debounce(() => {
                 const key = input.dataset.overrideKey;
                 if (input.value === '') {
                     delete manualOverrides[key];
@@ -1284,7 +1284,7 @@
                 }
                 saveManualOverrides();
                 renderBuilds();
-            });
+            }, 200));
         });
     }
 
@@ -1392,6 +1392,11 @@
             localStorage.setItem(SAVE_KEY, JSON.stringify(toSave));
         } catch (e) { /* ignore, non-critical */ }
     }
+
+    // Debounced variant for use on hot paths like level/talent number inputs,
+    // where every keystroke would otherwise re-stringify and write the whole
+    // builds array to localStorage.
+    const saveStateDebounced = typeof debounce === 'function' ? debounce(saveState, 300) : saveState;
 
     function loadState() {
         try {
