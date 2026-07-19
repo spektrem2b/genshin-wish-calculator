@@ -485,10 +485,13 @@
         <div class="section-card build-search-card">
             <div class="section-title">Your builds</div>
 
-            <button type="button" class="btn-add" id="buildAddBtn">+ Add character build</button>
+            <div class="build-actions-grid">
+                <button type="button" class="btn-add" id="buildAddBtn">+ Add character build</button>
+                <button type="button" class="btn-add" id="kameraImportBtn">+ Add InventoryKamera .json</button>
+                <button type="button" class="btn-reset" id="buildResetBtn">Reset Builder</button>
+                <button type="button" class="btn-reset hidden" id="kameraResetBtn">Clear Inventory</button>
+            </div>
 
-            <button type="button" class="btn-add" id="kameraImportBtn" style="margin-top:10px;">+ Add InventoryKamera .json</button>
-            <button type="button" class="btn-reset hidden" id="kameraResetBtn">Reset Inventory</button>
             <input type="file" id="kameraFileInput" accept=".json" style="display:none;">
             <div class="explanation" id="kameraImportStatus" style="margin-top:10px;"></div>
             <div id="kameraOverridePanel" class="hidden" style="margin-top:10px;"></div>

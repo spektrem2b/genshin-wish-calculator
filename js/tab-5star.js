@@ -1717,7 +1717,14 @@ let priorityPipeline = [];
                     if (!blob) { reject(new Error('toBlob returned null')); return; }
                     const file = new File([blob], 'scenario-summary.png', { type: 'image/png' });
 
-                    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+                    // Some desktop browsers (e.g. Windows Chrome/Edge) also implement
+                    // navigator.share/canShare, which pops the OS share sheet instead of
+                    // just downloading the file. Only use the share path on actual mobile
+                    // devices; desktops should always get a plain download.
+                    const isMobileDevice = /Android|iP(hone|ad|od)/.test(navigator.userAgent) ||
+                        (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
+                    if (isMobileDevice && navigator.canShare && navigator.canShare({ files: [file] })) {
                         try {
                             await navigator.share({ files: [file], title: 'Scenario Summary' });
                             resolve();

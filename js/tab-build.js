@@ -262,8 +262,19 @@
         if (expNeeded <= 0) return { rows: [] };
 
         if (!pool) {
-            // No inventory imported — same plain shopping-list behavior as before.
-            return { rows: expToBookCost(expNeeded).items.map(it => ({ ...it, owned: null, need: it.qty })) };
+            // No inventory imported — same plain shopping-list behavior as before,
+            // but Adventurer's Experience always gets a row (even at 0) since
+            // people track it specifically.
+            const items = expToBookCost(expNeeded).items;
+            const adventurersBook = EXP_BOOKS.find(b => b.id === 104002);
+            if (!items.some(it => it.id === 104002)) {
+                items.push({
+                    id: adventurersBook.id, name: adventurersBook.name,
+                    icon: `https://gi.yatta.moe/assets/UI/UI_ItemIcon_${adventurersBook.id}.png`,
+                    rarity: adventurersBook.rarity, qty: 0,
+                });
+            }
+            return { rows: items.map(it => ({ ...it, owned: null, need: it.qty })) };
         }
 
         let remaining = expNeeded;
@@ -292,7 +303,10 @@
             const key = normalizeGoodKey(book.name);
             const used = usedByKey[key] || 0;
             const toBuy = purchaseByKey[key] || 0;
-            if (used === 0 && toBuy === 0) return null; // not relevant — skip the row entirely
+            // Adventurer's Experience always renders, even at 0 — people track
+            // it specifically, unlike the other two tiers which only show up
+            // when actually relevant.
+            if (used === 0 && toBuy === 0 && book.id !== 104002) return null;
             return {
                 id: book.id, name: book.name, rarity: book.rarity,
                 icon: `https://gi.yatta.moe/assets/UI/UI_ItemIcon_${book.id}.png`,
@@ -597,9 +611,10 @@
             const cat = materialCategory(m.id, m.rarity);
             (byCategory[cat] = byCategory[cat] || []).push(m);
         });
-        return TYPE_ORDER.filter(cat => byCategory[cat]).map(cat => {
+
+        function rowsHtmlFor(cat) {
             const items = byCategory[cat].sort((a, b) => (b.rarity || 0) - (a.rarity || 0));
-            const rows = items.map(m => {
+            return items.map(m => {
                 const icon = m.icon
                     ? `<img class="cost-material-icon rarity-${m.rarity || 1}" src="${m.icon}" alt="">`
                     : `<div class="cost-material-icon cost-material-icon-placeholder rarity-${m.rarity || 1}">?</div>`;
@@ -625,8 +640,43 @@
                         ${qtyHtml}
                     </div>`;
             }).join('');
-            return `<div class="cost-material-tier"><div class="cost-material-tier-label">${cat}</div>${rows}</div>`;
+        }
+
+        // Categories that are (in practice) always single-item and mutually
+        // exclusive with their sibling — when both members of a pair show up
+        // together, fold them into one narrower card with a divider instead
+        // of two mostly-empty cards side by side.
+        const MERGE_PAIRS = [
+            ['Boss Material', 'Weekly Boss Material', 'Local Specialty'],
+            ['Weekly Boss Material', 'Special'],
+        ];
+
+        const presentCats = TYPE_ORDER.filter(cat => byCategory[cat]);
+        const consumed = new Set();
+        const cards = [];
+        presentCats.forEach(cat => {
+            if (consumed.has(cat)) return;
+            const pair = MERGE_PAIRS.find(group => group.includes(cat) && group.some(other => other !== cat && presentCats.includes(other) && !consumed.has(other)));
+            if (pair) {
+                const members = pair.filter(c => presentCats.includes(c));
+                members.forEach(c => consumed.add(c));
+                cards.push({ merged: true, label: members.join(' & '), members });
+            } else {
+                consumed.add(cat);
+                cards.push({ merged: false, label: cat });
+            }
+        });
+
+        const tiersHtml = cards.map(card => {
+            if (card.merged) {
+                const sections = card.members.map((cat, i) => `
+                    ${i > 0 ? '<div class="cost-material-subdivider"></div>' : ''}
+                    <div class="cost-material-tier-label">${cat}</div>${rowsHtmlFor(cat)}`).join('');
+                return `<div class="cost-material-tier cost-material-tier-merged">${sections}</div>`;
+            }
+            return `<div class="cost-material-tier"><div class="cost-material-tier-label">${card.label}</div>${rowsHtmlFor(card.label)}</div>`;
         }).join('');
+        return `<div class="cost-material-tier-grid">${tiersHtml}</div>`;
     }
 
     // Ascension breakpoints — which level unlocks which ascension phase (95/100 are weapon-only, ignored here)
@@ -650,6 +700,7 @@
 
     let builds = [];
     let swapOpenIds = new Set();
+    let weaponSwapOpenIds = new Set();
 
     function uid() {
         return 'b' + Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
@@ -775,6 +826,14 @@
         saveState();
     }
 
+    function resetAllBuilds() {
+        builds = [];
+        swapOpenIds.clear();
+        weaponSwapOpenIds.clear();
+        renderBuilds();
+        saveState();
+    }
+
     // --- per-card character autocomplete (for blank cards) ---
 
     function renderCharListFor(buildId, query) {
@@ -827,6 +886,7 @@
         build.weapon = weaponEntry;
         build.weaponLevel = { from: '1', to: '90' };
         build.weaponProfile = null;
+        weaponSwapOpenIds.delete(buildId);
         renderBuilds();
         saveState();
 
@@ -843,6 +903,7 @@
         build.weapon = null;
         build.weaponLevel = null;
         build.weaponProfile = null;
+        weaponSwapOpenIds.delete(buildId);
         renderBuilds();
         saveState();
     }
@@ -867,6 +928,91 @@
         </div>`;
     }
 
+    // Populated fresh each render — abilitiesListHtml() fills this in, the
+    // modal click handler reads out of it. Keyed by "buildId:group:index"
+    // so we don't have to cram descriptions into data-attributes (they can
+    // contain quotes/newlines that are awkward to HTML-escape safely).
+    const skillModalData = {};
+
+    function escapeHtml(str) {
+        return String(str == null ? '' : str)
+            .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function activeTalentTypeLabel(index, total) {
+        if (index === 0) return 'Normal Attack';
+        if (index === total - 1) return 'Elemental Burst';
+        if (index === 1) return 'Elemental Skill';
+        return 'Special Talent'; // e.g. Ayaka's Senho, cooking talents, etc.
+    }
+
+    // Abilities panel: lists the character's active talents (Normal Attack,
+    // Elemental Skill, Elemental Burst, and any extra active abilities) and
+    // passive talents as tappable rows, each tagged with its type so it's
+    // clear what you're opening before you click. Informational only,
+    // doesn't affect the plan.
+    function abilitiesListHtml(build) {
+        const profile = build.profile;
+        if (!profile || !(profile.activeTalents || []).length) return '';
+
+        const activeTalents = profile.activeTalents || [];
+        const rows = activeTalents.map((t, i) => {
+            const type = activeTalentTypeLabel(i, activeTalents.length);
+            skillModalData[`${build.id}:active:${i}`] = { ...t, type };
+            return { group: 'active', index: i, icon: t.icon, name: t.name, type };
+        });
+        (profile.passiveTalents || []).forEach((t, i) => {
+            skillModalData[`${build.id}:passive:${i}`] = { ...t, type: 'Passive Talent' };
+            rows.push({ group: 'passive', index: i, icon: t.icon, name: t.name, type: 'Passive Talent' });
+        });
+        if (!rows.length) return '';
+
+        return `
+            <div class="abilities-list">
+                ${rows.map(r => `
+                    <button type="button" class="skill-row" data-skill-open="${build.id}:${r.group}:${r.index}">
+                        <span class="skill-row-text">
+                            <span class="skill-row-type">${r.type}</span>
+                            <span class="skill-row-name">${escapeHtml(r.name)}</span>
+                        </span>
+                        <span class="skill-row-chevron">›</span>
+                    </button>
+                `).join('')}
+            </div>`;
+    }
+
+    function openSkillModal(key) {
+        const t = skillModalData[key];
+        if (!t) return;
+
+        const existing = document.getElementById('skillModalOverlay');
+        if (existing) existing.remove();
+
+        const overlay = document.createElement('div');
+        overlay.id = 'skillModalOverlay';
+        overlay.className = 'skill-modal-overlay';
+        overlay.innerHTML = `
+            <div class="skill-modal-card">
+                <div class="skill-modal-header">
+                    ${t.icon
+                        ? `<img class="skill-modal-icon" src="${t.icon}" alt="">`
+                        : `<div class="skill-modal-icon skill-row-icon-placeholder">?</div>`}
+                    <span class="skill-modal-titlewrap">
+                        ${t.type ? `<span class="skill-modal-type">${escapeHtml(t.type)}</span>` : ''}
+                        <span class="skill-modal-title">${escapeHtml(t.name)}</span>
+                    </span>
+                    <button type="button" class="skill-modal-close" aria-label="Close">✕</button>
+                </div>
+                <div class="skill-modal-body">${escapeHtml(t.description || 'No description available.')}</div>
+            </div>`;
+
+        function close() { overlay.remove(); }
+        overlay.querySelector('.skill-modal-close').addEventListener('click', close);
+        overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
+
+        document.body.appendChild(overlay);
+    }
+
     function renderBuildCard(build, pool) {
         if (!build.character) return renderBlankCard(build);
 
@@ -874,31 +1020,37 @@
         const elBadge = elementBadgeImg(c.element, 20);
 
         const weaponBlock = build.weapon ? `
-            <div class="selected-asset-chip" style="margin-top:14px;">
-                ${iconHtml(build.weapon)}
-                <div class="sac-name" style="font-size:1.05rem;">${build.weapon.name} <span class="sac-sub">${starsHtml(build.weapon.rarity)}</span></div>
-                <button type="button" class="sac-clear" data-clear-weapon="${build.id}" title="Remove weapon">&times;</button>
-            </div>
-
-            <div class="form-group" style="margin-top:16px; margin-bottom:0;">
-                <label>Weapon level</label>
-                <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
-                    <div>
-                        <div class="range-sublabel">From</div>
-                        <input type="number" class="level-input" data-build-id="${build.id}" data-range-dir="from" data-level-field="weaponLevel" min="1" max="90" step="1" placeholder="1" value="${levelInputDisplayValue(build.weaponLevel.from)}">
-                        <div class="ascension-note" id="ascensionNote_weaponLevel_${build.id}_from">${noteTextForLevelValue(build.weaponLevel.from)}</div>
-                        <div class="ascension-clarify-slot" id="ascensionClarifySlot_weaponLevel_${build.id}_from">${clarifyHtml(build.id, 'from', build.weaponLevel.from, 'weaponLevel')}</div>
-                    </div>
-                    <div>
-                        <div class="range-sublabel">To</div>
-                        <input type="number" class="level-input" data-build-id="${build.id}" data-range-dir="to" data-level-field="weaponLevel" min="1" max="90" step="1" placeholder="1" value="${levelInputDisplayValue(build.weaponLevel.to)}">
-                        <div class="ascension-note" id="ascensionNote_weaponLevel_${build.id}_to">${noteTextForLevelValue(build.weaponLevel.to)}</div>
-                        <div class="ascension-clarify-slot" id="ascensionClarifySlot_weaponLevel_${build.id}_to">${clarifyHtml(build.id, 'to', build.weaponLevel.to, 'weaponLevel')}</div>
-                    </div>
+            <div class="weapon-card">
+                <button type="button" class="weapon-card-remove" data-clear-weapon="${build.id}" title="Remove weapon">&times;</button>
+                ${weaponSwapOpenIds.has(build.id) ? `
+                <div class="autocomplete-wrap">
+                    <input type="text" class="build-weapon-input" data-build-id="${build.id}" placeholder="Swap weapon..." autocomplete="off">
+                    <div class="autocomplete-list hidden" id="weaponList_${build.id}"></div>
                 </div>
+                ` : `
+                <button type="button" class="weapon-selector-btn" data-swap-weapon-toggle="${build.id}" title="Click to change weapon">
+                    ${iconHtml(build.weapon)}
+                    <div style="flex:1; min-width:0; text-align:left;">
+                        <div class="sac-name">${build.weapon.name}</div>
+                        <div class="sac-sub">${starsHtml(build.weapon.rarity)}</div>
+                    </div>
+                </button>
+                `}
+                <div class="weapon-card-level">
+                    <span class="weapon-card-level-label">Level</span>
+                    <input type="number" class="level-input input-compact" data-build-id="${build.id}" data-range-dir="from" data-level-field="weaponLevel" min="1" max="90" step="1" placeholder="1" value="${levelInputDisplayValue(build.weaponLevel.from)}" title="From">
+                    <span class="talent-row-arrow">→</span>
+                    <input type="number" class="level-input input-compact" data-build-id="${build.id}" data-range-dir="to" data-level-field="weaponLevel" min="1" max="90" step="1" placeholder="1" value="${levelInputDisplayValue(build.weaponLevel.to)}" title="To">
+                </div>
+                <div class="ascension-note-pair">
+                    <div class="ascension-note" id="ascensionNote_weaponLevel_${build.id}_from">${noteTextForLevelValue(build.weaponLevel.from)}</div>
+                    <div class="ascension-note" id="ascensionNote_weaponLevel_${build.id}_to">${noteTextForLevelValue(build.weaponLevel.to)}</div>
+                </div>
+                <div class="ascension-clarify-slot" id="ascensionClarifySlot_weaponLevel_${build.id}_from">${clarifyHtml(build.id, 'from', build.weaponLevel.from, 'weaponLevel')}</div>
+                <div class="ascension-clarify-slot" id="ascensionClarifySlot_weaponLevel_${build.id}_to">${clarifyHtml(build.id, 'to', build.weaponLevel.to, 'weaponLevel')}</div>
             </div>
         ` : `
-            <div class="autocomplete-wrap" style="margin-top:14px;">
+            <div class="autocomplete-wrap" style="max-width:340px;">
                 <input type="text" class="build-weapon-input" data-build-id="${build.id}" placeholder="Add weapon" autocomplete="off">
                 <div class="autocomplete-list hidden" id="weaponList_${build.id}"></div>
             </div>
@@ -924,12 +1076,12 @@
         })() : '';
 
         const headerBlock = swapOpenIds.has(build.id) ? `
-            <div style="display:flex; align-items:flex-start; gap:14px; margin-bottom:22px;">
+            <div style="display:flex; align-items:flex-start; gap:14px; margin-bottom:22px; max-width:460px;">
                 <span class="avatar-badge">
                     ${c.icon ? `<img src="${c.icon}" alt="" style="width:52px;height:52px;border-radius:50%;object-fit:cover;border:1px solid var(--border-color);display:block;">` : `<div class="ac-icon-placeholder" style="width:52px;height:52px;">?</div>`}
                     ${elBadge}
                 </span>
-                <div style="flex:1;">
+                <div style="flex:1; min-width:0;">
                     <div class="autocomplete-wrap">
                         <input type="text" class="build-char-input" data-build-id="${build.id}" placeholder="Swap character..." autocomplete="off">
                         <div class="autocomplete-list hidden" id="charList_${build.id}"></div>
@@ -938,7 +1090,7 @@
                 <button type="button" class="build-remove-btn" data-remove-build="${build.id}" title="Remove character" aria-label="Remove character">&times;</button>
             </div>
         ` : `
-            <div style="display:flex; align-items:center; gap:14px; margin-bottom:22px;">
+            <div style="display:flex; align-items:center; gap:14px; margin-bottom:22px; max-width:460px;">
                 <button type="button" class="char-header-swap" data-swap-toggle="${build.id}" title="Click to change character">
                     <span class="avatar-badge">
                         ${c.icon ? `<img src="${c.icon}" alt="" style="width:52px;height:52px;border-radius:50%;object-fit:cover;border:1px solid var(--border-color);display:block;">` : `<div class="ac-icon-placeholder" style="width:52px;height:52px;">?</div>`}
@@ -955,55 +1107,59 @@
             </div>
         `;
 
+        const abilitiesHtml = abilitiesListHtml(build);
+
         return `
         <div class="section-card build-card" data-build-id="${build.id}">
-            ${headerBlock}
+            <div class="top-layout">
+                <div class="planner-col">
+                    ${headerBlock}
 
-            <div class="form-group">
-                <label>Level</label>
-                <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
-                    <div>
-                        <div class="range-sublabel">From</div>
-                        <input type="number" class="level-input" data-build-id="${build.id}" data-range-dir="from" data-level-field="level" min="1" max="90" step="1" placeholder="1" value="${levelInputDisplayValue(build.level.from)}">
-                        <div class="ascension-note" id="ascensionNote_level_${build.id}_from">${noteTextForLevelValue(build.level.from)}</div>
-                        <div class="ascension-clarify-slot" id="ascensionClarifySlot_level_${build.id}_from">${clarifyHtml(build.id, 'from', build.level.from, 'level')}</div>
-                    </div>
-                    <div>
-                        <div class="range-sublabel">To</div>
-                        <input type="number" class="level-input" data-build-id="${build.id}" data-range-dir="to" data-level-field="level" min="1" max="90" step="1" placeholder="1" value="${levelInputDisplayValue(build.level.to)}">
-                        <div class="ascension-note" id="ascensionNote_level_${build.id}_to">${noteTextForLevelValue(build.level.to)}</div>
-                        <div class="ascension-clarify-slot" id="ascensionClarifySlot_level_${build.id}_to">${clarifyHtml(build.id, 'to', build.level.to, 'level')}</div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="form-group" style="margin-bottom:0;">
-                <label>Talents <span style="color: var(--text-muted); font-weight:400; font-size:0.8rem;">— 1 to 10</span></label>
-                <div class="talent-stack">
-                    ${[
-                        { key: 'basic', label: 'Basic Attack' },
-                        { key: 'skill', label: 'Skill' },
-                        { key: 'burst', label: 'Burst' },
-                    ].map(({ key, label }) => `
-                        <div class="talent-row">
-                            <div class="talent-row-label">${label}</div>
-                            <div class="talent-row-fields">
-                                <div>
-                                    <div class="range-sublabel">From</div>
-                                    <input type="number" class="talent-input" data-build-id="${build.id}" data-talent="${key}" data-range-dir="from" min="1" max="10" step="1" placeholder="1" value="${build.talents[key].from}">
+                    <div class="form-group" style="margin-bottom:0;">
+                        <label>Level &amp; Talents <span style="color: var(--text-muted); font-weight:400; font-size:0.8rem;">— Talents 1 to 10</span></label>
+                        <div class="stat-cards-grid">
+                            <div class="talent-row">
+                                <div class="talent-row-label">Level</div>
+                                <div class="talent-row-fields">
+                                    <input type="number" class="level-input input-compact" data-build-id="${build.id}" data-range-dir="from" data-level-field="level" min="1" max="90" step="1" placeholder="1" value="${levelInputDisplayValue(build.level.from)}" title="From">
+                                    <span class="talent-row-arrow">→</span>
+                                    <input type="number" class="level-input input-compact" data-build-id="${build.id}" data-range-dir="to" data-level-field="level" min="1" max="90" step="1" placeholder="1" value="${levelInputDisplayValue(build.level.to)}" title="To">
                                 </div>
-                                <div>
-                                    <div class="range-sublabel">To</div>
-                                    <input type="number" class="talent-input" data-build-id="${build.id}" data-talent="${key}" data-range-dir="to" min="1" max="10" step="1" placeholder="1" value="${build.talents[key].to}">
+                                <div class="ascension-note-pair">
+                                    <div class="ascension-note" id="ascensionNote_level_${build.id}_from">${noteTextForLevelValue(build.level.from)}</div>
+                                    <div class="ascension-note" id="ascensionNote_level_${build.id}_to">${noteTextForLevelValue(build.level.to)}</div>
                                 </div>
+                                <div class="ascension-clarify-slot" id="ascensionClarifySlot_level_${build.id}_from">${clarifyHtml(build.id, 'from', build.level.from, 'level')}</div>
+                                <div class="ascension-clarify-slot" id="ascensionClarifySlot_level_${build.id}_to">${clarifyHtml(build.id, 'to', build.level.to, 'level')}</div>
                             </div>
+                            ${[
+                                { key: 'basic', label: 'Basic Attack' },
+                                { key: 'skill', label: 'Skill' },
+                                { key: 'burst', label: 'Burst' },
+                            ].map(({ key, label }) => `
+                                <div class="talent-row">
+                                    <div class="talent-row-label">${label}</div>
+                                    <div class="talent-row-fields">
+                                        <input type="number" class="talent-input input-compact" data-build-id="${build.id}" data-talent="${key}" data-range-dir="from" min="1" max="10" step="1" placeholder="1" value="${build.talents[key].from}" title="From">
+                                        <span class="talent-row-arrow">→</span>
+                                        <input type="number" class="talent-input input-compact" data-build-id="${build.id}" data-talent="${key}" data-range-dir="to" min="1" max="10" step="1" placeholder="1" value="${build.talents[key].to}" title="To">
+                                    </div>
+                                </div>
+                            `).join('')}
                         </div>
-                    `).join('')}
+                    </div>
                 </div>
-            </div>
 
-            <div style="border-top:1px solid var(--border-color); margin:22px 0 0;"></div>
-            ${weaponBlock}
+                <div class="weapon-col">
+                    ${weaponBlock}
+                </div>
+
+                ${abilitiesHtml ? `
+                <aside class="abilities-panel">
+                    <div class="abilities-panel-title">Abilities</div>
+                    ${abilitiesHtml}
+                </aside>` : ''}
+            </div>
 
             <div style="border-top:1px solid var(--border-color); margin:22px 0 0;"></div>
             ${(() => {
@@ -1064,6 +1220,9 @@
 
         if (addBtn) addBtn.disabled = builds.length >= HARD_CAP;
 
+        const buildResetBtn = document.getElementById('buildResetBtn');
+        if (buildResetBtn) buildResetBtn.disabled = builds.length === 0;
+
         if (!builds.length) {
             wrap.innerHTML = '';
             attachCardListeners();
@@ -1088,6 +1247,14 @@
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
                 swapOpenIds.add(btn.dataset.swapToggle);
+                renderBuilds();
+            });
+        });
+
+        document.querySelectorAll('[data-swap-weapon-toggle]').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                weaponSwapOpenIds.add(btn.dataset.swapWeaponToggle);
                 renderBuilds();
             });
         });
@@ -1477,6 +1644,23 @@
             });
         }
 
+        const buildResetBtn = document.getElementById('buildResetBtn');
+        if (buildResetBtn && !buildResetBtn.dataset.wired) {
+            buildResetBtn.dataset.wired = '1';
+            buildResetBtn.addEventListener('click', () => {
+                if (!builds.length) return;
+                resetAllBuilds();
+            });
+        }
+
+        if (!document.body.dataset.skillModalWired) {
+            document.body.dataset.skillModalWired = '1';
+            document.addEventListener('click', (e) => {
+                const btn = e.target.closest('[data-skill-open]');
+                if (btn) openSkillModal(btn.dataset.skillOpen);
+            });
+        }
+
         if (!document.body.dataset.buildOutsideClickWired) {
             document.body.dataset.buildOutsideClickWired = '1';
             document.addEventListener('click', (e) => {
@@ -1502,6 +1686,10 @@
                 }
                 if (swapOpenIds.size && !e.target.closest('.build-card')) {
                     swapOpenIds.clear();
+                    renderBuilds();
+                }
+                if (weaponSwapOpenIds.size && !e.target.closest('.build-card')) {
+                    weaponSwapOpenIds.clear();
                     renderBuilds();
                 }
             });
