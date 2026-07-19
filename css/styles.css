@@ -1,6 +1,5 @@
         :root {
             --bg-color: #070711;
-            --bg-gradient-top: #1a153a;
             --card-bg: rgba(22, 21, 45, 0.85);
             --accent-purple: #a255ff;
             --accent-purple-dark: #7b2cbf;
@@ -18,12 +17,11 @@
             --danger: #ff4d5a;
         }
 
-        html, body { height: 100%; }
+        html { background: var(--bg-color); }
 
         body { 
             font-family: system-ui, -apple-system, sans-serif; 
             background: var(--bg-color);
-            background-image: radial-gradient(circle at top center, var(--bg-gradient-top) 0%, var(--bg-color) 80%);
             color: var(--text-main); 
             margin: 0; 
             line-height: 1.6; 
@@ -120,7 +118,7 @@
 
         .container {
             width: 100%;
-            max-width: min(1500px, calc(100% - 16px));
+            max-width: min(1760px, calc(100% - 32px));
             margin: 0 auto;
         }
 
@@ -771,6 +769,17 @@
             .priority-list-wrap { grid-template-columns: 1fr; }
         }
 
+        /* No targets yet — center the action buttons instead of leaving
+           them pinned to the right with a big empty gap beside them. */
+        .priority-list-wrap.is-empty {
+            grid-template-columns: 1fr;
+            justify-items: center;
+        }
+        .priority-list-wrap.is-empty .priority-actions {
+            width: 100%;
+            max-width: 300px;
+        }
+
         .priority-item { 
             display: flex; 
             align-items: center; 
@@ -1073,6 +1082,61 @@
         .rem-low { color: var(--warning); }
         .rem-deficit { color: var(--danger); font-weight: 700; }
 
+        /* Full text (desktop) vs. compact icon/abbreviation (mobile) pairs —
+           same underlying data, CSS just swaps which span is visible. */
+        .log-meta-mobile, .log-sg-mobile, .log-rem-mobile { display: none; }
+
+        @media (max-width: 640px) {
+            .scenario-block { padding: 16px; }
+            .scenario-log { gap: 6px; }
+
+            .log-row {
+                padding: 9px 11px;
+                gap: 4px 9px;
+            }
+            .log-row .avatar-badge img:not(.el-badge-icon) {
+                width: 32px !important;
+                height: 32px !important;
+            }
+            .log-row > div:nth-child(2) {
+                flex: 1 1 auto;
+                order: 2;
+                min-width: 0;
+            }
+            .log-outcome {
+                order: 3;
+                margin-left: auto;
+                font-size: 0.72rem;
+            }
+            .log-name { font-size: 0.92rem; }
+            .log-name-sub { font-size: 0.76rem; }
+            .log-meta-full { display: none; }
+            .log-meta-mobile { display: inline; }
+
+            /* 2x2 stat grid: pulls/net in the left column, remaining(or
+               short)/starglitter-refund in the right column. */
+            .log-right {
+                order: 4;
+                flex: 1 0 100%;
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                column-gap: 10px;
+                row-gap: 1px;
+                margin-left: 0;
+                margin-top: 4px;
+                padding-left: 41px; /* aligns under the name, past the avatar */
+                text-align: left;
+            }
+            .log-pulls { grid-column: 1; grid-row: 1; font-size: 0.82rem !important; font-weight: 600 !important; }
+            .log-net { grid-column: 1; grid-row: 2; font-size: 0.78rem !important; color: var(--text-muted); margin: 0 !important; }
+            .log-remaining { grid-column: 2; grid-row: 1; font-size: 0.82rem !important; margin: 0 !important; }
+            .log-sg { grid-column: 2; grid-row: 2; font-size: 0.78rem !important; margin: 0 !important; }
+            .log-sg-full { display: none; }
+            .log-sg-mobile { display: inline; }
+            .log-rem-full { display: none; }
+            .log-rem-mobile { display: inline; }
+        }
+
         .log-summary {
             display: flex; align-items: center; justify-content: flex-end;
             gap: 8.8px; margin-top: 4.4px; padding-top: 13.2px;
@@ -1250,6 +1314,11 @@
             overflow: hidden;
             text-overflow: ellipsis;
         }
+
+        @media (max-width: 480px) {
+            .scen-sum-stat-label-extra { display: none; }
+        }
+        .scenario-summary-card.exporting-for-png .scen-sum-stat-label-extra { display: inline !important; }
 
         @media (max-width: 700px) {
             .scen-sum-table-wrap::after {

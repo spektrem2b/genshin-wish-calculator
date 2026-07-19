@@ -550,6 +550,9 @@ let priorityPipeline = [];
             `;
             container.appendChild(div);
         });
+
+        const wrap = document.querySelector('.priority-list-wrap');
+        if (wrap) wrap.classList.toggle('is-empty', priorityPipeline.length === 0);
     }
 
     function removePipelineItem(id) {
@@ -835,14 +838,14 @@ let priorityPipeline = [];
                 const timing = `${patchLabel} · ${halfLabel}`;
 
                 if (skipRemaining) {
-                    rows.push({ type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'One Shot stopped here' });
+                    rows.push({ idx, type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'One Shot stopped here' });
                     return;
                 }
 
                 if (loses === -1) {
                     // Optional target deprioritized in this scenario's story —
                     // not attempted at all, no wishes spent.
-                    rows.push({ type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'Skipped — Optional, deprioritized to protect Hard Lock targets', remaining: Math.max(0, currentPool) });
+                    rows.push({ idx, type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'Skipped — Optional, deprioritized to protect Hard Lock targets', remaining: Math.max(0, currentPool) });
                     return;
                 }
 
@@ -855,7 +858,7 @@ let priorityPipeline = [];
                 if (currentPool >= cost) {
                     totalSpent += cost;
                     const remaining = currentPool - cost;
-                    rows.push({ type: loses > 0 ? 'lose-win' : 'win', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, loses, capturedRadiance, rawCost, cost, sgRefund, remaining });
+                    rows.push({ idx, type: loses > 0 ? 'lose-win' : 'win', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, loses, capturedRadiance, rawCost, cost, sgRefund, remaining });
                 } else {
                     if (item.strategy === 'Hard Lock') {
                         // Must-have target that can't be afforded — this really is a
@@ -863,18 +866,46 @@ let priorityPipeline = [];
                         totalSpent += cost;
                         failed = true;
                         const deficit = incomeCeiling - totalSpent;
-                        rows.push({ type: 'deficit', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, loses, rawCost, cost, sgRefund, deficit });
+                        rows.push({ idx, type: 'deficit', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, loses, rawCost, cost, sgRefund, deficit });
                     } else if (item.strategy === 'One Shot') {
-                        rows.push({ type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'Not enough wishes — One Shot skipped', remaining: Math.max(0, currentPool) });
+                        rows.push({ idx, type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'Not enough wishes — One Shot skipped', remaining: Math.max(0, currentPool) });
                         skipRemaining = true;
                     } else {
                         // Optional target — by design, dropping it isn't a failure.
-                        rows.push({ type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'Not enough wishes — skipped (Optional)', remaining: Math.max(0, currentPool) });
+                        rows.push({ idx, type: 'skip', itemType: item.type, name: item.name, icon: item.icon, element: item.element, label, timing, strategy: item.strategy, reason: 'Not enough wishes — skipped (Optional)', remaining: Math.max(0, currentPool) });
                     }
                 }
             });
 
             return { rows, failed };
+        }
+
+        // Compact mobile equivalents for the timing/strategy meta line — the
+        // full text stays for desktop, these are only shown under 640px.
+        function strategyIcon(strategy) {
+            if (strategy === 'Hard Lock') return '🔒';
+            if (strategy === 'One Shot') return '🎯';
+            return '🔓'; // Optional
+        }
+        function abbrevTiming(timing) {
+            return timing
+                .replace('1st Half, Instant', '1H⚡')
+                .replace('1st Half', '1H')
+                .replace('2nd Half', '2H');
+        }
+        function metaLine(timing, strategyOrReasonHtml, strategy) {
+            return `<div class="log-name-sub">
+                <span class="log-meta-full">${timing} · ${strategyOrReasonHtml}</span>
+                <span class="log-meta-mobile">${abbrevTiming(timing)} · ${strategyIcon(strategy)}</span>
+            </div>`;
+        }
+        // "~6 wishes back via Starglitter" (desktop) / "+6 SG" (mobile).
+        function sgHtmlFor(sgRefund) {
+            if (!(sgRefund > 0)) return '';
+            return `<div class="log-sg">
+                <span class="log-sg-full">~${sgRefund} wishes back via Starglitter</span>
+                <span class="log-sg-mobile">+${sgRefund} SG</span>
+            </div>`;
         }
 
         function renderRow(row) {
@@ -884,7 +915,7 @@ let priorityPipeline = [];
                     ${rowIcon}
                     <div>
                         <div class="log-name">${row.name} <span style="color:var(--text-muted);font-weight:400;font-size:0.85rem;">${row.label}</span></div>
-                        <div class="log-name-sub">${row.timing} · ${row.reason}</div>
+                        ${metaLine(row.timing, row.reason, row.strategy)}
                     </div>
                     <div class="log-outcome oc-skip">SKIPPED</div>
                     <div class="log-right">
@@ -893,18 +924,21 @@ let priorityPipeline = [];
                 </div>`;
             }
             if (row.type === 'deficit') {
-                const sgHtml = (row.sgRefund > 0) ? `<div class="log-sg">~${row.sgRefund} wishes back via Starglitter</div>` : '';
+                const outcomeText = row.loses > 0
+                    ? (row.itemType === 'weapon' ? '<img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="Epitomized">Epitomized' : '<img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="Guaranteed">Guaranteed')
+                    : (row.itemType === 'weapon' ? 'Won 75/25' : 'Won 55/45');
                 return `<div class="log-row row-deficit">
                     ${rowIcon}
                     <div>
                         <div class="log-name">${row.name} <span style="color:var(--text-muted);font-weight:400;font-size:0.85rem;">${row.label}</span></div>
-                        <div class="log-name-sub">${row.timing} · ${row.loses > 0 ? (row.itemType === 'weapon' ? '<img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="Epitomized">Epitomized' : '<img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="Guaranteed">Guaranteed') : (row.itemType === 'weapon' ? 'Won 75/25' : 'Won 55/45')} · ${row.strategy}</div>
+                        ${metaLine(row.timing, `${outcomeText} · ${row.strategy}`, row.strategy)}
                     </div>
                     <div class="log-outcome oc-deficit">DEFICIT</div>
                     <div class="log-right">
-                        <div class="log-pulls">${row.rawCost} pulls${row.cost < row.rawCost ? ` · ${row.cost} net` : ''}</div>
-                        ${sgHtml}
-                        <div class="log-remaining rem-deficit">${row.deficit} wishes short</div>
+                        <div class="log-pulls">${row.rawCost} pulls</div>
+                        ${row.cost < row.rawCost ? `<div class="log-net">${row.cost} net</div>` : ''}
+                        <div class="log-remaining rem-deficit"><span class="log-rem-full">${row.deficit} wishes short</span><span class="log-rem-mobile">${row.deficit} short</span></div>
+                        ${sgHtmlFor(row.sgRefund)}
                     </div>
                 </div>`;
             }
@@ -928,19 +962,19 @@ let priorityPipeline = [];
                 ocLabel = isWep ? 'Won 75/25' : 'Won 55/45';
 
             }
-            const sgHtml = (row.sgRefund > 0) ? `<div class="log-sg">~${row.sgRefund} wishes back via Starglitter</div>` : '';
             const remClass = row.remaining > 50 ? 'rem-ok' : row.remaining > 0 ? 'rem-low' : 'rem-deficit';
             return `<div class="log-row ${rowClass}">
                 ${rowIcon}
                 <div>
                     <div class="log-name">${row.name} <span style="color:var(--text-muted);font-weight:400;font-size:0.85rem;">${row.label}</span></div>
-                    <div class="log-name-sub">${row.timing} · ${row.strategy}</div>
+                    ${metaLine(row.timing, row.strategy, row.strategy)}
                 </div>
                 <div class="log-outcome ${ocClass}" style="${row.capturedRadiance ? 'display:flex;align-items:center;' : ''}">${ocLabel}</div>
                 <div class="log-right">
-                    <div class="log-pulls">${row.rawCost} pulls${row.cost < row.rawCost ? ` · ${row.cost} net` : ''}</div>
-                    ${sgHtml}
+                    <div class="log-pulls">${row.rawCost} pulls</div>
+                    ${row.cost < row.rawCost ? `<div class="log-net">${row.cost} net</div>` : ''}
                     <div class="log-remaining ${remClass}">${row.remaining} left</div>
+                    ${sgHtmlFor(row.sgRefund)}
                 </div>
             </div>`;
         }
@@ -969,64 +1003,75 @@ let priorityPipeline = [];
             return { item, idxs };
         }).filter(g => g.idxs.length > 0); // drop targets already at goal (0 copies needed)
 
-        const bestPattern = new Array(nep).fill(0);
+        const bestPatternRaw = new Array(nep).fill(0);
 
-        // Worst Case story: Hard Lock and One Shot targets are things you're
-        // always actually pulling for, so they genuinely can lose. Optional
-        // targets are discretionary — but "discretionary" only means they
-        // get sacrificed when the budget is actually tight enough that
-        // attempting them would starve a Hard Lock/One Shot target. With
-        // a comfortable wish surplus, an Optional target should still show
-        // as attempted (win/guaranteed/epitomized) like everything else —
-        // there's no reason to force-skip it just because it's optional.
-        // So: try the "everyone attempts, everyone loses" story first; only
-        // fall back to force-skipping Optional targets (skip sentinel -1)
-        // if that full-attempt story actually fails a Hard Lock/One Shot
-        // target for real. Marking EVERY copy of a Hard Lock/One Shot
-        // target as "attempted loss" is intentional either way — Capture
-        // Radiance below can still force a win on the banner-wide
-        // 3-in-a-row streak, but each copy is otherwise its own
-        // independent 50/50 (or 75/25 Epitomized roll for weapons), loss
-        // or no loss.
-        const worstPatternAllAttempt = resolvePattern(ep.map(() => 1), ep);
-        const worstTrial = runScenario(worstPatternAllAttempt);
-        const worstPattern = !worstTrial.failed
-            ? worstPatternAllAttempt
-            : resolvePattern(
-                ep.map(item => {
-                    if (item.strategy !== 'Hard Lock' && item.strategy !== 'One Shot') {
-                        return -1; // skip sentinel — Optional, not attempted in Worst Case
+        // Budget reservation: every scenario pattern below starts as a raw
+        // 0/1/loses array where Optional targets are assumed attempted
+        // (and winning, per that scenario's story) same as everything
+        // else. That's the right default — an Optional shouldn't show as
+        // dropped just because it's Optional if there's plenty of budget.
+        // But the sim processes items in chronological pipeline order with
+        // no lookahead, so an early Optional can quietly eat budget a
+        // later Hard Lock/One Shot target actually needed, showing that
+        // Hard Lock as a deficit even though dropping the Optional would
+        // have saved it. solveWithReservation() catches exactly that: run
+        // the story, and if a Hard Lock/One Shot comes up short, find the
+        // most expensive Optional that was attempted earlier in the same
+        // story and force it to skip (-1) instead — repeat until either
+        // the deficit resolves or there's nothing left to sacrifice (a
+        // genuine shortfall). Capture Radiance is re-derived each pass
+        // since a newly-skipped Optional is transparent to the loss streak
+        // and can shift where radiance lands.
+        function solveWithReservation(rawPattern) {
+            const raw = rawPattern.slice();
+            let resolved = resolvePattern(raw, ep);
+            for (let guard = 0; guard < nep; guard++) {
+                const trial = runScenario(resolved);
+                if (!trial.failed) break;
+                const failIdx = trial.rows.findIndex(r => r.type === 'deficit');
+                if (failIdx === -1) break;
+                let pick = null;
+                for (let i = 0; i < failIdx; i++) {
+                    const r = trial.rows[i];
+                    if (r.strategy === 'Optional' && (r.type === 'win' || r.type === 'lose-win') && r.idx != null) {
+                        if (!pick || r.cost > pick.cost) pick = r;
                     }
-                    return 1;
-                }),
-                ep
-            );
+                }
+                if (!pick) break; // nothing left to drop — a real deficit
+                raw[pick.idx] = -1;
+                resolved = resolvePattern(raw, ep);
+            }
+            return resolved;
+        }
+
+        const worstPattern = solveWithReservation(ep.map(() => 1));
+        const bestPattern = solveWithReservation(bestPatternRaw);
 
         const okScenarios = [];
 
         if (groups.length >= 2) {
             const p = new Array(nep).fill(0);
             p[groups[0].idxs[0]] = 1;
-            okScenarios.push({ title: '🟡 OK-A — first target loses once, rest win', short: 'OK-A', pattern: resolvePattern(p, ep) });
+            okScenarios.push({ title: '🟡 OK-A — first target loses once, rest win', short: 'OK-A', pattern: solveWithReservation(p) });
         }
 
         if (groups.length >= 2) {
             const p = new Array(nep).fill(0);
             p[groups[groups.length - 1].idxs[0]] = 1;
-            okScenarios.push({ title: '🟡 OK-B — last target loses once, rest win', short: 'OK-B', pattern: resolvePattern(p, ep) });
+            okScenarios.push({ title: '🟡 OK-B — last target loses once, rest win', short: 'OK-B', pattern: solveWithReservation(p) });
         }
 
         if (groups.length >= 3) {
             const p = new Array(nep).fill(0);
             groups.forEach((g, i) => { if (i % 2 === 1) p[g.idxs[0]] = 1; });
-            okScenarios.push({ title: '🟡 OK-C — alternating (every other loses once)', short: 'OK-C', pattern: resolvePattern(p, ep) });
+            okScenarios.push({ title: '🟡 OK-C — alternating (every other loses once)', short: 'OK-C', pattern: solveWithReservation(p) });
         }
 
         const hasWeapon = groups.some(g => g.item.type === 'weapon');
         if (hasWeapon && groups.length >= 2) {
             const p = new Array(nep).fill(0);
             groups.forEach(g => { if (g.item.type === 'weapon') g.idxs.forEach(i => { p[i] = 1; }); });
-            okScenarios.push({ title: '🟠 OK-D — weapon(s) hit fate point (lose→guaranteed), chars win', short: 'OK-D', pattern: resolvePattern(p, ep) });
+            okScenarios.push({ title: '🟠 OK-D — weapon(s) hit fate point (lose→guaranteed), chars win', short: 'OK-D', pattern: solveWithReservation(p) });
         }
 
         // OK-E: losses cluster at the tail of the pipeline instead of the
@@ -1048,7 +1093,7 @@ let priorityPipeline = [];
                 okScenarios.push({
                     title: '🟣 OK-E — losses land at the very end (no target left for radiance to save)',
                     short: 'OK-E',
-                    pattern: resolvePattern(p, ep)
+                    pattern: solveWithReservation(p)
                 });
             }
         }
@@ -1068,7 +1113,7 @@ let priorityPipeline = [];
                 okScenarios.push({
                     title: `🔵 OK-F — only your priciest target (${priciest.item.name}) loses, everything else clean`,
                     short: 'OK-F',
-                    pattern: resolvePattern(p, ep)
+                    pattern: solveWithReservation(p)
                 });
             }
         }
@@ -1374,29 +1419,29 @@ let priorityPipeline = [];
             <div class="scenario-summary-card">
                 <div class="scen-sum-stats">
                     <div class="scen-sum-stat">
-                        <span class="scen-sum-stat-label">🟢 Best Case</span>
+                        <span class="scen-sum-stat-label">🟢 Best<span class="scen-sum-stat-label-extra"> Case</span></span>
                         <span class="scen-sum-stat-val" style="color:var(--success)">${formatChance(odds.bestPct, true)}</span>
                     </div>
                     <div class="scen-sum-stat">
-                        <span class="scen-sum-stat-label">🟡 Mixed Outcomes</span>
+                        <span class="scen-sum-stat-label">🟡 Mixed<span class="scen-sum-stat-label-extra"> Outcomes</span></span>
                         <span class="scen-sum-stat-val" style="color:var(--warning, #d9a441)">${formatChance(odds.mixedPct, false)}</span>
                     </div>
                     <div class="scen-sum-stat">
-                        <span class="scen-sum-stat-label">🔴 Worst Case</span>
+                        <span class="scen-sum-stat-label">🔴 Worst<span class="scen-sum-stat-label-extra"> Case</span></span>
                         <span class="scen-sum-stat-val" style="color:var(--danger)">${formatChance(odds.worstPct, true)}</span>
                     </div>
                     <div class="scen-sum-stat">
-                        <span class="scen-sum-stat-label">Best Outcome</span>
+                        <span class="scen-sum-stat-label">Best<span class="scen-sum-stat-label-extra"> Outcome</span></span>
                         <span class="scen-sum-stat-val" style="color:${best.net >= 0 ? 'var(--success)' : 'var(--danger)'}">${bestLabel}</span>
                     </div>
                     <div class="scen-sum-stat">
-                        <span class="scen-sum-stat-label">Worst Outcome</span>
+                        <span class="scen-sum-stat-label">Worst<span class="scen-sum-stat-label-extra"> Outcome</span></span>
                         <span class="scen-sum-stat-val" style="color:${worst.net >= 0 ? 'var(--success)' : 'var(--danger)'}">${worstLabel}</span>
                     </div>
                 </div>
                 <div class="scen-sum-divider"></div>
                 <div class="scen-sum-title">Scenario Summary</div>
-                <div class="scen-mobile-hint">📱 This table reads best on a tablet or desktop. On phones, use <strong>View Full Table</strong> or <strong>Export as PNG</strong> below.</div>
+                <div class="scen-mobile-hint">📱 This table reads best on a tablet or desktop. On phones, use <strong>View Full Table</strong> or <strong>Save as Image</strong> below.</div>
                 <div class="scen-sum-table-wrap">
                     <table class="scen-sum-table-full">
                         <thead>
@@ -1424,7 +1469,7 @@ let priorityPipeline = [];
                     ${ep.some(item => item.type === 'weapon') ? `<span class="scen-legend-item"><span class="scen-item-mark scen-item-guaranteed"><img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="Epitomized">Epitomized</span><span class="scen-legend-desc">Won via Fate Points after a miss.</span></span>` : ''}
                     <span class="scen-legend-item"><span class="scen-item-mark scen-item-radiance" style="display:inline-flex;align-items:center;gap:5px;"><img class="radiance-icon" src="assets/data/custom_icons/Item_Intertwined_Fate.webp" alt="Radiance" style="width:14px;height:14px;"><span class="radiance-text">Radiance</span></span><span class="scen-legend-desc">Capturing Radiance activated.</span></span>
                     <span class="scen-legend-item"><span class="scen-item-mark scen-item-short">⛔ Short</span><span class="scen-legend-desc">Ran out of wishes.</span></span>
-                    <button type="button" class="scen-export-btn" onclick="exportScenarioSummaryPNG(this)">⬇ Export as PNG</button>
+                    <button type="button" class="scen-export-btn" onclick="exportScenarioSummaryPNG(this)">⬇ Save as Image</button>
                 </div>
             </div>
         `;
@@ -1660,10 +1705,46 @@ let priorityPipeline = [];
             scale: 2,
             useCORS: true
         }).then(canvas => {
-            const link = document.createElement('a');
-            link.download = 'scenario-summary.png';
-            link.href = canvas.toDataURL('image/png');
-            link.click();
+            // iOS Safari doesn't honor the <a download> attribute — clicking
+            // it just navigates to the data URL instead of saving a file.
+            // Where the Web Share sheet is available (iOS Safari 16.4+,
+            // most Android browsers), share a real file so "Save Image"
+            // works. Everywhere else that isn't a normal desktop download
+            // (older iOS Safari), open the image in a new tab instead so
+            // it can be long-press-saved from there.
+            return new Promise((resolve, reject) => {
+                canvas.toBlob(async (blob) => {
+                    if (!blob) { reject(new Error('toBlob returned null')); return; }
+                    const file = new File([blob], 'scenario-summary.png', { type: 'image/png' });
+
+                    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+                        try {
+                            await navigator.share({ files: [file], title: 'Scenario Summary' });
+                            resolve();
+                            return;
+                        } catch (shareErr) {
+                            // User cancelling the share sheet isn't a failure.
+                            if (shareErr && shareErr.name === 'AbortError') { resolve(); return; }
+                            // Otherwise fall through to the other methods below.
+                        }
+                    }
+
+                    const isIOS = /iP(hone|ad|od)/.test(navigator.userAgent) ||
+                        (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
+                    if (isIOS) {
+                        const blobUrl = URL.createObjectURL(blob);
+                        window.open(blobUrl, '_blank');
+                        setTimeout(() => URL.revokeObjectURL(blobUrl), 30000);
+                    } else {
+                        const link = document.createElement('a');
+                        link.download = 'scenario-summary.png';
+                        link.href = canvas.toDataURL('image/png');
+                        link.click();
+                    }
+                    resolve();
+                }, 'image/png');
+            });
         }).catch(err => {
             console.error('PNG export failed:', err);
             alert('Export failed — check the console for details.');
