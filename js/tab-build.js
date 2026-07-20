@@ -12,43 +12,6 @@
     };
 
     const SAVE_KEY = 'genshin_build_tab_v1';
-    const KAMERA_SAVE_KEY = 'genshin_kamera_inventory_v1';
-    const KAMERA_OVERRIDE_SAVE_KEY = 'genshin_kamera_manual_overrides_v1';
-    let kameraInventory = null;
-    let manualOverrides = {}; // { [GOOD key]: number } — user-entered counts for items InventoryKamera failed to scan
-
-    // Some InventoryKamera versions have a known bug where scanning gets
-    // interrupted (e.g. erroring on the Traveler) and silently reports
-    // "done" without ever reaching these items, so they're just absent from
-    // the export rather than genuinely zero. These are the only items we
-    // let the user manually fill in, and ONLY when they're missing from the
-    // import — if a future InventoryKamera version scans them correctly,
-    // the override input for that item disappears on its own.
-    const MANUAL_OVERRIDE_ITEMS = [
-        { key: 'HerosWit', label: "Hero's Wit" },
-        { key: 'AdventurersExperience', label: "Adventurer's Experience" },
-        { key: 'WanderersAdvice', label: "Wanderer's Advice" },
-        { key: 'MysticEnhancementOre', label: "Mystic Enhancement Ore" },
-    ];
-
-    function loadManualOverrides() {
-        try {
-            const raw = localStorage.getItem(KAMERA_OVERRIDE_SAVE_KEY);
-            manualOverrides = raw ? JSON.parse(raw) : {};
-        } catch (e) { manualOverrides = {}; }
-    }
-
-    function saveManualOverrides() {
-        try { localStorage.setItem(KAMERA_OVERRIDE_SAVE_KEY, JSON.stringify(manualOverrides)); }
-        catch (e) { /* ignore, non-critical */ }
-    }
-
-    // Keys missing from the current import — these are the only ones the
-    // override panel should show inputs for.
-    function missingOverrideItems() {
-        const present = (kameraInventory && kameraInventory.materials) || {};
-        return MANUAL_OVERRIDE_ITEMS.filter(item => !(item.key in present));
-    }
 
     const LEVEL_STEPS = ['1', '20', '40', '50', '60', '70', '80', '90'];
     const SOFT_CAP = 10;
@@ -386,20 +349,24 @@
         }
 
         const talentTotals = { mora: 0, materials: {} };
-        // Burst is NOT always index 2 — some characters (Ayaka, Mona, etc.)
-        // have a 4-entry activeTalents array with a non-upgradeable
-        // Alternate Sprint sitting between Skill and Burst:
-        //   [0] Normal Attack, [1] Skill, [2] Alt Sprint (levelCosts.length === 1), [3] Burst
-        // Normal and Skill are reliably index 0/1; Burst is reliably the
-        // LAST entry, so index off array length instead of a fixed "2".
-        const activeTalents = profile.activeTalents || [];
+        // New data has one flat `talents` array (mixing Normal Attack /
+        // Skill / Burst / Passive, and the `type` field on a few entries is
+        // currently mislabeled upstream) instead of the old activeTalents/
+        // passiveTalents split — so we filter on the presence of `.levels`
+        // rather than trusting `type`. That happens to reproduce the same
+        // ordering the old activeTalents array had (Normal Attack, Skill,
+        // any non-upgradeable extra like Ayaka's Alt Sprint, then Burst),
+        // so the same "index off array length, not a fixed 2" trick for
+        // Burst still applies:
+        //   [0] Normal Attack, [1] Skill, [..] Alt Sprint (1 level only), [last] Burst
+        const activeTalents = (profile.talents || []).filter(t => t.levels);
         const talentByKey = { basic: 0, skill: 1, burst: activeTalents.length - 1 };
         Object.keys(talentByKey).forEach(key => {
             const talent = activeTalents[talentByKey[key]];
-            if (!talent || !talent.levelCosts) return;
+            if (!talent || !talent.levels) return;
             const plan = inputs.talents[key];
             const costsByLevel = {};
-            talent.levelCosts.forEach(lc => { costsByLevel[lc.level] = lc; });
+            talent.levels.forEach(lv => { costsByLevel[lv.level] = lv; });
             accumulateCost(plan.levelsToBuy.map(lvl => costsByLevel[lvl]), talentTotals);
         });
 
@@ -457,31 +424,22 @@
             depletePoolForCost(pool, calculateBuildCost(builds[i]));
         }
 
-        const totalEl = document.getElementById(`costTotalMora_${buildId}`);
-        if (totalEl) totalEl.textContent = `${formatMora(cost.totalMora)} Mora`;
-
-        const ascMoraEl = document.getElementById(`ascMora_${buildId}`);
-        if (ascMoraEl) ascMoraEl.textContent = `${formatMora(cost.ascension.mora)} Mora`;
         const ascMatsEl = document.getElementById(`ascMats_${buildId}`);
-        if (ascMatsEl) ascMatsEl.innerHTML = materialsSummaryHtml(cost.ascension.materials, pool, cost.ascension.expNeeded);
+        if (ascMatsEl) ascMatsEl.innerHTML = materialsSummaryHtml(cost.ascension.materials, pool, cost.ascension.expNeeded, cost.ascension.mora);
 
-        const talMoraEl = document.getElementById(`talMora_${buildId}`);
-        if (talMoraEl) talMoraEl.textContent = `${formatMora(cost.talents.mora)} Mora`;
         const talMatsEl = document.getElementById(`talMats_${buildId}`);
-        if (talMatsEl) talMatsEl.innerHTML = materialsSummaryHtml(cost.talents.materials, pool);
+        if (talMatsEl) talMatsEl.innerHTML = materialsSummaryHtml(cost.talents.materials, pool, null, cost.talents.mora);
 
         if (cost.weapon) {
-            const weaponMoraEl = document.getElementById(`weaponMora_${buildId}`);
-            if (weaponMoraEl) weaponMoraEl.textContent = `${formatMora(cost.weapon.mora)} Mora`;
             const weaponMatsEl = document.getElementById(`weaponMats_${buildId}`);
-            if (weaponMatsEl) weaponMatsEl.innerHTML = materialsSummaryHtml(cost.weapon.materials, pool);
+            if (weaponMatsEl) weaponMatsEl.innerHTML = materialsSummaryHtml(cost.weapon.materials, pool, null, cost.weapon.mora);
         }
     }
 
     // Same basic/skill/burst indexing as calculateBuildCost (burst = last
     // entry, not a hardcoded "2") so the label always matches the numbers.
     function talentNamesLabel(profile) {
-        const activeTalents = (profile && profile.activeTalents) || [];
+        const activeTalents = ((profile && profile.talents) || []).filter(t => t.levels);
         if (!activeTalents.length) return 'Talents';
         const basic = activeTalents[0];
         const skill = activeTalents[1];
@@ -504,9 +462,11 @@
     const TYPE_ORDER = [
         'Weapon EXP', 'EXP Books', 'Weekly Boss Material', 'Boss Material', 'Talent Books',
         'Local Specialty', 'Gemstones', 'Special',
-        'Weapon Material', 'Enemy Materials', 'Other',
+        'Weapon Material', 'Enemy Materials', 'Other', 'Mora',
     ];
+    const MORA_ICON = 'assets/data/local_icons/Item_Mora.webp';
     function materialCategory(materialId, rarity) {
+        if (materialId === 'mora') return 'Mora';
         if (materialId === MYSTIC_ORE.id) return 'Weapon EXP';
         const type = typeof GENSHIN_MATERIAL_TYPES !== 'undefined' ? GENSHIN_MATERIAL_TYPES[materialId] : null;
         switch (type) {
@@ -522,13 +482,10 @@
         }
     }
 
-    // Mirrors GOOD format's key convention (InventoryKamera export):
-    // strip apostrophes (kept glued, e.g. "Hero's" -> "Heros"), then
-    // PascalCase every remaining word — including lowercase joining
-    // words like "of"/"to" which Ambr's names don't capitalize but
-    // GOOD keys do ("Teachings of Freedom" -> "TeachingsOfFreedom").
-    // Verified against a real export: 100% match including talent
-    // books, EXP books, and all previously-working cases.
+    // Mirrors GOOD format's key convention. Still used by the EXP-book
+    // coverage helper below (now effectively dead code since InventoryKamera
+    // import — the source of `pool` — was removed, but kept rather than
+    // touching that unrelated logic).
     function normalizeGoodKey(name) {
         return String(name || '')
             .replace(/'/g, '')
@@ -538,46 +495,22 @@
             .join('');
     }
 
+    // InventoryKamera import was removed — these always return null, which
+    // callers already treat as "no inventory data available" and fall back
+    // to just showing the total materials needed.
     function getOwnedQty(materialId, materialName) {
-        if (!kameraInventory || !kameraInventory.materials) return null;
-        if (materialId === 202) return kameraInventory.materials.Mora || 0; // Mora itself
-        const key = normalizeGoodKey(materialName);
-        const owned = kameraInventory.materials[key];
-        if (typeof owned === 'number') return owned;
-        return typeof manualOverrides[key] === 'number' ? manualOverrides[key] : 0;
+        return null;
     }
 
-    // --- Shared inventory pool (fixes double-counting across build cards) ---
-    // Most materials (character ascension gems, specific talent books, boss
-    // drops) are only ever needed by ONE build card, so comparing that card's
-    // need against your full stash "just works" by coincidence. But EXP books
-    // (Hero's Wit/Adventurer's Experience/Wanderer's Advice) and Mystic
-    // Enhancement Ore are needed by EVERY character/weapon card. Without a
-    // shared pool, each card independently checks its need against your full
-    // owned amount and would happily show "have enough" on 5 different cards
-    // using the same 10 books. freshInventoryPool() makes a mutable copy of
-    // owned quantities; claimFromPool() deducts what a card claims so the
-    // NEXT card (in the same builds-array order) sees the true leftover.
+    // InventoryKamera import was removed, so there's never an inventory to
+    // pool from — these stay as no-op stubs so the cost-calc call sites
+    // that already handle "no pool" gracefully don't need to change.
     function freshInventoryPool() {
-        if (!kameraInventory || !kameraInventory.materials) return null;
-        const pool = Object.assign({}, kameraInventory.materials);
-        // Only fill in an override for a key the import genuinely lacks —
-        // never let a manual number override real scanned data.
-        MANUAL_OVERRIDE_ITEMS.forEach(item => {
-            if (!(item.key in pool) && typeof manualOverrides[item.key] === 'number') {
-                pool[item.key] = manualOverrides[item.key];
-            }
-        });
-        return pool;
+        return null;
     }
 
     function claimFromPool(pool, materialId, materialName, qtyNeeded) {
-        if (!pool) return null;
-        if (materialId === 202) return pool.Mora || 0; // Mora itself — not depleted here
-        const key = normalizeGoodKey(materialName);
-        const owned = typeof pool[key] === 'number' ? pool[key] : 0;
-        pool[key] = Math.max(0, owned - Math.max(0, qtyNeeded));
-        return owned;
+        return null;
     }
 
     // Depletes `pool` for a build's already-computed cost without rendering
@@ -591,8 +524,13 @@
         if (cost.weapon) claimAll(cost.weapon.materials);
     }
 
-    function materialsSummaryHtml(materials, pool, expNeeded) {
-        if (!materials.length) return '<span class="cost-placeholder">—</span>';
+    function materialsSummaryHtml(materials, pool, expNeeded, moraAmount) {
+        const hasMora = typeof moraAmount === 'number';
+        if (!materials.length && !hasMora) return '<span class="cost-placeholder">—</span>';
+
+        const sourceMaterials = hasMora
+            ? materials.concat([{ id: 'mora', name: 'Mora', icon: MORA_ICON, rarity: 5, qty: moraAmount }])
+            : materials;
 
         // EXP books (Hero's Wit / Adventurer's Experience / Wanderer's
         // Advice) are fungible — swap the naive per-tier entries out for
@@ -600,11 +538,11 @@
         // material types (talent books, ascension gems, etc.) are NOT
         // interchangeable 1:1 like this, so they keep the normal per-id
         // ownership check below untouched.
-        const nonBookMaterials = materials.filter(m => !EXP_BOOK_IDS.has(m.id));
-        const hasBookItems = nonBookMaterials.length !== materials.length;
+        const nonBookMaterials = sourceMaterials.filter(m => !EXP_BOOK_IDS.has(m.id));
+        const hasBookItems = nonBookMaterials.length !== sourceMaterials.length;
         const displayMaterials = hasBookItems
             ? nonBookMaterials.concat(computeExpBookCoverage(expNeeded || 0, pool).rows.map(r => ({ ...r, qty: r.need, _precomputedOwned: r.owned })))
-            : materials;
+            : sourceMaterials;
 
         const byCategory = {};
         displayMaterials.forEach(m => {
@@ -612,34 +550,79 @@
             (byCategory[cat] = byCategory[cat] || []).push(m);
         });
 
+        function rowHtmlFor(m) {
+            const icon = m.icon
+                ? `<img class="cost-material-icon rarity-${m.rarity || 1}" src="${dataAssetSrc(m.icon)}" alt="">`
+                : `<div class="cost-material-icon cost-material-icon-placeholder rarity-${m.rarity || 1}">?</div>`;
+
+            const owned = Object.prototype.hasOwnProperty.call(m, '_precomputedOwned')
+                ? m._precomputedOwned
+                : (pool ? claimFromPool(pool, m.id, m.name, m.qty || 0) : getOwnedQty(m.id, m.name));
+            let qtyHtml;
+            if (owned === null) {
+                // No inventory imported — show plain total, as before.
+                qtyHtml = m.id === 'mora'
+                    ? `<span class="cost-material-qty">${formatMora(m.qty)}</span>`
+                    : `<span class="cost-material-qty">×${formatMora(m.qty)}</span>`;
+            } else if (owned >= m.qty) {
+                qtyHtml = `<span class="cost-material-qty cost-material-covered">✓ have enough</span>`;
+            } else {
+                const remaining = m.qty - owned;
+                qtyHtml = `<span class="cost-material-qty cost-material-shortfall">${formatMora(remaining)} more <span class="cost-material-owned-note">(${formatMora(owned)}/${formatMora(m.qty)})</span></span>`;
+            }
+
+            return `
+                <div class="cost-material-row">
+                    ${icon}
+                    <span class="cost-material-name">${m.name}</span>
+                    ${qtyHtml}
+                </div>`;
+        }
+
         function rowsHtmlFor(cat) {
             const items = byCategory[cat].sort((a, b) => (b.rarity || 0) - (a.rarity || 0));
-            return items.map(m => {
-                const icon = m.icon
-                    ? `<img class="cost-material-icon rarity-${m.rarity || 1}" src="${m.icon}" alt="">`
-                    : `<div class="cost-material-icon cost-material-icon-placeholder rarity-${m.rarity || 1}">?</div>`;
+            return items.map(rowHtmlFor).join('');
+        }
 
-                const owned = Object.prototype.hasOwnProperty.call(m, '_precomputedOwned')
-                    ? m._precomputedOwned
-                    : (pool ? claimFromPool(pool, m.id, m.name, m.qty || 0) : getOwnedQty(m.id, m.name));
-                let qtyHtml;
-                if (owned === null) {
-                    // No inventory imported — show plain total, as before.
-                    qtyHtml = `<span class="cost-material-qty">×${formatMora(m.qty)}</span>`;
-                } else if (owned >= m.qty) {
-                    qtyHtml = `<span class="cost-material-qty cost-material-covered">✓ have enough</span>`;
-                } else {
-                    const remaining = m.qty - owned;
-                    qtyHtml = `<span class="cost-material-qty cost-material-shortfall">${formatMora(remaining)} more <span class="cost-material-owned-note">(${formatMora(owned)}/${formatMora(m.qty)})</span></span>`;
+        // Enemy-drop trios from different monster families end up dumped
+        // into one "Enemy Materials" list sorted purely by rarity, which
+        // interleaves families and reads as a random wall of items. Cluster
+        // items that share a significant word in their name (e.g. "Lunar
+        // Iron" / "Depleted Lunar Iron" / "Fractured Lunar Iron" all share
+        // "Lunar"+"Iron"; "Warrant" / "Immaculate Warrant" / "Tattered
+        // Warrant" all share "Warrant") — this groups by family regardless
+        // of whether the shared word is a prefix or suffix. When that
+        // produces exactly two families, render them as two columns
+        // instead of one long list.
+        function familyWords(name) {
+            return (name || '').toLowerCase().split(/\s+/).filter(w => w.length > 2);
+        }
+        function clusterByFamily(items) {
+            const wordSets = items.map(it => new Set(familyWords(it.name)));
+            const parent = items.map((_, i) => i);
+            function find(i) { while (parent[i] !== i) { parent[i] = parent[parent[i]]; i = parent[i]; } return i; }
+            function union(a, b) { const ra = find(a), rb = find(b); if (ra !== rb) parent[ra] = rb; }
+            for (let i = 0; i < items.length; i++) {
+                for (let j = i + 1; j < items.length; j++) {
+                    let shared = false;
+                    for (const w of wordSets[i]) { if (wordSets[j].has(w)) { shared = true; break; } }
+                    if (shared) union(i, j);
                 }
-
-                return `
-                    <div class="cost-material-row">
-                        ${icon}
-                        <span class="cost-material-name">${m.name}</span>
-                        ${qtyHtml}
-                    </div>`;
-            }).join('');
+            }
+            const groups = {};
+            items.forEach((it, i) => { const r = find(i); (groups[r] = groups[r] || []).push(it); });
+            return Object.values(groups);
+        }
+        function enemyMaterialsHtml() {
+            const items = (byCategory['Enemy Materials'] || []).slice().sort((a, b) => (b.rarity || 0) - (a.rarity || 0));
+            const families = clusterByFamily(items);
+            if (families.length !== 2) return { html: rowsHtmlFor('Enemy Materials'), wide: false };
+            const col = (fam) => fam.slice().sort((a, b) => (b.rarity || 0) - (a.rarity || 0)).map(rowHtmlFor).join('');
+            const html = `<div class="cost-material-family-cols">
+                <div class="cost-material-family-col">${col(families[0])}</div>
+                <div class="cost-material-family-col">${col(families[1])}</div>
+            </div>`;
+            return { html, wide: true };
         }
 
         // Categories that are (in practice) always single-item and mutually
@@ -648,7 +631,9 @@
         // of two mostly-empty cards side by side.
         const MERGE_PAIRS = [
             ['Boss Material', 'Weekly Boss Material', 'Local Specialty'],
-            ['Weekly Boss Material', 'Special'],
+            ['Weekly Boss Material', 'Special', 'Mora'],
+            ['Weapon EXP', 'Mora'],
+            ['EXP Books', 'Mora'],
         ];
 
         const presentCats = TYPE_ORDER.filter(cat => byCategory[cat]);
@@ -669,10 +654,17 @@
 
         const tiersHtml = cards.map(card => {
             if (card.merged) {
-                const sections = card.members.map((cat, i) => `
+                const sections = card.members.map((cat, i) => {
+                    const body = cat === 'Enemy Materials' ? enemyMaterialsHtml().html : rowsHtmlFor(cat);
+                    return `
                     ${i > 0 ? '<div class="cost-material-subdivider"></div>' : ''}
-                    <div class="cost-material-tier-label">${cat}</div>${rowsHtmlFor(cat)}`).join('');
+                    <div class="cost-material-tier-label">${cat}</div>${body}`;
+                }).join('');
                 return `<div class="cost-material-tier cost-material-tier-merged">${sections}</div>`;
+            }
+            if (card.label === 'Enemy Materials') {
+                const { html, wide } = enemyMaterialsHtml();
+                return `<div class="cost-material-tier${wide ? ' cost-material-tier-wide' : ''}"><div class="cost-material-tier-label">Enemy Materials</div>${html}</div>`;
             }
             return `<div class="cost-material-tier"><div class="cost-material-tier-label">${card.label}</div>${rowsHtmlFor(card.label)}</div>`;
         }).join('');
@@ -717,8 +709,21 @@
         return `<img class="el-badge-icon" src="${path}" alt="" style="width:${size}px;height:${size}px;">`;
     }
 
+    // Character/weapon/material `icon` fields coming out of assets/data/**
+    // are relative paths meant to be resolved against assets/data/ (per the
+    // new data layer), not the page root — e.g. "character-profiles/10000002/
+    // assets/icon.png" needs to become "assets/data/character-profiles/...".
+    // A couple of icons can still legitimately be full remote URLs (the
+    // AssetLocalizer's fallback-on-download-failure case, and the hardcoded
+    // MYSTIC_ORE constant above), so leave those alone.
+    function dataAssetSrc(path) {
+        if (!path) return null;
+        if (/^(https?:)?\/\//.test(path) || path.startsWith('assets/data/')) return path;
+        return `assets/data/${path}`;
+    }
+
     function iconHtml(entry) {
-        if (entry && entry.icon) return `<img src="${entry.icon}" alt="">`;
+        if (entry && entry.icon) return `<img src="${dataAssetSrc(entry.icon)}" alt="">`;
         return `<div class="ac-icon-placeholder">?</div>`;
     }
 
@@ -767,30 +772,54 @@
 
     const profileCache = {};
 
+    // New data layer splits what used to be one character-profiles/<id>.json
+    // into four files. We fetch all four and merge them client-side into the
+    // same flat shape the rest of this file expects (profile fields +
+    // `promotes` from materials.json + a `talents` array from talents.json +
+    // `constellations` from constellations.json), so downstream code only
+    // has to change where the *shape* of talents/promotes actually changed,
+    // not every call site that touches `build.profile`.
     function fetchCharacterProfile(id) {
         if (!id) return Promise.resolve(null);
         if (profileCache[id]) return Promise.resolve(profileCache[id]);
-        return fetch(`assets/data/character-profiles/${id}.json`)
-            .then(res => res.ok ? res.json() : null)
-            .then(data => {
-                profileCache[id] = data;
-                return data;
-            })
-            .catch(() => null);
+        const base = `assets/data/character-profiles/${id}`;
+        const getJson = (url) => fetch(url).then(res => res.ok ? res.json() : null).catch(() => null);
+        return Promise.all([
+            getJson(`${base}/profile.json`),
+            getJson(`${base}/talents.json`),
+            getJson(`${base}/constellations.json`),
+            getJson(`${base}/materials.json`),
+        ]).then(([profile, talents, constellations, materials]) => {
+            if (!profile) return null;
+            const merged = {
+                ...profile,
+                ...(materials || {}),
+                talents: (talents && talents.talents) || [],
+                constellations: (constellations && constellations.constellations) || [],
+            };
+            profileCache[id] = merged;
+            return merged;
+        });
     }
 
     const weaponProfileCache = {};
 
+    // Same merge pattern as fetchCharacterProfile: weapon-profiles/<id>.json
+    // is now profile.json + materials.json split across two files.
     function fetchWeaponProfile(id) {
         if (!id) return Promise.resolve(null);
         if (weaponProfileCache[id]) return Promise.resolve(weaponProfileCache[id]);
-        return fetch(`assets/data/weapon-profiles/${id}.json`)
-            .then(res => res.ok ? res.json() : null)
-            .then(data => {
-                weaponProfileCache[id] = data;
-                return data;
-            })
-            .catch(() => null);
+        const base = `assets/data/weapon-profiles/${id}`;
+        const getJson = (url) => fetch(url).then(res => res.ok ? res.json() : null).catch(() => null);
+        return Promise.all([
+            getJson(`${base}/profile.json`),
+            getJson(`${base}/materials.json`),
+        ]).then(([profile, materials]) => {
+            if (!profile) return null;
+            const merged = { ...profile, ...(materials || {}) };
+            weaponProfileCache[id] = merged;
+            return merged;
+        });
     }
 
     function setBuildCharacter(buildId, characterEntry) {
@@ -928,89 +957,22 @@
         </div>`;
     }
 
-    // Populated fresh each render — abilitiesListHtml() fills this in, the
-    // modal click handler reads out of it. Keyed by "buildId:group:index"
-    // so we don't have to cram descriptions into data-attributes (they can
-    // contain quotes/newlines that are awkward to HTML-escape safely).
-    const skillModalData = {};
-
     function escapeHtml(str) {
         return String(str == null ? '' : str)
             .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
     }
 
-    function activeTalentTypeLabel(index, total) {
-        if (index === 0) return 'Normal Attack';
-        if (index === total - 1) return 'Elemental Burst';
-        if (index === 1) return 'Elemental Skill';
-        return 'Special Talent'; // e.g. Ayaka's Senho, cooking talents, etc.
-    }
-
-    // Abilities panel: lists the character's active talents (Normal Attack,
-    // Elemental Skill, Elemental Burst, and any extra active abilities) and
-    // passive talents as tappable rows, each tagged with its type so it's
-    // clear what you're opening before you click. Informational only,
-    // doesn't affect the plan.
-    function abilitiesListHtml(build) {
-        const profile = build.profile;
-        if (!profile || !(profile.activeTalents || []).length) return '';
-
-        const activeTalents = profile.activeTalents || [];
-        const rows = activeTalents.map((t, i) => {
-            const type = activeTalentTypeLabel(i, activeTalents.length);
-            skillModalData[`${build.id}:active:${i}`] = { ...t, type };
-            return { group: 'active', index: i, icon: t.icon, name: t.name, type };
-        });
-        (profile.passiveTalents || []).forEach((t, i) => {
-            skillModalData[`${build.id}:passive:${i}`] = { ...t, type: 'Passive Talent' };
-            rows.push({ group: 'passive', index: i, icon: t.icon, name: t.name, type: 'Passive Talent' });
-        });
-        if (!rows.length) return '';
-
-        return `
-            <div class="abilities-list">
-                ${rows.map(r => `
-                    <button type="button" class="skill-row" data-skill-open="${build.id}:${r.group}:${r.index}">
-                        <span class="skill-row-text">
-                            <span class="skill-row-type">${r.type}</span>
-                            <span class="skill-row-name">${escapeHtml(r.name)}</span>
-                        </span>
-                        <span class="skill-row-chevron">›</span>
-                    </button>
-                `).join('')}
-            </div>`;
-    }
-
-    function openSkillModal(key) {
-        const t = skillModalData[key];
-        if (!t) return;
-
-        const existing = document.getElementById('skillModalOverlay');
-        if (existing) existing.remove();
-
-        const overlay = document.createElement('div');
-        overlay.id = 'skillModalOverlay';
-        overlay.className = 'skill-modal-overlay';
-        overlay.innerHTML = `
-            <div class="skill-modal-card">
-                <div class="skill-modal-header">
-                    ${t.icon
-                        ? `<img class="skill-modal-icon" src="${t.icon}" alt="">`
-                        : `<div class="skill-modal-icon skill-row-icon-placeholder">?</div>`}
-                    <span class="skill-modal-titlewrap">
-                        ${t.type ? `<span class="skill-modal-type">${escapeHtml(t.type)}</span>` : ''}
-                        <span class="skill-modal-title">${escapeHtml(t.name)}</span>
-                    </span>
-                    <button type="button" class="skill-modal-close" aria-label="Close">✕</button>
-                </div>
-                <div class="skill-modal-body">${escapeHtml(t.description || 'No description available.')}</div>
-            </div>`;
-
-        function close() { overlay.remove(); }
-        overlay.querySelector('.skill-modal-close').addEventListener('click', close);
-        overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
-
-        document.body.appendChild(overlay);
+    // Builds an Icy Veins guide slug from a character's full display name:
+    // lowercase, spaces -> hyphens, apostrophes/punctuation stripped.
+    // Generated on the fly from the name already in the character index —
+    // never stored/looked up per-character, since it's a pure string transform.
+    function icyVeinsSlug(name) {
+        return String(name || '')
+            .toLowerCase()
+            .replace(/['’]/g, '')
+            .replace(/[^a-z0-9\s-]/g, '')
+            .trim()
+            .replace(/\s+/g, '-');
     }
 
     function renderBuildCard(build, pool) {
@@ -1060,62 +1022,54 @@
             const cost = calculateBuildCost(build);
             if (build.weapon && !build.weaponProfile) {
                 return `
-                <div class="cost-row" style="margin-top:14px;">
-                    <span class="cost-row-label">Weapon <span class="cost-row-plan" id="planWeaponLevel_${build.id}">→ ${build.weaponLevel.to}</span></span>
-                    <span class="cost-row-value"><span class="cost-placeholder">—</span> Mora</span>
-                </div>`;
+                <div class="cost-section-title" style="margin-top:16px;">Weapon Ascension <span class="cost-row-plan" id="planWeaponLevel_${build.id}">→ ${build.weaponLevel.to}</span></div>
+                <div class="cost-materials-panel"><span class="cost-placeholder">—</span></div>`;
             }
-            const wMora = cost && cost.weapon ? `${formatMora(cost.weapon.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
-            const wMats = cost && cost.weapon ? materialsSummaryHtml(cost.weapon.materials, pool) : '<span class="cost-placeholder">—</span>';
+            const wMats = cost && cost.weapon ? materialsSummaryHtml(cost.weapon.materials, pool, null, cost.weapon.mora) : '<span class="cost-placeholder">—</span>';
             return `
-                <div class="cost-row" style="margin-top:14px;">
-                    <span class="cost-row-label">Weapon <span class="cost-row-plan" id="planWeaponLevel_${build.id}">→ ${build.weaponLevel.to}</span></span>
-                    <span class="cost-row-value" id="weaponMora_${build.id}">${wMora}</span>
-                </div>
+                <div class="cost-section-title" style="margin-top:16px;">Weapon Ascension <span class="cost-row-plan" id="planWeaponLevel_${build.id}">→ ${build.weaponLevel.to}</span></div>
                 <div class="cost-materials-panel" id="weaponMats_${build.id}">${wMats}</div>`;
         })() : '';
 
         const headerBlock = swapOpenIds.has(build.id) ? `
-            <div style="display:flex; align-items:flex-start; gap:14px; margin-bottom:22px; max-width:460px;">
+            <div style="display:flex; align-items:center; gap:12px; margin-bottom:14px; max-width:460px;">
                 <span class="avatar-badge">
-                    ${c.icon ? `<img src="${c.icon}" alt="" style="width:52px;height:52px;border-radius:50%;object-fit:cover;border:1px solid var(--border-color);display:block;">` : `<div class="ac-icon-placeholder" style="width:52px;height:52px;">?</div>`}
+                    ${c.icon ? `<img src="${dataAssetSrc(c.icon)}" alt="" style="width:44px;height:44px;border-radius:50%;object-fit:cover;border:1px solid var(--border-color);display:block;">` : `<div class="ac-icon-placeholder" style="width:44px;height:44px;">?</div>`}
                     ${elBadge}
                 </span>
-                <div style="flex:1; min-width:0;">
+                <div style="flex:1; min-width:0; max-width:340px;">
                     <div class="autocomplete-wrap">
                         <input type="text" class="build-char-input" data-build-id="${build.id}" placeholder="Swap character..." autocomplete="off">
                         <div class="autocomplete-list hidden" id="charList_${build.id}"></div>
                     </div>
                 </div>
-                <button type="button" class="build-remove-btn" data-remove-build="${build.id}" title="Remove character" aria-label="Remove character">&times;</button>
             </div>
         ` : `
-            <div style="display:flex; align-items:center; gap:14px; margin-bottom:22px; max-width:460px;">
+            <div style="display:flex; align-items:center; gap:12px; margin-bottom:14px; max-width:460px;">
                 <button type="button" class="char-header-swap" data-swap-toggle="${build.id}" title="Click to change character">
                     <span class="avatar-badge">
-                        ${c.icon ? `<img src="${c.icon}" alt="" style="width:52px;height:52px;border-radius:50%;object-fit:cover;border:1px solid var(--border-color);display:block;">` : `<div class="ac-icon-placeholder" style="width:52px;height:52px;">?</div>`}
+                        ${c.icon ? `<img src="${dataAssetSrc(c.icon)}" alt="" style="width:44px;height:44px;border-radius:50%;object-fit:cover;border:1px solid var(--border-color);display:block;">` : `<div class="ac-icon-placeholder" style="width:44px;height:44px;">?</div>`}
                         ${elBadge}
                     </span>
                     <div style="flex:1; text-align:left;">
-                        <div style="font-size:1.2rem; font-weight:700;">${c.name}</div>
-                        <div style="font-size:0.9rem; color:var(--text-muted); display:flex; align-items:center; gap:5px; margin-top:2px;">
+                        <div style="font-size:1.15rem; font-weight:700; line-height:1.25;">${c.name}</div>
+                        <div style="font-size:0.88rem; color:var(--text-muted); display:flex; align-items:center; gap:5px; line-height:1.2; margin-top:1px;">
                             ${c.element ? `${c.element} • ` : ''}${starsHtml(c.rarity)}
                         </div>
                     </div>
                 </button>
-                <button type="button" class="build-remove-btn" data-remove-build="${build.id}" title="Remove character" aria-label="Remove character">&times;</button>
             </div>
         `;
 
-        const abilitiesHtml = abilitiesListHtml(build);
-
         return `
         <div class="section-card build-card" data-build-id="${build.id}">
+            <button type="button" class="build-card-save-png" onclick="exportBuildCardPNG(this, '${build.id}')" title="Save as PNG" aria-label="Save build as PNG">⬇</button>
+            <button type="button" class="build-card-remove" data-remove-build="${build.id}" title="Remove character" aria-label="Remove character">&times;</button>
             <div class="top-layout">
                 <div class="planner-col">
                     ${headerBlock}
 
-                    <div class="form-group" style="margin-bottom:0;">
+                    <div class="form-group" style="margin-bottom:14px;">
                         <label>Level &amp; Talents <span style="color: var(--text-muted); font-weight:400; font-size:0.8rem;">— Talents 1 to 10</span></label>
                         <div class="stat-cards-grid">
                             <div class="talent-row">
@@ -1148,49 +1102,43 @@
                             `).join('')}
                         </div>
                     </div>
+
+                    <div class="form-group" style="margin-bottom:0;">
+                        <label>Guides</label>
+                        <div class="resources-row">
+                            <a class="resource-btn" href="https://www.icy-veins.com/genshin-impact/${icyVeinsSlug(c.name)}-guide-best-builds" target="_blank" rel="noopener noreferrer">
+                                <img class="resource-btn-icon" src="assets/data/custom_icons/icy-veins-guide.png" alt="">
+                                Icy Veins Guide
+                            </a>
+                            <a class="resource-btn" href="https://keqingmains.com/#search" target="_blank" rel="noopener noreferrer">
+                                <img class="resource-btn-icon" src="assets/data/custom_icons/KQM-guide.png" alt="">
+                                KQM Search
+                            </a>
+                        </div>
+                        <div class="resources-disclaimer">Not affiliated.</div>
+                    </div>
                 </div>
 
                 <div class="weapon-col">
                     ${weaponBlock}
                 </div>
-
-                ${abilitiesHtml ? `
-                <aside class="abilities-panel">
-                    <div class="abilities-panel-title">Abilities</div>
-                    ${abilitiesHtml}
-                </aside>` : ''}
             </div>
 
             <div style="border-top:1px solid var(--border-color); margin:22px 0 0;"></div>
             ${(() => {
                 const cost = calculateBuildCost(build);
-                const totalMora = cost ? `${formatMora(cost.totalMora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
-                const ascMora = cost ? `${formatMora(cost.ascension.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
-                const ascMats = cost ? materialsSummaryHtml(cost.ascension.materials, pool, cost.ascension.expNeeded) : '<span class="cost-placeholder">—</span>';
-                const talMora = cost ? `${formatMora(cost.talents.mora)} Mora` : `<span class="cost-placeholder">—</span> Mora`;
-                const talMats = cost ? materialsSummaryHtml(cost.talents.materials, pool) : '<span class="cost-placeholder">—</span>';
+                const ascMats = cost ? materialsSummaryHtml(cost.ascension.materials, pool, cost.ascension.expNeeded, cost.ascension.mora) : '<span class="cost-placeholder">—</span>';
+                const talMats = cost ? materialsSummaryHtml(cost.talents.materials, pool, null, cost.talents.mora) : '<span class="cost-placeholder">—</span>';
                 const loadingNote = build.character && !build.profile
                     ? `<div class="explanation" style="margin:0 0 10px;">Loading build data…</div>` : '';
                 return `
             <div class="cost-block">
-                <div class="cost-block-title">Total Cost</div>
                 ${loadingNote}
 
-                <div class="cost-total-row">
-                    <span class="cost-total-label">Total Mora</span>
-                    <span class="cost-total-value" id="costTotalMora_${build.id}">${totalMora}</span>
-                </div>
-
-                <div class="cost-row" style="margin-top:14px;">
-                    <span class="cost-row-label">Character level <span class="cost-row-plan" id="planLevel_${build.id}">→ ${build.level.to}</span></span>
-                    <span class="cost-row-value" id="ascMora_${build.id}">${ascMora}</span>
-                </div>
+                <div class="cost-section-title">Character Ascension <span class="cost-row-plan" id="planLevel_${build.id}">→ ${build.level.to}</span></div>
                 <div class="cost-materials-panel" id="ascMats_${build.id}">${ascMats}</div>
 
-                <div class="cost-row" style="margin-top:14px;">
-                    <span class="cost-row-label">${build.profile ? talentNamesLabel(build.profile) : 'Talents'} <span class="cost-row-plan" id="planTalents_${build.id}">→ ${build.talents.basic.to}/${build.talents.skill.to}/${build.talents.burst.to}</span></span>
-                    <span class="cost-row-value" id="talMora_${build.id}">${talMora}</span>
-                </div>
+                <div class="cost-section-title" style="margin-top:16px;">Talent Ascension <span class="cost-row-plan" id="planTalents_${build.id}">→ ${build.talents.basic.to}/${build.talents.skill.to}/${build.talents.burst.to}</span></div>
                 <div class="cost-materials-panel" id="talMats_${build.id}">${talMats}</div>
                 ${weaponCostRows}
             </div>`;
@@ -1404,161 +1352,6 @@
         return b;
     }
 
-    // --- Manual override panel ---
-    // Keeps the "+ Add" button honest about what it'll do, and shows/hides
-    // the Reset button depending on whether there's anything to reset.
-    function syncKameraButtonsUI() {
-        const kameraBtn = document.getElementById('kameraImportBtn');
-        const resetBtn = document.getElementById('kameraResetBtn');
-        if (kameraBtn) kameraBtn.textContent = kameraInventory ? '↻ Replace InventoryKamera .json' : '+ Add InventoryKamera .json';
-        if (resetBtn) resetBtn.classList.toggle('hidden', !kameraInventory);
-    }
-
-    // Shows one number input per material InventoryKamera failed to include
-    // in the import. Disappears entirely once nothing's missing (either
-    // because the user filled everything in, or a future InventoryKamera
-    // version scans it correctly on its own).
-    function renderOverridePanel() {
-        const panel = document.getElementById('kameraOverridePanel');
-        if (!panel) return;
-
-        if (!kameraInventory) {
-            panel.classList.add('hidden');
-            panel.innerHTML = '';
-            return;
-        }
-
-        const missing = missingOverrideItems();
-        if (!missing.length) {
-            panel.classList.add('hidden');
-            panel.innerHTML = '';
-            return;
-        }
-
-        panel.classList.remove('hidden');
-        panel.innerHTML = `
-            <div style="color:var(--danger); font-size:0.85rem; margin-bottom:8px;">
-                Your InventoryKamera export didn't include ${missing.length === 1 ? 'this item' : 'these items'}.
-                Enter how many you actually own and they'll count toward your builds:
-            </div>
-            ${missing.map(item => `
-                <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
-                    <label style="flex:1; font-size:0.9rem;">${item.label}</label>
-                    <input type="number" min="0" step="1" class="kamera-override-input" data-override-key="${item.key}"
-                        placeholder="0" value="${typeof manualOverrides[item.key] === 'number' ? manualOverrides[item.key] : ''}"
-                        style="width:100px;">
-                </div>
-            `).join('')}
-        `;
-
-        panel.querySelectorAll('.kamera-override-input').forEach(input => {
-            input.addEventListener('input', _debounce(() => {
-                const key = input.dataset.overrideKey;
-                if (input.value === '') {
-                    delete manualOverrides[key];
-                } else {
-                    const val = Math.max(0, parseInt(input.value, 10) || 0);
-                    manualOverrides[key] = val;
-                }
-                saveManualOverrides();
-                renderBuilds();
-            }, 200));
-        });
-    }
-
-    // --- InventoryKamera import ---
-
-    function kameraStatusMessage(inv) {
-        const matCount = Object.keys(inv.materials).length;
-        if (!inv.characters.length && !inv.weapons.length) {
-            return `Imported ${matCount} material types (materials-only scan — no character/weapon data included).`;
-        }
-        return `Imported ${inv.characters.length} characters, ${inv.weapons.length} weapons, ${matCount} material types.`;
-    }
-
-    function handleKameraImport(file) {
-        const statusEl = document.getElementById('kameraImportStatus');
-        const reader = new FileReader();
-        reader.onload = (e) => {
-            let parsed;
-            try {
-                parsed = JSON.parse(e.target.result);
-            } catch (err) {
-                if (statusEl) statusEl.innerHTML = `<span style="color:var(--danger);">Couldn't read that file — not valid JSON.</span>`;
-                return;
-            }
-
-            if (!parsed || parsed.format !== 'GOOD' || typeof parsed.materials !== 'object' || parsed.materials === null) {
-                if (statusEl) statusEl.innerHTML = `<span style="color:var(--danger);">That doesn't look like a GOOD-format InventoryKamera export — missing expected fields.</span>`;
-                return;
-            }
-
-            // characters/weapons are optional — a scan with only "Materials"
-            // and "Char Development Items" checked in InventoryKamera won't
-            // include them at all, and that's a perfectly valid import for
-            // this tab's purposes (it only needs materials to check coverage
-            // against your existing build cards).
-            const characters = Array.isArray(parsed.characters) ? parsed.characters : [];
-            const weapons = Array.isArray(parsed.weapons) ? parsed.weapons : [];
-
-            // Only keep what we actually use — characters, weapons, materials.
-            // Anything else in the file (artifacts, etc.) is never read or stored.
-            kameraInventory = {
-                characters: characters,
-                weapons: weapons,
-                materials: parsed.materials,
-                importedAt: Date.now(),
-            };
-
-            try {
-                localStorage.setItem(KAMERA_SAVE_KEY, JSON.stringify(kameraInventory));
-            } catch (err) { /* ignore, non-critical */ }
-
-            if (statusEl) {
-                statusEl.innerHTML = kameraStatusMessage(kameraInventory);
-            }
-            renderOverridePanel();
-            syncKameraButtonsUI();
-            renderBuilds();
-        };
-        reader.onerror = () => {
-            if (statusEl) statusEl.innerHTML = `<span style="color:var(--danger);">Couldn't read that file.</span>`;
-        };
-        reader.readAsText(file);
-    }
-
-    function loadKameraInventory() {
-        try {
-            const raw = localStorage.getItem(KAMERA_SAVE_KEY);
-            if (!raw) return;
-            kameraInventory = JSON.parse(raw);
-            const statusEl = document.getElementById('kameraImportStatus');
-            if (statusEl && kameraInventory) {
-                statusEl.innerHTML = kameraStatusMessage(kameraInventory);
-            }
-        } catch (e) { kameraInventory = null; }
-        loadManualOverrides();
-        renderOverridePanel();
-        syncKameraButtonsUI();
-    }
-
-    // Wipes the imported inventory AND any manual overrides — for when
-    // someone's stuck with a stale/outdated scan and doesn't want to
-    // re-run InventoryKamera right now, or just wants a clean slate.
-    function resetKameraInventory() {
-        kameraInventory = null;
-        manualOverrides = {};
-        try {
-            localStorage.removeItem(KAMERA_SAVE_KEY);
-            localStorage.removeItem(KAMERA_OVERRIDE_SAVE_KEY);
-        } catch (e) { /* ignore, non-critical */ }
-        const statusEl = document.getElementById('kameraImportStatus');
-        if (statusEl) statusEl.textContent = '';
-        renderOverridePanel();
-        syncKameraButtonsUI();
-        renderBuilds();
-    }
-
     // --- persistence ---
 
     function saveState() {
@@ -1622,28 +1415,6 @@
             addBtn.addEventListener('click', addBlankBuild);
         }
 
-        const kameraBtn = document.getElementById('kameraImportBtn');
-        const kameraInput = document.getElementById('kameraFileInput');
-        if (kameraBtn && kameraInput && !kameraBtn.dataset.wired) {
-            kameraBtn.dataset.wired = '1';
-            kameraBtn.addEventListener('click', () => kameraInput.click());
-            kameraInput.addEventListener('change', (e) => {
-                const file = e.target.files && e.target.files[0];
-                kameraInput.value = ''; // allow re-selecting the same file later
-                if (file) handleKameraImport(file);
-            });
-        }
-
-        const kameraResetBtn = document.getElementById('kameraResetBtn');
-        if (kameraResetBtn && !kameraResetBtn.dataset.wired) {
-            kameraResetBtn.dataset.wired = '1';
-            kameraResetBtn.addEventListener('click', () => {
-                if (confirm('Clear your imported InventoryKamera data and any manual overrides? Your build cards will stay, but material coverage will show as unknown until you import again.')) {
-                    resetKameraInventory();
-                }
-            });
-        }
-
         const buildResetBtn = document.getElementById('buildResetBtn');
         if (buildResetBtn && !buildResetBtn.dataset.wired) {
             buildResetBtn.dataset.wired = '1';
@@ -1653,13 +1424,6 @@
             });
         }
 
-        if (!document.body.dataset.skillModalWired) {
-            document.body.dataset.skillModalWired = '1';
-            document.addEventListener('click', (e) => {
-                const btn = e.target.closest('[data-skill-open]');
-                if (btn) openSkillModal(btn.dataset.skillOpen);
-            });
-        }
 
         if (!document.body.dataset.buildOutsideClickWired) {
             document.body.dataset.buildOutsideClickWired = '1';
@@ -1684,11 +1448,11 @@
                 if (!e.target.closest('.updown-select')) {
                     closeAllLevelLists();
                 }
-                if (swapOpenIds.size && !e.target.closest('.build-card')) {
+                if (swapOpenIds.size && !e.target.closest('.autocomplete-wrap')) {
                     swapOpenIds.clear();
                     renderBuilds();
                 }
-                if (weaponSwapOpenIds.size && !e.target.closest('.build-card')) {
+                if (weaponSwapOpenIds.size && !e.target.closest('.autocomplete-wrap')) {
                     weaponSwapOpenIds.clear();
                     renderBuilds();
                 }
@@ -1701,11 +1465,99 @@
     window.activateBuildTab = function () {
         if (!initialized) {
             loadState();
-            loadKameraInventory();
             initGlobalHandlers();
             initialized = true;
         }
         renderBuilds();
+    };
+
+    // html2canvas is loaded on demand, the first time someone exports a
+    // build card, instead of on every page load.
+    let html2canvasLoadPromise = null;
+    function loadHtml2Canvas() {
+        if (typeof html2canvas !== 'undefined') return Promise.resolve();
+        if (html2canvasLoadPromise) return html2canvasLoadPromise;
+        html2canvasLoadPromise = new Promise((resolve, reject) => {
+            const script = document.createElement('script');
+            script.src = 'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js';
+            script.onload = resolve;
+            script.onerror = reject;
+            document.head.appendChild(script);
+        });
+        return html2canvasLoadPromise;
+    }
+
+    // Captures a single build card as a PNG. Hides the remove/save buttons
+    // (page chrome, not part of the build) for the duration of the capture.
+    window.exportBuildCardPNG = async function (btn, buildId) {
+        const card = document.querySelector(`.build-card[data-build-id="${buildId}"]`);
+        if (!card) return;
+        const build = builds.find(b => b.id === buildId);
+        const fileName = build && build.character ? `${icyVeinsSlug(build.character.name)}-build.png` : 'build.png';
+
+        const originalHtml = btn.innerHTML;
+        btn.disabled = true;
+        btn.innerHTML = '…';
+
+        try {
+            await loadHtml2Canvas();
+        } catch (e) {
+            console.error('Failed to load html2canvas:', e);
+            alert('Export failed to load — check your connection and try again.');
+            btn.disabled = false;
+            btn.innerHTML = originalHtml;
+            return;
+        }
+
+        card.classList.add('exporting-for-png');
+
+        html2canvas(card, {
+            backgroundColor: '#0f0e1e',
+            scale: 2,
+            useCORS: true
+        }).then(canvas => {
+            return new Promise((resolve, reject) => {
+                canvas.toBlob(async (blob) => {
+                    if (!blob) { reject(new Error('toBlob returned null')); return; }
+                    const file = new File([blob], fileName, { type: 'image/png' });
+
+                    const isMobileDevice = /Android|iP(hone|ad|od)/.test(navigator.userAgent) ||
+                        (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
+                    if (isMobileDevice && navigator.canShare && navigator.canShare({ files: [file] })) {
+                        try {
+                            await navigator.share({ files: [file], title: fileName });
+                            resolve();
+                            return;
+                        } catch (shareErr) {
+                            if (shareErr && shareErr.name === 'AbortError') { resolve(); return; }
+                        }
+                    }
+
+                    const isIOS = /iP(hone|ad|od)/.test(navigator.userAgent) ||
+                        (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
+                    if (isIOS) {
+                        const blobUrl = URL.createObjectURL(blob);
+                        window.open(blobUrl, '_blank');
+                        setTimeout(() => URL.revokeObjectURL(blobUrl), 30000);
+                    } else {
+                        const link = document.createElement('a');
+                        link.download = fileName;
+                        link.href = canvas.toDataURL('image/png');
+                        link.click();
+                    }
+                    resolve();
+                }, 'image/png');
+            });
+        }).catch(err => {
+            console.error('PNG export failed:', err);
+            alert('Export failed — check the console for details.');
+        }).finally(() => {
+            card.classList.remove('exporting-for-png');
+            btn.disabled = false;
+            btn.innerHTML = originalHtml;
+        });
     };
 
 })();

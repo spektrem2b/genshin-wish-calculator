@@ -294,9 +294,18 @@ let priorityPipeline = [];
         return document.querySelector('input[name="assetType"]:checked').value;
     }
 
+    // See tab-build.js's fetchCharacterProfile comment: local icon paths
+    // from assets/data/** (characters.js/weapons.js/profile JSON) resolve
+    // against assets/data/, not the page root.
+    function dataAssetSrc(path) {
+        if (!path) return null;
+        if (/^(https?:)?\/\//.test(path) || path.startsWith('assets/data/')) return path;
+        return `assets/data/${path}`;
+    }
+
     function assetIconHtml(entry, sizeClass) {
         if (entry && entry.icon) {
-            return `<img src="${entry.icon}" alt="">`;
+            return `<img src="${dataAssetSrc(entry.icon)}" alt="">`;
         }
         return `<div class="ac-icon-placeholder">?</div>`;
     }
@@ -308,7 +317,7 @@ let priorityPipeline = [];
 
     function avatarBadgeHtml(iconUrl, elementPath, size, badgeSize) {
         const avatarHtml = iconUrl
-            ? `<img src="${iconUrl}" alt="" style="width:${size}px;height:${size}px;border-radius:50%;object-fit:cover;border:1px solid var(--border-color);display:block;">`
+            ? `<img src="${dataAssetSrc(iconUrl)}" alt="" style="width:${size}px;height:${size}px;border-radius:50%;object-fit:cover;border:1px solid var(--border-color);display:block;">`
             : `<div class="ac-icon-placeholder" style="width:${size}px;height:${size}px;">?</div>`;
         const badgeHtml = elementPath
             ? `<img class="el-badge-icon" src="${elementPath}" alt="" style="width:${badgeSize}px;height:${badgeSize}px;">`

@@ -1,4 +1,13 @@
 // testlol
+// Local icon paths from assets/data/** (characters.js/weapons.js) resolve
+// against assets/data/, not the page root — see tab-build.js's
+// fetchCharacterProfile comment for the full story.
+function dataAssetSrc(path) {
+    if (!path) return null;
+    if (/^(https?:)?\/\//.test(path) || path.startsWith('assets/data/')) return path;
+    return `assets/data/${path}`;
+}
+
 function activateOddsTab() {
     initOddsPanel();
     const charInput = document.getElementById('oddsCharInput');
@@ -382,7 +391,7 @@ function rollOddsWeapon() {
     const won = wishesNeeded <= budget;
 
     const iconHtml = entry.icon
-        ? `<img src="${entry.icon}" alt="" class="odds-result-icon">`
+        ? `<img src="${dataAssetSrc(entry.icon)}" alt="" class="odds-result-icon">`
         : `<div class="ac-icon-placeholder odds-result-icon">?</div>`;
     const rollIconSrc = won
         ? 'assets/data/custom_icons/icon_pull_tab_win.webp'
@@ -437,7 +446,7 @@ function runBatchSimWeapon() {
     const worst = wishesArr[trials - 1];
 
     const iconHtml = entry.icon
-        ? `<img src="${entry.icon}" alt="" class="odds-result-icon">`
+        ? `<img src="${dataAssetSrc(entry.icon)}" alt="" class="odds-result-icon">`
         : `<div class="ac-icon-placeholder odds-result-icon">?</div>`;
 
     resultEl.innerHTML = `
@@ -494,7 +503,7 @@ function rollOdds() {
     const won = wishesNeeded <= budget;
 
     const iconHtml = entry.icon
-        ? `<img src="${entry.icon}" alt="" class="odds-result-icon">`
+        ? `<img src="${dataAssetSrc(entry.icon)}" alt="" class="odds-result-icon">`
         : `<div class="ac-icon-placeholder odds-result-icon">?</div>`;
     const rollIconSrc = won
         ? 'assets/data/custom_icons/icon_pull_tab_win.webp'
@@ -552,7 +561,7 @@ function runBatchSim() {
     const worst = wishesArr[trials - 1];
 
     const iconHtml = entry.icon
-        ? `<img src="${entry.icon}" alt="" class="odds-result-icon">`
+        ? `<img src="${dataAssetSrc(entry.icon)}" alt="" class="odds-result-icon">`
         : `<div class="ac-icon-placeholder odds-result-icon">?</div>`;
 
     resultEl.innerHTML = `
