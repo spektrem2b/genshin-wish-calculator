@@ -1,0 +1,14 @@
+{
+  "id": "10000092",
+  "name": "Gaming",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 12,
+    "day": 22
+  },
+  "release": "2024-01-29T22:00:00",
+  "icon": "character-profiles/10000092/avatar.png"
+}

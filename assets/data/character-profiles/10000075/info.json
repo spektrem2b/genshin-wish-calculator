@@ -1,0 +1,14 @@
+{
+  "id": "10000075",
+  "name": "Wanderer",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 1,
+    "day": 3
+  },
+  "release": "2022-12-05T22:00:00",
+  "icon": "character-profiles/10000075/avatar.png"
+}

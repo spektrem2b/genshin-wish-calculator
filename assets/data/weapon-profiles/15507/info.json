@@ -1,0 +1,13 @@
+{
+  "id": 15507,
+  "name": "Polar Star",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "A pristine bow that is as sharp as the glaciers of the far north.",
+  "icon": "weapon-profiles/15507/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308
+}

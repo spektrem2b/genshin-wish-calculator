@@ -1,0 +1,14 @@
+{
+  "id": "10000024",
+  "name": "Beidou",
+  "element": "Electro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 2,
+    "day": 14
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000024/avatar.png"
+}

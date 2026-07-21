@@ -1,18 +1,18 @@
 const GENSHIN_WEAPON_DB = [
   {
     "id": 13415,
-    "name": '"The Catch"',
+    "name": "\"The Catch\"",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13415/assets/icon.png",
+    "icon": "weapon-profiles/13415/avatar.png",
     "isCustom": false
   },
   {
     "id": 12426,
-    "name": `"Ultimate Overlord's Mega Magic Sword"`,
+    "name": "\"Ultimate Overlord's Mega Magic Sword\"",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12426/assets/icon.png",
+    "icon": "weapon-profiles/12426/avatar.png",
     "isCustom": false
   },
   {
@@ -20,7 +20,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "A Teaspoon of Transcendence",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12516/assets/icon.png",
+    "icon": "weapon-profiles/12516/avatar.png",
     "isCustom": false
   },
   {
@@ -28,7 +28,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "A Thousand Blazing Suns",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12514/assets/icon.png",
+    "icon": "weapon-profiles/12514/avatar.png",
     "isCustom": false
   },
   {
@@ -36,7 +36,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "A Thousand Floating Dreams",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14511/assets/icon.png",
+    "icon": "weapon-profiles/14511/avatar.png",
     "isCustom": false
   },
   {
@@ -44,7 +44,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Absolution",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11515/assets/icon.png",
+    "icon": "weapon-profiles/11515/avatar.png",
     "isCustom": false
   },
   {
@@ -52,7 +52,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Akuoumaru",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12416/assets/icon.png",
+    "icon": "weapon-profiles/12416/avatar.png",
     "isCustom": false
   },
   {
@@ -60,7 +60,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Alley Hunter",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15410/assets/icon.png",
+    "icon": "weapon-profiles/15410/avatar.png",
     "isCustom": false
   },
   {
@@ -68,7 +68,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Amenoma Kageuchi",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11414/assets/icon.png",
+    "icon": "weapon-profiles/11414/avatar.png",
     "isCustom": false
   },
   {
@@ -76,7 +76,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Amos' Bow",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15502/assets/icon.png",
+    "icon": "weapon-profiles/15502/avatar.png",
     "isCustom": false
   },
   {
@@ -84,15 +84,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Angelos' Heptades",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14523/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 14101,
-    "name": "Apprentice's Notes",
-    "rarity": 1,
-    "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14101/assets/icon.png",
+    "icon": "weapon-profiles/14523/avatar.png",
     "isCustom": false
   },
   {
@@ -100,7 +92,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Aqua Simulacra",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15508/assets/icon.png",
+    "icon": "weapon-profiles/15508/avatar.png",
     "isCustom": false
   },
   {
@@ -108,23 +100,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Aquila Favonia",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11501/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 320001,
-    "name": "Ardent Storm",
-    "rarity": 4,
-    "weaponType": "Claymore",
-    "icon": "weapon-profiles/320001/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 320002,
-    "name": "Ardent Storm - Sublimation",
-    "rarity": 5,
-    "weaponType": "Claymore",
-    "icon": "weapon-profiles/320002/assets/icon.png",
+    "icon": "weapon-profiles/11501/avatar.png",
     "isCustom": false
   },
   {
@@ -132,7 +108,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Ash-Graven Drinking Horn",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14427/assets/icon.png",
+    "icon": "weapon-profiles/14427/avatar.png",
     "isCustom": false
   },
   {
@@ -140,7 +116,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Astral Vulture's Crimson Plumage",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15514/assets/icon.png",
+    "icon": "weapon-profiles/15514/avatar.png",
     "isCustom": false
   },
   {
@@ -148,7 +124,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Athame Artis",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11518/assets/icon.png",
+    "icon": "weapon-profiles/11518/avatar.png",
     "isCustom": false
   },
   {
@@ -156,7 +132,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Azurelight",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11517/assets/icon.png",
+    "icon": "weapon-profiles/11517/avatar.png",
     "isCustom": false
   },
   {
@@ -164,7 +140,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Ballad of the Boundless Blue",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14426/assets/icon.png",
+    "icon": "weapon-profiles/14426/avatar.png",
     "isCustom": false
   },
   {
@@ -172,7 +148,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Ballad of the Fjords",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13424/assets/icon.png",
+    "icon": "weapon-profiles/13424/avatar.png",
     "isCustom": false
   },
   {
@@ -180,15 +156,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Beacon of the Reed Sea",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12511/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 13101,
-    "name": "Beginner's Protector",
-    "rarity": 1,
-    "weaponType": "Polearm",
-    "icon": "weapon-profiles/13101/assets/icon.png",
+    "icon": "weapon-profiles/12511/avatar.png",
     "isCustom": false
   },
   {
@@ -196,7 +164,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Black Tassel",
     "rarity": 3,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13303/assets/icon.png",
+    "icon": "weapon-profiles/13303/avatar.png",
     "isCustom": false
   },
   {
@@ -204,7 +172,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Blackcliff Agate",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14408/assets/icon.png",
+    "icon": "weapon-profiles/14408/avatar.png",
     "isCustom": false
   },
   {
@@ -212,7 +180,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Blackcliff Longsword",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11408/assets/icon.png",
+    "icon": "weapon-profiles/11408/avatar.png",
     "isCustom": false
   },
   {
@@ -220,7 +188,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Blackcliff Pole",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13404/assets/icon.png",
+    "icon": "weapon-profiles/13404/avatar.png",
     "isCustom": false
   },
   {
@@ -228,7 +196,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Blackcliff Slasher",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12408/assets/icon.png",
+    "icon": "weapon-profiles/12408/avatar.png",
     "isCustom": false
   },
   {
@@ -236,7 +204,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Blackcliff Warbow",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15408/assets/icon.png",
+    "icon": "weapon-profiles/15408/avatar.png",
     "isCustom": false
   },
   {
@@ -244,7 +212,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Blackmarrow Lantern",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14433/assets/icon.png",
+    "icon": "weapon-profiles/14433/avatar.png",
     "isCustom": false
   },
   {
@@ -252,7 +220,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Bloodsoaked Ruins",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13516/assets/icon.png",
+    "icon": "weapon-profiles/13516/avatar.png",
     "isCustom": false
   },
   {
@@ -260,7 +228,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Bloodtainted Greatsword",
     "rarity": 3,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12302/assets/icon.png",
+    "icon": "weapon-profiles/12302/avatar.png",
     "isCustom": false
   },
   {
@@ -268,7 +236,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Calamity of Eshu",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11432/assets/icon.png",
+    "icon": "weapon-profiles/11432/avatar.png",
     "isCustom": false
   },
   {
@@ -276,7 +244,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Calamity Queller",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13507/assets/icon.png",
+    "icon": "weapon-profiles/13507/avatar.png",
     "isCustom": false
   },
   {
@@ -284,7 +252,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Cashflow Supervision",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14513/assets/icon.png",
+    "icon": "weapon-profiles/14513/avatar.png",
     "isCustom": false
   },
   {
@@ -292,7 +260,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Chain Breaker",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15431/assets/icon.png",
+    "icon": "weapon-profiles/15431/avatar.png",
     "isCustom": false
   },
   {
@@ -300,7 +268,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Cinnabar Spindle",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11415/assets/icon.png",
+    "icon": "weapon-profiles/11415/avatar.png",
     "isCustom": false
   },
   {
@@ -308,7 +276,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Cloudforged",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15426/assets/icon.png",
+    "icon": "weapon-profiles/15426/avatar.png",
     "isCustom": false
   },
   {
@@ -316,7 +284,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Compound Bow",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15407/assets/icon.png",
+    "icon": "weapon-profiles/15407/avatar.png",
     "isCustom": false
   },
   {
@@ -324,7 +292,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Cool Steel",
     "rarity": 3,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11301/assets/icon.png",
+    "icon": "weapon-profiles/11301/avatar.png",
     "isCustom": false
   },
   {
@@ -332,7 +300,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Crane's Echoing Call",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14515/assets/icon.png",
+    "icon": "weapon-profiles/14515/avatar.png",
     "isCustom": false
   },
   {
@@ -340,7 +308,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Crescent Pike",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13403/assets/icon.png",
+    "icon": "weapon-profiles/13403/avatar.png",
     "isCustom": false
   },
   {
@@ -348,7 +316,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Crimson Moon's Semblance",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13512/assets/icon.png",
+    "icon": "weapon-profiles/13512/avatar.png",
     "isCustom": false
   },
   {
@@ -356,7 +324,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Dark Iron Sword",
     "rarity": 3,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11304/assets/icon.png",
+    "icon": "weapon-profiles/11304/avatar.png",
     "isCustom": false
   },
   {
@@ -364,7 +332,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Dawning Frost",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14434/assets/icon.png",
+    "icon": "weapon-profiles/14434/avatar.png",
     "isCustom": false
   },
   {
@@ -372,7 +340,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Deathmatch",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13405/assets/icon.png",
+    "icon": "weapon-profiles/13405/avatar.png",
     "isCustom": false
   },
   {
@@ -380,7 +348,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Debate Club",
     "rarity": 3,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12305/assets/icon.png",
+    "icon": "weapon-profiles/12305/avatar.png",
     "isCustom": false
   },
   {
@@ -388,7 +356,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Dialogues of the Desert Sages",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13426/assets/icon.png",
+    "icon": "weapon-profiles/13426/avatar.png",
     "isCustom": false
   },
   {
@@ -396,7 +364,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Disaster and Remorse",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13517/assets/icon.png",
+    "icon": "weapon-profiles/13517/avatar.png",
     "isCustom": false
   },
   {
@@ -404,7 +372,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Dodoco Tales",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14413/assets/icon.png",
+    "icon": "weapon-profiles/14413/avatar.png",
     "isCustom": false
   },
   {
@@ -412,7 +380,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Dragon's Bane",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13401/assets/icon.png",
+    "icon": "weapon-profiles/13401/avatar.png",
     "isCustom": false
   },
   {
@@ -420,15 +388,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Dragonspine Spear",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13409/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 11101,
-    "name": "Dull Blade",
-    "rarity": 1,
-    "weaponType": "Sword",
-    "icon": "weapon-profiles/11101/assets/icon.png",
+    "icon": "weapon-profiles/13409/avatar.png",
     "isCustom": false
   },
   {
@@ -436,7 +396,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Earth Shaker",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12431/assets/icon.png",
+    "icon": "weapon-profiles/12431/avatar.png",
     "isCustom": false
   },
   {
@@ -444,7 +404,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Elegy for the End",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15503/assets/icon.png",
+    "icon": "weapon-profiles/15503/avatar.png",
     "isCustom": false
   },
   {
@@ -452,7 +412,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Emerald Orb",
     "rarity": 3,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14304/assets/icon.png",
+    "icon": "weapon-profiles/14304/avatar.png",
     "isCustom": false
   },
   {
@@ -460,7 +420,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "End of the Line",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15418/assets/icon.png",
+    "icon": "weapon-profiles/15418/avatar.png",
     "isCustom": false
   },
   {
@@ -468,7 +428,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Engulfing Lightning",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13509/assets/icon.png",
+    "icon": "weapon-profiles/13509/avatar.png",
     "isCustom": false
   },
   {
@@ -476,7 +436,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Etherlight Spindlelute",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14432/assets/icon.png",
+    "icon": "weapon-profiles/14432/avatar.png",
     "isCustom": false
   },
   {
@@ -484,7 +444,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Everlasting Moonglow",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14506/assets/icon.png",
+    "icon": "weapon-profiles/14506/avatar.png",
     "isCustom": false
   },
   {
@@ -492,7 +452,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Eye of Perception",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14409/assets/icon.png",
+    "icon": "weapon-profiles/14409/avatar.png",
     "isCustom": false
   },
   {
@@ -500,7 +460,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Fading Twilight",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15411/assets/icon.png",
+    "icon": "weapon-profiles/15411/avatar.png",
     "isCustom": false
   },
   {
@@ -508,7 +468,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Fang of the Mountain King",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12513/assets/icon.png",
+    "icon": "weapon-profiles/12513/avatar.png",
     "isCustom": false
   },
   {
@@ -516,7 +476,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Favonius Codex",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14401/assets/icon.png",
+    "icon": "weapon-profiles/14401/avatar.png",
     "isCustom": false
   },
   {
@@ -524,7 +484,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Favonius Greatsword",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12401/assets/icon.png",
+    "icon": "weapon-profiles/12401/avatar.png",
     "isCustom": false
   },
   {
@@ -532,7 +492,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Favonius Lance",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13407/assets/icon.png",
+    "icon": "weapon-profiles/13407/avatar.png",
     "isCustom": false
   },
   {
@@ -540,7 +500,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Favonius Sword",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11401/assets/icon.png",
+    "icon": "weapon-profiles/11401/avatar.png",
     "isCustom": false
   },
   {
@@ -548,7 +508,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Favonius Warbow",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15401/assets/icon.png",
+    "icon": "weapon-profiles/15401/avatar.png",
     "isCustom": false
   },
   {
@@ -556,7 +516,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Ferrous Shadow",
     "rarity": 3,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12301/assets/icon.png",
+    "icon": "weapon-profiles/12301/avatar.png",
     "isCustom": false
   },
   {
@@ -564,7 +524,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Festering Desire",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11413/assets/icon.png",
+    "icon": "weapon-profiles/11413/avatar.png",
     "isCustom": false
   },
   {
@@ -572,7 +532,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Fillet Blade",
     "rarity": 3,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11305/assets/icon.png",
+    "icon": "weapon-profiles/11305/avatar.png",
     "isCustom": false
   },
   {
@@ -580,7 +540,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Finale of the Deep",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11425/assets/icon.png",
+    "icon": "weapon-profiles/11425/avatar.png",
     "isCustom": false
   },
   {
@@ -588,7 +548,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Flame-Forged Insight",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12432/assets/icon.png",
+    "icon": "weapon-profiles/12432/avatar.png",
     "isCustom": false
   },
   {
@@ -596,7 +556,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Fleuve Cendre Ferryman",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11426/assets/icon.png",
+    "icon": "weapon-profiles/11426/avatar.png",
     "isCustom": false
   },
   {
@@ -604,7 +564,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Flower-Wreathed Feathers",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15430/assets/icon.png",
+    "icon": "weapon-profiles/15430/avatar.png",
     "isCustom": false
   },
   {
@@ -612,7 +572,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Flowing Purity",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14425/assets/icon.png",
+    "icon": "weapon-profiles/14425/avatar.png",
     "isCustom": false
   },
   {
@@ -620,7 +580,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Flute of Ezpitzal",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11431/assets/icon.png",
+    "icon": "weapon-profiles/11431/avatar.png",
     "isCustom": false
   },
   {
@@ -628,7 +588,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Footprint of the Rainbow",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13431/assets/icon.png",
+    "icon": "weapon-profiles/13431/avatar.png",
     "isCustom": false
   },
   {
@@ -636,7 +596,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Forest Regalia",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12417/assets/icon.png",
+    "icon": "weapon-profiles/12417/avatar.png",
     "isCustom": false
   },
   {
@@ -644,7 +604,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Fractured Halo",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13515/assets/icon.png",
+    "icon": "weapon-profiles/13515/avatar.png",
     "isCustom": false
   },
   {
@@ -652,7 +612,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Freedom-Sworn",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11503/assets/icon.png",
+    "icon": "weapon-profiles/11503/avatar.png",
     "isCustom": false
   },
   {
@@ -660,7 +620,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Frostbearer",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14412/assets/icon.png",
+    "icon": "weapon-profiles/14412/avatar.png",
     "isCustom": false
   },
   {
@@ -668,7 +628,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Fruit of Fulfillment",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14417/assets/icon.png",
+    "icon": "weapon-profiles/14417/avatar.png",
     "isCustom": false
   },
   {
@@ -676,7 +636,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Fruitful Hook",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12430/assets/icon.png",
+    "icon": "weapon-profiles/12430/avatar.png",
     "isCustom": false
   },
   {
@@ -684,7 +644,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Gest of the Mighty Wolf",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12515/assets/icon.png",
+    "icon": "weapon-profiles/12515/avatar.png",
     "isCustom": false
   },
   {
@@ -692,7 +652,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Golden Frostbound Oath",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15516/assets/icon.png",
+    "icon": "weapon-profiles/15516/avatar.png",
     "isCustom": false
   },
   {
@@ -700,7 +660,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Hakushin Ring",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14414/assets/icon.png",
+    "icon": "weapon-profiles/14414/avatar.png",
     "isCustom": false
   },
   {
@@ -708,23 +668,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Halberd",
     "rarity": 3,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13302/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 340001,
-    "name": "Hallowed Fetters",
-    "rarity": 4,
-    "weaponType": "Catalyst",
-    "icon": "weapon-profiles/340001/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 340002,
-    "name": "Hallowed Fetters - Sublimation",
-    "rarity": 5,
-    "weaponType": "Catalyst",
-    "icon": "weapon-profiles/340002/assets/icon.png",
+    "icon": "weapon-profiles/13302/avatar.png",
     "isCustom": false
   },
   {
@@ -732,7 +676,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Hamayumi",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15414/assets/icon.png",
+    "icon": "weapon-profiles/15414/avatar.png",
     "isCustom": false
   },
   {
@@ -740,7 +684,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Haran Geppaku Futsu",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11510/assets/icon.png",
+    "icon": "weapon-profiles/11510/avatar.png",
     "isCustom": false
   },
   {
@@ -748,15 +692,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Harbinger of Dawn",
     "rarity": 3,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11302/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 15101,
-    "name": "Hunter's Bow",
-    "rarity": 1,
-    "weaponType": "Bow",
-    "icon": "weapon-profiles/15101/assets/icon.png",
+    "icon": "weapon-profiles/11302/avatar.png",
     "isCustom": false
   },
   {
@@ -764,7 +700,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Hunter's Path",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15511/assets/icon.png",
+    "icon": "weapon-profiles/15511/avatar.png",
     "isCustom": false
   },
   {
@@ -772,15 +708,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Ibis Piercer",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15419/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 13201,
-    "name": "Iron Point",
-    "rarity": 2,
-    "weaponType": "Polearm",
-    "icon": "weapon-profiles/13201/assets/icon.png",
+    "icon": "weapon-profiles/15419/avatar.png",
     "isCustom": false
   },
   {
@@ -788,7 +716,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Iron Sting",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11407/assets/icon.png",
+    "icon": "weapon-profiles/11407/avatar.png",
     "isCustom": false
   },
   {
@@ -796,7 +724,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Jadefall's Splendor",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14505/assets/icon.png",
+    "icon": "weapon-profiles/14505/avatar.png",
     "isCustom": false
   },
   {
@@ -804,7 +732,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Kagotsurube Isshin",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11416/assets/icon.png",
+    "icon": "weapon-profiles/11416/avatar.png",
     "isCustom": false
   },
   {
@@ -812,7 +740,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Kagura's Verity",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14509/assets/icon.png",
+    "icon": "weapon-profiles/14509/avatar.png",
     "isCustom": false
   },
   {
@@ -820,7 +748,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Katsuragikiri Nagamasa",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12414/assets/icon.png",
+    "icon": "weapon-profiles/12414/avatar.png",
     "isCustom": false
   },
   {
@@ -828,7 +756,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Key of Khaj-Nisut",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11511/assets/icon.png",
+    "icon": "weapon-profiles/11511/avatar.png",
     "isCustom": false
   },
   {
@@ -836,7 +764,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "King's Squire",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15417/assets/icon.png",
+    "icon": "weapon-profiles/15417/avatar.png",
     "isCustom": false
   },
   {
@@ -844,7 +772,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Kitain Cross Spear",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13414/assets/icon.png",
+    "icon": "weapon-profiles/13414/avatar.png",
     "isCustom": false
   },
   {
@@ -852,7 +780,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Light of Foliar Incision",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11512/assets/icon.png",
+    "icon": "weapon-profiles/11512/avatar.png",
     "isCustom": false
   },
   {
@@ -860,7 +788,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Lightbearing Moonshard",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11519/assets/icon.png",
+    "icon": "weapon-profiles/11519/avatar.png",
     "isCustom": false
   },
   {
@@ -868,7 +796,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Lion's Roar",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11405/assets/icon.png",
+    "icon": "weapon-profiles/11405/avatar.png",
     "isCustom": false
   },
   {
@@ -876,7 +804,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Lithic Blade",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12410/assets/icon.png",
+    "icon": "weapon-profiles/12410/avatar.png",
     "isCustom": false
   },
   {
@@ -884,7 +812,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Lithic Spear",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13406/assets/icon.png",
+    "icon": "weapon-profiles/13406/avatar.png",
     "isCustom": false
   },
   {
@@ -892,7 +820,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Lost Prayer to the Sacred Winds",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14502/assets/icon.png",
+    "icon": "weapon-profiles/14502/avatar.png",
     "isCustom": false
   },
   {
@@ -900,7 +828,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Lumidouce Elegy",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13513/assets/icon.png",
+    "icon": "weapon-profiles/13513/avatar.png",
     "isCustom": false
   },
   {
@@ -908,7 +836,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Luxurious Sea-Lord",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12412/assets/icon.png",
+    "icon": "weapon-profiles/12412/avatar.png",
     "isCustom": false
   },
   {
@@ -916,7 +844,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Magic Guide",
     "rarity": 3,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14301/assets/icon.png",
+    "icon": "weapon-profiles/14301/avatar.png",
     "isCustom": false
   },
   {
@@ -924,7 +852,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Mailed Flower",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12418/assets/icon.png",
+    "icon": "weapon-profiles/12418/avatar.png",
     "isCustom": false
   },
   {
@@ -932,7 +860,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Makhaira Aquamarine",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12415/assets/icon.png",
+    "icon": "weapon-profiles/12415/avatar.png",
     "isCustom": false
   },
   {
@@ -940,7 +868,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Mappa Mare",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14407/assets/icon.png",
+    "icon": "weapon-profiles/14407/avatar.png",
     "isCustom": false
   },
   {
@@ -948,7 +876,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Master Key",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12433/assets/icon.png",
+    "icon": "weapon-profiles/12433/avatar.png",
     "isCustom": false
   },
   {
@@ -956,7 +884,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Memory of Dust",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14504/assets/icon.png",
+    "icon": "weapon-profiles/14504/avatar.png",
     "isCustom": false
   },
   {
@@ -964,7 +892,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Messenger",
     "rarity": 3,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15305/assets/icon.png",
+    "icon": "weapon-profiles/15305/avatar.png",
     "isCustom": false
   },
   {
@@ -972,7 +900,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Missive Windspear",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13419/assets/icon.png",
+    "icon": "weapon-profiles/13419/avatar.png",
     "isCustom": false
   },
   {
@@ -980,7 +908,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Mistsplitter Reforged",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11509/assets/icon.png",
+    "icon": "weapon-profiles/11509/avatar.png",
     "isCustom": false
   },
   {
@@ -988,7 +916,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Mitternachts Waltz",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15412/assets/icon.png",
+    "icon": "weapon-profiles/15412/avatar.png",
     "isCustom": false
   },
   {
@@ -996,7 +924,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Moonpiercer",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13417/assets/icon.png",
+    "icon": "weapon-profiles/13417/avatar.png",
     "isCustom": false
   },
   {
@@ -1004,7 +932,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Moonweaver's Dawn",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11434/assets/icon.png",
+    "icon": "weapon-profiles/11434/avatar.png",
     "isCustom": false
   },
   {
@@ -1012,7 +940,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Mountain-Bracing Bolt",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13430/assets/icon.png",
+    "icon": "weapon-profiles/13430/avatar.png",
     "isCustom": false
   },
   {
@@ -1020,7 +948,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Mouun's Moon",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15416/assets/icon.png",
+    "icon": "weapon-profiles/15416/avatar.png",
     "isCustom": false
   },
   {
@@ -1028,7 +956,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Nightweaver's Looking Glass",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14520/assets/icon.png",
+    "icon": "weapon-profiles/14520/avatar.png",
     "isCustom": false
   },
   {
@@ -1036,7 +964,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Nocturne's Curtain Call",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14522/assets/icon.png",
+    "icon": "weapon-profiles/14522/avatar.png",
     "isCustom": false
   },
   {
@@ -1044,15 +972,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Oathsworn Eye",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14415/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 12201,
-    "name": "Old Merc's Pal",
-    "rarity": 2,
-    "weaponType": "Claymore",
-    "icon": "weapon-profiles/12201/assets/icon.png",
+    "icon": "weapon-profiles/14415/avatar.png",
     "isCustom": false
   },
   {
@@ -1060,7 +980,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Otherworldly Story",
     "rarity": 3,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14303/assets/icon.png",
+    "icon": "weapon-profiles/14303/avatar.png",
     "isCustom": false
   },
   {
@@ -1068,23 +988,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Peak Patrol Song",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11516/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 380001,
-    "name": "Phantasmal Gift: Star Omen",
-    "rarity": 4,
-    "weaponType": "Catalyst",
-    "icon": "weapon-profiles/380001/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 14201,
-    "name": "Pocket Grimoire",
-    "rarity": 2,
-    "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14201/assets/icon.png",
+    "icon": "weapon-profiles/11516/avatar.png",
     "isCustom": false
   },
   {
@@ -1092,7 +996,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Polar Star",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15507/assets/icon.png",
+    "icon": "weapon-profiles/15507/avatar.png",
     "isCustom": false
   },
   {
@@ -1100,7 +1004,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Portable Power Saw",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12427/assets/icon.png",
+    "icon": "weapon-profiles/12427/avatar.png",
     "isCustom": false
   },
   {
@@ -1108,7 +1012,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Predator",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15415/assets/icon.png",
+    "icon": "weapon-profiles/15415/avatar.png",
     "isCustom": false
   },
   {
@@ -1116,7 +1020,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Primordial Jade Cutter",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11505/assets/icon.png",
+    "icon": "weapon-profiles/11505/avatar.png",
     "isCustom": false
   },
   {
@@ -1124,7 +1028,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Primordial Jade Winged-Spear",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13505/assets/icon.png",
+    "icon": "weapon-profiles/13505/avatar.png",
     "isCustom": false
   },
   {
@@ -1132,7 +1036,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Prospector's Drill",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13427/assets/icon.png",
+    "icon": "weapon-profiles/13427/avatar.png",
     "isCustom": false
   },
   {
@@ -1140,7 +1044,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Prospector's Shovel",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13433/assets/icon.png",
+    "icon": "weapon-profiles/13433/avatar.png",
     "isCustom": false
   },
   {
@@ -1148,7 +1052,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Prototype Amber",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14406/assets/icon.png",
+    "icon": "weapon-profiles/14406/avatar.png",
     "isCustom": false
   },
   {
@@ -1156,7 +1060,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Prototype Archaic",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12406/assets/icon.png",
+    "icon": "weapon-profiles/12406/avatar.png",
     "isCustom": false
   },
   {
@@ -1164,7 +1068,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Prototype Crescent",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15406/assets/icon.png",
+    "icon": "weapon-profiles/15406/avatar.png",
     "isCustom": false
   },
   {
@@ -1172,7 +1076,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Prototype Rancour",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11406/assets/icon.png",
+    "icon": "weapon-profiles/11406/avatar.png",
     "isCustom": false
   },
   {
@@ -1180,7 +1084,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Prototype Starglitter",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13402/assets/icon.png",
+    "icon": "weapon-profiles/13402/avatar.png",
     "isCustom": false
   },
   {
@@ -1188,7 +1092,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Rainbow Serpent's Rain Bow",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15434/assets/icon.png",
+    "icon": "weapon-profiles/15434/avatar.png",
     "isCustom": false
   },
   {
@@ -1196,7 +1100,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Rainslasher",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12405/assets/icon.png",
+    "icon": "weapon-profiles/12405/avatar.png",
     "isCustom": false
   },
   {
@@ -1204,7 +1108,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Range Gauge",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15427/assets/icon.png",
+    "icon": "weapon-profiles/15427/avatar.png",
     "isCustom": false
   },
   {
@@ -1212,7 +1116,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Raven Bow",
     "rarity": 3,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15301/assets/icon.png",
+    "icon": "weapon-profiles/15301/avatar.png",
     "isCustom": false
   },
   {
@@ -1220,7 +1124,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Recurve Bow",
     "rarity": 3,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15303/assets/icon.png",
+    "icon": "weapon-profiles/15303/avatar.png",
     "isCustom": false
   },
   {
@@ -1228,7 +1132,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Redhorn Stonethresher",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12510/assets/icon.png",
+    "icon": "weapon-profiles/12510/avatar.png",
     "isCustom": false
   },
   {
@@ -1236,7 +1140,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Reliquary of Truth",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14521/assets/icon.png",
+    "icon": "weapon-profiles/14521/avatar.png",
     "isCustom": false
   },
   {
@@ -1244,7 +1148,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Rightful Reward",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13425/assets/icon.png",
+    "icon": "weapon-profiles/13425/avatar.png",
     "isCustom": false
   },
   {
@@ -1252,7 +1156,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Ring of Yaxche",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14431/assets/icon.png",
+    "icon": "weapon-profiles/14431/avatar.png",
     "isCustom": false
   },
   {
@@ -1260,7 +1164,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Royal Bow",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15404/assets/icon.png",
+    "icon": "weapon-profiles/15404/avatar.png",
     "isCustom": false
   },
   {
@@ -1268,7 +1172,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Royal Greatsword",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12404/assets/icon.png",
+    "icon": "weapon-profiles/12404/avatar.png",
     "isCustom": false
   },
   {
@@ -1276,7 +1180,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Royal Grimoire",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14404/assets/icon.png",
+    "icon": "weapon-profiles/14404/avatar.png",
     "isCustom": false
   },
   {
@@ -1284,7 +1188,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Royal Longsword",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11404/assets/icon.png",
+    "icon": "weapon-profiles/11404/avatar.png",
     "isCustom": false
   },
   {
@@ -1292,7 +1196,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Royal Spear",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13408/assets/icon.png",
+    "icon": "weapon-profiles/13408/avatar.png",
     "isCustom": false
   },
   {
@@ -1300,7 +1204,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Rust",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15405/assets/icon.png",
+    "icon": "weapon-profiles/15405/avatar.png",
     "isCustom": false
   },
   {
@@ -1308,7 +1212,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sacrificer's Staff",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13434/assets/icon.png",
+    "icon": "weapon-profiles/13434/avatar.png",
     "isCustom": false
   },
   {
@@ -1316,7 +1220,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sacrificial Bow",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15403/assets/icon.png",
+    "icon": "weapon-profiles/15403/avatar.png",
     "isCustom": false
   },
   {
@@ -1324,7 +1228,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sacrificial Fragments",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14403/assets/icon.png",
+    "icon": "weapon-profiles/14403/avatar.png",
     "isCustom": false
   },
   {
@@ -1332,7 +1236,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sacrificial Greatsword",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12403/assets/icon.png",
+    "icon": "weapon-profiles/12403/avatar.png",
     "isCustom": false
   },
   {
@@ -1340,7 +1244,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sacrificial Jade",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14424/assets/icon.png",
+    "icon": "weapon-profiles/14424/avatar.png",
     "isCustom": false
   },
   {
@@ -1348,7 +1252,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sacrificial Sword",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11403/assets/icon.png",
+    "icon": "weapon-profiles/11403/avatar.png",
     "isCustom": false
   },
   {
@@ -1356,7 +1260,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sapwood Blade",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11417/assets/icon.png",
+    "icon": "weapon-profiles/11417/avatar.png",
     "isCustom": false
   },
   {
@@ -1364,15 +1268,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Scion of the Blazing Sun",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15424/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 15201,
-    "name": "Seasoned Hunter's Bow",
-    "rarity": 2,
-    "weaponType": "Bow",
-    "icon": "weapon-profiles/15201/assets/icon.png",
+    "icon": "weapon-profiles/15424/avatar.png",
     "isCustom": false
   },
   {
@@ -1380,7 +1276,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sequence of Solitude",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15432/assets/icon.png",
+    "icon": "weapon-profiles/15432/avatar.png",
     "isCustom": false
   },
   {
@@ -1388,23 +1284,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Serenity's Call",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11433/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 310001,
-    "name": "Serpent Devourer",
-    "rarity": 4,
-    "weaponType": "Sword",
-    "icon": "weapon-profiles/310001/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 310002,
-    "name": "Serpent Devourer - Sublimation",
-    "rarity": 5,
-    "weaponType": "Sword",
-    "icon": "weapon-profiles/310002/assets/icon.png",
+    "icon": "weapon-profiles/11433/avatar.png",
     "isCustom": false
   },
   {
@@ -1412,7 +1292,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Serpent Spine",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12409/assets/icon.png",
+    "icon": "weapon-profiles/12409/avatar.png",
     "isCustom": false
   },
   {
@@ -1420,31 +1300,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sharpshooter's Oath",
     "rarity": 3,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15302/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 330001,
-    "name": "Shattered Moon",
-    "rarity": 4,
-    "weaponType": "Polearm",
-    "icon": "weapon-profiles/330001/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 330002,
-    "name": "Shattered Moon - Sublimation",
-    "rarity": 5,
-    "weaponType": "Polearm",
-    "icon": "weapon-profiles/330002/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 11201,
-    "name": "Silver Sword",
-    "rarity": 2,
-    "weaponType": "Sword",
-    "icon": "weapon-profiles/11201/assets/icon.png",
+    "icon": "weapon-profiles/15302/avatar.png",
     "isCustom": false
   },
   {
@@ -1452,7 +1308,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Silvershower Heartstrings",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15513/assets/icon.png",
+    "icon": "weapon-profiles/15513/avatar.png",
     "isCustom": false
   },
   {
@@ -1460,7 +1316,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Skyrider Greatsword",
     "rarity": 3,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12306/assets/icon.png",
+    "icon": "weapon-profiles/12306/avatar.png",
     "isCustom": false
   },
   {
@@ -1468,7 +1324,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Skyrider Sword",
     "rarity": 3,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11306/assets/icon.png",
+    "icon": "weapon-profiles/11306/avatar.png",
     "isCustom": false
   },
   {
@@ -1476,7 +1332,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Skyward Atlas",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14501/assets/icon.png",
+    "icon": "weapon-profiles/14501/avatar.png",
     "isCustom": false
   },
   {
@@ -1484,7 +1340,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Skyward Blade",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11502/assets/icon.png",
+    "icon": "weapon-profiles/11502/avatar.png",
     "isCustom": false
   },
   {
@@ -1492,7 +1348,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Skyward Harp",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15501/assets/icon.png",
+    "icon": "weapon-profiles/15501/avatar.png",
     "isCustom": false
   },
   {
@@ -1500,7 +1356,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Skyward Pride",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12501/assets/icon.png",
+    "icon": "weapon-profiles/12501/avatar.png",
     "isCustom": false
   },
   {
@@ -1508,7 +1364,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Skyward Spine",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13502/assets/icon.png",
+    "icon": "weapon-profiles/13502/avatar.png",
     "isCustom": false
   },
   {
@@ -1516,7 +1372,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Slingshot",
     "rarity": 3,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15304/assets/icon.png",
+    "icon": "weapon-profiles/15304/avatar.png",
     "isCustom": false
   },
   {
@@ -1524,7 +1380,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Snare Hook",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15433/assets/icon.png",
+    "icon": "weapon-profiles/15433/avatar.png",
     "isCustom": false
   },
   {
@@ -1532,7 +1388,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Snow-Tombed Starsilver",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12411/assets/icon.png",
+    "icon": "weapon-profiles/12411/avatar.png",
     "isCustom": false
   },
   {
@@ -1540,7 +1396,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Solar Pearl",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14405/assets/icon.png",
+    "icon": "weapon-profiles/14405/avatar.png",
     "isCustom": false
   },
   {
@@ -1548,7 +1404,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Song of Broken Pines",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12503/assets/icon.png",
+    "icon": "weapon-profiles/12503/avatar.png",
     "isCustom": false
   },
   {
@@ -1556,7 +1412,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Song of Stillness",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15425/assets/icon.png",
+    "icon": "weapon-profiles/15425/avatar.png",
     "isCustom": false
   },
   {
@@ -1564,7 +1420,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Splendor of Tranquil Waters",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11513/assets/icon.png",
+    "icon": "weapon-profiles/11513/avatar.png",
     "isCustom": false
   },
   {
@@ -1572,7 +1428,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Staff of Homa",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13501/assets/icon.png",
+    "icon": "weapon-profiles/13501/avatar.png",
     "isCustom": false
   },
   {
@@ -1580,7 +1436,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Staff of the Scarlet Sands",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13511/assets/icon.png",
+    "icon": "weapon-profiles/13511/avatar.png",
     "isCustom": false
   },
   {
@@ -1588,23 +1444,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Starcaller's Watch",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14517/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 350001,
-    "name": "Starpiercer",
-    "rarity": 4,
-    "weaponType": "Bow",
-    "icon": "weapon-profiles/350001/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 350002,
-    "name": "Starpiercer - Sublimation",
-    "rarity": 5,
-    "weaponType": "Bow",
-    "icon": "weapon-profiles/350002/assets/icon.png",
+    "icon": "weapon-profiles/14517/avatar.png",
     "isCustom": false
   },
   {
@@ -1612,7 +1452,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sturdy Bone",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11430/assets/icon.png",
+    "icon": "weapon-profiles/11430/avatar.png",
     "isCustom": false
   },
   {
@@ -1620,7 +1460,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Summit Shaper",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11504/assets/icon.png",
+    "icon": "weapon-profiles/11504/avatar.png",
     "isCustom": false
   },
   {
@@ -1628,15 +1468,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sunny Morning Sleep-In",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14518/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 380002,
-    "name": "Super Awesome Magic Key",
-    "rarity": 4,
-    "weaponType": "Claymore",
-    "icon": "weapon-profiles/380002/assets/icon.png",
+    "icon": "weapon-profiles/14518/avatar.png",
     "isCustom": false
   },
   {
@@ -1644,7 +1476,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Surf's Up",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14516/assets/icon.png",
+    "icon": "weapon-profiles/14516/avatar.png",
     "isCustom": false
   },
   {
@@ -1652,7 +1484,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sword of Descension",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11412/assets/icon.png",
+    "icon": "weapon-profiles/11412/avatar.png",
     "isCustom": false
   },
   {
@@ -1660,7 +1492,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Sword of Narzissenkreuz",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11428/assets/icon.png",
+    "icon": "weapon-profiles/11428/avatar.png",
     "isCustom": false
   },
   {
@@ -1668,7 +1500,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Symphonist of Scents",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13514/assets/icon.png",
+    "icon": "weapon-profiles/13514/avatar.png",
     "isCustom": false
   },
   {
@@ -1676,7 +1508,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Talking Stick",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12424/assets/icon.png",
+    "icon": "weapon-profiles/12424/avatar.png",
     "isCustom": false
   },
   {
@@ -1684,7 +1516,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Tamayuratei no Ohanashi",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13432/assets/icon.png",
+    "icon": "weapon-profiles/13432/avatar.png",
     "isCustom": false
   },
   {
@@ -1692,7 +1524,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Alley Flash",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11410/assets/icon.png",
+    "icon": "weapon-profiles/11410/avatar.png",
     "isCustom": false
   },
   {
@@ -1700,7 +1532,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Bell",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12402/assets/icon.png",
+    "icon": "weapon-profiles/12402/avatar.png",
     "isCustom": false
   },
   {
@@ -1708,7 +1540,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Black Sword",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11409/assets/icon.png",
+    "icon": "weapon-profiles/11409/avatar.png",
     "isCustom": false
   },
   {
@@ -1716,7 +1548,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Daybreak Chronicles",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15515/assets/icon.png",
+    "icon": "weapon-profiles/15515/avatar.png",
     "isCustom": false
   },
   {
@@ -1724,7 +1556,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Dockhand's Assistant",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11427/assets/icon.png",
+    "icon": "weapon-profiles/11427/avatar.png",
     "isCustom": false
   },
   {
@@ -1732,7 +1564,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The First Great Magic",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15512/assets/icon.png",
+    "icon": "weapon-profiles/15512/avatar.png",
     "isCustom": false
   },
   {
@@ -1740,7 +1572,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Flute",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11402/assets/icon.png",
+    "icon": "weapon-profiles/11402/avatar.png",
     "isCustom": false
   },
   {
@@ -1748,7 +1580,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Stringless",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15402/assets/icon.png",
+    "icon": "weapon-profiles/15402/avatar.png",
     "isCustom": false
   },
   {
@@ -1756,7 +1588,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Unforged",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12504/assets/icon.png",
+    "icon": "weapon-profiles/12504/avatar.png",
     "isCustom": false
   },
   {
@@ -1764,7 +1596,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Viridescent Hunt",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15409/assets/icon.png",
+    "icon": "weapon-profiles/15409/avatar.png",
     "isCustom": false
   },
   {
@@ -1772,7 +1604,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "The Widsith",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14402/assets/icon.png",
+    "icon": "weapon-profiles/14402/avatar.png",
     "isCustom": false
   },
   {
@@ -1780,7 +1612,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Thrilling Tales of Dragon Slayers",
     "rarity": 3,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14302/assets/icon.png",
+    "icon": "weapon-profiles/14302/avatar.png",
     "isCustom": false
   },
   {
@@ -1788,7 +1620,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Thundering Pulse",
     "rarity": 5,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15509/assets/icon.png",
+    "icon": "weapon-profiles/15509/avatar.png",
     "isCustom": false
   },
   {
@@ -1796,7 +1628,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Tidal Shadow",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12425/assets/icon.png",
+    "icon": "weapon-profiles/12425/avatar.png",
     "isCustom": false
   },
   {
@@ -1804,7 +1636,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Tome of the Eternal Flow",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14514/assets/icon.png",
+    "icon": "weapon-profiles/14514/avatar.png",
     "isCustom": false
   },
   {
@@ -1812,7 +1644,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Toukabou Shigure",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11422/assets/icon.png",
+    "icon": "weapon-profiles/11422/avatar.png",
     "isCustom": false
   },
   {
@@ -1820,7 +1652,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Traveler's Handy Sword",
     "rarity": 3,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11303/assets/icon.png",
+    "icon": "weapon-profiles/11303/avatar.png",
     "isCustom": false
   },
   {
@@ -1828,7 +1660,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Tulaytullah's Remembrance",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14512/assets/icon.png",
+    "icon": "weapon-profiles/14512/avatar.png",
     "isCustom": false
   },
   {
@@ -1836,15 +1668,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Twin Nephrite",
     "rarity": 3,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14305/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 390001,
-    "name": "Unbreakable: Durandarte",
-    "rarity": 4,
-    "weaponType": "Claymore",
-    "icon": "weapon-profiles/390001/assets/icon.png",
+    "icon": "weapon-profiles/14305/avatar.png",
     "isCustom": false
   },
   {
@@ -1852,7 +1676,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Uraku Misugiri",
     "rarity": 5,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11514/assets/icon.png",
+    "icon": "weapon-profiles/11514/avatar.png",
     "isCustom": false
   },
   {
@@ -1860,7 +1684,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Verdict",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12512/assets/icon.png",
+    "icon": "weapon-profiles/12512/avatar.png",
     "isCustom": false
   },
   {
@@ -1868,7 +1692,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Vivid Notions",
     "rarity": 5,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14519/assets/icon.png",
+    "icon": "weapon-profiles/14519/avatar.png",
     "isCustom": false
   },
   {
@@ -1876,7 +1700,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Vortex Vanquisher",
     "rarity": 5,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13504/assets/icon.png",
+    "icon": "weapon-profiles/13504/avatar.png",
     "isCustom": false
   },
   {
@@ -1884,15 +1708,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Wandering Evenstar",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14416/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": 12101,
-    "name": "Waster Greatsword",
-    "rarity": 1,
-    "weaponType": "Claymore",
-    "icon": "weapon-profiles/12101/assets/icon.png",
+    "icon": "weapon-profiles/14416/avatar.png",
     "isCustom": false
   },
   {
@@ -1900,7 +1716,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Wavebreaker's Fin",
     "rarity": 4,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13416/assets/icon.png",
+    "icon": "weapon-profiles/13416/avatar.png",
     "isCustom": false
   },
   {
@@ -1908,7 +1724,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Waveriding Whirl",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14430/assets/icon.png",
+    "icon": "weapon-profiles/14430/avatar.png",
     "isCustom": false
   },
   {
@@ -1916,7 +1732,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "White Iron Greatsword",
     "rarity": 3,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12303/assets/icon.png",
+    "icon": "weapon-profiles/12303/avatar.png",
     "isCustom": false
   },
   {
@@ -1924,7 +1740,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "White Tassel",
     "rarity": 3,
     "weaponType": "Polearm",
-    "icon": "weapon-profiles/13301/assets/icon.png",
+    "icon": "weapon-profiles/13301/avatar.png",
     "isCustom": false
   },
   {
@@ -1932,7 +1748,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Whiteblind",
     "rarity": 4,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12407/assets/icon.png",
+    "icon": "weapon-profiles/12407/avatar.png",
     "isCustom": false
   },
   {
@@ -1940,7 +1756,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Windblume Ode",
     "rarity": 4,
     "weaponType": "Bow",
-    "icon": "weapon-profiles/15413/assets/icon.png",
+    "icon": "weapon-profiles/15413/avatar.png",
     "isCustom": false
   },
   {
@@ -1948,7 +1764,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Wine and Song",
     "rarity": 4,
     "weaponType": "Catalyst",
-    "icon": "weapon-profiles/14410/assets/icon.png",
+    "icon": "weapon-profiles/14410/avatar.png",
     "isCustom": false
   },
   {
@@ -1956,7 +1772,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Wolf's Gravestone",
     "rarity": 5,
     "weaponType": "Claymore",
-    "icon": "weapon-profiles/12502/assets/icon.png",
+    "icon": "weapon-profiles/12502/avatar.png",
     "isCustom": false
   },
   {
@@ -1964,7 +1780,7 @@ const GENSHIN_WEAPON_DB = [
     "name": "Wolf-Fang",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11424/assets/icon.png",
+    "icon": "weapon-profiles/11424/avatar.png",
     "isCustom": false
   },
   {
@@ -1972,26 +1788,29 @@ const GENSHIN_WEAPON_DB = [
     "name": "Xiphos' Moonlight",
     "rarity": 4,
     "weaponType": "Sword",
-    "icon": "weapon-profiles/11418/assets/icon.png",
+    "icon": "weapon-profiles/11418/avatar.png",
     "isCustom": false
   }
 ];
+
 function getGenshinWeapon(name, rarity = 5) {
-  return GENSHIN_WEAPON_DB.find((w) => w.rarity === rarity && w.name.toLowerCase() === name.toLowerCase()) || null;
+    return GENSHIN_WEAPON_DB.find(w => w.rarity === rarity && w.name.toLowerCase() === name.toLowerCase()) || null;
 }
+
 function searchGenshinWeapons(query, rarity = 5) {
-  const pool = GENSHIN_WEAPON_DB.filter((w) => w.rarity === rarity);
-  if (!query) return pool.slice(0, 10);
-  const lowerQuery = query.toLowerCase();
-  return pool.filter((w) => w.name.toLowerCase().includes(lowerQuery));
+    const pool = GENSHIN_WEAPON_DB.filter(w => w.rarity === rarity);
+    if (!query) return pool.slice(0, 10);
+    const lowerQuery = query.toLowerCase();
+    return pool.filter(w => w.name.toLowerCase().includes(lowerQuery));
 }
+
 function makeCustomWeapon(name, rarity = 5) {
-  return {
-    id: null,
-    name,
-    rarity,
-    weaponType: null,
-    icon: "assets/data/custom_icons/Weapon_Dull_Blade_custom.webp",
-    isCustom: true
-  };
+    return {
+        id: null,
+        name: name,
+        rarity: rarity,
+        weaponType: null,
+        icon: 'custom-icons/Weapon_Dull_Blade_custom.webp',
+        isCustom: true
+    };
 }

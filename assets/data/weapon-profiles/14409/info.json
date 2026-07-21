@@ -1,0 +1,13 @@
+{
+  "id": 14409,
+  "name": "Eye of Perception",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A dim black glaze pearl that is said to have the power to read the purity of one's heart.",
+  "icon": "weapon-profiles/14409/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

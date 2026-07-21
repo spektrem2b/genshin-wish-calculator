@@ -1,0 +1,25 @@
+{
+  "name": "Last Singer",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 100."
+    },
+    {
+      "refinement": 2,
+      "description": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 125."
+    },
+    {
+      "refinement": 3,
+      "description": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 150."
+    },
+    {
+      "refinement": 4,
+      "description": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 175."
+    },
+    {
+      "refinement": 5,
+      "description": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 200."
+    }
+  ]
+}

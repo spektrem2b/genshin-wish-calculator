@@ -1,0 +1,25 @@
+{
+  "name": "Rebellious Guardian",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Taking DMG generates a shield which absorbs DMG up to 20% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 12% increased DMG."
+    },
+    {
+      "refinement": 2,
+      "description": "Taking DMG generates a shield which absorbs DMG up to 23% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 15% increased DMG."
+    },
+    {
+      "refinement": 3,
+      "description": "Taking DMG generates a shield which absorbs DMG up to 26% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 18% increased DMG."
+    },
+    {
+      "refinement": 4,
+      "description": "Taking DMG generates a shield which absorbs DMG up to 29% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 21% increased DMG."
+    },
+    {
+      "refinement": 5,
+      "description": "Taking DMG generates a shield which absorbs DMG up to 32% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 24% increased DMG."
+    }
+  ]
+}

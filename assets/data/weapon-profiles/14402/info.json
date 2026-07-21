@@ -1,0 +1,13 @@
+{
+  "id": 14402,
+  "name": "The Widsith",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+  "icon": "weapon-profiles/14402/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

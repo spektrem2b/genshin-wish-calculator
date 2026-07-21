@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Symbiotic Creeper",
+    "description": "After Razorgrass Blade hits an opponent, it will regenerate 3.5 Energy for the Traveler.",
+    "icon": "character-profiles/10000005-dendro/constellations/00_const.png"
+  },
+  {
+    "name": "Green Resilience",
+    "description": "Lea Lotus Lamp's duration is increased by 3s.",
+    "icon": "character-profiles/10000005-dendro/constellations/01_const.png"
+  },
+  {
+    "name": "Whirling Weeds",
+    "description": "Increases the Level of Razorgrass Blade by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000005-dendro/constellations/02_const.png"
+  },
+  {
+    "name": "Treacle Grass",
+    "description": "After the Lea Lotus Lamp triggers a Lotuslight Transfiguration, it will obtain 5 stacks of the Overflowing Lotuslight effect from the Ascension Talent \"Verdant Overgrowth.\"\nYou must first unlock the Ascension Talent \"Verdant Overgrowth.\"",
+    "icon": "character-profiles/10000005-dendro/constellations/03_const.png"
+  },
+  {
+    "name": "Viridian Transience",
+    "description": "Increases the Level of Surgent Manifestation by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000005-dendro/constellations/04_const.png"
+  },
+  {
+    "name": "Withering Aggregation",
+    "description": "The Dendro DMG Bonus of the character under the effect of Overflowing Lotuslight as created by the Lea Lotus Lamp is increased by 12%. If the Lamp has experienced a Lotuslight Transfiguration previously, the character will also gain 12% DMG Bonus for the corresponding element.",
+    "icon": "character-profiles/10000005-dendro/constellations/05_const.png"
+  }
+]

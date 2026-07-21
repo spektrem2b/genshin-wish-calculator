@@ -1,0 +1,13 @@
+{
+  "id": 14434,
+  "name": "Dawning Frost",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A silver-forged ritual vessel, pure and completely without blemish. It is said to be a sacred relic passed down for generations among the priestesses of the far north.",
+  "icon": "weapon-profiles/14434/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

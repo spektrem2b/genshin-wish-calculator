@@ -1,0 +1,32 @@
+[
+  {
+    "name": "\"Come, Friend, Let Us Dance Beneath the Moon's Soft Glow\"",
+    "description": "When Varka switches to Sturm und Drang, he will obtain an additional use of the special Elemental Skill Four Winds' Ascension.\nAdditionally, after switching to Sturm und Drang, Varka will gain the Lyrical Libation effect: When unleashing the special Elemental Skill Four Winds' Ascension, or when performing the special Charged Attack Azure Devour, Varka will consume this effect to deal 200% of the original DMG dealt by Four Winds' Ascension or Azure Devour.",
+    "icon": "character-profiles/10000128/constellations/00_const.png"
+  },
+  {
+    "name": "\"When Dawn Breaks, Our Journey Shall Take Flight\"",
+    "description": "When unleashing the special Elemental Skill Four Winds' Ascension, or when performing the special Charged Attack Azure Devour, Varka will perform an additional strike, dealing AoE Anemo DMG equal to 800% of Varka's ATK.",
+    "icon": "character-profiles/10000128/constellations/01_const.png"
+  },
+  {
+    "name": "\"O Friend, Quaff Not the Bitter Wine That Brings Tears of Woe\"",
+    "description": "Increases Elemental Skill Windbound Execution Level by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000128/constellations/02_const.png"
+  },
+  {
+    "name": "\"For None May Take From Us Our Freedom of Song\"",
+    "description": "When Varka triggers a Swirl reaction, based on the Elemental Types involved in the reaction, all nearby party members gain a 20% Anemo DMG Bonus and the corresponding Elemental DMG Bonus for 10s.",
+    "icon": "character-profiles/10000128/constellations/03_const.png"
+  },
+  {
+    "name": "\"Fill High the Cup With Fine Wine, for Tyrants Come and Go\"",
+    "description": "Increases Elemental Burst Northwind Avatar Level by 3.\n Maximum upgrade level is 15.",
+    "icon": "character-profiles/10000128/constellations/04_const.png"
+  },
+  {
+    "name": "\"Beloved Mondstadt, Steadfast You Shall Shine\"",
+    "description": "Sturm und Drang is enhanced:\n· For a short time after unleashing the special Elemental Skill Four Winds' Ascension, Tapping on Varka's Elemental Skill or Holding his Normal Attack will not expend any uses of Four Winds' Ascension, and will perform one additional instance of the special Charged Attack, Azure Devour.\n· For a short time after performing the special Charged Attack Azure Devour, tap on Varka's Elemental Skill to unleash an additional instance of Four Winds' Ascension without expending any uses of Four Winds' Ascension.\nWhen triggering an additional special Charged Attack, Azure Devour, or unleashing an additional special Elemental Skill, Four Winds' Ascension, in this manner, the above effect cannot be triggered.\n\nAdditionally, the Azure Fang's Oath effect in Ascension Talent Wind's Vanguard is enhanced: Every stack of Azure Fang's Oath will increase Varka's CRIT DMG by 20%.",
+    "icon": "character-profiles/10000128/constellations/05_const.png"
+  }
+]

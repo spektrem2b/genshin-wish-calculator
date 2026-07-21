@@ -1,0 +1,13 @@
+{
+  "id": 15433,
+  "name": "Snare Hook",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "The stave of this bow is comprised of metal alloy and yet remains surprisingly light. Even when faced with thick, heavy snares, the arrows it fires can pass through unhindered.",
+  "icon": "weapon-profiles/15433/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125
+}

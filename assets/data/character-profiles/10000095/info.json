@@ -1,0 +1,14 @@
+{
+  "id": "10000095",
+  "name": "Sigewinne",
+  "element": "Hydro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 3,
+    "day": 30
+  },
+  "release": "2024-06-26T15:00:00",
+  "icon": "character-profiles/10000095/avatar.png"
+}

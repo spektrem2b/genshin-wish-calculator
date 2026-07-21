@@ -1,0 +1,14 @@
+{
+  "id": "10000128",
+  "name": "Varka",
+  "element": "Anemo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 2,
+    "day": 17
+  },
+  "release": "2026-02-23T22:00:00",
+  "icon": "character-profiles/10000128/avatar.png"
+}

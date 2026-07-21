@@ -1,0 +1,13 @@
+{
+  "id": 13409,
+  "name": "Dragonspine Spear",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A spear created from the fang of a dragon. It is oddly warm to the touch.",
+  "icon": "weapon-profiles/13409/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.150133,
+  "substat_lvl90": 0.6897
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000047",
+  "name": "Kaedehara Kazuha",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 10,
+    "day": 29
+  },
+  "release": "2021-06-29T15:00:00",
+  "icon": "character-profiles/10000047/avatar.png"
+}

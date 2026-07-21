@@ -1,0 +1,14 @@
+{
+  "id": "10000023",
+  "name": "Xiangling",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 11,
+    "day": 2
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000023/avatar.png"
+}

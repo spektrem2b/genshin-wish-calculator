@@ -1,0 +1,13 @@
+{
+  "id": 12417,
+  "name": "Forest Regalia",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest.",
+  "icon": "weapon-profiles/12417/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

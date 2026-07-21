@@ -1,0 +1,13 @@
+{
+  "id": 13504,
+  "name": "Vortex Vanquisher",
+  "type": "Polearm",
+  "rarity": 5,
+  "description": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air.",
+  "icon": "weapon-profiles/13504/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962
+}

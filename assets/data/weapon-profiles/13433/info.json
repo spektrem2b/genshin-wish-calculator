@@ -1,0 +1,13 @@
+{
+  "id": 13433,
+  "name": "Prospector's Shovel",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A polearm that appears to have been crafted from a metal agricultural tool. At first glance, it could not look more ordinary, yet its discreet design hides fittings that are both lavish and undeniably exquisite.",
+  "icon": "weapon-profiles/13433/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

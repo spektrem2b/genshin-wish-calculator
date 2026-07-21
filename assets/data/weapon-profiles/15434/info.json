@@ -1,0 +1,13 @@
+{
+  "id": 15434,
+  "name": "Rainbow Serpent's Rain Bow",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "An ancient ceremonial weapon passed down by the Masters of the Night-Wind. This dark bow is forever wreathed in an unshakable chill.",
+  "icon": "weapon-profiles/15434/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594
+}

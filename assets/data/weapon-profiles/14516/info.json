@@ -1,0 +1,13 @@
+{
+  "id": 14516,
+  "name": "Surf's Up",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A commemorative item originally reserved for the champion of the \"First All-Tribe Surfing Championship.\" Since said tournament is currently in the preparatory stage, the prize is in temporary storage at the Leisurely Puffer, with the shop owner as its custodian.",
+  "icon": "weapon-profiles/14516/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

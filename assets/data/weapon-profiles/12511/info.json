@@ -1,0 +1,13 @@
+{
+  "id": 12511,
+  "name": "Beacon of the Reed Sea",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument.",
+  "icon": "weapon-profiles/12511/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308
+}

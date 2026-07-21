@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sealed Shrine's Spiritsong",
+    "description": "The CRIT Rate of Shadowpiercing Shot is increased by 15%.",
+    "icon": "character-profiles/10000097/constellations/00_const.png"
+  },
+  {
+    "name": "Papyrus Scripture of Silent Secrets",
+    "description": "When any of the following conditions are met, Sethos gains a 15% Electro DMG Bonus for 10s that may stack twice, with each stack duration counted independently:\n· Consuming Elemental Energy through Aimed Shots. You must first unlock the Ascension Talent \"Black Kite's Enigma\" to trigger this condition.\n· Regaining Elemental Energy by triggering Elemental Reactions using Ancient Rite: The Thundering Sands.\n· Using Secret Rite: Twilight Shadowpiercer.",
+    "icon": "character-profiles/10000097/constellations/01_const.png"
+  },
+  {
+    "name": "Ode to the Moonrise Sage",
+    "description": "Increases the Level of Normal Attack: Royal Reed Archery by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000097/constellations/02_const.png"
+  },
+  {
+    "name": "Beneficent Plumage",
+    "description": "When a Shadowpiercing Shot or Dusk Bolt strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s.",
+    "icon": "character-profiles/10000097/constellations/03_const.png"
+  },
+  {
+    "name": "Record of the Desolate God's Burning Sands",
+    "description": "Increases the Level of Secret Rite: Twilight Shadowpiercer by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000097/constellations/04_const.png"
+  },
+  {
+    "name": "Pylon of the Sojourning Sun Temple",
+    "description": "After Shadowpiercing Shot strikes an opponent, the Elemental Energy consumed by the Ascension Talent \"Black Kite's Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Ascension Talent \"Black Kite's Enigma.\"",
+    "icon": "character-profiles/10000097/constellations/05_const.png"
+  }
+]

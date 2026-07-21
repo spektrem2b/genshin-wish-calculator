@@ -1,0 +1,13 @@
+{
+  "id": 13405,
+  "name": "Deathmatch",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men.",
+  "icon": "weapon-profiles/13405/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675
+}

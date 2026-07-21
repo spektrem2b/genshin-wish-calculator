@@ -1,0 +1,13 @@
+{
+  "id": 12504,
+  "name": "The Unforged",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.",
+  "icon": "weapon-profiles/12504/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962
+}

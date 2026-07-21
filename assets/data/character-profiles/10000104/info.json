@@ -1,0 +1,14 @@
+{
+  "id": "10000104",
+  "name": "Chasca",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 12,
+    "day": 10
+  },
+  "release": "2024-11-18T22:00:00",
+  "icon": "character-profiles/10000104/avatar.png"
+}

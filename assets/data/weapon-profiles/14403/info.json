@@ -1,0 +1,13 @@
+{
+  "id": 14403,
+  "name": "Sacrificial Fragments",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time.",
+  "icon": "weapon-profiles/14403/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 48.0,
+  "substat_lvl90": 220.512
+}

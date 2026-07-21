@@ -1,0 +1,13 @@
+{
+  "id": 15509,
+  "name": "Thundering Pulse",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it.",
+  "icon": "weapon-profiles/15509/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615
+}

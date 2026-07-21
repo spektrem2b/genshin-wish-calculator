@@ -4,7 +4,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Aino",
     "rarity": 4,
     "element": "Hydro",
-    "icon": "character-profiles/10000121/assets/icon.png",
+    "icon": "character-profiles/10000121/avatar.png",
     "isCustom": false
   },
   {
@@ -12,7 +12,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Albedo",
     "rarity": 5,
     "element": "Geo",
-    "icon": "character-profiles/10000038/assets/icon.png",
+    "icon": "character-profiles/10000038/avatar.png",
     "isCustom": false
   },
   {
@@ -20,7 +20,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Alhaitham",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000078/assets/icon.png",
+    "icon": "character-profiles/10000078/avatar.png",
     "isCustom": false
   },
   {
@@ -28,7 +28,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Aloy",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000062/assets/icon.png",
+    "icon": "character-profiles/10000062/avatar.png",
     "isCustom": false
   },
   {
@@ -36,7 +36,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Amber",
     "rarity": 4,
     "element": "Pyro",
-    "icon": "character-profiles/10000021/assets/icon.png",
+    "icon": "character-profiles/10000021/avatar.png",
     "isCustom": false
   },
   {
@@ -44,7 +44,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Arataki Itto",
     "rarity": 5,
     "element": "Geo",
-    "icon": "character-profiles/10000057/assets/icon.png",
+    "icon": "character-profiles/10000057/avatar.png",
     "isCustom": false
   },
   {
@@ -52,7 +52,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Arlecchino",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000096/assets/icon.png",
+    "icon": "character-profiles/10000096/avatar.png",
     "isCustom": false
   },
   {
@@ -60,7 +60,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Baizhu",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000082/assets/icon.png",
+    "icon": "character-profiles/10000082/avatar.png",
     "isCustom": false
   },
   {
@@ -68,7 +68,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Barbara",
     "rarity": 4,
     "element": "Hydro",
-    "icon": "character-profiles/10000014/assets/icon.png",
+    "icon": "character-profiles/10000014/avatar.png",
     "isCustom": false
   },
   {
@@ -76,7 +76,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Beidou",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000024/assets/icon.png",
+    "icon": "character-profiles/10000024/avatar.png",
     "isCustom": false
   },
   {
@@ -84,7 +84,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Bennett",
     "rarity": 4,
     "element": "Pyro",
-    "icon": "character-profiles/10000032/assets/icon.png",
+    "icon": "character-profiles/10000032/avatar.png",
     "isCustom": false
   },
   {
@@ -92,7 +92,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Candace",
     "rarity": 4,
     "element": "Hydro",
-    "icon": "character-profiles/10000072/assets/icon.png",
+    "icon": "character-profiles/10000072/avatar.png",
     "isCustom": false
   },
   {
@@ -100,7 +100,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Charlotte",
     "rarity": 4,
     "element": "Cryo",
-    "icon": "character-profiles/10000088/assets/icon.png",
+    "icon": "character-profiles/10000088/avatar.png",
     "isCustom": false
   },
   {
@@ -108,7 +108,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Chasca",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000104/assets/icon.png",
+    "icon": "character-profiles/10000104/avatar.png",
     "isCustom": false
   },
   {
@@ -116,7 +116,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Chevreuse",
     "rarity": 4,
     "element": "Pyro",
-    "icon": "character-profiles/10000090/assets/icon.png",
+    "icon": "character-profiles/10000090/avatar.png",
     "isCustom": false
   },
   {
@@ -124,7 +124,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Chiori",
     "rarity": 5,
     "element": "Geo",
-    "icon": "character-profiles/10000094/assets/icon.png",
+    "icon": "character-profiles/10000094/avatar.png",
     "isCustom": false
   },
   {
@@ -132,7 +132,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Chongyun",
     "rarity": 4,
     "element": "Cryo",
-    "icon": "character-profiles/10000036/assets/icon.png",
+    "icon": "character-profiles/10000036/avatar.png",
     "isCustom": false
   },
   {
@@ -140,7 +140,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Citlali",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000107/assets/icon.png",
+    "icon": "character-profiles/10000107/avatar.png",
     "isCustom": false
   },
   {
@@ -148,7 +148,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Clorinde",
     "rarity": 5,
     "element": "Electro",
-    "icon": "character-profiles/10000098/assets/icon.png",
+    "icon": "character-profiles/10000098/avatar.png",
     "isCustom": false
   },
   {
@@ -156,7 +156,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Collei",
     "rarity": 4,
     "element": "Dendro",
-    "icon": "character-profiles/10000067/assets/icon.png",
+    "icon": "character-profiles/10000067/avatar.png",
     "isCustom": false
   },
   {
@@ -164,7 +164,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Columbina",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000125/assets/icon.png",
+    "icon": "character-profiles/10000125/avatar.png",
     "isCustom": false
   },
   {
@@ -172,7 +172,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Cyno",
     "rarity": 5,
     "element": "Electro",
-    "icon": "character-profiles/10000071/assets/icon.png",
+    "icon": "character-profiles/10000071/avatar.png",
     "isCustom": false
   },
   {
@@ -180,7 +180,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Dahlia",
     "rarity": 4,
     "element": "Hydro",
-    "icon": "character-profiles/10000115/assets/icon.png",
+    "icon": "character-profiles/10000115/avatar.png",
     "isCustom": false
   },
   {
@@ -188,7 +188,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Dehya",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000079/assets/icon.png",
+    "icon": "character-profiles/10000079/avatar.png",
     "isCustom": false
   },
   {
@@ -196,7 +196,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Diluc",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000016/assets/icon.png",
+    "icon": "character-profiles/10000016/avatar.png",
     "isCustom": false
   },
   {
@@ -204,7 +204,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Diona",
     "rarity": 4,
     "element": "Cryo",
-    "icon": "character-profiles/10000039/assets/icon.png",
+    "icon": "character-profiles/10000039/avatar.png",
     "isCustom": false
   },
   {
@@ -212,7 +212,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Dori",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000068/assets/icon.png",
+    "icon": "character-profiles/10000068/avatar.png",
     "isCustom": false
   },
   {
@@ -220,7 +220,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Durin",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000123/assets/icon.png",
+    "icon": "character-profiles/10000123/avatar.png",
     "isCustom": false
   },
   {
@@ -228,7 +228,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Emilie",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000099/assets/icon.png",
+    "icon": "character-profiles/10000099/avatar.png",
     "isCustom": false
   },
   {
@@ -236,7 +236,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Escoffier",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000112/assets/icon.png",
+    "icon": "character-profiles/10000112/avatar.png",
     "isCustom": false
   },
   {
@@ -244,7 +244,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Eula",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000051/assets/icon.png",
+    "icon": "character-profiles/10000051/avatar.png",
     "isCustom": false
   },
   {
@@ -252,7 +252,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Faruzan",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000076/assets/icon.png",
+    "icon": "character-profiles/10000076/avatar.png",
     "isCustom": false
   },
   {
@@ -260,7 +260,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Fischl",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000031/assets/icon.png",
+    "icon": "character-profiles/10000031/avatar.png",
     "isCustom": false
   },
   {
@@ -268,7 +268,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Flins",
     "rarity": 5,
     "element": "Electro",
-    "icon": "character-profiles/10000120/assets/icon.png",
+    "icon": "character-profiles/10000120/avatar.png",
     "isCustom": false
   },
   {
@@ -276,7 +276,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Freminet",
     "rarity": 4,
     "element": "Cryo",
-    "icon": "character-profiles/10000085/assets/icon.png",
+    "icon": "character-profiles/10000085/avatar.png",
     "isCustom": false
   },
   {
@@ -284,7 +284,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Furina",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000089/assets/icon.png",
+    "icon": "character-profiles/10000089/avatar.png",
     "isCustom": false
   },
   {
@@ -292,7 +292,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Gaming",
     "rarity": 4,
     "element": "Pyro",
-    "icon": "character-profiles/10000092/assets/icon.png",
+    "icon": "character-profiles/10000092/avatar.png",
     "isCustom": false
   },
   {
@@ -300,7 +300,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Ganyu",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000037/assets/icon.png",
+    "icon": "character-profiles/10000037/avatar.png",
     "isCustom": false
   },
   {
@@ -308,7 +308,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Gorou",
     "rarity": 4,
     "element": "Geo",
-    "icon": "character-profiles/10000055/assets/icon.png",
+    "icon": "character-profiles/10000055/avatar.png",
     "isCustom": false
   },
   {
@@ -316,7 +316,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Hu Tao",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000046/assets/icon.png",
+    "icon": "character-profiles/10000046/avatar.png",
     "isCustom": false
   },
   {
@@ -324,7 +324,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Iansan",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000110/assets/icon.png",
+    "icon": "character-profiles/10000110/avatar.png",
     "isCustom": false
   },
   {
@@ -332,7 +332,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Ifa",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000113/assets/icon.png",
+    "icon": "character-profiles/10000113/avatar.png",
     "isCustom": false
   },
   {
@@ -340,7 +340,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Illuga",
     "rarity": 4,
     "element": "Geo",
-    "icon": "character-profiles/10000127/assets/icon.png",
+    "icon": "character-profiles/10000127/avatar.png",
     "isCustom": false
   },
   {
@@ -348,7 +348,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Ineffa",
     "rarity": 5,
     "element": "Electro",
-    "icon": "character-profiles/10000116/assets/icon.png",
+    "icon": "character-profiles/10000116/avatar.png",
     "isCustom": false
   },
   {
@@ -356,7 +356,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Jahoda",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000124/assets/icon.png",
+    "icon": "character-profiles/10000124/avatar.png",
     "isCustom": false
   },
   {
@@ -364,7 +364,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Jean",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000003/assets/icon.png",
+    "icon": "character-profiles/10000003/avatar.png",
     "isCustom": false
   },
   {
@@ -372,7 +372,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kachina",
     "rarity": 4,
     "element": "Geo",
-    "icon": "character-profiles/10000100/assets/icon.png",
+    "icon": "character-profiles/10000100/avatar.png",
     "isCustom": false
   },
   {
@@ -380,7 +380,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kaedehara Kazuha",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000047/assets/icon.png",
+    "icon": "character-profiles/10000047/avatar.png",
     "isCustom": false
   },
   {
@@ -388,7 +388,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kaeya",
     "rarity": 4,
     "element": "Cryo",
-    "icon": "character-profiles/10000015/assets/icon.png",
+    "icon": "character-profiles/10000015/avatar.png",
     "isCustom": false
   },
   {
@@ -396,7 +396,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kamisato Ayaka",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000002/assets/icon.png",
+    "icon": "character-profiles/10000002/avatar.png",
     "isCustom": false
   },
   {
@@ -404,7 +404,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kamisato Ayato",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000066/assets/icon.png",
+    "icon": "character-profiles/10000066/avatar.png",
     "isCustom": false
   },
   {
@@ -412,7 +412,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kaveh",
     "rarity": 4,
     "element": "Dendro",
-    "icon": "character-profiles/10000081/assets/icon.png",
+    "icon": "character-profiles/10000081/avatar.png",
     "isCustom": false
   },
   {
@@ -420,7 +420,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Keqing",
     "rarity": 5,
     "element": "Electro",
-    "icon": "character-profiles/10000042/assets/icon.png",
+    "icon": "character-profiles/10000042/avatar.png",
     "isCustom": false
   },
   {
@@ -428,7 +428,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kinich",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000101/assets/icon.png",
+    "icon": "character-profiles/10000101/avatar.png",
     "isCustom": false
   },
   {
@@ -436,7 +436,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kirara",
     "rarity": 4,
     "element": "Dendro",
-    "icon": "character-profiles/10000061/assets/icon.png",
+    "icon": "character-profiles/10000061/avatar.png",
     "isCustom": false
   },
   {
@@ -444,7 +444,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Klee",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000029/assets/icon.png",
+    "icon": "character-profiles/10000029/avatar.png",
     "isCustom": false
   },
   {
@@ -452,7 +452,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kujou Sara",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000056/assets/icon.png",
+    "icon": "character-profiles/10000056/avatar.png",
     "isCustom": false
   },
   {
@@ -460,7 +460,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Kuki Shinobu",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000065/assets/icon.png",
+    "icon": "character-profiles/10000065/avatar.png",
     "isCustom": false
   },
   {
@@ -468,7 +468,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Lan Yan",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000108/assets/icon.png",
+    "icon": "character-profiles/10000108/avatar.png",
     "isCustom": false
   },
   {
@@ -476,7 +476,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Lauma",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000119/assets/icon.png",
+    "icon": "character-profiles/10000119/avatar.png",
     "isCustom": false
   },
   {
@@ -484,7 +484,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Layla",
     "rarity": 4,
     "element": "Cryo",
-    "icon": "character-profiles/10000074/assets/icon.png",
+    "icon": "character-profiles/10000074/avatar.png",
     "isCustom": false
   },
   {
@@ -492,7 +492,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Linnea",
     "rarity": 5,
     "element": "Geo",
-    "icon": "character-profiles/10000130/assets/icon.png",
+    "icon": "character-profiles/10000130/avatar.png",
     "isCustom": false
   },
   {
@@ -500,7 +500,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Lisa",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000006/assets/icon.png",
+    "icon": "character-profiles/10000006/avatar.png",
     "isCustom": false
   },
   {
@@ -508,7 +508,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Lohen",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000129/assets/icon.png",
+    "icon": "character-profiles/10000129/avatar.png",
     "isCustom": false
   },
   {
@@ -516,7 +516,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Lynette",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000083/assets/icon.png",
+    "icon": "character-profiles/10000083/avatar.png",
     "isCustom": false
   },
   {
@@ -524,7 +524,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Lyney",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000084/assets/icon.png",
+    "icon": "character-profiles/10000084/avatar.png",
     "isCustom": false
   },
   {
@@ -532,7 +532,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Manekin",
     "rarity": 5,
     "element": "None",
-    "icon": "character-profiles/10000117/assets/icon.png",
+    "icon": "character-profiles/10000117/avatar.png",
     "isCustom": false
   },
   {
@@ -540,7 +540,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Manekina",
     "rarity": 5,
     "element": "None",
-    "icon": "character-profiles/10000118/assets/icon.png",
+    "icon": "character-profiles/10000118/avatar.png",
     "isCustom": false
   },
   {
@@ -548,7 +548,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Mavuika",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000106/assets/icon.png",
+    "icon": "character-profiles/10000106/avatar.png",
     "isCustom": false
   },
   {
@@ -556,7 +556,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Mika",
     "rarity": 4,
     "element": "Cryo",
-    "icon": "character-profiles/10000080/assets/icon.png",
+    "icon": "character-profiles/10000080/avatar.png",
     "isCustom": false
   },
   {
@@ -564,7 +564,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Mona",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000041/assets/icon.png",
+    "icon": "character-profiles/10000041/avatar.png",
     "isCustom": false
   },
   {
@@ -572,7 +572,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Mualani",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000102/assets/icon.png",
+    "icon": "character-profiles/10000102/avatar.png",
     "isCustom": false
   },
   {
@@ -580,7 +580,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Nahida",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000073/assets/icon.png",
+    "icon": "character-profiles/10000073/avatar.png",
     "isCustom": false
   },
   {
@@ -588,7 +588,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Navia",
     "rarity": 5,
     "element": "Geo",
-    "icon": "character-profiles/10000091/assets/icon.png",
+    "icon": "character-profiles/10000091/avatar.png",
     "isCustom": false
   },
   {
@@ -596,7 +596,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Nefer",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000122/assets/icon.png",
+    "icon": "character-profiles/10000122/avatar.png",
     "isCustom": false
   },
   {
@@ -604,7 +604,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Neuvillette",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000087/assets/icon.png",
+    "icon": "character-profiles/10000087/avatar.png",
     "isCustom": false
   },
   {
@@ -612,7 +612,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Nicole",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000131/assets/icon.png",
+    "icon": "character-profiles/10000131/avatar.png",
     "isCustom": false
   },
   {
@@ -620,7 +620,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Nilou",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000070/assets/icon.png",
+    "icon": "character-profiles/10000070/avatar.png",
     "isCustom": false
   },
   {
@@ -628,7 +628,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Ningguang",
     "rarity": 4,
     "element": "Geo",
-    "icon": "character-profiles/10000027/assets/icon.png",
+    "icon": "character-profiles/10000027/avatar.png",
     "isCustom": false
   },
   {
@@ -636,7 +636,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Noelle",
     "rarity": 4,
     "element": "Geo",
-    "icon": "character-profiles/10000034/assets/icon.png",
+    "icon": "character-profiles/10000034/avatar.png",
     "isCustom": false
   },
   {
@@ -644,7 +644,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Ororon",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000105/assets/icon.png",
+    "icon": "character-profiles/10000105/avatar.png",
     "isCustom": false
   },
   {
@@ -652,7 +652,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Prune",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000132/assets/icon.png",
+    "icon": "character-profiles/10000132/avatar.png",
     "isCustom": false
   },
   {
@@ -660,7 +660,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Qiqi",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000035/assets/icon.png",
+    "icon": "character-profiles/10000035/avatar.png",
     "isCustom": false
   },
   {
@@ -668,7 +668,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Raiden Shogun",
     "rarity": 5,
     "element": "Electro",
-    "icon": "character-profiles/10000052/assets/icon.png",
+    "icon": "character-profiles/10000052/avatar.png",
     "isCustom": false
   },
   {
@@ -676,7 +676,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Razor",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000020/assets/icon.png",
+    "icon": "character-profiles/10000020/avatar.png",
     "isCustom": false
   },
   {
@@ -684,7 +684,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Rosaria",
     "rarity": 4,
     "element": "Cryo",
-    "icon": "character-profiles/10000045/assets/icon.png",
+    "icon": "character-profiles/10000045/avatar.png",
     "isCustom": false
   },
   {
@@ -692,7 +692,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Sandrone",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000133/assets/icon.png",
+    "icon": "character-profiles/10000133/avatar.png",
     "isCustom": false
   },
   {
@@ -700,7 +700,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Sangonomiya Kokomi",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000054/assets/icon.png",
+    "icon": "character-profiles/10000054/avatar.png",
     "isCustom": false
   },
   {
@@ -708,7 +708,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Sayu",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000053/assets/icon.png",
+    "icon": "character-profiles/10000053/avatar.png",
     "isCustom": false
   },
   {
@@ -716,7 +716,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Sethos",
     "rarity": 4,
     "element": "Electro",
-    "icon": "character-profiles/10000097/assets/icon.png",
+    "icon": "character-profiles/10000097/avatar.png",
     "isCustom": false
   },
   {
@@ -724,7 +724,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Shenhe",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000063/assets/icon.png",
+    "icon": "character-profiles/10000063/avatar.png",
     "isCustom": false
   },
   {
@@ -732,7 +732,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Shikanoin Heizou",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000059/assets/icon.png",
+    "icon": "character-profiles/10000059/avatar.png",
     "isCustom": false
   },
   {
@@ -740,7 +740,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Sigewinne",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000095/assets/icon.png",
+    "icon": "character-profiles/10000095/avatar.png",
     "isCustom": false
   },
   {
@@ -748,7 +748,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Skirk",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000114/assets/icon.png",
+    "icon": "character-profiles/10000114/avatar.png",
     "isCustom": false
   },
   {
@@ -756,7 +756,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Sucrose",
     "rarity": 4,
     "element": "Anemo",
-    "icon": "character-profiles/10000043/assets/icon.png",
+    "icon": "character-profiles/10000043/avatar.png",
     "isCustom": false
   },
   {
@@ -764,7 +764,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Tartaglia",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000033/assets/icon.png",
+    "icon": "character-profiles/10000033/avatar.png",
     "isCustom": false
   },
   {
@@ -772,7 +772,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Thoma",
     "rarity": 4,
     "element": "Pyro",
-    "icon": "character-profiles/10000050/assets/icon.png",
+    "icon": "character-profiles/10000050/avatar.png",
     "isCustom": false
   },
   {
@@ -780,23 +780,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Tighnari",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000069/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": "10000005-pyro",
-    "name": "Traveler",
-    "rarity": 5,
-    "element": "Pyro",
-    "icon": "character-profiles/10000005-pyro/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": "10000005-hydro",
-    "name": "Traveler",
-    "rarity": 5,
-    "element": "Hydro",
-    "icon": "character-profiles/10000005-pyro/assets/icon.png",
+    "icon": "character-profiles/10000069/avatar.png",
     "isCustom": false
   },
   {
@@ -804,23 +788,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Traveler",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000005-pyro/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": "10000005-geo",
-    "name": "Traveler",
-    "rarity": 5,
-    "element": "Geo",
-    "icon": "character-profiles/10000005-pyro/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": "10000005-electro",
-    "name": "Traveler",
-    "rarity": 5,
-    "element": "Electro",
-    "icon": "character-profiles/10000005-pyro/assets/icon.png",
+    "icon": "character-profiles/10000005-pyro/avatar.png",
     "isCustom": false
   },
   {
@@ -828,23 +796,39 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Traveler",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000005-pyro/assets/icon.png",
+    "icon": "character-profiles/10000005-pyro/avatar.png",
     "isCustom": false
   },
   {
-    "id": "10000007-pyro",
+    "id": "10000005-electro",
     "name": "Traveler",
     "rarity": 5,
-    "element": "Pyro",
-    "icon": "character-profiles/10000007-pyro/assets/icon.png",
+    "element": "Electro",
+    "icon": "character-profiles/10000005-pyro/avatar.png",
     "isCustom": false
   },
   {
-    "id": "10000007-hydro",
+    "id": "10000005-geo",
+    "name": "Traveler",
+    "rarity": 5,
+    "element": "Geo",
+    "icon": "character-profiles/10000005-pyro/avatar.png",
+    "isCustom": false
+  },
+  {
+    "id": "10000005-hydro",
     "name": "Traveler",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000007-pyro/assets/icon.png",
+    "icon": "character-profiles/10000005-pyro/avatar.png",
+    "isCustom": false
+  },
+  {
+    "id": "10000005-pyro",
+    "name": "Traveler",
+    "rarity": 5,
+    "element": "Pyro",
+    "icon": "character-profiles/10000005-pyro/avatar.png",
     "isCustom": false
   },
   {
@@ -852,23 +836,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Traveler",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000007-pyro/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": "10000007-geo",
-    "name": "Traveler",
-    "rarity": 5,
-    "element": "Geo",
-    "icon": "character-profiles/10000007-pyro/assets/icon.png",
-    "isCustom": false
-  },
-  {
-    "id": "10000007-electro",
-    "name": "Traveler",
-    "rarity": 5,
-    "element": "Electro",
-    "icon": "character-profiles/10000007-pyro/assets/icon.png",
+    "icon": "character-profiles/10000007-pyro/avatar.png",
     "isCustom": false
   },
   {
@@ -876,7 +844,39 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Traveler",
     "rarity": 5,
     "element": "Dendro",
-    "icon": "character-profiles/10000007-pyro/assets/icon.png",
+    "icon": "character-profiles/10000007-pyro/avatar.png",
+    "isCustom": false
+  },
+  {
+    "id": "10000007-electro",
+    "name": "Traveler",
+    "rarity": 5,
+    "element": "Electro",
+    "icon": "character-profiles/10000007-pyro/avatar.png",
+    "isCustom": false
+  },
+  {
+    "id": "10000007-geo",
+    "name": "Traveler",
+    "rarity": 5,
+    "element": "Geo",
+    "icon": "character-profiles/10000007-pyro/avatar.png",
+    "isCustom": false
+  },
+  {
+    "id": "10000007-hydro",
+    "name": "Traveler",
+    "rarity": 5,
+    "element": "Hydro",
+    "icon": "character-profiles/10000007-pyro/avatar.png",
+    "isCustom": false
+  },
+  {
+    "id": "10000007-pyro",
+    "name": "Traveler",
+    "rarity": 5,
+    "element": "Pyro",
+    "icon": "character-profiles/10000007-pyro/avatar.png",
     "isCustom": false
   },
   {
@@ -884,7 +884,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Varesa",
     "rarity": 5,
     "element": "Electro",
-    "icon": "character-profiles/10000111/assets/icon.png",
+    "icon": "character-profiles/10000111/avatar.png",
     "isCustom": false
   },
   {
@@ -892,7 +892,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Varka",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000128/assets/icon.png",
+    "icon": "character-profiles/10000128/avatar.png",
     "isCustom": false
   },
   {
@@ -900,7 +900,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Venti",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000022/assets/icon.png",
+    "icon": "character-profiles/10000022/avatar.png",
     "isCustom": false
   },
   {
@@ -908,7 +908,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Wanderer",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000075/assets/icon.png",
+    "icon": "character-profiles/10000075/avatar.png",
     "isCustom": false
   },
   {
@@ -916,7 +916,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Wriothesley",
     "rarity": 5,
     "element": "Cryo",
-    "icon": "character-profiles/10000086/assets/icon.png",
+    "icon": "character-profiles/10000086/avatar.png",
     "isCustom": false
   },
   {
@@ -924,7 +924,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Xiangling",
     "rarity": 4,
     "element": "Pyro",
-    "icon": "character-profiles/10000023/assets/icon.png",
+    "icon": "character-profiles/10000023/avatar.png",
     "isCustom": false
   },
   {
@@ -932,7 +932,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Xianyun",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000093/assets/icon.png",
+    "icon": "character-profiles/10000093/avatar.png",
     "isCustom": false
   },
   {
@@ -940,7 +940,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Xiao",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000026/assets/icon.png",
+    "icon": "character-profiles/10000026/avatar.png",
     "isCustom": false
   },
   {
@@ -948,7 +948,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Xilonen",
     "rarity": 5,
     "element": "Geo",
-    "icon": "character-profiles/10000103/assets/icon.png",
+    "icon": "character-profiles/10000103/avatar.png",
     "isCustom": false
   },
   {
@@ -956,7 +956,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Xingqiu",
     "rarity": 4,
     "element": "Hydro",
-    "icon": "character-profiles/10000025/assets/icon.png",
+    "icon": "character-profiles/10000025/avatar.png",
     "isCustom": false
   },
   {
@@ -964,7 +964,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Xinyan",
     "rarity": 4,
     "element": "Pyro",
-    "icon": "character-profiles/10000044/assets/icon.png",
+    "icon": "character-profiles/10000044/avatar.png",
     "isCustom": false
   },
   {
@@ -972,7 +972,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Yae Miko",
     "rarity": 5,
     "element": "Electro",
-    "icon": "character-profiles/10000058/assets/icon.png",
+    "icon": "character-profiles/10000058/avatar.png",
     "isCustom": false
   },
   {
@@ -980,7 +980,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Yanfei",
     "rarity": 4,
     "element": "Pyro",
-    "icon": "character-profiles/10000048/assets/icon.png",
+    "icon": "character-profiles/10000048/avatar.png",
     "isCustom": false
   },
   {
@@ -988,7 +988,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Yaoyao",
     "rarity": 4,
     "element": "Dendro",
-    "icon": "character-profiles/10000077/assets/icon.png",
+    "icon": "character-profiles/10000077/avatar.png",
     "isCustom": false
   },
   {
@@ -996,7 +996,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Yelan",
     "rarity": 5,
     "element": "Hydro",
-    "icon": "character-profiles/10000060/assets/icon.png",
+    "icon": "character-profiles/10000060/avatar.png",
     "isCustom": false
   },
   {
@@ -1004,7 +1004,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Yoimiya",
     "rarity": 5,
     "element": "Pyro",
-    "icon": "character-profiles/10000049/assets/icon.png",
+    "icon": "character-profiles/10000049/avatar.png",
     "isCustom": false
   },
   {
@@ -1012,7 +1012,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Yumemizuki Mizuki",
     "rarity": 5,
     "element": "Anemo",
-    "icon": "character-profiles/10000109/assets/icon.png",
+    "icon": "character-profiles/10000109/avatar.png",
     "isCustom": false
   },
   {
@@ -1020,7 +1020,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Yun Jin",
     "rarity": 4,
     "element": "Geo",
-    "icon": "character-profiles/10000064/assets/icon.png",
+    "icon": "character-profiles/10000064/avatar.png",
     "isCustom": false
   },
   {
@@ -1028,7 +1028,7 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Zhongli",
     "rarity": 5,
     "element": "Geo",
-    "icon": "character-profiles/10000030/assets/icon.png",
+    "icon": "character-profiles/10000030/avatar.png",
     "isCustom": false
   },
   {
@@ -1036,26 +1036,29 @@ const GENSHIN_CHARACTER_DB = [
     "name": "Zibai",
     "rarity": 5,
     "element": "Geo",
-    "icon": "character-profiles/10000126/assets/icon.png",
+    "icon": "character-profiles/10000126/avatar.png",
     "isCustom": false
   }
 ];
+
 function getGenshinCharacter(name, rarity = 5) {
-  return GENSHIN_CHARACTER_DB.find((c) => c.rarity === rarity && c.name.toLowerCase() === name.toLowerCase()) || null;
+    return GENSHIN_CHARACTER_DB.find(c => c.rarity === rarity && c.name.toLowerCase() === name.toLowerCase()) || null;
 }
+
 function searchGenshinCharacters(query, rarity = 5) {
-  const pool = GENSHIN_CHARACTER_DB.filter((c) => c.rarity === rarity);
-  if (!query) return pool.slice(0, 10);
-  const lowerQuery = query.toLowerCase();
-  return pool.filter((c) => c.name.toLowerCase().includes(lowerQuery));
+    const pool = GENSHIN_CHARACTER_DB.filter(c => c.rarity === rarity);
+    if (!query) return pool.slice(0, 10);
+    const lowerQuery = query.toLowerCase();
+    return pool.filter(c => c.name.toLowerCase().includes(lowerQuery));
 }
+
 function makeCustomCharacter(name, rarity = 5) {
-  return {
-    id: null,
-    name,
-    rarity,
-    element: null,
-    icon: "assets/data/custom_icons/Lumine_Placeholder_custom.webp",
-    isCustom: true
-  };
+    return {
+        id: null,
+        name: name,
+        rarity: rarity,
+        element: null,
+        icon: 'custom-icons/Lumine_Placeholder_custom.webp',
+        isCustom: true
+    };
 }

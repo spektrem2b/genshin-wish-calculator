@@ -1,0 +1,25 @@
+{
+  "name": "Token of Covenant",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Bloom DMG is increased by 48%, and Lunar-Bloom DMG is increased by 12%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 12%."
+    },
+    {
+      "refinement": 2,
+      "description": "Bloom DMG is increased by 60%, and Lunar-Bloom DMG is increased by 15%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 15%."
+    },
+    {
+      "refinement": 3,
+      "description": "Bloom DMG is increased by 72%, and Lunar-Bloom DMG is increased by 18%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 18%."
+    },
+    {
+      "refinement": 4,
+      "description": "Bloom DMG is increased by 84%, and Lunar-Bloom DMG is increased by 21%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 21%."
+    },
+    {
+      "refinement": 5,
+      "description": "Bloom DMG is increased by 96%, and Lunar-Bloom DMG is increased by 24%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 24%."
+    }
+  ]
+}

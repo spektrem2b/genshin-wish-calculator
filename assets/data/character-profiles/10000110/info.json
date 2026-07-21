@@ -1,0 +1,14 @@
+{
+  "id": "10000110",
+  "name": "Iansan",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 8,
+    "day": 8
+  },
+  "release": "2025-03-24T22:00:00",
+  "icon": "character-profiles/10000110/avatar.png"
+}

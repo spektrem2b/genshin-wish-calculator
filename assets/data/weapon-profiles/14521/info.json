@@ -1,0 +1,13 @@
+{
+  "id": 14521,
+  "name": "Reliquary of Truth",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "An angular box carved from gold and jade. Legend has it that it was once enshrined in a temple deep within Tulaytullah, the Sapphire City.",
+  "icon": "weapon-profiles/14521/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

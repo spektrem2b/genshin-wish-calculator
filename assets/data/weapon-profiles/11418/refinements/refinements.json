@@ -1,0 +1,25 @@
+{
+  "name": "Jinni's Whisper",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "The following effect will trigger every 10s: The equipping character will gain 0.036% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    },
+    {
+      "refinement": 2,
+      "description": "The following effect will trigger every 10s: The equipping character will gain 0.045% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    },
+    {
+      "refinement": 3,
+      "description": "The following effect will trigger every 10s: The equipping character will gain 0.054% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    },
+    {
+      "refinement": 4,
+      "description": "The following effect will trigger every 10s: The equipping character will gain 0.063% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    },
+    {
+      "refinement": 5,
+      "description": "The following effect will trigger every 10s: The equipping character will gain 0.072% Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    }
+  ]
+}

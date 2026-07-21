@@ -1,0 +1,13 @@
+{
+  "id": 11428,
+  "name": "Sword of Narzissenkreuz",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A sword whose power faded when the story ended. It will now embark upon a new journey with the power that remains within it, which commemorates a certain great dream.",
+  "icon": "weapon-profiles/11428/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

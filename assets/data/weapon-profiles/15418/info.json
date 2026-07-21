@@ -1,0 +1,13 @@
+{
+  "id": 15418,
+  "name": "End of the Line",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.",
+  "icon": "weapon-profiles/15418/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594
+}

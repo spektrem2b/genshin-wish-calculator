@@ -1,0 +1,13 @@
+{
+  "id": 13416,
+  "name": "Wavebreaker's Fin",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A naginata forged from luminescent material deep in the ocean depths. It was once the possession of the tengu race.",
+  "icon": "weapon-profiles/13416/avatar.png",
+  "base_atk_lvl1": 45.0687,
+  "base_atk_lvl90": 620.0,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.03,
+  "substat_lvl90": 0.1378
+}

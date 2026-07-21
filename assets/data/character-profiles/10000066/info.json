@@ -1,0 +1,14 @@
+{
+  "id": "10000066",
+  "name": "Kamisato Ayato",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 3,
+    "day": 26
+  },
+  "release": "2022-03-29T21:00:00",
+  "icon": "character-profiles/10000066/avatar.png"
+}

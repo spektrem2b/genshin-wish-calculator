@@ -1,0 +1,13 @@
+{
+  "id": 14509,
+  "name": "Kagura's Verity",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it.",
+  "icon": "weapon-profiles/14509/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615
+}

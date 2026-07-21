@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Named Juvenile Casebook",
+    "description": "For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 10s.",
+    "icon": "character-profiles/10000059/constellations/00_const.png"
+  },
+  {
+    "name": "Investigative Collection",
+    "description": "The pull effect of the Arresting Windtunnel created by Windmuster Kick is enhanced, and its duration is increased to 1s.",
+    "icon": "character-profiles/10000059/constellations/01_const.png"
+  },
+  {
+    "name": "Esoteric Puzzle Book",
+    "description": "Increases the Level of Heartstopper Strike by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000059/constellations/02_const.png"
+  },
+  {
+    "name": "Tome of Lies",
+    "description": "The first Windmuster Iris explosion in each Windmuster Kick will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.\nOne Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this manner.",
+    "icon": "character-profiles/10000059/constellations/03_const.png"
+  },
+  {
+    "name": "Secret Archive",
+    "description": "Increases the Level of Windmuster Kick by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000059/constellations/04_const.png"
+  },
+  {
+    "name": "Curious Casefiles",
+    "description": "Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%.",
+    "icon": "character-profiles/10000059/constellations/05_const.png"
+  }
+]

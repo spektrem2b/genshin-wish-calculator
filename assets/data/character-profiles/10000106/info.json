@@ -1,0 +1,14 @@
+{
+  "id": "10000106",
+  "name": "Mavuika",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 8,
+    "day": 28
+  },
+  "release": "2024-12-30T22:00:00",
+  "icon": "character-profiles/10000106/avatar.png"
+}

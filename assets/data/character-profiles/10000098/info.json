@@ -1,0 +1,14 @@
+{
+  "id": "10000098",
+  "name": "Clorinde",
+  "element": "Electro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 9,
+    "day": 20
+  },
+  "release": "2024-06-03T21:00:00",
+  "icon": "character-profiles/10000098/avatar.png"
+}

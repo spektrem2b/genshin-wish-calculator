@@ -1,0 +1,13 @@
+{
+  "id": 15502,
+  "name": "Amos' Bow",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
+  "icon": "weapon-profiles/15502/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962
+}

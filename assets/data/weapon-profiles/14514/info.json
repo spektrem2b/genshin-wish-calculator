@@ -1,0 +1,13 @@
+{
+  "id": 14514,
+  "name": "Tome of the Eternal Flow",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A manual that was once passed down from generation to generation within an underwater priory. Today, none know of its existence.",
+  "icon": "weapon-profiles/14514/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

@@ -1,0 +1,13 @@
+{
+  "id": 15305,
+  "name": "Messenger",
+  "type": "Bow",
+  "rarity": 3,
+  "description": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
+  "icon": "weapon-profiles/15305/avatar.png",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.068,
+  "substat_lvl90": 0.3124
+}

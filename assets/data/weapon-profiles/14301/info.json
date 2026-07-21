@@ -1,0 +1,13 @@
+{
+  "id": 14301,
+  "name": "Magic Guide",
+  "type": "Catalyst",
+  "rarity": 3,
+  "description": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments.",
+  "icon": "weapon-profiles/14301/avatar.png",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 40.8,
+  "substat_lvl90": 187.4352
+}

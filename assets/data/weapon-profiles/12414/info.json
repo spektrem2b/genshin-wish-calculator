@@ -1,0 +1,13 @@
+{
+  "id": 12414,
+  "name": "Katsuragikiri Nagamasa",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A blade that was once made in Tatarasuna. Heavy and tough.",
+  "icon": "weapon-profiles/12414/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594
+}

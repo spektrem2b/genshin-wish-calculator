@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Foul Legacy: Tide Withholder",
+    "description": "Decreases the CD of Foul Legacy: Raging Tide by 20%.",
+    "icon": "character-profiles/10000033/constellations/00_const.png"
+  },
+  {
+    "name": "Foul Legacy: Understream",
+    "description": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.",
+    "icon": "character-profiles/10000033/constellations/01_const.png"
+  },
+  {
+    "name": "Abyssal Mayhem: Vortex of Turmoil",
+    "description": "Increases the Level of Foul Legacy: Raging Tide by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000033/constellations/02_const.png"
+  },
+  {
+    "name": "Abyssal Mayhem: Hydrospout",
+    "description": "If Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.",
+    "icon": "character-profiles/10000033/constellations/03_const.png"
+  },
+  {
+    "name": "Havoc: Formless Blade",
+    "description": "Increases the Level of Havoc: Obliteration by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000033/constellations/04_const.png"
+  },
+  {
+    "name": "Havoc: Annihilation",
+    "description": "When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance.",
+    "icon": "character-profiles/10000033/constellations/05_const.png"
+  }
+]

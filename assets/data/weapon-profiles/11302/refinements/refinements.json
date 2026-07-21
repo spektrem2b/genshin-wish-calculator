@@ -1,0 +1,25 @@
+{
+  "name": "Vigorous",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "When HP is above 90%, increases CRIT Rate by 14%."
+    },
+    {
+      "refinement": 2,
+      "description": "When HP is above 90%, increases CRIT Rate by 17.5%."
+    },
+    {
+      "refinement": 3,
+      "description": "When HP is above 90%, increases CRIT Rate by 21%."
+    },
+    {
+      "refinement": 4,
+      "description": "When HP is above 90%, increases CRIT Rate by 24.5%."
+    },
+    {
+      "refinement": 5,
+      "description": "When HP is above 90%, increases CRIT Rate by 28%."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000089",
+  "name": "Furina",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 10,
+    "day": 13
+  },
+  "release": "2023-11-06T22:00:00",
+  "icon": "character-profiles/10000089/avatar.png"
+}

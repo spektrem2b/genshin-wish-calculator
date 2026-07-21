@@ -1,0 +1,13 @@
+{
+  "id": 14517,
+  "name": "Starcaller's Watch",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A statue carved in the shape of an eagle, a sacred relic of the Masters of the Night-Wind that has been passed down from generation to generation.",
+  "icon": "weapon-profiles/14517/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 57.6,
+  "substat_lvl90": 264.6144
+}

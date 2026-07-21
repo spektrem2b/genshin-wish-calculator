@@ -1,0 +1,13 @@
+{
+  "id": 14416,
+  "name": "Wandering Evenstar",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "This was originally a device used by researchers to observe and perform calculations on celestial phenomena. It serves as a conduit and catalyst.",
+  "icon": "weapon-profiles/14416/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384
+}

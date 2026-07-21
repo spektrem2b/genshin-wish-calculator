@@ -1,0 +1,25 @@
+{
+  "name": "Sharp",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases Normal Attack DMG by 24%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases Normal Attack DMG by 30%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases Normal Attack DMG by 36%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases Normal Attack DMG by 42%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases Normal Attack DMG by 48%."
+    }
+  ]
+}

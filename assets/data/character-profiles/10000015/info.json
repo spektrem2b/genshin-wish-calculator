@@ -1,0 +1,14 @@
+{
+  "id": "10000015",
+  "name": "Kaeya",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 11,
+    "day": 30
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000015/avatar.png"
+}

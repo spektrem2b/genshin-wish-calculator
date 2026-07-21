@@ -1,0 +1,25 @@
+{
+  "name": "Infusion Stinger",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Dealing Elemental DMG increases all DMG by 6% for 6s. Max 2 stacks. Can occur once every 1s."
+    },
+    {
+      "refinement": 2,
+      "description": "Dealing Elemental DMG increases all DMG by 7.5% for 6s. Max 2 stacks. Can occur once every 1s."
+    },
+    {
+      "refinement": 3,
+      "description": "Dealing Elemental DMG increases all DMG by 9% for 6s. Max 2 stacks. Can occur once every 1s."
+    },
+    {
+      "refinement": 4,
+      "description": "Dealing Elemental DMG increases all DMG by 10.5% for 6s. Max 2 stacks. Can occur once every 1s."
+    },
+    {
+      "refinement": 5,
+      "description": "Dealing Elemental DMG increases all DMG by 12% for 6s. Max 2 stacks. Can occur once every 1s."
+    }
+  ]
+}

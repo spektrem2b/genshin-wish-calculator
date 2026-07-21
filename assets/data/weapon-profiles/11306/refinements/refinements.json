@@ -1,0 +1,25 @@
+{
+  "name": "Determination",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Using an Elemental Burst grants a 12% increase in ATK and Movement SPD for 15s."
+    },
+    {
+      "refinement": 2,
+      "description": "Using an Elemental Burst grants a 15% increase in ATK and Movement SPD for 15s."
+    },
+    {
+      "refinement": 3,
+      "description": "Using an Elemental Burst grants a 18% increase in ATK and Movement SPD for 15s."
+    },
+    {
+      "refinement": 4,
+      "description": "Using an Elemental Burst grants a 21% increase in ATK and Movement SPD for 15s."
+    },
+    {
+      "refinement": 5,
+      "description": "Using an Elemental Burst grants a 24% increase in ATK and Movement SPD for 15s."
+    }
+  ]
+}

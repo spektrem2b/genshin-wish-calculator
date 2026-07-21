@@ -1,0 +1,13 @@
+{
+  "id": 13401,
+  "name": "Dragon's Bane",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
+  "icon": "weapon-profiles/13401/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 48.0,
+  "substat_lvl90": 220.512
+}

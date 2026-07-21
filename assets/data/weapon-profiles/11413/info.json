@@ -1,0 +1,13 @@
+{
+  "id": 11413,
+  "name": "Festering Desire",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
+  "icon": "weapon-profiles/11413/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594
+}

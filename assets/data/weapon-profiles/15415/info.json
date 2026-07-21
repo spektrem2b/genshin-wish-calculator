@@ -1,0 +1,13 @@
+{
+  "id": 15415,
+  "name": "Predator",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A uniquely-designed bow. This should not belong in this world.",
+  "icon": "weapon-profiles/15415/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

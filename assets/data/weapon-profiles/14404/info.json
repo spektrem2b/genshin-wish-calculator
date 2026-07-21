@@ -1,0 +1,13 @@
+{
+  "id": 14404,
+  "name": "Royal Grimoire",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.",
+  "icon": "weapon-profiles/14404/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

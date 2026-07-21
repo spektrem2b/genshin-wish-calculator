@@ -1,0 +1,13 @@
+{
+  "id": 15508,
+  "name": "Aqua Simulacra",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue.",
+  "icon": "weapon-profiles/15508/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

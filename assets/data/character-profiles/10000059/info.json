@@ -1,0 +1,14 @@
+{
+  "id": "10000059",
+  "name": "Shikanoin Heizou",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 7,
+    "day": 24
+  },
+  "release": "2022-07-12T21:00:00",
+  "icon": "character-profiles/10000059/avatar.png"
+}

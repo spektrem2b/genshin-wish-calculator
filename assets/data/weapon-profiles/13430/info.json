@@ -1,0 +1,13 @@
+{
+  "id": 13430,
+  "name": "Mountain-Bracing Bolt",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "This polearm was once jointly forged by the craftsmen in the mines as a sacrifice to the spirits of the mountains.",
+  "icon": "weapon-profiles/13430/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

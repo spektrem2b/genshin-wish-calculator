@@ -1,0 +1,14 @@
+{
+  "id": "10000025",
+  "name": "Xingqiu",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 10,
+    "day": 9
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000025/avatar.png"
+}

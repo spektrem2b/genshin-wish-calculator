@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Stay a While and Listen Up",
+    "description": "After using Royal Descent: Behold, Itto the Evil!, Arataki Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s.",
+    "icon": "character-profiles/10000057/constellations/00_const.png"
+  },
+  {
+    "name": "Gather 'Round, It's a Brawl!",
+    "description": "After using Royal Descent: Behold, Itto the Evil!, each party member whose Element is Geo will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto.\nCD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner.",
+    "icon": "character-profiles/10000057/constellations/01_const.png"
+  },
+  {
+    "name": "Horns Lowered, Coming Through",
+    "description": "Increases the Level of Masatsu Zetsugi: Akaushi Burst! by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000057/constellations/02_const.png"
+  },
+  {
+    "name": "Jailhouse Bread and Butter",
+    "description": "When the Raging Oni King state caused by Royal Descent: Behold, Itto the Evil! ends, all nearby party members gain 20% DEF and 20% ATK for 10s.",
+    "icon": "character-profiles/10000057/constellations/03_const.png"
+  },
+  {
+    "name": "10 Years of Hanamizaka Fame",
+    "description": "Increases the Level of Royal Descent: Behold, Itto the Evil! by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000057/constellations/04_const.png"
+  },
+  {
+    "name": "Arataki Itto, Present!",
+    "description": "Arataki Itto's Charged Attacks deal +70% CRIT DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength.",
+    "icon": "character-profiles/10000057/constellations/05_const.png"
+  }
+]

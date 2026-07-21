@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Clustered Vacuum Field",
+    "description": "Astable Anemohypostasis Creation - 6308 gains 1 additional charge.",
+    "icon": "character-profiles/10000043/constellations/00_const.png"
+  },
+  {
+    "name": "Beth: Unbound Form",
+    "description": "The duration of Forbidden Creation - Isomer 75 / Type II is increased by 2s.",
+    "icon": "character-profiles/10000043/constellations/01_const.png"
+  },
+  {
+    "name": "Flawless Alchemistress",
+    "description": "Increases the Level of Astable Anemohypostasis Creation - 6308 by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000043/constellations/02_const.png"
+  },
+  {
+    "name": "Alchemania",
+    "description": "Sucrose will reduce the CD of Astable Anemohypostasis Creation - 6308 by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.\nOne hit may be counted every 0.1s.",
+    "icon": "character-profiles/10000043/constellations/03_const.png"
+  },
+  {
+    "name": "Caution: Standard Flask",
+    "description": "Increases the Level of Forbidden Creation - Isomer 75 / Type II by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000043/constellations/04_const.png"
+  },
+  {
+    "name": "Chaotic Entropy",
+    "description": "If Forbidden Creation - Isomer 75 / Type II triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.",
+    "icon": "character-profiles/10000043/constellations/05_const.png"
+  }
+]

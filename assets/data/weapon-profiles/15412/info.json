@@ -1,0 +1,13 @@
+{
+  "id": 15412,
+  "name": "Mitternachts Waltz",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A bow painted the color of transgression and nights of illusion.",
+  "icon": "weapon-profiles/15412/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.1126,
+  "substat_lvl90": 0.5173
+}

@@ -1,0 +1,13 @@
+{
+  "id": 11516,
+  "name": "Peak Patrol Song",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "An obsidian blade of unparalleled sharpness, light as a song. It was modified by a certain artisan to come equipped with a record-playing detachable Phlogiston Device.",
+  "icon": "weapon-profiles/11516/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.18,
+  "substat_lvl90": 0.8269
+}

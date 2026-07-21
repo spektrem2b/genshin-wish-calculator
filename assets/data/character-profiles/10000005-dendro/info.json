@@ -1,0 +1,14 @@
+{
+  "id": "10000005-dendro",
+  "name": "Traveler",
+  "element": "Dendro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "MAINACTOR",
+  "birthday": {
+    "month": 0,
+    "day": 0
+  },
+  "release": "2022-07-12T21:00:00",
+  "icon": "character-profiles/10000005-pyro/avatar.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 13404,
+  "name": "Blackcliff Pole",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A weapon made of blackcliff and aerosiderite. There is a dark crimson glow on its cold black sheen.",
+  "icon": "weapon-profiles/13404/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000007-geo",
+  "name": "Traveler",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "MAINACTOR",
+  "birthday": {
+    "month": 0,
+    "day": 0
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000007-pyro/avatar.png"
+}

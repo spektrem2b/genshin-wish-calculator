@@ -1,0 +1,13 @@
+{
+  "id": 14424,
+  "name": "Sacrificial Jade",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "An ancient jade pendant that gleams like clear water. It seems to have been used in ancient ceremonies.",
+  "icon": "weapon-profiles/14424/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675
+}

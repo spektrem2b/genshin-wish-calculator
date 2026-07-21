@@ -1,0 +1,25 @@
+{
+  "name": "Wolfish Tracker",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases ATK by 20%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 40% for 12s. Can only occur once every 30s."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases ATK by 25%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 50% for 12s. Can only occur once every 30s."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases ATK by 30%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 60% for 12s. Can only occur once every 30s."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases ATK by 35%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 70% for 12s. Can only occur once every 30s."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases ATK by 40%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 80% for 12s. Can only occur once every 30s."
+    }
+  ]
+}

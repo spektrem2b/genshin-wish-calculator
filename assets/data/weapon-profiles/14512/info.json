@@ -1,0 +1,13 @@
+{
+  "id": 14512,
+  "name": "Tulaytullah's Remembrance",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant.",
+  "icon": "weapon-profiles/14512/avatar.png",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441
+}

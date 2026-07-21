@@ -1,0 +1,25 @@
+{
+  "name": "Bane of Fire and Thunder",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases DMG dealt against opponents affected by Pyro or Electro by 12%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases DMG dealt against opponents affected by Pyro or Electro by 15%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases DMG dealt against opponents affected by Pyro or Electro by 18%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases DMG dealt against opponents affected by Pyro or Electro by 21%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases DMG against opponents affected by Pyro or Electro by 24%."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000056",
+  "name": "Kujou Sara",
+  "element": "Electro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 7,
+    "day": 14
+  },
+  "release": "2021-08-31T21:00:00",
+  "icon": "character-profiles/10000056/avatar.png"
+}

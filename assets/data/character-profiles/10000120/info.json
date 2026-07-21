@@ -1,0 +1,14 @@
+{
+  "id": "10000120",
+  "name": "Flins",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 10,
+    "day": 31
+  },
+  "release": "2025-09-30T15:00:00",
+  "icon": "character-profiles/10000120/avatar.png"
+}

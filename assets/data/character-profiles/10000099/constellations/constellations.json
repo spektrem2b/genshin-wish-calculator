@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Light Fragrance Leaching",
+    "description": "Increases the DMG dealt by Fragrance Extraction and her Ascension Talent's Cleardew Cologne \"Lingering Fragrance\" by 20%. The latter requires unlocking said Ascension Talent first.\nAdditionally, when nearby party members trigger the Burning reaction on opponents or deal Dendro DMG to Burning opponents, they will generate an additional Scent. This effect can be triggered once every 2.9s.",
+    "icon": "character-profiles/10000099/constellations/00_const.png"
+  },
+  {
+    "name": "Lakelight Top Note",
+    "description": "When Fragrance Extraction, Aromatic Explication, or Cleardew Cologne produced by the Ascension Talent \"Lingering Fragrance\" (the last of which requires Ascension Talent activation) hits opponents, those opponents' Dendro RES is decreased by 30% for 10s.",
+    "icon": "character-profiles/10000099/constellations/01_const.png"
+  },
+  {
+    "name": "Exquisite Essence",
+    "description": "Increases the Level of Fragrance Extraction by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000099/constellations/02_const.png"
+  },
+  {
+    "name": "Lumidouce Heart Note",
+    "description": "Aromatic Explication's duration is increased by 2s. The interval between opponents being selected as the target for Scented Dew is decreased by 0.3s.",
+    "icon": "character-profiles/10000099/constellations/03_const.png"
+  },
+  {
+    "name": "Puredew Aroma",
+    "description": "Increases the Level of Aromatic Explication by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000099/constellations/04_const.png"
+  },
+  {
+    "name": "Marcotte Sillage",
+    "description": "When using Fragrance Extraction or Aromatic Explication, Emilie will gain Abiding Fragrance for 5s.\nWhile this is active, after Emilie uses Normal or Charged Attacks, she will generate 1 Scent, and her Normal and Charged Attack DMG will be converted into Dendro DMG that cannot be overridden, and the DMG dealt will be increased by 300% of Emilie's ATK.\n\nThe Abiding Fragrance effect will be removed after 4 Scents are created this way or after its duration expires. Abiding Fragrance can be triggered once every 12s.",
+    "icon": "character-profiles/10000099/constellations/05_const.png"
+  }
+]

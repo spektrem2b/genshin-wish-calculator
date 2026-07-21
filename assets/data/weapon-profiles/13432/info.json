@@ -1,0 +1,13 @@
+{
+  "id": 13432,
+  "name": "Tamayuratei no Ohanashi",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "Once upon a time, there was a youkai that roamed Inazuma in the form of a lantern's flame. This must once have been one of its vessels.",
+  "icon": "weapon-profiles/13432/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

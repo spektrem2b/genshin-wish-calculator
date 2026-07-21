@@ -1,0 +1,13 @@
+{
+  "id": 14427,
+  "name": "Ash-Graven Drinking Horn",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A ritual vessel passed down amongst the Meztli. They say that this was once a treasure much-valued, yet never used, by the hero \"Giant\" Tupac.",
+  "icon": "weapon-profiles/14427/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

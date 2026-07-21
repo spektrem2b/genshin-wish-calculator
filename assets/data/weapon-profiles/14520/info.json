@@ -1,0 +1,13 @@
+{
+  "id": 14520,
+  "name": "Nightweaver's Looking Glass",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A mirror crafted from flawless silver that is said to have witnessed the birth of the Moon Maiden. It is seen as a relic of unrivalled provenance by the Frostmoon Scions.",
+  "icon": "weapon-profiles/14520/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 57.6,
+  "substat_lvl90": 264.6144
+}

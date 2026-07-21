@@ -1,0 +1,13 @@
+{
+  "id": 14522,
+  "name": "Nocturne's Curtain Call",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A jade pearl shrouded in the light of the moon. Even in the coldest winter night, its gentle warmth lingers like a song.",
+  "icon": "weapon-profiles/14522/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

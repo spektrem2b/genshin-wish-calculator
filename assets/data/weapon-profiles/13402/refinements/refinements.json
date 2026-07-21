@@ -1,0 +1,25 @@
+{
+  "name": "Magic Affinity",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 8% for 12s. Max 2 stacks."
+    },
+    {
+      "refinement": 2,
+      "description": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 10% for 12s. Max 2 stacks."
+    },
+    {
+      "refinement": 3,
+      "description": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 12% for 12s. Max 2 stacks."
+    },
+    {
+      "refinement": 4,
+      "description": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 14% for 12s. Max 2 stacks."
+    },
+    {
+      "refinement": 5,
+      "description": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 16% for 12s. Max 2 stacks."
+    }
+  ]
+}

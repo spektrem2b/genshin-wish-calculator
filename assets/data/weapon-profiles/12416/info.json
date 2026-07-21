@@ -1,0 +1,13 @@
+{
+  "id": 12416,
+  "name": "Akuoumaru",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield.",
+  "icon": "weapon-profiles/12416/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

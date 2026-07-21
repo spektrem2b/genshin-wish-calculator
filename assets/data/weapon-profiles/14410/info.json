@@ -1,0 +1,13 @@
+{
+  "id": 14410,
+  "name": "Wine and Song",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw.",
+  "icon": "weapon-profiles/14410/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

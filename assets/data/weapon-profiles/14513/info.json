@@ -1,0 +1,13 @@
+{
+  "id": 14513,
+  "name": "Cashflow Supervision",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A floating device that can monitor certain phenomena. It was picked up and modified to serve other purposes following its abandonment.",
+  "icon": "weapon-profiles/14513/avatar.png",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205
+}

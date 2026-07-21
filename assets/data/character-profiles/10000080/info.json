@@ -1,0 +1,14 @@
+{
+  "id": "10000080",
+  "name": "Mika",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 8,
+    "day": 11
+  },
+  "release": "2023-03-21T16:00:00",
+  "icon": "character-profiles/10000080/avatar.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 13511,
+  "name": "Staff of the Scarlet Sands",
+  "type": "Polearm",
+  "rarity": 5,
+  "description": "One of a paired set of scepters fashioned from obsidian. Legend has it that these staves grant the right to lead the people of the desert, but no retainer now lives who can verify the proper appearance of these regalia.",
+  "icon": "weapon-profiles/13511/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441
+}

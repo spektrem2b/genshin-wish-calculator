@@ -1,0 +1,13 @@
+{
+  "id": 11513,
+  "name": "Splendor of Tranquil Waters",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "A scepter around which swirls pure water. In days long past, it once symbolized the highest authority over the seas.",
+  "icon": "weapon-profiles/11513/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Whispers of Wind and Flower",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 12% and 48 respectively."
+    },
+    {
+      "refinement": 2,
+      "description": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 15% and 60 respectively."
+    },
+    {
+      "refinement": 3,
+      "description": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 18% and 72 respectively."
+    },
+    {
+      "refinement": 4,
+      "description": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 21% and 84 respectively."
+    },
+    {
+      "refinement": 5,
+      "description": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 24% and 96 respectively."
+    }
+  ]
+}

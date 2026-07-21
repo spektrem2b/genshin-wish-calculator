@@ -1,0 +1,14 @@
+{
+  "id": "10000105",
+  "name": "Ororon",
+  "element": "Electro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 10,
+    "day": 14
+  },
+  "release": "2024-11-18T22:00:00",
+  "icon": "character-profiles/10000105/avatar.png"
+}

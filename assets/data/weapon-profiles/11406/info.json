@@ -1,0 +1,13 @@
+{
+  "id": 11406,
+  "name": "Prototype Rancour",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
+  "icon": "weapon-profiles/11406/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.075067,
+  "substat_lvl90": 0.3449
+}

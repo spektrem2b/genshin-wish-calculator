@@ -1,0 +1,13 @@
+{
+  "id": 11401,
+  "name": "Favonius Sword",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
+  "icon": "weapon-profiles/11401/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Purifying Wind",
+    "description": "White Clouds at Dawn gains 1 additional charge.",
+    "icon": "character-profiles/10000093/constellations/00_const.png"
+  },
+  {
+    "name": "Aloof From the World",
+    "description": "After using a Skyladder from White Clouds at Dawn, Xianyun's ATK will be increased by 20% for 15s.\nAdditionally, the effects of the Ascension Talent \"Consider, the Adeptus in Her Realm\" will be enhanced: When the Starwicker created by Stars Gather at Dusk has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 400% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 18,000.\nEach Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s.\nYou must first unlock the Ascension Talent \"Consider, the Adeptus in Her Realm.\"",
+    "icon": "character-profiles/10000093/constellations/01_const.png"
+  },
+  {
+    "name": "Creations of Star and Moon",
+    "description": "Increases the Level of Stars Gather at Dusk by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000093/constellations/02_const.png"
+  },
+  {
+    "name": "Mystery Millet Gourmet",
+    "description": "After using Skyladder 1/2/3 times during one White Clouds at Dawn Cloud Transmogrification state, when a Driftcloud Wave unleashed during that instance hits an opponent, it will heal all nearby party members for 50%/80%/150% of Xianyun's ATK. This effect can be triggered once every 5s.",
+    "icon": "character-profiles/10000093/constellations/03_const.png"
+  },
+  {
+    "name": "Astride Rose-Colored Clouds",
+    "description": "Increases the Level of White Clouds at Dawn by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000093/constellations/04_const.png"
+  },
+  {
+    "name": "They Call Her Cloud Retainer",
+    "description": "After Xianyun uses 1/2/3 Skyladders within one Cloud Transmogrification caused by White Clouds at Dawn, the CRIT DMG of a Driftcloud Wave created in this instance of Cloud Transmogrification will be increased by 15%/35%/70%.\nWithin 16s after Xianyun has used Stars Gather at Dusk, White Clouds at Dawn will not enter CD. This effect will be canceled once she has used White Clouds at Dawn 8 times.",
+    "icon": "character-profiles/10000093/constellations/05_const.png"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": 11511,
+  "name": "Key of Khaj-Nisut",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "One of a paired set of scepters fashioned from obsidian. They say that this can be used as a key to open the gate to a paradise that lies at the end of the ocean of sand.",
+  "icon": "weapon-profiles/11511/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615
+}

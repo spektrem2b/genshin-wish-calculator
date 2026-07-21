@@ -1,0 +1,13 @@
+{
+  "id": 12430,
+  "name": "Fruitful Hook",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "Bold Burkina from the Scions of the Canopy once made this weapon with the hero Tenoch's help — all for the sake of obtaining Flamegranates unmatched throughout Natlan.",
+  "icon": "weapon-profiles/12430/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

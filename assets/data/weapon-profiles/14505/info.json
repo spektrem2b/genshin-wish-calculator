@@ -1,0 +1,13 @@
+{
+  "id": 14505,
+  "name": "Jadefall's Splendor",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A ritual vessel carved from jade that reflects the luster of the skies and the clear waters.",
+  "icon": "weapon-profiles/14505/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962
+}

@@ -1,0 +1,13 @@
+{
+  "id": 14408,
+  "name": "Blackcliff Agate",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth.",
+  "icon": "weapon-profiles/14408/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

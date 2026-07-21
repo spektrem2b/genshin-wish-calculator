@@ -1,0 +1,13 @@
+{
+  "id": 15417,
+  "name": "King's Squire",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down.",
+  "icon": "weapon-profiles/15417/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

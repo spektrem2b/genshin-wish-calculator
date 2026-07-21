@@ -1,0 +1,13 @@
+{
+  "id": 15401,
+  "name": "Favonius Warbow",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+  "icon": "weapon-profiles/15401/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125
+}

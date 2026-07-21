@@ -1,0 +1,14 @@
+{
+  "id": "10000037",
+  "name": "Ganyu",
+  "element": "Cryo",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 12,
+    "day": 2
+  },
+  "release": "2021-01-12T16:00:00",
+  "icon": "character-profiles/10000037/avatar.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 13514,
+  "name": "Symphonist of Scents",
+  "type": "Polearm",
+  "rarity": 5,
+  "description": "An elegantly built polearm, said to have been a conductor's baton wielded by a great musician to bridge tune and taste.",
+  "icon": "weapon-profiles/13514/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615
+}

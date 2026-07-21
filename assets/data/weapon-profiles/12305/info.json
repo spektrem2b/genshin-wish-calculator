@@ -1,0 +1,13 @@
+{
+  "id": 12305,
+  "name": "Debate Club",
+  "type": "Claymore",
+  "rarity": 3,
+  "description": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.",
+  "icon": "weapon-profiles/12305/avatar.png",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.0766,
+  "substat_lvl90": 0.3519
+}

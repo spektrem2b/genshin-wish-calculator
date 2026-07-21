@@ -1,0 +1,13 @@
+{
+  "id": 12431,
+  "name": "Earth Shaker",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A heavy blade that people claim was beloved by the hero known as the Firethief. They say that even the Lord of Cinder Keep's flames could not burn it away.",
+  "icon": "weapon-profiles/12431/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

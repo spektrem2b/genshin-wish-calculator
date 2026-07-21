@@ -1,0 +1,13 @@
+{
+  "id": 15414,
+  "name": "Hamayumi",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.",
+  "icon": "weapon-profiles/15414/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

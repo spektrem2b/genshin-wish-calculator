@@ -1,0 +1,13 @@
+{
+  "id": 12501,
+  "name": "Skyward Pride",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "A claymore that symbolizes the pride of Dvalin soaring through the skies. When swung, it emits a deep hum as the full force of Dvalin's command of the sky and the wind is unleashed.",
+  "icon": "weapon-profiles/12501/avatar.png",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675
+}

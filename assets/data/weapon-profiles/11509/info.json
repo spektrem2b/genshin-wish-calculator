@@ -1,0 +1,13 @@
+{
+  "id": 11509,
+  "name": "Mistsplitter Reforged",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before.",
+  "icon": "weapon-profiles/11509/avatar.png",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Gleeful Songs",
+    "description": "Barbara regenerates 1 Energy every 10s.",
+    "icon": "character-profiles/10000014/constellations/00_const.png"
+  },
+  {
+    "name": "Vitality Burst",
+    "description": "Decreases the CD of Let the Show Begin♪ by 15%.\nDuring the ability's duration, your active character gains a 15% Hydro DMG Bonus.",
+    "icon": "character-profiles/10000014/constellations/01_const.png"
+  },
+  {
+    "name": "Star of Tomorrow",
+    "description": "Increases the Level of Shining Miracle♪ by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000014/constellations/02_const.png"
+  },
+  {
+    "name": "Attentiveness Be My Power",
+    "description": "Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.\nA maximum of 5 energy can be regenerated in this manner with any one Charged Attack.",
+    "icon": "character-profiles/10000014/constellations/03_const.png"
+  },
+  {
+    "name": "The Purest Companionship",
+    "description": "Increases the Level of Let the Show Begin♪ by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000014/constellations/04_const.png"
+  },
+  {
+    "name": "Dedicating Everything to You",
+    "description": "When Barbara is in the party but not on the field, and one of your own party members falls:\n·Automatically revives the fallen character.\n·Fully restores the revived character's HP to 100%.\nThis effect can only occur once every 15 mins.",
+    "icon": "character-profiles/10000014/constellations/05_const.png"
+  }
+]

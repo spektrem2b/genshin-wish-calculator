@@ -1,0 +1,14 @@
+{
+  "id": "10000079",
+  "name": "Dehya",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 4,
+    "day": 7
+  },
+  "release": "2023-02-27T22:00:00",
+  "icon": "character-profiles/10000079/avatar.png"
+}

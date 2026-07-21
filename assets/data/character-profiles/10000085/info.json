@@ -1,0 +1,14 @@
+{
+  "id": "10000085",
+  "name": "Freminet",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 9,
+    "day": 24
+  },
+  "release": "2023-09-05T15:00:00",
+  "icon": "character-profiles/10000085/avatar.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000114",
+  "name": "Skirk",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "OMNI_SCOURGE",
+  "birthday": {
+    "month": 11,
+    "day": 5
+  },
+  "release": "2025-06-16T21:00:00",
+  "icon": "character-profiles/10000114/avatar.png"
+}

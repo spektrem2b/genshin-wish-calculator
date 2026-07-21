@@ -1,0 +1,13 @@
+{
+  "id": 11503,
+  "name": "Freedom-Sworn",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
+  "icon": "weapon-profiles/11503/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 43.2,
+  "substat_lvl90": 198.4608
+}

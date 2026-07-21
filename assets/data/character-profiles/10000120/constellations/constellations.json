@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Part the Veil of Snow",
+    "description": "The basic cooldown of the special Elemental Skill Northland Spearstorm is reduced to 4s.\nAdditionally, when party members trigger Lunar-Charged reactions, Flins will recover 8 Elemental Energy. This effect can occur once every 5.5s.",
+    "icon": "character-profiles/10000120/constellations/00_const.png"
+  },
+  {
+    "name": "The Devil's Wall",
+    "description": "For the next 6s after using the special Elemental Skill Northland Spearstorm, when Flins's next Normal Attack hits an opponent, it will deal an additional 50% of Flins's ATK as AoE Electro DMG. This DMG is considered Lunar-Charged DMG.\nMoonsign: Ascendant Gleam: While Flins is on the field, after his Electro attacks hit an opponent, that opponent's Electro RES will be decreased by 25% for 7s.",
+    "icon": "character-profiles/10000120/constellations/01_const.png"
+  },
+  {
+    "name": "Stranger in the Night",
+    "description": "Increases the Level of Ancient Ritual: Cometh the Night by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000120/constellations/02_const.png"
+  },
+  {
+    "name": "Night on Bald Mountain",
+    "description": "Flins's ATK is increased by 20%.\nAdditionally, his Ascension Talent Whispering Flame is enhanced: Flins's Elemental Mastery is increased by 10% of his ATK. The maximum increase obtainable this way is 220.",
+    "icon": "character-profiles/10000120/constellations/03_const.png"
+  },
+  {
+    "name": "Exile's Shadow",
+    "description": "Increases the Level of Ancient Rite: Arcane Light by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000120/constellations/04_const.png"
+  },
+  {
+    "name": "Songs and Dances of Death",
+    "description": "The DMG dealt to opponents by Flins's Lunar-Charged reactions is elevated by 35%.\nMoonsign: Ascendant Gleam: All nearby party members' Lunar-Charged DMG is elevated by 10%.",
+    "icon": "character-profiles/10000120/constellations/05_const.png"
+  }
+]

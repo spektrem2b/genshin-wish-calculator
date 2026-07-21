@@ -1,0 +1,13 @@
+{
+  "id": 11403,
+  "name": "Sacrificial Sword",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+  "icon": "weapon-profiles/11403/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125
+}

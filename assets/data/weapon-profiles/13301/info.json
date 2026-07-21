@@ -1,0 +1,13 @@
+{
+  "id": 13301,
+  "name": "White Tassel",
+  "type": "Polearm",
+  "rarity": 3,
+  "description": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
+  "icon": "weapon-profiles/13301/avatar.png",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.051,
+  "substat_lvl90": 0.2343
+}

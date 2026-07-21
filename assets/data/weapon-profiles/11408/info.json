@@ -1,0 +1,13 @@
+{
+  "id": 11408,
+  "name": "Blackcliff Longsword",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade.",
+  "icon": "weapon-profiles/11408/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675
+}

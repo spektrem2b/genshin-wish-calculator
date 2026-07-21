@@ -1,0 +1,32 @@
+[
+  {
+    "name": "With a Vow to Rescue, the Journey Begins",
+    "description": "After the Banehunter Oathhammer that has undergone Elemental Conversion hits an opponent, Prune will regain 2 Energy. This effect can occur once every 1.8s.",
+    "icon": "character-profiles/10000132/constellations/00_const.png"
+  },
+  {
+    "name": "Useful for Cleaning Messy Baggage, Elemental Powers Are Indeed",
+    "description": "During the Elemental Burst The Bell Tolls! The Hunt Is On!, when the Witchlure Bell is in Hunter-Seeker mode, Prune gains the Hunt the Witch effect: Prune's ATK increases by 10%, and when the Witchlure Bell and the Banehunter Oathhammer that has undergone Elemental Conversion hits an opponent, it further increases her ATK by 5%. Prune's ATK can be increased by up to 40% in this way.\nThe original instance of the above effect will be removed if \"The Bell Tolls! The Hunt Is On!\" is used again during this time.",
+    "icon": "character-profiles/10000132/constellations/01_const.png"
+  },
+  {
+    "name": "The Caravan Exits the Mountain Pass, the Scenery Once More Changed",
+    "description": "Increases the Level of The Bell Tolls! The Hunt Is On! by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000132/constellations/02_const.png"
+  },
+  {
+    "name": "Looking Back Following the Wind, One's Shadow Still Halved",
+    "description": "After the Banehunter Oathhammer that has undergone Elemental Conversion hits an opponent, it will ricochet and land on a nearby opponent, dealing 80% ATK as DMG of the corresponding Elemental Type.",
+    "icon": "character-profiles/10000132/constellations/03_const.png"
+  },
+  {
+    "name": "100 Defeats? No Problem, Tomorrow, We Go Again",
+    "description": "Increases the Level of Ring-A-Ding-Ding! Hexhunter Chime by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000132/constellations/04_const.png"
+  },
+  {
+    "name": "And That's the Story! Share It With Your Friends!",
+    "description": "The duration of the Witchlure Bell's Hunter-Seeker mode from the Elemental Burst The Bell Tolls! The Hunt Is On! is extended by 4s.\nAdditionally, after party members affected by Tolling Rally trigger any Elemental Reaction, they will cause Prune and the other current active character(s) affected by Tolling Rally to gain 350 ATK for 5s.",
+    "icon": "character-profiles/10000132/constellations/05_const.png"
+  }
+]

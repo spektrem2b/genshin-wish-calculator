@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Planning Breeds Success",
+    "description": "The Base DMG for Lunar-Bloom reactions caused by Nefer's Phantasm Performance is increased by 60% of her Elemental Mastery. This effect is also boosted by Veil of Falsehood.",
+    "icon": "character-profiles/10000122/constellations/00_const.png"
+  },
+  {
+    "name": "Observation Feeds Strategy",
+    "description": "Enhances the effects of the Ascension Talent A Wager of Moonlight: Extends Veil of Falsehood's duration by 5s, and increases its stack limit to 5, as well as causing Phantasm Performance to deal up to 140% of its original DMG. When Nefer unleashes her Elemental Skill Senet Strategy: Dance of a Thousand Nights, she will instantly gain 2 stacks of Veil of Falsehood. Additionally, when Veil of Falsehood reaches 5 stacks, or when the fifth stack's duration is refreshed, Nefer's Elemental Mastery will be increased by 200 for 8s instead.\nYou must first unlock the Ascension Talent \"A Wager of Moonlight.\"",
+    "icon": "character-profiles/10000122/constellations/01_const.png"
+  },
+  {
+    "name": "Deceit Cloaks the Truth",
+    "description": "Increases the Level of Senet Strategy: Dance of a Thousand Nights by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000122/constellations/02_const.png"
+  },
+  {
+    "name": "Delusion Ensnares Reason",
+    "description": "When Nefer is on the field and in the Shadow Dance state, you will gain Verdant Dew 25% faster.\nAdditionally, while Nefer is in the Shadow Dance state, nearby opponents will have their Dendro RES decreased by 20%. When Nefer exits the Shadow Dance state or after she strays a certain distance away from the opponents, this effect will be removed after 4.5s.",
+    "icon": "character-profiles/10000122/constellations/03_const.png"
+  },
+  {
+    "name": "Opportunity Hides in the Margins",
+    "description": "Increases the Level of Sacred Vow: True Eye's Phantasm by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000122/constellations/04_const.png"
+  },
+  {
+    "name": "Victory Flows from the Turning of Tides",
+    "description": "When Nefer unleashes Phantasm Performance, the second stage of DMG dealt by herself will be converted to deal AoE Dendro DMG equal to 85% of her Elemental Mastery. Additionally, when the attacks from Phantasm Performance end, an extra instance of AoE Dendro DMG equal to 120% of Nefer's Elemental Mastery will be dealt. All of the aforementioned DMG is considered Lunar-Bloom DMG dealt by Phantasm Performance.\n\nMoonsign: Ascendant Gleam\nNefer's Lunar-Bloom DMG is elevated by 15%.",
+    "icon": "character-profiles/10000122/constellations/05_const.png"
+  }
+]

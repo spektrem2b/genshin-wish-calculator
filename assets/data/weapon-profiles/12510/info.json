@@ -1,0 +1,13 @@
+{
+  "id": 12510,
+  "name": "Redhorn Stonethresher",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs.",
+  "icon": "weapon-profiles/12510/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

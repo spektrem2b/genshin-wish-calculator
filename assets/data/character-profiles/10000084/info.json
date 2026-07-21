@@ -1,0 +1,14 @@
+{
+  "id": "10000084",
+  "name": "Lyney",
+  "element": "Pyro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 2,
+    "day": 2
+  },
+  "release": "2023-08-14T21:00:00",
+  "icon": "character-profiles/10000084/avatar.png"
+}

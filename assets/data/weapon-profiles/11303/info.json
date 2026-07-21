@@ -1,0 +1,13 @@
+{
+  "id": 11303,
+  "name": "Traveler's Handy Sword",
+  "type": "Sword",
+  "rarity": 3,
+  "description": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+  "icon": "weapon-profiles/11303/avatar.png",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.063733,
+  "substat_lvl90": 0.2928
+}

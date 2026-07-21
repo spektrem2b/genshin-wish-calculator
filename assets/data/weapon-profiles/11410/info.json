@@ -1,0 +1,13 @@
+{
+  "id": 11410,
+  "name": "The Alley Flash",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
+  "icon": "weapon-profiles/11410/avatar.png",
+  "base_atk_lvl1": 45.0687,
+  "base_atk_lvl90": 620.0,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 11.999988,
+  "substat_lvl90": 55.1279
+}

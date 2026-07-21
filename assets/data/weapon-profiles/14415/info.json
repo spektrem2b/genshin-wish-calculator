@@ -1,0 +1,13 @@
+{
+  "id": 14415,
+  "name": "Oathsworn Eye",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.",
+  "icon": "weapon-profiles/14415/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

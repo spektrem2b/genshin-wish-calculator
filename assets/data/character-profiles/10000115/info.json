@@ -1,0 +1,14 @@
+{
+  "id": "10000115",
+  "name": "Dahlia",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 5,
+    "day": 25
+  },
+  "release": "2025-06-16T21:00:00",
+  "icon": "character-profiles/10000115/avatar.png"
+}

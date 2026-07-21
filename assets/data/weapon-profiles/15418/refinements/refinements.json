@@ -1,0 +1,25 @@
+{
+  "name": "Net Snapper",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Triggers the Flowrider effect after using an Elemental Skill, dealing 80% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+    },
+    {
+      "refinement": 2,
+      "description": "Triggers the Flowrider effect after using an Elemental Skill, dealing 100% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+    },
+    {
+      "refinement": 3,
+      "description": "Triggers the Flowrider effect after using an Elemental Skill, dealing 120% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+    },
+    {
+      "refinement": 4,
+      "description": "Triggers the Flowrider effect after using an Elemental Skill, dealing 140% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+    },
+    {
+      "refinement": 5,
+      "description": "Triggers the Flowrider effect after using an Elemental Skill, dealing 160% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+    }
+  ]
+}

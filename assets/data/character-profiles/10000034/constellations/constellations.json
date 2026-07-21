@@ -1,0 +1,32 @@
+[
+  {
+    "name": "I Got Your Back",
+    "description": "While Sweeping Time and Breastplate are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.",
+    "icon": "character-profiles/10000034/constellations/00_const.png"
+  },
+  {
+    "name": "Combat Maid",
+    "description": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.",
+    "icon": "character-profiles/10000034/constellations/01_const.png"
+  },
+  {
+    "name": "Invulnerable Maid",
+    "description": "Increases the Level of Breastplate by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000034/constellations/02_const.png"
+  },
+  {
+    "name": "To Be Cleaned",
+    "description": "When Breastplate's duration expires or it is destroyed by DMG, it will deal 400% of Noelle's ATK as Geo DMG to surrounding opponents.",
+    "icon": "character-profiles/10000034/constellations/03_const.png"
+  },
+  {
+    "name": "Favonius Sweeper Master",
+    "description": "Increases the Level of Sweeping Time by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000034/constellations/04_const.png"
+  },
+  {
+    "name": "Must Be Spotless",
+    "description": "Sweeping Time increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s.",
+    "icon": "character-profiles/10000034/constellations/05_const.png"
+  }
+]

@@ -1,0 +1,311 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 112044,
+      "name": "Old Handguard",
+      "icon": "shared-assets/materials/112044.png",
+      "rarity": 1
+    },
+    {
+      "id": 112045,
+      "name": "Kageuchi Handguard",
+      "icon": "shared-assets/materials/112045.png",
+      "rarity": 2
+    },
+    {
+      "id": 112046,
+      "name": "Famed Handguard",
+      "icon": "shared-assets/materials/112046.png",
+      "rarity": 3
+    },
+    {
+      "id": 112047,
+      "name": "Chaos Gear",
+      "icon": "shared-assets/materials/112047.png",
+      "rarity": 2
+    },
+    {
+      "id": 112048,
+      "name": "Chaos Axis",
+      "icon": "shared-assets/materials/112048.png",
+      "rarity": 3
+    },
+    {
+      "id": 112049,
+      "name": "Chaos Oculus",
+      "icon": "shared-assets/materials/112049.png",
+      "rarity": 4
+    },
+    {
+      "id": 114025,
+      "name": "Coral Branch of a Distant Sea",
+      "icon": "shared-assets/materials/114025.png",
+      "rarity": 2
+    },
+    {
+      "id": 114026,
+      "name": "Jeweled Branch of a Distant Sea",
+      "icon": "shared-assets/materials/114026.png",
+      "rarity": 3
+    },
+    {
+      "id": 114027,
+      "name": "Jade Branch of a Distant Sea",
+      "icon": "shared-assets/materials/114027.png",
+      "rarity": 4
+    },
+    {
+      "id": 114028,
+      "name": "Golden Branch of a Distant Sea",
+      "icon": "shared-assets/materials/114028.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112044,
+      "name": "Old Handguard",
+      "icon": "shared-assets/materials/112044.png",
+      "rarity": 1
+    },
+    {
+      "id": 112045,
+      "name": "Kageuchi Handguard",
+      "icon": "shared-assets/materials/112045.png",
+      "rarity": 2
+    },
+    {
+      "id": 112046,
+      "name": "Famed Handguard",
+      "icon": "shared-assets/materials/112046.png",
+      "rarity": 3
+    },
+    {
+      "id": 112047,
+      "name": "Chaos Gear",
+      "icon": "shared-assets/materials/112047.png",
+      "rarity": 2
+    },
+    {
+      "id": 112048,
+      "name": "Chaos Axis",
+      "icon": "shared-assets/materials/112048.png",
+      "rarity": 3
+    },
+    {
+      "id": 112049,
+      "name": "Chaos Oculus",
+      "icon": "shared-assets/materials/112049.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114025,
+      "name": "Coral Branch of a Distant Sea",
+      "icon": "shared-assets/materials/114025.png",
+      "rarity": 2
+    },
+    {
+      "id": 114026,
+      "name": "Jeweled Branch of a Distant Sea",
+      "icon": "shared-assets/materials/114026.png",
+      "rarity": 3
+    },
+    {
+      "id": 114027,
+      "name": "Jade Branch of a Distant Sea",
+      "icon": "shared-assets/materials/114027.png",
+      "rarity": 4
+    },
+    {
+      "id": 114028,
+      "name": "Golden Branch of a Distant Sea",
+      "icon": "shared-assets/materials/114028.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 10000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112044,
+          "name": "Old Handguard",
+          "icon": "shared-assets/materials/112044.png",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 112047,
+          "name": "Chaos Gear",
+          "icon": "shared-assets/materials/112047.png",
+          "rarity": 2,
+          "qty": 5
+        },
+        {
+          "id": 114025,
+          "name": "Coral Branch of a Distant Sea",
+          "icon": "shared-assets/materials/114025.png",
+          "rarity": 2,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112044,
+          "name": "Old Handguard",
+          "icon": "shared-assets/materials/112044.png",
+          "rarity": 1,
+          "qty": 12
+        },
+        {
+          "id": 112047,
+          "name": "Chaos Gear",
+          "icon": "shared-assets/materials/112047.png",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 114026,
+          "name": "Jeweled Branch of a Distant Sea",
+          "icon": "shared-assets/materials/114026.png",
+          "rarity": 3,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112045,
+          "name": "Kageuchi Handguard",
+          "icon": "shared-assets/materials/112045.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112048,
+          "name": "Chaos Axis",
+          "icon": "shared-assets/materials/112048.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 114026,
+          "name": "Jeweled Branch of a Distant Sea",
+          "icon": "shared-assets/materials/114026.png",
+          "rarity": 3,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112045,
+          "name": "Kageuchi Handguard",
+          "icon": "shared-assets/materials/112045.png",
+          "rarity": 2,
+          "qty": 14
+        },
+        {
+          "id": 112048,
+          "name": "Chaos Axis",
+          "icon": "shared-assets/materials/112048.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 114027,
+          "name": "Jade Branch of a Distant Sea",
+          "icon": "shared-assets/materials/114027.png",
+          "rarity": 4,
+          "qty": 5
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 55000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112046,
+          "name": "Famed Handguard",
+          "icon": "shared-assets/materials/112046.png",
+          "rarity": 3,
+          "qty": 9
+        },
+        {
+          "id": 112049,
+          "name": "Chaos Oculus",
+          "icon": "shared-assets/materials/112049.png",
+          "rarity": 4,
+          "qty": 14
+        },
+        {
+          "id": 114027,
+          "name": "Jade Branch of a Distant Sea",
+          "icon": "shared-assets/materials/114027.png",
+          "rarity": 4,
+          "qty": 9
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 65000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112046,
+          "name": "Famed Handguard",
+          "icon": "shared-assets/materials/112046.png",
+          "rarity": 3,
+          "qty": 18
+        },
+        {
+          "id": 112049,
+          "name": "Chaos Oculus",
+          "icon": "shared-assets/materials/112049.png",
+          "rarity": 4,
+          "qty": 27
+        },
+        {
+          "id": 114028,
+          "name": "Golden Branch of a Distant Sea",
+          "icon": "shared-assets/materials/114028.png",
+          "rarity": 5,
+          "qty": 6
+        }
+      ]
+    }
+  ]
+}

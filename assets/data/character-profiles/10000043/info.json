@@ -1,0 +1,14 @@
+{
+  "id": "10000043",
+  "name": "Sucrose",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 11,
+    "day": 26
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000043/avatar.png"
+}

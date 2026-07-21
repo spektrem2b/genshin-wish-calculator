@@ -1,0 +1,13 @@
+{
+  "id": 15513,
+  "name": "Silvershower Heartstrings",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "Legendary bow of the fairies. Whether on the stage or the battlefield, it can easily touch the hearts of the listener.",
+  "icon": "weapon-profiles/15513/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615
+}

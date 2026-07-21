@@ -1,0 +1,13 @@
+{
+  "id": 12405,
+  "name": "Rainslasher",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power.",
+  "icon": "weapon-profiles/12405/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384
+}

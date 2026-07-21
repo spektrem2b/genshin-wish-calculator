@@ -1,0 +1,13 @@
+{
+  "id": 13425,
+  "name": "Rightful Reward",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A sharp spear. Only its tip remains freshly bloodstained.",
+  "icon": "weapon-profiles/13425/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Piercing Fragments",
+    "description": "When a Normal Attack hits, it deals AoE DMG.",
+    "icon": "character-profiles/10000027/constellations/00_const.png"
+  },
+  {
+    "name": "Shock Effect",
+    "description": "When Jade Screen is shattered, its CD will reset.\nCan occur once every 6s.",
+    "icon": "character-profiles/10000027/constellations/01_const.png"
+  },
+  {
+    "name": "Majesty Be the Array of Stars",
+    "description": "Increases the Level of Starshatter by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000027/constellations/02_const.png"
+  },
+  {
+    "name": "Exquisite be the Jade, Outshining All Beneath",
+    "description": "Jade Screen increases nearby characters' Elemental RES by 10%.",
+    "icon": "character-profiles/10000027/constellations/03_const.png"
+  },
+  {
+    "name": "Invincible Be the Jade Screen",
+    "description": "Increases the Level of Jade Screen by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000027/constellations/04_const.png"
+  },
+  {
+    "name": "Grandeur Be the Seven Stars",
+    "description": "When Starshatter is used, Ningguang gains 7 Star Jades.",
+    "icon": "character-profiles/10000027/constellations/05_const.png"
+  }
+]

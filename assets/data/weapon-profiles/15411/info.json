@@ -1,0 +1,13 @@
+{
+  "id": 15411,
+  "name": "Fading Twilight",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide.",
+  "icon": "weapon-profiles/15411/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

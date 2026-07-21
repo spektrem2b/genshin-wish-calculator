@@ -1,0 +1,13 @@
+{
+  "id": 12415,
+  "name": "Makhaira Aquamarine",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "An ancient greatsword that gleams like the waters themselves. A thousand years of sand erosion has not dulled its unnaturally sharp edge one bit.",
+  "icon": "weapon-profiles/12415/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384
+}

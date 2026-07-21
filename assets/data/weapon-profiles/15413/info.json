@@ -1,0 +1,13 @@
+{
+  "id": 15413,
+  "name": "Windblume Ode",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person.",
+  "icon": "weapon-profiles/15413/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384
+}

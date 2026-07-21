@@ -1,0 +1,13 @@
+{
+  "id": 15301,
+  "name": "Raven Bow",
+  "type": "Bow",
+  "rarity": 3,
+  "description": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.",
+  "icon": "weapon-profiles/15301/avatar.png",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 20.4,
+  "substat_lvl90": 93.7176
+}

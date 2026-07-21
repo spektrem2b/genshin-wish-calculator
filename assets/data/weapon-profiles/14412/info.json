@@ -1,0 +1,13 @@
+{
+  "id": 14412,
+  "name": "Frostbearer",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it.",
+  "icon": "weapon-profiles/14412/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

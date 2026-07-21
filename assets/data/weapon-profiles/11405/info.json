@@ -1,0 +1,13 @@
+{
+  "id": 11405,
+  "name": "Lion's Roar",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.",
+  "icon": "weapon-profiles/11405/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

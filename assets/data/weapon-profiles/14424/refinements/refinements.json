@@ -1,0 +1,25 @@
+{
+  "name": "Jade Circulation",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "When not on the field for more than 5s, Max HP will be increased by 32% and Elemental Mastery will be increased by 40. These effects will be canceled after the wielder has been on the field for 10s."
+    },
+    {
+      "refinement": 2,
+      "description": "When not on the field for more than 5s, Max HP will be increased by 40% and Elemental Mastery will be increased by 50. These effects will be canceled after the wielder has been on the field for 10s."
+    },
+    {
+      "refinement": 3,
+      "description": "When not on the field for more than 5s, Max HP will be increased by 48% and Elemental Mastery will be increased by 60. These effects will be canceled after the wielder has been on the field for 10s."
+    },
+    {
+      "refinement": 4,
+      "description": "When not on the field for more than 5s, Max HP will be increased by 56% and Elemental Mastery will be increased by 70. These effects will be canceled after the wielder has been on the field for 10s."
+    },
+    {
+      "refinement": 5,
+      "description": "When not on the field for more than 5s, Max HP will be increased by 64% and Elemental Mastery will be increased by 80. These effects will be canceled after the wielder has been on the field for 10s."
+    }
+  ]
+}

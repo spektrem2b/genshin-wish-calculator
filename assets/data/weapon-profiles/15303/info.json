@@ -1,0 +1,13 @@
+{
+  "id": 15303,
+  "name": "Recurve Bow",
+  "type": "Bow",
+  "rarity": 3,
+  "description": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
+  "icon": "weapon-profiles/15303/avatar.png",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.102133,
+  "substat_lvl90": 0.4692
+}

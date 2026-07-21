@@ -1,0 +1,13 @@
+{
+  "id": 11512,
+  "name": "Light of Foliar Incision",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest.",
+  "icon": "weapon-profiles/11512/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

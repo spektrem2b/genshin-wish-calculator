@@ -1,0 +1,13 @@
+{
+  "id": 15424,
+  "name": "Scion of the Blazing Sun",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "An ancient longbow that is a remnant of King Deshret's ancient era. An indecipherable ancient text and solemn patterns have been carved into it.",
+  "icon": "weapon-profiles/15424/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.04,
+  "substat_lvl90": 0.1838
+}

@@ -1,0 +1,13 @@
+{
+  "id": 12427,
+  "name": "Portable Power Saw",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "An old-school power saw that you can rarely find nowadays. It was once a cutting tool trusted by workers all around.",
+  "icon": "weapon-profiles/12427/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

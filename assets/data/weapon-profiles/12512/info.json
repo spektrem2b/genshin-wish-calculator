@@ -1,0 +1,13 @@
+{
+  "id": 12512,
+  "name": "Verdict",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "A weapon once used by a young maiden who forsook her family name, stained with the blood of enemies and loved ones both.",
+  "icon": "weapon-profiles/12512/avatar.png",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205
+}

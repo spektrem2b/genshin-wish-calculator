@@ -1,0 +1,14 @@
+{
+  "id": "10000021",
+  "name": "Amber",
+  "element": "Pyro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 8,
+    "day": 10
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000021/avatar.png"
+}

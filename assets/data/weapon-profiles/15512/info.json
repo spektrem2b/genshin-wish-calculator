@@ -1,0 +1,13 @@
+{
+  "id": 15512,
+  "name": "The First Great Magic",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "A stage prop once used by a past \"Great Magician.\" Its final secret was that it was also a weapon beyond the pale.",
+  "icon": "weapon-profiles/15512/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615
+}

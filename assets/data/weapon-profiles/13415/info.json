@@ -1,0 +1,13 @@
+{
+  "id": 13415,
+  "name": "\"The Catch\"",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
+  "icon": "weapon-profiles/13415/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594
+}

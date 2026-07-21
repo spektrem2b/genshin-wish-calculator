@@ -1,0 +1,13 @@
+{
+  "id": 14433,
+  "name": "Blackmarrow Lantern",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A lantern that emits a faint, ghostly glow, contained by a midnight-black alloy that resembles interlocking bones. It is said to have once been revered as a precious treasure by a certain secret organization.",
+  "icon": "weapon-profiles/14433/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 48.0,
+  "substat_lvl90": 220.512
+}

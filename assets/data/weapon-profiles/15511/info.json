@@ -1,0 +1,13 @@
+{
+  "id": 15511,
+  "name": "Hunter's Path",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods.",
+  "icon": "weapon-profiles/15511/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441
+}

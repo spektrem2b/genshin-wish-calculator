@@ -1,0 +1,13 @@
+{
+  "id": 11417,
+  "name": "Sapwood Blade",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest.",
+  "icon": "weapon-profiles/11417/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

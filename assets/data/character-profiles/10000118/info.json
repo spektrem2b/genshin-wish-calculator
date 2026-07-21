@@ -1,0 +1,14 @@
+{
+  "id": "10000118",
+  "name": "Manekina",
+  "element": "None",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "MAINACTOR",
+  "birthday": {
+    "month": 0,
+    "day": 0
+  },
+  "release": "2025-10-20T21:00:00",
+  "icon": "character-profiles/10000118/avatar.png"
+}

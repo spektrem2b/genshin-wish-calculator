@@ -1,0 +1,13 @@
+{
+  "id": 11518,
+  "name": "Athame Artis",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "A precious sword gifted by the Day King to the brave hero in the little witch's story, only for the witch to take it and defeat the hero herself.",
+  "icon": "weapon-profiles/11518/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308
+}

@@ -1,0 +1,13 @@
+{
+  "id": 11424,
+  "name": "Wolf-Fang",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "Legend has it that this longsword was once used by a wandering knight in the distant past.",
+  "icon": "weapon-profiles/11424/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

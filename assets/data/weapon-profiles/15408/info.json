@@ -1,0 +1,13 @@
+{
+  "id": 15408,
+  "name": "Blackcliff Warbow",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
+  "icon": "weapon-profiles/15408/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675
+}

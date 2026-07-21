@@ -1,0 +1,13 @@
+{
+  "id": 12406,
+  "name": "Prototype Archaic",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
+  "icon": "weapon-profiles/12406/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

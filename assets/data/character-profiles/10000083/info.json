@@ -1,0 +1,14 @@
+{
+  "id": "10000083",
+  "name": "Lynette",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 2,
+    "day": 2
+  },
+  "release": "2023-08-14T21:00:00",
+  "icon": "character-profiles/10000083/avatar.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 15516,
+  "name": "Golden Frostbound Oath",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "A longbow carved from ancient whitewood, once, in ages past, wielded by the Jack Frost King of the northern lands.",
+  "icon": "weapon-profiles/15516/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Shards Are Gems Too",
+    "description": "When Kachina mounts or dismounts Turbo Twirly, she will absorb nearby Elemental Shards created by Crystallize.\nAdditionally, when a party member picks up such a Shard, or triggers Lunar-Crystallize reactions, 3 Energy will be restored to Kachina. Energy can be restored this way once every 5s.",
+    "icon": "character-profiles/10000100/constellations/00_const.png"
+  },
+  {
+    "name": "Never Leave Home Without... Turbo Twirly",
+    "description": "When Kachina uses \"Time to Get Serious!\", she will regain 20 Nightsoul points. If there is no Turbo Twirly belonging to her on the field, she will enter Nightsoul's Blessing and summon one.",
+    "icon": "character-profiles/10000100/constellations/01_const.png"
+  },
+  {
+    "name": "Improved Stabilizer",
+    "description": "Increases the Level of Go, Go Turbo Twirly! by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000100/constellations/02_const.png"
+  },
+  {
+    "name": "More Foes, More Caution",
+    "description": "When there are 1/2/3/4 (or more) opponents within the Turbo Drill Field created by \"Time to Get Serious!\", the active character within the field gains 8%/12%/16%/20% increased DEF.",
+    "icon": "character-profiles/10000100/constellations/03_const.png"
+  },
+  {
+    "name": "All I've Collected Till Now",
+    "description": "Increases the Level of Time to Get Serious! by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000100/constellations/04_const.png"
+  },
+  {
+    "name": "This Time, I've Gotta Win",
+    "description": "When your active character's Shield is replaced or destroyed for any reason, Kachina will deal 200% of her DEF as AoE Geo DMG. This effect can be triggered once every 5s.",
+    "icon": "character-profiles/10000100/constellations/05_const.png"
+  }
+]

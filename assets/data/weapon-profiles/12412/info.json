@@ -1,0 +1,13 @@
+{
+  "id": 12412,
+  "name": "Luxurious Sea-Lord",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance.",
+  "icon": "weapon-profiles/12412/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

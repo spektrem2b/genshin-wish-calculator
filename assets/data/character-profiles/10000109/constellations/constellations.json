@@ -1,0 +1,32 @@
+[
+  {
+    "name": "In Mist-Like Waters",
+    "description": "When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights' Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki's Elemental Mastery.",
+    "icon": "character-profiles/10000109/constellations/00_const.png"
+  },
+  {
+    "name": "Your Echo I Meet in Dreams",
+    "description": "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members' Pyro, Hydro, Cryo, and Electro DMG Bonuses by 0.04% until the Dreamdrifter state ends.",
+    "icon": "character-profiles/10000109/constellations/01_const.png"
+  },
+  {
+    "name": "Till Dawn's Moon Ends Night",
+    "description": "Increases the Level of Aisa Utamakura Pilgrimage by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000109/constellations/02_const.png"
+  },
+  {
+    "name": "Buds Warm Lucid Springs",
+    "description": "Picking up a Yumemi Style Special Snack from the Elemental Burst Anraku Secret Spring Therapy will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per Anraku Secret Spring Therapy duration.",
+    "icon": "character-profiles/10000109/constellations/03_const.png"
+  },
+  {
+    "name": "As Setting Moon Brings Year's End",
+    "description": "Increases the Level of Anraku Secret Spring Therapy by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000109/constellations/04_const.png"
+  },
+  {
+    "name": "The Heart Lingers Long",
+    "description": "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%.",
+    "icon": "character-profiles/10000109/constellations/05_const.png"
+  }
+]

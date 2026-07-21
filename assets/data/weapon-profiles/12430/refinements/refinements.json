@@ -1,0 +1,25 @@
+{
+  "name": "The Weight of Falling Branches",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increase Plunging Attack CRIT Rate by 16%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 16% for 10s."
+    },
+    {
+      "refinement": 2,
+      "description": "Increase Plunging Attack CRIT Rate by 20%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 20% for 10s."
+    },
+    {
+      "refinement": 3,
+      "description": "Increase Plunging Attack CRIT Rate by 24%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 24% for 10s."
+    },
+    {
+      "refinement": 4,
+      "description": "Increase Plunging Attack CRIT Rate by 28%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 28% for 10s."
+    },
+    {
+      "refinement": 5,
+      "description": "Increase Plunging Attack CRIT Rate by 32%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 32% for 10s."
+    }
+  ]
+}

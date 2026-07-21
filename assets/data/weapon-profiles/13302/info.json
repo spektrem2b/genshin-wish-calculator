@@ -1,0 +1,13 @@
+{
+  "id": 13302,
+  "name": "Halberd",
+  "type": "Polearm",
+  "rarity": 3,
+  "description": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers.",
+  "icon": "weapon-profiles/13302/avatar.png",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.051067,
+  "substat_lvl90": 0.2346
+}

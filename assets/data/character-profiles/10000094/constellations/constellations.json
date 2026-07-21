@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Six Paths of Sage Silkcraft",
+    "description": "The AoE of the automaton doll \"Tamoto\" summoned by Fluttering Hasode is increased by 50%.\nAdditionally, if there is a Geo party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed:\n· Summon an additional Tamoto. Only one additional Tamoto can exist at the same time, whether summoned by Chiori this way or through the presence of a Geo Construct.\n· Triggers the Ascension Talent \"The Finishing Touch.\" You must first unlock the Ascension Talent \"The Finishing Touch.\"",
+    "icon": "character-profiles/10000094/constellations/00_const.png"
+  },
+  {
+    "name": "In Five Colors Dyed",
+    "description": "For 10s after using Hiyoku: Twin Blades, a simplified automaton doll, \"Kinu,\" will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing AoE Geo DMG equivalent to 170% of Tamoto's DMG. DMG dealt this way is considered Elemental Skill DMG.\nKinu will leave the field after 1 attack or after lasting 3s.",
+    "icon": "character-profiles/10000094/constellations/01_const.png"
+  },
+  {
+    "name": "Four Brocade Embellishments",
+    "description": "Increases the Level of Fluttering Hasode by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000094/constellations/02_const.png"
+  },
+  {
+    "name": "A Tailor's Three Courtesies",
+    "description": "For 8s after triggering either follow-up effect of the Ascension Talent \"Tailor-Made,\" when your current active character's Normal, Charged, or Plunging Attacks hit a nearby opponent, a simplified automaton doll, \"Kinu,\" will be summoned near this opponent. You can summon 1 Kinu every 1s in this way, and up to 3 Kinu may be summoned this way during each instance of \"Tailor-Made\"'s Seize the Moment or Tailoring effect. The above effect can be triggered up to once every 15s.\nYou must first unlock the Ascension Talent \"Tailor-Made.\"",
+    "icon": "character-profiles/10000094/constellations/03_const.png"
+  },
+  {
+    "name": "Two Silken Plumules",
+    "description": "Increases the Level of Hiyoku: Twin Blades by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000094/constellations/04_const.png"
+  },
+  {
+    "name": "Sole Principle Pursuit",
+    "description": "After triggering a follow-up effect of the Ascension Talent \"Tailor-Made,\" Chiori's own Fluttering Hasode's CD is decreased by 12s. You must first unlock the Ascension Talent \"Tailor-Made.\".\nIn addition, the DMG dealt by Chiori's own Normal Attacks is increased by an amount equal to 235% of her own DEF.",
+    "icon": "character-profiles/10000094/constellations/05_const.png"
+  }
+]

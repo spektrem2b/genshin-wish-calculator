@@ -1,0 +1,13 @@
+{
+  "id": 15431,
+  "name": "Chain Breaker",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A jade-adorned longbow. The gentle winds always seem to swirl gently about its string. Legends claim that this weapon was made in a far more ancient era by a dragon artisan.",
+  "icon": "weapon-profiles/15431/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

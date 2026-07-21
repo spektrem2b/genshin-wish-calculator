@@ -1,0 +1,13 @@
+{
+  "id": 12432,
+  "name": "Flame-Forged Insight",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "Tribal tales tell of a great blade forged by the People of the Springs to protect a child who would embark on a distant journey. This particular weapon appears to be a replica of that legendary sword.",
+  "icon": "weapon-profiles/12432/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384
+}

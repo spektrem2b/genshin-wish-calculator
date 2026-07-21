@@ -1,0 +1,14 @@
+{
+  "id": "10000064",
+  "name": "Yun Jin",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 5,
+    "day": 21
+  },
+  "release": "2022-01-04T22:00:00",
+  "icon": "character-profiles/10000064/avatar.png"
+}

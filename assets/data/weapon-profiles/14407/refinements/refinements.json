@@ -1,0 +1,25 @@
+{
+  "name": "Infusion Scroll",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Triggering an Elemental reaction grants a 8% Elemental DMG Bonus for 10s. Max 2 stacks."
+    },
+    {
+      "refinement": 2,
+      "description": "Triggering an Elemental reaction grants a 10% Elemental DMG Bonus for 10s. Max 2 stacks."
+    },
+    {
+      "refinement": 3,
+      "description": "Triggering an Elemental reaction grants a 12% Elemental DMG Bonus for 10s. Max 2 stacks."
+    },
+    {
+      "refinement": 4,
+      "description": "Triggering an Elemental reaction grants a 14% Elemental DMG Bonus for 10s. Max 2 stacks."
+    },
+    {
+      "refinement": 5,
+      "description": "Triggering an Elemental reaction grants a 16% Elemental DMG Bonus for 10s. Max 2 stacks."
+    }
+  ]
+}

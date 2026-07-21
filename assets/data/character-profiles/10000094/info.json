@@ -1,0 +1,14 @@
+{
+  "id": "10000094",
+  "name": "Chiori",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 8,
+    "day": 17
+  },
+  "release": "2024-03-11T22:00:00",
+  "icon": "character-profiles/10000094/avatar.png"
+}

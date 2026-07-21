@@ -1,0 +1,13 @@
+{
+  "id": 13512,
+  "name": "Crimson Moon's Semblance",
+  "type": "Polearm",
+  "rarity": 5,
+  "description": "A keen-edged weapon, luster dazzling as the crimson moon. It is said that an ancient dynasty once regarded it as a ritual object that could bridge two worlds, but none still remember the beliefs and ceremonies of that bygone age.",
+  "icon": "weapon-profiles/13512/avatar.png",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205
+}

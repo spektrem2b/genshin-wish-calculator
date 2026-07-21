@@ -1,0 +1,25 @@
+{
+  "name": "Infusion Needle",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 20% of ATK for 5s."
+    },
+    {
+      "refinement": 2,
+      "description": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 25% of ATK for 5s."
+    },
+    {
+      "refinement": 3,
+      "description": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 30% of ATK for 5s."
+    },
+    {
+      "refinement": 4,
+      "description": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 35% of ATK for 5s."
+    },
+    {
+      "refinement": 5,
+      "description": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 40% of ATK for 5s."
+    }
+  ]
+}

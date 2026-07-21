@@ -1,0 +1,13 @@
+{
+  "id": 14407,
+  "name": "Mappa Mare",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders.",
+  "icon": "weapon-profiles/14407/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256
+}

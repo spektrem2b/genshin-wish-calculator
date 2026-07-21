@@ -1,0 +1,14 @@
+{
+  "id": "10000081",
+  "name": "Kaveh",
+  "element": "Dendro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 7,
+    "day": 9
+  },
+  "release": "2023-05-02T15:00:00",
+  "icon": "character-profiles/10000081/avatar.png"
+}

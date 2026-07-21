@@ -1,0 +1,13 @@
+{
+  "id": 14432,
+  "name": "Etherlight Spindlelute",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A lute whose golden strings are as radiant as sunlight. It appears to be a relic from the Seelie of old.",
+  "icon": "weapon-profiles/14432/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594
+}

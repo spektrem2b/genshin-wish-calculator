@@ -1,0 +1,13 @@
+{
+  "id": 14302,
+  "name": "Thrilling Tales of Dragon Slayers",
+  "type": "Catalyst",
+  "rarity": 3,
+  "description": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
+  "icon": "weapon-profiles/14302/avatar.png",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.0766,
+  "substat_lvl90": 0.3519
+}

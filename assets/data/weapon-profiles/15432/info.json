@@ -1,0 +1,13 @@
+{
+  "id": 15432,
+  "name": "Sequence of Solitude",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A mechanical longbow purpose-built for long shots and silent kills. Its twang is swallowed up amidst the night, the note lengthy and cold.",
+  "icon": "weapon-profiles/15432/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000045",
+  "name": "Rosaria",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 1,
+    "day": 24
+  },
+  "release": "2021-04-06T15:00:00",
+  "icon": "character-profiles/10000045/avatar.png"
+}

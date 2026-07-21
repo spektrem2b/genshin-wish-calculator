@@ -1,0 +1,25 @@
+{
+  "name": "Bane of Flame and Water",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases DMG against opponents affected by Hydro or Pyro by 20%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases DMG against opponents affected by Hydro or Pyro by 24%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases DMG against opponents affected by Hydro or Pyro by 28%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases DMG against opponents affected by Hydro or Pyro by 32%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases DMG against opponents affected by Hydro or Pyro by 36%."
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 112023,
+      "name": "Chaos Device",
+      "icon": "shared-assets/materials/112023.png",
+      "rarity": 2
+    },
+    {
+      "id": 112024,
+      "name": "Chaos Circuit",
+      "icon": "shared-assets/materials/112024.png",
+      "rarity": 3
+    },
+    {
+      "id": 112025,
+      "name": "Chaos Core",
+      "icon": "shared-assets/materials/112025.png",
+      "rarity": 4
+    },
+    {
+      "id": 112038,
+      "name": "Whopperflower Nectar",
+      "icon": "shared-assets/materials/112038.png",
+      "rarity": 1
+    },
+    {
+      "id": 112039,
+      "name": "Shimmering Nectar",
+      "icon": "shared-assets/materials/112039.png",
+      "rarity": 2
+    },
+    {
+      "id": 112040,
+      "name": "Energy Nectar",
+      "icon": "shared-assets/materials/112040.png",
+      "rarity": 3
+    },
+    {
+      "id": 114009,
+      "name": "Fetters of the Dandelion Gladiator",
+      "icon": "shared-assets/materials/114009.png",
+      "rarity": 2
+    },
+    {
+      "id": 114010,
+      "name": "Chains of the Dandelion Gladiator",
+      "icon": "shared-assets/materials/114010.png",
+      "rarity": 3
+    },
+    {
+      "id": 114011,
+      "name": "Shackles of the Dandelion Gladiator",
+      "icon": "shared-assets/materials/114011.png",
+      "rarity": 4
+    },
+    {
+      "id": 114012,
+      "name": "Dream of the Dandelion Gladiator",
+      "icon": "shared-assets/materials/114012.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112023,
+      "name": "Chaos Device",
+      "icon": "shared-assets/materials/112023.png",
+      "rarity": 2
+    },
+    {
+      "id": 112024,
+      "name": "Chaos Circuit",
+      "icon": "shared-assets/materials/112024.png",
+      "rarity": 3
+    },
+    {
+      "id": 112025,
+      "name": "Chaos Core",
+      "icon": "shared-assets/materials/112025.png",
+      "rarity": 4
+    },
+    {
+      "id": 112038,
+      "name": "Whopperflower Nectar",
+      "icon": "shared-assets/materials/112038.png",
+      "rarity": 1
+    },
+    {
+      "id": 112039,
+      "name": "Shimmering Nectar",
+      "icon": "shared-assets/materials/112039.png",
+      "rarity": 2
+    },
+    {
+      "id": 112040,
+      "name": "Energy Nectar",
+      "icon": "shared-assets/materials/112040.png",
+      "rarity": 3
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114009,
+      "name": "Fetters of the Dandelion Gladiator",
+      "icon": "shared-assets/materials/114009.png",
+      "rarity": 2
+    },
+    {
+      "id": 114010,
+      "name": "Chains of the Dandelion Gladiator",
+      "icon": "shared-assets/materials/114010.png",
+      "rarity": 3
+    },
+    {
+      "id": 114011,
+      "name": "Shackles of the Dandelion Gladiator",
+      "icon": "shared-assets/materials/114011.png",
+      "rarity": 4
+    },
+    {
+      "id": 114012,
+      "name": "Dream of the Dandelion Gladiator",
+      "icon": "shared-assets/materials/114012.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112023,
+          "name": "Chaos Device",
+          "icon": "shared-assets/materials/112023.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 112038,
+          "name": "Whopperflower Nectar",
+          "icon": "shared-assets/materials/112038.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 114009,
+          "name": "Fetters of the Dandelion Gladiator",
+          "icon": "shared-assets/materials/114009.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112023,
+          "name": "Chaos Device",
+          "icon": "shared-assets/materials/112023.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 112038,
+          "name": "Whopperflower Nectar",
+          "icon": "shared-assets/materials/112038.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 114010,
+          "name": "Chains of the Dandelion Gladiator",
+          "icon": "shared-assets/materials/114010.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112024,
+          "name": "Chaos Circuit",
+          "icon": "shared-assets/materials/112024.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112039,
+          "name": "Shimmering Nectar",
+          "icon": "shared-assets/materials/112039.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 114010,
+          "name": "Chains of the Dandelion Gladiator",
+          "icon": "shared-assets/materials/114010.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112024,
+          "name": "Chaos Circuit",
+          "icon": "shared-assets/materials/112024.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112039,
+          "name": "Shimmering Nectar",
+          "icon": "shared-assets/materials/112039.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 114011,
+          "name": "Shackles of the Dandelion Gladiator",
+          "icon": "shared-assets/materials/114011.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112025,
+          "name": "Chaos Core",
+          "icon": "shared-assets/materials/112025.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 112040,
+          "name": "Energy Nectar",
+          "icon": "shared-assets/materials/112040.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114011,
+          "name": "Shackles of the Dandelion Gladiator",
+          "icon": "shared-assets/materials/114011.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112025,
+          "name": "Chaos Core",
+          "icon": "shared-assets/materials/112025.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 112040,
+          "name": "Energy Nectar",
+          "icon": "shared-assets/materials/112040.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114012,
+          "name": "Dream of the Dandelion Gladiator",
+          "icon": "shared-assets/materials/114012.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

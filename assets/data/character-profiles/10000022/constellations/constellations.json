@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Splitting Gales",
+    "description": "Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.",
+    "icon": "character-profiles/10000022/constellations/00_const.png"
+  },
+  {
+    "name": "Breeze of Reminiscence",
+    "description": "Skyward Sonnet decreases opponents' Anemo RES and Physical RES by 12% for 10s.\nOpponents launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne.",
+    "icon": "character-profiles/10000022/constellations/01_const.png"
+  },
+  {
+    "name": "Ode to Thousand Winds",
+    "description": "Increases the Level of Wind's Grand Ode by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000022/constellations/02_const.png"
+  },
+  {
+    "name": "Hurricane of Freedom",
+    "description": "When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s.",
+    "icon": "character-profiles/10000022/constellations/03_const.png"
+  },
+  {
+    "name": "Concerto dal Cielo",
+    "description": "Increases the Level of Skyward Sonnet by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000022/constellations/04_const.png"
+  },
+  {
+    "name": "Storm of Defiance",
+    "description": "Targets who take DMG from Wind's Grand Ode have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+    "icon": "character-profiles/10000022/constellations/05_const.png"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Parrot's Beak",
+    "description": "After Kinich lands from Canopy Hunter: Riding High's mid-air swing, his Movement SPD will increase by 30% for 6s.\nAdditionally, Scalespiker Cannon's CRIT DMG is increased by 100%.",
+    "icon": "character-profiles/10000101/constellations/00_const.png"
+  },
+  {
+    "name": "Tiger Beetle's Palm",
+    "description": "When Kinich's Elemental Skill hits an opponent, it will decrease their Dendro RES by 30% for 6s.\nAdditionally, the first Scalespiker Cannon Kinich fires after entering Nightsoul's Blessing has increased AoE, and its DMG increases by 100%.",
+    "icon": "character-profiles/10000101/constellations/01_const.png"
+  },
+  {
+    "name": "Protosuchian's Claw",
+    "description": "Increases the Level of Canopy Hunter: Riding High by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000101/constellations/02_const.png"
+  },
+  {
+    "name": "Hummingbird's Feather",
+    "description": "When in Nightsoul's Blessing, Kinich will restore 5 Energy after using his Loop Shots or after unleashing the Scalespiker Cannon. Energy can be regenerated this way once every 2.8s.\nAdditionally, Hail to the Almighty Dragonlord deals 70% more DMG.",
+    "icon": "character-profiles/10000101/constellations/03_const.png"
+  },
+  {
+    "name": "Howler Monkey's Tail",
+    "description": "Increases the Level of Hail to the Almighty Dragonlord by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000101/constellations/04_const.png"
+  },
+  {
+    "name": "Auspicious Beast's Shape",
+    "description": "After Scalespiker Cannon hits an opponent, it will bounce between opponents once, dealing 700% of Kinich's ATK as Dendro DMG.\nIf this Scalespiker Cannon triggers the buffs that Ascension Talent \"Flame Spirit Pact\" or the Constellation \"Tiger Beetle's Palm\" grant to the Cannon, the bouncing attack will also obtain the relevant buffs.",
+    "icon": "character-profiles/10000101/constellations/05_const.png"
+  }
+]

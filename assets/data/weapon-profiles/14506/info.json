@@ -1,0 +1,13 @@
+{
+  "id": 14506,
+  "name": "Everlasting Moonglow",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant.",
+  "icon": "weapon-profiles/14506/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962
+}

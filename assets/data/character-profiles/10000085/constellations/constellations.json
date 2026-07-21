@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dreams of the Foamy Deep",
+    "description": "The CRIT Rate of Pressurized Floe: Shattering Pressure will be increased by 15%.",
+    "icon": "character-profiles/10000085/constellations/00_const.png"
+  },
+  {
+    "name": "Penguins and the Land of Plenty",
+    "description": "Unleashing Pressurized Floe: Shattering Pressure will restore 2 Energy to Freminet. If a Pressure Level 4 Shattering Pressure is unleashed, this will restore 3 Energy.",
+    "icon": "character-profiles/10000085/constellations/01_const.png"
+  },
+  {
+    "name": "Song of the Eddies and Bleached Sands",
+    "description": "Increases the Level of Normal Attack: Flowing Eddies by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000085/constellations/02_const.png"
+  },
+  {
+    "name": "Dance of the Snowy Moon and Flute",
+    "description": "After Freminet triggers Frozen, Shatter, Superconduct, or Stellar-Conduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s.",
+    "icon": "character-profiles/10000085/constellations/03_const.png"
+  },
+  {
+    "name": "Nights of Hearth and Happiness",
+    "description": "Increases the Level of Pressurized Floe by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000085/constellations/04_const.png"
+  },
+  {
+    "name": "Moment of Waking and Resolve",
+    "description": "After Freminet triggers Frozen, Shatter, Superconduct, or Stellar-Conduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s.",
+    "icon": "character-profiles/10000085/constellations/05_const.png"
+  }
+]

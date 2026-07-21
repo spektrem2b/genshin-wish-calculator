@@ -1,0 +1,13 @@
+{
+  "id": 14431,
+  "name": "Ring of Yaxche",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "This jade vessel was created by a hero of yesteryear. Legend has it that it once shot the giant dragon that dwelt in the volcano down from the skies.",
+  "icon": "weapon-profiles/14431/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

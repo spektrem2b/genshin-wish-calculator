@@ -1,0 +1,13 @@
+{
+  "id": 15515,
+  "name": "The Daybreak Chronicles",
+  "type": "Bow",
+  "rarity": 5,
+  "description": "The songs of resistance come hither on the wind to settle as gentle tones upon these strings, their combined power great enough to rip boundless darkness asunder with the light of the breaking dawn.",
+  "icon": "weapon-profiles/15515/avatar.png",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000097",
+  "name": "Sethos",
+  "element": "Electro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 5,
+    "day": 31
+  },
+  "release": "2024-06-03T21:00:00",
+  "icon": "character-profiles/10000097/avatar.png"
+}

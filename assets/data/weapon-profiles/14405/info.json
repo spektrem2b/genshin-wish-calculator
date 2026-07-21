@@ -1,0 +1,13 @@
+{
+  "id": 14405,
+  "name": "Solar Pearl",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength.",
+  "icon": "weapon-profiles/14405/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

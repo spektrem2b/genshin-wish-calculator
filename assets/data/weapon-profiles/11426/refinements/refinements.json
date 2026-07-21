@@ -1,0 +1,25 @@
+{
+  "name": "Ironbone",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases Elemental Skill CRIT Rate by 8%. Additionally, increases Energy Recharge by 16% for 5s after using an Elemental Skill."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases Elemental Skill CRIT Rate by 10%. Additionally, increases Energy Recharge by 20% for 5s after using an Elemental Skill."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases Elemental Skill CRIT Rate by 12%. Additionally, increases Energy Recharge by 24% for 5s after using an Elemental Skill."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases Elemental Skill CRIT Rate by 14%. Additionally, increases Energy Recharge by 28% for 5s after using an Elemental Skill."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases Elemental Skill CRIT Rate by 16%. Additionally, increases Energy Recharge by 32% for 5s after using an Elemental Skill."
+    }
+  ]
+}

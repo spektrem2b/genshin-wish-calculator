@@ -1,0 +1,13 @@
+{
+  "id": 13407,
+  "name": "Favonius Lance",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
+  "icon": "weapon-profiles/13407/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

@@ -1,0 +1,13 @@
+{
+  "id": 12433,
+  "name": "Master Key",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A heavy greatsword with a razor-sharp blade. Power is a key that can open almost any lock.",
+  "icon": "weapon-profiles/12433/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125
+}

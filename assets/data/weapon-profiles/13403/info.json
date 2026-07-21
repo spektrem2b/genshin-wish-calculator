@@ -1,0 +1,13 @@
+{
+  "id": 13403,
+  "name": "Crescent Pike",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage.",
+  "icon": "weapon-profiles/13403/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.075067,
+  "substat_lvl90": 0.3449
+}

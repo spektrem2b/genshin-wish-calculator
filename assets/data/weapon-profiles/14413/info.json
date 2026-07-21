@@ -1,0 +1,13 @@
+{
+  "id": 14413,
+  "name": "Dodoco Tales",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A children's book filled with childish short stories at which one cannot help but laugh.\nEven those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.",
+  "icon": "weapon-profiles/14413/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

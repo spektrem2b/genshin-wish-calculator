@@ -1,0 +1,13 @@
+{
+  "id": 13424,
+  "name": "Ballad of the Fjords",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A polearm used by those seeking to catch fish in the tundra. It lets none escape.",
+  "icon": "weapon-profiles/13424/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

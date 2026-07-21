@@ -1,0 +1,14 @@
+{
+  "id": "10000133",
+  "name": "Sandrone",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "SNEZHNAYA_STAR",
+  "birthday": {
+    "month": 1,
+    "day": 13
+  },
+  "release": "2026-06-29T21:00:00",
+  "icon": "character-profiles/10000133/avatar.png"
+}

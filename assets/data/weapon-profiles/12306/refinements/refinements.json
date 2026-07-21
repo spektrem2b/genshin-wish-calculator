@@ -1,0 +1,25 @@
+{
+  "name": "Courage",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "On hit, Normal or Charged Attacks increase ATK by 6% for 6s. Max 4 stacks. Can occur once every 0.5s."
+    },
+    {
+      "refinement": 2,
+      "description": "On hit, Normal or Charged Attacks increase ATK by 7% for 6s. Max 4 stacks. Can occur once every 0.5s."
+    },
+    {
+      "refinement": 3,
+      "description": "On hit, Normal or Charged Attacks increase ATK by 8% for 6s. Max 4 stacks. Can occur once every 0.5s."
+    },
+    {
+      "refinement": 4,
+      "description": "On hit, Normal or Charged Attacks increase ATK by 9% for 6s. Max 4 stacks. Can occur once every 0.5s."
+    },
+    {
+      "refinement": 5,
+      "description": "On hit, Normal or Charged Attacks increase ATK by 10% for 6s. Max 4 stacks. Can occur once every 0.5s."
+    }
+  ]
+}

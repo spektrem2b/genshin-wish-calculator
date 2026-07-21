@@ -1,0 +1,13 @@
+{
+  "id": 11433,
+  "name": "Serenity's Call",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A longsword forged from metal that makes a mournful sound when swung.",
+  "icon": "weapon-profiles/11433/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125
+}

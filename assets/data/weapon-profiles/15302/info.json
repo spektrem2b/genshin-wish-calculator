@@ -1,0 +1,13 @@
+{
+  "id": 15302,
+  "name": "Sharpshooter's Oath",
+  "type": "Bow",
+  "rarity": 3,
+  "description": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
+  "icon": "weapon-profiles/15302/avatar.png",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.102,
+  "substat_lvl90": 0.4686
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000112",
+  "name": "Escoffier",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 6,
+    "day": 8
+  },
+  "release": "2025-05-05T21:00:00",
+  "icon": "character-profiles/10000112/avatar.png"
+}

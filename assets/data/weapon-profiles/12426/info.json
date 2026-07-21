@@ -1,0 +1,13 @@
+{
+  "id": 12426,
+  "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A magical sword that can only be wielded by the ultimate overlord who rules the seas. As it has been made with special water-resistant materials, it will not get ruined by water damage even after being immersed. Why, one might even call it invincible!",
+  "icon": "weapon-profiles/12426/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

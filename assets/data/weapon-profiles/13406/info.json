@@ -1,0 +1,13 @@
+{
+  "id": 13406,
+  "name": "Lithic Spear",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal.",
+  "icon": "weapon-profiles/13406/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

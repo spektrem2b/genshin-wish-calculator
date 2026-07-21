@@ -1,0 +1,14 @@
+{
+  "id": "10000002",
+  "name": "Kamisato Ayaka",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 9,
+    "day": 28
+  },
+  "release": "2021-07-20T21:00:00",
+  "icon": "character-profiles/10000002/avatar.png"
+}

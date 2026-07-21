@@ -1,0 +1,25 @@
+{
+  "name": "Rapid Firing",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases Normal Attack DMG by 40% but decreases Charged Attack DMG by 10%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases Normal Attack DMG by 50% but decreases Charged Attack DMG by 10%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases Normal Attack DMG by 60% but decreases Charged Attack DMG by 10%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases Normal Attack DMG by 70% but decreases Charged Attack DMG by 10%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases Normal Attack DMG by 80% but decreases Charged Attack DMG by 10%."
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 112125,
+      "name": "Tattered Warrant",
+      "icon": "shared-assets/materials/112125.png",
+      "rarity": 1
+    },
+    {
+      "id": 112126,
+      "name": "Immaculate Warrant",
+      "icon": "shared-assets/materials/112126.png",
+      "rarity": 2
+    },
+    {
+      "id": 112127,
+      "name": "Frost-Etched Warrant",
+      "icon": "shared-assets/materials/112127.png",
+      "rarity": 3
+    },
+    {
+      "id": 112131,
+      "name": "Lightless Bone",
+      "icon": "shared-assets/materials/112131.png",
+      "rarity": 2
+    },
+    {
+      "id": 112132,
+      "name": "Glowing Remains",
+      "icon": "shared-assets/materials/112132.png",
+      "rarity": 3
+    },
+    {
+      "id": 112133,
+      "name": "Radiant Exoskeleton",
+      "icon": "shared-assets/materials/112133.png",
+      "rarity": 4
+    },
+    {
+      "id": 114081,
+      "name": "Sundered Glory of the Far-North Scions",
+      "icon": "shared-assets/materials/114081.png",
+      "rarity": 2
+    },
+    {
+      "id": 114082,
+      "name": "Unyielding Delusion of the Far-North Scions",
+      "icon": "shared-assets/materials/114082.png",
+      "rarity": 3
+    },
+    {
+      "id": 114083,
+      "name": "Oblation of the Far-North Scions",
+      "icon": "shared-assets/materials/114083.png",
+      "rarity": 4
+    },
+    {
+      "id": 114084,
+      "name": "Aureate Radiance of the Far-North Scions",
+      "icon": "shared-assets/materials/114084.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112125,
+      "name": "Tattered Warrant",
+      "icon": "shared-assets/materials/112125.png",
+      "rarity": 1
+    },
+    {
+      "id": 112126,
+      "name": "Immaculate Warrant",
+      "icon": "shared-assets/materials/112126.png",
+      "rarity": 2
+    },
+    {
+      "id": 112127,
+      "name": "Frost-Etched Warrant",
+      "icon": "shared-assets/materials/112127.png",
+      "rarity": 3
+    },
+    {
+      "id": 112131,
+      "name": "Lightless Bone",
+      "icon": "shared-assets/materials/112131.png",
+      "rarity": 2
+    },
+    {
+      "id": 112132,
+      "name": "Glowing Remains",
+      "icon": "shared-assets/materials/112132.png",
+      "rarity": 3
+    },
+    {
+      "id": 112133,
+      "name": "Radiant Exoskeleton",
+      "icon": "shared-assets/materials/112133.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114081,
+      "name": "Sundered Glory of the Far-North Scions",
+      "icon": "shared-assets/materials/114081.png",
+      "rarity": 2
+    },
+    {
+      "id": 114082,
+      "name": "Unyielding Delusion of the Far-North Scions",
+      "icon": "shared-assets/materials/114082.png",
+      "rarity": 3
+    },
+    {
+      "id": 114083,
+      "name": "Oblation of the Far-North Scions",
+      "icon": "shared-assets/materials/114083.png",
+      "rarity": 4
+    },
+    {
+      "id": 114084,
+      "name": "Aureate Radiance of the Far-North Scions",
+      "icon": "shared-assets/materials/114084.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112125,
+          "name": "Tattered Warrant",
+          "icon": "shared-assets/materials/112125.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 112131,
+          "name": "Lightless Bone",
+          "icon": "shared-assets/materials/112131.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 114081,
+          "name": "Sundered Glory of the Far-North Scions",
+          "icon": "shared-assets/materials/114081.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112125,
+          "name": "Tattered Warrant",
+          "icon": "shared-assets/materials/112125.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 112131,
+          "name": "Lightless Bone",
+          "icon": "shared-assets/materials/112131.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 114082,
+          "name": "Unyielding Delusion of the Far-North Scions",
+          "icon": "shared-assets/materials/114082.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112126,
+          "name": "Immaculate Warrant",
+          "icon": "shared-assets/materials/112126.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 112132,
+          "name": "Glowing Remains",
+          "icon": "shared-assets/materials/112132.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114082,
+          "name": "Unyielding Delusion of the Far-North Scions",
+          "icon": "shared-assets/materials/114082.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112126,
+          "name": "Immaculate Warrant",
+          "icon": "shared-assets/materials/112126.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112132,
+          "name": "Glowing Remains",
+          "icon": "shared-assets/materials/112132.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114083,
+          "name": "Oblation of the Far-North Scions",
+          "icon": "shared-assets/materials/114083.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112127,
+          "name": "Frost-Etched Warrant",
+          "icon": "shared-assets/materials/112127.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112133,
+          "name": "Radiant Exoskeleton",
+          "icon": "shared-assets/materials/112133.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 114083,
+          "name": "Oblation of the Far-North Scions",
+          "icon": "shared-assets/materials/114083.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112127,
+          "name": "Frost-Etched Warrant",
+          "icon": "shared-assets/materials/112127.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112133,
+          "name": "Radiant Exoskeleton",
+          "icon": "shared-assets/materials/112133.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 114084,
+          "name": "Aureate Radiance of the Far-North Scions",
+          "icon": "shared-assets/materials/114084.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

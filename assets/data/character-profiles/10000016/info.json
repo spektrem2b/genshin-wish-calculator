@@ -1,0 +1,14 @@
+{
+  "id": "10000016",
+  "name": "Diluc",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 4,
+    "day": 30
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000016/avatar.png"
+}

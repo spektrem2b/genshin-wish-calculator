@@ -1,0 +1,14 @@
+{
+  "id": "10000051",
+  "name": "Eula",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 10,
+    "day": 25
+  },
+  "release": "2021-05-18T15:00:00",
+  "icon": "character-profiles/10000051/avatar.png"
+}

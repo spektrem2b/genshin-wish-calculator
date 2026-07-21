@@ -1,0 +1,14 @@
+{
+  "id": "10000069",
+  "name": "Tighnari",
+  "element": "Dendro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 12,
+    "day": 29
+  },
+  "release": "2022-08-23T21:00:00",
+  "icon": "character-profiles/10000069/avatar.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10000071",
+  "name": "Cyno",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 6,
+    "day": 23
+  },
+  "release": "2022-09-26T21:00:00",
+  "icon": "character-profiles/10000071/avatar.png"
+}

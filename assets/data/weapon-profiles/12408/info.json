@@ -1,0 +1,13 @@
+{
+  "id": 12408,
+  "name": "Blackcliff Slasher",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to pommel.",
+  "icon": "weapon-profiles/12408/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513
+}

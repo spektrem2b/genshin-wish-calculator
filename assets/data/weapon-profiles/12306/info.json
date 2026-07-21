@@ -1,0 +1,13 @@
+{
+  "id": 12306,
+  "name": "Skyrider Greatsword",
+  "type": "Claymore",
+  "rarity": 3,
+  "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.",
+  "icon": "weapon-profiles/12306/avatar.png",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.0956,
+  "substat_lvl90": 0.4392
+}

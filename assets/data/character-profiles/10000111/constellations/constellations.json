@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Undying Passion",
+    "description": "The effects of the Ascension Talent \"Tag-Team Triple Jump!\" are enhanced:\nWhen performing the Special Plunging Attack \"Thunderous Tornado Eruption,\" Varesa will also gain \"Rainbow Crash\" for 5s.\nWhen \"Rainbow Crash\" is in effect, Varesa's Plunging Attack ground impact DMG is increased by 180% of her ATK, whether she is in the Fiery Passion state or not. You must first unlock the Ascension Talent \"Tag-Team Triple Jump!\" to access the above effect.\n\nAdditionally, when Varesa is in the Sudden Onrush mode of her Nightsoul's Blessing, she consumes 30% less Nightsoul points or Phlogiston.",
+    "icon": "character-profiles/10000111/constellations/00_const.png"
+  },
+  {
+    "name": "Beyond the Edge of Light",
+    "description": "Varesa will enter Apex Drive after using a Plunging Attack, regardless of whether she is in the Fiery Passion state or not.\nWhen Apex Drive is active, Varesa's interruption resistance will also further increase.\nAdditionally, Varesa will restore 11.5 Energy when her Plunging Attack ground impact hits an opponent.",
+    "icon": "character-profiles/10000111/constellations/01_const.png"
+  },
+  {
+    "name": "Unbowed Resolve",
+    "description": "Increases the Level of Guardian Vent! by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000111/constellations/02_const.png"
+  },
+  {
+    "name": "The Courage to Press On",
+    "description": "Varesa will receive various buffs based on her state when using her Elemental Burst Guardian Vent! If Varesa:\n· Has neither Fiery Passion nor Apex Drive active, she will gain Diligent Refinement for 15s, which will increase her Plunging Attack ground impact DMG by 500% of her ATK, with a maximum increase of 20,000 DMG. This effect will be canceled once the ground impact hits an opponent, or if its duration ends.\n· If she has either Fiery Passion or Apex Drive active, this instance of her Elemental Burst Guardian Vent! deals 100% increased DMG.",
+    "icon": "character-profiles/10000111/constellations/03_const.png"
+  },
+  {
+    "name": "Thoughts Floating on the Warm Breeze",
+    "description": "Increases the Level of Normal Attack: By the Horns by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000111/constellations/04_const.png"
+  },
+  {
+    "name": "A Hero of Justice's Triumph",
+    "description": "Varesa restores 30 Energy when she enters Apex Drive.\nHer Plunging Attacks and Elemental Burst Guardian Vent! gain 10% CRIT Rate and 100% CRIT DMG.\nAdditionally, when Varesa uses the Hold version of her Elemental Skill Riding the Night-Rainbow, or Taps her Elemental Skill while in the Sudden Onrush mode, she will restore Nightsoul points up to her maximum.",
+    "icon": "character-profiles/10000111/constellations/05_const.png"
+  }
+]

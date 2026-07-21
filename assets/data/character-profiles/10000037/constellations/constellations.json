@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dew-Drinker",
+    "description": "Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' Cryo RES by 15% for 6s upon hit.\nA hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target.",
+    "icon": "character-profiles/10000037/constellations/00_const.png"
+  },
+  {
+    "name": "The Auspicious",
+    "description": "Trail of the Qilin gains 1 additional charge.",
+    "icon": "character-profiles/10000037/constellations/01_const.png"
+  },
+  {
+    "name": "Cloud-Strider",
+    "description": "Increases the Level of Celestial Shower by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000037/constellations/02_const.png"
+  },
+  {
+    "name": "Westward Sojourn",
+    "description": "Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time.\nIncreased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE.",
+    "icon": "character-profiles/10000037/constellations/03_const.png"
+  },
+  {
+    "name": "The Merciful",
+    "description": "Increases the Level of Trail of the Qilin by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000037/constellations/04_const.png"
+  },
+  {
+    "name": "The Clement",
+    "description": "Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging.",
+    "icon": "character-profiles/10000037/constellations/05_const.png"
+  }
+]

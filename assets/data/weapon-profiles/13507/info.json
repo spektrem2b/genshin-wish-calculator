@@ -1,0 +1,13 @@
+{
+  "id": 13507,
+  "name": "Calamity Queller",
+  "type": "Polearm",
+  "rarity": 5,
+  "description": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past.",
+  "icon": "weapon-profiles/13507/avatar.png",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.036,
+  "substat_lvl90": 0.1654
+}

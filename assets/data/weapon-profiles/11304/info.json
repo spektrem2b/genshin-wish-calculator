@@ -1,0 +1,13 @@
+{
+  "id": 11304,
+  "name": "Dark Iron Sword",
+  "type": "Sword",
+  "rarity": 3,
+  "description": "A perfectly ordinary iron sword, just slightly darker than most.",
+  "icon": "weapon-profiles/11304/avatar.png",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 30.6,
+  "substat_lvl90": 140.5764
+}

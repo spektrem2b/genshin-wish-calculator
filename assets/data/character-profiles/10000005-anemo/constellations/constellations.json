@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Raging Vortex",
+    "description": "Palm Vortex pulls in opponents and objects within a 5m radius.",
+    "icon": "character-profiles/10000005-anemo/constellations/00_const.png"
+  },
+  {
+    "name": "Uprising Whirlwind",
+    "description": "Increases Energy Recharge by 16%.",
+    "icon": "character-profiles/10000005-anemo/constellations/01_const.png"
+  },
+  {
+    "name": "Sweeping Gust",
+    "description": "Increases the Level of Gust Surge by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000005-anemo/constellations/02_const.png"
+  },
+  {
+    "name": "Cherishing Breezes",
+    "description": "Reduces DMG taken while casting Palm Vortex by 10%.",
+    "icon": "character-profiles/10000005-anemo/constellations/03_const.png"
+  },
+  {
+    "name": "Vortex Stellaris",
+    "description": "Increases the Level of Palm Vortex by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000005-anemo/constellations/04_const.png"
+  },
+  {
+    "name": "Intertwined Winds",
+    "description": "Targets who take DMG from Gust Surge have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+    "icon": "character-profiles/10000005-anemo/constellations/05_const.png"
+  }
+]

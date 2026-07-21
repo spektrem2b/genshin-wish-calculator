@@ -1,0 +1,13 @@
+{
+  "id": 13426,
+  "name": "Dialogues of the Desert Sages",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A caduceus symbolizing the glory of alchemy, made from special alloys to match its special status. It is exceedingly rigid and heavy, and would probably hurt pretty bad if used as a cudgel.",
+  "icon": "weapon-profiles/13426/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

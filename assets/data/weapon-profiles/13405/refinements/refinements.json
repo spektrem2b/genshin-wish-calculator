@@ -1,0 +1,25 @@
+{
+  "name": "Gladiator",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "If there are at least 2 opponents nearby, ATK is increased by 16% and DEF is increased by 16%. If there are fewer than 2 opponents nearby, ATK is increased by 24%."
+    },
+    {
+      "refinement": 2,
+      "description": "If there are at least 2 opponents nearby, ATK is increased by 20% and DEF is increased by 20%. If there are fewer than 2 opponents nearby, ATK is increased by 30%."
+    },
+    {
+      "refinement": 3,
+      "description": "If there are at least 2 opponents nearby, ATK is increased by 24% and DEF is increased by 24%. If there are fewer than 2 opponents nearby, ATK is increased by 36%."
+    },
+    {
+      "refinement": 4,
+      "description": "If there are at least 2 opponents nearby, ATK is increased by 28% and DEF is increased by 28%. If there are fewer than 2 opponents nearby, ATK is increased by 42%."
+    },
+    {
+      "refinement": 5,
+      "description": "If there are at least 2 opponents nearby, ATK is increased by 32% and DEF is increased by 32%. If there are fewer than 2 opponents nearby, ATK is increased by 48%."
+    }
+  ]
+}

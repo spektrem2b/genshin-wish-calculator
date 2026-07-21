@@ -1,0 +1,13 @@
+{
+  "id": 11431,
+  "name": "Flute of Ezpitzal",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A peculiarly shaped jade longsword that has been passed down amongst the Masters of the Night-Wind as a \"priestly flute.\"",
+  "icon": "weapon-profiles/11431/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.150133,
+  "substat_lvl90": 0.6897
+}

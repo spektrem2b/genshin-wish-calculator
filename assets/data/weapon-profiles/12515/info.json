@@ -1,0 +1,13 @@
+{
+  "id": 12515,
+  "name": "Gest of the Mighty Wolf",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "Legend has it that this greatsword was forged by the hand of Ravenwood, who inherited the name of Boreas, prior to his ascension to knighthood.",
+  "icon": "weapon-profiles/12515/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308
+}

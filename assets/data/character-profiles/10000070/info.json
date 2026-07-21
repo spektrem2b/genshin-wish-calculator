@@ -1,0 +1,14 @@
+{
+  "id": "10000070",
+  "name": "Nilou",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 12,
+    "day": 3
+  },
+  "release": "2022-10-14T15:00:00",
+  "icon": "character-profiles/10000070/avatar.png"
+}

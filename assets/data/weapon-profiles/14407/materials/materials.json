@@ -1,0 +1,311 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 112002,
+      "name": "Slime Condensate",
+      "icon": "shared-assets/materials/112002.png",
+      "rarity": 1
+    },
+    {
+      "id": 112003,
+      "name": "Slime Secretions",
+      "icon": "shared-assets/materials/112003.png",
+      "rarity": 2
+    },
+    {
+      "id": 112004,
+      "name": "Slime Concentrate",
+      "icon": "shared-assets/materials/112004.png",
+      "rarity": 3
+    },
+    {
+      "id": 112041,
+      "name": "Fragile Bone Shard",
+      "icon": "shared-assets/materials/112041.png",
+      "rarity": 2
+    },
+    {
+      "id": 112042,
+      "name": "Sturdy Bone Shard",
+      "icon": "shared-assets/materials/112042.png",
+      "rarity": 3
+    },
+    {
+      "id": 112043,
+      "name": "Fossilized Bone Shard",
+      "icon": "shared-assets/materials/112043.png",
+      "rarity": 4
+    },
+    {
+      "id": 114021,
+      "name": "Grain of Aerosiderite",
+      "icon": "shared-assets/materials/114021.png",
+      "rarity": 2
+    },
+    {
+      "id": 114022,
+      "name": "Piece of Aerosiderite",
+      "icon": "shared-assets/materials/114022.png",
+      "rarity": 3
+    },
+    {
+      "id": 114023,
+      "name": "Bit of Aerosiderite",
+      "icon": "shared-assets/materials/114023.png",
+      "rarity": 4
+    },
+    {
+      "id": 114024,
+      "name": "Chunk of Aerosiderite",
+      "icon": "shared-assets/materials/114024.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112002,
+      "name": "Slime Condensate",
+      "icon": "shared-assets/materials/112002.png",
+      "rarity": 1
+    },
+    {
+      "id": 112003,
+      "name": "Slime Secretions",
+      "icon": "shared-assets/materials/112003.png",
+      "rarity": 2
+    },
+    {
+      "id": 112004,
+      "name": "Slime Concentrate",
+      "icon": "shared-assets/materials/112004.png",
+      "rarity": 3
+    },
+    {
+      "id": 112041,
+      "name": "Fragile Bone Shard",
+      "icon": "shared-assets/materials/112041.png",
+      "rarity": 2
+    },
+    {
+      "id": 112042,
+      "name": "Sturdy Bone Shard",
+      "icon": "shared-assets/materials/112042.png",
+      "rarity": 3
+    },
+    {
+      "id": 112043,
+      "name": "Fossilized Bone Shard",
+      "icon": "shared-assets/materials/112043.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114021,
+      "name": "Grain of Aerosiderite",
+      "icon": "shared-assets/materials/114021.png",
+      "rarity": 2
+    },
+    {
+      "id": 114022,
+      "name": "Piece of Aerosiderite",
+      "icon": "shared-assets/materials/114022.png",
+      "rarity": 3
+    },
+    {
+      "id": 114023,
+      "name": "Bit of Aerosiderite",
+      "icon": "shared-assets/materials/114023.png",
+      "rarity": 4
+    },
+    {
+      "id": 114024,
+      "name": "Chunk of Aerosiderite",
+      "icon": "shared-assets/materials/114024.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "icon": "shared-assets/materials/112002.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 112041,
+          "name": "Fragile Bone Shard",
+          "icon": "shared-assets/materials/112041.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 114021,
+          "name": "Grain of Aerosiderite",
+          "icon": "shared-assets/materials/114021.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112002,
+          "name": "Slime Condensate",
+          "icon": "shared-assets/materials/112002.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 112041,
+          "name": "Fragile Bone Shard",
+          "icon": "shared-assets/materials/112041.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 114022,
+          "name": "Piece of Aerosiderite",
+          "icon": "shared-assets/materials/114022.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "icon": "shared-assets/materials/112003.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 112042,
+          "name": "Sturdy Bone Shard",
+          "icon": "shared-assets/materials/112042.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114022,
+          "name": "Piece of Aerosiderite",
+          "icon": "shared-assets/materials/114022.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112003,
+          "name": "Slime Secretions",
+          "icon": "shared-assets/materials/112003.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112042,
+          "name": "Sturdy Bone Shard",
+          "icon": "shared-assets/materials/112042.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114023,
+          "name": "Bit of Aerosiderite",
+          "icon": "shared-assets/materials/114023.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "icon": "shared-assets/materials/112004.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112043,
+          "name": "Fossilized Bone Shard",
+          "icon": "shared-assets/materials/112043.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 114023,
+          "name": "Bit of Aerosiderite",
+          "icon": "shared-assets/materials/114023.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112004,
+          "name": "Slime Concentrate",
+          "icon": "shared-assets/materials/112004.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112043,
+          "name": "Fossilized Bone Shard",
+          "icon": "shared-assets/materials/112043.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 114024,
+          "name": "Chunk of Aerosiderite",
+          "icon": "shared-assets/materials/114024.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Deathly Pact",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "CRIT DMG increased by 20%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 16% for 6s. Max 3 stacks."
+    },
+    {
+      "refinement": 2,
+      "description": "CRIT DMG increased by 25%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 20% for 6s. Max 3 stacks."
+    },
+    {
+      "refinement": 3,
+      "description": "CRIT DMG increased by 30%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 24% for 6s. Max 3 stacks."
+    },
+    {
+      "refinement": 4,
+      "description": "CRIT DMG increased by 35%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 28% for 6s. Max 3 stacks."
+    },
+    {
+      "refinement": 5,
+      "description": "CRIT DMG increased by 40%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 32% for 6s. Max 3 stacks."
+    }
+  ]
+}

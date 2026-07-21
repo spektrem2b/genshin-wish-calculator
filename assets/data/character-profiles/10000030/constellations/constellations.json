@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rock, the Backbone of Earth",
+    "description": "Increases the maximum number of Stone Steles created by Dominus Lapidis that may exist simultaneously to 2.",
+    "icon": "character-profiles/10000030/constellations/00_const.png"
+  },
+  {
+    "name": "Stone, the Cradle of Jade",
+    "description": "Planet Befall grants nearby characters on the field a Jade Shield when it descends.",
+    "icon": "character-profiles/10000030/constellations/01_const.png"
+  },
+  {
+    "name": "Jade, Shimmering through Darkness",
+    "description": "Increases the Level of Dominus Lapidis by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000030/constellations/02_const.png"
+  },
+  {
+    "name": "Topaz, Unbreakable and Fearless",
+    "description": "Increases Planet Befall's AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s.",
+    "icon": "character-profiles/10000030/constellations/03_const.png"
+  },
+  {
+    "name": "Lazuli, Herald of the Order",
+    "description": "Increases the Level of Planet Befall by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000030/constellations/04_const.png"
+  },
+  {
+    "name": "Chrysos, Bounty of Dominator",
+    "description": "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character's Max HP.",
+    "icon": "character-profiles/10000030/constellations/05_const.png"
+  }
+]

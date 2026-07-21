@@ -1,0 +1,13 @@
+{
+  "id": 14305,
+  "name": "Twin Nephrite",
+  "type": "Catalyst",
+  "rarity": 3,
+  "description": "A jade pendant formed by piecing together two jade stones.",
+  "icon": "weapon-profiles/14305/avatar.png",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.034,
+  "substat_lvl90": 0.1562
+}

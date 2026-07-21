@@ -1,0 +1,32 @@
+[
+  {
+    "name": "One Arrow to Rule Them All",
+    "description": "Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.",
+    "icon": "character-profiles/10000021/constellations/00_const.png"
+  },
+  {
+    "name": "Bunny Triggered",
+    "description": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG.",
+    "icon": "character-profiles/10000021/constellations/01_const.png"
+  },
+  {
+    "name": "It Burns!",
+    "description": "Increases the Level of Fiery Rain by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000021/constellations/02_const.png"
+  },
+  {
+    "name": "It's Not Just Any Doll...",
+    "description": "Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge.",
+    "icon": "character-profiles/10000021/constellations/03_const.png"
+  },
+  {
+    "name": "It's Baron Bunny!",
+    "description": "Increases the Level of Explosive Puppet by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000021/constellations/04_const.png"
+  },
+  {
+    "name": "Wildfire",
+    "description": "Fiery Rain increases all party members' Movement SPD by 15% and ATK by 15% for 10s.",
+    "icon": "character-profiles/10000021/constellations/05_const.png"
+  }
+]

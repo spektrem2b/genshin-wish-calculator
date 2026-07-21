@@ -1,0 +1,25 @@
+{
+  "name": "Undying Admiration",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases Elemental Skill DMG by 16% and Elemental Skill CRIT Rate by 6%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases Elemental Skill DMG by 20% and Elemental Skill CRIT Rate by 7.5%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases Elemental Skill DMG by 24% and Elemental Skill CRIT Rate by 9%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases Elemental Skill DMG by 28% and Elemental Skill CRIT Rate by 10.5%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases Elemental Skill DMG by 32% and Elemental Skill CRIT Rate by 12%."
+    }
+  ]
+}

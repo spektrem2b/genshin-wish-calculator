@@ -1,0 +1,14 @@
+{
+  "id": "10000067",
+  "name": "Collei",
+  "element": "Dendro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 5,
+    "day": 8
+  },
+  "release": "2022-08-23T21:00:00",
+  "icon": "character-profiles/10000067/avatar.png"
+}

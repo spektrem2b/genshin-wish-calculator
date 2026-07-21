@@ -1,0 +1,25 @@
+{
+  "name": "Secret Silver's Testament",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases Elemental Burst DMG by 20%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 16%/28%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases Elemental Burst DMG by 25%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 20%/35%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases Elemental Burst DMG by 30%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 24%/42%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases Elemental Burst DMG by 35%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 28%/49%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases Elemental Burst DMG by 40%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 32%/56%."
+    }
+  ]
+}

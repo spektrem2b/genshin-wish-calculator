@@ -1,0 +1,34 @@
+{
+  "1": {
+    "curveInfos": {
+      "GROW_CURVE_HP_S4": 1,
+      "GROW_CURVE_ATTACK_S4": 1,
+      "GROW_CURVE_HP_S5": 1,
+      "GROW_CURVE_ATTACK_S5": 1
+    }
+  },
+  "90": {
+    "curveInfos": {
+      "GROW_CURVE_HP_S4": 8.349,
+      "GROW_CURVE_ATTACK_S4": 8.349,
+      "GROW_CURVE_HP_S5": 8.739,
+      "GROW_CURVE_ATTACK_S5": 8.739
+    }
+  },
+  "95": {
+    "curveInfos": {
+      "GROW_CURVE_HP_S4": 8.761,
+      "GROW_CURVE_ATTACK_S4": 9.87,
+      "GROW_CURVE_HP_S5": 9.195,
+      "GROW_CURVE_ATTACK_S5": 10.184
+    }
+  },
+  "100": {
+    "curveInfos": {
+      "GROW_CURVE_HP_S4": 9.174,
+      "GROW_CURVE_ATTACK_S4": 11.392,
+      "GROW_CURVE_HP_S5": 9.652,
+      "GROW_CURVE_ATTACK_S5": 11.629
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 15409,
+  "name": "The Viridescent Hunt",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest.",
+  "icon": "weapon-profiles/15409/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

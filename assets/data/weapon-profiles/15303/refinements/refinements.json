@@ -1,0 +1,25 @@
+{
+  "name": "Cull the Weak",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Defeating an opponent restores 8% HP."
+    },
+    {
+      "refinement": 2,
+      "description": "Defeating an opponent restores 10% HP."
+    },
+    {
+      "refinement": 3,
+      "description": "Defeating an opponent restores 12% HP."
+    },
+    {
+      "refinement": 4,
+      "description": "Defeating an opponent restores 14% HP."
+    },
+    {
+      "refinement": 5,
+      "description": "Defeating an opponent restores 16% HP."
+    }
+  ]
+}

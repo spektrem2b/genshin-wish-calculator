@@ -1,0 +1,14 @@
+{
+  "id": "10000078",
+  "name": "Alhaitham",
+  "element": "Dendro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 2,
+    "day": 11
+  },
+  "release": "2023-01-16T22:00:00",
+  "icon": "character-profiles/10000078/avatar.png"
+}

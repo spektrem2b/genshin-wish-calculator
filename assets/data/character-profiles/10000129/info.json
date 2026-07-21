@@ -1,0 +1,14 @@
+{
+  "id": "10000129",
+  "name": "Lohen",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 4,
+    "day": 3
+  },
+  "release": "2026-06-09T15:00:00",
+  "icon": "character-profiles/10000129/avatar.png"
+}

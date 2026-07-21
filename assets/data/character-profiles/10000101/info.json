@@ -1,0 +1,14 @@
+{
+  "id": "10000101",
+  "name": "Kinich",
+  "element": "Dendro",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 11,
+    "day": 11
+  },
+  "release": "2024-09-17T15:00:00",
+  "icon": "character-profiles/10000101/avatar.png"
+}

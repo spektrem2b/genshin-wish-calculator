@@ -1,0 +1,13 @@
+{
+  "id": 12418,
+  "name": "Mailed Flower",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A graceful and elegant greatsword that is decorated with flowers and ribbons.",
+  "icon": "weapon-profiles/12418/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256
+}

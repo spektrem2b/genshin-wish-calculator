@@ -1,0 +1,25 @@
+{
+  "name": "Dodoventure!",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Normal Attack hits on opponents increase Charged Attack DMG by 16% for 6s. Charged Attack hits on opponents increase ATK by 8% for 6s."
+    },
+    {
+      "refinement": 2,
+      "description": "Normal Attack hits on opponents increase Charged Attack DMG by 20% for 6s. Charged Attack hits on opponents increase ATK by 10% for 6s."
+    },
+    {
+      "refinement": 3,
+      "description": "Normal Attack hits on opponents increase Charged Attack DMG by 24% for 6s. Charged Attack hits on opponents increase ATK by 12% for 6s."
+    },
+    {
+      "refinement": 4,
+      "description": "Normal Attack hits on opponents increase Charged Attack DMG by 28% for 6s. Charged Attack hits on opponents increase ATK by 14% for 6s."
+    },
+    {
+      "refinement": 5,
+      "description": "Normal Attack hits on opponents increase Charged Attack DMG by 32% for 6s. Charged Attack hits on opponents increase ATK by 16% for 6s."
+    }
+  ]
+}

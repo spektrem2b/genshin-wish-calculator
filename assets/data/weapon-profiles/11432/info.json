@@ -1,0 +1,13 @@
+{
+  "id": 11432,
+  "name": "Calamity of Eshu",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A ceremonial blade forged by Sanhaj, the great high priest of the Masters of the Night-Wind. In tales of bygone days, Sanhaj could use this curved blade to perform rituals, blurring the boundary between the Night Kingdom and the present world.",
+  "icon": "weapon-profiles/11432/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

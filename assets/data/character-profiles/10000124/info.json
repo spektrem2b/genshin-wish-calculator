@@ -1,0 +1,14 @@
+{
+  "id": "10000124",
+  "name": "Jahoda",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 1,
+    "day": 5
+  },
+  "release": "2025-12-01T22:00:00",
+  "icon": "character-profiles/10000124/avatar.png"
+}

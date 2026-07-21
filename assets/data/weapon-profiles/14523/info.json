@@ -1,0 +1,13 @@
+{
+  "id": 14523,
+  "name": "Angelos' Heptades",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": "A golden box as splendid as the light of the heavens. According to legend, it once belonged to a divine envoy of the Eternal Court.",
+  "icon": "weapon-profiles/14523/avatar.png",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.036,
+  "substat_lvl90": 0.1654
+}

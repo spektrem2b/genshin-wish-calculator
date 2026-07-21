@@ -1,0 +1,14 @@
+{
+  "id": "10000090",
+  "name": "Chevreuse",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 1,
+    "day": 10
+  },
+  "release": "2024-01-09T16:00:00",
+  "icon": "character-profiles/10000090/avatar.png"
+}

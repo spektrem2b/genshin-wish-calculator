@@ -1,0 +1,13 @@
+{
+  "id": 13417,
+  "name": "Moonpiercer",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear.",
+  "icon": "weapon-profiles/13417/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256
+}

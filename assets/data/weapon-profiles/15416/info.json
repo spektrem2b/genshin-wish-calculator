@@ -1,0 +1,13 @@
+{
+  "id": 15416,
+  "name": "Mouun's Moon",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms.",
+  "icon": "weapon-profiles/15416/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

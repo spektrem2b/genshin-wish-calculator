@@ -1,0 +1,13 @@
+{
+  "id": 14430,
+  "name": "Waveriding Whirl",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A boomerang made from the fangs of a giant sea serpent. It was a rare weapon indeed that the giant Tupac would call \"trusty.\"",
+  "icon": "weapon-profiles/14430/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125
+}

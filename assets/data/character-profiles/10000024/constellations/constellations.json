@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sea Beast's Scourge",
+    "description": "When Stormbreaker is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs Electro DMG 250% more effectively.",
+    "icon": "character-profiles/10000024/constellations/00_const.png"
+  },
+  {
+    "name": "Upon the Turbulent Sea, the Thunder Arises",
+    "description": "Stormbreaker's arc lightning can jump to 2 additional targets.",
+    "icon": "character-profiles/10000024/constellations/01_const.png"
+  },
+  {
+    "name": "Summoner of Storm",
+    "description": "Increases the Level of Tidecaller by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000024/constellations/02_const.png"
+  },
+  {
+    "name": "Stunning Revenge",
+    "description": "Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% Electro DMG for 10s.",
+    "icon": "character-profiles/10000024/constellations/03_const.png"
+  },
+  {
+    "name": "Crimson Tidewalker",
+    "description": "Increases the Level of Stormbreaker by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000024/constellations/04_const.png"
+  },
+  {
+    "name": "Bane of Evil",
+    "description": "During the duration of Stormbreaker, the Electro RES of surrounding opponents is decreased by 15%.",
+    "icon": "character-profiles/10000024/constellations/05_const.png"
+  }
+]

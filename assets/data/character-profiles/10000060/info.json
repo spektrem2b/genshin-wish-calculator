@@ -1,0 +1,14 @@
+{
+  "id": "10000060",
+  "name": "Yelan",
+  "element": "Hydro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 4,
+    "day": 20
+  },
+  "release": "2022-05-30T21:00:00",
+  "icon": "character-profiles/10000060/avatar.png"
+}

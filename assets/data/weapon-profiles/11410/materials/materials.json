@@ -1,0 +1,311 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 112008,
+      "name": "Divining Scroll",
+      "icon": "shared-assets/materials/112008.png",
+      "rarity": 1
+    },
+    {
+      "id": 112009,
+      "name": "Sealed Scroll",
+      "icon": "shared-assets/materials/112009.png",
+      "rarity": 2
+    },
+    {
+      "id": 112010,
+      "name": "Forbidden Curse Scroll",
+      "icon": "shared-assets/materials/112010.png",
+      "rarity": 3
+    },
+    {
+      "id": 112014,
+      "name": "Heavy Horn",
+      "icon": "shared-assets/materials/112014.png",
+      "rarity": 2
+    },
+    {
+      "id": 112015,
+      "name": "Black Bronze Horn",
+      "icon": "shared-assets/materials/112015.png",
+      "rarity": 3
+    },
+    {
+      "id": 112016,
+      "name": "Black Crystal Horn",
+      "icon": "shared-assets/materials/112016.png",
+      "rarity": 4
+    },
+    {
+      "id": 114001,
+      "name": "Tile of Decarabian's Tower",
+      "icon": "shared-assets/materials/114001.png",
+      "rarity": 2
+    },
+    {
+      "id": 114002,
+      "name": "Debris of Decarabian's City",
+      "icon": "shared-assets/materials/114002.png",
+      "rarity": 3
+    },
+    {
+      "id": 114003,
+      "name": "Fragment of Decarabian's Epic",
+      "icon": "shared-assets/materials/114003.png",
+      "rarity": 4
+    },
+    {
+      "id": 114004,
+      "name": "Scattered Piece of Decarabian's Dream",
+      "icon": "shared-assets/materials/114004.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112008,
+      "name": "Divining Scroll",
+      "icon": "shared-assets/materials/112008.png",
+      "rarity": 1
+    },
+    {
+      "id": 112009,
+      "name": "Sealed Scroll",
+      "icon": "shared-assets/materials/112009.png",
+      "rarity": 2
+    },
+    {
+      "id": 112010,
+      "name": "Forbidden Curse Scroll",
+      "icon": "shared-assets/materials/112010.png",
+      "rarity": 3
+    },
+    {
+      "id": 112014,
+      "name": "Heavy Horn",
+      "icon": "shared-assets/materials/112014.png",
+      "rarity": 2
+    },
+    {
+      "id": 112015,
+      "name": "Black Bronze Horn",
+      "icon": "shared-assets/materials/112015.png",
+      "rarity": 3
+    },
+    {
+      "id": 112016,
+      "name": "Black Crystal Horn",
+      "icon": "shared-assets/materials/112016.png",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114001,
+      "name": "Tile of Decarabian's Tower",
+      "icon": "shared-assets/materials/114001.png",
+      "rarity": 2
+    },
+    {
+      "id": 114002,
+      "name": "Debris of Decarabian's City",
+      "icon": "shared-assets/materials/114002.png",
+      "rarity": 3
+    },
+    {
+      "id": 114003,
+      "name": "Fragment of Decarabian's Epic",
+      "icon": "shared-assets/materials/114003.png",
+      "rarity": 4
+    },
+    {
+      "id": 114004,
+      "name": "Scattered Piece of Decarabian's Dream",
+      "icon": "shared-assets/materials/114004.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112008,
+          "name": "Divining Scroll",
+          "icon": "shared-assets/materials/112008.png",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 112014,
+          "name": "Heavy Horn",
+          "icon": "shared-assets/materials/112014.png",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 114001,
+          "name": "Tile of Decarabian's Tower",
+          "icon": "shared-assets/materials/114001.png",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112008,
+          "name": "Divining Scroll",
+          "icon": "shared-assets/materials/112008.png",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 112014,
+          "name": "Heavy Horn",
+          "icon": "shared-assets/materials/112014.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 114002,
+          "name": "Debris of Decarabian's City",
+          "icon": "shared-assets/materials/114002.png",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112009,
+          "name": "Sealed Scroll",
+          "icon": "shared-assets/materials/112009.png",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 112015,
+          "name": "Black Bronze Horn",
+          "icon": "shared-assets/materials/112015.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114002,
+          "name": "Debris of Decarabian's City",
+          "icon": "shared-assets/materials/114002.png",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112009,
+          "name": "Sealed Scroll",
+          "icon": "shared-assets/materials/112009.png",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112015,
+          "name": "Black Bronze Horn",
+          "icon": "shared-assets/materials/112015.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114003,
+          "name": "Fragment of Decarabian's Epic",
+          "icon": "shared-assets/materials/114003.png",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112010,
+          "name": "Forbidden Curse Scroll",
+          "icon": "shared-assets/materials/112010.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112016,
+          "name": "Black Crystal Horn",
+          "icon": "shared-assets/materials/112016.png",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 114003,
+          "name": "Fragment of Decarabian's Epic",
+          "icon": "shared-assets/materials/114003.png",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112010,
+          "name": "Forbidden Curse Scroll",
+          "icon": "shared-assets/materials/112010.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112016,
+          "name": "Black Crystal Horn",
+          "icon": "shared-assets/materials/112016.png",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 114004,
+          "name": "Scattered Piece of Decarabian's Dream",
+          "icon": "shared-assets/materials/114004.png",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

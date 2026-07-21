@@ -1,0 +1,13 @@
+{
+  "id": 15407,
+  "name": "Compound Bow",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.",
+  "icon": "weapon-profiles/15407/avatar.png",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.150133,
+  "substat_lvl90": 0.6897
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Morrow After the Golden Dusk",
+    "description": "When in Decoding mode, Fagio's Decoding Power increases at a 50% lower rate, and all party members deal 30% increased Stellar-Conduct DMG.",
+    "icon": "character-profiles/10000133/constellations/00_const.png"
+  },
+  {
+    "name": "An Heiress Gazed Into the Looking-Glass",
+    "description": "Radiance: Stellar-Conduct: Increases CRIT DMG from Charged Attack condensed beams by 40%. Also, each time a beam is fired, CRIT DMG dealt by all condensed beams fired during this Decoding mode period will be further increased by 20%. Max 3 stacks.",
+    "icon": "character-profiles/10000133/constellations/01_const.png"
+  },
+  {
+    "name": "Refuse the Wake of Dusk, the Moonlit Yoke",
+    "description": "Increases the Level of Formule Phenomenale: Self-Evident Proposition by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000133/constellations/02_const.png"
+  },
+  {
+    "name": "In Knowledge Lies the World's True Ground",
+    "description": "When Sandrone deals Stellar-Conduct DMG to an opponent, she will also summon an extra Prismatic Resonance Cannon to fire off a coordinated attack which deals Cryo DMG at 125% of her ATK. This DMG is considered Stellar-Conduct DMG, and the effect can occur once every 4s.",
+    "icon": "character-profiles/10000133/constellations/03_const.png"
+  },
+  {
+    "name": "Of All Beside, She Takes No Part",
+    "description": "Increases the Level of Formule Phenomenale: Q.E.D. by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000133/constellations/04_const.png"
+  },
+  {
+    "name": "Narcissus Wakes, Her Eyes Upon the Dawn",
+    "description": "When Fagio fires a condensed beam for the third time while in Decoding mode, the beam becomes a more powerful Condensed Cluster Beam that fires continuously. This beam will deal up to 4 additional instances of AoE Cryo DMG at 100% of Sandrone's ATK on top of any subsequent original beam fired.\nRadiance: Stellar-Conduct: The Condensed Cluster Beam will instead deal 4 additional instances of AoE Cryo DMG at 80% of Sandrone's ATK. This DMG is considered Stellar-Conduct DMG.\nAdditionally, all Stellar-Conduct DMG dealt by Sandrone is elevated by 20%.",
+    "icon": "character-profiles/10000133/constellations/05_const.png"
+  }
+]

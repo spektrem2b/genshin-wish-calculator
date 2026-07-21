@@ -1,0 +1,25 @@
+{
+  "name": "Heavy",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Normal Attacks deal an additional 160% ATK as DMG. Can only occur once every 10s."
+    },
+    {
+      "refinement": 2,
+      "description": "Normal Attacks deal an additional 200% ATK as DMG. This effect can only occur once every 10s."
+    },
+    {
+      "refinement": 3,
+      "description": "Normal Attacks deal an additional 240% ATK as DMG. This effect can only occur once every 10s."
+    },
+    {
+      "refinement": 4,
+      "description": "Normal Attacks deal an additional 280% ATK as DMG. This effect can only occur once every 10s."
+    },
+    {
+      "refinement": 5,
+      "description": "Normal Attacks deal an additional 320% ATK as DMG. This effect can only occur once every 10s."
+    }
+  ]
+}

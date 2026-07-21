@@ -1,0 +1,25 @@
+{
+  "name": "Energy Shower",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Picking up an Elemental Energy Orb/Particle recovers 1% HP."
+    },
+    {
+      "refinement": 2,
+      "description": "Each Elemental Orb or Particle collected restores 1.25% HP."
+    },
+    {
+      "refinement": 3,
+      "description": "Each Elemental Orb or Particle collected restores 1.5% HP."
+    },
+    {
+      "refinement": 4,
+      "description": "Each Elemental Orb or Particle collected restores 1.75% HP."
+    },
+    {
+      "refinement": 5,
+      "description": "Each Elemental Orb or Particle collected restores 2% HP."
+    }
+  ]
+}

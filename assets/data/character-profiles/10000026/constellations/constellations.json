@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dissolution Eon: Destroyer of Worlds",
+    "description": "Increases Lemniscatic Wind Cycling's charges by 1.",
+    "icon": "character-profiles/10000026/constellations/00_const.png"
+  },
+  {
+    "name": "Annihilation Eon: Blossom of Kaleidos",
+    "description": "When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.",
+    "icon": "character-profiles/10000026/constellations/01_const.png"
+  },
+  {
+    "name": "Conqueror of Evil: Wrath Deity",
+    "description": "Increases the Level of Lemniscatic Wind Cycling by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000026/constellations/02_const.png"
+  },
+  {
+    "name": "Transcension: Extinction of Suffering",
+    "description": "When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.",
+    "icon": "character-profiles/10000026/constellations/03_const.png"
+  },
+  {
+    "name": "Evolution Eon: Origin of Ignorance",
+    "description": "Increases the Level of Bane of All Evil by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000026/constellations/04_const.png"
+  },
+  {
+    "name": "Conqueror of Evil: Guardian Yaksha",
+    "description": "While under the effects of Bane of All Evil, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of Lemniscatic Wind Cycling, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.",
+    "icon": "character-profiles/10000026/constellations/05_const.png"
+  }
+]

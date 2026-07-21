@@ -1,0 +1,25 @@
+{
+  "name": "Slingshot",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 36%. Otherwise, decreases DMG by 10%."
+    },
+    {
+      "refinement": 2,
+      "description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 42%. Otherwise, decreases DMG by 10%."
+    },
+    {
+      "refinement": 3,
+      "description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 48%. Otherwise, decreases DMG by 10%."
+    },
+    {
+      "refinement": 4,
+      "description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 54%. Otherwise, decreases DMG by 10%."
+    },
+    {
+      "refinement": 5,
+      "description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 60%. Otherwise, decreases DMG by 10%."
+    }
+  ]
+}

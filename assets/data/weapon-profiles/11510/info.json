@@ -1,0 +1,13 @@
+{
+  "id": 11510,
+  "name": "Haran Geppaku Futsu",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves.",
+  "icon": "weapon-profiles/11510/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308
+}

@@ -1,0 +1,13 @@
+{
+  "id": 13414,
+  "name": "Kitain Cross Spear",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island.",
+  "icon": "weapon-profiles/13414/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256
+}

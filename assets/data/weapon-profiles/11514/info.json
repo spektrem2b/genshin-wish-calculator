@@ -1,0 +1,13 @@
+{
+  "id": 11514,
+  "name": "Uraku Misugiri",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "This famous blade was once created by the hand of Urakusai, the renowned literatus. Legend has it that it has never cut any living creature in all these hundreds of years.",
+  "icon": "weapon-profiles/11514/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

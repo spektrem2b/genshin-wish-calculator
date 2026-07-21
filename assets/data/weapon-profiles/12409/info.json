@@ -1,0 +1,13 @@
+{
+  "id": 12409,
+  "name": "Serpent Spine",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
+  "icon": "weapon-profiles/12409/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

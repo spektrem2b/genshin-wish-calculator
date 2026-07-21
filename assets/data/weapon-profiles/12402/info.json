@@ -1,0 +1,13 @@
+{
+  "id": 12402,
+  "name": "The Bell",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged.",
+  "icon": "weapon-profiles/12402/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

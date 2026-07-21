@@ -1,0 +1,13 @@
+{
+  "id": 14425,
+  "name": "Flowing Purity",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "A strangely-shaped anthology of scripts. All the scripts written by Coppelius are recorded within.",
+  "icon": "weapon-profiles/14425/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

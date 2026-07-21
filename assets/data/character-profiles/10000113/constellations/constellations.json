@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Vitiferous Elixir's Concoction",
+    "description": "When Supporting Fire hits an opponent, it will restore 6 Energy for Ifa. One such Energy restoration can be triggered once every 8s.",
+    "icon": "character-profiles/10000113/constellations/00_const.png"
+  },
+  {
+    "name": "Guiding Spirit of Ballistic Prayer",
+    "description": "When Ifa is in the Nightsoul's Blessing state, every Nightsoul point the party has above a total of 60 will grant Ifa 4 additional Rescue Essentials points.\nAdditionally, Ifa's Rescue Essentials limit is increased by 50.\nYou must first unlock the Ascension Talent Field Medic's Vision.",
+    "icon": "character-profiles/10000113/constellations/01_const.png"
+  },
+  {
+    "name": "Rebuttal in Negotiations With the Night",
+    "description": "Increases the Level of Airborne Disease Prevention by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000113/constellations/02_const.png"
+  },
+  {
+    "name": "Decayed Vessel's Permutation",
+    "description": "The restraining wind current created by the Elemental Burst Compound Sedation Field has its duration extended to 3s.\nAdditionally, Ifa gains 100 Elemental Mastery for 15s after using his Elemental Burst Compound Sedation Field.",
+    "icon": "character-profiles/10000113/constellations/03_const.png"
+  },
+  {
+    "name": "Vow of Universal Coexistence",
+    "description": "Increases the Level of Compound Sedation Field by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000113/constellations/04_const.png"
+  },
+  {
+    "name": "Oath on a Feathered Knot",
+    "description": "When Ifa uses the Hold version of his Supporting Fire, there is a 50% chance that he will fire an additional Tonicshot that deals 120% of Ifa's ATK as Anemo DMG. This DMG is considered Normal Attack DMG.\nAdditionally, when he is not in combat, Ifa will consume 20% less Nightsoul points and Phlogiston in his Nightsoul's Blessing state.",
+    "icon": "character-profiles/10000113/constellations/05_const.png"
+  }
+]

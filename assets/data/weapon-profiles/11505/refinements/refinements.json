@@ -1,0 +1,25 @@
+{
+  "name": "Protector's Virtue",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "HP increased by 20%. Additionally, provides an ATK Bonus based on 1.2% of the wielder's Max HP."
+    },
+    {
+      "refinement": 2,
+      "description": "HP increased by 25%. Additionally, provides an ATK Bonus based on 1.5% of the wielder's Max HP."
+    },
+    {
+      "refinement": 3,
+      "description": "HP increased by 30%. Additionally, provides an ATK Bonus based on 1.8% of the wielder's Max HP."
+    },
+    {
+      "refinement": 4,
+      "description": "HP increased by 35%. Additionally, provides an ATK Bonus based on 2.1% of the wielder's Max HP."
+    },
+    {
+      "refinement": 5,
+      "description": "HP increased by 40%. Additionally, provides an ATK Bonus based on 2.4% of the wielder's Max HP."
+    }
+  ]
+}

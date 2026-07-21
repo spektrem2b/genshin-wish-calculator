@@ -1,0 +1,14 @@
+{
+  "id": "10000049",
+  "name": "Yoimiya",
+  "element": "Pyro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 6,
+    "day": 21
+  },
+  "release": "2021-08-10T15:00:00",
+  "icon": "character-profiles/10000049/avatar.png"
+}

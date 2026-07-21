@@ -1,0 +1,13 @@
+{
+  "id": 11519,
+  "name": "Lightbearing Moonshard",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "A legendary sword, said to be forged from the glimmering moonlight gathered in a well by an adeptus hidden among clear springs. Its true form is revealed only at the meeting of dusk and dawn.",
+  "icon": "weapon-profiles/11519/avatar.png",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882
+}

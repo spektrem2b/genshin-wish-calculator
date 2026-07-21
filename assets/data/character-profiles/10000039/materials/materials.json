@@ -1,0 +1,391 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 100056,
+      "name": "Calla Lily",
+      "icon": "shared-assets/materials/100056.png",
+      "rarity": 1
+    },
+    {
+      "id": 104161,
+      "name": "Shivada Jade Sliver",
+      "icon": "shared-assets/materials/104161.png",
+      "rarity": 2
+    },
+    {
+      "id": 104162,
+      "name": "Shivada Jade Fragment",
+      "icon": "shared-assets/materials/104162.png",
+      "rarity": 3
+    },
+    {
+      "id": 104163,
+      "name": "Shivada Jade Chunk",
+      "icon": "shared-assets/materials/104163.png",
+      "rarity": 4
+    },
+    {
+      "id": 104164,
+      "name": "Shivada Jade Gemstone",
+      "icon": "shared-assets/materials/104164.png",
+      "rarity": 5
+    },
+    {
+      "id": 104301,
+      "name": "Teachings of Freedom",
+      "icon": "shared-assets/materials/104301.png",
+      "rarity": 2
+    },
+    {
+      "id": 104302,
+      "name": "Guide to Freedom",
+      "icon": "shared-assets/materials/104302.png",
+      "rarity": 3
+    },
+    {
+      "id": 104303,
+      "name": "Philosophies of Freedom",
+      "icon": "shared-assets/materials/104303.png",
+      "rarity": 4
+    },
+    {
+      "id": 104319,
+      "name": "Crown of Insight",
+      "icon": "shared-assets/materials/104319.png",
+      "rarity": 5
+    },
+    {
+      "id": 112011,
+      "name": "Firm Arrowhead",
+      "icon": "shared-assets/materials/112011.png",
+      "rarity": 1
+    },
+    {
+      "id": 112012,
+      "name": "Sharp Arrowhead",
+      "icon": "shared-assets/materials/112012.png",
+      "rarity": 2
+    },
+    {
+      "id": 112013,
+      "name": "Weathered Arrowhead",
+      "icon": "shared-assets/materials/112013.png",
+      "rarity": 3
+    },
+    {
+      "id": 113010,
+      "name": "Hoarfrost Core",
+      "icon": "shared-assets/materials/113010.png",
+      "rarity": 4
+    },
+    {
+      "id": 113014,
+      "name": "Shard of a Foul Legacy",
+      "icon": "shared-assets/materials/113014.png",
+      "rarity": 5
+    }
+  ],
+  "ascensionGems": [
+    {
+      "id": 104161,
+      "name": "Shivada Jade Sliver",
+      "icon": "shared-assets/materials/104161.png",
+      "rarity": 2
+    },
+    {
+      "id": 104162,
+      "name": "Shivada Jade Fragment",
+      "icon": "shared-assets/materials/104162.png",
+      "rarity": 3
+    },
+    {
+      "id": 104163,
+      "name": "Shivada Jade Chunk",
+      "icon": "shared-assets/materials/104163.png",
+      "rarity": 4
+    },
+    {
+      "id": 104164,
+      "name": "Shivada Jade Gemstone",
+      "icon": "shared-assets/materials/104164.png",
+      "rarity": 5
+    }
+  ],
+  "localSpecialty": [],
+  "talentBooks": [
+    {
+      "id": 104301,
+      "name": "Teachings of Freedom",
+      "icon": "shared-assets/materials/104301.png",
+      "rarity": 2
+    },
+    {
+      "id": 104302,
+      "name": "Guide to Freedom",
+      "icon": "shared-assets/materials/104302.png",
+      "rarity": 3
+    },
+    {
+      "id": 104303,
+      "name": "Philosophies of Freedom",
+      "icon": "shared-assets/materials/104303.png",
+      "rarity": 4
+    },
+    {
+      "id": 104319,
+      "name": "Crown of Insight",
+      "icon": "shared-assets/materials/104319.png",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112011,
+      "name": "Firm Arrowhead",
+      "icon": "shared-assets/materials/112011.png",
+      "rarity": 1
+    },
+    {
+      "id": 112012,
+      "name": "Sharp Arrowhead",
+      "icon": "shared-assets/materials/112012.png",
+      "rarity": 2
+    },
+    {
+      "id": 112013,
+      "name": "Weathered Arrowhead",
+      "icon": "shared-assets/materials/112013.png",
+      "rarity": 3
+    },
+    {
+      "id": 113010,
+      "name": "Hoarfrost Core",
+      "icon": "shared-assets/materials/113010.png",
+      "rarity": 4
+    },
+    {
+      "id": 113014,
+      "name": "Shard of a Foul Legacy",
+      "icon": "shared-assets/materials/113014.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "icon": "shared-assets/materials/100056.png",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 104161,
+          "name": "Shivada Jade Sliver",
+          "icon": "shared-assets/materials/104161.png",
+          "rarity": 2,
+          "qty": 1
+        },
+        {
+          "id": 112011,
+          "name": "Firm Arrowhead",
+          "icon": "shared-assets/materials/112011.png",
+          "rarity": 1,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 40000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "icon": "shared-assets/materials/100056.png",
+          "rarity": 1,
+          "qty": 10
+        },
+        {
+          "id": 104162,
+          "name": "Shivada Jade Fragment",
+          "icon": "shared-assets/materials/104162.png",
+          "rarity": 3,
+          "qty": 3
+        },
+        {
+          "id": 112011,
+          "name": "Firm Arrowhead",
+          "icon": "shared-assets/materials/112011.png",
+          "rarity": 1,
+          "qty": 15
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "icon": "shared-assets/materials/113010.png",
+          "rarity": 4,
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 60000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "icon": "shared-assets/materials/100056.png",
+          "rarity": 1,
+          "qty": 20
+        },
+        {
+          "id": 104162,
+          "name": "Shivada Jade Fragment",
+          "icon": "shared-assets/materials/104162.png",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112012,
+          "name": "Sharp Arrowhead",
+          "icon": "shared-assets/materials/112012.png",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "icon": "shared-assets/materials/113010.png",
+          "rarity": 4,
+          "qty": 4
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 80000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "icon": "shared-assets/materials/100056.png",
+          "rarity": 1,
+          "qty": 30
+        },
+        {
+          "id": 104163,
+          "name": "Shivada Jade Chunk",
+          "icon": "shared-assets/materials/104163.png",
+          "rarity": 4,
+          "qty": 3
+        },
+        {
+          "id": 112012,
+          "name": "Sharp Arrowhead",
+          "icon": "shared-assets/materials/112012.png",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "icon": "shared-assets/materials/113010.png",
+          "rarity": 4,
+          "qty": 8
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 100000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "icon": "shared-assets/materials/100056.png",
+          "rarity": 1,
+          "qty": 45
+        },
+        {
+          "id": 104163,
+          "name": "Shivada Jade Chunk",
+          "icon": "shared-assets/materials/104163.png",
+          "rarity": 4,
+          "qty": 6
+        },
+        {
+          "id": 112013,
+          "name": "Weathered Arrowhead",
+          "icon": "shared-assets/materials/112013.png",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "icon": "shared-assets/materials/113010.png",
+          "rarity": 4,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 120000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 100056,
+          "name": "Calla Lily",
+          "icon": "shared-assets/materials/100056.png",
+          "rarity": 1,
+          "qty": 60
+        },
+        {
+          "id": 104164,
+          "name": "Shivada Jade Gemstone",
+          "icon": "shared-assets/materials/104164.png",
+          "rarity": 5,
+          "qty": 6
+        },
+        {
+          "id": 112013,
+          "name": "Weathered Arrowhead",
+          "icon": "shared-assets/materials/112013.png",
+          "rarity": 3,
+          "qty": 24
+        },
+        {
+          "id": 113010,
+          "name": "Hoarfrost Core",
+          "icon": "shared-assets/materials/113010.png",
+          "rarity": 4,
+          "qty": 20
+        }
+      ]
+    }
+  ]
+}

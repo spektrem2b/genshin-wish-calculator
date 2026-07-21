@@ -1,0 +1,13 @@
+{
+  "id": 15405,
+  "name": "Rust",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
+  "icon": "weapon-profiles/15405/avatar.png",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135
+}

@@ -1,0 +1,13 @@
+{
+  "id": 14426,
+  "name": "Ballad of the Boundless Blue",
+  "type": "Catalyst",
+  "rarity": 4,
+  "description": "An anthology of exquisite poetry. It contains quite a few poems beloved by Mondstadters, concerning the skies, dandelions, and other such topics.",
+  "icon": "weapon-profiles/14426/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Prophecy of Submersion",
+    "description": "When any of your own party members hits an opponent affected by an Omen, the effects of Hydro-related Elemental Reactions are enhanced for 8s:\n· Electro-Charged DMG increases by 15%, Lunar-Charged DMG increases by 15%, Vaporize DMG increases by 15%, Hydro Swirl DMG increases by 15%, Lunar-Crystallize DMG increases by 15%.\n· Frozen duration is extended by 15%.",
+    "icon": "character-profiles/10000041/constellations/00_const.png"
+  },
+  {
+    "name": "Lunar Chain",
+    "description": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s.",
+    "icon": "character-profiles/10000041/constellations/01_const.png"
+  },
+  {
+    "name": "Restless Revolution",
+    "description": "Increases the Level of Stellaris Phantasm by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000041/constellations/02_const.png"
+  },
+  {
+    "name": "Prophecy of Oblivion",
+    "description": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%.",
+    "icon": "character-profiles/10000041/constellations/03_const.png"
+  },
+  {
+    "name": "Mockery of Fortuna",
+    "description": "Increases the Level of Mirror Reflection of Doom by 3.\nMaximum upgrade level is 15.",
+    "icon": "character-profiles/10000041/constellations/04_const.png"
+  },
+  {
+    "name": "Rhetorics of Calamitas",
+    "description": "Upon entering Illusory Torrent, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.",
+    "icon": "character-profiles/10000041/constellations/05_const.png"
+  }
+]

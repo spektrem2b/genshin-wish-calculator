@@ -1,0 +1,13 @@
+{
+  "id": 15304,
+  "name": "Slingshot",
+  "type": "Bow",
+  "rarity": 3,
+  "description": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.",
+  "icon": "weapon-profiles/15304/avatar.png",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.068,
+  "substat_lvl90": 0.3124
+}

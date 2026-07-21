@@ -1,0 +1,13 @@
+{
+  "id": 13408,
+  "name": "Royal Spear",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp.",
+  "icon": "weapon-profiles/13408/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756
+}

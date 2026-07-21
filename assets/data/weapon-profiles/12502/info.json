@@ -1,0 +1,13 @@
+{
+  "id": 12502,
+  "name": "Wolf's Gravestone",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.",
+  "icon": "weapon-profiles/12502/avatar.png",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962
+}

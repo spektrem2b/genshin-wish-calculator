@@ -1,0 +1,157 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 104319,
+      "name": "Crown of Insight",
+      "icon": "shared-assets/materials/104319.png",
+      "rarity": 5
+    },
+    {
+      "id": 104353,
+      "name": "Teachings of Conflict",
+      "icon": "shared-assets/materials/104353.png",
+      "rarity": 2
+    },
+    {
+      "id": 104354,
+      "name": "Guide to Conflict",
+      "icon": "shared-assets/materials/104354.png",
+      "rarity": 3
+    },
+    {
+      "id": 104355,
+      "name": "Philosophies of Conflict",
+      "icon": "shared-assets/materials/104355.png",
+      "rarity": 4
+    },
+    {
+      "id": 112104,
+      "name": "Sentry's Wooden Whistle",
+      "icon": "shared-assets/materials/112104.png",
+      "rarity": 1
+    },
+    {
+      "id": 112105,
+      "name": "Warrior's Metal Whistle",
+      "icon": "shared-assets/materials/112105.png",
+      "rarity": 2
+    },
+    {
+      "id": 112106,
+      "name": "Saurian-Crowned Warrior's Golden Whistle",
+      "icon": "shared-assets/materials/112106.png",
+      "rarity": 3
+    },
+    {
+      "id": 113069,
+      "name": "Eroded Sunfire",
+      "icon": "shared-assets/materials/113069.png",
+      "rarity": 5
+    }
+  ],
+  "ascensionGems": [],
+  "localSpecialty": [],
+  "talentBooks": [
+    {
+      "id": 104319,
+      "name": "Crown of Insight",
+      "icon": "shared-assets/materials/104319.png",
+      "rarity": 5
+    },
+    {
+      "id": 104353,
+      "name": "Teachings of Conflict",
+      "icon": "shared-assets/materials/104353.png",
+      "rarity": 2
+    },
+    {
+      "id": 104354,
+      "name": "Guide to Conflict",
+      "icon": "shared-assets/materials/104354.png",
+      "rarity": 3
+    },
+    {
+      "id": 104355,
+      "name": "Philosophies of Conflict",
+      "icon": "shared-assets/materials/104355.png",
+      "rarity": 4
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112104,
+      "name": "Sentry's Wooden Whistle",
+      "icon": "shared-assets/materials/112104.png",
+      "rarity": 1
+    },
+    {
+      "id": 112105,
+      "name": "Warrior's Metal Whistle",
+      "icon": "shared-assets/materials/112105.png",
+      "rarity": 2
+    },
+    {
+      "id": 112106,
+      "name": "Saurian-Crowned Warrior's Golden Whistle",
+      "icon": "shared-assets/materials/112106.png",
+      "rarity": 3
+    },
+    {
+      "id": 113069,
+      "name": "Eroded Sunfire",
+      "icon": "shared-assets/materials/113069.png",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": null,
+      "requiredPlayerLevel": 15,
+      "items": []
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": null,
+      "requiredPlayerLevel": 25,
+      "items": []
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": null,
+      "requiredPlayerLevel": 30,
+      "items": []
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": null,
+      "requiredPlayerLevel": 35,
+      "items": []
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": null,
+      "requiredPlayerLevel": 40,
+      "items": []
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": null,
+      "requiredPlayerLevel": 50,
+      "items": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 12403,
+  "name": "Sacrificial Greatsword",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "A ceremonial greatsword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+  "icon": "weapon-profiles/12403/avatar.png",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063
+}
