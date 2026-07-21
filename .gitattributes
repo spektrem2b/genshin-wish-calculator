@@ -1,0 +1,3 @@
+﻿*.js filter=stripjs
+*.css filter=stripcss
+*.html filter=striphtml
