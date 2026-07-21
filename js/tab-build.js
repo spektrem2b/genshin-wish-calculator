@@ -263,7 +263,7 @@
       accumulateCost([{ moraCost: bookCost.mora, items: bookCost.items }], ascensionTotals);
     }
     const talentTotals = { mora: 0, materials: {} };
-    const activeTalents = (profile.talents || []).filter((t) => t.levels);
+    const activeTalents = (profile.talents || []).filter((t) => t.levels && t.levels.length);
     const talentByKey = { basic: 0, skill: 1, burst: activeTalents.length - 1 };
     Object.keys(talentByKey).forEach((key) => {
       const talent = activeTalents[talentByKey[key]];
@@ -322,7 +322,7 @@
     }
   }
   function talentNamesLabel(profile) {
-    const activeTalents = (profile && profile.talents || []).filter((t) => t.levels);
+    const activeTalents = (profile && profile.talents || []).filter((t) => t.levels && t.levels.length);
     if (!activeTalents.length) return "Talents";
     const basic = activeTalents[0];
     const skill = activeTalents[1];
