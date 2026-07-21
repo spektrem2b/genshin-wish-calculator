@@ -263,10 +263,9 @@
       accumulateCost([{ moraCost: bookCost.mora, items: bookCost.items }], ascensionTotals);
     }
     const talentTotals = { mora: 0, materials: {} };
-    const activeTalents = (profile.talents || []).filter((t) => t.levels && t.levels.length);
-    const talentByKey = { basic: 0, skill: 1, burst: activeTalents.length - 1 };
-    Object.keys(talentByKey).forEach((key) => {
-      const talent = activeTalents[talentByKey[key]];
+    const talentTypeByKey = { basic: "normal_attack", skill: "skill", burst: "burst" };
+    Object.keys(talentTypeByKey).forEach((key) => {
+      const talent = (profile.talents || []).find((t) => t.type === talentTypeByKey[key]);
       if (!talent || !talent.levels) return;
       const plan = inputs.talents[key];
       const costsByLevel = {};
@@ -322,11 +321,10 @@
     }
   }
   function talentNamesLabel(profile) {
-    const activeTalents = (profile && profile.talents || []).filter((t) => t.levels && t.levels.length);
-    if (!activeTalents.length) return "Talents";
-    const basic = activeTalents[0];
-    const skill = activeTalents[1];
-    const burst = activeTalents[activeTalents.length - 1];
+    const talents = profile && profile.talents || [];
+    const basic = talents.find((t) => t.type === "normal_attack");
+    const skill = talents.find((t) => t.type === "skill");
+    const burst = talents.find((t) => t.type === "burst");
     if (!basic || !skill || !burst) return "Talents";
     return `${basic.name}/${skill.name}/${burst.name}`;
   }
