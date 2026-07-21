@@ -592,10 +592,10 @@
     const base = `assets/data/character-profiles/${id}`;
     const getJson = (url) => fetch(url).then((res) => res.ok ? res.json() : null).catch(() => null);
     return Promise.all([
-      getJson(`${base}/profile.json`),
-      getJson(`${base}/talents.json`),
-      getJson(`${base}/constellations.json`),
-      getJson(`${base}/materials.json`)
+      getJson(`${base}/info.json`),
+      getJson(`${base}/skills/talents.json`),
+      getJson(`${base}/constellations/constellations.json`),
+      getJson(`${base}/materials/materials.json`)
     ]).then(([profile, talents, constellations, materials]) => {
       if (!profile) return null;
       const merged = {
@@ -615,8 +615,8 @@
     const base = `assets/data/weapon-profiles/${id}`;
     const getJson = (url) => fetch(url).then((res) => res.ok ? res.json() : null).catch(() => null);
     return Promise.all([
-      getJson(`${base}/profile.json`),
-      getJson(`${base}/materials.json`)
+      getJson(`${base}/info.json`),
+      getJson(`${base}/materials/materials.json`)
     ]).then(([profile, materials]) => {
       if (!profile) return null;
       const merged = { ...profile, ...materials || {} };

@@ -311,7 +311,7 @@ function renderAssetList(query) {
             </div>
         `).join("");
   if (trimmed && !exactMatch) {
-    const customIcon = type === "character" ? "assets/data/custom_icons/Lumine_Placeholder_custom.webp" : "assets/data/custom_icons/Weapon_Dull_Blade_custom.webp";
+    const customIcon = type === "character" ? "assets/data/custom-icons/Lumine_Placeholder_custom.webp" : "assets/data/custom-icons/Weapon_Dull_Blade_custom.webp";
     html += `
                 <div class="autocomplete-item ac-custom" data-custom="${trimmed.replace(/"/g, "&quot;")}">
                     <img src="${customIcon}" alt="">
@@ -746,22 +746,9 @@ function calculateForecast() {
       const pitySaved = isFirstWep ? Math.min(parseInt(wepPityEl.value) || 0, wepWin - 1) : 0;
       if (item.strategy === "One Shot") return Math.max(1, wepWin - pitySaved);
       if (enteringGuaranteed) return Math.max(1, wepWin - pitySaved);
-      if (item.strategy === "Optional") {
-        return Math.max(1, wepWin - pitySaved);
-      }
       const cost = wepWin * (loses > 0 ? 2 : 1);
       return Math.max(1, cost - pitySaved);
     }
-  }
-  function getOutcome(item, loses, enteringGuaranteed) {
-    const label = item.type === "character" ? item.constellation : "R" + (item.refinement || 1);
-    if (item.type === "character") {
-      if (enteringGuaranteed) return `guaranteed ${label}`;
-      if (item.strategy === "Hard Lock") return loses > 0 ? `lose\u2192win ${label}` : `win ${label}`;
-      return loses > 0 ? `lose ${label}` : `win ${label}`;
-    }
-    if (item.strategy === "One Shot") return loses > 0 ? "lose (stop)" : `win ${label}`;
-    return loses > 0 ? `lose\u2192win ${label}` : `win ${label}`;
   }
   function runScenario(losePattern) {
     let totalSpent = 0;
@@ -810,7 +797,7 @@ function calculateForecast() {
           }
           charGuarantee = rowType === "lose";
         } else {
-          if (item.strategy === "Optional" && loses > 0 && !enteringGuaranteed) {
+          if (item.strategy === "One Shot" && loses > 0 && !enteringGuaranteed) {
             rowType = "lose";
           } else {
             rowType = loses > 0 ? "lose-win" : "win";
@@ -888,7 +875,7 @@ function calculateForecast() {
     }
     if (row.type === "lose") {
       const remClassLose = row.remaining > 50 ? "rem-ok" : row.remaining > 0 ? "rem-low" : "rem-deficit";
-      const loseReason = row.itemType === "weapon" ? "Not obtained \u2014 Optional, not chased" : "Not obtained \u2014 guarantee carries forward";
+      const loseReason = row.itemType === "weapon" ? "Not obtained \u2014 One Shot, not chased" : "Not obtained \u2014 guarantee carries forward";
       return `<div class="log-row row-lose">
                     ${rowIcon}
                     <div>
@@ -1213,15 +1200,21 @@ function renderScenarioSummary(results, ep, odds) {
     const cells = results.map((r) => {
       const row = r.rows[idx];
       const hideCls = mobileHideClass(r);
-      if (!row || row.type === "skip") {
-        const skipText = item.strategy === "Optional" ? "Skipped" : "\u2014";
-        return `<td class="scen-item-cell${hideCls}"><span class="scen-item-mark scen-item-na">${skipText}</span></td>`;
+      if (!row) {
+        return `<td class="scen-item-cell${hideCls}"><span class="scen-item-mark scen-item-na">\u2014</span></td>`;
+      }
+      if (row.type === "skip") {
+        const isOneShotSkip = item.strategy === "One Shot";
+        const isOptionalSkip = item.strategy === "Optional";
+        const skipText = isOneShotSkip || isOptionalSkip ? "Skipped" : "\u2014";
+        const skipTitle = row.reason ? ` title="${row.reason}"` : "";
+        return `<td class="scen-item-cell${hideCls}"><span class="scen-item-mark scen-item-na"${skipTitle}>${skipText}</span></td>`;
       }
       if (row.type === "deficit") {
         return `<td class="scen-item-cell${hideCls}"><span class="scen-item-mark scen-item-short">\u26D4 Short</span></td>`;
       }
       if (row.type === "lose") {
-        const onceLoseTitle = item.type === "weapon" ? "Missed the featured weapon \u2014 Optional doesn't chase the Epitomized Path, so the copy was not obtained this patch" : "Lost the featured 50/50 \u2014 this strategy doesn't chase the guarantee, so the copy was not obtained and the guarantee carries forward to the next character patch";
+        const onceLoseTitle = item.type === "weapon" ? "Missed the featured weapon \u2014 One Shot doesn't chase the Epitomized Path, so the copy was not obtained and the attempt ended there" : "Lost the featured 50/50 \u2014 this strategy doesn't chase the guarantee, so the copy was not obtained and the guarantee carries forward to the next character patch";
         return `<td class="scen-item-cell${hideCls}">
                         <span class="scen-item-mark scen-item-once-lose" style="color:var(--danger)" title="${onceLoseTitle}">
                             \u274C Once
@@ -1253,7 +1246,7 @@ function renderScenarioSummary(results, ep, odds) {
                         </span>
                     </td>`;
       }
-      const isSingleAttemptStrategy = row.strategy === "One Shot" || row.strategy === "Optional";
+      const isSingleAttemptStrategy = item.type === "weapon" ? row.strategy === "One Shot" : row.strategy === "One Shot" || row.strategy === "Optional";
       return `<td class="scen-item-cell${hideCls}">
                     <span class="scen-item-mark scen-item-win">\u2705 ${isSingleAttemptStrategy ? "Once" : "Win"}</span>
                 </td>`;
@@ -1325,7 +1318,7 @@ function renderScenarioSummary(results, ep, odds) {
                     <span class="scen-legend-item"><span class="scen-item-mark scen-item-win">\u2705 Win</span><span class="scen-legend-desc">Won the 50/50.</span></span>
                     <span class="scen-legend-item"><span class="scen-item-mark scen-item-guaranteed"><img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="Guaranteed">Guaranteed (W)</span><span class="scen-legend-desc">Entered the patch already guaranteed \u2014 no roll this patch.</span></span>
                     <span class="scen-legend-item"><span class="scen-item-mark scen-item-guaranteed"><img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="Guaranteed">Guaranteed (L/W)</span><span class="scen-legend-desc">Lost the 50/50 this patch, then won on the guaranteed pull.</span></span>
-                    <span class="scen-legend-item"><span class="scen-item-mark scen-item-once-lose" style="color:var(--danger)">\u274C Once</span><span class="scen-legend-desc">One Shot/Optional \u2014 lost, not chased. Characters carry the guarantee forward; weapons don't.</span></span>
+                    <span class="scen-legend-item"><span class="scen-item-mark scen-item-once-lose" style="color:var(--danger)">\u274C Once</span><span class="scen-legend-desc">Lost, not chased (One Shot for weapons; One Shot/Optional for characters). Characters carry the guarantee forward; weapons don't.</span></span>
                     ${ep.some((item) => item.type === "weapon") ? `<span class="scen-legend-item"><span class="scen-item-mark scen-item-guaranteed"><img class="guaranteed-icon" src="assets/data/custom_icons/lost_5050.png" alt="Epitomized">Epitomized</span><span class="scen-legend-desc">Won via Fate Points after a miss.</span></span>` : ""}
                     <span class="scen-legend-item"><span class="scen-item-mark scen-item-radiance" style="display:inline-flex;align-items:center;gap:5px;"><img class="radiance-icon" src="assets/data/custom_icons/Item_Intertwined_Fate.webp" alt="Radiance" style="width:14px;height:14px;"><span class="radiance-text">Radiance</span></span><span class="scen-legend-desc">Capturing Radiance activated.</span></span>
                     <span class="scen-legend-item"><span class="scen-item-mark scen-item-short">\u26D4 Short</span><span class="scen-legend-desc">Ran out of wishes.</span></span>

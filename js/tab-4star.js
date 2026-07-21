@@ -55,7 +55,7 @@
     if (trimmed && !exactMatch) {
       html += `
                 <div class="autocomplete-item ac-custom" data-custom="${trimmed.replace(/"/g, "&quot;")}">
-                    <img src="assets/data/custom_icons/Lumine_Placeholder_custom.webp" alt="">
+                    <img src="assets/data/custom-icons/Lumine_Placeholder_custom.webp" alt="">
                     <span class="ac-name">Custom: "${trimmed}"</span>
                 </div>
             `;
