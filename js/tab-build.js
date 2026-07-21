@@ -601,8 +601,8 @@
       const merged = {
         ...profile,
         ...materials || {},
-        talents: talents && talents.talents || [],
-        constellations: constellations && constellations.constellations || []
+        talents: talents || [],
+        constellations: constellations || []
       };
       profileCache[id] = merged;
       return merged;
