@@ -311,7 +311,7 @@ function renderAssetList(query) {
             </div>
         `).join("");
   if (trimmed && !exactMatch) {
-    const customIcon = type === "character" ? "assets/data/custom-icons/Lumine_Placeholder_custom.webp" : "assets/data/custom-icons/Weapon_Dull_Blade_custom.webp";
+    const customIcon = type === "character" ? "assets/data/custom_icons/Lumine_Placeholder_custom.webp" : "assets/data/custom_icons/Weapon_Dull_Blade_custom.webp";
     html += `
                 <div class="autocomplete-item ac-custom" data-custom="${trimmed.replace(/"/g, "&quot;")}">
                     <img src="${customIcon}" alt="">

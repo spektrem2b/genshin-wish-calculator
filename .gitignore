@@ -4,7 +4,7 @@ __pycache__/
 *.pyc
 
 # Generated data
-raw-cache/
+scripts/raw_dumps/
 
 # Node.js
 node_modules/
