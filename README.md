@@ -2,7 +2,7 @@
 
 A browser-based planning tool for Genshin Impact's wish system — plan your pulls across upcoming patches and see how your saved-up primogems/starglitter/wishes hold up under best, worst, and mixed-luck scenarios.
 
-No build step, no backend — static HTML/CSS/JS.
+Static HTML/CSS/JS, no backend.
 
 ## Features
 
@@ -15,7 +15,7 @@ No build step, no backend — static HTML/CSS/JS.
 
 ## Credits
 
-* [Ambr.top](https://ambr.top/) — character, weapon, and banner data
+* [ambr-py](https://github.com/seriaati/ambr) — character, weapon, and banner data
 * [Ennead.cc](https://ennead.cc/) — event calendar data
 * [Hashblen](https://hashblen.com/) — redeem code data
 * [Genshin Impact Wiki (Fandom) — Wish](https://genshin-impact.fandom.com/wiki/Wish) for wish system mechanics reference
