@@ -94,21 +94,25 @@
     return { label, value: renderTemplate(template, params) };
   }
   function scalingTableHtml(levels, uid) {
-    const rows = (levels || []).filter((l) => l.level && l.description && l.description.length);
+    const rows = (levels || []).filter((l) => l.level && l.description && l.description.length).sort((a, b) => a.level - b.level);
     if (!rows.length) return "";
     const labels = (rows[0].description || []).map((raw) => parseDescRow(raw, rows[0].params)).filter(Boolean).map((r) => r.label);
     if (!labels.length) return "";
-    const buildRow = (l) => {
-      const parsed = (l.description || []).map((raw) => parseDescRow(raw, l.params)).filter(Boolean);
-      const cells = labels.map((label, i) => escapeHtml(parsed[i] && parsed[i].value || "\u2014"));
-      const highlightCls = l.level === 10 ? " ci-level-10" : "";
-      return `<tr class="${highlightCls.trim()}"><td>${l.level}</td>${cells.map((v) => `<td>${v}</td>`).join("")}</tr>`;
-    };
-    const bodyRows = rows.map(buildRow).join("");
+    const parsedByLevel = rows.map((l) => (l.description || []).map((raw) => parseDescRow(raw, l.params)).filter(Boolean));
+    const colCls = (l) => l.level === 10 ? ' class="ci-level-10-col"' : "";
+    const headerCells = rows.map((l) => `<th${colCls(l)}>${l.level}</th>`).join("");
+    const bodyRows = labels.map((label, labelIdx) => {
+      const cells = rows.map((l, li) => {
+        const parsed = parsedByLevel[li];
+        const value = escapeHtml(parsed[labelIdx] && parsed[labelIdx].value || "\u2014");
+        return `<td${colCls(l)}>${value}</td>`;
+      }).join("");
+      return `<tr><td class="ci-scaling-rowlabel">${escapeHtml(label)}</td>${cells}</tr>`;
+    }).join("");
     return `
             <div class="ci-scaling-wrap">
                 <table class="ci-scaling" id="${uid}">
-                    <thead><tr><th>Lv.</th>${labels.map((l) => `<th>${escapeHtml(l)}</th>`).join("")}</tr></thead>
+                    <thead><tr><th class="ci-scaling-corner">Lv.</th>${headerCells}</tr></thead>
                     <tbody>${bodyRows}</tbody>
                 </table>
             </div>`;
