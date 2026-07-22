@@ -32,6 +32,19 @@
   function starsHtml(rarity) {
     return "\u2605".repeat(rarity || 0);
   }
+  function elementIconSrc(element) {
+    return element ? dataAssetSrc(`element_icons/Element_${element}.svg`) : null;
+  }
+  function weaponIconSrc(weaponType) {
+    return weaponType ? dataAssetSrc(`weapon_icons/Weapon_${weaponType}.svg`) : null;
+  }
+  const REGION_ICON_FALLBACK = dataAssetSrc("region_icons/unknown-region.webp");
+  function regionIconSrc(region) {
+    return region ? dataAssetSrc(`region_icons/${region.toLowerCase()}.webp`) : REGION_ICON_FALLBACK;
+  }
+  function titleCase(str) {
+    return String(str || "").replace(/\w\S*/g, (w) => w[0].toUpperCase() + w.slice(1).toLowerCase());
+  }
   function birthdayLabel(b) {
     if (!b) return null;
     const months = [
@@ -144,6 +157,13 @@
     return normalizeTalentType(t.type) !== "passive";
   }
   let talentAccordionIdx = 0;
+  function talentSummaryStatsHtml(t) {
+    const bits = [];
+    if (t.cooldown) bits.push(`${t.cooldown}s CD`);
+    if (t.cost) bits.push(`${t.cost} Energy`);
+    if (!bits.length) return "";
+    return `<span class="ci-talent-summary-stats">${escapeHtml(bits.join(" \xB7 "))}</span>`;
+  }
   function talentBlockHtml(t) {
     const uid = `ci-scaling-${talentAccordionIdx}`;
     const table = scalingTableHtml(t.levels, uid);
@@ -155,14 +175,19 @@
                     <img class="ci-talent-icon" src="${dataAssetSrc(t.icon)}" alt="">
                     <span class="ci-talent-summary-name">${escapeHtml(t.name)}</span>
                     <span class="ci-talent-summary-type">${escapeHtml(talentTypeLabel(t.type))}</span>
+                    ${talentSummaryStatsHtml(t)}
                 </summary>
                 <div class="ci-talent-accordion-body">
+                    ${t.description ? `<div class="ci-flavor ci-flavor-lead">${escapeHtml(t.description)}</div>` : ""}
                     ${quickStatsHtml(t)}
                     ${table || '<div class="ci-talent-desc ci-muted">No scaling data.</div>'}
                 </div>
             </details>`;
   }
   function passiveEffectHtml(t, uid) {
+    if (t.description) {
+      return `<div class="ci-passive-desc">${escapeHtml(t.description)}</div>`;
+    }
     const rows = (t.levels || []).filter((l) => l.description && l.description.length);
     if (!rows.length) return '<div class="ci-item-desc ci-muted">No effect data.</div>';
     if (rows.length > 1) return scalingTableHtml(t.levels, uid);
@@ -183,55 +208,141 @@
                 </div>
             </div>`;
   }
-  function constellationCardHtml(con, i) {
+  function constellationIconSrc(con, charId, i) {
+    if (con.icon) return dataAssetSrc(con.icon);
+    const n = String(i).padStart(2, "0");
+    return dataAssetSrc(`character-profiles/${charId}/constellations/${n}_const.png`);
+  }
+  function constellationCardHtml(con, i, charId) {
     return `
             <div class="ci-const-card">
-                <div class="ci-const-badge">C${i + 1}</div>
+                <img class="ci-const-icon" src="${constellationIconSrc(con, charId, i)}" alt="" onerror="this.style.visibility='hidden'">
                 <div class="ci-const-body">
+                    <div class="ci-const-tier">Constellation ${i + 1}</div>
                     <div class="ci-const-name">${escapeHtml(con.name)}</div>
                     <div class="ci-const-desc">${escapeHtml(con.description)}</div>
                 </div>
             </div>`;
   }
-  function materialsHtml(promotes) {
+  function materialCategory(item) {
+    const cat = (typeof GENSHIN_MATERIAL_TYPES !== "undefined" ? GENSHIN_MATERIAL_TYPES : {})[String(item.id)];
+    if (cat && cat.startsWith("localSpecialty")) return "local_specialty";
+    if (cat === "characterTalentMaterial") return "talent_book";
+    return "other";
+  }
+  const GEM_NAME_RE = /\b(Sliver|Fragment|Chunk|Gemstone)\b/;
+  function classifyPromoteItems(promotes) {
     const phases = (promotes || []).filter((p) => p.items && p.items.length);
-    if (!phases.length) return '<div class="ci-item-desc ci-muted">No ascension material data.</div>';
-    return phases.map((p) => `
-            <div class="ci-phase">
-                <div class="ci-phase-label">Ascension ${p.promoteLevel} \u2192 Lv.${p.unlockMaxLevel}${p.moraCost ? ` &nbsp;\u2022&nbsp; ${p.moraCost.toLocaleString()} Mora` : ""}</div>
-                <div class="ci-material-grid">
-                    ${p.items.map((item) => `
-                        <div class="ci-material-chip">
-                            <img src="${dataAssetSrc(item.icon)}" alt="">
-                            <span>${escapeHtml(item.name)}</span>
-                            <span class="ci-material-qty">\xD7${item.qty}</span>
-                        </div>`).join("")}
+    const lastPhaseIdx = phases.length - 1;
+    let localSpecialty = null;
+    const byId = /* @__PURE__ */ new Map();
+    phases.forEach((p, pIdx) => (p.items || []).forEach((item) => {
+      const cat = materialCategory(item);
+      if (cat === "local_specialty") {
+        localSpecialty = localSpecialty || item;
+        return;
+      }
+      if (cat === "talent_book") return;
+      const entry = byId.get(item.id) || { item, phaseIdxs: [] };
+      entry.phaseIdxs.push(pIdx);
+      byId.set(item.id, entry);
+    }));
+    let gemstone = null;
+    const nonGem = [];
+    byId.forEach((entry) => {
+      if (GEM_NAME_RE.test(entry.item.name)) {
+        if (!gemstone || entry.item.rarity > gemstone.rarity) gemstone = entry.item;
+      } else {
+        nonGem.push(entry);
+      }
+    });
+    let weeklyBoss = null;
+    const remaining = [];
+    nonGem.forEach((entry) => {
+      const onlyLast = entry.phaseIdxs.length === 1 && entry.phaseIdxs[0] === lastPhaseIdx && lastPhaseIdx > 0;
+      if (onlyLast) {
+        if (!weeklyBoss || entry.item.rarity > weeklyBoss.rarity) weeklyBoss = entry.item;
+      } else {
+        remaining.push(entry);
+      }
+    });
+    let bossDrop = null, enemyDrop = null;
+    if (remaining.length) {
+      remaining.sort((a, b) => b.phaseIdxs.length - a.phaseIdxs.length);
+      bossDrop = remaining[0].item;
+      remaining.slice(1).forEach(({ item }) => {
+        if (!enemyDrop || item.rarity > enemyDrop.rarity) enemyDrop = item;
+      });
+    }
+    return { localSpecialty, gemstone, bossDrop, weeklyBoss, enemyDrop };
+  }
+  const TALENT_BOOK_NAME_RE = /^(Teachings of|Guide to|Philosophies of)\b/;
+  function highestRarityTalentBook(talents) {
+    let best = null;
+    (talents || []).forEach((t) => (t.levels || []).forEach((lvl) => (lvl.items || []).forEach((item) => {
+      if (materialCategory(item) !== "talent_book") return;
+      if (!TALENT_BOOK_NAME_RE.test(item.name)) return;
+      if (!best || item.rarity > best.rarity) best = item;
+    })));
+    return best;
+  }
+  function materialCategoryChipHtml(label, item) {
+    if (!item) return "";
+    return `
+            <div class="ci-mat-chip" title="${escapeHtml(item.name)}">
+                <img src="${dataAssetSrc(item.icon)}" alt="">
+                <div class="ci-mat-chip-body">
+                    <span class="ci-mat-chip-label">${escapeHtml(label)}</span>
+                    <span class="ci-mat-chip-name">${escapeHtml(item.name)}</span>
                 </div>
-            </div>`).join("");
+            </div>`;
+  }
+  function materialsHtml(c) {
+    const { localSpecialty, gemstone, bossDrop, weeklyBoss, enemyDrop } = classifyPromoteItems(c.promotes);
+    const talentBook = highestRarityTalentBook(c.talents);
+    const chips = [
+      materialCategoryChipHtml("Local Specialty", localSpecialty),
+      materialCategoryChipHtml("Boss Drop", bossDrop),
+      materialCategoryChipHtml("Gemstone (5\u2605)", gemstone),
+      materialCategoryChipHtml("Talent Book", talentBook),
+      materialCategoryChipHtml("Weekly Boss Material", weeklyBoss),
+      materialCategoryChipHtml("Enemy Drop", enemyDrop)
+    ].filter(Boolean);
+    if (!chips.length) return '<div class="ci-item-desc ci-muted">No ascension material data.</div>';
+    return `<div class="ci-mat-condensed">${chips.join("")}</div>`;
+  }
+  function iconFactHtml(src, fallbackSrc, value) {
+    const onerror = fallbackSrc ? ` onerror="this.onerror=null;this.src='${fallbackSrc}';"` : ` onerror="this.style.display='none';"`;
+    return `
+            <div class="ci-hero-fact">
+                <img class="ci-hero-fact-icon" src="${src}" alt=""${onerror}>
+                <span class="ci-hero-fact-value">${escapeHtml(value)}</span>
+            </div>`;
+  }
+  function textFactHtml(label, value) {
+    return `
+            <div class="ci-hero-fact ci-hero-fact-text">
+                <span class="ci-hero-fact-label">${escapeHtml(label)}</span><span class="ci-hero-fact-bullet">\u2022</span><span class="ci-hero-fact-value">${escapeHtml(value)}</span>
+            </div>`;
   }
   function heroHtml(c) {
     const facts = [];
-    if (c.element) facts.push(["\u2694", "Element", c.element]);
-    if (c.weapon_type) facts.push(["\u{1F5E1}", "Weapon", c.weapon_type]);
-    if (c.region) facts.push(["\u{1F4CD}", "Region", c.region]);
+    if (c.element) facts.push(iconFactHtml(elementIconSrc(c.element), null, c.element));
+    if (c.weapon_type) facts.push(iconFactHtml(weaponIconSrc(c.weapon_type), null, c.weapon_type));
+    if (c.region) facts.push(iconFactHtml(regionIconSrc(c.region), REGION_ICON_FALLBACK, titleCase(c.region)));
     const bday = birthdayLabel(c.birthday);
-    if (bday) facts.push(["\u{1F382}", "Birthday", bday]);
+    if (bday) facts.push(textFactHtml("Birthday", bday));
     const release = releaseLabel(c.release);
-    if (release) facts.push(["\u{1F4C5}", "Release", release]);
+    if (release) facts.push(textFactHtml("Released", release));
     return `
             <div class="ci-hero">
                 <img class="ci-hero-portrait" src="${dataAssetSrc(c.icon)}" alt="">
                 <div class="ci-hero-info">
                     <div class="ci-hero-name">${escapeHtml(c.name)}</div>
-                    ${/* c.title (the quoted epithet) is gone from info.json with no
-       new equivalent (migration-map.md §2) — this stays as a
-       no-op guard rather than dead markup in case it comes back. */
-    ""}
                     ${c.title ? `<div class="ci-hero-title">"${escapeHtml(c.title)}"</div>` : ""}
                     <div class="ci-hero-stars">${starsHtml(c.rarity)}</div>
                     <div class="ci-hero-facts">
-                        ${facts.map(([icon, label, value]) => `
-                            <div class="ci-hero-fact"><span class="ci-hero-fact-icon">${icon}</span><span class="ci-hero-fact-label">${escapeHtml(label)}</span><span class="ci-hero-fact-value">${escapeHtml(value)}</span></div>`).join("")}
+                        ${facts.join("")}
                     </div>
                     <div class="ci-hero-id">ID: ${escapeHtml(c.id)}</div>
                 </div>
@@ -251,10 +362,29 @@
             </nav>`;
   }
   function overviewHtml(c) {
+    const vaLine = (c.cv || []).map((v) => `${v.lang}: ${v.va}`).join("   \xB7   ");
+    const hasContent = c.title || c.description || c.constellationName || c.native || vaLine;
+    if (!hasContent) {
+      return `
+                <section id="ci-sec-overview" class="ci-panel">
+                    <h2 class="ci-panel-title">Overview</h2>
+                    <div class="ci-item-desc ci-muted">Bio data isn't available for this character.</div>
+                </section>`;
+    }
     return `
             <section id="ci-sec-overview" class="ci-panel">
                 <h2 class="ci-panel-title">Overview</h2>
-                <div class="ci-item-desc ci-muted">Bio and base-stat data aren't available from the current database yet.</div>
+                <div class="ci-overview-grid">
+                    <div class="ci-overview-main">
+                        ${c.title ? `<div class="ci-overview-epithet">"${escapeHtml(c.title)}"</div>` : ""}
+                        ${c.description ? `<p class="ci-overview-desc">${escapeHtml(c.description)}</p>` : ""}
+                    </div>
+                    <div class="ci-overview-side">
+                        ${c.constellationName ? `<div class="ci-fact-block"><div class="ci-fact-label">Constellation</div><div class="ci-fact-value">${escapeHtml(c.constellationName)}</div></div>` : ""}
+                        ${c.native ? `<div class="ci-fact-block"><div class="ci-fact-label">Affiliation</div><div class="ci-fact-value">${escapeHtml(c.native)}</div></div>` : ""}
+                        ${vaLine ? `<div class="ci-fact-block"><div class="ci-fact-label">Voice Actors</div><div class="ci-fact-value">${escapeHtml(vaLine)}</div></div>` : ""}
+                    </div>
+                </div>
             </section>`;
   }
   function renderCharacterInfo(c, root) {
@@ -265,16 +395,16 @@
             ${heroHtml(c)}
             ${navHtml()}
             <div class="ci-layout">
-                <div class="ci-col-left">
-                    ${overviewHtml(c)}
-                </div>
-                <div class="ci-col-right">
-                    <section id="ci-sec-talents" class="ci-panel">
-                        <h2 class="ci-panel-title">Talents</h2>
-                        <div class="ci-talent-list">
-                            ${activeTalents.map(talentBlockHtml).join("") || '<div class="ci-item-desc ci-muted">No talent data.</div>'}
-                        </div>
-                    </section>
+                ${overviewHtml(c)}
+
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-list">
+                        ${activeTalents.map(talentBlockHtml).join("") || '<div class="ci-item-desc ci-muted">No talent data.</div>'}
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
                     <section id="ci-sec-passives" class="ci-panel">
                         <h2 class="ci-panel-title">Passives</h2>
                         <div class="ci-passive-list">
@@ -284,14 +414,15 @@
                     <section id="ci-sec-const" class="ci-panel">
                         <h2 class="ci-panel-title">Constellations</h2>
                         <div class="ci-const-list">
-                            ${(c.constellations || []).map(constellationCardHtml).join("") || '<div class="ci-item-desc ci-muted">None</div>'}
+                            ${(c.constellations || []).map((con, i) => constellationCardHtml(con, i, c.id)).join("") || '<div class="ci-item-desc ci-muted">None</div>'}
                         </div>
                     </section>
-                    <section id="ci-sec-materials" class="ci-panel">
-                        <h2 class="ci-panel-title">Ascension Materials</h2>
-                        ${materialsHtml(c.promotes)}
-                    </section>
                 </div>
+
+                <section id="ci-sec-materials" class="ci-panel">
+                    <h2 class="ci-panel-title">Ascension Materials</h2>
+                    ${materialsHtml(c)}
+                </section>
             </div>`;
     wireInteractions(root);
   }
