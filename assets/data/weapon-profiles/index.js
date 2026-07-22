@@ -1,14 +1,14 @@
 const GENSHIN_WEAPON_PROFILE_INDEX = [
   {
     "id": 13415,
-    "name": "\"The Catch\"",
+    "name": '"The Catch"',
     "rarity": 4,
     "type": "Polearm",
     "icon": "weapon-profiles/13415/avatar.png"
   },
   {
     "id": 12426,
-    "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+    "name": `"Ultimate Overlord's Mega Magic Sword"`,
     "rarity": 4,
     "type": "Claymore",
     "icon": "weapon-profiles/12426/avatar.png"

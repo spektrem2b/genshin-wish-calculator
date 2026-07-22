@@ -1040,25 +1040,22 @@ const GENSHIN_CHARACTER_DB = [
     "isCustom": false
   }
 ];
-
 function getGenshinCharacter(name, rarity = 5) {
-    return GENSHIN_CHARACTER_DB.find(c => c.rarity === rarity && c.name.toLowerCase() === name.toLowerCase()) || null;
+  return GENSHIN_CHARACTER_DB.find((c) => c.rarity === rarity && c.name.toLowerCase() === name.toLowerCase()) || null;
 }
-
 function searchGenshinCharacters(query, rarity = 5) {
-    const pool = GENSHIN_CHARACTER_DB.filter(c => c.rarity === rarity);
-    if (!query) return pool.slice(0, 10);
-    const lowerQuery = query.toLowerCase();
-    return pool.filter(c => c.name.toLowerCase().includes(lowerQuery));
+  const pool = GENSHIN_CHARACTER_DB.filter((c) => c.rarity === rarity);
+  if (!query) return pool.slice(0, 10);
+  const lowerQuery = query.toLowerCase();
+  return pool.filter((c) => c.name.toLowerCase().includes(lowerQuery));
 }
-
 function makeCustomCharacter(name, rarity = 5) {
-    return {
-        id: null,
-        name: name,
-        rarity: rarity,
-        element: null,
-        icon: 'custom_icons/Lumine_Placeholder_custom.webp',
-        isCustom: true
-    };
+  return {
+    id: null,
+    name,
+    rarity,
+    element: null,
+    icon: "custom_icons/Lumine_Placeholder_custom.webp",
+    isCustom: true
+  };
 }

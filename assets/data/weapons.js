@@ -1,7 +1,7 @@
 const GENSHIN_WEAPON_DB = [
   {
     "id": 13415,
-    "name": "\"The Catch\"",
+    "name": '"The Catch"',
     "rarity": 4,
     "weaponType": "Polearm",
     "icon": "weapon-profiles/13415/avatar.png",
@@ -9,7 +9,7 @@ const GENSHIN_WEAPON_DB = [
   },
   {
     "id": 12426,
-    "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+    "name": `"Ultimate Overlord's Mega Magic Sword"`,
     "rarity": 4,
     "weaponType": "Claymore",
     "icon": "weapon-profiles/12426/avatar.png",
@@ -1792,25 +1792,22 @@ const GENSHIN_WEAPON_DB = [
     "isCustom": false
   }
 ];
-
 function getGenshinWeapon(name, rarity = 5) {
-    return GENSHIN_WEAPON_DB.find(w => w.rarity === rarity && w.name.toLowerCase() === name.toLowerCase()) || null;
+  return GENSHIN_WEAPON_DB.find((w) => w.rarity === rarity && w.name.toLowerCase() === name.toLowerCase()) || null;
 }
-
 function searchGenshinWeapons(query, rarity = 5) {
-    const pool = GENSHIN_WEAPON_DB.filter(w => w.rarity === rarity);
-    if (!query) return pool.slice(0, 10);
-    const lowerQuery = query.toLowerCase();
-    return pool.filter(w => w.name.toLowerCase().includes(lowerQuery));
+  const pool = GENSHIN_WEAPON_DB.filter((w) => w.rarity === rarity);
+  if (!query) return pool.slice(0, 10);
+  const lowerQuery = query.toLowerCase();
+  return pool.filter((w) => w.name.toLowerCase().includes(lowerQuery));
 }
-
 function makeCustomWeapon(name, rarity = 5) {
-    return {
-        id: null,
-        name: name,
-        rarity: rarity,
-        weaponType: null,
-        icon: 'custom_icons/Weapon_Dull_Blade_custom.webp',
-        isCustom: true
-    };
+  return {
+    id: null,
+    name,
+    rarity,
+    weaponType: null,
+    icon: "custom_icons/Weapon_Dull_Blade_custom.webp",
+    isCustom: true
+  };
 }
