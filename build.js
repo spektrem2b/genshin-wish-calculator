@@ -18,7 +18,7 @@ const STATIC_PAGES = [
   "contact.html",
   "privacy.html",
   "terms.html",
-  "google3909e9d7cbd5f292.html",
+  "404.html",
   "robots.txt",
   "sitemap.xml"
 ];
