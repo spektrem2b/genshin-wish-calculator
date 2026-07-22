@@ -7,16 +7,16 @@
   function fetchFullCharacterProfile(id) {
     const base = `assets/data/character-profiles/${id}`;
     return Promise.all([
-      getJson(`${base}/profile.json`),
-      getJson(`${base}/talents.json`),
-      getJson(`${base}/constellations.json`),
-      getJson(`${base}/materials.json`)
-    ]).then(([profile, talents, constellations, materials]) => {
-      if (!profile) return null;
+      getJson(`${base}/info.json`),
+      getJson(`${base}/skills/talents.json`),
+      getJson(`${base}/constellations/constellations.json`),
+      getJson(`${base}/materials/materials.json`)
+    ]).then(([info, talents, constellations, materials]) => {
+      if (!info) return null;
       return {
-        ...profile,
-        talents: talents && talents.talents || [],
-        constellations: constellations && constellations.constellations || [],
+        ...info,
+        talents: (Array.isArray(talents) ? talents : talents && talents.talents) || [],
+        constellations: (Array.isArray(constellations) ? constellations : constellations && constellations.constellations) || [],
         promotes: materials && materials.promotes || []
       };
     });
@@ -54,22 +54,6 @@
   function releaseLabel(release) {
     if (!release) return null;
     return new Date(release).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
-  }
-  const STAT_LABELS = {
-    FIGHT_PROP_BASE_HP: "Base HP",
-    FIGHT_PROP_BASE_ATTACK: "Base ATK",
-    FIGHT_PROP_BASE_DEFENSE: "Base DEF",
-    FIGHT_PROP_CRITICAL: "CRIT Rate",
-    FIGHT_PROP_CRITICAL_HURT: "CRIT DMG",
-    FIGHT_PROP_HP_PERCENT: "HP",
-    FIGHT_PROP_ATTACK_PERCENT: "ATK",
-    FIGHT_PROP_DEFENSE_PERCENT: "DEF",
-    FIGHT_PROP_CHARGE_EFFICIENCY: "Energy Recharge",
-    FIGHT_PROP_ELEMENT_MASTERY: "Elemental Mastery",
-    FIGHT_PROP_HEAL_ADD: "Healing Bonus"
-  };
-  function specialStatLabel(key) {
-    return STAT_LABELS[key] || key || null;
   }
   function formatParamToken(token, params) {
     const m = token.match(/^param(\d+):([A-Za-z0-9]+)$/);
@@ -140,20 +124,27 @@
     return `<div class="ci-quickstats">${stats.map(([k, v]) => `
             <div class="ci-quickstat"><span class="ci-quickstat-label">${escapeHtml(k)}</span><span class="ci-quickstat-value">${escapeHtml(v)}</span></div>`).join("")}</div>`;
   }
-  function splitFlavor(description) {
-    const parts = (description || "").split(/\n\n+/);
-    if (parts.length < 2) return { gameplay: description || "", flavor: null };
-    const last = parts[parts.length - 1].trim();
-    const looksLikeFlavor = /^["“]/.test(last) || /["”]$/.test(last);
-    if (!looksLikeFlavor) return { gameplay: description || "", flavor: null };
-    return { gameplay: parts.slice(0, -1).join("\n\n"), flavor: last };
+  const TALENT_TYPE_LABELS = {
+    normal_attack: "Normal Attack",
+    skill: "Elemental Skill",
+    alt_sprint: "Alternate Sprint",
+    burst: "Elemental Burst",
+    passive: "Passive Talent",
+    unknown: "Unknown"
+  };
+  function normalizeTalentType(rawType) {
+    if (typeof rawType === "string" && rawType.startsWith("DISAGREEMENT")) return "unknown";
+    return rawType || "unknown";
+  }
+  function talentTypeLabel(rawType) {
+    const normalized = normalizeTalentType(rawType);
+    return TALENT_TYPE_LABELS[normalized] || normalized;
   }
   function isActiveTalent(t) {
-    return t.type !== "Passive Talent";
+    return normalizeTalentType(t.type) !== "passive";
   }
   let talentAccordionIdx = 0;
   function talentBlockHtml(t) {
-    const { gameplay, flavor } = splitFlavor(t.description);
     const uid = `ci-scaling-${talentAccordionIdx}`;
     const table = scalingTableHtml(t.levels, uid);
     const isFirst = talentAccordionIdx === 0;
@@ -163,25 +154,32 @@
                 <summary>
                     <img class="ci-talent-icon" src="${dataAssetSrc(t.icon)}" alt="">
                     <span class="ci-talent-summary-name">${escapeHtml(t.name)}</span>
-                    <span class="ci-talent-summary-type">${escapeHtml(t.type || "")}</span>
+                    <span class="ci-talent-summary-type">${escapeHtml(talentTypeLabel(t.type))}</span>
                 </summary>
                 <div class="ci-talent-accordion-body">
                     ${quickStatsHtml(t)}
-                    <div class="ci-talent-desc">${escapeHtml(gameplay)}</div>
                     ${table || '<div class="ci-talent-desc ci-muted">No scaling data.</div>'}
-                    ${flavor ? `<div class="ci-flavor">${escapeHtml(flavor)}</div>` : ""}
                 </div>
             </details>`;
   }
+  function passiveEffectHtml(t, uid) {
+    const rows = (t.levels || []).filter((l) => l.description && l.description.length);
+    if (!rows.length) return '<div class="ci-item-desc ci-muted">No effect data.</div>';
+    if (rows.length > 1) return scalingTableHtml(t.levels, uid);
+    const parsed = (rows[0].description || []).map((raw) => parseDescRow(raw, rows[0].params)).filter(Boolean);
+    if (!parsed.length) return '<div class="ci-item-desc ci-muted">No effect data.</div>';
+    return `<div class="ci-passive-desc">${parsed.map((r) => `
+            <div class="ci-passive-desc-row"><span class="ci-passive-desc-label">${escapeHtml(r.label)}</span><span class="ci-passive-desc-value">${escapeHtml(r.value)}</span></div>`).join("")}</div>`;
+  }
+  let passiveUidIdx = 0;
   function passiveCardHtml(t) {
-    const { gameplay, flavor } = splitFlavor(t.description);
+    const uid = `ci-passive-scaling-${passiveUidIdx++}`;
     return `
             <div class="ci-passive-card">
                 <img class="ci-passive-icon" src="${dataAssetSrc(t.icon)}" alt="">
                 <div class="ci-passive-body">
                     <div class="ci-passive-name">${escapeHtml(t.name)}</div>
-                    <div class="ci-passive-desc">${escapeHtml(gameplay)}</div>
-                    ${flavor ? `<div class="ci-flavor">${escapeHtml(flavor)}</div>` : ""}
+                    ${passiveEffectHtml(t, uid)}
                 </div>
             </div>`;
   }
@@ -214,7 +212,7 @@
   function heroHtml(c) {
     const facts = [];
     if (c.element) facts.push(["\u2694", "Element", c.element]);
-    if (c.weaponType) facts.push(["\u{1F5E1}", "Weapon", c.weaponType]);
+    if (c.weapon_type) facts.push(["\u{1F5E1}", "Weapon", c.weapon_type]);
     if (c.region) facts.push(["\u{1F4CD}", "Region", c.region]);
     const bday = birthdayLabel(c.birthday);
     if (bday) facts.push(["\u{1F382}", "Birthday", bday]);
@@ -225,6 +223,10 @@
                 <img class="ci-hero-portrait" src="${dataAssetSrc(c.icon)}" alt="">
                 <div class="ci-hero-info">
                     <div class="ci-hero-name">${escapeHtml(c.name)}</div>
+                    ${/* c.title (the quoted epithet) is gone from info.json with no
+       new equivalent (migration-map.md §2) — this stays as a
+       no-op guard rather than dead markup in case it comes back. */
+    ""}
                     ${c.title ? `<div class="ci-hero-title">"${escapeHtml(c.title)}"</div>` : ""}
                     <div class="ci-hero-stars">${starsHtml(c.rarity)}</div>
                     <div class="ci-hero-facts">
@@ -249,24 +251,10 @@
             </nav>`;
   }
   function overviewHtml(c) {
-    const rows = [];
-    if (c.description) rows.push(["About", c.description]);
-    if (c.constellationName) rows.push(["Constellation", c.constellationName]);
-    if (c.native) rows.push(["Affiliation", c.native]);
-    if (c.cv && c.cv.length) {
-      rows.push(["Voice (EN/JP)", c.cv.filter((v) => v.lang === "EN" || v.lang === "JP").map((v) => `${v.va} (${v.lang})`).join(", ")]);
-    }
-    const statRows = (c.baseStats || []).map((s) => {
-      const label = STAT_LABELS[s.propType] || s.propType;
-      return `<div class="ci-stats-row"><span>${escapeHtml(label)} (Lv.1)</span><span>${Math.round(s.initValue * 100) / 100}</span></div>`;
-    });
-    const special = specialStatLabel(c.specialStat);
-    if (special) statRows.push(`<div class="ci-stats-row"><span>Ascension Stat</span><span>${escapeHtml(special)}</span></div>`);
     return `
             <section id="ci-sec-overview" class="ci-panel">
                 <h2 class="ci-panel-title">Overview</h2>
-                ${rows.map(([label, value]) => `<div class="ci-fact-block"><div class="ci-fact-label">${escapeHtml(label)}</div><div class="ci-fact-value">${escapeHtml(value)}</div></div>`).join("")}
-                ${statRows.length ? `<div class="ci-stats">${statRows.join("")}</div>` : ""}
+                <div class="ci-item-desc ci-muted">Bio and base-stat data aren't available from the current database yet.</div>
             </section>`;
   }
   function renderCharacterInfo(c, root) {
