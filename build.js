@@ -25,11 +25,13 @@ const STATIC_PAGES = [
 const JS_SRC = path.join(ROOT, "js");
 const CSS_SRC = path.join(ROOT, "css");
 const ASSETS_SRC = path.join(ROOT, "assets");
-const INDEX_SRC = path.join(ROOT, "index.html");
+const BUNDLED_HTML_PAGES = [
+  "index.html",
+  "character-info.html"
+];
 const DIST_JS = path.join(DIST, "js");
 const DIST_CSS = path.join(DIST, "css");
 const DIST_ASSETS = path.join(DIST, "assets");
-const DIST_INDEX = path.join(DIST, "index.html");
 function assertSafeToWipe(dir) {
   if (path.basename(dir) !== "dist") {
     throw new Error(`Refusing to wipe non-dist path: ${dir}`);
@@ -108,31 +110,35 @@ const cssResult = esbuild.transformSync(css, { loader: "css", minify: true });
 fs.writeFileSync(path.join(DIST_CSS, "styles.css"), cssResult.code);
 console.log("\u2713 css/styles.css");
 console.log("Building HTML...");
-if (!fs.existsSync(INDEX_SRC)) {
-  throw new Error("Missing index.html");
-}
-let html = fs.readFileSync(INDEX_SRC, "utf8");
 const scriptBlockPattern = new RegExp(
   JS_ORDER.map(
     (file) => `\\s*<script src="js\\/${file.replace(".", "\\.")}(?:\\?[^"]*)?"><\\/script>`
   ).join("")
 );
-if (!scriptBlockPattern.test(html)) {
-  throw new Error(
-    "Could not find the expected <script> block in index.html \u2014 check that JS_ORDER matches the tags in the file."
-  );
-}
-html = html.replace(
-  scriptBlockPattern,
-  `
+for (const page of BUNDLED_HTML_PAGES) {
+  const src = path.join(ROOT, page);
+  const dist = path.join(DIST, page);
+  if (!fs.existsSync(src)) {
+    throw new Error(`Missing ${page}`);
+  }
+  let html = fs.readFileSync(src, "utf8");
+  if (!scriptBlockPattern.test(html)) {
+    throw new Error(
+      `Could not find the expected <script> block in ${page} \u2014 check that JS_ORDER matches the tags in the file.`
+    );
+  }
+  html = html.replace(
+    scriptBlockPattern,
+    `
     <script src="js/${bundleName}"><\/script>`
-);
-html = html.replace(
-  /((?:css|assets\/data)\/[^"']*?)\?v=[^"']*/g,
-  "$1"
-);
-fs.writeFileSync(DIST_INDEX, html);
-console.log("\u2713 index.html");
+  );
+  html = html.replace(
+    /((?:css|assets\/data)\/[^"']*?)\?v=[^"']*/g,
+    "$1"
+  );
+  fs.writeFileSync(dist, html);
+  console.log(`\u2713 ${page}`);
+}
 console.log("");
 console.log("=================================");
 console.log(" Build complete");

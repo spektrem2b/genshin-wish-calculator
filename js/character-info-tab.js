@@ -454,8 +454,9 @@
     if (root.dataset.ciInit) return;
     root.dataset.ciInit = "1";
     const roster = characterRoster();
-    const defaultEntry = roster.find((c) => c.id === DEFAULT_CHARACTER_ID) || roster[0];
-    const defaultId = defaultEntry ? defaultEntry.id : DEFAULT_CHARACTER_ID;
+    const requestedId = new URLSearchParams(window.location.search).get("character");
+    const defaultEntry = requestedId && roster.find((c) => c.id === requestedId) || roster.find((c) => c.id === DEFAULT_CHARACTER_ID) || roster[0];
+    const defaultId = requestedId || (defaultEntry ? defaultEntry.id : DEFAULT_CHARACTER_ID);
     root.innerHTML = `${characterPickerHtml(defaultId)}<div id="ciContent"></div>`;
     const picker = root.querySelector("#ciCharacterPicker");
     if (picker) {
