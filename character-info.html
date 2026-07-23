@@ -17,13 +17,43 @@
 
 
 
-    <a href="index.html" style="color: var(--text-muted); font-size: 0.85rem; text-decoration: none;">&larr; back</a>
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br> Wish Calculator</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">ℹ Info (WIP)</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <a href="index.html" class="nav-link">
+                <span class="nav-link-icon">✦</span>5★ Calculator
+            </a>
+            <a href="index.html" class="nav-link">
+                <span class="nav-link-icon">✦</span>4★ Calculator
+            </a>
+            <a href="index.html" class="nav-link">
+                <span class="nav-link-icon">🎲</span>Simulator
+            </a>
+            <a href="index.html" class="nav-link">
+                <span class="nav-link-icon">🛠</span>Build
+            </a>
+            <a href="index.html" class="nav-link">
+                <span class="nav-link-icon">⋯</span>Other
+            </a>
+            <a href="character-info" id="tabInfoBtn" class="nav-link active">
+                <span class="nav-link-icon">ℹ</span>Info<span class="nav-link-badge">WIP</span>
+            </a>
+        </div>
+    </nav>
 
     <main class="main-content">
-    <div class="container" style="padding-top: 16px;">
+    <div class="container">
         <div class="char-info-page" id="characterInfoPanel"></div>
     </div>
     </main>
+</div>
 
     <script src="assets/data/characters.js?v=3aca940"></script>
     <script src="assets/data/weapons.js?v=3aca940"></script>

@@ -33,11 +33,15 @@ function setActiveRarityTab(tab) {
     indicator.textContent = labels[tab] || "";
   }
 }
-document.getElementById("tab5starBtn").addEventListener("click", () => setActiveRarityTab("5star"));
-document.getElementById("tab4starBtn").addEventListener("click", () => setActiveRarityTab("4star"));
-document.getElementById("tabOddsBtn").addEventListener("click", () => setActiveRarityTab("odds"));
-document.getElementById("tabBuildBtn").addEventListener("click", () => setActiveRarityTab("build"));
-document.getElementById("tabOtherBtn").addEventListener("click", () => setActiveRarityTab("other"));
+function bindTabBtn(id, tab) {
+  const el = document.getElementById(id);
+  if (el) el.addEventListener("click", () => setActiveRarityTab(tab));
+}
+bindTabBtn("tab5starBtn", "5star");
+bindTabBtn("tab4starBtn", "4star");
+bindTabBtn("tabOddsBtn", "odds");
+bindTabBtn("tabBuildBtn", "build");
+bindTabBtn("tabOtherBtn", "other");
 (function() {
   const toggleBtn = document.getElementById("navToggleBtn");
   const sidebar = document.querySelector(".sidebar");
