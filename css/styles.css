@@ -2799,6 +2799,99 @@ body.scen-modal-open {
     79,
     227;
 }
+.ci-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 20px;
+  margin-bottom: 18px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border-color);
+}
+.ci-filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.ci-filter-chip {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: inherit;
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-color);
+  border-radius: 24px;
+  padding: 9px 18px 9px 12px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.ci-filter-chip img {
+  width: 26px;
+  height: 26px;
+}
+.ci-filter-chip:hover {
+  border-color: var(--text-muted);
+  color: var(--text-main);
+}
+.ci-filter-chip.active {
+  color: var(--text-main);
+  background: rgba(255, 255, 255, 0.08);
+  border-color: var(--accent-purple);
+}
+.ci-filter-chip-rarity.active.rarity-5 {
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+}
+.ci-filter-chip-rarity.active.rarity-4 {
+  border-color: var(--accent-purple);
+  color: var(--accent-purple);
+}
+.ci-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 22px 14px;
+}
+.ci-grid-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  color: var(--text-main);
+  text-align: center;
+  padding: 6px;
+  border-radius: 10px;
+  transition: background 0.15s ease;
+}
+.ci-grid-card:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+.ci-grid-icon {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: rgba(255, 255, 255, 0.04);
+  border: 2px solid var(--border-color);
+}
+.ci-grid-name {
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+.ci-back-to-grid {
+  display: inline-block;
+  margin-bottom: 12px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-decoration: none;
+}
+.ci-back-to-grid:hover {
+  color: var(--ci-accent, var(--accent-gold));
+}
 .ci-picker-placeholder {
   display: flex;
   align-items: center;

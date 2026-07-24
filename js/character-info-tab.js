@@ -435,6 +435,53 @@
                 <select id="ciCharacterPicker">${options}</select>
             </div>`;
   }
+  const ELEMENT_ORDER = ["Pyro", "Hydro", "Anemo", "Electro", "Dendro", "Cryo", "Geo"];
+  function filterBarHtml(roster) {
+    const present = new Set(roster.map((c) => c.element).filter(Boolean));
+    const elementChips = ELEMENT_ORDER.filter((el) => present.has(el)).map((el) => `
+            <button type="button" class="ci-filter-chip" data-filter-group="element" data-filter-value="${escapeHtml(el)}">
+                <img src="${elementIconSrc(el)}" alt="">${escapeHtml(el)}
+            </button>`).join("");
+    const rarityChips = [5, 4].map((r) => `
+            <button type="button" class="ci-filter-chip ci-filter-chip-rarity rarity-${r}" data-filter-group="rarity" data-filter-value="${r}">${r}\u2605</button>`).join("");
+    return `
+            <div class="ci-filter-bar">
+                <div class="ci-filter-group">${elementChips}</div>
+                <div class="ci-filter-group">${rarityChips}</div>
+            </div>`;
+  }
+  function characterGridHtml() {
+    const roster = characterRoster();
+    if (!roster.length) return '<div class="ci-item-desc ci-muted">No characters found.</div>';
+    const cards = roster.map((c) => `
+            <a class="ci-grid-card" href="?character=${encodeURIComponent(c.id)}" data-element="${escapeHtml(c.element || "")}" data-rarity="${c.rarity || ""}">
+                <img class="ci-grid-icon rarity-${c.rarity || 4}" src="${dataAssetSrc(c.icon)}" alt="" loading="lazy">
+                <span class="ci-grid-name">${escapeHtml(c.name)}</span>
+            </a>`).join("");
+    return `${filterBarHtml(roster)}<div class="ci-grid">${cards}</div>`;
+  }
+  function bindGridFilters(root) {
+    const chips = root.querySelectorAll(".ci-filter-chip");
+    const cards = root.querySelectorAll(".ci-grid-card");
+    const active = { element: /* @__PURE__ */ new Set(), rarity: /* @__PURE__ */ new Set() };
+    function applyFilters() {
+      cards.forEach((card) => {
+        const elOk = active.element.size === 0 || active.element.has(card.dataset.element);
+        const rOk = active.rarity.size === 0 || active.rarity.has(card.dataset.rarity);
+        card.style.display = elOk && rOk ? "" : "none";
+      });
+    }
+    chips.forEach((chip) => {
+      chip.addEventListener("click", () => {
+        const group = chip.dataset.filterGroup;
+        const value = chip.dataset.filterValue;
+        chip.classList.toggle("active");
+        if (chip.classList.contains("active")) active[group].add(value);
+        else active[group].delete(value);
+        applyFilters();
+      });
+    });
+  }
   function loadCharacter(root, id) {
     const content = root.querySelector("#ciContent") || root;
     content.innerHTML = '<div class="ci-item-desc ci-muted">Loading\u2026</div>';
@@ -455,9 +502,16 @@
     root.dataset.ciInit = "1";
     const roster = characterRoster();
     const requestedId = new URLSearchParams(window.location.search).get("character");
-    const defaultEntry = requestedId && roster.find((c) => c.id === requestedId) || roster.find((c) => c.id === DEFAULT_CHARACTER_ID) || roster[0];
+    if (!requestedId) {
+      root.innerHTML = characterGridHtml();
+      bindGridFilters(root);
+      return;
+    }
+    const defaultEntry = roster.find((c) => c.id === requestedId) || roster[0];
     const defaultId = requestedId || (defaultEntry ? defaultEntry.id : DEFAULT_CHARACTER_ID);
-    root.innerHTML = `${characterPickerHtml(defaultId)}<div id="ciContent"></div>`;
+    root.innerHTML = `
+            <a class="ci-back-to-grid" href="character-info">\u2190 All characters</a>
+            ${characterPickerHtml(defaultId)}<div id="ciContent"></div>`;
     const picker = root.querySelector("#ciCharacterPicker");
     if (picker) {
       picker.addEventListener("change", () => loadCharacter(root, picker.value));
