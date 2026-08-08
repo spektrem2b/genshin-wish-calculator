@@ -14,21 +14,19 @@ import aiohttp
 import ambr
 from PIL import Image
 
-# Icons/avatars from ambr and HoYoWiki arrive as full-size PNGs -- fine
-# for a 128px material icon, not fine for a 4K character splash render
-# (fullWish came in around 10MB for Furina). Re-encode everything to
-# WebP at download time so the repo never accumulates unoptimized
-# assets -- lossy q=85 tested clean (no visible artifacts) at roughly
-# half the size pngquant gets on the same files, single library call
-# instead of a multi-tool post-process pipeline.
 WEBP_QUALITY = 85
+
+WEBP_METHOD_FAST = 4  
+WEBP_METHOD_SLOW = 6  
+WEBP_SLOW_METHOD_MIN_PIXELS = 512 * 512
 
 
 def _to_webp(raw: bytes) -> bytes:
     with Image.open(io.BytesIO(raw)) as im:
         im = im.convert("RGBA")
+        method = WEBP_METHOD_SLOW if (im.width * im.height) >= WEBP_SLOW_METHOD_MIN_PIXELS else WEBP_METHOD_FAST
         buf = io.BytesIO()
-        im.save(buf, format="WEBP", quality=WEBP_QUALITY, method=6)
+        im.save(buf, format="WEBP", quality=WEBP_QUALITY, method=method)
         return buf.getvalue()
 
 
@@ -44,7 +42,7 @@ CHAR_OUT_DIR = os.path.join(DATA_DIR, "character-profiles")
 WEAPON_OUT_DIR = os.path.join(DATA_DIR, "weapon-profiles")
 SHARED_ASSETS_DIR = os.path.join(DATA_DIR, "shared-assets", "materials")
 
-DATA_SCHEMA_VERSION = 10
+DATA_SCHEMA_VERSION = 11
 
 DETAIL_FETCH_DELAY = 0.4
 ASSET_DOWNLOAD_CONCURRENCY = 8
