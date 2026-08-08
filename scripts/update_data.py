@@ -16,8 +16,8 @@ from PIL import Image
 
 WEBP_QUALITY = 85
 
-WEBP_METHOD_FAST = 4  
-WEBP_METHOD_SLOW = 6  
+WEBP_METHOD_FAST = 4
+WEBP_METHOD_SLOW = 6
 WEBP_SLOW_METHOD_MIN_PIXELS = 512 * 512
 
 
@@ -241,13 +241,6 @@ class AssetLocalizer:
         if not url:
             return None
 
-        # Some ambr talent entries (Raiden Shogun's burst-state-switch
-        # ability being the known case) have no icon upstream at all --
-        # ambr still emits a URL by concatenating its CDN base with an
-        # empty filename, producing something like ".../UI/.png" with
-        # no basename before the extension. That's not a real asset;
-        # treat it the same as a missing icon instead of burning 3
-        # retries on a guaranteed 404 and counting it as a failure.
         basename = os.path.basename(url.split("?")[0])
         name_no_ext = os.path.splitext(basename)[0]
         if not name_no_ext:
@@ -330,11 +323,6 @@ async def resolve_cost_items(cost_items, material_lookup: dict, localizer: Asset
             "qty": qty,
         }
 
-    # Was a sequential for-loop -- every material in a cost list now
-    # downloads concurrently instead of one at a time. The semaphore
-    # in AssetLocalizer._download still caps true simultaneous
-    # downloads at ASSET_DOWNLOAD_CONCURRENCY, so this is just letting
-    # that cap actually do its job.
     return list(await asyncio.gather(*(_resolve_one(item) for item in cost_items)))
 
 
@@ -392,10 +380,6 @@ def classify_talent_types(talents_raw: list) -> list:
 async def build_talents_doc(char_id, talents_raw, skills_dir, material_lookup, localizer):
     labels = classify_talent_types(talents_raw)
 
-    # Filenames only depend on synchronous classification, so compute
-    # the whole (talent, label, filename) list up front, then fire the
-    # actual network work in two concurrent batches below instead of
-    # one talent/level at a time.
     passive_n = 0
     entries = []
     for idx, (t, label) in enumerate(zip(talents_raw, labels)):
@@ -522,13 +506,6 @@ async def build_character_profile(detail, material_lookup, localizer):
     constellations_dir = os.path.join(char_dir, "constellations")
     materials_dir = os.path.join(char_dir, "materials")
 
-    # Additive only relative to the original avatar-only version --
-    # ambr's `gacha` property (full body / gacha splash art) turns out
-    # to already cover what we were scraping HoYoWiki for -- same
-    # source as everything else, no second API, no undocumented
-    # endpoint. Still goes through localize()/None-checks in case it's
-    # ever missing for a given character. Batched with avatar since
-    # neither depends on the other.
     avatar_rel, full_wish_rel = await asyncio.gather(
         localizer.localize(detail.get("icon"), f"character-profiles/{char_id}/avatar.webp"),
         localizer.localize(detail.get("gacha"), f"character-profiles/{char_id}/full_wish.webp"),
@@ -562,8 +539,6 @@ async def build_character_profile(detail, material_lookup, localizer):
     }
     dump_json(os.path.join(char_dir, "info.json"), info)
 
-    # These three sections are fully independent of each other -- run
-    # them concurrently instead of one after another.
     talents, constellations, materials_doc = await asyncio.gather(
         build_talents_doc(char_id, detail.get("talents") or [], skills_dir, material_lookup, localizer),
         build_constellations_doc(char_id, detail.get("constellations") or [], localizer),
@@ -620,10 +595,6 @@ async def build_weapon_profile(detail, weapon_curve, material_lookup, localizer)
     refinements_dir = os.path.join(weapon_dir, "refinements")
     materials_dir = os.path.join(weapon_dir, "materials")
 
-    # materials_doc doesn't depend on avatar_rel or any of the sync
-    # stat math below -- kick it off now and await it once it's
-    # actually needed near the bottom, so its network work overlaps
-    # with everything in between instead of waiting its turn.
     avatar_rel, materials_doc = await asyncio.gather(
         localizer.localize(detail.get("icon"), f"weapon-profiles/{weapon_id}/avatar.webp"),
         build_weapon_materials_doc(detail, material_lookup, localizer),
@@ -810,22 +781,18 @@ def write_stored_version(ambr_version: str, char_count: int | None = None, weapo
         json.dump(payload, f, indent=2)
 
 
-# Roster size only ever grows in practice (new characters/weapons get added,
-# nothing gets removed from Ambr's data). A drop bigger than this fraction
-# almost always means a bad/partial API response, not a real game update --
-# fail loudly instead of silently shipping a broken roster to production.
 ROSTER_DROP_TOLERANCE = 0.05
 
 
 def check_roster_sanity(stored: dict | None, char_count: int, weapon_count: int):
     if not stored:
-        return  # first run ever, nothing to compare against
+        return
     prev_char = stored.get("char_count")
     prev_weapon = stored.get("weapon_count")
     problems = []
     for label, prev, current in (("character", prev_char, char_count), ("weapon", prev_weapon, weapon_count)):
         if prev is None:
-            continue  # older version file predates count tracking
+            continue
         if current < prev * (1 - ROSTER_DROP_TOLERANCE):
             problems.append(f"{label} count dropped from {prev} to {current} (>{ROSTER_DROP_TOLERANCE:.0%} decrease)")
     if problems:
@@ -943,11 +910,6 @@ async def main():
                 try:
                     detail = await client.fetch_character_detail(c.id)
                     detail_dict = detail.model_dump(mode="json")
-                    # `gacha` is a plain @property on the pydantic model
-                    # (icon URL with "AvatarIcon" swapped for
-                    # "Gacha_AvatarImg"), not a declared field, so
-                    # model_dump() above doesn't pick it up -- grab it
-                    # off the live object and stitch it in by hand.
                     detail_dict["gacha"] = detail.gacha
                     dump_json(
                         os.path.join(RAW_DIR, f"character_{char_id}_{c.name.replace(' ', '_')}.json"),
