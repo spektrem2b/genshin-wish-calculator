@@ -1,0 +1,25 @@
+{
+  "name": "Crag-Chiseled Forge",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 40 for 18s. Max 2 stacks."
+    },
+    {
+      "refinement": 2,
+      "description": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 50 for 18s. Max 2 stacks."
+    },
+    {
+      "refinement": 3,
+      "description": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 60 for 18s. Max 2 stacks."
+    },
+    {
+      "refinement": 4,
+      "description": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 70 for 18s. Max 2 stacks."
+    },
+    {
+      "refinement": 5,
+      "description": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 80 for 18s. Max 2 stacks."
+    }
+  ]
+}

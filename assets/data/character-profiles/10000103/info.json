@@ -1,0 +1,55 @@
+{
+  "id": "10000103",
+  "name": "Xilonen",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 3,
+    "day": 13
+  },
+  "release": "2024-10-07T21:00:00",
+  "icon": "character-profiles/10000103/avatar.webp",
+  "fullWish": "character-profiles/10000103/full_wish.webp",
+  "title": "Ardent Flames Forge the Soul",
+  "description": "A Name Engraver of the Nanatzcayan, she is especially skilled at finding a good balance between the heavy responsibilities of her job and living well.",
+  "constellationName": "Panthera Ocelota",
+  "native": "Nanatzcayan",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Elizabeth Dean"
+    },
+    {
+      "lang": "CHS",
+      "va": "弭洋"
+    },
+    {
+      "lang": "JP",
+      "va": "ファイルーズあい"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim I-an"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_DEFENSE_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 965.71313,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 21.413,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 72.3943,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

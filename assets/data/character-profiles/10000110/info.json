@@ -1,0 +1,55 @@
+{
+  "id": "10000110",
+  "name": "Iansan",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 8,
+    "day": 8
+  },
+  "release": "2025-03-24T22:00:00",
+  "icon": "character-profiles/10000110/avatar.webp",
+  "fullWish": "character-profiles/10000110/full_wish.webp",
+  "title": "Tempered in Molten Stone",
+  "description": "Head coach of the fitness club at the Collective of Plenty, and a renowned Natlanese nutritionist.",
+  "constellationName": "Carnotaurus",
+  "native": "Teteocan",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Katrina Salisbury"
+    },
+    {
+      "lang": "CHS",
+      "va": "真理"
+    },
+    {
+      "lang": "JP",
+      "va": "大橋彩香"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Jae-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 893.5552,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 21.54768,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 53.505375,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

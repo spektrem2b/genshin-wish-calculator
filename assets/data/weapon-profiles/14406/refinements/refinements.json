@@ -1,0 +1,25 @@
+{
+  "name": "Gilding",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Using an Elemental Burst regenerates 4 Energy every 2s for 6s. All party members will regenerate 4% HP every 2s for this duration."
+    },
+    {
+      "refinement": 2,
+      "description": "Using an Elemental Burst regenerates 4.5 Energy every 2s for 6s. All party members will regenerate 4.5% HP every 2s for this duration."
+    },
+    {
+      "refinement": 3,
+      "description": "Using an Elemental Burst regenerates 5 Energy every 2s for 6s. All party members will regenerate 5% HP every 2s for this duration."
+    },
+    {
+      "refinement": 4,
+      "description": "Using an Elemental Burst regenerates 5.5 Energy every 2s for 6s. All party members will regenerate 5.5% HP every 2s for this duration."
+    },
+    {
+      "refinement": 5,
+      "description": "Using an Elemental Burst regenerates 6 Energy every 2s for 6s. All party members will regenerate 6% HP every 2s for this duration."
+    }
+  ]
+}

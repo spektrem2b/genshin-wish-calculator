@@ -1,0 +1,55 @@
+{
+  "id": "10000057",
+  "name": "Arataki Itto",
+  "element": "Geo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 6,
+    "day": 1
+  },
+  "release": "2021-12-14T16:00:00",
+  "icon": "character-profiles/10000057/avatar.webp",
+  "fullWish": "character-profiles/10000057/full_wish.webp",
+  "title": "Hanamizaka Heroics",
+  "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+  "constellationName": "Taurus Iracundus",
+  "native": "Arataki Gang",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Max Mittelman"
+    },
+    {
+      "lang": "CHS",
+      "va": "刘照坤"
+    },
+    {
+      "lang": "JP",
+      "va": "西川貴教"
+    },
+    {
+      "lang": "KR",
+      "va": "Song Jun-seok"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1000.986,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.689,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 74.66784,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

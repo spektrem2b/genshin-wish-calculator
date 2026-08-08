@@ -1,0 +1,25 @@
+{
+  "name": "Bane of Water and Ice",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases DMG against opponents affected by Hydro or Cryo by 12%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases DMG against opponents affected by Hydro or Cryo by 15%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases DMG against opponents affected by Hydro or Cryo by 18%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases DMG against opponents affected by Hydro or Cryo by 21%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases DMG against opponents affected by Hydro or Cryo by 24%."
+    }
+  ]
+}

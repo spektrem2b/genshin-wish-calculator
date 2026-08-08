@@ -1,0 +1,25 @@
+{
+  "name": "Heritage",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "When switching characters, the new character taking the field has their ATK increased by 24% for 10s. This effect can only occur once every 20s."
+    },
+    {
+      "refinement": 2,
+      "description": "When switching characters, the new character taking the field has their ATK increased by 30% for 10s. This effect can only occur once every 20s."
+    },
+    {
+      "refinement": 3,
+      "description": "When switching characters, the new character taking the field has their ATK increased by 36% for 10s. This effect can only occur once every 20s."
+    },
+    {
+      "refinement": 4,
+      "description": "When switching characters, the new character taking the field has their ATK increased by 42% for 10s. This effect can only occur once every 20s."
+    },
+    {
+      "refinement": 5,
+      "description": "When switching characters, the new character taking the field has their ATK increased by 48% for 10s. This effect can only occur once every 20s."
+    }
+  ]
+}

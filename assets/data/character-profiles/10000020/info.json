@@ -1,0 +1,55 @@
+{
+  "id": "10000020",
+  "name": "Razor",
+  "element": "Electro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 9,
+    "day": 9
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000020/avatar.webp",
+  "fullWish": "character-profiles/10000020/full_wish.webp",
+  "title": "Wolf Boy",
+  "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+  "constellationName": "Lupus Minor",
+  "native": "Wolvendom",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Todd Haberkorn"
+    },
+    {
+      "lang": "CHS",
+      "va": "周帅"
+    },
+    {
+      "lang": "JP",
+      "va": "内山昂輝"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Seo-young"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1002.9701,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.5888,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.9475,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

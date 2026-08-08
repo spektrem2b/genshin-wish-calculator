@@ -1,0 +1,25 @@
+{
+  "name": "Arrowless Song",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases Elemental Skill and Elemental Burst DMG by 24%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases Elemental Skill and Elemental Burst DMG by 30%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases Elemental Skill and Elemental Burst DMG by 36%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases Elemental Skill and Elemental Burst DMG by 42%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases Elemental Skill and Elemental Burst DMG by 48%."
+    }
+  ]
+}

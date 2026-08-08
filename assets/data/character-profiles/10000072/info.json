@@ -1,0 +1,55 @@
+{
+  "id": "10000072",
+  "name": "Candace",
+  "element": "Hydro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 5,
+    "day": 3
+  },
+  "release": "2022-09-26T21:00:00",
+  "icon": "character-profiles/10000072/avatar.webp",
+  "fullWish": "character-profiles/10000072/full_wish.webp",
+  "title": "Golden Vow",
+  "description": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+  "constellationName": "Sagitta Scutum",
+  "native": "Aaru Village",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Heather Gonzalez"
+    },
+    {
+      "lang": "CHS",
+      "va": "张琦"
+    },
+    {
+      "lang": "JP",
+      "va": "柚木涼香"
+    },
+    {
+      "lang": "KR",
+      "va": "Jun Young-soo"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 911.791,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.808,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 57.225,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

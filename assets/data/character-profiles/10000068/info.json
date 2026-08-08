@@ -1,0 +1,55 @@
+{
+  "id": "10000068",
+  "name": "Dori",
+  "element": "Electro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 12,
+    "day": 21
+  },
+  "release": "2022-09-09T15:00:00",
+  "icon": "character-profiles/10000068/avatar.webp",
+  "fullWish": "character-profiles/10000068/full_wish.webp",
+  "title": "Treasure of Dream Garden",
+  "description": "An elusive merchant who has a fondness for glittering Mora.",
+  "constellationName": "Magicae Lucerna",
+  "native": "The Palace of Alcazarzaray",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Anjali Kunapaneni"
+    },
+    {
+      "lang": "CHS",
+      "va": "王晓彤"
+    },
+    {
+      "lang": "JP",
+      "va": "金田朋子"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Myeong-ho"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.4418,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.6984,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 60.6585,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

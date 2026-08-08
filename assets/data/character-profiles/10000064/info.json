@@ -1,0 +1,55 @@
+{
+  "id": "10000064",
+  "name": "Yun Jin",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 5,
+    "day": 21
+  },
+  "release": "2022-01-04T22:00:00",
+  "icon": "character-profiles/10000064/avatar.webp",
+  "fullWish": "character-profiles/10000064/full_wish.webp",
+  "title": "Stage Lucida",
+  "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
+  "constellationName": "Opera Grandis",
+  "native": "Yun-Han Opera Troupe",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Judy Alice Lee & Yang Yang"
+    },
+    {
+      "lang": "CHS",
+      "va": "贺文潇&杨扬"
+    },
+    {
+      "lang": "JP",
+      "va": "小岩井ことり & Yang Yang"
+    },
+    {
+      "lang": "KR",
+      "va": "Sah Moon-young & Yang Yang"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 893.5552,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.0272,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.5741,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

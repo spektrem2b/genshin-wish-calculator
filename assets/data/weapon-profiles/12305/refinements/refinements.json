@@ -1,0 +1,25 @@
+{
+  "name": "Blunt Conclusion",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 60% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+    },
+    {
+      "refinement": 2,
+      "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 75% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+    },
+    {
+      "refinement": 3,
+      "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 90% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+    },
+    {
+      "refinement": 4,
+      "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 105% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+    },
+    {
+      "refinement": 5,
+      "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 120% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+    }
+  ]
+}

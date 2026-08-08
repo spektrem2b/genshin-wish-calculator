@@ -1,0 +1,55 @@
+{
+  "id": "10000121",
+  "name": "Aino",
+  "element": "Hydro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 9,
+    "day": 21
+  },
+  "release": "2025-09-08T21:00:00",
+  "icon": "character-profiles/10000121/avatar.webp",
+  "fullWish": "character-profiles/10000121/full_wish.webp",
+  "title": "Clinky-Clank Gadgets-A-Gogo",
+  "description": "A genius mechanic and inventor from Nod-Krai who loves interesting machines and sweet treats.",
+  "constellationName": "Cistellula Mira",
+  "native": "Clink-Clank Krumkake Craftshop",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Annabel Brook"
+    },
+    {
+      "lang": "CHS",
+      "va": "葛子瑞"
+    },
+    {
+      "lang": "JP",
+      "va": "高森奈津美"
+    },
+    {
+      "lang": "KR",
+      "va": "Jo Kyeong-i"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 939.1447,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.30112,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 50.93025,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

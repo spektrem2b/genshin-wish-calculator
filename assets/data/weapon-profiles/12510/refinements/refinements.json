@@ -1,0 +1,25 @@
+{
+  "name": "Gokadaiou Otogibanashi",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "DEF is increased by 28%. Normal and Charged Attack DMG is increased by 40% of DEF."
+    },
+    {
+      "refinement": 2,
+      "description": "DEF is increased by 35%. Normal and Charged Attack DMG is increased by 50% of DEF."
+    },
+    {
+      "refinement": 3,
+      "description": "DEF is increased by 42%. Normal and Charged Attack DMG is increased by 60% of DEF."
+    },
+    {
+      "refinement": 4,
+      "description": "DEF is increased by 49%. Normal and Charged Attack DMG is increased by 70% of DEF."
+    },
+    {
+      "refinement": 5,
+      "description": "DEF is increased by 56%. Normal and Charged Attack DMG is increased by 80% of DEF."
+    }
+  ]
+}

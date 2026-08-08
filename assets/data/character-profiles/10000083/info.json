@@ -1,0 +1,55 @@
+{
+  "id": "10000083",
+  "name": "Lynette",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 2,
+    "day": 2
+  },
+  "release": "2023-08-14T21:00:00",
+  "icon": "character-profiles/10000083/avatar.webp",
+  "fullWish": "character-profiles/10000083/full_wish.webp",
+  "title": "Elegance in the Shadows",
+  "description": "A magic assistant of few words, her emotions are as inscrutable as any cat's.",
+  "constellationName": "Felis Alba",
+  "native": "Hotel Bouffes d'ete",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Anairis Quiñones"
+    },
+    {
+      "lang": "CHS",
+      "va": "可可味"
+    },
+    {
+      "lang": "JP",
+      "va": "篠原侑"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Serena"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_WIND_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.4418,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.41072,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.685677,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

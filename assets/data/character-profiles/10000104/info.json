@@ -1,0 +1,55 @@
+{
+  "id": "10000104",
+  "name": "Chasca",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 12,
+    "day": 10
+  },
+  "release": "2024-11-18T22:00:00",
+  "icon": "character-profiles/10000104/avatar.webp",
+  "fullWish": "character-profiles/10000104/full_wish.webp",
+  "title": "Skyborne Arbiter",
+  "description": "The Peacemaker of the Tlalocan, the ender of all disputes.",
+  "constellationName": "Vultur Gryphus",
+  "native": "Tlalocan",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Lauren Amante"
+    },
+    {
+      "lang": "CHS",
+      "va": "张若瑜"
+    },
+    {
+      "lang": "JP",
+      "va": "甲斐田裕子"
+    },
+    {
+      "lang": "KR",
+      "va": "Soo-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 762.656,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.999,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 47.864,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

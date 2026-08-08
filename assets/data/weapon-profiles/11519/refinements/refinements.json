@@ -1,0 +1,25 @@
+{
+  "name": "Legacy of Lang-Gan",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases DEF by 20%. DMG inflicted by Lunar-Crystallize reactions increases by 64% for 5s after the equipping character uses an Elemental Skill."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases DEF by 25%. DMG inflicted by Lunar-Crystallize reactions increases by 80% for 5s after the equipping character uses an Elemental Skill."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases DEF by 30%. DMG inflicted by Lunar-Crystallize reactions increases by 96% for 5s after the equipping character uses an Elemental Skill."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases DEF by 35%. DMG inflicted by Lunar-Crystallize reactions increases by 112% for 5s after the equipping character uses an Elemental Skill."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases DEF by 40%. DMG inflicted by Lunar-Crystallize reactions increases by 128% for 5s after the equipping character uses an Elemental Skill."
+    }
+  ]
+}

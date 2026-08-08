@@ -1,0 +1,55 @@
+{
+  "id": "10000116",
+  "name": "Ineffa",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 4,
+    "day": 2
+  },
+  "release": "2025-07-28T21:00:00",
+  "icon": "character-profiles/10000116/avatar.webp",
+  "fullWish": "character-profiles/10000116/full_wish.webp",
+  "title": "Boom Boom Thunderwave",
+  "description": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
+  "constellationName": "Vanilla Planifolia",
+  "native": "Clink-Clank Krumkake Craftshop",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Angelina Danielle Cama"
+    },
+    {
+      "lang": "CHS",
+      "va": "美加"
+    },
+    {
+      "lang": "JP",
+      "va": "中島愛"
+    },
+    {
+      "lang": "KR",
+      "va": "Sung Ye-won"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 981.9196,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 25.6956,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 64.43691,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

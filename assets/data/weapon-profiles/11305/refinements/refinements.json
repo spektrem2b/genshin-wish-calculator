@@ -1,0 +1,25 @@
+{
+  "name": "Gash",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "On hit, has a 50% chance to deal 240% ATK DMG to a single opponent. Can only occur once every 15s."
+    },
+    {
+      "refinement": 2,
+      "description": "On hit, has a 50% chance to deal 280% ATK DMG to a single opponent. Can only occur once every 14s."
+    },
+    {
+      "refinement": 3,
+      "description": "On hit, has a 50% chance to deal 320% ATK DMG to a single opponent. Can only occur once every 13s."
+    },
+    {
+      "refinement": 4,
+      "description": "On hit, has a 50% chance to deal 360% ATK DMG to a single opponent. Can only occur once every 12s."
+    },
+    {
+      "refinement": 5,
+      "description": "On hit, has a 50% chance to deal 400% ATK DMG to a single opponent. Can only occur once every 11s."
+    }
+  ]
+}

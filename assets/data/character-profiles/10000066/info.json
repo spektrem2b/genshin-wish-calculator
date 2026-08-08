@@ -1,0 +1,55 @@
+{
+  "id": "10000066",
+  "name": "Kamisato Ayato",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 3,
+    "day": 26
+  },
+  "release": "2022-03-29T21:00:00",
+  "icon": "character-profiles/10000066/avatar.webp",
+  "fullWish": "character-profiles/10000066/full_wish.webp",
+  "title": "Pillar of Fortitude",
+  "description": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+  "constellationName": "Cypressus Custos",
+  "native": "Yashiro Commission",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Chris Hackney"
+    },
+    {
+      "lang": "CHS",
+      "va": "赵路"
+    },
+    {
+      "lang": "JP",
+      "va": "石田彰"
+    },
+    {
+      "lang": "KR",
+      "va": "Jang Min-hyeok"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1067.7184,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 23.275,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.83,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "10000027",
+  "name": "Ningguang",
+  "element": "Geo",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 8,
+    "day": 26
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000027/avatar.webp",
+  "fullWish": "character-profiles/10000027/full_wish.webp",
+  "title": "Eclipsing Star",
+  "description": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+  "constellationName": "Opus Aequilibrium",
+  "native": "Liyue Qixing",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Erin Ebers"
+    },
+    {
+      "lang": "CHS",
+      "va": "杜冥鸦"
+    },
+    {
+      "lang": "JP",
+      "va": "大原さやか"
+    },
+    {
+      "lang": "KR",
+      "va": "Kwak Kyu-mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ROCK_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 820.6119,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.808,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 48.069,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

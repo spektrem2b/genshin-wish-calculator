@@ -1,0 +1,55 @@
+{
+  "id": "10000122",
+  "name": "Nefer",
+  "element": "Dendro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 5,
+    "day": 9
+  },
+  "release": "2025-10-20T21:00:00",
+  "icon": "character-profiles/10000122/avatar.webp",
+  "fullWish": "character-profiles/10000122/full_wish.webp",
+  "title": "Secret Beneath the Sands",
+  "description": "The remarkably resourceful owner of the Curatorium of Secrets.",
+  "constellationName": "Ludus Latrunculorum",
+  "native": "Curatorium of Secrets",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Ashleigh Haddad"
+    },
+    {
+      "lang": "CHS",
+      "va": "曾彤"
+    },
+    {
+      "lang": "JP",
+      "va": "水樹奈々"
+    },
+    {
+      "lang": "KR",
+      "va": "Won Esther"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 988.9742,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.8128,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.2232,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

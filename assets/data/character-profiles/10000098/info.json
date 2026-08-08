@@ -1,0 +1,55 @@
+{
+  "id": "10000098",
+  "name": "Clorinde",
+  "element": "Electro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 9,
+    "day": 20
+  },
+  "release": "2024-06-03T21:00:00",
+  "icon": "character-profiles/10000098/avatar.webp",
+  "fullWish": "character-profiles/10000098/full_wish.webp",
+  "title": "Candlebearer, Shadowhunter",
+  "description": "An undefeated Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.",
+  "constellationName": "Rapperia",
+  "native": "Trial Court",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Crystal Lee"
+    },
+    {
+      "lang": "CHS",
+      "va": "赵涵雨"
+    },
+    {
+      "lang": "JP",
+      "va": "石川由依"
+    },
+    {
+      "lang": "KR",
+      "va": "Shin Na-ri"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1008.61255,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.2542,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.0266,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

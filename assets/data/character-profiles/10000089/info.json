@@ -1,0 +1,55 @@
+{
+  "id": "10000089",
+  "name": "Furina",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 10,
+    "day": 13
+  },
+  "release": "2023-11-06T22:00:00",
+  "icon": "character-profiles/10000089/avatar.webp",
+  "fullWish": "character-profiles/10000089/full_wish.webp",
+  "title": "Endless Solo of Solitude",
+  "description": "The absolute focus of the stage of judgment, until the final applause sounds.",
+  "constellationName": "Animula Choragi",
+  "native": "Court of Fontaine",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Amber Lee Connors"
+    },
+    {
+      "lang": "CHS",
+      "va": "钱琛"
+    },
+    {
+      "lang": "JP",
+      "va": "水瀬いのり"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Ha-young"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1191.65,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.9924,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 54.14615,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

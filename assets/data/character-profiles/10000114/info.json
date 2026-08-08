@@ -1,0 +1,55 @@
+{
+  "id": "10000114",
+  "name": "Skirk",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "OMNI_SCOURGE",
+  "birthday": {
+    "month": 11,
+    "day": 5
+  },
+  "release": "2025-06-16T21:00:00",
+  "icon": "character-profiles/10000114/avatar.webp",
+  "fullWish": "character-profiles/10000114/full_wish.webp",
+  "title": "Void Star",
+  "description": "A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.",
+  "constellationName": "Crystallina",
+  "native": "Cosmic Calamity",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Cat Protano"
+    },
+    {
+      "lang": "CHS",
+      "va": "谢莹"
+    },
+    {
+      "lang": "JP",
+      "va": "能登麻美子"
+    },
+    {
+      "lang": "KR",
+      "va": "Seo Da-hye"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 966.6665,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 27.93,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.76167,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

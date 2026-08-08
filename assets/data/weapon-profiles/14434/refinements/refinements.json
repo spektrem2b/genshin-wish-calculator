@@ -1,0 +1,25 @@
+{
+  "name": "Nocturnal Dreams",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 72. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 48."
+    },
+    {
+      "refinement": 2,
+      "description": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 90. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 60."
+    },
+    {
+      "refinement": 3,
+      "description": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 108. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 72."
+    },
+    {
+      "refinement": 4,
+      "description": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 126. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 84."
+    },
+    {
+      "refinement": 5,
+      "description": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 144. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 96."
+    }
+  ]
+}

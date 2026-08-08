@@ -1,0 +1,55 @@
+{
+  "id": "10000032",
+  "name": "Bennett",
+  "element": "Pyro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 2,
+    "day": 29
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "character-profiles/10000032/avatar.webp",
+  "fullWish": "character-profiles/10000032/full_wish.webp",
+  "title": "Trial by Fire",
+  "description": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+  "constellationName": "Rota Calamitas",
+  "native": "Adventurers' Guild",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Cristina Vee Valenzuela"
+    },
+    {
+      "lang": "CHS",
+      "va": "穆雪婷"
+    },
+    {
+      "lang": "JP",
+      "va": "逢坂良太"
+    },
+    {
+      "lang": "KR",
+      "va": "Song Ha-rim"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.4418,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.0272,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 64.66425,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

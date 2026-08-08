@@ -1,0 +1,25 @@
+{
+  "name": "Bane of Storm and Tide",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases DMG against opponents affected by Hydro or Electro by 20%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases DMG against opponents affected by Hydro or Electro by 24%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases DMG against opponents affected by Hydro or Electro by 28%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases DMG against opponents affected by Hydro or Electro by 32%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases DMG against opponents affected by Hydro or Electro by 36%."
+    }
+  ]
+}

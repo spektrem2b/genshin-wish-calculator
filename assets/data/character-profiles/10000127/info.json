@@ -1,0 +1,55 @@
+{
+  "id": "10000127",
+  "name": "Illuga",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 12,
+    "day": 23
+  },
+  "release": "2026-02-03T16:00:00",
+  "icon": "character-profiles/10000127/avatar.webp",
+  "fullWish": "character-profiles/10000127/full_wish.webp",
+  "title": "Nightmare's Burning Heart",
+  "description": "Member of the investigation squad, the Nightmare Orioles. The youngest squad leader among the Lightkeepers.",
+  "constellationName": "Oriolus",
+  "native": "Lightkeepers",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Jonathon Ha"
+    },
+    {
+      "lang": "CHS",
+      "va": "昱头"
+    },
+    {
+      "lang": "JP",
+      "va": "梅田修一朗"
+    },
+    {
+      "lang": "KR",
+      "va": "Hwang Dong-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1002.9701,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.0272,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 68.2122,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

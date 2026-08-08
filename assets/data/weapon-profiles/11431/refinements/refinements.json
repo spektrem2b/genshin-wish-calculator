@@ -1,0 +1,25 @@
+{
+  "name": "Smoke-and-Mirror Mystery",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Using an Elemental Skill increases DEF by 16% for 15s."
+    },
+    {
+      "refinement": 2,
+      "description": "Using an Elemental Skill increases DEF by 20% for 15s."
+    },
+    {
+      "refinement": 3,
+      "description": "Using an Elemental Skill increases DEF by 24% for 15s."
+    },
+    {
+      "refinement": 4,
+      "description": "Using an Elemental Skill increases DEF by 28% for 15s."
+    },
+    {
+      "refinement": 5,
+      "description": "Using an Elemental Skill increases DEF by 32% for 15s."
+    }
+  ]
+}

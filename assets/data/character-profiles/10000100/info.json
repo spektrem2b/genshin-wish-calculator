@@ -1,0 +1,55 @@
+{
+  "id": "10000100",
+  "name": "Kachina",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 4,
+    "day": 22
+  },
+  "release": "2024-08-26T21:00:00",
+  "icon": "character-profiles/10000100/avatar.webp",
+  "fullWish": "character-profiles/10000100/full_wish.webp",
+  "title": "Mottled Gold Yet Unsmelted",
+  "description": "A young warrior of the Nanatzcayan, given the Ancient Name of \"Uthabiti.\" Kind-hearted and insatiably persistent, she grows stronger and more capable with each setback she faces.",
+  "constellationName": "Ochotona Princeps",
+  "native": "Nanatzcayan",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kristen McGuire"
+    },
+    {
+      "lang": "CHS",
+      "va": "静宸"
+    },
+    {
+      "lang": "JP",
+      "va": "久保ユリカ"
+    },
+    {
+      "lang": "KR",
+      "va": "Son Sun-young"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ROCK_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 989.2932,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.16416,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 66.438225,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

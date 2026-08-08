@@ -1,0 +1,55 @@
+{
+  "id": "10000063",
+  "name": "Shenhe",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 3,
+    "day": 10
+  },
+  "release": "2022-01-04T22:00:00",
+  "icon": "character-profiles/10000063/avatar.webp",
+  "fullWish": "character-profiles/10000063/full_wish.webp",
+  "title": "Lonesome Transcendence",
+  "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+  "constellationName": "Crista Doloris",
+  "native": "Cloud Retainer's Abode",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Chelsea Kwoka"
+    },
+    {
+      "lang": "CHS",
+      "va": "秦紫翼"
+    },
+    {
+      "lang": "JP",
+      "va": "川澄綾子"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Hyeon-jin"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1011.47253,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 23.6474,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 64.6164,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}
