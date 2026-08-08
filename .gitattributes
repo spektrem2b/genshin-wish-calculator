@@ -1,0 +1,7 @@
+﻿*.js filter=stripjs
+*.css filter=stripcss
+*.html filter=striphtml
+
+assets/data/**/*.js -filter text eol=lf
+assets/data/**/*.json -filter text eol=lf
+scripts/.data-version.json -filter text eol=lf

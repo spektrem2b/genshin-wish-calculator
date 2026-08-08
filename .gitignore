@@ -1,0 +1,13 @@
+.cache/
+__pycache__/
+*.pyc
+scripts/raw_dumps/
+node_modules/
+localhost.bat
+troubleshoot.bat
+worker.bat
+dist/
+dist_troubleshoot/
+docs/
+NOPUSH/
+build_troubleshoot.js
