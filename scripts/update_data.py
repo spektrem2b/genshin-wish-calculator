@@ -44,7 +44,7 @@ CHAR_OUT_DIR = os.path.join(DATA_DIR, "character-profiles")
 WEAPON_OUT_DIR = os.path.join(DATA_DIR, "weapon-profiles")
 SHARED_ASSETS_DIR = os.path.join(DATA_DIR, "shared-assets", "materials")
 
-DATA_SCHEMA_VERSION = 9
+DATA_SCHEMA_VERSION = 10
 
 DETAIL_FETCH_DELAY = 0.4
 ASSET_DOWNLOAD_CONCURRENCY = 8
