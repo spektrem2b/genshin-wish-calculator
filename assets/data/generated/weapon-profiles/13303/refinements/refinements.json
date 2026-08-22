@@ -1,0 +1,25 @@
+{
+  "name": "Bane of the Soft",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases DMG against slimes by 40%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases DMG against slimes by 50%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases DMG against slimes by 60%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases DMG against slimes by 70%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases DMG against slimes by 80%."
+    }
+  ]
+}

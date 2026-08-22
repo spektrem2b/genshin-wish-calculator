@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Entangling Bloom",
+    "description": "A lovely amulet made from twisted paper cord. It is said to hold the power to make wishes come true.",
+    "icon": "generated/artifact-profiles/15019/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Shaft of Remembrance",
+    "description": "A demon-slaying arrow of a rather ancient make. It seems to have been preserved with great care by someone, even until the present day.",
+    "icon": "generated/artifact-profiles/15019/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Morning Dew's Moment",
+    "description": "A bronze pocket watch adorned with twisted paper cord and a bell. Its hands are forever frozen at the dawn of a certain autumn day.",
+    "icon": "generated/artifact-profiles/15019/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Hopeful Heart",
+    "description": "A special fortune-telling cylindrical object. The mechanism at the bottom allows one to easily remove all unwanted wish sticks.",
+    "icon": "generated/artifact-profiles/15019/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Capricious Visage",
+    "description": "A well-preserved ceremonial fox mask. A small, enigmatic smile ever graces its lips.",
+    "icon": "generated/artifact-profiles/15019/pieces/artifact_circlet.webp"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Instructor's Brooch",
+    "description": "Whenever the instructor wore this brooch, it meant there would be no training sessions that day.",
+    "icon": "generated/artifact-profiles/10007/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Instructor's Feather Accessory",
+    "description": "Any instructor who has mastered the art of de-escalation knows to keep this accessory firmly in their grasp at all times.",
+    "icon": "generated/artifact-profiles/10007/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Instructor's Pocket Watch",
+    "description": "A stopwatch used not for general timekeeping but to measure the duration of a training session.",
+    "icon": "generated/artifact-profiles/10007/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Instructor's Tea Cup",
+    "description": "It may seem like an ordinary tea cup to most. But to students, it is the symbol of the instructor's authority.",
+    "icon": "generated/artifact-profiles/10007/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Instructor's Cap",
+    "description": "A standard-issue honorary instructor's cap, only granted to those who turn down a promotion.",
+    "icon": "generated/artifact-profiles/10007/pieces/artifact_circlet.webp"
+  }
+]

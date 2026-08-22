@@ -1,0 +1,19 @@
+{
+  "id": 11521,
+  "name": "Exaiphanes Blade",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "A longsword that once shone with the light of the very stars. In the voyager's hand, it becomes a brand-new light that has nothing to do with any past era.",
+  "icon": "generated/weapon-profiles/11521/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

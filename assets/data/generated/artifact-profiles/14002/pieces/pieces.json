@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Thundersoother's Heart",
+    "description": "A flower that blooms even amidst ferocious thunder and lightning. To this day, it still grants courage to travelers in thunderstorms.",
+    "icon": "generated/artifact-profiles/14002/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Thundersoother's Plume",
+    "description": "The feather of a predatory bird that soars through lightning storms. It was said to have been adopted as an insignia by the legendary hero who pacified thunder and lightning.",
+    "icon": "generated/artifact-profiles/14002/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Hour of Soothing Thunder",
+    "description": "A timepiece kept by the hero who conquered thunder and lightning. The tiny shards of Electro crystal within flow back and forth with the passing of time.",
+    "icon": "generated/artifact-profiles/14002/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Thundersoother's Goblet",
+    "description": "The wine goblet from which the Thundersoother, who defeated the Beast of Thunder, once drank violet lightning.",
+    "icon": "generated/artifact-profiles/14002/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Thundersoother's Diadem",
+    "description": "The crown given to the Thundersoother for defeating the Beast of Thunder that had been wreaking havoc upon the land.",
+    "icon": "generated/artifact-profiles/14002/pieces/artifact_circlet.webp"
+  }
+]

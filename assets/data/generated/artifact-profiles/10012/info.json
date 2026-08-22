@@ -1,0 +1,21 @@
+{
+  "id": 10012,
+  "name": "Scholar",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10012/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Energy Recharge +20%",
+      "affixId": "2100120"
+    },
+    {
+      "pieces": 4,
+      "effect": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s.",
+      "affixId": "2100121"
+    }
+  ]
+}

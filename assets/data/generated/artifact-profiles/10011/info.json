@@ -1,0 +1,22 @@
+{
+  "id": 10011,
+  "name": "Lucky Dog",
+  "rarityList": [
+    1,
+    2,
+    3
+  ],
+  "icon": "generated/artifact-profiles/10011/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "DEF increased by 100.",
+      "affixId": "2100110"
+    },
+    {
+      "pieces": 4,
+      "effect": "Picking up Mora restores 300 HP.",
+      "affixId": "2100111"
+    }
+  ]
+}

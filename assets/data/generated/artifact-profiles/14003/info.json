@@ -1,0 +1,21 @@
+{
+  "id": 14003,
+  "name": "Lavawalker",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/14003/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Pyro RES increased by 40%.",
+      "affixId": "2140030"
+    },
+    {
+      "pieces": 4,
+      "effect": "Increases DMG against opponents affected by Pyro by 35%.",
+      "affixId": "2140031"
+    }
+  ]
+}

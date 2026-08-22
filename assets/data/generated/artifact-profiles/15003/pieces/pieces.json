@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Troupe's Dawnlight",
+    "description": "A small flower-shaped insignia. If you listen carefully, you can almost hear a flute playing and voices singing.",
+    "icon": "generated/artifact-profiles/15003/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Bard's Arrow Feather",
+    "description": "An azure arrow fletching that has neither faded nor splintered with the passage of time. The sound of running water seems to linger around it.",
+    "icon": "generated/artifact-profiles/15003/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Concert's Final Hour",
+    "description": "An hourglass used to keep time during a band performance. It once made a crisp sound, but their performance has since ended.",
+    "icon": "generated/artifact-profiles/15003/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Wanderer's String-Kettle",
+    "description": "An ancient, strangely-shaped canteen. The interior is fitted with harp strings, which play a wondrous tune as the water flows out.",
+    "icon": "generated/artifact-profiles/15003/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Conductor's Top Hat",
+    "description": "A top hat that has managed to retain its radiance despite braving the elements for time untold. An ancient tune still resonates within.",
+    "icon": "generated/artifact-profiles/15003/pieces/artifact_circlet.webp"
+  }
+]

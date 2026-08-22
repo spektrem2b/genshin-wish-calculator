@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Honor to Your Devotion",
+    "description": "A bright red flower ornament that symbolizes blazing glory.",
+    "icon": "generated/artifact-profiles/15047/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Glory to Your Legacy",
+    "description": "A bright red quill pen, granted to the youngest blood.",
+    "icon": "generated/artifact-profiles/15047/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Time Gifted Unto You",
+    "description": "A bright red pocket watch marking the time allotted for a conversation.",
+    "icon": "generated/artifact-profiles/15047/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Chalice of Your Blood and Sorrow",
+    "description": "A bright red wine bottle. May you never learn what's been in it.",
+    "icon": "generated/artifact-profiles/15047/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Testament to Your Faith",
+    "description": "A bright red helmet. Hopefully it has, once upon a time, protected someone.",
+    "icon": "generated/artifact-profiles/15047/pieces/artifact_circlet.webp"
+  }
+]

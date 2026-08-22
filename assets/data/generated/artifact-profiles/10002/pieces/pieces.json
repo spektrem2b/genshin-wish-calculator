@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Medal of the Brave",
+    "description": "A simple flower brooch that is a keepsake from someone's first adventure.",
+    "icon": "generated/artifact-profiles/10002/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Prospect of the Brave",
+    "description": "A shimmering feather from a songbird that brings a nudge of courage to its wearer.",
+    "icon": "generated/artifact-profiles/10002/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Fortitude of the Brave",
+    "description": "A dated miniature hourglass that serves no practical purpose. It seems as elusive as time itself.",
+    "icon": "generated/artifact-profiles/10002/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Outset of the Brave",
+    "description": "A crude wooden vessel filled only with memories.",
+    "icon": "generated/artifact-profiles/10002/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Crown of the Brave",
+    "description": "A rough-and-ready laurel wreath that seems as precious as a king's golden crown.",
+    "icon": "generated/artifact-profiles/10002/pieces/artifact_circlet.webp"
+  }
+]

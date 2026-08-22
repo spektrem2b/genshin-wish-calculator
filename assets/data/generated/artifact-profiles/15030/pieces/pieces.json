@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Stamen of Khvarena's Origin",
+    "description": "An insignia in the shape of a lovely little flower that was once worn by pilgrims in times long bygone.",
+    "icon": "generated/artifact-profiles/15030/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Vibrant Pinion",
+    "description": "An exquisite feather-shaped decoration on which the vivid hues of verdant leaves and fragrant flowers shimmer.",
+    "icon": "generated/artifact-profiles/15030/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Ancient Abscission",
+    "description": "An ancient timepiece upon which the light of Khvarena gleams. It is filled with a pure liquid that appears alive.",
+    "icon": "generated/artifact-profiles/15030/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Feast of Boundless Joy",
+    "description": "An opulent wine goblet that was once filled with nectar and honeydew, but is empty today.",
+    "icon": "generated/artifact-profiles/15030/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Heart of Khvarena's Brilliance",
+    "description": "Intricate and vibrant earrings upon which the luster of a hundred flowers seems to flow.",
+    "icon": "generated/artifact-profiles/15030/pieces/artifact_circlet.webp"
+  }
+]

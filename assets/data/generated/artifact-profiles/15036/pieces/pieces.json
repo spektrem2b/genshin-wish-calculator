@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Dark Fruit of Bright Flowers",
+    "description": "A flower carved from grey stone covered with gold foil. Legends say that during a war, it was used to differentiate friend from foe.",
+    "icon": "generated/artifact-profiles/15036/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Faded Emerald Tail",
+    "description": "A tail feather ornament whose luster has long faded. The patterns on it are said to have been etched by the hand of a skilled artisan from long ago.",
+    "icon": "generated/artifact-profiles/15036/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Moment of Attainment",
+    "description": "A sundial used by an ancient kingdom to tell time. Tiny marks have been left at a certain scale that can only be seen through careful observation.",
+    "icon": "generated/artifact-profiles/15036/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "The Wine-Flask Over Which the Plan Was Hatched",
+    "description": "A three-legged cup. Once, many heroes were gathered around the bonfire, raising their cups high in toast and drinking their fill while discussing their wishes and ambitions.",
+    "icon": "generated/artifact-profiles/15036/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Crownless Crown",
+    "description": "A golden crown decorated with turquoise and emerald feathers, it has never been used in a coronation, living alone atop a velvet cushion.",
+    "icon": "generated/artifact-profiles/15036/pieces/artifact_circlet.webp"
+  }
+]

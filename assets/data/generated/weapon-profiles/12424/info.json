@@ -1,0 +1,19 @@
+{
+  "id": 12424,
+  "name": "Talking Stick",
+  "type": "Claymore",
+  "rarity": 4,
+  "description": "Most people will find this obsidian-inlaid club quite convincing indeed.",
+  "icon": "generated/weapon-profiles/12424/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.04,
+  "substat_lvl90": 0.1838,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

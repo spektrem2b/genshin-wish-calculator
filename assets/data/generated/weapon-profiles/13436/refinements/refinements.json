@@ -1,0 +1,25 @@
+{
+  "name": "Cadence of Days Gone By",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Triggering an Elemental Reaction regenerates 4 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 20% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    },
+    {
+      "refinement": 2,
+      "description": "Triggering an Elemental Reaction regenerates 5 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 25% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    },
+    {
+      "refinement": 3,
+      "description": "Triggering an Elemental Reaction regenerates 6 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 30% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    },
+    {
+      "refinement": 4,
+      "description": "Triggering an Elemental Reaction regenerates 7 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 35% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    },
+    {
+      "refinement": 5,
+      "description": "Triggering an Elemental Reaction regenerates 8 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 40% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    }
+  ]
+}

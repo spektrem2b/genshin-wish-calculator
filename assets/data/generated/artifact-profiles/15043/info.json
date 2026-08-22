@@ -1,0 +1,21 @@
+{
+  "id": 15043,
+  "name": "Aubade of Morningstar and Moon",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15043/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Increases Elemental Mastery by 80.",
+      "affixId": "2150430"
+    },
+    {
+      "pieces": 4,
+      "effect": "When the equipping character is off-field, Lunar Reaction DMG is increased by 20%. When the party's Moonsign Level is at least Ascendant Gleam, Lunar Reaction DMG will be further increased by 40%. This effect will disappear after the equipping character is active for 3s.",
+      "affixId": "2150431"
+    }
+  ]
+}

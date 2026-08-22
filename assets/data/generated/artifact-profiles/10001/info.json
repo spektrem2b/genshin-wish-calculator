@@ -1,0 +1,21 @@
+{
+  "id": 10001,
+  "name": "Resolution of Sojourner",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10001/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "ATK +18%.",
+      "affixId": "2100010"
+    },
+    {
+      "pieces": 4,
+      "effect": "Increases Charged Attack CRIT Rate by 30%.",
+      "affixId": "2100011"
+    }
+  ]
+}

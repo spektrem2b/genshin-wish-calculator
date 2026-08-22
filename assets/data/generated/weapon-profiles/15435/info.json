@@ -1,0 +1,19 @@
+{
+  "id": 15435,
+  "name": "Jade Vista",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A longbow of immense strength. It shines with the radiance of dreams even in the darkest of nights.",
+  "icon": "generated/weapon-profiles/15435/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

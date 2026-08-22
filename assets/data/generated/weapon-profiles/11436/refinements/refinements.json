@@ -1,0 +1,25 @@
+{
+  "name": "Starfire Upon the Snowplains",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Triggering an Elemental Reaction increases the equipping character's ATK by 16% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 16% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    },
+    {
+      "refinement": 2,
+      "description": "Triggering an Elemental Reaction increases the equipping character's ATK by 20% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 20% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    },
+    {
+      "refinement": 3,
+      "description": "Triggering an Elemental Reaction increases the equipping character's ATK by 24% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 24% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    },
+    {
+      "refinement": 4,
+      "description": "Triggering an Elemental Reaction increases the equipping character's ATK by 28% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 28% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    },
+    {
+      "refinement": 5,
+      "description": "Triggering an Elemental Reaction increases the equipping character's ATK by 32% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 32% for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    }
+  ]
+}

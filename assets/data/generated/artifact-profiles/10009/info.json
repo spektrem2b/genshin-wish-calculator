@@ -1,0 +1,21 @@
+{
+  "id": 10009,
+  "name": "The Exile",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10009/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Energy Recharge +20%",
+      "affixId": "2100090"
+    },
+    {
+      "pieces": 4,
+      "effect": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.",
+      "affixId": "2100091"
+    }
+  ]
+}

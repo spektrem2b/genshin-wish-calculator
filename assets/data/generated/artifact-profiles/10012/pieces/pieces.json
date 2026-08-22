@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Scholar's Bookmark",
+    "description": "A dried flower used as a bookmark. It has absorbed the scent from the pages.",
+    "icon": "generated/artifact-profiles/10012/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Scholar's Quill Pen",
+    "description": "A bird's feather that serves as a quill pen. The tip has long been stained black.",
+    "icon": "generated/artifact-profiles/10012/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Scholar's Clock",
+    "description": "A small desktop clock, whose former owner was a scholar sat in a windowless room buried in books. This was probably the only reference they had to the time of day.",
+    "icon": "generated/artifact-profiles/10012/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Scholar's Ink Cup",
+    "description": "Originally designed to hold drinking water, this cup was stained black after a scholar used it to wash their paint brushes.",
+    "icon": "generated/artifact-profiles/10012/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Scholar's Lens",
+    "description": "This corrective lens helped restore the vision of one whose eyes were damaged from intensive studying.",
+    "icon": "generated/artifact-profiles/10012/pieces/artifact_circlet.webp"
+  }
+]

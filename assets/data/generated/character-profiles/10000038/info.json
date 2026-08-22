@@ -1,0 +1,56 @@
+{
+  "id": "10000038",
+  "name": "Albedo",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 9,
+    "day": 13
+  },
+  "release": "2020-12-21T22:00:00",
+  "icon": "generated/character-profiles/10000038/avatar.webp",
+  "fullWish": "generated/character-profiles/10000038/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": "Kreideprinz",
+  "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+  "constellationName": "Princeps Cretaceus",
+  "native": "Knights of Favonius",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Khoi Dao"
+    },
+    {
+      "lang": "CHS",
+      "va": "Mace"
+    },
+    {
+      "lang": "JP",
+      "va": "野島健児"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Myeong-joon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ROCK_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1029.5856,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.551,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 68.2062,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

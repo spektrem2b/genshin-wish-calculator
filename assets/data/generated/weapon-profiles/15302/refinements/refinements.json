@@ -1,0 +1,25 @@
+{
+  "name": "Precise",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases DMG against weak spots by 24%."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases DMG against weak spots by 30%."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases DMG against weak spots by 36%."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases DMG against weak spots by 42%."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases DMG against weak spots by 48%."
+    }
+  ]
+}

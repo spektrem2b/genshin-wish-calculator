@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Heavensent Fragrance",
+    "description": "The high heavens bestowed an everlasting flower on their envoy, and greed was born of a life without end.",
+    "icon": "generated/artifact-profiles/15045/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Heavensent Demise",
+    "description": "The high heavens bestowed a feather of rebirth on their envoy, with all sin to be forgiven where even fate meets its very end.",
+    "icon": "generated/artifact-profiles/15045/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Heavensent Decree",
+    "description": "The high heavens bestowed a sundial of counter-time on their envoy, and an inviolable interdiction became a wellspring of rage.",
+    "icon": "generated/artifact-profiles/15045/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Heavensent Reward",
+    "description": "The high heavens bestowed sweet nectar on their envoy, and the unending feast opened wide the doors to desire.",
+    "icon": "generated/artifact-profiles/15045/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Heavensent Crown",
+    "description": "The high heavens bestowed a splendid crown on their envoy, and arrogance was born out of power unchecked.",
+    "icon": "generated/artifact-profiles/15045/pieces/artifact_circlet.webp"
+  }
+]

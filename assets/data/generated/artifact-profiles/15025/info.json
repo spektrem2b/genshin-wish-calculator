@@ -1,0 +1,21 @@
+{
+  "id": 15025,
+  "name": "Deepwood Memories",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15025/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Dendro DMG Bonus +15%.",
+      "affixId": "2150250"
+    },
+    {
+      "pieces": 4,
+      "effect": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.",
+      "affixId": "2150251"
+    }
+  ]
+}

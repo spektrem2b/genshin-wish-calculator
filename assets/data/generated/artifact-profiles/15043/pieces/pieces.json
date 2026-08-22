@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Moonlit Offering's Opulent Dream",
+    "description": "A meticulously carved floral ornament meant to highlight the resplendent beauty of the goddesses of the heavenly moons, crafted in ancient times by artisans who sculpted statues of them.",
+    "icon": "generated/artifact-profiles/15043/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Moonlit Offering's Parting Light",
+    "description": "A quill that, in ancient times, granted boundless inspiration to priests who penned prayers to the heavenly moons.",
+    "icon": "generated/artifact-profiles/15043/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Moonlit Offering's Final Hour",
+    "description": "An hourglass meant to commemorate the final hour, prepared by sages who, in ancient times, sought truth from the heavenly moons.",
+    "icon": "generated/artifact-profiles/15043/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Moonlit Offering's Libation",
+    "description": "A wine cup lost in the final revelry of an ancient rite, in which believers once offered sacrifices to the heavenly moons.",
+    "icon": "generated/artifact-profiles/15043/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Moonlit Offering's Silver Crown",
+    "description": "A silver circlet set aside at the final syllable of a hymn, worn by poets who, in ancient times, sang in praise of the heavenly moons.",
+    "icon": "generated/artifact-profiles/15043/pieces/artifact_circlet.webp"
+  }
+]

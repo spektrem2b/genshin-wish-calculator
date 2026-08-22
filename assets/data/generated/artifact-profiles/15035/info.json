@@ -1,0 +1,21 @@
+{
+  "id": 15035,
+  "name": "Fragment of Harmonic Whimsy",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15035/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "ATK +18%.",
+      "affixId": "2150350"
+    },
+    {
+      "pieces": 4,
+      "effect": "When the value of a Bond of Life increases or decreases, this character deals 18% increased DMG for 6s. Max 3 stacks.",
+      "affixId": "2150351"
+    }
+  ]
+}

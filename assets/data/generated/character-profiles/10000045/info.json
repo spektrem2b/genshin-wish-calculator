@@ -1,0 +1,56 @@
+{
+  "id": "10000045",
+  "name": "Rosaria",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 1,
+    "day": 24
+  },
+  "release": "2021-04-06T15:00:00",
+  "icon": "generated/character-profiles/10000045/avatar.webp",
+  "fullWish": "generated/character-profiles/10000045/full_wish.webp",
+  "fullWishObjectPosition": "48.9% 21.5%",
+  "title": "Thorny Benevolence",
+  "description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+  "constellationName": "Spinea Corona",
+  "native": "Church of Favonius",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Elizabeth Maxwell"
+    },
+    {
+      "lang": "CHS",
+      "va": "张安琪"
+    },
+    {
+      "lang": "JP",
+      "va": "加隈亜衣"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Bo-na"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1030.3239,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.12304,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.514,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

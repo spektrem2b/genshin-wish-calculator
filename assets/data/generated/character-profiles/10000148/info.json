@@ -1,0 +1,56 @@
+{
+  "id": "10000148",
+  "name": "Alyosha",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "SNEZHNAYA",
+  "birthday": {
+    "month": 2,
+    "day": 9
+  },
+  "release": "2026-08-10T21:00:00",
+  "icon": "generated/character-profiles/10000148/avatar.webp",
+  "fullWish": "generated/character-profiles/10000148/full_wish.webp",
+  "fullWishObjectPosition": "39.4% 40.7%",
+  "title": "Swift-Striding Hound",
+  "description": "A \"professional hunter\" and master of the Snezhnayan snowfields. A fierce, distinct \"idealism\" burns beneath his calm demeanor.",
+  "constellationName": "Canis Borzoides",
+  "native": "Snezhnaya",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kevin Andrew Rivera"
+    },
+    {
+      "lang": "CHS",
+      "va": "王辅平"
+    },
+    {
+      "lang": "JP",
+      "va": "佐藤元"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Hye-sung"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1002.9701,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 22.26,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 58.94175,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15040,
+  "name": "Finale of the Deep Galleries",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15040/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Cryo DMG Bonus +15%",
+      "affixId": "2150400"
+    },
+    {
+      "pieces": 4,
+      "effect": "When the equipping character has 0 Elemental Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field.",
+      "affixId": "2150401"
+    }
+  ]
+}

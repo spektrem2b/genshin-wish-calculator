@@ -1,0 +1,25 @@
+{
+  "name": "Melussistance!",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "ATK increased by 12%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 12%."
+    },
+    {
+      "refinement": 2,
+      "description": "ATK increased by 15%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 15%."
+    },
+    {
+      "refinement": 3,
+      "description": "ATK increased by 18%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 18%."
+    },
+    {
+      "refinement": 4,
+      "description": "ATK increased by 21%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 21%."
+    },
+    {
+      "refinement": 5,
+      "description": "ATK increased by 24%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 24%."
+    }
+  ]
+}

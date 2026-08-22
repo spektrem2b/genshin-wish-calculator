@@ -1,0 +1,21 @@
+{
+  "id": 10005,
+  "name": "Berserker",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10005/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "CRIT Rate +12%",
+      "affixId": "2100050"
+    },
+    {
+      "pieces": 4,
+      "effect": "When HP is below 70%, CRIT Rate increases by an additional 24%.",
+      "affixId": "2100051"
+    }
+  ]
+}

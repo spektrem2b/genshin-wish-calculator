@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "The First Days of the City of Kings",
+    "description": "An artificial flower that shimmers with a strange light. If you incline your ear to it, you can vaguely hear charming laughter issuing from within.",
+    "icon": "generated/artifact-profiles/15027/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "End of the Golden Realm",
+    "description": "A crystal-clear artificial feather that is one of the legacies of an ancient human realm. The cries of soaring eagles are also sealed within.",
+    "icon": "generated/artifact-profiles/15027/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Timepiece of the Lost Path",
+    "description": "An ancient mechanical clock. The Jinni fragments continue to emit light at its center and vibrate ever so slightly, as if to say something...",
+    "icon": "generated/artifact-profiles/15027/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Defender of the Enchanting Dream",
+    "description": "An ancient golden cup that is both marvelously and luxuriously wrought. Murmurings can be heard within its empty innards.",
+    "icon": "generated/artifact-profiles/15027/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Legacy of the Desert High-Born",
+    "description": "Earrings made from amber gold that shines with a strange light.",
+    "icon": "generated/artifact-profiles/15027/pieces/artifact_circlet.webp"
+  }
+]

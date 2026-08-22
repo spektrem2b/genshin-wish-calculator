@@ -1,0 +1,16 @@
+{
+  "id": 15013,
+  "name": "Prayers to Springtime",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/15013/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Affected by Cryo for 40% less time.",
+      "affixId": "2150130"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10003,
+  "name": "Defender's Will",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10003/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "DEF +30%",
+      "affixId": "2100030"
+    },
+    {
+      "pieces": 4,
+      "effect": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%.",
+      "affixId": "2100031"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Flower of Accolades",
+    "description": "A flower made from gold leaf. It represents the glories and honors attained by its wearer.",
+    "icon": "generated/artifact-profiles/15017/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Ceremonial War-Plume",
+    "description": "A falcon feather worn on ceremonial occasions. It displays the dignity and resolve of Liyue Harbor to the outside world.",
+    "icon": "generated/artifact-profiles/15017/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Orichalceous Time-Dial",
+    "description": "A simple device for telling time. This was once standard-issue for the Millelith during times of war.",
+    "icon": "generated/artifact-profiles/15017/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Noble's Pledging Vessel",
+    "description": "A golden cup used by the Millelith to take their oaths. Still bears the lovely scent of wine.",
+    "icon": "generated/artifact-profiles/15017/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "General's Ancient Helm",
+    "description": "A splendorous helmet from ages past. Clean the dust away and it will look brand-new once more.",
+    "icon": "generated/artifact-profiles/15017/pieces/artifact_circlet.webp"
+  }
+]

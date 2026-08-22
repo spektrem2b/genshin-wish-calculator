@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Gambler's Brooch",
+    "description": "A big, luxurious flower that can hide loaded dice.",
+    "icon": "generated/artifact-profiles/10008/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Gambler's Feather Accessory",
+    "description": "The tail feather of a large bird. Perfect for discretely concealing a trump card.",
+    "icon": "generated/artifact-profiles/10008/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Gambler's Pocket Watch",
+    "description": "A shattered pocket watch that once took a lethal hit for its owner.",
+    "icon": "generated/artifact-profiles/10008/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Gambler's Dice Cup",
+    "description": "This vessel was specially made for a single purpose. It has absolutely no secret compartments built into it.",
+    "icon": "generated/artifact-profiles/10008/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Gambler's Earrings",
+    "description": "A pair of blue earrings that, when worn, calm the mind and encourage a rational assessment of risks.",
+    "icon": "generated/artifact-profiles/10008/pieces/artifact_circlet.webp"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Sea-Dyed Blossom",
+    "description": "A soft flower that has taken on the many shades of the capricious ocean. It shines with wondrous colors under the moon's silver light.",
+    "icon": "generated/artifact-profiles/15022/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Deep Palace's Plume",
+    "description": "A down feather with the same hue as coral, said to come from a shrine maiden's ceremonial garment.",
+    "icon": "generated/artifact-profiles/15022/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Cowry of Parting",
+    "description": "A clean, flawless seashell that comes from the bottomless ocean.",
+    "icon": "generated/artifact-profiles/15022/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Pearl Cage",
+    "description": "The shining pearls that the shrine maidens of Watatsumi Island offer up shine eternally and never dim.",
+    "icon": "generated/artifact-profiles/15022/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Crown of Watatsumi",
+    "description": "An ancient, intricate crown that was once used by a forgotten clergy member. Today, this relic has been enshrined with great ceremony by the people of Watatsumi.",
+    "icon": "generated/artifact-profiles/15022/pieces/artifact_circlet.webp"
+  }
+]

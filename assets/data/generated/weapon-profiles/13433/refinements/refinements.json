@@ -1,0 +1,25 @@
+{
+  "name": "Swift and Sure",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Electro-Charged DMG is increased by 48%, and Lunar-Charged DMG is increased by 12%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 12%."
+    },
+    {
+      "refinement": 2,
+      "description": "Electro-Charged DMG is increased by 60%, and Lunar-Charged DMG is increased by 15%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 15%."
+    },
+    {
+      "refinement": 3,
+      "description": "Electro-Charged DMG is increased by 72%, and Lunar-Charged DMG is increased by 18%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 18%."
+    },
+    {
+      "refinement": 4,
+      "description": "Electro-Charged DMG is increased by 84%, and Lunar-Charged DMG is increased by 21%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 21%."
+    },
+    {
+      "refinement": 5,
+      "description": "Electro-Charged DMG is increased by 96%, and Lunar-Charged DMG is increased by 24%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 24%."
+    }
+  ]
+}

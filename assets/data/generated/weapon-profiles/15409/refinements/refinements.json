@@ -1,0 +1,25 @@
+{
+  "name": "Verdant Wind",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 40% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 14s."
+    },
+    {
+      "refinement": 2,
+      "description": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 50% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 13s."
+    },
+    {
+      "refinement": 3,
+      "description": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 60% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 12s."
+    },
+    {
+      "refinement": 4,
+      "description": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 70% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 11s."
+    },
+    {
+      "refinement": 5,
+      "description": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 80% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 10s."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 12513,
+  "name": "Fang of the Mountain King",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "A giant sword forged from pure turquoise. Due to its greater weight than most ordinary weapons, it was named for Kongomato the Mountain King.",
+  "icon": "generated/weapon-profiles/12513/avatar.webp",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.024,
+  "substat_lvl90": 0.1103,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14004,
+  "name": "Maiden Beloved",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/14004/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Character Healing Effectiveness +15%",
+      "affixId": "2140040"
+    },
+    {
+      "pieces": 4,
+      "effect": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.",
+      "affixId": "2140041"
+    }
+  ]
+}

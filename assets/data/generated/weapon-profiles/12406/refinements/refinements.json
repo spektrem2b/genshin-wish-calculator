@@ -1,0 +1,25 @@
+{
+  "name": "Crush",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 240% ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+    },
+    {
+      "refinement": 2,
+      "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 300% ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+    },
+    {
+      "refinement": 3,
+      "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 360% ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+    },
+    {
+      "refinement": 4,
+      "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 420% ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+    },
+    {
+      "refinement": 5,
+      "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 480% ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+    }
+  ]
+}

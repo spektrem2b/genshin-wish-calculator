@@ -1,0 +1,19 @@
+{
+  "id": 11436,
+  "name": "Emberwell",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A longsword that is entirely gemstone, said to be crafted for the path of righteousness. When unsheathed, it glows with the luster of blue flame.",
+  "icon": "generated/weapon-profiles/11436/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

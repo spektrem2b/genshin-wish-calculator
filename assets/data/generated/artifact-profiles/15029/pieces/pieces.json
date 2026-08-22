@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Odyssean Flower",
+    "description": "The story must end, and even fresh flowers will wither. But the flower within one's dreams will always remain in full and fragrant bloom.",
+    "icon": "generated/artifact-profiles/15029/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Wicked Mage's Plumule",
+    "description": "This was once a decorative feather in someone's hat. Being dark green, it is quite eye-catching indeed.",
+    "icon": "generated/artifact-profiles/15029/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Nymph's Constancy",
+    "description": "A pocket watch that has long stopped working. It seems to have borne witness to many a passing year as its hands spun in vain.",
+    "icon": "generated/artifact-profiles/15029/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Heroes' Tea Party",
+    "description": "A lovely teacup. Perhaps it was once used by people enjoying a leisurely afternoon together.",
+    "icon": "generated/artifact-profiles/15029/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Fell Dragon's Monocle",
+    "description": "An exquisitely-made monocle. Ancient anecdotes say that one might be able to see the future through it.",
+    "icon": "generated/artifact-profiles/15029/pieces/artifact_circlet.webp"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": 15016,
+  "name": "Heart of Depth",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15016/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Hydro DMG Bonus +15%",
+      "affixId": "2150160"
+    },
+    {
+      "pieces": 4,
+      "effect": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+      "affixId": "2150161"
+    }
+  ]
+}

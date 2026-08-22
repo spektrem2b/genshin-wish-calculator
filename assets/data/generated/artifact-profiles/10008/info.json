@@ -1,0 +1,21 @@
+{
+  "id": 10008,
+  "name": "Gambler",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10008/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Increases Elemental Skill DMG by 20%.",
+      "affixId": "2100080"
+    },
+    {
+      "pieces": 4,
+      "effect": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s.",
+      "affixId": "2100081"
+    }
+  ]
+}

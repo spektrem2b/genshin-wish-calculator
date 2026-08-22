@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Labyrinth Wayfarer",
+    "description": "This lovely gold-plated flower was plucked from the crown of the ruler of the forest.",
+    "icon": "generated/artifact-profiles/15025/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Scholar of Vines",
+    "description": "An emerald leaf as fluffy as a feather. Plucked from the raiment of a forest scholar.",
+    "icon": "generated/artifact-profiles/15025/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "A Time of Insight",
+    "description": "Such timepieces are used by those who dedicate themselves to the way of the wise. These timepieces do not contain lifeless sand, but instead play host to tiny mustard seeds.",
+    "icon": "generated/artifact-profiles/15025/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Lamp of the Lost",
+    "description": "This was originally an oil lamp in the style of the desert realm, but has since sprouted fluorescent green leaves.",
+    "icon": "generated/artifact-profiles/15025/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Laurel Coronet",
+    "description": "This crown was bestowed by the deity with dominion over plants and trees. It was an heirloom of the royal house of the labyrinth. It was, at last, made the inheritance of the king's attendant.",
+    "icon": "generated/artifact-profiles/15025/pieces/artifact_circlet.webp"
+  }
+]

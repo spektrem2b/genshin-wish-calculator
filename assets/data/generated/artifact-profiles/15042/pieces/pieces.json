@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Crystal Tear of the Wanderer",
+    "description": "An immaculate flower whose beauty is said to have been preserved for eternity by the icy wind.",
+    "icon": "generated/artifact-profiles/15042/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Pristine Plume of the Blessed",
+    "description": "An immaculate feathered accessory said to have been forged by the first Moonchanter herself.",
+    "icon": "generated/artifact-profiles/15042/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Frost Devotee's Delirium",
+    "description": "An immaculate timepiece that long ago ceased turning, along with the delusions of its former owner.",
+    "icon": "generated/artifact-profiles/15042/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Joyous Glory of the Pure",
+    "description": "An immaculate silver cup said to have been used in the bygone rituals of the Frostmoon Scions. Their modern rites have no need for such a vessel.",
+    "icon": "generated/artifact-profiles/15042/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Holy Crown of the Believer",
+    "description": "An immaculate adornment created in imitation of the envoy of the grove's antlers.",
+    "icon": "generated/artifact-profiles/15042/pieces/artifact_circlet.webp"
+  }
+]

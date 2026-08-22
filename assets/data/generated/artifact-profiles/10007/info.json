@@ -1,0 +1,21 @@
+{
+  "id": 10007,
+  "name": "Instructor",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10007/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Increases Elemental Mastery by 80.",
+      "affixId": "2100070"
+    },
+    {
+      "pieces": 4,
+      "effect": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.",
+      "affixId": "2100071"
+    }
+  ]
+}

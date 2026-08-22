@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Maiden's Distant Love",
+    "description": "A fragrant flower that will bloom for all eternity and never wither.",
+    "icon": "generated/artifact-profiles/14004/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Maiden's Heart-stricken Infatuation",
+    "description": "A feathered accessory that carries the longing for a certain someone, like a migratory bird on the wind.",
+    "icon": "generated/artifact-profiles/14004/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Maiden's Passing Youth",
+    "description": "The hands of time will never come to an end, but the same cannot not be said for those cherished years of the young maiden's life when she was doted upon.",
+    "icon": "generated/artifact-profiles/14004/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Maiden's Fleeting Leisure",
+    "description": "A vessel made with sweet black tea in mind rather than bitter liquor.",
+    "icon": "generated/artifact-profiles/14004/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Maiden's Fading Beauty",
+    "description": "A meticulously well-maintained woman's hat that keeps wrinkles safely out of sight.",
+    "icon": "generated/artifact-profiles/14004/pieces/artifact_circlet.webp"
+  }
+]

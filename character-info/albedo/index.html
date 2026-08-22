@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en" data-active-tab="character-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net data:; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "8617b85d";
+        window.__SITE_ROOT__ = '/genshin-wish-calculator/';
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info', 'teams'];
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Albedo Build, Talents &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="Albedo talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:title" content="Albedo Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="Albedo talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/character-info/albedo/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Albedo Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Albedo talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/albedo/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.d5420417.css">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br> Wish Calculator</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Wish Planner
+            </button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">4★ Odds
+            </button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Simulator
+            </button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Build
+            </button>
+            <button type="button" id="tabInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Characters
+            </button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Weapons
+            </button>
+            <!-- WIP: rough sketch, local-worker-only for now. -->
+            <button type="button" id="tabTeamsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Teams (WIP)
+            </button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Other
+            </button>
+            <!-- WIP: placeholder body only, no sync logic wired up yet. -->
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Settings
+            </button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <!-- WIP -->
+    <div id="tabSettingsContent"></div>
+
+    <!-- WIP -->
+    <div id="tabTeamsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="ciCharacterSwitch" aria-label="Switch character" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="ciCharacterSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="ciContent">
+            
+            <div class="ci-hero">
+                <img class="ci-hero-portrait" src="assets/data/generated/character-profiles/10000038/full_wish.webp" alt="" onerror="giRetryImg(this)">
+                <div class="ci-hero-info">
+                    <div class="ci-hero-name">Albedo</div>
+                    <div class="ci-hero-title">"Kreideprinz"</div>
+                    <div class="ci-hero-stars">★★★★★</div>
+                    <div class="ci-hero-facts">
+                        
+            <div class="ci-hero-fact">
+                <img class="ci-hero-fact-icon" src="assets/data/design/element_icons/Element_Geo.svg" alt="" onerror="this.style.display='none';">
+                <span class="ci-hero-fact-value">Geo</span>
+            </div>
+            <div class="ci-hero-fact">
+                <img class="ci-hero-fact-icon" src="assets/data/design/weapon_types_icons/Icon_Sword_type.webp" alt="" onerror="this.style.display='none';">
+                <span class="ci-hero-fact-value">Sword</span>
+            </div>
+            <div class="ci-hero-fact">
+                <img class="ci-hero-fact-icon" src="assets/data/design/region_icons/mondstadt.webp" alt="" onerror="this.onerror=null;this.src='assets/data/design/region_icons/unknown-region.webp';">
+                <span class="ci-hero-fact-value">Mondstadt</span>
+            </div>
+            <div class="ci-hero-fact ci-hero-fact-text">
+                <span class="ci-hero-fact-label">Birthday</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">September 13</span>
+            </div>
+            <div class="ci-hero-fact ci-hero-fact-text">
+                <span class="ci-hero-fact-label">Released</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">December 21, 2020</span>
+            </div>
+                    </div>
+                    <p class="ci-hero-desc">A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.</p>
+                    <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Constellation</span> Princeps Cretaceus &nbsp;•&nbsp; <span class="ci-hero-meta-label">Affiliation</span> Knights of Favonius</div>
+                    <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Voice Actors</span> EN: Khoi Dao   ·   CN: Mace   ·   JP: 野島健児   ·   KR: Kim Myeong-joon</div>
+                    
+            <div class="ci-hero-guides">
+                <div class="ci-hero-guides-label">Guides</div>
+                <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://genshin-impact-helper-team.github.io/genshin-builds/en/albedo" target="_blank" rel="noopener noreferrer">
+                    <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/genshin-builds-guide.webp" alt="">
+                    Genshin Builds
+                </a>
+                <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://www.prydwen.gg/genshin-impact/characters/albedo#build" target="_blank" rel="noopener noreferrer">
+                    <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/prydwen-guide.webp" alt="">
+                    Prydwen
+                </a>
+                <div class="ci-hero-guides-row">
+                    <a class="ci-hero-guide-btn" href="https://www.icy-veins.com/genshin-impact/albedo-guide-best-builds" target="_blank" rel="noopener noreferrer" title="Icy Veins">
+                        <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/icy-veins-guide.webp" alt="">
+                        Icy Veins
+                    </a>
+                </div>
+            </div>
+                    
+            <div class="ci-hero-nav-label">Navigation</div>
+            <div class="ci-hero-nav">
+                <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-talents">Talents</a>
+                <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-const">Constellations</a>
+                <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-passives">Passives</a>
+            </div>
+                </div>
+                <div class="ci-hero-side">
+                    <div class="ci-hero-stats">
+                        <div class="ci-hero-stats-head">
+                            <div class="ci-hero-stats-title">Base Stats</div>
+                            <div class="ci-stat-level-toggle" role="group" aria-label="Comparison level"><button type="button" class="ci-stat-level-btn active" data-stat-level="90">90</button><button type="button" class="ci-stat-level-btn" data-stat-level="95">95</button><button type="button" class="ci-stat-level-btn" data-stat-level="100">100</button></div>
+                        </div>
+                        <div id="ciBaseStatsBody"><div class="ci-stats">
+            <div class="ci-stats-row"><span>HP</span><span>1,030 → 8,998</span></div>
+            <div class="ci-stats-row"><span>ATK</span><span>20 → 171</span></div>
+            <div class="ci-stats-row"><span>DEF</span><span>68 → 596</span></div>
+            <div class="ci-stats-row"><span>Ascension Stat</span><span>Geo DMG% +28.8%</span></div></div></div>
+                    </div>
+                    <div class="ci-hero-materials">
+                        <div class="ci-hero-stats-title">Ascension Materials</div>
+                        <div class="ci-hero-mat-list">
+            <div class="ci-hero-mat-item" title="Cecilia">
+                <img src="assets/data/generated/shared-assets/materials/100023.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Cecilia</span>
+            </div>
+            <div class="ci-hero-mat-item" title="Prithiva Topaz Gemstone">
+                <img src="assets/data/generated/shared-assets/materials/104174.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Prithiva Topaz Gemstone</span>
+            </div>
+            <div class="ci-hero-mat-item" title="Philosophies of Ballad">
+                <img src="assets/data/generated/shared-assets/materials/104309.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Philosophies of Ballad</span>
+            </div>
+            <div class="ci-hero-mat-item" title="Basalt Pillar">
+                <img src="assets/data/generated/shared-assets/materials/113009.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Basalt Pillar</span>
+            </div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="ci-layout">
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-layout">
+                        <div class="ci-talent-tabs">
+                            
+            <button type="button" class="ci-talent-tab active" data-talent-idx="0">
+                <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000002/skills/00_normal_attack.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <span class="ci-talent-tab-body">
+                    <span class="ci-talent-summary-name">Favonius Bladework - Weiss</span>
+                    <span class="ci-talent-summary-type">Normal Attack</span>
+                </span>
+                <span class="ci-talent-tab-chevron">»</span>
+            </button>
+            <button type="button" class="ci-talent-tab" data-talent-idx="1">
+                <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000038/skills/01_skill.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <span class="ci-talent-tab-body">
+                    <span class="ci-talent-summary-name">Abiogenesis: Solar Isotoma</span>
+                    <span class="ci-talent-summary-type">Elemental Skill</span>
+                </span>
+                <span class="ci-talent-tab-chevron">»</span>
+            </button>
+            <button type="button" class="ci-talent-tab" data-talent-idx="2">
+                <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000038/skills/02_burst.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <span class="ci-talent-tab-body">
+                    <span class="ci-talent-summary-name">Rite of Progeniture: Tectonic Tide</span>
+                    <span class="ci-talent-summary-type">Elemental Burst</span>
+                </span>
+                <span class="ci-talent-tab-chevron">»</span>
+            </button>
+                        </div>
+                        <div class="ci-talent-detail" id="ciTalentDetail">
+                            
+            <div class="ci-talent-detail-inner">
+                <div class="ci-talent-detail-flavor">
+                    <div class="ci-talent-flavor">Normal Attack
+Performs up to 5 rapid strikes.
+
+Charged Attack
+Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.</div>
+                    
+                </div>
+                <div class="ci-talent-detail-stats">
+                    <div class="ci-level-slider-row">
+                        <span class="ci-level-slider-label">Level</span>
+                        <span class="ci-level-slider-value">1</span>
+                        <span class="ci-level-slider-bound">1</span>
+                        <input type="range" class="ci-level-slider" id="ciTalentLevelSlider" aria-label="Talent level" min="1" max="15" step="1" value="1">
+                        <span class="ci-level-slider-bound">15</span>
+                    </div>
+                    <div class="ci-level-stats" id="ciTalentLevelStats">
+                        
+            <div class="ci-level-stats-title">Level 1</div>
+            <div class="ci-level-stats-rows">
+                <div class="ci-level-stats-row"><span>1-Hit DMG</span><span>36.7%</span></div><div class="ci-level-stats-row"><span>2-Hit DMG</span><span>36.7%</span></div><div class="ci-level-stats-row"><span>3-Hit DMG</span><span>47.5%</span></div><div class="ci-level-stats-row"><span>4-Hit DMG</span><span>49.8%</span></div><div class="ci-level-stats-row"><span>5-Hit DMG</span><span>62.1%</span></div><div class="ci-level-stats-row"><span>Charged Attack DMG</span><span>47.3%+60.2%</span></div><div class="ci-level-stats-row"><span>Charged Attack Stamina Cost</span><span>20.0</span></div><div class="ci-level-stats-row"><span>Plunge DMG</span><span>63.9%</span></div><div class="ci-level-stats-row"><span>Low/High Plunge DMG</span><span>127.8%/159.7%</span></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-const" class="ci-panel">
+                            <h2 class="ci-panel-title">Constellations</h2>
+                            <div class="ci-const-list">
+                                
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000038/constellations/00_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C1</span>Flower of Eden</div>
+                    <div class="ci-const-desc">Transient Blossoms generated by Albedo's Abiogenesis: Solar Isotoma regenerate 1.2 Energy for Albedo.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000038/constellations/01_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C2</span>Opening of Phanerozoic</div>
+                    <div class="ci-const-desc">Transient Blossoms generated by Abiogenesis: Solar Isotoma grant Albedo Fatal Reckoning for 30s:
+·Unleashing Rite of Progeniture: Tectonic Tide consumes all stacks of Fatal Reckoning. Each stack of Fatal Reckoning consumed increases the DMG dealt by Fatal Blossoms and Rite of Progeniture: Tectonic Tide's burst DMG by 30% of Albedo's DEF.
+·This effect stacks up to 4 times.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000038/constellations/02_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C3</span>Grace of Helios</div>
+                    <div class="ci-const-desc">Increases the Level of Abiogenesis: Solar Isotoma by 3.
+Maximum upgrade level is 15.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000038/constellations/03_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C4</span>Descent of Divinity</div>
+                    <div class="ci-const-desc">Active party members within the Solar Isotoma field have their Plunging Attack DMG increased by 30%.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000038/constellations/04_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C5</span>Tide of Hadean</div>
+                    <div class="ci-const-desc">Increases the Level of Rite of Progeniture: Tectonic Tide by 3.
+Maximum upgrade level is 15.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000038/constellations/05_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C6</span>Dust of Purification</div>
+                    <div class="ci-const-desc">Active party members within the Solar Isotoma field who are protected by a shield created by Crystallize, or when Moondrifts are present within the Solar Isotoma field, have their DMG increased by 17%.</div>
+                </div>
+            </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-passives" class="ci-panel">
+                            <h2 class="ci-panel-title">Passives</h2>
+                            <div class="ci-passive-list">
+                                
+            <div class="ci-passive-card">
+                <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000038/skills/03_passive_1.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">Calcite Might</div>
+                    <div class="ci-passive-desc">Transient Blossoms generated by Abiogenesis: Solar Isotoma deal 25% more DMG to opponents whose HP is below 50%.</div>
+                </div>
+            </div>
+            <div class="ci-passive-card">
+                <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000038/skills/04_passive_2.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">Homuncular Nature</div>
+                    <div class="ci-passive-desc">Using Rite of Progeniture: Tectonic Tide increases the Elemental Mastery of nearby party members by 125 for 10s.</div>
+                </div>
+            </div>
+            <div class="ci-passive-card">
+                <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000002/skills/06_passive_3.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">Flash of Genius</div>
+                    <div class="ci-passive-desc">When Albedo crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.</div>
+                </div>
+            </div>
+            <div class="ci-passive-card">
+                <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000038/skills/06_passive_4.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">Witch's Eve Rite: Book of Blinding Light</div>
+                    <div class="ci-passive-desc">After completing Witch's Homework: Beyond the Lesson, Albedo will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.
+
+Hexerei: Secret Rite
+· When Albedo hits an opponent with his Elemental Skill within 20s of using an Elemental Skill, it will generate a Silver Isotoma near the opponent that lasts for 10s. When there are no Solar Isotomas created by Albedo on the field, and as long as Albedo is not downed, a single Silver Isotoma will begin generating Transient Blossoms, just as Solar Isotomas would. There can be up to two Silver Isotomas generated by Albedo on the field at any one time.
+· After creating a Solar Isotoma, nearby party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 4% for every 1,000 DEF Albedo has for 20s. The maximum increase that can be achieved this way is 12%.
+· After generating a Silver Isotoma, nearby Hexerei party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 10% for every 1,000 DEF Albedo has for 20s. The maximum increase that can be achieved this way is 30%.</div>
+                </div>
+            </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div></div></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel"></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Unofficial fan-made tool. Not affiliated with or endorsed by HoYoverse/miHoYo. Genshin Impact and all related names, characters, and assets are trademarks and copyrights of HoYoverse/miHoYo.</div>
+        <div class="site-footer-links"><a href="privacy.html">Privacy Policy</a> • <a href="terms.html">Terms of Use</a> • <a href="contact.html">Contact</a> • <a href="credits.html">Credits</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.9b7052ba.js"></script>
+    <script src="assets/data/generated/weapons.8f6bc057.js"></script>
+    <script src="assets/data/generated/artifacts.a2c9d344.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.011093ad.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.7e9a1763.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <!-- Teams tab's "Add Results" OCR scan (js/tab-teams.js) needs this.
+         jsDelivr, not cdnjs -- that's what Tesseract.js's own worker/core/
+         lang-data fetches default to at runtime (see the comment on
+         ttRunOcr in tab-teams.js), so loading the library itself from the
+         same CDN keeps everything on one host instead of two.
+         Deliberately placed OUTSIDE the js/data-fetch.js...js/app.js block
+         below -- build.js pattern-matches that block verbatim (see
+         ALL_JS_ORDER in build.js) to swap it for the bundled/lazy-loaded
+         output, and anything else interposed in it breaks that match. -->
+    <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5.1.1/dist/tesseract.min.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"js/ab876e73.js"},"4star":{"src":"js/cd26076d.js"},"build":{"src":"js/45fe0909.js"},"other":{"src":"js/0948a8b8.js"},"settings":{"src":"js/9b28dd4d.js"},"teams":{"src":"js/059c938d.js"},"character-info":{"src":"js/6520f381.js"},"weapon-info":{"src":"js/0c954744.js"}};</script>
+    <script src="js/de210080.js"></script>
+
+</body></html>

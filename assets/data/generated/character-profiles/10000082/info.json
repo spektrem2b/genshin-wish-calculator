@@ -1,0 +1,56 @@
+{
+  "id": "10000082",
+  "name": "Baizhu",
+  "element": "Dendro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 4,
+    "day": 25
+  },
+  "release": "2023-05-02T15:00:00",
+  "icon": "generated/character-profiles/10000082/avatar.webp",
+  "fullWish": "generated/character-profiles/10000082/full_wish.webp",
+  "fullWishObjectPosition": "48.6% 23.7%",
+  "title": "Beyond Mortality",
+  "description": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.",
+  "constellationName": "Lagenaria",
+  "native": "Bubu Pharmacy",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Sean Durrie & Xanthe Huynh"
+    },
+    {
+      "lang": "CHS",
+      "va": "秦且歌 & 王晓彤"
+    },
+    {
+      "lang": "JP",
+      "va": "遊佐浩二 & 庄子裕衣"
+    },
+    {
+      "lang": "KR",
+      "va": "Yi Ho-san & Jang Mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.1188,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 14.9891,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 38.8895,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

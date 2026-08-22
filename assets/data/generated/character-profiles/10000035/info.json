@@ -1,0 +1,56 @@
+{
+  "id": "10000035",
+  "name": "Qiqi",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 3,
+    "day": 3
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000035/avatar.webp",
+  "fullWish": "generated/character-profiles/10000035/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 34.5%",
+  "title": "Icy Resurrection",
+  "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+  "constellationName": "Pristina Nola",
+  "native": "Bubu Pharmacy",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Christie Cate"
+    },
+    {
+      "lang": "CHS",
+      "va": "宴宁"
+    },
+    {
+      "lang": "JP",
+      "va": "田村ゆかり"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Seul"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HEAL_ADD",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 962.8532,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 22.344,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 71.796,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

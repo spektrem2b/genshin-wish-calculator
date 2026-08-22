@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Frostvale Thunderclap",
+    "description": "Alyosha regenerates 15 Elemental Energy when nearby party members trigger an Electro-related reaction on an opponent. This effect can trigger once every 18s.",
+    "icon": "generated/character-profiles/10000148/constellations/00_const.webp"
+  },
+  {
+    "name": "Howl From Afar",
+    "description": "The duration of the Elemental Burst Hunter's Advance is extended by 6s.\nAdditionally, each time Tugarin attacks the opponent, he will also apply the Hunter's Mark to a target. This effect does not activate existing Hunter's Marks.",
+    "icon": "generated/character-profiles/10000148/constellations/01_const.webp"
+  },
+  {
+    "name": "Friendly Call",
+    "description": "Increases the Level of the Elemental Skill Thunderbolt Strike by 3.\nMaximum upgrade level is 15.",
+    "icon": "generated/character-profiles/10000148/constellations/02_const.webp"
+  },
+  {
+    "name": "Harvest the Spoils",
+    "description": "When Tugarin attacks, he will also restore 60% of Alyosha's ATK as HP to the nearby party member with the lowest HP by percentage.",
+    "icon": "generated/character-profiles/10000148/constellations/03_const.webp"
+  },
+  {
+    "name": "When the Nightbird Falls Silent",
+    "description": "Increases the Level of the Elemental Burst Hunter's Advance by 3.\nMaximum upgrade level is 15.",
+    "icon": "generated/character-profiles/10000148/constellations/04_const.webp"
+  },
+  {
+    "name": "Standard Reclaimed",
+    "description": "The Hunter's Precision effect obtained from activating a Hunter's Mark can now stack, max 2 stacks. When the stack count reaches 2, characters affected by Hunter's Precision will also have their Elemental Mastery increased by 100 if they are on the field.",
+    "icon": "generated/character-profiles/10000148/constellations/05_const.webp"
+  }
+]

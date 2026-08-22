@@ -1,0 +1,56 @@
+{
+  "id": "10000036",
+  "name": "Chongyun",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 9,
+    "day": 7
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000036/avatar.webp",
+  "fullWish": "generated/character-profiles/10000036/full_wish.webp",
+  "fullWishObjectPosition": "50.7% 24.1%",
+  "title": "Frozen Ardor",
+  "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+  "constellationName": "Nubis Caesor",
+  "native": "Tianheng Thaumaturges",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Beau Bridgland"
+    },
+    {
+      "lang": "CHS",
+      "va": "kinsen"
+    },
+    {
+      "lang": "JP",
+      "va": "斉藤壮馬"
+    },
+    {
+      "lang": "KR",
+      "va": "Yang Jeong-hwa"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 920.90894,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.6984,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 54.36375,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

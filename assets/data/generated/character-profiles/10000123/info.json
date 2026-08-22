@@ -1,0 +1,56 @@
+{
+  "id": "10000123",
+  "name": "Durin",
+  "element": "Pyro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 3,
+    "day": 14
+  },
+  "release": "2025-12-01T22:00:00",
+  "icon": "generated/character-profiles/10000123/avatar.webp",
+  "fullWish": "generated/character-profiles/10000123/full_wish.webp",
+  "fullWishObjectPosition": "49.6% 7.1%",
+  "title": "\"The Undying Fire\"",
+  "description": "A dragon born from M's pen, who came to alight in the human world. His \"story\" continues to unfold.",
+  "constellationName": "Draco Rubedo",
+  "native": "Hexenzirkel",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Laurie Kynaston"
+    },
+    {
+      "lang": "CHS",
+      "va": "陶典"
+    },
+    {
+      "lang": "JP",
+      "va": "小林千晃"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Ji-yul"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 967.6198,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.999,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 64.0181,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

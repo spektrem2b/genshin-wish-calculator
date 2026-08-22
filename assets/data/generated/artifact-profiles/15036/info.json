@@ -1,0 +1,21 @@
+{
+  "id": 15036,
+  "name": "Unfinished Reverie",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15036/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "ATK +18%.",
+      "affixId": "2150360"
+    },
+    {
+      "pieces": 4,
+      "effect": "After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers if the equipping character is off-field.",
+      "affixId": "2150361"
+    }
+  ]
+}

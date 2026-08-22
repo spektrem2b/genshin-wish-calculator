@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Exile's Flower",
+    "description": "A withered flower worn on the shirt. Its former owner insisted on wearing it even in exile, so it must mean something.",
+    "icon": "generated/artifact-profiles/10009/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Exile's Feather",
+    "description": "Not an actual accessory per se. Just a random bird feather that was found somewhere in the wilderness by the exile.",
+    "icon": "generated/artifact-profiles/10009/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Exile's Pocket Watch",
+    "description": "Even after the crystal watch face was shattered and the hands lost, its former owner kept it until the end.",
+    "icon": "generated/artifact-profiles/10009/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Exile's Goblet",
+    "description": "A dull goblet made of a heavy metal. It was once inlaid with gemstones, but they have since been stripped off.",
+    "icon": "generated/artifact-profiles/10009/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Exile's Circlet",
+    "description": "A prestigious circlet. However, the royal insignia has been scratched out, and it is no longer the symbol of distinguished status that it once was.",
+    "icon": "generated/artifact-profiles/10009/pieces/artifact_circlet.webp"
+  }
+]

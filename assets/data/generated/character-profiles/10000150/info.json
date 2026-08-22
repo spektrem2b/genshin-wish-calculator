@@ -1,0 +1,56 @@
+{
+  "id": "10000150",
+  "name": "Odette",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "SNEZHNAYA_STAR",
+  "birthday": {
+    "month": 2,
+    "day": 20
+  },
+  "release": "2026-08-10T21:00:00",
+  "icon": "generated/character-profiles/10000150/avatar.webp",
+  "fullWish": "generated/character-profiles/10000150/full_wish.webp",
+  "fullWishObjectPosition": "49.4% 29.3%",
+  "title": "Swirling Snow",
+  "description": "A famed Snezhnayan ballerina who blossoms against the frozen landscape with a beauty as sharp as frost.",
+  "constellationName": "Cygnus Olor",
+  "native": "Korolevskiy Troupe",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Alexis Tipton"
+    },
+    {
+      "lang": "CHS",
+      "va": "潘丹妮"
+    },
+    {
+      "lang": "JP",
+      "va": "上坂堇"
+    },
+    {
+      "lang": "KR",
+      "va": "Choi Hyun-ji"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1010.5192,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.068,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.26592,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

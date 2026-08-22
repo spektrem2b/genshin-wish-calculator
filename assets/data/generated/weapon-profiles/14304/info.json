@@ -1,0 +1,19 @@
+{
+  "id": 14304,
+  "name": "Emerald Orb",
+  "type": "Catalyst",
+  "rarity": 3,
+  "description": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"",
+  "icon": "generated/weapon-profiles/14304/avatar.webp",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 20.4,
+  "substat_lvl90": 93.7176,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14002,
+  "name": "Thundersoother",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/14002/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Electro RES increased by 40%.",
+      "affixId": "2140020"
+    },
+    {
+      "pieces": 4,
+      "effect": "Increases DMG against opponents affected by Electro by 35%.",
+      "affixId": "2140021"
+    }
+  ]
+}

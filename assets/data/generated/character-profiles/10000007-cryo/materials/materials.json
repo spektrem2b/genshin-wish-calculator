@@ -1,0 +1,431 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 100024,
+      "name": "Windwheel Aster",
+      "icon": "generated/shared-assets/materials/100024.webp",
+      "rarity": 1
+    },
+    {
+      "id": 104101,
+      "name": "Brilliant Diamond Sliver",
+      "icon": "generated/shared-assets/materials/104101.webp",
+      "rarity": 2
+    },
+    {
+      "id": 104102,
+      "name": "Brilliant Diamond Fragment",
+      "icon": "generated/shared-assets/materials/104102.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104103,
+      "name": "Brilliant Diamond Chunk",
+      "icon": "generated/shared-assets/materials/104103.webp",
+      "rarity": 4
+    },
+    {
+      "id": 104104,
+      "name": "Brilliant Diamond Gemstone",
+      "icon": "generated/shared-assets/materials/104104.webp",
+      "rarity": 5
+    },
+    {
+      "id": 104319,
+      "name": "Crown of Insight",
+      "icon": "generated/shared-assets/materials/104319.webp",
+      "rarity": 5
+    },
+    {
+      "id": 104365,
+      "name": "Teachings of Charity",
+      "icon": "generated/shared-assets/materials/104365.webp",
+      "rarity": 2
+    },
+    {
+      "id": 104366,
+      "name": "Guide to Charity",
+      "icon": "generated/shared-assets/materials/104366.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104367,
+      "name": "Philosophies of Charity",
+      "icon": "generated/shared-assets/materials/104367.webp",
+      "rarity": 4
+    },
+    {
+      "id": 104369,
+      "name": "Guide to Fortitude",
+      "icon": "generated/shared-assets/materials/104369.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104370,
+      "name": "Philosophies of Fortitude",
+      "icon": "generated/shared-assets/materials/104370.webp",
+      "rarity": 4
+    },
+    {
+      "id": 104372,
+      "name": "Guide to Glory",
+      "icon": "generated/shared-assets/materials/104372.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104373,
+      "name": "Philosophies of Glory",
+      "icon": "generated/shared-assets/materials/104373.webp",
+      "rarity": 4
+    },
+    {
+      "id": 112005,
+      "name": "Damaged Mask",
+      "icon": "generated/shared-assets/materials/112005.webp",
+      "rarity": 1
+    },
+    {
+      "id": 112006,
+      "name": "Stained Mask",
+      "icon": "generated/shared-assets/materials/112006.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112007,
+      "name": "Ominous Mask",
+      "icon": "generated/shared-assets/materials/112007.webp",
+      "rarity": 3
+    },
+    {
+      "id": 112149,
+      "name": "Chimeric Core",
+      "icon": "generated/shared-assets/materials/112149.webp",
+      "rarity": 1
+    },
+    {
+      "id": 112150,
+      "name": "Symbiotic Chimeric Nucleus",
+      "icon": "generated/shared-assets/materials/112150.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112151,
+      "name": "Prime Chimeric Nexus",
+      "icon": "generated/shared-assets/materials/112151.webp",
+      "rarity": 3
+    },
+    {
+      "id": 113075,
+      "name": "Ascended Sample: Queen",
+      "icon": "generated/shared-assets/materials/113075.webp",
+      "rarity": 5
+    }
+  ],
+  "ascensionGems": [
+    {
+      "id": 104101,
+      "name": "Brilliant Diamond Sliver",
+      "icon": "generated/shared-assets/materials/104101.webp",
+      "rarity": 2
+    },
+    {
+      "id": 104102,
+      "name": "Brilliant Diamond Fragment",
+      "icon": "generated/shared-assets/materials/104102.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104103,
+      "name": "Brilliant Diamond Chunk",
+      "icon": "generated/shared-assets/materials/104103.webp",
+      "rarity": 4
+    },
+    {
+      "id": 104104,
+      "name": "Brilliant Diamond Gemstone",
+      "icon": "generated/shared-assets/materials/104104.webp",
+      "rarity": 5
+    }
+  ],
+  "localSpecialty": [],
+  "talentBooks": [
+    {
+      "id": 104319,
+      "name": "Crown of Insight",
+      "icon": "generated/shared-assets/materials/104319.webp",
+      "rarity": 5
+    },
+    {
+      "id": 104365,
+      "name": "Teachings of Charity",
+      "icon": "generated/shared-assets/materials/104365.webp",
+      "rarity": 2
+    },
+    {
+      "id": 104366,
+      "name": "Guide to Charity",
+      "icon": "generated/shared-assets/materials/104366.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104367,
+      "name": "Philosophies of Charity",
+      "icon": "generated/shared-assets/materials/104367.webp",
+      "rarity": 4
+    },
+    {
+      "id": 104369,
+      "name": "Guide to Fortitude",
+      "icon": "generated/shared-assets/materials/104369.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104370,
+      "name": "Philosophies of Fortitude",
+      "icon": "generated/shared-assets/materials/104370.webp",
+      "rarity": 4
+    },
+    {
+      "id": 104372,
+      "name": "Guide to Glory",
+      "icon": "generated/shared-assets/materials/104372.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104373,
+      "name": "Philosophies of Glory",
+      "icon": "generated/shared-assets/materials/104373.webp",
+      "rarity": 4
+    }
+  ],
+  "levelUpMaterial": [
+    {
+      "id": 113075,
+      "name": "Ascended Sample: Queen",
+      "icon": "generated/shared-assets/materials/113075.webp",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112005,
+      "name": "Damaged Mask",
+      "icon": "generated/shared-assets/materials/112005.webp",
+      "rarity": 1
+    },
+    {
+      "id": 112006,
+      "name": "Stained Mask",
+      "icon": "generated/shared-assets/materials/112006.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112007,
+      "name": "Ominous Mask",
+      "icon": "generated/shared-assets/materials/112007.webp",
+      "rarity": 3
+    },
+    {
+      "id": 112149,
+      "name": "Chimeric Core",
+      "icon": "generated/shared-assets/materials/112149.webp",
+      "rarity": 1
+    },
+    {
+      "id": 112150,
+      "name": "Symbiotic Chimeric Nucleus",
+      "icon": "generated/shared-assets/materials/112150.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112151,
+      "name": "Prime Chimeric Nexus",
+      "icon": "generated/shared-assets/materials/112151.webp",
+      "rarity": 3
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "icon": "generated/shared-assets/materials/100024.webp",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 104101,
+          "name": "Brilliant Diamond Sliver",
+          "icon": "generated/shared-assets/materials/104101.webp",
+          "rarity": 2,
+          "qty": 1
+        },
+        {
+          "id": 112005,
+          "name": "Damaged Mask",
+          "icon": "generated/shared-assets/materials/112005.webp",
+          "rarity": 1,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 40000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "icon": "generated/shared-assets/materials/100024.webp",
+          "rarity": 1,
+          "qty": 10
+        },
+        {
+          "id": 104102,
+          "name": "Brilliant Diamond Fragment",
+          "icon": "generated/shared-assets/materials/104102.webp",
+          "rarity": 3,
+          "qty": 3
+        },
+        {
+          "id": 112005,
+          "name": "Damaged Mask",
+          "icon": "generated/shared-assets/materials/112005.webp",
+          "rarity": 1,
+          "qty": 15
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 60000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "icon": "generated/shared-assets/materials/100024.webp",
+          "rarity": 1,
+          "qty": 20
+        },
+        {
+          "id": 104102,
+          "name": "Brilliant Diamond Fragment",
+          "icon": "generated/shared-assets/materials/104102.webp",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112006,
+          "name": "Stained Mask",
+          "icon": "generated/shared-assets/materials/112006.webp",
+          "rarity": 2,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 80000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "icon": "generated/shared-assets/materials/100024.webp",
+          "rarity": 1,
+          "qty": 30
+        },
+        {
+          "id": 104103,
+          "name": "Brilliant Diamond Chunk",
+          "icon": "generated/shared-assets/materials/104103.webp",
+          "rarity": 4,
+          "qty": 3
+        },
+        {
+          "id": 112006,
+          "name": "Stained Mask",
+          "icon": "generated/shared-assets/materials/112006.webp",
+          "rarity": 2,
+          "qty": 18
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 100000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "icon": "generated/shared-assets/materials/100024.webp",
+          "rarity": 1,
+          "qty": 45
+        },
+        {
+          "id": 104103,
+          "name": "Brilliant Diamond Chunk",
+          "icon": "generated/shared-assets/materials/104103.webp",
+          "rarity": 4,
+          "qty": 6
+        },
+        {
+          "id": 112007,
+          "name": "Ominous Mask",
+          "icon": "generated/shared-assets/materials/112007.webp",
+          "rarity": 3,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 120000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 100024,
+          "name": "Windwheel Aster",
+          "icon": "generated/shared-assets/materials/100024.webp",
+          "rarity": 1,
+          "qty": 60
+        },
+        {
+          "id": 104104,
+          "name": "Brilliant Diamond Gemstone",
+          "icon": "generated/shared-assets/materials/104104.webp",
+          "rarity": 5,
+          "qty": 6
+        },
+        {
+          "id": 112007,
+          "name": "Ominous Mask",
+          "icon": "generated/shared-assets/materials/112007.webp",
+          "rarity": 3,
+          "qty": 24
+        }
+      ]
+    }
+  ],
+  "ascensionStatBonus": 0.24
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Tip of the Spear",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "When the wielder is healed, restore 8 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field."
+    },
+    {
+      "refinement": 2,
+      "description": "When the wielder is healed, restore 10 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field."
+    },
+    {
+      "refinement": 3,
+      "description": "When the wielder is healed, restore 12 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field."
+    },
+    {
+      "refinement": 4,
+      "description": "When the wielder is healed, restore 14 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field."
+    },
+    {
+      "refinement": 5,
+      "description": "When the wielder is healed, restore 16 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field."
+    }
+  ]
+}

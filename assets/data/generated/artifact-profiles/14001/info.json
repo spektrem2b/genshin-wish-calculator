@@ -1,0 +1,21 @@
+{
+  "id": 14001,
+  "name": "Blizzard Strayer",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/14001/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Cryo DMG Bonus +15%",
+      "affixId": "2140010"
+    },
+    {
+      "pieces": 4,
+      "effect": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+      "affixId": "2140011"
+    }
+  ]
+}

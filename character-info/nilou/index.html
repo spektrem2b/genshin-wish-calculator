@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en" data-active-tab="character-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net data:; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "8617b85d";
+        window.__SITE_ROOT__ = '/genshin-wish-calculator/';
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info', 'teams'];
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nilou Build, Talents &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="Nilou talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:title" content="Nilou Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="Nilou talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/character-info/nilou/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Nilou Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Nilou talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/nilou/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.d5420417.css">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br> Wish Calculator</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Wish Planner
+            </button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">4★ Odds
+            </button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Simulator
+            </button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Build
+            </button>
+            <button type="button" id="tabInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Characters
+            </button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Weapons
+            </button>
+            <!-- WIP: rough sketch, local-worker-only for now. -->
+            <button type="button" id="tabTeamsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Teams (WIP)
+            </button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Other
+            </button>
+            <!-- WIP: placeholder body only, no sync logic wired up yet. -->
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Settings
+            </button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <!-- WIP -->
+    <div id="tabSettingsContent"></div>
+
+    <!-- WIP -->
+    <div id="tabTeamsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="ciCharacterSwitch" aria-label="Switch character" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="ciCharacterSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="ciContent">
+            
+            <div class="ci-hero">
+                <img class="ci-hero-portrait" src="assets/data/generated/character-profiles/10000070/full_wish.webp" alt="" onerror="giRetryImg(this)">
+                <div class="ci-hero-info">
+                    <div class="ci-hero-name">Nilou</div>
+                    <div class="ci-hero-title">"Dance of Lotuslight"</div>
+                    <div class="ci-hero-stars">★★★★★</div>
+                    <div class="ci-hero-facts">
+                        
+            <div class="ci-hero-fact">
+                <img class="ci-hero-fact-icon" src="assets/data/design/element_icons/Element_Hydro.svg" alt="" onerror="this.style.display='none';">
+                <span class="ci-hero-fact-value">Hydro</span>
+            </div>
+            <div class="ci-hero-fact">
+                <img class="ci-hero-fact-icon" src="assets/data/design/weapon_types_icons/Icon_Sword_type.webp" alt="" onerror="this.style.display='none';">
+                <span class="ci-hero-fact-value">Sword</span>
+            </div>
+            <div class="ci-hero-fact">
+                <img class="ci-hero-fact-icon" src="assets/data/design/region_icons/sumeru.webp" alt="" onerror="this.onerror=null;this.src='assets/data/design/region_icons/unknown-region.webp';">
+                <span class="ci-hero-fact-value">Sumeru</span>
+            </div>
+            <div class="ci-hero-fact ci-hero-fact-text">
+                <span class="ci-hero-fact-label">Birthday</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">December 3</span>
+            </div>
+            <div class="ci-hero-fact ci-hero-fact-text">
+                <span class="ci-hero-fact-label">Released</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">October 14, 2022</span>
+            </div>
+                    </div>
+                    <p class="ci-hero-desc">The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.</p>
+                    <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Constellation</span> Lotos Somno &nbsp;•&nbsp; <span class="ci-hero-meta-label">Affiliation</span> Zubayr Theater</div>
+                    <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Voice Actors</span> EN: Dani Chambers   ·   CN: 紫苏九月   ·   JP: 金元寿子   ·   KR: Chae Rim</div>
+                    
+            <div class="ci-hero-guides">
+                <div class="ci-hero-guides-label">Guides</div>
+                <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://genshin-impact-helper-team.github.io/genshin-builds/en/nilou" target="_blank" rel="noopener noreferrer">
+                    <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/genshin-builds-guide.webp" alt="">
+                    Genshin Builds
+                </a>
+                <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://www.prydwen.gg/genshin-impact/characters/nilou#build" target="_blank" rel="noopener noreferrer">
+                    <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/prydwen-guide.webp" alt="">
+                    Prydwen
+                </a>
+                <div class="ci-hero-guides-row">
+                    <a class="ci-hero-guide-btn" href="https://www.icy-veins.com/genshin-impact/nilou-guide-best-builds" target="_blank" rel="noopener noreferrer" title="Icy Veins">
+                        <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/icy-veins-guide.webp" alt="">
+                        Icy Veins
+                    </a>
+                </div>
+            </div>
+                    
+            <div class="ci-hero-nav-label">Navigation</div>
+            <div class="ci-hero-nav">
+                <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-talents">Talents</a>
+                <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-const">Constellations</a>
+                <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-passives">Passives</a>
+            </div>
+                </div>
+                <div class="ci-hero-side">
+                    <div class="ci-hero-stats">
+                        <div class="ci-hero-stats-head">
+                            <div class="ci-hero-stats-title">Base Stats</div>
+                            <div class="ci-stat-level-toggle" role="group" aria-label="Comparison level"><button type="button" class="ci-stat-level-btn active" data-stat-level="90">90</button><button type="button" class="ci-stat-level-btn" data-stat-level="95">95</button><button type="button" class="ci-stat-level-btn" data-stat-level="100">100</button></div>
+                        </div>
+                        <div id="ciBaseStatsBody"><div class="ci-stats">
+            <div class="ci-stats-row"><span>HP</span><span>1,182 → 10,331</span></div>
+            <div class="ci-stats-row"><span>ATK</span><span>18 → 156</span></div>
+            <div class="ci-stats-row"><span>DEF</span><span>57 → 496</span></div>
+            <div class="ci-stats-row"><span>Ascension Stat</span><span>HP% +28.8%</span></div></div></div>
+                    </div>
+                    <div class="ci-hero-materials">
+                        <div class="ci-hero-stats-title">Ascension Materials</div>
+                        <div class="ci-hero-mat-list">
+            <div class="ci-hero-mat-item" title="Padisarah">
+                <img src="assets/data/generated/shared-assets/materials/101214.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Padisarah</span>
+            </div>
+            <div class="ci-hero-mat-item" title="Perpetual Caliber">
+                <img src="assets/data/generated/shared-assets/materials/113038.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Perpetual Caliber</span>
+            </div>
+            <div class="ci-hero-mat-item" title="Varunada Lazurite Gemstone">
+                <img src="assets/data/generated/shared-assets/materials/104124.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Varunada Lazurite Gemstone</span>
+            </div>
+            <div class="ci-hero-mat-item" title="Philosophies of Praxis">
+                <img src="assets/data/generated/shared-assets/materials/104337.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Philosophies of Praxis</span>
+            </div>
+            <div class="ci-hero-mat-item" title="Crystalline Cyst Dust">
+                <img src="assets/data/generated/shared-assets/materials/112061.webp" alt="" onerror="giRetryImg(this)">
+                <span class="ci-hero-mat-name">Crystalline Cyst Dust</span>
+            </div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="ci-layout">
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-layout">
+                        <div class="ci-talent-tabs">
+                            
+            <button type="button" class="ci-talent-tab active" data-talent-idx="0">
+                <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000002/skills/00_normal_attack.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <span class="ci-talent-tab-body">
+                    <span class="ci-talent-summary-name">Dance of Samser</span>
+                    <span class="ci-talent-summary-type">Normal Attack</span>
+                </span>
+                <span class="ci-talent-tab-chevron">»</span>
+            </button>
+            <button type="button" class="ci-talent-tab" data-talent-idx="1">
+                <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000070/skills/01_skill.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <span class="ci-talent-tab-body">
+                    <span class="ci-talent-summary-name">Dance of Haftkarsvar</span>
+                    <span class="ci-talent-summary-type">Elemental Skill</span>
+                </span>
+                <span class="ci-talent-tab-chevron">»</span>
+            </button>
+            <button type="button" class="ci-talent-tab" data-talent-idx="2">
+                <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000070/skills/02_burst.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <span class="ci-talent-tab-body">
+                    <span class="ci-talent-summary-name">Dance of Abzendegi: Distant Dreams, Listening Spring</span>
+                    <span class="ci-talent-summary-type">Elemental Burst</span>
+                </span>
+                <span class="ci-talent-tab-chevron">»</span>
+            </button>
+                        </div>
+                        <div class="ci-talent-detail" id="ciTalentDetail">
+                            
+            <div class="ci-talent-detail-inner">
+                <div class="ci-talent-detail-flavor">
+                    <div class="ci-talent-flavor">Normal Attack
+Performs up to 3 consecutive sword strikes.
+
+Charged Attack
+Consumes a certain amount of Stamina to perform a twirling slash.
+
+Plunging Attack
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.</div>
+                    
+                </div>
+                <div class="ci-talent-detail-stats">
+                    <div class="ci-level-slider-row">
+                        <span class="ci-level-slider-label">Level</span>
+                        <span class="ci-level-slider-value">1</span>
+                        <span class="ci-level-slider-bound">1</span>
+                        <input type="range" class="ci-level-slider" id="ciTalentLevelSlider" aria-label="Talent level" min="1" max="15" step="1" value="1">
+                        <span class="ci-level-slider-bound">15</span>
+                    </div>
+                    <div class="ci-level-stats" id="ciTalentLevelStats">
+                        
+            <div class="ci-level-stats-title">Level 1</div>
+            <div class="ci-level-stats-rows">
+                <div class="ci-level-stats-row"><span>1-Hit DMG</span><span>50.3%</span></div><div class="ci-level-stats-row"><span>2-Hit DMG</span><span>45.4%</span></div><div class="ci-level-stats-row"><span>3-Hit DMG</span><span>70.4%</span></div><div class="ci-level-stats-row"><span>Charged Attack DMG</span><span>50.2%+54.4%</span></div><div class="ci-level-stats-row"><span>Charged Attack Stamina Cost</span><span>20.0</span></div><div class="ci-level-stats-row"><span>Plunge DMG</span><span>63.9%</span></div><div class="ci-level-stats-row"><span>Low/High Plunge DMG</span><span>127.8%/159.7%</span></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-const" class="ci-panel">
+                            <h2 class="ci-panel-title">Constellations</h2>
+                            <div class="ci-const-list">
+                                
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000070/constellations/00_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C1</span>Dance of the Waning Moon</div>
+                    <div class="ci-const-desc">Dance of Haftkarsvar will be enhanced as follows:
+·Luminous Illusion DMG is increased by 65%.
+·The Tranquility Aura's duration is extended by 6s.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000070/constellations/01_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C2</span>The Starry Skies Their Flowers Rain</div>
+                    <div class="ci-const-desc">After characters affected by the Golden Chalice's Bounty deal Hydro DMG to an opponent, that opponent's Hydro RES will be decreased by 35% for 10s. After dealing Bloom or Lunar-Bloom DMG to opponents, their Dendro RES will be decreased by 35% for 10s.
+You must first unlock the Ascension Talent "Court of Dancing Petals."</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000070/constellations/02_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C3</span>Beguiling Shadowstep</div>
+                    <div class="ci-const-desc">Increases the Level of Dance of Abzendegi: Distant Dreams, Listening Spring by 3.
+Maximum upgrade level is 15.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000070/constellations/03_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C4</span>Fricative Pulse</div>
+                    <div class="ci-const-desc">After the third dance step of Dance of Haftkarsvar's Pirouette hits opponents, Nilou will gain 15 Elemental Energy, and DMG from her Dance of Abzendegi: Distant Dreams, Listening Spring will be increased by 50% for 8s.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000070/constellations/04_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C5</span>Twirling Light</div>
+                    <div class="ci-const-desc">Increases the Level of Dance of Haftkarsvar by 3.
+Maximum upgrade level is 15.</div>
+                </div>
+            </div>
+            <div class="ci-const-card">
+                <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000070/constellations/05_const.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-const-body">
+                    <div class="ci-const-name"><span class="ci-const-tier">C6</span>Frostbreaker's Melody</div>
+                    <div class="ci-const-desc">For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively.
+The maximum increase in CRIT Rate and CRIT DMG via this method is 30% and 60% respectively.</div>
+                </div>
+            </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-passives" class="ci-panel">
+                            <h2 class="ci-panel-title">Passives</h2>
+                            <div class="ci-passive-list">
+                                
+            <div class="ci-passive-card">
+                <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000070/skills/03_passive_1.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">Court of Dancing Petals</div>
+                    <div class="ci-passive-desc">When all characters in the party are all Dendro or Hydro, and there are at least one Dendro character and one Hydro character:
+The completion of the third dance step of Nilou's Dance of Haftkarsvar will grant all nearby characters the Golden Chalice's Bounty for 30s.
+Characters under the effect of Golden Chalice's Bounty will increase the Elemental Mastery of all nearby characters by 100 for 10s whenever they are hit by Dendro attacks. Also, triggering the Bloom or Lunar-Bloom reaction will create Bountiful Cores instead of Dendro Cores.
+Such Cores will burst very quickly after being created, and they have larger AoEs.
+Bountiful Cores cannot trigger Hyperbloom or Burgeon, and they share an upper numerical limit with Dendro Cores. Bountiful Core DMG is considered DMG dealt by Dendro Cores produced by Bloom.
+Should the party not meet the conditions for this Ascension Talent, any existing Golden Chalice's Bounty effects will be canceled.</div>
+                </div>
+            </div>
+            <div class="ci-passive-card">
+                <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000070/skills/04_passive_2.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">Dreamy Dance of Aeons</div>
+                    <div class="ci-passive-desc">Every 1,000 points of Nilou's Max HP above 30,000 will cause the DMG dealt by Bountiful Cores created by characters affected by Golden Chalice's Bounty to increase by 9%.
+The maximum increase in Bountiful Core DMG that can be achieved this way is 400%.</div>
+                </div>
+            </div>
+            <div class="ci-passive-card">
+                <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000064/skills/05_passive_3.webp" alt="" loading="lazy" onerror="giRetryImg(this)">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">White Jade Lotus</div>
+                    <div class="ci-passive-desc">When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.</div>
+                </div>
+            </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div></div></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel"></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Unofficial fan-made tool. Not affiliated with or endorsed by HoYoverse/miHoYo. Genshin Impact and all related names, characters, and assets are trademarks and copyrights of HoYoverse/miHoYo.</div>
+        <div class="site-footer-links"><a href="privacy.html">Privacy Policy</a> • <a href="terms.html">Terms of Use</a> • <a href="contact.html">Contact</a> • <a href="credits.html">Credits</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.9b7052ba.js"></script>
+    <script src="assets/data/generated/weapons.8f6bc057.js"></script>
+    <script src="assets/data/generated/artifacts.a2c9d344.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.011093ad.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.7e9a1763.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <!-- Teams tab's "Add Results" OCR scan (js/tab-teams.js) needs this.
+         jsDelivr, not cdnjs -- that's what Tesseract.js's own worker/core/
+         lang-data fetches default to at runtime (see the comment on
+         ttRunOcr in tab-teams.js), so loading the library itself from the
+         same CDN keeps everything on one host instead of two.
+         Deliberately placed OUTSIDE the js/data-fetch.js...js/app.js block
+         below -- build.js pattern-matches that block verbatim (see
+         ALL_JS_ORDER in build.js) to swap it for the bundled/lazy-loaded
+         output, and anything else interposed in it breaks that match. -->
+    <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5.1.1/dist/tesseract.min.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"js/ab876e73.js"},"4star":{"src":"js/cd26076d.js"},"build":{"src":"js/45fe0909.js"},"other":{"src":"js/0948a8b8.js"},"settings":{"src":"js/9b28dd4d.js"},"teams":{"src":"js/059c938d.js"},"character-info":{"src":"js/6520f381.js"},"weapon-info":{"src":"js/0c954744.js"}};</script>
+    <script src="js/de210080.js"></script>
+
+</body></html>

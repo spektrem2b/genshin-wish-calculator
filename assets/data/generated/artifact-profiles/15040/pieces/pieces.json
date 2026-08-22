@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Deep Gallery's Echoing Song",
+    "description": "An icy flower fashioned from northland jade. Over the course of its long life, its petals have crumbled to dust.",
+    "icon": "generated/artifact-profiles/15040/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Deep Gallery's Distant Pact",
+    "description": "A feathered accessory fashioned from northland jade that shimmers with an otherworldly glow.",
+    "icon": "generated/artifact-profiles/15040/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Deep Gallery's Moment of Oblivion",
+    "description": "A pocket watch fashioned from northland jade. Its hands are forever frozen in the moment of its destruction.",
+    "icon": "generated/artifact-profiles/15040/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Deep Gallery's Bestowed Banquet",
+    "description": "A cup fashioned from northland jade. They say that the people of an ancient civilization once used it as a ceremonial vessel to make offerings to the heavens.",
+    "icon": "generated/artifact-profiles/15040/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Deep Gallery's Lost Crown",
+    "description": "A helmet steeped in obsession, just like the mind of its previous owner. Its jade ornamentation seems to come from an age more ancient still.",
+    "icon": "generated/artifact-profiles/15040/pieces/artifact_circlet.webp"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": 15009,
+  "name": "Prayers for Illumination",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/15009/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Affected by Pyro for 40% less time.",
+      "affixId": "2150090"
+    }
+  ]
+}

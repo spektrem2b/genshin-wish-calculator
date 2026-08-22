@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Guardian's Flower",
+    "description": "An iris that was cherished by the guardian. Unfortunately, the chance never came for it to be given to whom the guardian loved.",
+    "icon": "generated/artifact-profiles/10003/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Guardian's Sigil",
+    "description": "A feather-shaped brooch that symbolizes someone's yearning to defend others like a shield.",
+    "icon": "generated/artifact-profiles/10003/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Guardian's Clock",
+    "description": "A small timekeeping gadget. On moonless nights, it was the only way its former owner could know the time.",
+    "icon": "generated/artifact-profiles/10003/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Guardian's Vessel",
+    "description": "A metal vessel that can be filled with a drink to dispel the loneliness of the long watch.",
+    "icon": "generated/artifact-profiles/10003/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Guardian's Band",
+    "description": "A fabric band dyed indigo by the darkness of night. Can also double as a bandage in the event of an emergency.",
+    "icon": "generated/artifact-profiles/10003/pieces/artifact_circlet.webp"
+  }
+]

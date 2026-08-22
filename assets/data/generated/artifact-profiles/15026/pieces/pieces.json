@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Dreaming Steelbloom",
+    "description": "A flower bud made of hammered dark gold. Its crimson core is wrapped by petals that shall never open.",
+    "icon": "generated/artifact-profiles/15026/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Feather of Judgment",
+    "description": "This special feather was once used to weigh the hearts of the guilty, but it has since lost its original function.",
+    "icon": "generated/artifact-profiles/15026/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "The Sunken Years",
+    "description": "This dark-golden sundial seems to tell the ancient tale of the desert.",
+    "icon": "generated/artifact-profiles/15026/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Honeyed Final Feast",
+    "description": "A wine cup that was once used at a grand and ancient feast. It has now lost much of that luster.",
+    "icon": "generated/artifact-profiles/15026/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Shadow of the Sand King",
+    "description": "This gold-inlaid headband was once used by desert priests in the days of old. They were made in imitation of one worn by a legendary ruler of the desert peoples.",
+    "icon": "generated/artifact-profiles/15026/pieces/artifact_circlet.webp"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": 15031,
+  "name": "Marechaussee Hunter",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15031/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Normal and Charged Attack DMG +15%",
+      "affixId": "2150310"
+    },
+    {
+      "pieces": 4,
+      "effect": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.",
+      "affixId": "2150311"
+    }
+  ]
+}

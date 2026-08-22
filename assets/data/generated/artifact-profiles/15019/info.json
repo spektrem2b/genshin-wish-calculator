@@ -1,0 +1,21 @@
+{
+  "id": 15019,
+  "name": "Shimenawa's Reminiscence",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15019/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "ATK +18%.",
+      "affixId": "2150190"
+    },
+    {
+      "pieces": 4,
+      "effect": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+      "affixId": "2150191"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Iridescence That Ceased Amidst Glory",
+    "description": "It was a flower made of silk, gifted to her by a friend whose hands were as cold as ice.",
+    "icon": "generated/artifact-profiles/15046/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Sharpness That Ceased Upon Wondrous Creation",
+    "description": "It was a feathered quill given to her followers, once used to pen the most absurd of dreams.",
+    "icon": "generated/artifact-profiles/15046/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Moment That Ceased Upon Waking From Grand Dreams",
+    "description": "It was a fleeting moment she gave a certain silent alchemist to remind him of every item on his schedule.",
+    "icon": "generated/artifact-profiles/15046/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Ovations That Ceased Upon Festivity",
+    "description": "It was a goblet of wine she had accepted in celebration from the hands of a colleague.",
+    "icon": "generated/artifact-profiles/15046/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Pendulum That Ceased Amidst a Great Fall",
+    "description": "It was a delicate trinket awarded to her in praise by the hand of her only master.",
+    "icon": "generated/artifact-profiles/15046/pieces/artifact_circlet.webp"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "A Cast Real Far",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 20% for the next 15s, as well as regenerates 6 Elemental Energy for other members of their party. This effect can trigger once every 16s."
+    },
+    {
+      "refinement": 2,
+      "description": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 25% for the next 15s, as well as regenerates 7.5 Elemental Energy for other members of their party. This effect can trigger once every 16s."
+    },
+    {
+      "refinement": 3,
+      "description": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 30% for the next 15s, as well as regenerates 9 Elemental Energy for other members of their party. This effect can trigger once every 16s."
+    },
+    {
+      "refinement": 4,
+      "description": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 35% for the next 15s, as well as regenerates 10.5 Elemental Energy for other members of their party. This effect can trigger once every 16s."
+    },
+    {
+      "refinement": 5,
+      "description": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 40% for the next 15s, as well as regenerates 12 Elemental Energy for other members of their party. This effect can trigger once every 16s."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 10010,
+  "name": "Adventurer",
+  "rarityList": [
+    1,
+    2,
+    3
+  ],
+  "icon": "generated/artifact-profiles/10010/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Max HP increased by 1,000.",
+      "affixId": "2100100"
+    },
+    {
+      "pieces": 4,
+      "effect": "Opening a chest regenerates 30% Max HP over 5s.",
+      "affixId": "2100101"
+    }
+  ]
+}

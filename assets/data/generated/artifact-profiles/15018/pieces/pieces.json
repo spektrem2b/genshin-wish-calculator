@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Stainless Bloom",
+    "description": "A hard, blue artificial flower. Its petals shall never wither, nor shall its colors fade.",
+    "icon": "generated/artifact-profiles/15018/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Wise Doctor's Pinion",
+    "description": "An ominous pinion with edges of unsurpassed keenness. Perhaps it represents an unnaturally uninhibited nature.",
+    "icon": "generated/artifact-profiles/15018/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Moment of Cessation",
+    "description": "A pocket watch with a cover that cannot be opened. Yet it ticks and tocks away, following the inexorable flow of time.",
+    "icon": "generated/artifact-profiles/15018/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Surpassing Cup",
+    "description": "An intricately-made cup. Its appearance betrays nothing of its age to an observer.",
+    "icon": "generated/artifact-profiles/15018/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Mocking Mask",
+    "description": "A mask that covers the face, hiding one's expression from others.",
+    "icon": "generated/artifact-profiles/15018/pieces/artifact_circlet.webp"
+  }
+]

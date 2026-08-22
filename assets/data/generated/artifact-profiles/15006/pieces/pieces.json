@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Witch's Flower of Blaze",
+    "description": "A flower touched by the witch who once dreamt of burning away all the demons in the world. The anonymous flames affectionately caress the hands of those who touch it.",
+    "icon": "generated/artifact-profiles/15006/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Witch's Ever-Burning Plume",
+    "description": "A bird feather touched by the witch who once dreamt of burning away all the demons in the world. Its eternal flame burns hot.",
+    "icon": "generated/artifact-profiles/15006/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Witch's End Time",
+    "description": "A timepiece worn by the witch who dreamt of burning away all the demons in the world. The years the witch dedicated to the flames flow within.",
+    "icon": "generated/artifact-profiles/15006/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Witch's Heart Flames",
+    "description": "A flame-spitting urn left behind by the Crimson Witch of Flames, who once dreamt of burning away all the demons in the world. The fire in the urn burns eternally, as did its former master.",
+    "icon": "generated/artifact-profiles/15006/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Witch's Scorching Hat",
+    "description": "A hat once worn by the witch who dreamt of burning away all of the demons in the world. The large brim blocked her sight.",
+    "icon": "generated/artifact-profiles/15006/pieces/artifact_circlet.webp"
+  }
+]

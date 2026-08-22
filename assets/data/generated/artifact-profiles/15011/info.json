@@ -1,0 +1,16 @@
+{
+  "id": 15011,
+  "name": "Prayers for Wisdom",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/15011/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Affected by Electro for 40% less time.",
+      "affixId": "2150110"
+    }
+  ]
+}

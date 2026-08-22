@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Windborne Flower's Spruchdichtung",
+    "description": "An azure crystal bloom that never withers, said to have once belonged, in ages past, to a wandering girl who invoked the thousand winds and countless flowers.",
+    "icon": "generated/artifact-profiles/15044/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Dawn's Brilliant Oath",
+    "description": "A feather accessory of azure, clear as the dawn, said to have once belonged to a guard who cast aside his name in ages past.",
+    "icon": "generated/artifact-profiles/15044/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "A Note in Spring's Leich",
+    "description": "An hourglass filled with azure sand. For reasons unknown, no matter how it is turned, the grains within it refuse to stir.",
+    "icon": "generated/artifact-profiles/15044/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Heldenepos's Unspoken Tale",
+    "description": "An ancient goblet, its azure surface weathered by time. It is rumored to have belonged to an unnamed bard in ages past.",
+    "icon": "generated/artifact-profiles/15044/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Minnesang of Love and Lament",
+    "description": "A luxurious hair accessory adorned with jade and azure crystals, said to have once been a token bestowed by the Lord of Storm upon a favored recipient in ages past.",
+    "icon": "generated/artifact-profiles/15044/pieces/artifact_circlet.webp"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "10000025",
+  "name": "Xingqiu",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 10,
+    "day": 9
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000025/avatar.webp",
+  "fullWish": "generated/character-profiles/10000025/full_wish.webp",
+  "fullWishObjectPosition": "50.9% 19.4%",
+  "title": "Juvenile Galant",
+  "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+  "constellationName": "Fabulae Textile",
+  "native": "Feiyun Commerce Guild",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Cristina Vee Valenzuela"
+    },
+    {
+      "lang": "CHS",
+      "va": "唐雅菁"
+    },
+    {
+      "lang": "JP",
+      "va": "皆川純子"
+    },
+    {
+      "lang": "KR",
+      "va": "Kwak Kyu-mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 857.08356,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.9176,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 63.51975,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

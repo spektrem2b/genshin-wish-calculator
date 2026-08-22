@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Forgotten Oath of Days Past",
+    "description": "An ever-blooming flower shaped from larimar and shimmering silver. They say that this is still viewed as a symbol of resistance.",
+    "icon": "generated/artifact-profiles/15033/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Recollection of Days Past",
+    "description": "A butterfly-shaped feather accessory made from silver and azure crystals. It is said to, in the distant past, have symbolized an oath to never be parted.",
+    "icon": "generated/artifact-profiles/15033/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Echoing Sound From Days Past",
+    "description": "An oddly shaped hourglass made from lazurite and aqua jade. It was reportedly inspired by the bell tower in Petrichor.",
+    "icon": "generated/artifact-profiles/15033/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Promised Dream of Days Past",
+    "description": "An opulent vessel made based on the form of the legendary \"Pure Grail.\" It is said to be able to fulfill the wishes of the purest of people.",
+    "icon": "generated/artifact-profiles/15033/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Poetry of Days Past",
+    "description": "A formal hat that was once in vogue amongst creators of opera in Fontaine. Word has it that its feathered adornment was based on the legendary helms of the Lochknights.",
+    "icon": "generated/artifact-profiles/15033/pieces/artifact_circlet.webp"
+  }
+]

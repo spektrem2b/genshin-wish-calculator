@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Heart of Comradeship",
+    "description": "A small cerulean flower with somebody's ribbon pinned to the stem.",
+    "icon": "generated/artifact-profiles/10001/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Feather of Homecoming",
+    "description": "A blue arrow fletching imbued with the sentiment of travelers that had once faded into the horizon.",
+    "icon": "generated/artifact-profiles/10001/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Sundial of the Sojourner",
+    "description": "A sundial that has survived the ages, always silently recording the cycles of the sun and moon as they pass through the sky.",
+    "icon": "generated/artifact-profiles/10001/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Goblet of the Sojourner",
+    "description": "A plain porcelain goblet that was once brimming with joyous brews.",
+    "icon": "generated/artifact-profiles/10001/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Crown of Parting",
+    "description": "A reed coronet that emanates the spring breeze.",
+    "icon": "generated/artifact-profiles/10001/pieces/artifact_circlet.webp"
+  }
+]

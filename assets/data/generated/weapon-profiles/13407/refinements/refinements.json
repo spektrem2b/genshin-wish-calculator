@@ -1,0 +1,25 @@
+{
+  "name": "Windfall",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+    },
+    {
+      "refinement": 2,
+      "description": "CRIT Hits have a 70% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 10.5s."
+    },
+    {
+      "refinement": 3,
+      "description": "CRIT Hits have a 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s."
+    },
+    {
+      "refinement": 4,
+      "description": "CRIT Hits have a 90% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 7.5s."
+    },
+    {
+      "refinement": 5,
+      "description": "CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s."
+    }
+  ]
+}

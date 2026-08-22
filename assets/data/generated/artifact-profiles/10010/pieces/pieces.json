@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Adventurer's Flower",
+    "description": "A resilient flower that survived the harsh environment of an ancient city. It is now proudly worn like a medal.",
+    "icon": "generated/artifact-profiles/10010/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Adventurer's Tail Feather",
+    "description": "The feather of an exotic bird rarely seen on this continent.",
+    "icon": "generated/artifact-profiles/10010/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Adventurer's Pocket Watch",
+    "description": "It's easy to lose track of time when you're adventuring where the sun doesn't shine, whether that's the depths of the abyss or the ruins of a lost city.",
+    "icon": "generated/artifact-profiles/10010/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Adventurer's Golden Goblet",
+    "description": "The spoils of one of an adventurer's many expeditions. Though a little damaged, it is still an excellent find.",
+    "icon": "generated/artifact-profiles/10010/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Adventurer's Bandana",
+    "description": "A cloth garment worn at the forehead. Though soaked in sweat and covered in dust, it still beams with an adventurer's pride.",
+    "icon": "generated/artifact-profiles/10010/pieces/artifact_circlet.webp"
+  }
+]

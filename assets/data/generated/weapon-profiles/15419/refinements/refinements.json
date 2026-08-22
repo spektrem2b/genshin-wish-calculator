@@ -1,0 +1,25 @@
+{
+  "name": "Secret Wisdom's Favor",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "The character's Elemental Mastery will increase by 40 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s."
+    },
+    {
+      "refinement": 2,
+      "description": "The character's Elemental Mastery will increase by 50 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s."
+    },
+    {
+      "refinement": 3,
+      "description": "The character's Elemental Mastery will increase by 60 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s."
+    },
+    {
+      "refinement": 4,
+      "description": "The character's Elemental Mastery will increase by 70 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s."
+    },
+    {
+      "refinement": 5,
+      "description": "The character's Elemental Mastery will increase by 80 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s."
+    }
+  ]
+}

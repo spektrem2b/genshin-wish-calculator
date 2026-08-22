@@ -1,0 +1,21 @@
+{
+  "id": 15001,
+  "name": "Gladiator's Finale",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15001/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "ATK +18%.",
+      "affixId": "2150010"
+    },
+    {
+      "pieces": 4,
+      "effect": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+      "affixId": "2150011"
+    }
+  ]
+}

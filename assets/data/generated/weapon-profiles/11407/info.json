@@ -1,0 +1,19 @@
+{
+  "id": 11407,
+  "name": "Iron Sting",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
+  "icon": "generated/weapon-profiles/11407/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

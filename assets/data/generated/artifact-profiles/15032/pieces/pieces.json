@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Golden Song's Variation",
+    "description": "A flower constructed out of clam, mother-of-pearl, and gold leaf. It blooms proudly.",
+    "icon": "generated/artifact-profiles/15032/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Golden Bird's Shedding",
+    "description": "A gold feather made using silver and gold filigree. A crystal-clear sapphire is mounted atop it.",
+    "icon": "generated/artifact-profiles/15032/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Golden Era's Prelude",
+    "description": "This lovely sundial is inlaid with silver and gold. It seems that time has stopped flowing atop its dial plate.",
+    "icon": "generated/artifact-profiles/15032/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Golden Night's Bustle",
+    "description": "An ancient silver urn that was once filled with fine wine as red as rubies. Now, it contains nothing but bitter seawater.",
+    "icon": "generated/artifact-profiles/15032/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Golden Troupe's Reward",
+    "description": "An ancient crown that resembles a stage prop more than it does some suzerain's headgear.",
+    "icon": "generated/artifact-profiles/15032/pieces/artifact_circlet.webp"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": 10006,
+  "name": "Martial Artist",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10006/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Normal and Charged Attack DMG +15%",
+      "affixId": "2100060"
+    },
+    {
+      "pieces": 4,
+      "effect": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s.",
+      "affixId": "2100061"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Echoing Ballad",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases CRIT DMG by 25%. Hits have a 70% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 3.5s."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases CRIT DMG by 30%. Hits have a 80% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 3s."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases CRIT DMG by 35%. Hits have a 90% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2.5s."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases CRIT DMG by 40%. Hits have a 100% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2s."
+    }
+  ]
+}

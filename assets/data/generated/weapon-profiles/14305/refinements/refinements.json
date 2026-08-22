@@ -1,0 +1,25 @@
+{
+  "name": "Guerilla Tactics",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Defeating an opponent increases Movement SPD and ATK by 12% for 15s."
+    },
+    {
+      "refinement": 2,
+      "description": "Defeating an opponent increases Movement SPD and ATK by 14% for 15s."
+    },
+    {
+      "refinement": 3,
+      "description": "Defeating an opponent increases Movement SPD and ATK by 16% for 15s."
+    },
+    {
+      "refinement": 4,
+      "description": "Defeating an opponent increases Movement SPD and ATK by 18% for 15s."
+    },
+    {
+      "refinement": 5,
+      "description": "Defeating an opponent increases Movement SPD and ATK by 20% for 15s."
+    }
+  ]
+}

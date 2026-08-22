@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Flower of Creviced Cliff",
+    "description": "A flower born of the minerals and rocks of cliffside cracks. The way its petals blow in the wind makes it seem alive.",
+    "icon": "generated/artifact-profiles/15014/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Feather of Jagged Peaks",
+    "description": "A hard feather from a large seacliff hawk. The basalt tip of the feather sometimes glistens with a cool dew.",
+    "icon": "generated/artifact-profiles/15014/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Sundial of Enduring Jade",
+    "description": "A sundial carved from a single, large piece of jade. Its lined with a pattern that silently records the passage of time.",
+    "icon": "generated/artifact-profiles/15014/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Goblet of Chiseled Crag",
+    "description": "A resplendent yet dignified wine goblet, once filled to the brim in an era long gone.",
+    "icon": "generated/artifact-profiles/15014/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Mask of Solitude Basalt",
+    "description": "A solemn mask exquisitely carved from basalt. Its hollow eyes stare ahead expressionless and cold.",
+    "icon": "generated/artifact-profiles/15014/pieces/artifact_circlet.webp"
+  }
+]

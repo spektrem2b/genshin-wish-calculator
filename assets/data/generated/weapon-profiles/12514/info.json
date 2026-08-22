@@ -1,0 +1,19 @@
+{
+  "id": 12514,
+  "name": "A Thousand Blazing Suns",
+  "type": "Claymore",
+  "rarity": 5,
+  "description": "A greatsword that dazzles like the rising sun. It has witnessed the extinguishing and rekindling of innumerable suns.",
+  "icon": "generated/weapon-profiles/12514/avatar.webp",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.024,
+  "substat_lvl90": 0.1103,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

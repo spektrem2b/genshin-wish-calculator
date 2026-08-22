@@ -1,0 +1,56 @@
+{
+  "id": "10000090",
+  "name": "Chevreuse",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 1,
+    "day": 10
+  },
+  "release": "2024-01-09T16:00:00",
+  "icon": "generated/character-profiles/10000090/avatar.webp",
+  "fullWish": "generated/character-profiles/10000090/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": "Executor of Justice",
+  "description": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
+  "constellationName": "Sclopetum Ensiferum",
+  "native": "Special Security and Surveillance Patrol",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Erica Lindbeck"
+    },
+    {
+      "lang": "CHS",
+      "va": "潘丹妮"
+    },
+    {
+      "lang": "JP",
+      "va": "下地紫野"
+    },
+    {
+      "lang": "KR",
+      "va": "Chae Min-ji"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1002.9701,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.20528,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 50.70135,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

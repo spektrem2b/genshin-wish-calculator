@@ -1,0 +1,25 @@
+{
+  "name": "People of the Faltering Light",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Increases Energy Recharge by 24% for 10s after using an Elemental Skill."
+    },
+    {
+      "refinement": 2,
+      "description": "Increases Energy Recharge by 30% for 10s after using an Elemental Skill."
+    },
+    {
+      "refinement": 3,
+      "description": "Increases Energy Recharge by 36% for 10s after using an Elemental Skill."
+    },
+    {
+      "refinement": 4,
+      "description": "Increases Energy Recharge by 42% for 10s after using an Elemental Skill."
+    },
+    {
+      "refinement": 5,
+      "description": "Increases Energy Recharge by 48% for 10s after using an Elemental Skill."
+    }
+  ]
+}

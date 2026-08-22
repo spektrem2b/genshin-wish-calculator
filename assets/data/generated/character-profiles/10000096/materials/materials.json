@@ -1,0 +1,401 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 101236,
+      "name": "Rainbow Rose",
+      "icon": "generated/shared-assets/materials/101236.webp",
+      "rarity": 1
+    },
+    {
+      "id": 104111,
+      "name": "Agnidus Agate Sliver",
+      "icon": "generated/shared-assets/materials/104111.webp",
+      "rarity": 2
+    },
+    {
+      "id": 104112,
+      "name": "Agnidus Agate Fragment",
+      "icon": "generated/shared-assets/materials/104112.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104113,
+      "name": "Agnidus Agate Chunk",
+      "icon": "generated/shared-assets/materials/104113.webp",
+      "rarity": 4
+    },
+    {
+      "id": 104114,
+      "name": "Agnidus Agate Gemstone",
+      "icon": "generated/shared-assets/materials/104114.webp",
+      "rarity": 5
+    },
+    {
+      "id": 104319,
+      "name": "Crown of Insight",
+      "icon": "generated/shared-assets/materials/104319.webp",
+      "rarity": 5
+    },
+    {
+      "id": 104344,
+      "name": "Teachings of Order",
+      "icon": "generated/shared-assets/materials/104344.webp",
+      "rarity": 2
+    },
+    {
+      "id": 104345,
+      "name": "Guide to Order",
+      "icon": "generated/shared-assets/materials/104345.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104346,
+      "name": "Philosophies of Order",
+      "icon": "generated/shared-assets/materials/104346.webp",
+      "rarity": 4
+    },
+    {
+      "id": 112032,
+      "name": "Recruit's Insignia",
+      "icon": "generated/shared-assets/materials/112032.webp",
+      "rarity": 1
+    },
+    {
+      "id": 112033,
+      "name": "Sergeant's Insignia",
+      "icon": "generated/shared-assets/materials/112033.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112034,
+      "name": "Lieutenant's Insignia",
+      "icon": "generated/shared-assets/materials/112034.webp",
+      "rarity": 3
+    },
+    {
+      "id": 113059,
+      "name": "Fragment of a Golden Melody",
+      "icon": "generated/shared-assets/materials/113059.webp",
+      "rarity": 4
+    },
+    {
+      "id": 113060,
+      "name": "Fading Candle",
+      "icon": "generated/shared-assets/materials/113060.webp",
+      "rarity": 5
+    }
+  ],
+  "ascensionGems": [
+    {
+      "id": 104111,
+      "name": "Agnidus Agate Sliver",
+      "icon": "generated/shared-assets/materials/104111.webp",
+      "rarity": 2
+    },
+    {
+      "id": 104112,
+      "name": "Agnidus Agate Fragment",
+      "icon": "generated/shared-assets/materials/104112.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104113,
+      "name": "Agnidus Agate Chunk",
+      "icon": "generated/shared-assets/materials/104113.webp",
+      "rarity": 4
+    },
+    {
+      "id": 104114,
+      "name": "Agnidus Agate Gemstone",
+      "icon": "generated/shared-assets/materials/104114.webp",
+      "rarity": 5
+    }
+  ],
+  "localSpecialty": [
+    {
+      "id": 101236,
+      "name": "Rainbow Rose",
+      "icon": "generated/shared-assets/materials/101236.webp",
+      "rarity": 1
+    }
+  ],
+  "talentBooks": [
+    {
+      "id": 104319,
+      "name": "Crown of Insight",
+      "icon": "generated/shared-assets/materials/104319.webp",
+      "rarity": 5
+    },
+    {
+      "id": 104344,
+      "name": "Teachings of Order",
+      "icon": "generated/shared-assets/materials/104344.webp",
+      "rarity": 2
+    },
+    {
+      "id": 104345,
+      "name": "Guide to Order",
+      "icon": "generated/shared-assets/materials/104345.webp",
+      "rarity": 3
+    },
+    {
+      "id": 104346,
+      "name": "Philosophies of Order",
+      "icon": "generated/shared-assets/materials/104346.webp",
+      "rarity": 4
+    }
+  ],
+  "levelUpMaterial": [
+    {
+      "id": 113059,
+      "name": "Fragment of a Golden Melody",
+      "icon": "generated/shared-assets/materials/113059.webp",
+      "rarity": 4
+    },
+    {
+      "id": 113060,
+      "name": "Fading Candle",
+      "icon": "generated/shared-assets/materials/113060.webp",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112032,
+      "name": "Recruit's Insignia",
+      "icon": "generated/shared-assets/materials/112032.webp",
+      "rarity": 1
+    },
+    {
+      "id": 112033,
+      "name": "Sergeant's Insignia",
+      "icon": "generated/shared-assets/materials/112033.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112034,
+      "name": "Lieutenant's Insignia",
+      "icon": "generated/shared-assets/materials/112034.webp",
+      "rarity": 3
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 101236,
+          "name": "Rainbow Rose",
+          "icon": "generated/shared-assets/materials/101236.webp",
+          "rarity": 1,
+          "qty": 3
+        },
+        {
+          "id": 104111,
+          "name": "Agnidus Agate Sliver",
+          "icon": "generated/shared-assets/materials/104111.webp",
+          "rarity": 2,
+          "qty": 1
+        },
+        {
+          "id": 112032,
+          "name": "Recruit's Insignia",
+          "icon": "generated/shared-assets/materials/112032.webp",
+          "rarity": 1,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 40000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 101236,
+          "name": "Rainbow Rose",
+          "icon": "generated/shared-assets/materials/101236.webp",
+          "rarity": 1,
+          "qty": 10
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "icon": "generated/shared-assets/materials/104112.webp",
+          "rarity": 3,
+          "qty": 3
+        },
+        {
+          "id": 112032,
+          "name": "Recruit's Insignia",
+          "icon": "generated/shared-assets/materials/112032.webp",
+          "rarity": 1,
+          "qty": 15
+        },
+        {
+          "id": 113059,
+          "name": "Fragment of a Golden Melody",
+          "icon": "generated/shared-assets/materials/113059.webp",
+          "rarity": 4,
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 60000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 101236,
+          "name": "Rainbow Rose",
+          "icon": "generated/shared-assets/materials/101236.webp",
+          "rarity": 1,
+          "qty": 20
+        },
+        {
+          "id": 104112,
+          "name": "Agnidus Agate Fragment",
+          "icon": "generated/shared-assets/materials/104112.webp",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112033,
+          "name": "Sergeant's Insignia",
+          "icon": "generated/shared-assets/materials/112033.webp",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 113059,
+          "name": "Fragment of a Golden Melody",
+          "icon": "generated/shared-assets/materials/113059.webp",
+          "rarity": 4,
+          "qty": 4
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 80000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 101236,
+          "name": "Rainbow Rose",
+          "icon": "generated/shared-assets/materials/101236.webp",
+          "rarity": 1,
+          "qty": 30
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "icon": "generated/shared-assets/materials/104113.webp",
+          "rarity": 4,
+          "qty": 3
+        },
+        {
+          "id": 112033,
+          "name": "Sergeant's Insignia",
+          "icon": "generated/shared-assets/materials/112033.webp",
+          "rarity": 2,
+          "qty": 18
+        },
+        {
+          "id": 113059,
+          "name": "Fragment of a Golden Melody",
+          "icon": "generated/shared-assets/materials/113059.webp",
+          "rarity": 4,
+          "qty": 8
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 100000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 101236,
+          "name": "Rainbow Rose",
+          "icon": "generated/shared-assets/materials/101236.webp",
+          "rarity": 1,
+          "qty": 45
+        },
+        {
+          "id": 104113,
+          "name": "Agnidus Agate Chunk",
+          "icon": "generated/shared-assets/materials/104113.webp",
+          "rarity": 4,
+          "qty": 6
+        },
+        {
+          "id": 112034,
+          "name": "Lieutenant's Insignia",
+          "icon": "generated/shared-assets/materials/112034.webp",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 113059,
+          "name": "Fragment of a Golden Melody",
+          "icon": "generated/shared-assets/materials/113059.webp",
+          "rarity": 4,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 120000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 101236,
+          "name": "Rainbow Rose",
+          "icon": "generated/shared-assets/materials/101236.webp",
+          "rarity": 1,
+          "qty": 60
+        },
+        {
+          "id": 104114,
+          "name": "Agnidus Agate Gemstone",
+          "icon": "generated/shared-assets/materials/104114.webp",
+          "rarity": 5,
+          "qty": 6
+        },
+        {
+          "id": 112034,
+          "name": "Lieutenant's Insignia",
+          "icon": "generated/shared-assets/materials/112034.webp",
+          "rarity": 3,
+          "qty": 24
+        },
+        {
+          "id": 113059,
+          "name": "Fragment of a Golden Melody",
+          "icon": "generated/shared-assets/materials/113059.webp",
+          "rarity": 4,
+          "qty": 20
+        }
+      ]
+    }
+  ],
+  "ascensionStatBonus": 0.384
+}

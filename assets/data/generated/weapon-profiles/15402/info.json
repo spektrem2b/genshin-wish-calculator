@@ -1,0 +1,19 @@
+{
+  "id": 15402,
+  "name": "The Stringless",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
+  "icon": "generated/weapon-profiles/15402/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

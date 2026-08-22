@@ -1,0 +1,56 @@
+{
+  "id": "10000097",
+  "name": "Sethos",
+  "element": "Electro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 5,
+    "day": 31
+  },
+  "release": "2024-06-03T21:00:00",
+  "icon": "generated/character-profiles/10000097/avatar.webp",
+  "fullWish": "generated/character-profiles/10000097/full_wish.webp",
+  "fullWishObjectPosition": "49.3% 22.6%",
+  "title": "Wisdom's Measure",
+  "description": "The Temple of Silence's heir. Burdened with secrets, he comes from the sands.",
+  "constellationName": "Basileos Delta",
+  "native": "Temple of Silence",
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Zeno Robinson"
+    },
+    {
+      "lang": "CHS",
+      "va": "李兰陵"
+    },
+    {
+      "lang": "JP",
+      "va": "千葉翔也"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Dong-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 820.6119,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.05456,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 46.9245,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

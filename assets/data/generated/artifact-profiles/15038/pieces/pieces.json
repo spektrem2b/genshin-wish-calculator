@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Reckoning of the Xenogenic",
+    "description": "A flower meticulously carved from black crystal. It emits a mysterious light at night.",
+    "icon": "generated/artifact-profiles/15038/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Root of the Spirit-Marrow",
+    "description": "A feathered accessory made in imitation of an ancient dragon's wing. Perhaps it was once a memento of some forgotten history.",
+    "icon": "generated/artifact-profiles/15038/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Myths of the Night Realm",
+    "description": "A mysterious ritual element that is neither a timepiece nor a compass. Nowadays, no one has any idea what it is used for.",
+    "icon": "generated/artifact-profiles/15038/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Pre-Banquet of the Contenders",
+    "description": "A vessel that seems to have been made by twisting and forming stone in a seemingly whimsical fashion. But it is an open question as to who possesses such strength...",
+    "icon": "generated/artifact-profiles/15038/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Crown of the Saints",
+    "description": "A crown made of obsidian that in ancient times was used in coronation ceremonies by noble tribal kings.",
+    "icon": "generated/artifact-profiles/15038/pieces/artifact_circlet.webp"
+  }
+]

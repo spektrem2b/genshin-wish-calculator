@@ -1,0 +1,19 @@
+{
+  "id": 11435,
+  "name": "Heretic's Molten Blade",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "He drew this weapon once more when he first met that God of Flame, revered by all, but it had been too long since he had last used it.",
+  "icon": "generated/weapon-profiles/11435/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15436,
+  "name": "Covenant of Frost and Snow",
+  "type": "Bow",
+  "rarity": 4,
+  "description": "A longbow crafted to preserve order. Its cold radiance perfectly emanates the ideals of absolute fairness and justice.",
+  "icon": "generated/weapon-profiles/15436/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.1126,
+  "substat_lvl90": 0.5173,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

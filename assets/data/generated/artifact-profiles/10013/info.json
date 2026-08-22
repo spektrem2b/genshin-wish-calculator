@@ -1,0 +1,22 @@
+{
+  "id": 10013,
+  "name": "Traveling Doctor",
+  "rarityList": [
+    1,
+    2,
+    3
+  ],
+  "icon": "generated/artifact-profiles/10013/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Increases incoming healing by 20%.",
+      "affixId": "2100130"
+    },
+    {
+      "pieces": 4,
+      "effect": "Using Elemental Burst restores 20% HP.",
+      "affixId": "2100131"
+    }
+  ]
+}

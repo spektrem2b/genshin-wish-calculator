@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Traveling Doctor's Silver Lotus",
+    "description": "A precious medicinal ingredient that has lost all medicinal value after years in storage.",
+    "icon": "generated/artifact-profiles/10013/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Traveling Doctor's Owl Feather",
+    "description": "The durable feather of an owl. Emblematic of nocturnal supremacy, it gave some encouragement to the Traveling Doctor when venturing out to visit patients late at night.",
+    "icon": "generated/artifact-profiles/10013/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Traveling Doctor's Pocket Watch",
+    "description": "A precise instrument used for keeping time. For a doctor, every second counts.",
+    "icon": "generated/artifact-profiles/10013/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Traveling Doctor's Medicine Pot",
+    "description": "This pot used to carry concentrated and extremely potent concoctions. It is now empty, but still gives off a strong smell of medicine.",
+    "icon": "generated/artifact-profiles/10013/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Traveling Doctor's Handkerchief",
+    "description": "Used to tie back the doctor's hair when treating patients. Can also be used as a sling for sprains and broken arms in emergencies.",
+    "icon": "generated/artifact-profiles/10013/pieces/artifact_circlet.webp"
+  }
+]

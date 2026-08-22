@@ -1,0 +1,21 @@
+{
+  "id": 15008,
+  "name": "Bloodstained Chivalry",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15008/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Physical DMG +25%",
+      "affixId": "2150080"
+    },
+    {
+      "pieces": 4,
+      "effect": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s.",
+      "affixId": "2150081"
+    }
+  ]
+}

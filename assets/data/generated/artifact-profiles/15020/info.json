@@ -1,0 +1,21 @@
+{
+  "id": 15020,
+  "name": "Emblem of Severed Fate",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15020/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Energy Recharge +20%",
+      "affixId": "2150200"
+    },
+    {
+      "pieces": 4,
+      "effect": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+      "affixId": "2150201"
+    }
+  ]
+}

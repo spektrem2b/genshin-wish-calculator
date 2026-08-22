@@ -1,0 +1,21 @@
+{
+  "id": 15003,
+  "name": "Wanderer's Troupe",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15003/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Increases Elemental Mastery by 80.",
+      "affixId": "2150030"
+    },
+    {
+      "pieces": 4,
+      "effect": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.",
+      "affixId": "2150031"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13436,
+  "name": "Song of the Vigil",
+  "type": "Polearm",
+  "rarity": 4,
+  "description": "A long spear that once stood guard over all. Today, it has found a new purpose with children and their games of make-believe.",
+  "icon": "generated/weapon-profiles/13436/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Ay-Khanoum's Myriad",
+    "description": "An amethyst bloom that has been beautifully sculpted in the image of an ancient, extinct flower.",
+    "icon": "generated/artifact-profiles/15028/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Wilting Feast",
+    "description": "A feather left behind by a long-extinct bird species. It was inlaid with gold and gems by the ancient adherents of the Goddess of Flowers.",
+    "icon": "generated/artifact-profiles/15028/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "A Moment Congealed",
+    "description": "These sands no longer move no matter how you tilt the hourglass, now and forever defying the drift of time itself.",
+    "icon": "generated/artifact-profiles/15028/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Secret-Keeper's Magic Bottle",
+    "description": "A small bottle made of purple crystal. An emerald cap keeps it tightly sealed.",
+    "icon": "generated/artifact-profiles/15028/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Amethyst Crown",
+    "description": "A crown inlaid with amethyst and emerald. It seems to have been the headgear worn by ancient priests of the Goddess of Flowers.",
+    "icon": "generated/artifact-profiles/15028/pieces/artifact_circlet.webp"
+  }
+]

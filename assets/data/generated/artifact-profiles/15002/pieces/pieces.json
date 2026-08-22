@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "In Remembrance of Viridescent Fields",
+    "description": "A wild flower that was once a ubiquitous sight in its homeland. It was picked by a hunter who wore it on their chest.",
+    "icon": "generated/artifact-profiles/15002/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Viridescent Arrow Feather",
+    "description": "The fletching of an arrow that once pierced right through its prey, but somehow still remains spotless.",
+    "icon": "generated/artifact-profiles/15002/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Viridescent Venerer's Determination",
+    "description": "A wondrous instrument that a hunter once wore. It forever points towards their prey.",
+    "icon": "generated/artifact-profiles/15002/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Viridescent Venerer's Vessel",
+    "description": "A water pouch used by the Viridescent Venerer. Its capacity is much greater than one would expect.",
+    "icon": "generated/artifact-profiles/15002/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Viridescent Venerer's Diadem",
+    "description": "A proud crown that once belonged to the Viridescent Venerer. It is as lush and green as the breezes of the wild.",
+    "icon": "generated/artifact-profiles/15002/pieces/artifact_circlet.webp"
+  }
+]

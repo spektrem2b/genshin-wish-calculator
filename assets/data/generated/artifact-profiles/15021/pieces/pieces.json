@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Bloom Times",
+    "description": "A small golden ornament with six petals that shall never wilt. It symbolizes the transience of mortal glories.",
+    "icon": "generated/artifact-profiles/15021/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Plume of Luxury",
+    "description": "A feather-shaped token that was brought forth from a secluded hall. The compassion of its creator led to it being left within that mansion along with a certain slumbering form.",
+    "icon": "generated/artifact-profiles/15021/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Song of Life",
+    "description": "As far as Inazuma is concerned, this is some small object from overseas. The heart of this mechanism has been removed, and its hands no longer turn.",
+    "icon": "generated/artifact-profiles/15021/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Calabash of Awakening",
+    "description": "A gourd that has been adorned with powdered gold and black paint. Its original color can no longer be discerned, but its main use seems to be as a performance prop.",
+    "icon": "generated/artifact-profiles/15021/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Skeletal Hat",
+    "description": "A hat that once shielded a wanderer from sun and rain. It eventually became a convenient tool with which faces might be hidden and expressions obscured.",
+    "icon": "generated/artifact-profiles/15021/pieces/artifact_circlet.webp"
+  }
+]

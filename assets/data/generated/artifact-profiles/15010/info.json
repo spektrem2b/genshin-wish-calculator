@@ -1,0 +1,16 @@
+{
+  "id": 15010,
+  "name": "Prayers for Destiny",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/15010/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Affected by Hydro for 40% less time.",
+      "affixId": "2150100"
+    }
+  ]
+}

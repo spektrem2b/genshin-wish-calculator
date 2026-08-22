@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Beast Tamer's Talisman",
+    "description": "A flower carved from flint and Drakite, signifying that its bearer is qualified to become a beast tamer.",
+    "icon": "generated/artifact-profiles/15037/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Mountain Ranger's Marker",
+    "description": "A signal used by mountain rangers to mark out paths. Their bird-feather shapes make them very eye-catching indeed.",
+    "icon": "generated/artifact-profiles/15037/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Mystic's Gold Dial",
+    "description": "A golden disc shaped like a sun. The draconic patterns on it seem to symbolize the cycle of life and death.",
+    "icon": "generated/artifact-profiles/15037/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Wandering Scholar's Claw Cup",
+    "description": "A strange goblet strikingly similar in shape to a dragon's claw. Its maker must have made it with something special in mind.",
+    "icon": "generated/artifact-profiles/15037/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Demon-Warrior's Feather Mask",
+    "description": "A feather mask with falcon-esque plumage. Many legends surround this object.",
+    "icon": "generated/artifact-profiles/15037/pieces/artifact_circlet.webp"
+  }
+]

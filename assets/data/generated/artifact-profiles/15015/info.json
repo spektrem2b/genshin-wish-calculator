@@ -1,0 +1,21 @@
+{
+  "id": 15015,
+  "name": "Retracing Bolide",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15015/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Increases Shield Strength by 35%.",
+      "affixId": "2150150"
+    },
+    {
+      "pieces": 4,
+      "effect": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.",
+      "affixId": "2150151"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Flowering Life",
+    "description": "An ancient memento. It still looks as alive as the being that preserved it several centuries ago.",
+    "icon": "generated/artifact-profiles/15023/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Feather of Nascent Light",
+    "description": "A dimly lustrous pinion steeped in strong memories.",
+    "icon": "generated/artifact-profiles/15023/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Solar Relic",
+    "description": "An ancient timepiece with a mighty solid look. Its luster is produced by sand crystal.",
+    "icon": "generated/artifact-profiles/15023/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Moment of the Pact",
+    "description": "An old cup made of sand crystal. Its luster is somehow undimmed by age.",
+    "icon": "generated/artifact-profiles/15023/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Thundering Poise",
+    "description": "This mask is said to have been made by the mountain people for a Yaksha. It is of simple make, but its surface still shines brightly nonetheless.",
+    "icon": "generated/artifact-profiles/15023/pieces/artifact_circlet.webp"
+  }
+]

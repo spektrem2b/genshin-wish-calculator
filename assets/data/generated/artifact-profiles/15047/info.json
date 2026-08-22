@@ -1,0 +1,21 @@
+{
+  "id": 15047,
+  "name": "Scarlet Proof",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15047/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "ATK +18%.",
+      "affixId": "2150470"
+    },
+    {
+      "pieces": 4,
+      "effect": "Increases the equipping character's CRIT Rate by 16%, and their Stellar Swirl reaction dealt by 40%, for 10s after they trigger a Stellar Swirl reaction.",
+      "affixId": "2150471"
+    }
+  ]
+}

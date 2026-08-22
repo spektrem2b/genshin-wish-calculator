@@ -1,0 +1,37 @@
+[
+  {
+    "pos": "EQUIP_BRACER",
+    "slot": "flower",
+    "name": "Gilded Corsage",
+    "description": "A mantle brooch that has lost its luster. The gold plating that once adorned it was ground away by the wind and the waves long ago.",
+    "icon": "generated/artifact-profiles/15016/pieces/artifact_flower.webp"
+  },
+  {
+    "pos": "EQUIP_NECKLACE",
+    "slot": "plume",
+    "name": "Gust of Nostalgia",
+    "description": "A feather carried over by whimpering sea winds and crimson waves. The passage of time has changed its shape and color.",
+    "icon": "generated/artifact-profiles/15016/pieces/artifact_plume.webp"
+  },
+  {
+    "pos": "EQUIP_SHOES",
+    "slot": "sands",
+    "name": "Copper Compass",
+    "description": "An ancient bronze compass. Its needle points towards some ever-distant shore, to a non-existent harbor.",
+    "icon": "generated/artifact-profiles/15016/pieces/artifact_sands.webp"
+  },
+  {
+    "pos": "EQUIP_RING",
+    "slot": "goblet",
+    "name": "Goblet of Thundering Deep",
+    "description": "A faded wine cup that was unintentionally dredged up from the sea. Its dull exterior tells of the days it has spent beneath the waves.",
+    "icon": "generated/artifact-profiles/15016/pieces/artifact_goblet.webp"
+  },
+  {
+    "pos": "EQUIP_DRESS",
+    "slot": "circlet",
+    "name": "Wine-Stained Tricorne",
+    "description": "An ancient, wine-stained sea hat that still reeks of alcohol even now.",
+    "icon": "generated/artifact-profiles/15016/pieces/artifact_circlet.webp"
+  }
+]

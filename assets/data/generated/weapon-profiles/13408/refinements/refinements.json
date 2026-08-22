@@ -1,0 +1,25 @@
+{
+  "name": "Focus",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+    },
+    {
+      "refinement": 2,
+      "description": "Upon damaging an opponent, increases CRIT Rate by 10%. Max 5 stacks. A CRIT Hit removes all stacks."
+    },
+    {
+      "refinement": 3,
+      "description": "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks."
+    },
+    {
+      "refinement": 4,
+      "description": "Upon damaging an opponent, increases CRIT Rate by 14%. Max 5 stacks. A CRIT Hit removes all stacks."
+    },
+    {
+      "refinement": 5,
+      "description": "Upon damaging an opponent, increases CRIT Rate by 16%. Max 5 stacks. A CRIT Hit removes all stacks."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "White Cruising Wave",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "After the wielder is healed, ATK will be increased by 24% for 8s. This can be triggered even when the character is not on the field."
+    },
+    {
+      "refinement": 2,
+      "description": "After the wielder is healed, ATK will be increased by 30% for 8s. This can be triggered even when the character is not on the field."
+    },
+    {
+      "refinement": 3,
+      "description": "After the wielder is healed, ATK will be increased by 36% for 8s. This can be triggered even when the character is not on the field."
+    },
+    {
+      "refinement": 4,
+      "description": "After the wielder is healed, ATK will be increased by 42% for 8s. This can be triggered even when the character is not on the field."
+    },
+    {
+      "refinement": 5,
+      "description": "After the wielder is healed, ATK will be increased by 48% for 8s. This can be triggered even when the character is not on the field."
+    }
+  ]
+}

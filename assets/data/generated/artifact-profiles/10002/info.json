@@ -1,0 +1,21 @@
+{
+  "id": 10002,
+  "name": "Brave Heart",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10002/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "ATK +18%.",
+      "affixId": "2100020"
+    },
+    {
+      "pieces": 4,
+      "effect": "Increases DMG by 30% against opponents with more than 50% HP.",
+      "affixId": "2100021"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Mind in Bloom",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 12 Elemental Energy and increase Elemental Mastery by 60 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
+    },
+    {
+      "refinement": 2,
+      "description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 15 Elemental Energy and increase Elemental Mastery by 75 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
+    },
+    {
+      "refinement": 3,
+      "description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 18 Elemental Energy and increase Elemental Mastery by 90 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
+    },
+    {
+      "refinement": 4,
+      "description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 21 Elemental Energy and increase Elemental Mastery by 105 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
+    },
+    {
+      "refinement": 5,
+      "description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 24 Elemental Energy and increase Elemental Mastery by 120 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
+    }
+  ]
+}

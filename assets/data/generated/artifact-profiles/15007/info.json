@@ -1,0 +1,21 @@
+{
+  "id": 15007,
+  "name": "Noblesse Oblige",
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15007/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "Elemental Burst DMG +20%",
+      "affixId": "2150070"
+    },
+    {
+      "pieces": 4,
+      "effect": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.",
+      "affixId": "2150071"
+    }
+  ]
+}

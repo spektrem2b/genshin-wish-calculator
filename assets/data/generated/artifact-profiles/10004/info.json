@@ -1,0 +1,21 @@
+{
+  "id": 10004,
+  "name": "Tiny Miracle",
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10004/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": "All Elemental RES increased by 20%.",
+      "affixId": "2100040"
+    },
+    {
+      "pieces": 4,
+      "effect": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.",
+      "affixId": "2100041"
+    }
+  ]
+}

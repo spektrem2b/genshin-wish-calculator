@@ -1,0 +1,311 @@
+{
+  "ascensionMaterials": [
+    {
+      "id": 112146,
+      "name": "Ethereal Glimmershard",
+      "icon": "generated/shared-assets/materials/112146.webp",
+      "rarity": 1
+    },
+    {
+      "id": 112147,
+      "name": "Ethereal Crystal",
+      "icon": "generated/shared-assets/materials/112147.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112148,
+      "name": "Ethereal Crystalscale Stone",
+      "icon": "generated/shared-assets/materials/112148.webp",
+      "rarity": 3
+    },
+    {
+      "id": 112152,
+      "name": "Accreted Fragment",
+      "icon": "generated/shared-assets/materials/112152.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112153,
+      "name": "Accreted Mass",
+      "icon": "generated/shared-assets/materials/112153.webp",
+      "rarity": 3
+    },
+    {
+      "id": 112154,
+      "name": "Accreted Growth",
+      "icon": "generated/shared-assets/materials/112154.webp",
+      "rarity": 4
+    },
+    {
+      "id": 114085,
+      "name": "Rise of the Pale Star Army",
+      "icon": "generated/shared-assets/materials/114085.webp",
+      "rarity": 2
+    },
+    {
+      "id": 114086,
+      "name": "Muster of the Pale Star Army",
+      "icon": "generated/shared-assets/materials/114086.webp",
+      "rarity": 3
+    },
+    {
+      "id": 114087,
+      "name": "Clarion of the Pale Star Army",
+      "icon": "generated/shared-assets/materials/114087.webp",
+      "rarity": 4
+    },
+    {
+      "id": 114088,
+      "name": "Triumph of the Pale Star Army",
+      "icon": "generated/shared-assets/materials/114088.webp",
+      "rarity": 5
+    }
+  ],
+  "enemyDrops": [
+    {
+      "id": 112146,
+      "name": "Ethereal Glimmershard",
+      "icon": "generated/shared-assets/materials/112146.webp",
+      "rarity": 1
+    },
+    {
+      "id": 112147,
+      "name": "Ethereal Crystal",
+      "icon": "generated/shared-assets/materials/112147.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112148,
+      "name": "Ethereal Crystalscale Stone",
+      "icon": "generated/shared-assets/materials/112148.webp",
+      "rarity": 3
+    },
+    {
+      "id": 112152,
+      "name": "Accreted Fragment",
+      "icon": "generated/shared-assets/materials/112152.webp",
+      "rarity": 2
+    },
+    {
+      "id": 112153,
+      "name": "Accreted Mass",
+      "icon": "generated/shared-assets/materials/112153.webp",
+      "rarity": 3
+    },
+    {
+      "id": 112154,
+      "name": "Accreted Growth",
+      "icon": "generated/shared-assets/materials/112154.webp",
+      "rarity": 4
+    }
+  ],
+  "weaponMaterials": [
+    {
+      "id": 114085,
+      "name": "Rise of the Pale Star Army",
+      "icon": "generated/shared-assets/materials/114085.webp",
+      "rarity": 2
+    },
+    {
+      "id": 114086,
+      "name": "Muster of the Pale Star Army",
+      "icon": "generated/shared-assets/materials/114086.webp",
+      "rarity": 3
+    },
+    {
+      "id": 114087,
+      "name": "Clarion of the Pale Star Army",
+      "icon": "generated/shared-assets/materials/114087.webp",
+      "rarity": 4
+    },
+    {
+      "id": 114088,
+      "name": "Triumph of the Pale Star Army",
+      "icon": "generated/shared-assets/materials/114088.webp",
+      "rarity": 5
+    }
+  ],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": 5000,
+      "requiredPlayerLevel": 15,
+      "items": [
+        {
+          "id": 112146,
+          "name": "Ethereal Glimmershard",
+          "icon": "generated/shared-assets/materials/112146.webp",
+          "rarity": 1,
+          "qty": 2
+        },
+        {
+          "id": 112152,
+          "name": "Accreted Fragment",
+          "icon": "generated/shared-assets/materials/112152.webp",
+          "rarity": 2,
+          "qty": 3
+        },
+        {
+          "id": 114085,
+          "name": "Rise of the Pale Star Army",
+          "icon": "generated/shared-assets/materials/114085.webp",
+          "rarity": 2,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": 15000,
+      "requiredPlayerLevel": 25,
+      "items": [
+        {
+          "id": 112146,
+          "name": "Ethereal Glimmershard",
+          "icon": "generated/shared-assets/materials/112146.webp",
+          "rarity": 1,
+          "qty": 8
+        },
+        {
+          "id": 112152,
+          "name": "Accreted Fragment",
+          "icon": "generated/shared-assets/materials/112152.webp",
+          "rarity": 2,
+          "qty": 12
+        },
+        {
+          "id": 114086,
+          "name": "Muster of the Pale Star Army",
+          "icon": "generated/shared-assets/materials/114086.webp",
+          "rarity": 3,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": 20000,
+      "requiredPlayerLevel": 30,
+      "items": [
+        {
+          "id": 112147,
+          "name": "Ethereal Crystal",
+          "icon": "generated/shared-assets/materials/112147.webp",
+          "rarity": 2,
+          "qty": 6
+        },
+        {
+          "id": 112153,
+          "name": "Accreted Mass",
+          "icon": "generated/shared-assets/materials/112153.webp",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 114086,
+          "name": "Muster of the Pale Star Army",
+          "icon": "generated/shared-assets/materials/114086.webp",
+          "rarity": 3,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": 30000,
+      "requiredPlayerLevel": 35,
+      "items": [
+        {
+          "id": 112147,
+          "name": "Ethereal Crystal",
+          "icon": "generated/shared-assets/materials/112147.webp",
+          "rarity": 2,
+          "qty": 9
+        },
+        {
+          "id": 112153,
+          "name": "Accreted Mass",
+          "icon": "generated/shared-assets/materials/112153.webp",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 114087,
+          "name": "Clarion of the Pale Star Army",
+          "icon": "generated/shared-assets/materials/114087.webp",
+          "rarity": 4,
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": 35000,
+      "requiredPlayerLevel": 40,
+      "items": [
+        {
+          "id": 112148,
+          "name": "Ethereal Crystalscale Stone",
+          "icon": "generated/shared-assets/materials/112148.webp",
+          "rarity": 3,
+          "qty": 6
+        },
+        {
+          "id": 112154,
+          "name": "Accreted Growth",
+          "icon": "generated/shared-assets/materials/112154.webp",
+          "rarity": 4,
+          "qty": 9
+        },
+        {
+          "id": 114087,
+          "name": "Clarion of the Pale Star Army",
+          "icon": "generated/shared-assets/materials/114087.webp",
+          "rarity": 4,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": 45000,
+      "requiredPlayerLevel": 50,
+      "items": [
+        {
+          "id": 112148,
+          "name": "Ethereal Crystalscale Stone",
+          "icon": "generated/shared-assets/materials/112148.webp",
+          "rarity": 3,
+          "qty": 12
+        },
+        {
+          "id": 112154,
+          "name": "Accreted Growth",
+          "icon": "generated/shared-assets/materials/112154.webp",
+          "rarity": 4,
+          "qty": 18
+        },
+        {
+          "id": 114088,
+          "name": "Triumph of the Pale Star Army",
+          "icon": "generated/shared-assets/materials/114088.webp",
+          "rarity": 5,
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

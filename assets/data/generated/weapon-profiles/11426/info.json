@@ -1,0 +1,19 @@
+{
+  "id": 11426,
+  "name": "Fleuve Cendre Ferryman",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "A handy length of abandoned copper pipe that was once used as a weapon. It was famous — or infamous, depending — in some circles.",
+  "icon": "generated/weapon-profiles/11426/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

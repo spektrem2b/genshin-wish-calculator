@@ -1,0 +1,19 @@
+{
+  "id": 11418,
+  "name": "Xiphos' Moonlight",
+  "type": "Sword",
+  "rarity": 4,
+  "description": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it.",
+  "icon": "generated/weapon-profiles/11418/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Unbending",
+  "levels": [
+    {
+      "refinement": 1,
+      "description": "When HP falls below 70%, increases Charged Attack DMG by 30% and Charged Attacks become harder to interrupt."
+    },
+    {
+      "refinement": 2,
+      "description": "When HP falls below 75%, increases Charged Attack DMG by 35% and Charged Attacks become harder to interrupt."
+    },
+    {
+      "refinement": 3,
+      "description": "When HP falls below 80%, increases Charged Attack DMG by 40% and Charged Attacks become harder to interrupt."
+    },
+    {
+      "refinement": 4,
+      "description": "When HP falls below 85%, increases Charged Attack DMG by 45% and Charged Attacks become harder to interrupt."
+    },
+    {
+      "refinement": 5,
+      "description": "When HP falls below 90%, increases Charged Attack DMG by 50% and Charged Attacks become harder to interrupt."
+    }
+  ]
+}

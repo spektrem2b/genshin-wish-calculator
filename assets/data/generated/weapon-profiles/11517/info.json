@@ -1,0 +1,19 @@
+{
+  "id": 11517,
+  "name": "Azurelight",
+  "type": "Sword",
+  "rarity": 5,
+  "description": "This blade was once pure and pristine as a white dawn star, but it has since been tinted a deep, dark blue.",
+  "icon": "generated/weapon-profiles/11517/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}
