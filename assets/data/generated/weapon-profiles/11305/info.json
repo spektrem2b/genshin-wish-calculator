@@ -1,0 +1,52 @@
+{
+  "id": 11305,
+  "name": {
+    "EN": "Fillet Blade",
+    "CHS": "吃虎鱼刀",
+    "CHT": "吃虎魚刀",
+    "DE": "Filetiermesser",
+    "ES": "Hoja de Filetear",
+    "FR": "Couteau à filets",
+    "ID": "Fillet Blade",
+    "IT": "Lama affilata",
+    "JP": "チ虎魚の刀",
+    "KR": "흘호 생선회칼",
+    "PT": "Lâmina de Filés",
+    "RU": "Филейный нож",
+    "TH": "Fillet Blade",
+    "TR": "Fileto Kılıcı",
+    "VI": "Đao Săn Cá"
+  },
+  "nameEn": "Fillet Blade",
+  "type": "Kiếm Đơn",
+  "rarity": 3,
+  "description": {
+    "EN": "A sharp filleting knife. The blade is long, thin, and incredibly sharp.",
+    "CHS": "用来剖鱼的锋利铁刀，刀身狭长，非常锋利。",
+    "CHT": "用來剖魚的鋒利鐵刀，刀身狹長，非常鋒利。",
+    "DE": "Ein eisernes Messer zum Filetieren von Fisch. Die Klinge ist nicht nur lang und schmal, sondern auch äußerst scharf.",
+    "ES": "Un cuchillo afilado con una larga hoja.",
+    "FR": "Un couteau de pêche à la lame tranchante. Il est très acéré.",
+    "ID": "Pedang tajam yang digunakan untuk memotong ikan, mata pedangnya panjang dan sangat tajam.",
+    "IT": "Un coltello affilato per sfilettare. La lama è lunga, sottile e incredibilmente tagliente.",
+    "JP": "魚を捌く鉄刀。刀身は細く、非常に鋭い。",
+    "KR": "회를 뜨는 데 쓰이는 좁고 긴 예리한 철검. 아주 날카롭다",
+    "PT": "Uma faca afiada com uma lâmina longa.",
+    "RU": "Острый филейный нож. Имеет длинное, тонкое и невероятно острое лезвие.",
+    "TH": "มีดแล่เนื้อที่คมกริบ ใบมีดยาว บาง และคมมาก",
+    "TR": "Son derece keskin, uzun ve ince bir fileto bıçağı.",
+    "VI": "Đao bằng thép sắc bén dùng để làm cá, thân thon dài, cực kỳ sắc bén."
+  },
+  "icon": "generated/weapon-profiles/11305/avatar.webp",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.0766,
+  "substat_lvl90": 0.3519,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

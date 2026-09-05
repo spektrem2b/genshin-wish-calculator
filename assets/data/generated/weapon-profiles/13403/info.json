@@ -1,0 +1,52 @@
+{
+  "id": 13403,
+  "name": {
+    "EN": "Crescent Pike",
+    "CHS": "流月针",
+    "CHT": "流月針",
+    "DE": "Mondpike",
+    "ES": "Pica Luna Creciente",
+    "FR": "Pique du croissant de lune",
+    "ID": "Crescent Pike",
+    "IT": "Lancia di mezzaluna",
+    "JP": "流月の針",
+    "KR": "유월창",
+    "PT": "Pique Crescente",
+    "RU": "Пика полумесяца",
+    "TH": "Crescent Pike",
+    "TR": "Hilal Mızrak",
+    "VI": "Lưu Nguyệt Châm"
+  },
+  "nameEn": "Crescent Pike",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage.",
+    "CHS": "枪尖狭长，尾部分出半月刀刃的异国兵器，经由商路流落到璃月。稍事练习掌握，便有极其出众的杀伤力。",
+    "CHT": "槍尖狹長，尾部分出半月刀刃的異國兵器，經由商路流落到璃月。稍事練習掌握，便有極其出眾的殺傷力。",
+    "DE": "Diese fremdländische Lanze hat eine lange und schmale Spitze sowie eine halbmondförmige Klinge am anderen Ende. Ihren Weg fand sie auf Handelsrouten nach Liyue. Mit etwas Übung kann man mit ihr eine überragende Angriffskraft entfalten.",
+    "ES": "Un arma exótica con una cuchilla extremadamente larga en la parte superior y una cuchilla en forma de media luna en la parte inferior. Llegó a Liyue a través de comerciantes extranjeros. Con la práctica, puede causar grandes daños.",
+    "FR": "Cette lance d'origine étrangère, arrivée à Liyue par les voies commerciales, possède une lame en forme de croissant à l'extrémité d'un manche fin et long. Avec un peu de pratique, vous devriez pouvoir libérer sa puissance destructrice.",
+    "ID": "Senjata indah dengan mata pedang yang sangat panjang di bagian atas, dan sabit di bagian bawah. Mencapai di Liyue setelah melalui tangan beberapa tangan pedagang. Dengan latihan, ini bisa menjadi senjata mematikan.",
+    "IT": "Un'arma esotica con una lama estremamente lunga alla sommità e un'altra a forma di mezzaluna alla base. Trasportata a Liyue da mercanti stranieri. Con la pratica, può infliggere gravi danni.",
+    "JP": "槍の先端は細く、根元には半月の形をした刃がある異国の兵器。貿易ルートを経て異国から璃月に渡った。少し練習すれば、かなりの破壊力を出せる優れもの。",
+    "KR": "창끝이 매우 길고 끝부분이 반달 모양의 칼날로 갈라진 이국의 병기. 상로를 거쳐 리월로 전해져왔다. 조금만 연습하면 아주 뛰어난 살상력을 발휘할 수 있다",
+    "PT": "Uma arma exótica com uma lâmina extremamente comprida no topo e uma lâmina crescente na parte de baixo. Foi parar em Liyue através de comerciantes estrangeiros. Com prática, pode causar grandes danos.",
+    "RU": "Экзотичное оружие с длинным лезвием на одном конце и полукруглым лезвием на другом. Попало в Ли Юэ благодаря иностранным торговцам. В умелых руках может наносить огромный урон.",
+    "TH": "อาวุธหายากที่มีใบมีดยาวอยู่ที่ปลายด้านบนและมีใบมีดรูปจันทร์เสี้ยวอยู่ที่ปลายด้านล่าง ถูกนำมา Liyue โดยผู้ค้าต่างถิ่น ซึ่งหากใช้งานมันได้อย่างคล่องแคล่วแล้วจะสร้างความเสียหายได้อย่างมากเลยทีเดียว",
+    "TR": "Liyue'ye yabancı tüccarlar aracılığıyla gelen bu egzotik mızrak, ince ve uzun bir sapın ucunda hilal şeklinde bir bıçağa sahiptir. Yıkıcı gücünü açığa çıkarmak için biraz pratik gerekir.",
+    "VI": "Mũi thương dài hẹp, binh khí này đến từ dị quốc, đuôi thương có hình bán nguyệt, được thương nhân mang đến Liyue. Chỉ cần tập luyện thì sẽ có sức sát thương khủng khiếp."
+  },
+  "icon": "generated/weapon-profiles/13403/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.075067,
+  "substat_lvl90": 0.3449,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

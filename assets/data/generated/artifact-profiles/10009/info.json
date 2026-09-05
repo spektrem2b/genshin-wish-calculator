@@ -1,0 +1,69 @@
+{
+  "id": 10009,
+  "name": {
+    "EN": "The Exile",
+    "CHS": "流放者",
+    "CHT": "流放者",
+    "DE": "Verbannter",
+    "ES": "Exiliado",
+    "FR": "Exilé",
+    "ID": "The Exile",
+    "IT": "Esule",
+    "JP": "亡命者",
+    "KR": "유배자",
+    "PT": "O Exilado",
+    "RU": "Изгнанник",
+    "TH": "The Exile",
+    "TR": "Sürgün",
+    "VI": "Kẻ Lưu Đày"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10009/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Energy Recharge +20%",
+        "CHS": "元素充能效率提高20%。",
+        "CHT": "元素充能效率提高20%。",
+        "DE": "Erhöht die Aufladerate um 20 %.",
+        "ES": "Recarga de Energía +20%.",
+        "FR": "Augmente la recharge d'énergie de 20 %.",
+        "ID": "Energy Recharge +20%.",
+        "IT": "Ricarica d'energia +20%.",
+        "JP": "元素チャージ効率+20%。",
+        "KR": "원소 충전 효율+20%",
+        "PT": "Recarga de Energia +20%",
+        "RU": "Увеличивает скорость восстановления энергии на 20%.",
+        "TH": "เพิ่มประสิทธิภาพ การฟื้นฟูพลังงานขึ้น 20%",
+        "TR": "+%20 Enerji Yüklemesi.",
+        "VI": "Hiệu Quả Nạp Nguyên Tố tăng 20%"
+      },
+      "affixId": "2100090"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.",
+        "CHS": "施放元素爆发后，每2秒为队伍中所有角色（不包括自己）恢复2点元素能量。该效果持续6秒，无法叠加。",
+        "CHT": "施放元素爆發後，每2秒為隊伍中所有角色（不包括自身）恢復2點元素能量。該效果持續6秒，無法疊加。",
+        "DE": "Stellt allen Truppenmitgliedern (außer sich selbst) bei Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 2 Punkte Elementarenergie wieder her, nicht stapelbar.",
+        "ES": "Al usar la Habilidad Definitiva, todos los miembros del equipo (a excepción de tu personaje en uso) recuperan 2 pts. de Energía Elemental cada 2 s durante 6 s. Este efecto no puede acumularse.",
+        "FR": "Le déchaînement élémentaire restaure 2 pts d'énergie élémentaire à tous les personnages de l'équipe (à l'exception du porteur) toutes les 2 s pendant 6 s. Cet effet est non cumulable.",
+        "ID": "Penggunaan Elemental Burst memulihkan 2 Energy seluruh anggota party (tidak termasuk diri sendiri) setiap 2 detik selama 6 detik. Efek ini tidak dapat ditumpuk.",
+        "IT": "#L'uso di un Tripudio elementale rigenera 2 di energia per tutti i membri del gruppo (escluso il personaggio che equipaggia il set) ogni 2 s per 6 s. Non cumulabile.",
+        "JP": "元素爆発を発動すると、2秒毎にチーム全員（自分を除く）の元素エネルギーを2回復する、継続時間6秒。重ね掛け不可。",
+        "KR": "원소폭발 발동 후 2초마다 파티 내 모든 캐릭터(자신을 포함하지 않음)의 원소 에너지를 2pt 회복한다. 해당 효과는 6초간 지속하며 중첩되지 않는다",
+        "PT": "Ao usar o Supremo, regenera 2 de Energia a todos os personagens da equipe (excluindo o portador) a cada 2s por 6s. Este efeito não pode ser acumulado.",
+        "RU": "Использование взрыва стихии восстанавливает 2 ед. энергии остальным членам отряда (но не выбранному персонажу) каждые 2 сек. в течение 6 сек. Эффект не может складываться.",
+        "TH": "เมื่อใช้ท่าไม้ตายแล้วจะทำการฟื้นฟูพลังงานธาตุให้แก่สมาชิกทีมทั้งหมด (ไม่รวมตัวเอง) 2 หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที และไม่สามารถซ้อนทับได้",
+        "TR": "Bir Element Patlaması kullanıldığında, ekipmanı kuşanan karakter hariç tüm grup üyeleri için 6 saniye boyunca 2 saniyede bir 2 Enerji yenilenir. Bu etki birikemez.",
+        "VI": "Sau khi thi triển kỹ năng nộ, mỗi 2 giây sẽ hồi 2 điểm năng lượng nguyên tố cho tất cả nhân vật trong đội (không bao gồm bản thân). Hiệu quả trong 6 giây, không cộng dồn."
+      },
+      "affixId": "2100091"
+    }
+  ]
+}

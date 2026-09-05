@@ -1,0 +1,137 @@
+{
+  "id": "10000123",
+  "name": {
+    "EN": "Durin",
+    "CHS": "杜林",
+    "CHT": "杜林",
+    "DE": "Durin",
+    "ES": "Durin",
+    "FR": "Durin",
+    "ID": "Durin",
+    "IT": "Durin",
+    "JP": "ドゥリン",
+    "KR": "두린",
+    "PT": "Durin",
+    "RU": "Дурин",
+    "TH": "Durin",
+    "TR": "Durin",
+    "VI": "Durin"
+  },
+  "nameEn": "Durin",
+  "element": "Pyro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 3,
+    "day": 14
+  },
+  "release": "2025-12-01T22:00:00",
+  "icon": "generated/character-profiles/10000123/avatar.webp",
+  "fullWish": "generated/character-profiles/10000123/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "\"The Undying Fire\"",
+    "CHS": "「不熄灭的火」",
+    "CHT": "「不熄滅的火」",
+    "DE": "„Unauslöschliches Feuer“",
+    "ES": "“El Fuego Inextinguible”",
+    "FR": "« Feu inextinguible »",
+    "ID": "\"The Undying Fire\"",
+    "IT": "\"Fiamma perpetua\"",
+    "JP": "「消えない炎」",
+    "KR": "「꺼지지 않는 불」",
+    "PT": "\"As Chamas Eternas\"",
+    "RU": "«Вечное пламя»",
+    "TH": "\"เพลิงที่ไม่มีวันดับ\"",
+    "TR": "\"Sönmeyen Ateş\"",
+    "VI": "\"Ngọn Lửa Bất Diệt\""
+  },
+  "description": {
+    "EN": "A dragon born from M's pen, who came to alight in the human world. His \"story\" continues to unfold.",
+    "CHS": "在魔女M笔下诞生的龙，最终来到了人类的世界。而他的「故事」，也仍在继续。",
+    "CHT": "在魔女M筆下誕生的龍，最終來到了人類的世界。而他的「故事」，也仍在繼續。",
+    "DE": "Ein Drache, geboren aus der Feder der Hexe M, der schließlich in der Welt der Menschen gelandet ist. Und so setzt sich seine „Geschichte“ fort.",
+    "ES": "Un dragón nacido de la pluma de la bruja M y llegado al mundo de los humanos. Su “historia” continúa desarrollándose.",
+    "FR": "Un dragon né de la plume de M, qui a atterri dans le monde des humains. Son « histoire » continue de se dévoiler...",
+    "ID": "Naga yang lahir dari pena milik \"M\" akhirnya tiba di dunia manusia. Dan \"kisah\"-nya masih terus berlanjut.",
+    "IT": "Il drago nato dalla penna di \"M\", giunto nel mondo degli umani. La sua \"storia\" continua a svilupparsi.",
+    "JP": "魔女Mの物語から生まれた龍は、ついに人の世界にたどり着いた。彼の「物語」は、これからも紡がれていく。",
+    "KR": "마녀 M의 펜 끝에서 탄생한 용이 마침내 인간 세계에 도착했다. 그리고 그의 「이야기」는 여전히 계속되고 있다",
+    "PT": "Um dragão que nasceu da caneta de M, e que chegou ao mundo humano. Sua história continua a se revelar.",
+    "RU": "Дракон, родившийся из-под пера ведьмы М., в конце концов пришёл в мир людей. И его история продолжается.",
+    "TH": "มังกรที่ถือกำเนิด จากปลายปากกาของแม่มด M ในที่สุด ก็ได้มาถึงโลกของมนุษย์ และ \"เรื่องราว\" ของเขาก็ยังคงดำเนินต่อไป",
+    "TR": "M'nin kaleminden doğup insanların dünyasına gelen bir ejderha. \"Hikayesi\" anlatılmaya devam ediyor.",
+    "VI": "Chú rồng được sinh ra dưới ngòi bút của Ma Nữ M, cuối cùng đã đến với thế giới loài người. Và \"câu chuyện\" của cậu ấy vẫn còn đang tiếp diễn."
+  },
+  "constellationName": {
+    "EN": "Draco Rubedo",
+    "CHS": "赤龙座",
+    "CHT": "赤龍座",
+    "DE": "Draco Rubedo",
+    "ES": "Draco Rubedo",
+    "FR": "Draco Rubedo",
+    "ID": "Draco Rubedo",
+    "IT": "Draco Rubedo",
+    "JP": "ドラコ・ルベド座",
+    "KR": "적룡자리",
+    "PT": "Draco Rubedo",
+    "RU": "Алый Дракон",
+    "TH": "Draco Rubedo",
+    "TR": "Kızıl Ejderha",
+    "VI": "Cung Xích Long"
+  },
+  "native": {
+    "EN": "Hexenzirkel",
+    "CHS": "魔女会",
+    "CHT": "魔女會",
+    "DE": "Hexenzirkel",
+    "ES": "Aquelarre",
+    "FR": "Hexenzirkel",
+    "ID": "Hexenzirkel",
+    "IT": "Hexenzirkel",
+    "JP": "魔女会",
+    "KR": "마녀회",
+    "PT": "Sociedade das Feiticeiras",
+    "RU": "Ведьмин шабаш",
+    "TH": "สมาคมแม่มด",
+    "TR": "Cadılar Meclisi",
+    "VI": "Hội Ma Nữ"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Laurie Kynaston"
+    },
+    {
+      "lang": "CHS",
+      "va": "陶典"
+    },
+    {
+      "lang": "JP",
+      "va": "小林千晃"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Ji-yul"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 967.6198,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.999,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 64.0181,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

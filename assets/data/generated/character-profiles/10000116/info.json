@@ -1,0 +1,137 @@
+{
+  "id": "10000116",
+  "name": {
+    "EN": "Ineffa",
+    "CHS": "伊涅芙",
+    "CHT": "伊涅芙",
+    "DE": "Ineffa",
+    "ES": "Ineffa",
+    "FR": "Ineffa",
+    "ID": "Ineffa",
+    "IT": "Ineffa",
+    "JP": "イネファ",
+    "KR": "이네파",
+    "PT": "Ineffa",
+    "RU": "Инеффа",
+    "TH": "Ineffa",
+    "TR": "Ineffa",
+    "VI": "Ineffa"
+  },
+  "nameEn": "Ineffa",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 4,
+    "day": 2
+  },
+  "release": "2025-07-28T21:00:00",
+  "icon": "generated/character-profiles/10000116/avatar.webp",
+  "fullWish": "generated/character-profiles/10000116/full_wish.webp",
+  "fullWishObjectPosition": "48.3% 32.5%",
+  "title": {
+    "EN": "Boom Boom Thunderwave",
+    "CHS": "轰隆雷鸣波",
+    "CHT": "轟隆雷鳴波",
+    "DE": "Krachend donnernde Welle",
+    "ES": "La Onda Atronadora",
+    "FR": "Onde foudroyante",
+    "ID": "Boom Boom Thunderwave",
+    "IT": "Fulmine roboante",
+    "JP": "ブンブンサンダーウェーブ",
+    "KR": "쾅쾅 번개파",
+    "PT": "Estrondo Trovejante",
+    "RU": "Взрывная громовая волна",
+    "TH": "คลื่นอัสนีกัมปนาท",
+    "TR": "Güm Güm Yıldırım Dalgası",
+    "VI": "Sóng Điện Rền Vang"
+  },
+  "description": {
+    "EN": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
+    "CHS": "集成了各国机关部件的全能型机器人，胸口处的秘源核心已历经弥久岁月。",
+    "CHT": "集成了各國機關零件的全能型機器人，胸口處的秘源核心已歷經彌久歲月。",
+    "DE": "Ein vielseitiger Roboter, der Komponenten aus verschiedenen Reichen in sich vereint. Sein Quellkern im Brustkorb ist bereits unzählige Jahre alt.",
+    "ES": "Una robot multifuncional formada por componentes mecánicos de distintas naciones. Su núcleo fuentenigma, situado en el pecho, tiene muchos años de antigüedad.",
+    "FR": "Un robot multifonction intégrant des composants mécaniques de différentes nations. Le noyau source de sa poitrine a résisté au passage d'innombrables années.",
+    "ID": "Robot serba bisa yang dibuat dengan kombinasi komponen mekanisme dari berbagai bangsa. Inti Sumber yang terletak di dadanya telah ada sejak waktu yang lama sekali.",
+    "IT": "Un robot multifunzione dotato di componenti meccanici integrati prodotti in varie nazioni. Il Nucleo della Fonte nel suo petto ha resistito al passaggio di moltissimi anni.",
+    "JP": "各国のパーツを使って組み立てられた万能型ロボット。胸部の秘源コアは、かなり古いもののようだ…",
+    "KR": "각국의 부품을 조합해 만든 만능 로봇. 가슴에 있는 비밀 근원 코어는 오랜 세월을 견뎌냈다",
+    "PT": "Um robô multifuncional que contém componentes mecânicos de várias nações. O Núcleo da Fonte em seu peito persistiu a passagem de incontáveis anos.",
+    "RU": "Универсальный робот, собранный из компонентов из разных стран. Ядро источника в её груди пережило бесчисленное количество лет.",
+    "TH": "หุ่นยนต์อเนกประสงค์ที่รวบรวมชิ้นส่วนกลไก จากหลายประเทศไว้ด้วยกัน แกนแห่งแดนลับที่อยู่ตรงหน้าอกได้ผ่านกาลเวลามานานหลายปี",
+    "TR": "Farklı uluslara ait mekanik parçalar birleştirilerek yapılmış çok amaçlı bir robot. Göğsündeki Kaynak Çekirdeği adeta yıllara meydan okuyor.",
+    "VI": "Robot toàn năng được kết hợp bởi các linh kiện từ các quốc gia khác nhau. Phần lõi bí ẩn trước ngực đã tồn tại qua vô số năm tháng dài đằng đẵng."
+  },
+  "constellationName": {
+    "EN": "Vanilla Planifolia",
+    "CHS": "香荚兰座",
+    "CHT": "香莢蘭座",
+    "DE": "Vanilla Planifolia",
+    "ES": "Vanilla Planifolia",
+    "FR": "Vanilla Planifolia",
+    "ID": "Vanilla Planifolia",
+    "IT": "Vanilla planifolia",
+    "JP": "バニラ・プラニフォリア座",
+    "KR": "바닐라꽃자리",
+    "PT": "Vanilla Planifolia",
+    "RU": "Ваниль",
+    "TH": "Vanilla Planifolia",
+    "TR": "Vanilya Orkidesi",
+    "VI": "Cung Hương Giáp Lan"
+  },
+  "native": {
+    "EN": "Clink-Clank Krumkake Craftshop",
+    "CHS": "叮铃哐啷蛋卷工坊",
+    "CHT": "叮鈴哐啷蛋捲工坊",
+    "DE": "Krumkake-Werkstatt Kling-Klang",
+    "ES": "Taller de Krumkake Cling-clang",
+    "FR": "Knieperterie Cling-clang",
+    "ID": "Clink-Clank Krumkake Craftshop",
+    "IT": "Laboratorio di krumkake Tin-Tin",
+    "JP": "カチャカチャ・クルムカケ工房",
+    "KR": "뚝딱뚝딱 크룸카케 공방",
+    "PT": "Oficina de Rolinho de Ovo Trilimlim",
+    "RU": "Мастерская крумкаке «Дзынь-Клац»",
+    "TH": "เวิร์กชอป Krumkake กรุ๊งกริ๊ง",
+    "TR": "Çın Çın Krumkake Atölyesi",
+    "VI": "Xưởng Krumkake Clink-Clank"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Angelina Danielle Cama"
+    },
+    {
+      "lang": "CHS",
+      "va": "美加"
+    },
+    {
+      "lang": "JP",
+      "va": "中島愛"
+    },
+    {
+      "lang": "KR",
+      "va": "Sung Ye-won"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 981.9196,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 25.6956,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 64.43691,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

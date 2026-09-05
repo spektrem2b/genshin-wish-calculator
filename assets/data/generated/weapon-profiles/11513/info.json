@@ -1,0 +1,52 @@
+{
+  "id": 11513,
+  "name": {
+    "EN": "Splendor of Tranquil Waters",
+    "CHS": "静水流涌之辉",
+    "CHT": "靜水流湧之輝",
+    "DE": "Pracht des stillen Wassers",
+    "ES": "Fulgor de las Aguas Calmas",
+    "FR": "Splendeur des eaux calmes",
+    "ID": "Splendor of Tranquil Waters",
+    "IT": "Fulgore delle placide acque",
+    "JP": "静水流転の輝き",
+    "KR": "고요히 샘솟는 빛",
+    "PT": "Esplendor das Águas Silenciosas",
+    "RU": "Блеск тихих вод",
+    "TH": "Splendor of Tranquil Waters",
+    "TR": "Sakin Suların İhtişamı",
+    "VI": "Sắc Nước Lộng Lẫy"
+  },
+  "nameEn": "Splendor of Tranquil Waters",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A scepter around which swirls pure water. In days long past, it once symbolized the highest authority over the seas.",
+    "CHS": "萦绕着至纯之水的权杖，在遥远的昔日曾象征着海原之上至高的权威。",
+    "CHT": "縈繞著至純之水的權杖，在遙遠的昔日曾象徵著海原之上至高的權威。",
+    "DE": "Ein Stab, um den reinstes Wasser wirbelt. In längst vergangenen Tagen symbolisierte er die höchste Autorität über die Meere.",
+    "ES": "Un cetro alrededor del cual gira un agua de extrema pureza. En un pasado muy remoto, simbolizaba la máxima autoridad sobre los mares.",
+    "FR": "Un sceptre autour duquel tourbillonne de l'eau pure. Autrefois, il symbolisait la plus haute autorité sur les mers.",
+    "ID": "Tongkat yang dikelilingi air murni. Pada zaman dahulu, tongkat ini pernah melambangkan kekuasaan tertinggi dari segala lautan.",
+    "IT": "Uno scettro avvolto da un vortice d'acqua cristallina. In un'epoca assai remota, esso rappresentava la suprema autorità sulle correnti del mare.",
+    "JP": "至純の水をまとう杖。遥か昔、海原の上の至高なる権威を象徴していた。",
+    "KR": "가장 순수한 물이 맴도는 지팡이. 먼 옛날에 해저 평원 위의 가장 높은 권위를 상징했다",
+    "PT": "Um cetro em torno do qual gira água pura. Em dias passados, ele costumava simbolizar a mais alta autoridade sobre os mares.",
+    "RU": "Скипетр, окружённый чистейшей водой. В былые времена он символизировал высочайшую власть над морями.",
+    "TH": "คทาที่ปกคลุมด้วยน้ำบริสุทธิ์ ครั้งหนึ่งเคยเป็นสัญลักษณ์ของอำนาจสูงสุดบนผืนทะเลในอดีตอันไกลโพ้น",
+    "TR": "Etrafını saf suların çevrelediği bir asa. Uzun zaman önce, denizlerdeki en büyük hakimiyeti simgelerdi.",
+    "VI": "Quyền trượng với dòng nước tinh khiết vây quanh. Trong quá khứ xa xưa, nó từng tượng trưng cho quyền lực tối cao trên biển."
+  },
+  "icon": "generated/weapon-profiles/11513/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

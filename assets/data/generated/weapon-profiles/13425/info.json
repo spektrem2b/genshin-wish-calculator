@@ -1,0 +1,52 @@
+{
+  "id": 13425,
+  "name": {
+    "EN": "Rightful Reward",
+    "CHS": "公义的酬报",
+    "CHT": "公義的酬報",
+    "DE": "Rechtmäßige Belohnung",
+    "ES": "Retribución de la Justicia",
+    "FR": "Récompense légitime",
+    "ID": "Rightful Reward",
+    "IT": "Equa ricompensa",
+    "JP": "正義の報酬",
+    "KR": "공의의 보상",
+    "PT": "Justa Recompensa",
+    "RU": "Справедливая награда",
+    "TH": "Rightful Reward",
+    "TR": "Meşru Mükafat",
+    "VI": "Thù Lao Của Chính Nghĩa"
+  },
+  "nameEn": "Rightful Reward",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A sharp spear. Only its tip remains freshly bloodstained.",
+    "CHS": "一柄锋利的长枪，仅在枪尖处留有点滴沾染鲜血的残痕。",
+    "CHT": "一柄鋒利的長槍，僅在槍尖處留有點滴沾染鮮血的殘痕。",
+    "DE": "Eine scharfe Lanze. Einzig der Spitze haften frische Blutspuren an.",
+    "ES": "Una lanza cuya afilada punta está manchada con un resquicio de sangre fresca.",
+    "FR": "Une lance pointue, dont seule la pointe reste tachée de sang frais.",
+    "ID": "Tombak yang begitu tajam. Hanya ujungnya saja yang meninggalkan noda bercak darah.",
+    "IT": "Una lancia affilata. La sua punta è l'unica parte a essere macchiata di sangue fresco.",
+    "JP": "鋭利な長槍。槍先には血塗られた痕跡が残っている。",
+    "KR": "예리한 장창. 창끝에 피의 흔적이 남아있다",
+    "PT": "Uma lança afiada. Somente a ponta dela permanece recentemente manchada de sangue.",
+    "RU": "Острое копьё. Наконечник его обагрён свежей кровью.",
+    "TH": "หอกแหลมคมที่หลงเหลือเพียงคราบเลือดสีสดที่ปลายของมัน",
+    "TR": "Ucunda taze bir kan lekesi olan keskin bir mızrak.",
+    "VI": "Ngọn thương sắc nhọn, ở mũi thương còn vương chút máu tươi."
+  },
+  "icon": "generated/weapon-profiles/13425/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 15416,
+  "name": {
+    "EN": "Mouun's Moon",
+    "CHS": "曚云之月",
+    "CHT": "曚雲之月",
+    "DE": "Mouun-Mond",
+    "ES": "Luna de Mouun",
+    "FR": "Lune de Mouun",
+    "ID": "Mouun's Moon",
+    "IT": "Luna di Mouun",
+    "JP": "曚雲の月",
+    "KR": "모운의 달",
+    "PT": "Lua de Mouun",
+    "RU": "Луна Моун",
+    "TH": "Mouun's Moon",
+    "TR": "Mouun'un Ayı",
+    "VI": "Ánh Trăng Mouun"
+  },
+  "nameEn": "Mouun's Moon",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms.",
+    "CHS": "出自螺钿与珊瑚的精美战弓，月色的弓臂上流动着凄然的光彩。",
+    "CHT": "出自螺鈿與珊瑚的精美戰弓，月色的弓臂上流動著淒然的光彩。",
+    "DE": "Ein schöner Kriegsbogen aus Muscheln und Korallen. Ein trauriger Glanz fließt entlang seiner mondlichtfarbenen Wurfarme.",
+    "ES": "Un elegante arco hecho con caracolas de mar y corales. Una melancólica luz lunar fluye por él.",
+    "FR": "Un élégant arc de guerre fait de coquillages et de corail. Un éclat mélancolique se répand le long de ses branches couleur clair de lune.",
+    "ID": "Busur perang cantik yang terbuat dari kerang dan karang. Cahayanya yang gemerlap nan menyedihkan tersirat di sepanjang lekukannya yang berwarna terang bagaikan rembulan.",
+    "IT": "Un elegante arco da guerra realizzato con conchiglie e coralli. Un triste bagliore lo pervade per tutta la sua lunghezza.",
+    "JP": "螺鈿と珊瑚でできた精巧な弓。月色の弓幹には凄然たる光沢を放っている。",
+    "KR": "자개와 산호로 만든 아름다운 전투용 활. 달빛의 활대엔 처연한 광채가 흐른다",
+    "PT": "Um arco de guerra adorável feito de conchas e coral. Um brilho lúgubre flui ao longo de seus braços coloridos à luz da lua.",
+    "RU": "Прелестный лук, украшенный перламутром и кораллами. На его плечах цвета луны переливается печальное сияние.",
+    "TH": "ธนูสงครามอันงดงามที่ทำขึ้นจากเปลือกหอยและปะการัง ประกายอันเศร้าสร้อยอาบไว้บนคันธนูสีแสงจันทร์",
+    "TR": "Deniz kabukları ve mercanlardan yapılmış bir savaş yayı. Hüzünlü parıltısıyla mehtabı andırır.",
+    "VI": "Chiến cung tinh xảo làm từ vỏ sò và san hô. Trên thân cung phản chiếu ánh trăng đầy đau thương."
+  },
+  "icon": "generated/weapon-profiles/15416/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

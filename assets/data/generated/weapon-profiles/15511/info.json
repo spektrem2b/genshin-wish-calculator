@@ -1,0 +1,52 @@
+{
+  "id": 15511,
+  "name": {
+    "EN": "Hunter's Path",
+    "CHS": "猎人之径",
+    "CHT": "獵人之徑",
+    "DE": "Pfad des Jägers",
+    "ES": "Senda de la Cazadora",
+    "FR": "La voie du chasseur",
+    "ID": "Hunter's Path",
+    "IT": "Sentiero del cacciatore",
+    "JP": "狩人の道",
+    "KR": "사냥꾼의 길",
+    "PT": "Caminho do Caçador",
+    "RU": "Охотничья тропа",
+    "TH": "Hunter's Path",
+    "TR": "Avcının Yolu",
+    "VI": "Con Đường Thợ Săn"
+  },
+  "nameEn": "Hunter's Path",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods.",
+    "CHS": "以珍贵的白枝制成的饰金猎弓，曾经射落无数侵入森林的恶兽。",
+    "CHT": "以珍貴的白枝製成的飾金獵弓，曾經射落無數侵入森林的惡獸。",
+    "DE": "Dieser vergoldete Bogen wurde aus seltenen weißen Ästen gefertigt. Er hat schon zahllose böse Bestien erlegt, die versuchten, in den Wald einzudringen.",
+    "ES": "Un arco con motivos dorados fabricado a partir de unas valiosas ramas blancas. Con sus flechas, en el pasado derribó a incontables bestias que invadieron el bosque.",
+    "FR": "Cet arc doré a été réalisé à l'aide de branches blanches précieuses. Il a abattu d'innombrables bêtes méchantes qui tentaient de s'infiltrer dans les bois.",
+    "ID": "Busur berburu berwarna emas yang dibuat dari cabang putih yang berharga telah menembak jatuh begitu banyak monster buas yang hendak menyerbu hutan.",
+    "IT": "Questo arco dorato è stato costruito utilizzando preziosi rami bianchi. Ha sconfitto innumerevoli bestie malvagie che tentavano di infiltrarsi nella foresta.",
+    "JP": "貴重な白き枝で作られた金メッキの弓。森に侵入する無数の悪しき獣を倒してきた。",
+    "KR": "진귀한 하얀 나뭇가지로 만들어진 황금빛 사냥용 활. 한때 숲을 침입한 수많은 맹수를 쓰러뜨렸다",
+    "PT": "Este arco adornado foi feito usando galhos brancos preciosos. Ele já derrotou inúmeras bestas malignas que tentaram infiltrar a floresta.",
+    "RU": "Этот позолоченный лук, выполненный из драгоценных белых ветвей, сразил бесчисленное множество злых тварей, которые попытались вторгнуться в лес.",
+    "TH": "ธนูล่าสัตว์สลักทองที่ทำขึ้นจากกิ่งสีขาวที่แสนล้ำค่า เคยยิงสัตว์ร้ายที่บุกรุกเข้ามาในป่าจนร่วงมาแล้วนับไม่ถ้วน",
+    "TR": "Bu yaldızlı yay, değerli dallar kullanılarak yapıldı. Ormana sızmaya çalışan sayısız canavarın son durağı olmuştur.",
+    "VI": "Cung săn bắn được chế tạo từ nhánh cây trắng, từng bắn hạ vô số ác thú xâm chiếm khu rừng."
+  },
+  "icon": "generated/weapon-profiles/15511/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

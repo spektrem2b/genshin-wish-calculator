@@ -1,0 +1,52 @@
+{
+  "id": 14501,
+  "name": {
+    "EN": "Skyward Atlas",
+    "CHS": "天空之卷",
+    "CHT": "天空之卷",
+    "DE": "Himmelsatlas",
+    "ES": "Pergamino Celestial",
+    "FR": "Atlas de la Voûte d'Azur",
+    "ID": "Skyward Atlas",
+    "IT": "Atlante celeste",
+    "JP": "天空の巻",
+    "KR": "천공의 두루마리",
+    "PT": "Atlas Celestial",
+    "RU": "Небесный атлас",
+    "TH": "Skyward Atlas",
+    "TR": "Göklerin Atlası",
+    "VI": "Quyển Thiên Không"
+  },
+  "nameEn": "Skyward Atlas",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.",
+    "CHS": "象征风龙与其主风之神的云图集。细致记载了北地天空的风与云，蕴含苍空与长风的力量。",
+    "CHT": "象徵風龍與其主風之神的雲圖集。細緻記載了北地天空的風與雲，蘊含蒼空與長風的力量。",
+    "DE": "Ein Atlas von der Wolkenlandschaft, geschaffen von Dvalin und seinem Herrn, dem Archon des Windes. Er beschreibt den Wind und die Wolken des Himmels im Norden detailliert und enthält die Kraft von Himmel und Wind.",
+    "ES": "Un atlas de nubes que simboliza a Stormterror y al Arconte Anemo, su antiguo maestro. Registra detalladamente y contiene el poder de los vientos y las nubes de los cielos del norte.",
+    "FR": "Un atlas représentant Dvalin et son ancien maître, l'Archon Anémo. Il décrit en détail les vents et les nuages au nord de Teyvat et renferme la puissance des cieux et des vents.",
+    "ID": "Atlas awan yang melambangkan Dvalin dan tuannya, Archon Anemo. Menunjukkan secara rinci awan dan angin di daerah Utara, mengandung kekuatan angin dan angkasa.",
+    "IT": "Un atlante delle nuvole che simboleggia Dvalin e il suo precedente padrone, l'Archon di Anemo. Illustra i venti e le nubi delle regioni del nord, e contiene i poteri del cielo e del vento.",
+    "JP": "風龍とその主である風の神を象徴した図表集。北の風と雲が詳しく記載されており、蒼空と長風の力が秘められている。",
+    "KR": "풍룡과 그의 주인 바람의 신을 상징하는 두루마리. 북쪽 하늘의 바람과 구름이 상세히 기재되어 있으며, 푸른 하늘과 바람의 힘을 지니고 있다",
+    "PT": "Um atlas das nuvens que simboliza Dvalin e o Arconte Anemo, seu antigo mestre. Detalha os ventos e as nuvens das regiões do norte e contém o poder dos céus e dos ventos.",
+    "RU": "Облачный атлас, символ Двалина и его повелителя, Анемо Архонта. Детально описывает облака и воздушные потоки северного региона, питающие его силой небес и ветров.",
+    "TH": "บันทึกมวลเมฆที่เป็นเหมือนตัวแทนของ Dvalin และเทพแห่งลมผู้เป็นเจ้าของเดิม ภายในระบุรายละเอียดของสายลมและหมู่เมฆในแดนเหนือ และมีพลังของท้องฟ้าและสายลมอยู่ด้วย",
+    "TR": "Dvalin ve eski efendisi Rüzgar Hükümdarı'nı simgeleyen bir bulut atlası. Kuzeyin rüzgarlarını ve bulutlarını ayrıntılı olarak anlatır, göklerin ve rüzgarın gücünü barındırır.",
+    "VI": "Tập sách tượng trưng cho Phong Long và chủ nhân Phong Thần của nó. Ghi chép tỷ mỉ về gió và mây của bầu trời phương bắc, ẩn giấu sức mạnh của thiên không và gió."
+  },
+  "icon": "generated/weapon-profiles/14501/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

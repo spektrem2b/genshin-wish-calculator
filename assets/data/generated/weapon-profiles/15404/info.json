@@ -1,0 +1,52 @@
+{
+  "id": 15404,
+  "name": {
+    "EN": "Royal Bow",
+    "CHS": "宗室长弓",
+    "CHT": "宗室長弓",
+    "DE": "Königlicher Langbogen",
+    "ES": "Arco Real",
+    "FR": "Arc royal",
+    "ID": "Royal Bow",
+    "IT": "Arco reale",
+    "JP": "旧貴族長弓",
+    "KR": "왕실의 장궁",
+    "PT": "Arco Real",
+    "RU": "Королевский лук",
+    "TH": "Royal Bow",
+    "TR": "Kraliyet Yayı",
+    "VI": "Trường Cung Tông Thất"
+  },
+  "nameEn": "Royal Bow",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
+    "CHS": "曾支配蒙德的旧日贵族的长弓。经过无数世代，弓弦仍十分有力，击发迅猛。",
+    "CHT": "曾支配蒙德的舊日貴族的長弓。經過無數世代，弓弦仍十分有力，擊發迅猛。",
+    "DE": "Ein Langbogen der Aristokraten, die einst über Mondstadt herrschten. Obwohl er aus einem längst vergangenen Zeitalter stammt, ist die Sehne noch vollständig intakt und die Pfeile schießen ungehemmt davon.",
+    "ES": "Un viejo arco largo de la aristocracia que en el pasado gobernó Mondstadt. Innumerables generaciones después, la cuerda del arco sigue tensa y puede disparar flechas rápidamente.",
+    "FR": "Un arc long qui appartenait jadis aux dirigeants de Mondstadt. Après avoir connu bien des générations, sa corde légère est toujours capable de décocher des flèches à une vitesse impressionnante.",
+    "ID": "Busur tua yang pernah digunakan oleh para bangsawan penguasa Mondstadt di zaman dahulu. Setelah generasi demi generasi berlalu, busur ini masih dapat menembakkan panah dengan sangat cepat.",
+    "IT": "Un vecchio arco lungo appartenuto agli antichi sovrani di Mondstadt. Tramandato da generazioni, la sua corda è ancora ben salda e può scoccare frecce con grande forza.",
+    "JP": "かつてモンドを支配していた旧貴族の長弓。無数の世代を経たが、弦はまだ鈍っておらず、素早く弓を射ることができる。",
+    "KR": "몬드를 지배했던 옛 귀족의 활. 수많은 세대를 거쳤어도 활시위는 여전히 힘차고 위력이 강하다",
+    "PT": "Um velho arco real que pertencia aos antigos governantes de Mondstadt. Inúmeras gerações depois, a corda do arco ainda está firme e ainda pode disparar flechas com grande força.",
+    "RU": "Древний лук правителя Мондштадта. Спустя века, тетива на нём всё ещё крепко натянута и готова пускать стрелы.",
+    "TH": "คันธนูยาวสภาพเก่าแก่ของชนชั้นสูงผู้ที่ครั้งหนึ่งเคยปกครอง Mondstadt มาก่อน แม้ว่าเวลาผ่านไปหลายยุคหลายสมัยแต่สายเอ็นของธนูก็ยังคงแข็งตึงและสามารถยิงลูกธนูออกไปได้อย่างรุนแรง",
+    "TR": "Bir zamanlar Mondstadt'ın kadim yöneticilerine ait olan eski bir yay. Nesiller sonra bile yayı hâlâ sımsıkı ve okları eskisi kadar hızlı atabiliyor.",
+    "VI": "Cung dài từng thuộc về quý tộc Monstadt cũ. Trải qua nhiều đời, dây cung vẫn rất mạnh mẽ."
+  },
+  "icon": "generated/weapon-profiles/15404/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 13512,
+  "name": {
+    "EN": "Crimson Moon's Semblance",
+    "CHS": "赤月之形",
+    "CHT": "赤月之形",
+    "DE": "Form des scharlachroten Mondes",
+    "ES": "Semblante de la Luna Carmesí",
+    "FR": "Semblance de la lune écarlate",
+    "ID": "Crimson Moon's Semblance",
+    "IT": "Forma della Luna cremisi",
+    "JP": "赤月のシルエット",
+    "KR": "붉은 달의 형상",
+    "PT": "Semblante da Lua Carmesim",
+    "RU": "Очертания алой луны",
+    "TH": "Crimson Moon's Semblance",
+    "TR": "Kızıl Ayın Sureti",
+    "VI": "Hình Thái Xích Nguyệt"
+  },
+  "nameEn": "Crimson Moon's Semblance",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A keen-edged weapon, luster dazzling as the crimson moon. It is said that an ancient dynasty once regarded it as a ritual object that could bridge two worlds, but none still remember the beliefs and ceremonies of that bygone age.",
+    "CHS": "色泽如赤月般刺眼的锋锐利器。据说在某个古老的王朝中曾被视为贯连两界的礼器，但如今早已不再有人记得彼时的信仰与典仪。",
+    "CHT": "色澤如赤月般刺眼的鋒利銳器。據說在某個古老的王朝中曾被視為連接兩界的禮器，但如今早已不再有人記得彼時的信仰與典儀。",
+    "DE": "Eine scharfe Waffe von der grellen Farbe des scharlachroten Mondes. Es heißt, zur Zeit einer uralten Herrscherdynastie wurde sie als ein zeremonielles Instrument angesehen, das zwei Welten verband. Schon lange gibt es niemanden mehr, der sich an den Glauben und die Rituale jener Tage erinnert.",
+    "ES": "Una afilada arma de un color tan deslumbrante como el de una luna carmesí. Dicen que, en una dinastía de la antigüedad, se consideraba un objeto ritual que conectaba dos mundos, pero ya nadie recuerda ni esa creencia ni ese ritual.",
+    "FR": "Une arme tranchante, à l'éclat éblouissant comme la lune écarlate. On raconte qu'une ancienne dynastie la considérait autrefois comme un objet rituel capable de relier deux mondes, mais personne ne se souvient des croyances et des cérémonies de cette époque révolue.",
+    "ID": "Senjata tajam dengan warna merah terang seperti bulan merah. Dikatakan bahwa zaman dulu di sebuah dinasti kuno, senjata ini pernah menjadi salah satu alat upacara yang menghubungkan dua dunia, namun kini sudah tidak ada lagi yang mengingat kepercayaan dan ritual di masa itu.",
+    "IT": "Un'arma dalla lama tagliente, che riluce di uno sfolgorio simile a quello della Luna cremisi. Si dice che fosse un oggetto rituale impiegato da una remota dinastia per collegare due mondi, ma si tratta di credenze e cerimonie troppo antiche perché qualcuno possa ricordarsene.",
+    "JP": "赤月のような眩い色をした鋭利な武器。古代の王朝では双界を繋ぐ儀式用の祭具とされていたそうだが、当時の信仰や儀式を覚えている者はもういない。",
+    "KR": "붉은 달처럼 빛나는 날카로운 무기. 고대 왕조에서 두 개의 세계를 잇는 의식을 위한 예식 도구로 사용되었다고 한다. 하지만 지금, 그때의 신앙과 의식을 기억하는 사람은 더 이상 없다",
+    "PT": "Uma arma de gume afiado, brilho deslumbrante como a Lua Carmesim. Dizem que uma antiga dinastia a considerava um objeto ritual que poderia unir dois mundos, mas ninguém mais se lembra das crenças e cerimônias daquela era passada.",
+    "RU": "Это острое копьё отливает алым лунным блеском. Говорят, во времена древней династии оно служило ритуальным орудием для молитв и было способно объединить два мира, но нынешние люди давно забыли эти традиции и верования.",
+    "TH": "อาวุธอันคมกริบสุกใส ราวกับจันทราแดง ว่ากันว่าในราชวงศ์โบราณ เคยถูกมองว่า เป็นเครื่องมือพิธีกรรม ที่เชื่อมระหว่างสองโลก แต่ตอนนี้ไม่มีใครจำความเชื่อ และพิธีกรรมในอดีตนั้นได้อีกแล้ว",
+    "TR": "Parıltısıyla tıpkı kızıl ay gibi göz kamaştıran keskin bir silah. Kadim bir hanedanlığın bu mızrağı iki dünya arasında bir köprü görevi görmesi için ayinlerde kullandığı söylenir. Ancak o kadim çağa ait inançları ve törenleri artık hatırlayan kalmadı.",
+    "VI": "Vũ khí sắc bén có màu chói lóa như vầng trăng đỏ. Nghe nói trong vương triều cổ xưa từng được xem là vật nghi lễ nối liền hai thế giới, nhưng nay đã không còn ai nhớ đến tín ngưỡng và nghi lễ năm xưa nữa."
+  },
+  "icon": "generated/weapon-profiles/13512/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

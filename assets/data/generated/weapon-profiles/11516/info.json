@@ -1,0 +1,52 @@
+{
+  "id": 11516,
+  "name": {
+    "EN": "Peak Patrol Song",
+    "CHS": "岩峰巡歌",
+    "CHT": "岩峰巡歌",
+    "DE": "Lied der Gipfelpatrouille",
+    "ES": "Himno de las Cumbres",
+    "FR": "Chanson de patrouille de sommet",
+    "ID": "Peak Patrol Song",
+    "IT": "Canzone della Pattuglia delle Sommità",
+    "JP": "岩峰を巡る歌",
+    "KR": "바위산을 맴도는 노래",
+    "PT": "Canção da Patrulha do Pico",
+    "RU": "Песнь патруля пиков",
+    "TH": "Peak Patrol Song",
+    "TR": "Tepe Devriyesi Şarkısı",
+    "VI": "Khúc Ca Núi Đá"
+  },
+  "nameEn": "Peak Patrol Song",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "An obsidian blade of unparalleled sharpness, light as a song. It was modified by a certain artisan to come equipped with a record-playing detachable Phlogiston Device.",
+    "CHS": "锋锐无比的黑曜石长刀，轻巧如歌。经过某位工匠的改造，附加了能播放唱片的可拆卸燃素装置。",
+    "CHT": "鋒銳無比的黑曜石長刀，輕巧如歌。經過某位工匠的改造後，附加了能夠播放唱片的可拆式燃素裝置。",
+    "DE": "Eine scharfe Klinge aus Obsidian, die so leicht ist wie ein in der Luft treibendes Lied. Sie wurde von einem bestimmten Handwerker modifiziert und ist mit einem abnehmbaren Phlogiston-Apparat ausgestattet, mit dem man Schallplatten abspielen kann.",
+    "ES": "Una gran espada de obsidiana con una hoja incomparablemente afilada, pero que es tan ligera como una canción. Un artesano instaló en ella un dispositivo de flogisto desmontable que le permite reproducir vinilos.",
+    "FR": "Une lame d'obsidienne d'un tranchant incomparable, légère comme une chanson. Elle a été modifiée par une certaine personne pour être équipée d'un dispositif phlogistique amovible pour la lecture de disques.",
+    "ID": "Pedang obsidian yang tajam tak terkira, juga ringan seperti lagu. Dimodifikasi oleh seorang pengrajin dan ditambahkan dengan perangkat Phlogiston pemutar rekaman yang bisa dibongkar pasang.",
+    "IT": "Una lama d'ossidiana dall'ineguagliabile affilatezza, ma leggera come una canzone. Pare che un'artigiana l'abbia dotata di un Dispositivo flogistico smontabile capace di riprodurre della musica.",
+    "JP": "鋭く尖った、歌のように軽い黒曜石の長刀。ある職人の改造により、レコードを再生できる取り外し可能な燃素装置がついている。",
+    "KR": "아주 예리한 흑요석 장검. 경쾌한 노랫소리처럼 날렵하다. 어느 장인의 개조를 통해 레코드를 재생하는 탈착식 열소 장치가 추가됐다고 한다",
+    "PT": "Uma lâmina de obsidiana de afiação incomparável, leve como uma canção. Foi modificada por um certo artesão para vir equipada com um dispositivo de Flogisto destacável que toca discos.",
+    "RU": "Необыкновенно острый обсидиановый клинок, лёгкий, словно песня. Некий мастер модифицировал его, оснастив съёмным флогистоновым устройством, которое воспроизводит записи.",
+    "TH": "ดาบยาวหินออบซิเดียนที่แหลมคมไร้เทียมทาน มีน้ำหนักเบาราวกับบทเพลง หลังจากผ่านการดัดแปลงจากช่างฝีมือคนหนึ่ง ก็ได้มีอุปกรณ์โฟลจิสตันแบบถอดออกได้ ซึ่งสามารถเล่นแผ่นเสียงได้เพิ่มเข้ามา",
+    "TR": "Eşi benzeri olmayan bir keskinliğe sahip, bir şarkı kadar hafif obsidiyen bir kılıç. Bir zanaatkar onu kayıt çalabilen çıkarılabilir bir Filojiston Cihazı ile donatmış.",
+    "VI": "Lưỡi đao Đá Obsidian sắc bén vô cùng, nhẹ như tiếng hát. Sau khi được một người thợ nào đó cải tạo, đã thêm vào đó thiết bị Phlogiston có khả năng phát đĩa nhạc và có thể tháo bỏ."
+  },
+  "icon": "generated/weapon-profiles/11516/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.18,
+  "substat_lvl90": 0.8269,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

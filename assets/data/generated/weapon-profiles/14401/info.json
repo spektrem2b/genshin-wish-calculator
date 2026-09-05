@@ -1,0 +1,52 @@
+{
+  "id": 14401,
+  "name": {
+    "EN": "Favonius Codex",
+    "CHS": "西风秘典",
+    "CHT": "西風秘典",
+    "DE": "Favonius-Kodex",
+    "ES": "Códice de Favonius",
+    "FR": "Code de Favonius",
+    "ID": "Favonius Codex",
+    "IT": "Codice di Favonius",
+    "JP": "西風秘典",
+    "KR": "페보니우스 비전",
+    "PT": "Codex de Favonius",
+    "RU": "Кодекс Фавония",
+    "TH": "Favonius Codex",
+    "TR": "Favonius Kanunları",
+    "VI": "Tây Phong Mật Điển"
+  },
+  "nameEn": "Favonius Codex",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter.",
+    "CHS": "西风骑士团的学者间流传的秘典，记载着元素与物质的道理和力量。",
+    "CHT": "西風騎士團學者間流傳的秘典。記載著元素與物質的道理和力量。",
+    "DE": "Ein Kodex, der unter den Gelehrten des Ordo Favonius weitergetragen wird. Darin werden die Prinzipien und Kräfte von Elementen und Stoffen erläutert.",
+    "ES": "Un libro secreto que perteneció a los eruditos de los Caballeros de Favonius. En él, se describen los principios y el poder de los elementos y de la materia.",
+    "FR": "Un ouvrage autrefois utilisé par les chercheurs de l'Ordre de Favonius. Il décrit la logique régissant les éléments et la matière, ainsi que leur puissance.",
+    "ID": "Kitab rahasia milik para sarjana Knights of Favonius. Di dalamnya tercatat logika dan kekuatan akan elemen dan materi alam.",
+    "IT": "Un tomo segreto appartenuto agli studiosi dei Cavalieri di Favonius. Descrive la logica e il potere degli elementi e della materia.",
+    "JP": "西風騎士団の錬金学者の間に伝わる秘典。元素と物質の理論と力が記されている。",
+    "KR": "페보니우스 기사단 학자들 사이에서 전해 내려오는 비전. 원소와 물질의 이치와 힘을 기술하고 있다",
+    "PT": "Um livro secreto que pertencia aos estudiosos dos Cavaleiros de Favonius. Descreve o poder da matéria e da lógica.",
+    "RU": "Тайный гримуар, принадлежащий учёным Ордо Фавониус. Описывает силу и логику элементов и материи.",
+    "TH": "ตำราลับที่เป็นของนักแปรธาตุของกองอัศวินแห่ง Favonius ภายในระบุเรื่องพลังของสิ่งต่าง ๆ และความเป็นเหตุเป็นผล รวมถึงเรื่องอื่น ๆ ด้วย",
+    "TR": "Favonius Şövalyeleri alimlerine ait gizli bir kitap. Elementlerin ve maddenin mantığını ve gücünü açıklar.",
+    "VI": "Mật điển được học giả Đội Kỵ Sĩ Tây Phong lưu truyền. Ghi chép đạo lý và sức mạnh của vật chất và Nguyên Tố."
+  },
+  "icon": "generated/weapon-profiles/14401/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Unreturning",
+    "CHS": "离簇不归",
+    "CHT": "離鏃不歸",
+    "DE": "Ohne Wiederkehr",
+    "ES": "Sin retorno",
+    "FR": "Sans retour",
+    "ID": "Unreturning",
+    "IT": "Senza ritorno",
+    "JP": "帰らない",
+    "KR": "이착불귀",
+    "PT": "Sem Retorno",
+    "RU": "Невозвратный",
+    "TH": "Unreturning",
+    "TR": "Dönüşsüz",
+    "VI": "Rời Khỏi Bầy Đàn"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 36% for 10s.",
+        "CHS": "重击若命中要害，则提升10%移动速度与36%攻击力，持续10秒。",
+        "CHT": "重擊若命中要害，則提升10%移動速度與36%攻擊力，持續10秒。",
+        "DE": "Erhöht die Bewegungs-GSW beim Treffen von Schwachstellen mit heftigen Schlägen 10 s lang um 10 % und den ANG um 36 %.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, aumenta la Vel. Movimiento en un 10% y el ATQ en un 36% durante 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles augmentent la VIT de déplacement de 10 % et l'ATQ de 36 % pendant 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan meningkatkan Movement SPD sebanyak 10% dan ATK sebesar 36% selama 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli aumentano la VEL di movimento di un 10% e l'ATT di un 36% per 10 s.",
+        "JP": "重撃が弱点に命中した場合、移動速度+10%、攻撃力+36%、継続時間10秒。",
+        "KR": "강공격이 약점에 명중하면 이동 속도가 10% 증가하고 공격력이 36% 증가한다. 지속 시간: 10초",
+        "PT": "Os ataques de Ataques Carregados em pontos fracos aumentam a Veloc. Mov. em 10% e ATQ em 36% por 10s.",
+        "RU": "Попадания заряженной атакой по слабым местам увеличивают скорость передвижения на 10% и силу атаки на 36% в течение 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะได้รับความเร็วในการเคลื่อนที่เพิ่ม 10% และพลังโจมตีเพิ่ม 36% เป็นเวลา 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar 10 saniyeliğine Hareket Hızını %10, Saldırıyı %36 artırır.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tăng 10% tốc độ di chuyển và 36% tấn công, kéo dài 10s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 45% for 10s.",
+        "CHS": "重击若命中要害，则提升10%移动速度与45%攻击力，持续10秒。",
+        "CHT": "重擊若命中要害，則提升10%移動速度與45%攻擊力，持續10秒。",
+        "DE": "Erhöht die Bewegungs-GSW beim Treffen von Schwachstellen mit heftigen Schlägen 10 s lang um 10 % und den ANG um 45 %.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, aumenta la Vel. Movimiento en un 10% y el ATQ en un 45% durante 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles augmentent la VIT de déplacement de 10 % et l'ATQ de 45 % pendant 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan meningkatkan Movement SPD sebanyak 10% dan ATK sebesar 45% selama 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli aumentano la VEL di movimento di un 10% e l'ATT di un 45% per 10 s.",
+        "JP": "重撃が弱点に命中した場合、移動速度+10%、攻撃力+45%、継続時間10秒。",
+        "KR": "강공격이 약점에 명중하면 이동 속도가 10% 증가하고 공격력이 45% 증가한다. 지속 시간: 10초",
+        "PT": "Os ataques de Ataques Carregados em pontos fracos aumentam a Veloc. Mov. em 10% e ATQ em 45% por 10s.",
+        "RU": "Попадания заряженной атакой по слабым местам увеличивают скорость передвижения на 10% и силу атаки на 45% в течение 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะได้รับความเร็วในการเคลื่อนที่เพิ่ม 10% และพลังโจมตีเพิ่ม 45% เป็นเวลา 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar 10 saniyeliğine Hareket Hızını %10, Saldırıyı %45 artırır.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tăng 10% tốc độ di chuyển và 45% tấn công, kéo dài 10s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 54% for 10s.",
+        "CHS": "重击若命中要害，则提升10%移动速度与54%攻击力，持续10秒。",
+        "CHT": "重擊若命中要害，則提升10%移動速度與54%攻擊力，持續10秒。",
+        "DE": "Erhöht die Bewegungs-GSW beim Treffen von Schwachstellen mit heftigen Schlägen 10 s lang um 10 % und den ANG um 54 %.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, aumenta la Vel. Movimiento en un 10% y el ATQ en un 54% durante 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles augmentent la VIT de déplacement de 10 % et l'ATQ de 54 % pendant 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan meningkatkan Movement SPD sebanyak 10% dan ATK sebesar 54% selama 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli aumentano la VEL di movimento di un 10% e l'ATT di un 54% per 10 s.",
+        "JP": "重撃が弱点に命中した場合、移動速度+10%、攻撃力+54%、継続時間10秒。",
+        "KR": "강공격이 약점에 명중하면 이동 속도가 10% 증가하고 공격력이 54% 증가한다. 지속 시간: 10초",
+        "PT": "Os ataques de Ataques Carregados em pontos fracos aumentam a Veloc. Mov. em 10% e ATQ em 54% por 10s.",
+        "RU": "Попадания заряженной атакой по слабым местам увеличивают скорость передвижения на 10% и силу атаки на 54% в течение 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะได้รับความเร็วในการเคลื่อนที่เพิ่ม 10% และพลังโจมตีเพิ่ม 54% เป็นเวลา 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar 10 saniyeliğine Hareket Hızını %10, Saldırıyı %54 artırır.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tăng 10% tốc độ di chuyển và 54% tấn công, kéo dài 10s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 63% for 10s.",
+        "CHS": "重击若命中要害，则提升10%移动速度与63%攻击力，持续10秒。",
+        "CHT": "重擊若命中要害，則提升10%移動速度與63%攻擊力，持續10秒。",
+        "DE": "Erhöht die Bewegungs-GSW beim Treffen von Schwachstellen mit heftigen Schlägen 10 s lang um 10 % und den ANG um 63 %.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, aumenta la Vel. Movimiento en un 10% y el ATQ en un 63% durante 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles augmentent la VIT de déplacement de 10 % et l'ATQ de 63 % pendant 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan meningkatkan Movement SPD sebanyak 10% dan ATK sebesar 63% selama 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli aumentano la VEL di movimento di un 10% e l'ATT di un 63% per 10 s.",
+        "JP": "重撃が弱点に命中した場合、移動速度+10%、攻撃力+63%、継続時間10秒。",
+        "KR": "강공격이 약점에 명중하면 이동 속도가 10% 증가하고 공격력이 63% 증가한다. 지속 시간: 10초",
+        "PT": "Os ataques de Ataques Carregados em pontos fracos aumentam a Veloc. Mov. em 10% e ATQ em 63% por 10s.",
+        "RU": "Попадания заряженной атакой по слабым местам увеличивают скорость передвижения на 10% и силу атаки на 63% в течение 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะได้รับความเร็วในการเคลื่อนที่เพิ่ม 10% และพลังโจมตีเพิ่ม 63% เป็นเวลา 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar 10 saniyeliğine Hareket Hızını %10, Saldırıyı %63 artırır.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tăng 10% tốc độ di chuyển và 63% tấn công, kéo dài 10s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 72% for 10s.",
+        "CHS": "重击若命中要害，则提升10%移动速度与72%攻击力，持续10秒。",
+        "CHT": "重擊若命中要害，則提升10%移動速度與72%攻擊力，持續10秒。",
+        "DE": "Erhöht die Bewegungs-GSW beim Treffen von Schwachstellen mit heftigen Schlägen 10 s lang um 10 % und den ANG um 72 %.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, aumenta la Vel. Movimiento en un 10% y el ATQ en un 72% durante 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles augmentent la VIT de déplacement de 10 % et l'ATQ de 72 % pendant 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan meningkatkan Movement SPD sebanyak 10% dan ATK sebesar 72% selama 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli aumentano la VEL di movimento di un 10% e l'ATT di un 72% per 10 s.",
+        "JP": "重撃が弱点に命中した場合、移動速度+10%、攻撃力+72%、継続時間10秒。",
+        "KR": "강공격이 약점에 명중하면 이동 속도가 10% 증가하고 공격력이 72% 증가한다. 지속 시간: 10초",
+        "PT": "Os ataques de Ataques Carregados em pontos fracos aumentam a Veloc. Mov. em 10% e ATQ em 72% por 10s.",
+        "RU": "Попадания заряженной атакой по слабым местам увеличивают скорость передвижения на 10% и силу атаки на 72% в течение 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะได้รับความเร็วในการเคลื่อนที่เพิ่ม 10% และพลังโจมตีเพิ่ม 72% เป็นเวลา 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar 10 saniyeliğine Hareket Hızını %10, Saldırıyı %72 artırır.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tăng 10% tốc độ di chuyển và 72% tấn công, kéo dài 10s."
+      }
+    }
+  ]
+}

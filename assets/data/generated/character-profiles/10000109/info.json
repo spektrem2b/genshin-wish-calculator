@@ -1,0 +1,137 @@
+{
+  "id": "10000109",
+  "name": {
+    "EN": "Yumemizuki Mizuki",
+    "CHS": "梦见月瑞希",
+    "CHT": "夢見月瑞希",
+    "DE": "Yumemizuki Mizuki",
+    "ES": "Yumemizuki Mizuki",
+    "FR": "Yumemizuki Mizuki",
+    "ID": "Yumemizuki Mizuki",
+    "IT": "Yumemizuki Mizuki",
+    "JP": "夢見月瑞希",
+    "KR": "유메미즈키 미즈키",
+    "PT": "Yumemizuki Mizuki",
+    "RU": "Мидзуки",
+    "TH": "Yumemizuki Mizuki",
+    "TR": "Yumemizuki Mizuki",
+    "VI": "Yumemizuki Mizuki"
+  },
+  "nameEn": "Yumemizuki Mizuki",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 3,
+    "day": 16
+  },
+  "release": "2025-02-10T22:00:00",
+  "icon": "generated/character-profiles/10000109/avatar.webp",
+  "fullWish": "generated/character-profiles/10000109/full_wish.webp",
+  "fullWishObjectPosition": "51.7% 23.7%",
+  "title": {
+    "EN": "Embrace of Enchanting Dreams",
+    "CHS": "绮梦缱绻",
+    "CHT": "綺夢繾綣",
+    "DE": "Umarmt von süßen Träumen",
+    "ES": "La Dulce Soñadora",
+    "FR": "Étreinte de rêves enchanteurs",
+    "ID": "Embrace of Enchanting Dreams",
+    "IT": "Intreccio di sogni incantevoli",
+    "JP": "睦み合う綺羅の夢",
+    "KR": "아름답게 얽힌 꿈",
+    "PT": "Sonhos Entrelaçados",
+    "RU": "Объятие волшебных снов",
+    "TH": "ห้วงนิทราคะนึงฝัน",
+    "TR": "Büyüleyici Düşlerin Elçisi",
+    "VI": "Ảo Mộng Trùng Điệp"
+  },
+  "description": {
+    "EN": "A shareholder of Aisa Bathhouse, a baku, and a clinical psychologist. Dedicated to the dispersal of nightmares, and to bringing people peace of mind.",
+    "CHS": "「秋沙钱汤」的股东，梦貘一族的心理诊疗师，致力于驱散噩梦，为人们带来安宁的心境。",
+    "CHT": "「秋沙錢湯」的股東兼夢貘一族的心理診療師，致力於驅散噩夢，為人們帶來安寧的心境。",
+    "DE": "Hauptanteilseignerin des „Badehauses Aisa“ und Psychotherapeutin, ein Yumekui-Baku in Menschengestalt. Besonders versiert im Vertreiben von Albträumen, verhilft sie den Menschen zu Gelassenheit.",
+    "ES": "La accionista mayoritaria del Balneario Aisa y una baku psicoterapeuta. Se dedica a disipar pesadillas y traer paz mental a las personas.",
+    "FR": "Actionnaire des Bains Aisa, ce Baku dévoreur de rêves exerce en tant que psychoclinicienne. Elle est dévouée à dissiper les cauchemars et à apporter la paix intérieure aux gens.",
+    "ID": "Pemegang saham Aisa Bathhouse, psikolog klinis dari klan yumekui-baku yang berdedikasi untuk mengusir mimpi buruk dan membawa ketenangan batin bagi semua orang.",
+    "IT": "Azionista delle Terme Aisa, baku e psicologa clinica. Si dedica alla rimozione degli incubi per donare serenità alle menti delle persone.",
+    "JP": "「秋沙銭湯」の大株主で、夢喰い獏の心理療法士。人々の悪夢を追い払って安らぎを与えるために奮闘している。",
+    "KR": "「아이사 대중탕」의 대주주 겸 바쿠 일족의 심리 치료사. 악몽을 몰아내고 사람들의 마음에 평화를 가져다 주기 위해 열심히 노력하고 있다",
+    "PT": "Acionista da Banhos de Aisa, psicóloga da tribo Yumekui-baku, dedicada a dissipar pesadelos e trazer paz mental às pessoas.",
+    "RU": "Акционер бань «Аиса», представительница народа баку и клинический психолог. Посвятила себя избавлению от кошмаров и принесению людям спокойствия.",
+    "TH": "ผู้ถือหุ้นใหญ่ของ \"โรงอาบน้ำ Aisa\" และนักจิตบำบัดจากเผ่าพันธุ์บากุเขมือบฝัน มุ่งมั่นที่จะขจัดฝันร้าย เพื่อนำความสงบมาสู่ผู้คน",
+    "TR": "Aisa Hamamının hissedarı, bir Baku ve klinik psikolog. Kendini kabusları ortadan kaldırmaya ve insanlara huzur vermeye adamıştır.",
+    "VI": "Cổ đông của Phòng Tắm Hơi Aisa, một nhà trị liệu tâm lý thuộc tộc baku, dốc sức để xua đuổi ác mộng, đem lại bình yên cho mọi người."
+  },
+  "constellationName": {
+    "EN": "Tapirus Somniator",
+    "CHS": "貘枕座",
+    "CHT": "貘枕座",
+    "DE": "Tapirus Somniator",
+    "ES": "Tapirus Somniator",
+    "FR": "Tapirus Somniator",
+    "ID": "Tapirus Somniator",
+    "IT": "Tapirus Somniator",
+    "JP": "獏枕座",
+    "KR": "바쿠자리",
+    "PT": "Tapirus Somniator",
+    "RU": "Сонный Тапир",
+    "TH": "Tapirus Somniator",
+    "TR": "Düşgezen Tapir",
+    "VI": "Cung Mạc Chẩm"
+  },
+  "native": {
+    "EN": "Inazuma",
+    "CHS": "稻妻",
+    "CHT": "稻妻",
+    "DE": "Inazuma",
+    "ES": "Inazuma",
+    "FR": "Inazuma",
+    "ID": "Inazuma",
+    "IT": "Inazuma",
+    "JP": "稲妻",
+    "KR": "이나즈마",
+    "PT": "Inazuma",
+    "RU": "Инадзума",
+    "TH": "Inazuma",
+    "TR": "Inazuma",
+    "VI": "Inazuma"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Naomi McDonald"
+    },
+    {
+      "lang": "CHS",
+      "va": "浮梦若薇"
+    },
+    {
+      "lang": "JP",
+      "va": "会沢紗弥"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Seo-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 991.4528,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.758,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 58.93255,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

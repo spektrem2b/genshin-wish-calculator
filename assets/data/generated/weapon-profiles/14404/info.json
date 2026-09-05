@@ -1,0 +1,52 @@
+{
+  "id": 14404,
+  "name": {
+    "EN": "Royal Grimoire",
+    "CHS": "宗室秘法录",
+    "CHT": "宗室秘法錄",
+    "DE": "Königliches Zauberbuch",
+    "ES": "Grimorio Real",
+    "FR": "Grimoire royal",
+    "ID": "Royal Grimoire",
+    "IT": "Grimorio reale",
+    "JP": "旧貴族秘法録",
+    "KR": "왕실의 비전록",
+    "PT": "Grimório Real",
+    "RU": "Королевский гримуар",
+    "TH": "Royal Grimoire",
+    "TR": "Kraliyet Büyü Kitabı",
+    "VI": "Mật Pháp Tông Thất"
+  },
+  "nameEn": "Royal Grimoire",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.",
+    "CHS": "属于曾支配蒙德的贵族麾下的宫廷魔导师，其中记载的史话与法术同样翔实。",
+    "CHT": "屬於曾支配蒙德的貴族麾下的宮廷魔導師，其中記載的史話與法術同樣詳實。",
+    "DE": "Es gehörte einst dem königlichen Hofmagier von Mondstadt und enthält Aufzeichnungen über wahre Begebenheiten und die Zauberkunst.",
+    "ES": "Un libro que una vez perteneció a un mago aristócrata de Mondstadt. En él, hay registrados relatos históricos y hechizos reales y muy largos.",
+    "FR": "Ce grimoire appartenait autrefois à un mage de la cour royale de Mondstadt. Il contient des témoignages historiques authentiques ainsi que des sorts.",
+    "ID": "Buku yang sebelumnya dimiliki oleh penyihir istana di Mondstadt. Di dalamnya tercatat kebenaran sejarah dan berbagai sihir.",
+    "IT": "Un libro appartenuto al mago della corte di Mondstadt che era a servizio della nobiltà. Contiene racconti storici completi e incantesimi magici.",
+    "JP": "かつてモンドを支配していた旧貴族配下の魔導師が持っていたもの。中には法術書と同等に詳しい史話が記録されている。",
+    "KR": "몬드를 지배했던 귀족의 휘하에 있던 궁정 마도사의 마법서이다. 안에 기재된 역사는 마법과 마찬가지로 매우 상세하다",
+    "PT": "Um livro que pertenceu a um feiticeiro da realeza de Mondstadt. Guarda feitiços e relatos históricos verdadeiros e extensos.",
+    "RU": "Книга, когда-то принадлежавшая королевскому магу Мондштадта. Содержит подробные исторические данные и заклинания.",
+    "TH": "หนังสือที่ครั้งหนึ่งเคยเป็นของนักเวทมนตร์หลวงแห่ง Mondstadt มันได้เก็บเอาความจริงของบัญชีย้อนหลังและมนตราต่าง ๆ ไว้ภายใน",
+    "TR": "Bir zamanlar Mondstadt'ta soylulara hizmet etmiş bir saray büyücüsünün kitabı. Ayrıntılı tarihi bilgiler ve büyüler içerir.",
+    "VI": "Thuộc về Ma Đạo Sư cung đình dưới thời quý tộc Mondstadt, trên đó có ghi chép pháp thuật và lịch sử."
+  },
+  "icon": "generated/weapon-profiles/14404/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

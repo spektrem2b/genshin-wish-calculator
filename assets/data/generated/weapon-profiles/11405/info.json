@@ -1,0 +1,52 @@
+{
+  "id": 11405,
+  "name": {
+    "EN": "Lion's Roar",
+    "CHS": "匣里龙吟",
+    "CHT": "匣裡龍吟",
+    "DE": "Drachenschrei",
+    "ES": "Rugido del León",
+    "FR": "Rugissement du Lion",
+    "ID": "Lion's Roar",
+    "IT": "Ruggito del leone",
+    "JP": "匣中龍吟",
+    "KR": "용의 포효",
+    "PT": "Rugido do Leão",
+    "RU": "Драконий рык",
+    "TH": "Lion's Roar",
+    "TR": "Aslan Kükreyişi",
+    "VI": "Tiếng Hét Của Rồng"
+  },
+  "nameEn": "Lion's Roar",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.",
+    "CHS": "雕饰浮华的利刃，却丝毫不损它的柔韧与锋锐。破空之声有如龙吟。",
+    "CHT": "雕飾浮華的利刃，卻絲毫不損它的柔韌與鋒銳。破空之聲有如龍吟。",
+    "DE": "Eine aufwendig gefertigte Klinge, die jedoch nichts an Biegsamkeit und Schärfe einbüßt. Schwingt man sie durch die Luft, ist es, als höre man einen Drachen schreien.",
+    "ES": "Una afilada espada con una lujosa decoración que no compromete ni su resistencia ni su filo. El sonido de la misma cortando el aire es como el rugido de un león.",
+    "FR": "Une lame tranchante ornée de sculptures luxueuses mais qui n'influent en rien sur sa durabilité et sa finesse. Elle rugit à la manière du lion lorsqu'elle est dégainée.",
+    "ID": "Pedang dengan ukiran dan desain yang mewah, tetapi sama sekali tidak memengaruhi ketajaman dan ketahanan pedang ini. Suara dari tebasannya menyerupai suara amarah singa.",
+    "IT": "Una spada affilata, con incisioni stravaganti che non sembrano comprometterne la durabilità e le capacità di taglio. Fendendo l'aria, ruggisce come un leone.",
+    "JP": "華やかな模様が、その鋭さを損なうことはない。空を裂く時の音はまるで龍の咆哮のようだ。",
+    "KR": "조각 문양은 조금 과장된 느낌이 있지만 검의 유연도와 예리함은 손색이 없다. 공기를 가를 때 용의 포효가 들리는 듯하다",
+    "PT": "Uma lâmina afiada com inserções luxuosas que de alguma forma não comprometeu sua durabilidade e nitidez. O som que emite ao fazer cortes pelo ar é como o rugido de leões.",
+    "RU": "Роскошная гравировка никак не повлияла на прочность и остроту этого меча. Звук от взмахов напоминает рык дракона.",
+    "TH": "คมดาบและการสลักตกแต่งที่ไม่เข้ากันกับความคมและความทนทานของมัน เสียงในเวลาที่ตัดผ่าอากาศนั้นราวกับเสียงคำรามของสิงโต",
+    "TR": "Gösterişli işlemelerle süslenmiş, ancak dayanıklılıktan ve keskinlikten ödün vermeyen bir kılıç. Kınından çıktığında aslan gibi kükrer.",
+    "VI": "Phát ra sức mạnh tinh anh nhưng không hề ảnh hưởng đến sự sắc bén cũng như linh hoạt. Vung lên như tiếng hét của rồng."
+  },
+  "icon": "generated/weapon-profiles/11405/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

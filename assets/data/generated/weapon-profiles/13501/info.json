@@ -1,0 +1,52 @@
+{
+  "id": 13501,
+  "name": {
+    "EN": "Staff of Homa",
+    "CHS": "护摩之杖",
+    "CHT": "護摩之杖",
+    "DE": "Homa-Stab",
+    "ES": "Báculo de Homa",
+    "FR": "Bâton de Homa",
+    "ID": "Staff of Homa",
+    "IT": "Bastone di Homa",
+    "JP": "護摩の杖",
+    "KR": "호마의 지팡이",
+    "PT": "Báculo de Homa",
+    "RU": "Посох Хомы",
+    "TH": "Staff of Homa",
+    "TR": "Homa'nın Asası",
+    "VI": "Trượng Hộ Ma"
+  },
+  "nameEn": "Staff of Homa",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A \"firewood staff\" that was once used in ancient and long-lost rituals.",
+    "CHS": "在早已失落的古老祭仪中，使用的朱赤「柴火杖」。",
+    "CHT": "在早已失落的古老祭儀中，使用的朱赤「柴火杖」。",
+    "DE": "Ein sogenannter roter Brennholzstab, der in alten, mittlerweile vergessenen Ritualen verwendet wurde.",
+    "ES": "Un bastón de color bermellón utilizado en un antiguo ritual que hace mucho tiempo que no se practica.",
+    "FR": "Un « bâton de feu » utilisé il y a bien longtemps dans quelque rituel ancien aujourd'hui disparu.",
+    "ID": "Sebuah \"tongkat kayu bakar\" yang pernah digunakan dalam ritual kuno dan telah lama hilang.",
+    "IT": "Un \"bastone di legno\" che in passato veniva usato in antichi rituali.",
+    "JP": "既に廃れた過去の祭儀で使われていた朱色の杖。",
+    "KR": "오래전에 사라져버린 옛 제사 의식에 사용됐던 적색의 지팡이",
+    "PT": "Um bastão vermelho utilizado em um antigo ritual que não se pratica há muito tempo.",
+    "RU": "Алый посох, использовавшийся в давно утраченном древнем ритуале.",
+    "TH": "\"หอกแห่งไฟ\" ที่ใช้ในพิธีกรรมโบราณซึ่งได้สูญหายไปเป็นเวลานาน",
+    "TR": "Uzun zaman önce unutulan kadim ayinlerde kullanılmış ahşap bir asa.",
+    "VI": "\"Trượng Lửa\" màu đỏ sử dụng trong nghi lễ cổ xưa, đã thất truyền từ lâu."
+  },
+  "icon": "generated/weapon-profiles/13501/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

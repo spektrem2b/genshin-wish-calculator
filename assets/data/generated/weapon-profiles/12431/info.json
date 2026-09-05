@@ -1,0 +1,52 @@
+{
+  "id": 12431,
+  "name": {
+    "EN": "Earth Shaker",
+    "CHS": "撼地者",
+    "CHT": "撼地者",
+    "DE": "Bebenmacher",
+    "ES": "Terragitador",
+    "FR": "Trembleur de terre",
+    "ID": "Earth Shaker",
+    "IT": "Sisma",
+    "JP": "アースシェイカー",
+    "KR": "대지를 울리는 자",
+    "PT": "Estremecedor da Terra",
+    "RU": "Сотрясающий землю",
+    "TH": "Earth Shaker",
+    "TR": "Yersarsan",
+    "VI": "Đao Chấn Động"
+  },
+  "nameEn": "Earth Shaker",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A heavy blade that people claim was beloved by the hero known as the Firethief. They say that even the Lord of Cinder Keep's flames could not burn it away.",
+    "CHS": "人称「窃火者」的英杰爱用的重剑，据说就连烬城之王的烈火也未能将其焚断。",
+    "CHT": "人稱「竊火者」的英傑愛用的重劍，據說就連燼城之王的烈火也未能將其焚斷。",
+    "DE": "Das große Schwert, das von dem als „Flammendieb“ bekannten Helden bevorzugt wurde. Es heißt, dass selbst das brennende Feuer des Königs der aschenen Stadt es nicht zum Schmelzen bringen konnte.",
+    "ES": "La espada pesada que le gustaba utilizar al héroe conocido como “Robafuegos”. Dicen que ni siquiera las llamas del rey de la Ciudad de las Cenizas pudieron quemarla.",
+    "FR": "#Une lame lourde qui, selon certains, était appréciée par le héros connu sous le surnom de « voleur de feu ». On dit que même les flammes du seigneur de la Cité de braise n'ont pas pu la brûler.",
+    "ID": "Pedang besar yang disukai oleh tokoh pahlawan si Pembawa Api. Konon katanya, bahkan bara api milik Penguasa Bara Api pun tidak bisa menghanguskannya.",
+    "IT": "Una lama pesante che, stando all'opinione comune, apparteneva all'eroe conosciuto come Rubafuoco. Si dice che nemmeno le fiamme del Signore della Fortezza di Cenere siano state in grado di bruciarla.",
+    "JP": "「盗炎者」と呼ばれる英傑が愛用していた重い剣。灰燼の都の王の烈火でさえ、それを焼き尽くすことはできなかったという。",
+    "KR": "「불 탈취자」로 불리는 영웅이 애용하던 대검. 잿더미성 왕의 맹렬한 불길도 이 검을 태우지 못했다고 한다",
+    "PT": "A espada preferida do Ladrão das Chamas. Dizem que nem mesmo as chamas do Rei da Cidade das Cinzas foram capazes de quebrá-la.",
+    "RU": "Говорят, это любимый тяжёлый меч героя, известного как Похититель огня. Говорят, что даже огонь правителя сожжённого города не смог испепелить его.",
+    "TH": "ดาบใหญ่ที่ผู้กล้าซึ่งผู้คนรู้จักกันในชื่อ \"จอมโจรขโมยไฟ\" โปรดปราน ว่ากันว่าแม้แต่เปลวไฟที่ลุกโชนของผู้ปกครองแห่งเมือง Cinder ก็ไม่อาจเผาไหม้มันได้",
+    "TR": "Ateş Hırsızı adlı kahramanın sevdiği söylenen ağır bir kılıç. Hatta Kül Şehir'in Efendisinin alevleri bile yakamamış bu kılıcı.",
+    "VI": "Trọng kiếm được vị anh kiệt với biệt danh \"Trộm Lửa\" yêu thích. Nghe nói ngay cả ngọn lửa của Vua Thành Tro Tàn cũng không thể thiêu rụi nó."
+  },
+  "icon": "generated/weapon-profiles/12431/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

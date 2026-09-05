@@ -1,0 +1,137 @@
+{
+  "id": "10000041",
+  "name": {
+    "EN": "Mona",
+    "CHS": "莫娜",
+    "CHT": "莫娜",
+    "DE": "Mona",
+    "ES": "Mona",
+    "FR": "Mona",
+    "ID": "Mona",
+    "IT": "Mona",
+    "JP": "モナ",
+    "KR": "모나",
+    "PT": "Mona",
+    "RU": "Мона",
+    "TH": "Mona",
+    "TR": "Mona",
+    "VI": "Mona"
+  },
+  "nameEn": "Mona",
+  "element": "Hydro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 8,
+    "day": 31
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000041/avatar.webp",
+  "fullWish": "generated/character-profiles/10000041/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 21.4%",
+  "title": {
+    "EN": "Astral Reflection",
+    "CHS": "星天水镜",
+    "CHT": "星天水鏡",
+    "DE": "Abbildung der Sterne im Wasser",
+    "ES": "La Observadora de los Astros",
+    "FR": "Réflexion astrale",
+    "ID": "Astral Reflection",
+    "IT": "Riflesso astrale",
+    "JP": "星天水鏡",
+    "KR": "별하늘의 물거울",
+    "PT": "Reflexão Astral",
+    "RU": "Звёздное отражение",
+    "TH": "เงาสะท้อนดวงดาว",
+    "TR": "Astral Yansıma",
+    "VI": "Thủy Kính Thiên Tinh"
+  },
+  "description": {
+    "EN": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+    "CHS": "神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。",
+    "CHT": "神秘的少女占星術士，聲稱自己是「偉大的占星術士莫娜」，擁有與名號相符的不俗實力，博學而高傲。",
+    "DE": "Eine geheimnisvolle Astrologin, die sich selbst als „Große Astrologin Mona“ bezeichnet. Doch nicht nur ihr Name macht einiges her. Ihre Stärke und ihr Wissen sind beeindruckend.",
+    "ES": "Una misteriosa y joven astróloga que se hace llamar “Astróloga Mona Megistus”. Está convencida de que posee las habilidades para estar a la altura del título. Erudita y orgullosa.",
+    "FR": "Jeune astromancienne mystérieuse, Mona se surnomme elle-même « la grande astromancienne Mona », et fait preuve d'une force singulière et d'une érudition hors norme qui ne désavouent pas cette appellation.",
+    "ID": "Seorang astrolog yang menyebut dirinya sendiri sebagai \"Mona si Astrolog Hebat\", dan memiliki kemampuan yang sesuai dengan julukannya. Kepandaiannya setara dengan keangkuhannya.",
+    "IT": "Una giovane astrologa che si fa chiamare Mona Megistus e che possiede delle abilità degne del suo titolo. Erudita ma orgogliosa.",
+    "JP": "謎の占星術師の少女。自分のことを「偉大なる占星術師モナ」と自称するが、その肩書きに相応しい実力を持っている。博学で、高慢。",
+    "KR": "신비로운 소녀 점성술사. 자칭 「위대한 점성술사 모나」. 명성에 걸맞은 뛰어난 실력을 가지고 있으며, 박학다식하나 거만하다",
+    "PT": "Uma jovem astróloga misteriosa que proclama a si mesma como a \"Grande Astróloga Mona Megistus\" e que possui as habilidades para o título. Uma pessoa erudita, mas orgulhosa.",
+    "RU": "Таинственный молодой астролог, которая представляется как «великий астролог Мона Мегистус» и на самом деле достойна этого звания. Эрудирована и горделива.",
+    "TH": "หญิงสาวลึกลับผู้เป็นโหรแห่งดวงดาว เรียกตัวเองว่า \"โหรแห่งดวงดาวผู้ยิ่งใหญ่ Mona\" มีความแข็งแกร่งอย่างล้นเหลือสมดังชื่อ รอบรู้ทว่าทระนง",
+    "TR": "Kendisini \"Astrolog Mona Megistus\" olarak tanıtan ve bu unvana uygun yeteneklere sahip gizemli genç bir astrolog. Bilgili olmasına karşın kibirlidir.",
+    "VI": "Thuật sĩ thần bí, tự xưng là nhà chiêm tinh vĩ đại, có thực lực bất phàm, thông minh cao ngạo."
+  },
+  "constellationName": {
+    "EN": "Astrolabos",
+    "CHS": "映天座",
+    "CHT": "映天座",
+    "DE": "Astrolabos",
+    "ES": "Astrolabos",
+    "FR": "Astrolabos",
+    "ID": "Astrolabos",
+    "IT": "Astrolabos",
+    "JP": "映天座",
+    "KR": "영천자리",
+    "PT": "Astrolabos",
+    "RU": "Багровая Заря",
+    "TH": "Astrolabos",
+    "TR": "Usturlap",
+    "VI": "Cung Ánh Thiên"
+  },
+  "native": {
+    "EN": "Mondstadt",
+    "CHS": "蒙德城",
+    "CHT": "蒙德城",
+    "DE": "Mondstadt",
+    "ES": "Mondstadt",
+    "FR": "Cité de Mondstadt",
+    "ID": "Mondstadt",
+    "IT": "Mondstadt",
+    "JP": "モンド城",
+    "KR": "몬드성",
+    "PT": "Mondstadt",
+    "RU": "Мондштадт",
+    "TH": "Mondstadt",
+    "TR": "Mondstadt",
+    "VI": "Thành Mondstadt"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Felecia Angelle"
+    },
+    {
+      "lang": "CHS",
+      "va": "陈婷婷"
+    },
+    {
+      "lang": "JP",
+      "va": "小原好美"
+    },
+    {
+      "lang": "KR",
+      "va": "Woo Jeong-shin"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 810.322,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 22.344,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 50.8555,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

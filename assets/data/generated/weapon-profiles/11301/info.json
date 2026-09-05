@@ -1,0 +1,52 @@
+{
+  "id": 11301,
+  "name": {
+    "EN": "Cool Steel",
+    "CHS": "冷刃",
+    "CHT": "冷刃",
+    "DE": "Kühle Klinge",
+    "ES": "Hoja Fría",
+    "FR": "Lame froide",
+    "ID": "Cool Steel",
+    "IT": "Lama fredda",
+    "JP": "冷刃",
+    "KR": "차가운 칼날",
+    "PT": "Lâmina Fria",
+    "RU": "Холодное лезвие",
+    "TH": "Cool Steel",
+    "TR": "Soğuk Çelik",
+    "VI": "Lãnh Nhẫn"
+  },
+  "nameEn": "Cool Steel",
+  "type": "Kiếm Đơn",
+  "rarity": 3,
+  "description": {
+    "EN": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.",
+    "CHS": "多层锻打的精钢铸就的可靠兵器，曾见证旧主诸多冒险奇谭。",
+    "CHT": "多層鍛打的精鋼鑄就的可靠兵器，曾見證舊主諸多冒險奇譚。",
+    "DE": "Eine stabile Waffe aus mehrfach gefaltetem Stahl, die ihrem ehemaligen Besitzer bei vielen Abenteuern nützlich war.",
+    "ES": "Un arma de acero forjada por capas. Sirve como testimonio de las grandes aventuras de su antiguo maestro.",
+    "FR": "Une arme faite dans un acier travaillé à maintes reprises, qui témoigne des aventures de son précédent propriétaire.",
+    "ID": "Senjata yang dibentuk dari banyak lapisan baja, juga menjadi tanda akan petualangan-petualangan besar pemiliknya.",
+    "IT": "Un'arma affidabile forgiata nell'acciaio, che testimonia le avventure del suo vecchio proprietario.",
+    "JP": "精巧な鋼を折り返し鍛錬により仕上げた心強い武器。かつての持ち主の冒険を見守ってきた。",
+    "KR": "여러 번 단조한 파인 스틸로 만든 듬직한 무기. 전 주인들의 수많은 모험을 지켜봤다",
+    "PT": "Uma arma laminada confiável, forjada em aço, que serve como testemunho das grandes aventuras de seu antigo mestre.",
+    "RU": "Стальной меч, на который можно положиться. Служит доказательством великих завоеваний своего прежнего владельца.",
+    "TH": "อาวุธที่สร้างขึ้นจากเหล็กกล้า ดูพึ่งพาได้ เป็นเครื่องพิสูจน์ถึงการผจญภัยอันยิ่งใหญ่ของเจ้าของเก่าของมัน",
+    "TR": "Çelikten yapılmış sağlam bir kılıç, eski sahibinin efsanevi anıları hâlâ onunla yaşıyor.",
+    "VI": "Binh khí làm từ thép tinh khiết trải qua nhiều lần tôi luyện, từng chứng kiến nhiều cuộc mạo hiểm thăng trầm của chủ cũ."
+  },
+  "icon": "generated/weapon-profiles/11301/avatar.webp",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.0766,
+  "substat_lvl90": 0.3519,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

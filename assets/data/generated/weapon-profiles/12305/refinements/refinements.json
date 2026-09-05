@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Blunt Conclusion",
+    "CHS": "有话直说",
+    "CHT": "有話直說",
+    "DE": "Direktheit",
+    "ES": "Conclusión contundente",
+    "FR": "Franc-parler",
+    "ID": "Blunt Conclusion",
+    "IT": "Schiettezza",
+    "JP": "率直に話を言え",
+    "KR": "직설",
+    "PT": "Convencer",
+    "RU": "Говори как есть",
+    "TH": "Blunt Conclusion",
+    "TR": "Kesin Sonuç",
+    "VI": "Lời Nói Thẳng Thắn"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 60% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+        "CHS": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成60%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊命中時會在小範圍內額外造成60%攻擊力的傷害。該效果持續15秒，傷害每3秒只能觸發一次。",
+        "DE": "Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von 60 % ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.",
+        "ES": "Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del 60% en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent 60 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.",
+        "ID": "Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar 60% ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale e per colpo a segno, gli attacchi normali e caricati infliggono DAN extra pari a un 60% dell'ATT in una piccola area. L'effetto dura per 15 s. I DAN possono verificarsi una volta ogni 3 s.",
+        "JP": "元素スキルを発動した後、通常攻撃または重撃が命中する際に、狭範囲で攻撃力の60%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격이 적에게 명중 시 작은 범위 내에 공격력 60%의 피해를 추가로 준다. 지속 시간: 15초. 해당 피해 효과는 3초마다 1번 발동한다",
+        "PT": "Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de 60% em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.",
+        "RU": "При попадании Элементальным навыком Обычные и Заряженные атаки наносят дополнительные 60% урона по небольшой площади в течение 15 сек. Может возникнуть раз в 3 сек.",
+        "TH": "หลังจากใช้สกิลธาตุแล้ว เมื่อการโจมตีปกติและ ชาร์จโจมตีถูกเป้าหมาย จะสร้างความเสียหาย เพิ่มเติมอีก 60% ของพลังโจมตีภายใน อาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะมีระยะเวลา ต่อเนื่อง 15 วินาที และสามารถเกิดขึ้นได้ เพียงหนึ่งครั้งในทุก 3 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra, isabet eden Normal ve Yüklü Saldırılar küçük bir alanda etkili olacak %60 Saldırı kadar ek Hasara yol açar. Bu etki 15 saniye sürer ve sadece 3 saniyede bir Hasar uygulanır.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, tấn công thường và trọng kích đánh trúng địch sẽ tạo thêm sát thương bằng 60% tấn công trong phạm vi nhỏ. Hiệu quả kéo dài 15s, sát thương mỗi 3s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 75% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+        "CHS": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成75%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊命中時會在小範圍內額外造成75%攻擊力的傷害。該效果持續15秒，傷害每3秒只能觸發一次。",
+        "DE": "Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von 75 % ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.",
+        "ES": "Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del 75% en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent 75 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.",
+        "ID": "Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar 75% ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale e per colpo a segno, gli attacchi normali e caricati infliggono DAN extra pari a un 75% dell'ATT in una piccola area. L'effetto dura per 15 s. I DAN possono verificarsi una volta ogni 3 s.",
+        "JP": "元素スキルを発動した後、通常攻撃または重撃が命中する際に、狭範囲で攻撃力の75%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격이 적에게 명중 시 작은 범위 내에 공격력 75%의 피해를 추가로 준다. 지속 시간: 15초. 해당 피해 효과는 3초마다 1번 발동한다",
+        "PT": "Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de 75% em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.",
+        "RU": "При попадании Элементальным навыком Обычные и Заряженные атаки наносят дополнительные 75% урона по небольшой площади в течение 15 сек. Может возникнуть раз в 3 сек.",
+        "TH": "หลังจากใช้สกิลธาตุแล้ว เมื่อการโจมตีปกติและ ชาร์จโจมตีถูกเป้าหมาย จะสร้างความเสียหาย เพิ่มเติมอีก 75% ของพลังโจมตีภายใน อาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะมีระยะเวลา ต่อเนื่อง 15 วินาที และสามารถเกิดขึ้นได้ เพียงหนึ่งครั้งในทุก 3 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra, isabet eden Normal ve Yüklü Saldırılar küçük bir alanda etkili olacak %75 Saldırı kadar ek Hasara yol açar. Bu etki 15 saniye sürer ve sadece 3 saniyede bir Hasar uygulanır.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, tấn công thường và trọng kích đánh trúng địch sẽ tạo thêm sát thương bằng 75% tấn công trong phạm vi nhỏ. Hiệu quả kéo dài 15s, sát thương mỗi 3s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 90% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+        "CHS": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成90%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊命中時會在小範圍內額外造成90%攻擊力的傷害。該效果持續15秒，傷害每3秒只能觸發一次。",
+        "DE": "Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von 90 % ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.",
+        "ES": "Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del 90% en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent 90 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.",
+        "ID": "Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar 90% ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale e per colpo a segno, gli attacchi normali e caricati infliggono DAN extra pari a un 90% dell'ATT in una piccola area. L'effetto dura per 15 s. I DAN possono verificarsi una volta ogni 3 s.",
+        "JP": "元素スキルを発動した後、通常攻撃または重撃が命中する際に、狭範囲で攻撃力の90%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격이 적에게 명중 시 작은 범위 내에 공격력 90%의 피해를 추가로 준다. 지속 시간: 15초. 해당 피해 효과는 3초마다 1번 발동한다",
+        "PT": "Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de 90% em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.",
+        "RU": "При попадании Элементальным навыком Обычные и Заряженные атаки наносят дополнительные 90% урона по небольшой площади в течение 15 сек. Может возникнуть раз в 3 сек.",
+        "TH": "หลังจากใช้สกิลธาตุแล้ว เมื่อการโจมตีปกติและ ชาร์จโจมตีถูกเป้าหมาย จะสร้างความเสียหาย เพิ่มเติมอีก 90% ของพลังโจมตีภายใน อาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะมีระยะเวลา ต่อเนื่อง 15 วินาที และสามารถเกิดขึ้นได้ เพียงหนึ่งครั้งในทุก 3 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra, isabet eden Normal ve Yüklü Saldırılar küçük bir alanda etkili olacak %90 Saldırı kadar ek Hasara yol açar. Bu etki 15 saniye sürer ve sadece 3 saniyede bir Hasar uygulanır.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, tấn công thường và trọng kích đánh trúng địch sẽ tạo thêm sát thương bằng 90% tấn công trong phạm vi nhỏ. Hiệu quả kéo dài 15s, sát thương mỗi 3s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 105% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+        "CHS": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成105%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊命中時會在小範圍內額外造成105%攻擊力的傷害。該效果持續15秒，傷害每3秒只能觸發一次。",
+        "DE": "Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von 105 % ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.",
+        "ES": "Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del 105% en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent 105 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.",
+        "ID": "Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar 105% ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale e per colpo a segno, gli attacchi normali e caricati infliggono DAN extra pari a un 105% dell'ATT in una piccola area. L'effetto dura per 15 s. I DAN possono verificarsi una volta ogni 3 s.",
+        "JP": "元素スキルを発動した後、通常攻撃または重撃が命中する際に、狭範囲で攻撃力の105%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격이 적에게 명중 시 작은 범위 내에 공격력 105%의 피해를 추가로 준다. 지속 시간: 15초. 해당 피해 효과는 3초마다 1번 발동한다",
+        "PT": "Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de 105% em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.",
+        "RU": "При попадании Элементальным навыком Обычные и Заряженные атаки наносят дополнительные 105% урона по небольшой площади в течение 15 сек. Может возникнуть раз в 3 сек.",
+        "TH": "หลังจากใช้สกิลธาตุแล้ว เมื่อการโจมตีปกติและ ชาร์จโจมตีถูกเป้าหมาย จะสร้างความเสียหาย เพิ่มเติมอีก 105% ของพลังโจมตีภายใน อาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะมีระยะเวลา ต่อเนื่อง 15 วินาที และสามารถเกิดขึ้นได้ เพียงหนึ่งครั้งในทุก 3 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra, isabet eden Normal ve Yüklü Saldırılar küçük bir alanda etkili olacak %105 Saldırı kadar ek Hasara yol açar. Bu etki 15 saniye sürer ve sadece 3 saniyede bir Hasar uygulanır.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, tấn công thường và trọng kích đánh trúng địch sẽ tạo thêm sát thương bằng 105% tấn công kích trong phạm vi nhỏ. Hiệu quả kéo dài 15s, sát thương mỗi 3s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 120% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+        "CHS": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成120%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊命中時會在小範圍內額外造成120%攻擊力的傷害。該效果持續15秒，傷害每3秒只能觸發一次。",
+        "DE": "Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von 120 % ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.",
+        "ES": "Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del 120% en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent 120 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.",
+        "ID": "Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar 120% ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale e per colpo a segno, gli attacchi normali e caricati infliggono DAN extra pari a un 120% dell'ATT in una piccola area. L'effetto dura per 15 s. I DAN possono verificarsi una volta ogni 3 s.",
+        "JP": "元素スキルを発動した後、通常攻撃または重撃が命中する際に、狭範囲で攻撃力の120%のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격이 적에게 명중 시 작은 범위 내에 공격력 120%의 피해를 추가로 준다. 지속 시간: 15초. 해당 피해 효과는 3초마다 1번 발동한다",
+        "PT": "Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de 120% em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.",
+        "RU": "При попадании Элементальным навыком Обычные и Заряженные атаки наносят дополнительные 120% урона по небольшой площади в течение 15 сек. Может возникнуть раз в 3 сек.",
+        "TH": "หลังจากใช้สกิลธาตุแล้ว เมื่อการโจมตีปกติและ ชาร์จโจมตีถูกเป้าหมาย จะสร้างความเสียหาย เพิ่มเติมอีก 120% ของพลังโจมตีภายใน อาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะมีระยะเวลา ต่อเนื่อง 15 วินาที และสามารถเกิดขึ้นได้ เพียงหนึ่งครั้งในทุก 3 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra, isabet eden Normal ve Yüklü Saldırılar küçük bir alanda etkili olacak %120 Saldırı kadar ek Hasara yol açar. Bu etki 15 saniye sürer ve sadece 3 saniyede bir Hasar uygulanır.",
+        "VI": "Sau khi thi triển kỹ năng Nguyên Tố, tấn công thường và trọng kích đánh trúng địch sẽ tạo thêm sát thương bằng 120% tấn công trong phạm vi nhỏ. Hiệu quả kéo dài 15s, sát thương mỗi 3s mới thi triển 1 lần."
+      }
+    }
+  ]
+}

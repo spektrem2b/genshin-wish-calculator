@@ -1,0 +1,52 @@
+{
+  "id": 11519,
+  "name": {
+    "EN": "Lightbearing Moonshard",
+    "CHS": "朏魄含光",
+    "CHT": "朏魄含光",
+    "DE": "Lichtbringende Mondscherbe",
+    "ES": "Refulgencia de la Luna",
+    "FR": "Éclat lunaire luminescent",
+    "ID": "Lightbearing Moonshard",
+    "IT": "Frammento lunare portaluce",
+    "JP": "三日月の含光",
+    "KR": "신월의 달빛",
+    "PT": "Fragmento Lunar da Luz",
+    "RU": "Светоносный осколок луны",
+    "TH": "Lightbearing Moonshard",
+    "TR": "Işıldayan Ay Parçası",
+    "VI": "Mảnh Trăng Ánh Sáng"
+  },
+  "nameEn": "Lightbearing Moonshard",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A legendary sword, said to be forged from the glimmering moonlight gathered in a well by an adeptus hidden among clear springs. Its true form is revealed only at the meeting of dusk and dawn.",
+    "CHS": "传说中隐于清泉的仙人用井月的流光铸成的宝剑，唯有在日夕昏明时才会显露真形。",
+    "CHT": "傳說中隱於清泉的仙人用井月流光鑄成的寶劍，唯有在日夕昏明時才會顯露真形。",
+    "DE": "Ein legendäres Schwert, geschmiedet von einem Adepten, der sich in den klaren Quellen verbarg. Das Schwert wurde aus dem fließenden Mondlicht des Brunnens erschaffen und zeigt seine wahre Form nur in der Dämmerung.",
+    "ES": "Cuenta la leyenda que una Adeptus que vivía recluida en un manantial cristalino forjó esta espada con la luz lunar reflejada en un pozo, la cual solo revelaba su verdadera forma durante el crepúsculo y el amanecer.",
+    "FR": "Une épée légendaire, forgée, dit-on, à partir du clair de lune scintillant recueilli dans un puits par un Adepte caché parmi des sources limpides. Sa véritable forme ne se révèle qu'à la rencontre du crépuscule et de l'aube.",
+    "ID": "Pedang legendaris yang konon katanya ditempa oleh seorang Adeptus yang bersembunyi di mata air jernih dengan menggunakan cahaya bulan dari sumur. Wujud aslinya hanya akan terungkap saat senja dan fajar bertemu.",
+    "IT": "Una spada leggendaria che si dice sia stata forgiata col baluginio del chiaro di luna, raccolto in fondo a un pozzo da un'Adepta nascosta tra le limpide sorgenti. La sua vera forma si rivela solo quando il crepuscolo incontra l'alba.",
+    "JP": "泉に隠れる仙人が月の光で作ったとされる宝剣。日暮れ時にのみ、真の姿を顕す。",
+    "KR": "맑은 샘물에 숨어 있던 선인이 우물에 비친 달빛으로 만들었다고 전해지는 보검. 오직 해 질 무렵과 새벽녘 사이에만 진정한 모습을 드러낸다",
+    "PT": "Uma espada lendária. Dizem ter sido forjada do luar reluzente de um poço por um Adeptus escondido entre nascentes. Sua forma verdadeira é revelada somente no encontro do crepúsculo com a alvorada.",
+    "RU": "Этот легендарный меч был выкован обретавшимся в чистых ручьях Адептом из искрящегося лунного света, что собрался в колодце. Его истинная форма является только во мгновения встречи заката и рассвета.",
+    "TH": "ตามตำนานเล่าว่า ดาบวิเศษเล่มนี้หลอมขึ้น จากแสงจันทร์เรืองรอง ที่สะท้อนในบ่อน้ำ โดยเซียนที่เร้นกาย อยู่ในธารน้ำพุใส และจะเผยรูปลักษณ์ ที่แท้จริงออกมาเฉพาะ ในยามสนธยาเท่านั้น",
+    "TR": "Efsanevi bir kılıç. Berrak pınarların arasına gizlenmiş bir Adeptus tarafından, bir kuyunun içindeki parıldayan ay ışığıyla dövüldüğü söylenir. Gerçek formu ancak alacakaranlık ile şafağın buluştuğu anda ortaya çıkar.",
+    "VI": "Truyền thuyết kể rằng, thanh bảo kiếm được tiên nhân ẩn mình bên dòng suối đúc từ ánh sáng của vầng trăng trong giếng, chỉ khi hoàng hôn mới để lộ chân hình."
+  },
+  "icon": "generated/weapon-profiles/11519/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

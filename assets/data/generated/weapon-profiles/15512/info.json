@@ -1,0 +1,52 @@
+{
+  "id": 15512,
+  "name": {
+    "EN": "The First Great Magic",
+    "CHS": "最初的大魔术",
+    "CHT": "最初的大魔術",
+    "DE": "Erste große Magie",
+    "ES": "El Primer Gran Número de Magia",
+    "FR": "La première grande magie",
+    "ID": "The First Great Magic",
+    "IT": "Prima grande magia",
+    "JP": "始まりの大魔術",
+    "KR": "최초의 대마술",
+    "PT": "Arcana Original",
+    "RU": "Первый великий фокус",
+    "TH": "The First Great Magic",
+    "TR": "İlk Büyük Sihir",
+    "VI": "Màn Ảo Thuật Đầu Tiên"
+  },
+  "nameEn": "The First Great Magic",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "A stage prop once used by a past \"Great Magician.\" Its final secret was that it was also a weapon beyond the pale.",
+    "CHS": "过去的「大魔术师」曾经使用的表演道具，最终揭露的秘密是它其实也是不俗的武器。",
+    "CHT": "過去的「大魔術師」曾經使用的表演道具，最終揭露的秘密是它其實也是不俗的武器。",
+    "DE": "Ein Requisit, das einst von einer „großen Zauberin“ verwendet wurde. Sein Geheimnis wurde nun endlich gelüftet, denn eigentlich handelt es sich um eine exzellente Waffe.",
+    "ES": "La herramienta mágica utilizada por cierta gran maga del pasado. El secreto detrás de ella era que, en realidad, se trataba de un arma muy singular.",
+    "FR": "Un accessoire de scène autrefois utilisé par une « grande magicienne », l'ultime secret de cette dernière étant qu'il s'agissait en fait d'une arme.",
+    "ID": "Sebuah alat pertunjukan aneh yang digunakan oleh \"Pesulap Hebat\" di masa lalu. Rahasianya adalah, alat ini juga merupakan sebuah senjata yang luar biasa.",
+    "IT": "Uno strano attrezzo di scena usato in passato dalla Grande maga. Il suo segreto è che si tratta anche di un'arma di tutto rispetto.",
+    "JP": "かつての「大魔術師」が使用していた公演用の道具。最後に明らかとなった秘密は、実はこれがなかなか凄い武器であるということ。",
+    "KR": "과거 「대마술사」가 사용했던 공연 소품. 이 소품의 마지막 비밀은 바로 무기로도 쓸 수 있다는 것이다",
+    "PT": "Um adereço de performance usada pela antiga \"Incrível Mágica\", que acabou revelando-se um notável armamento.",
+    "RU": "Сценический реквизит, в прошлом используемый «великим иллюзионистом». И его тайна наконец-таки была раскрыта - на самом деле это необыкновенное оружие.",
+    "TH": "อุปกรณ์ประกอบการแสดงที่ \"นักมายากลผู้ยิ่งใหญ่\" ในอดีตเคยใช้งาน ความลับที่ถูกเปิดเผยในตอนสุดท้ายก็คือ อันที่จริงแล้วมันยังเป็นอาวุธที่อยู่เหนือความคาดหมายด้วย",
+    "TR": "Geçmişte bir \"Büyük Sihirbaz\"ın kullandığı bir sahne dekoru. Bu dekorun ardındaki sır ise onun aynı zamanda bir silah da olması.",
+    "VI": "Đạo cụ biểu diễn mà \"ảo thuật gia đại tài\" trong quá khứ từng sử dụng, bí mật cuối cùng được hé lộ là nó thực ra cũng là một vũ khí không tầm thường."
+  },
+  "icon": "generated/weapon-profiles/15512/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

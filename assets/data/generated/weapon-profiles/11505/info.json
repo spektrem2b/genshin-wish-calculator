@@ -1,0 +1,52 @@
+{
+  "id": 11505,
+  "name": {
+    "EN": "Primordial Jade Cutter",
+    "CHS": "磐岩结绿",
+    "CHT": "磐岩結綠",
+    "DE": "Moosgrüner Fels",
+    "ES": "Cortador de Jade Primordial",
+    "FR": "Coupeur de jade primordial",
+    "ID": "Primordial Jade Cutter",
+    "IT": "Spada di giada primordiale",
+    "JP": "磐岩結緑",
+    "KR": "반암결록",
+    "PT": "Cortador de Jade Primordial",
+    "RU": "Драгоценный омут",
+    "TH": "Primordial Jade Cutter",
+    "TR": "Ezeli Yeşim Kılıcı",
+    "VI": "Bàn Nham Kết Lục"
+  },
+  "nameEn": "Primordial Jade Cutter",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung.",
+    "CHS": "由纯净的翠玉精琢细雕而成的仪礼宝剑，挥舞时剑风中似有叹息之声。",
+    "CHT": "由純淨的翠玉精琢細雕而成的儀禮寶劍，揮舞時劍風中似有嘆息之聲。",
+    "DE": "Ein rituelles Schwert, das aus reinster Jade gehauen wurde. Man meint, ein leichtes Stöhnen zu vernehmen, während man es schwingt.",
+    "ES": "Una espada para ceremonias hecha con esencia de jade puro muy finamente tallado. El viento que se produce al blandirla emite un sonido parecido al de un suspiro.",
+    "FR": "Une épée cérémonielle taillée dans le jade le plus pur. On peut presque entendre son soupir lorsqu'elle tourne dans le vent.",
+    "ID": "Pedang upacara yang diukir dari giok murni. Suara ayunannya seperti suara desahan napas yang samar.",
+    "IT": "Una spada cerimoniale di giada intagliata magistralmente. Quando fende l'aria, pare quasi che emetta un sospiro.",
+    "JP": "穢れの無い翠玉によって彫られた宝剣。振るうと、嘆息が漏れ出るかのような風音が聞こえる。",
+    "KR": "순수한 비취옥을 섬세하게 조각해 만든 의례 보검. 검을 휘두르면 탄식의 소리가 들리는 듯하다",
+    "PT": "Uma espada para cerimônias feita com essência de jade puro esculpido delicadamente. O ar que produz quando balança emite um som parecido a um suspiro.",
+    "RU": "Ритуальный меч, искусно вырезанный из чистейшего нефрита и покрытый изящными гравировками. Иногда кажется, что при взмахе им можно услышать тихий вздох ветра.",
+    "TH": "ดาบสำหรับพิธีการที่แกะสลักมาจากหยกบริสุทธิ์อย่างประณีต เมื่อแกว่งดาบไปมาในสายลม จะมีเสียงที่คล้ายกับเสียงลมหายใจ",
+    "TR": "Saf yeşimden oyulmuş bir merasim kılıcı. Rüzgarda savrulurken hafif bir inilti yankılanır.",
+    "VI": "Thanh kiếm được dùng trong nghi lễ, được chạm khắc cẩn thận từ ngọc bích tinh khiết, khi vung lên, âm thanh giống như tiếng thở dài trong gió."
+  },
+  "icon": "generated/weapon-profiles/11505/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

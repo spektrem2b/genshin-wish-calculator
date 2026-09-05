@@ -1,0 +1,52 @@
+{
+  "id": 15405,
+  "name": {
+    "EN": "Rust",
+    "CHS": "弓藏",
+    "CHT": "弓藏",
+    "DE": "Rostiger Bogen",
+    "ES": "Herrumbre",
+    "FR": "Arc rouillé",
+    "ID": "Rust",
+    "IT": "Ossidazione meschina",
+    "JP": "弓蔵",
+    "KR": "녹슨 활",
+    "PT": "Arco Enferrujado",
+    "RU": "Ржавый лук",
+    "TH": "Rust",
+    "TR": "Pas",
+    "VI": "Cung Rỉ Sét"
+  },
+  "nameEn": "Rust",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
+    "CHS": "布满锈迹的铁造大弓，一般人根本拿不动，遑论引弓放矢。",
+    "CHT": "佈滿鏽跡的鐵造大弓，一般人根本拿不動，遑論引弓放矢。",
+    "DE": "Ein großer, vollständig in Rost gekleideter Eisenbogen. Mit normaler Stärke kann man ihn kaum anheben, ganz zu schweigen vom Abschießen der Pfeile.",
+    "ES": "Un arco de hierro completamente oxidado. La gente común ni siquiera tiene la fuerza necesaria para levantarlo, y menos aún para disparar sus flechas.",
+    "FR": "Un grand arc en fer complètement recouvert de rouille. Le soulever ou le manier est impossible sans posséder une force hors du commun.",
+    "ID": "Busur besar yang terbuat dari perak, tetapi kini telah tertutup penuh oleh karat. Orang biasa jangankan menembakkan panah, mengangkatnya pun tidak sanggup.",
+    "IT": "Un grande arco di ferro coperto di ruggine. Una persona normale non avrebbe neanche la forza di sollevarlo, figuriamoci di usarlo.",
+    "JP": "錆だらけの鉄の弓。かなり重いため、矢を射るどころか、持ち上げることも困難である。",
+    "KR": "활 전체에 녹이 슬어있다. 평범한 사람은 들지도 못하니 당연히 활시위를 당겨 쏠 수도 없다",
+    "PT": "Um arco de ferro completamente enferrujado. Uma pessoa comum não teria forças para sequer levantá-lo, muito menos dispará-lo.",
+    "RU": "Полностью проржавевший железный лук. У многих даже не получится поднять его, не говоря уж о стрельбе.",
+    "TH": "คันธนูเหล็กขนาดใหญ่ที่เต็มไปด้วยสนิมซึ่งคนธรรมดานั้นไม่สามารถยกขึ้นได้เลย คงไม่ต้องพูดถึงการใช้มันเพื่อยิงธนูหรอกนะ",
+    "TR": "Pasla kaplanmış bir büyük yay. Sıradan birinin onu germeyi bırak yerinden bile kaldırması mümkün değil.",
+    "VI": "Cung bằng sắt đã bị rỉ sét, người thường khó nhấc lên được chứ đừng nói có thể khiến nó bắn ra."
+  },
+  "icon": "generated/weapon-profiles/15405/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

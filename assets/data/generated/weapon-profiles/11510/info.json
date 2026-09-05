@@ -1,0 +1,52 @@
+{
+  "id": 11510,
+  "name": {
+    "EN": "Haran Geppaku Futsu",
+    "CHS": "波乱月白经津",
+    "CHT": "波亂月白經津",
+    "DE": "Haran Geppaku Futsu",
+    "ES": "Luna Ondulante de Futsu",
+    "FR": "Lune ondulante de Futsu",
+    "ID": "Haran Geppaku Futsu",
+    "IT": "Haran Geppaku Futsu",
+    "JP": "波乱月白経津",
+    "KR": "하란 월백의 후츠",
+    "PT": "Maremoto da Lua de Futsu",
+    "RU": "Харан гэппаку фуцу",
+    "TH": "Haran Geppaku Futsu",
+    "TR": "Haran Geppaku Futsu",
+    "VI": "Haran Geppaku Futsu"
+  },
+  "nameEn": "Haran Geppaku Futsu",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves.",
+    "CHS": "经津传奉命锻造的名作。因其如汹涌海涛般的气度，而得「波乱」之名。",
+    "CHT": "經津傳奉命鍛造的名作。因其如洶湧海濤般的氣度，而得「波亂」之名。",
+    "DE": "Ein berühmtes Werk der Futsu-Schmiedefamilie. Der Name „Haran“ kommt von der Art und Weise, in der es den heftigen, aufgewühlten Wellen ähnelt.",
+    "ES": "Una obra maestra de la escuela de espadas Futsu forjada por encargo. Su nombre se debe a su parecido con una violenta ola del mar.",
+    "FR": "Une œuvre célèbre des forgerons de la lignée des Futsu. Son nom renvoie aux vagues violentes de la mer qui se déchaînent sous une nuit de pleine lune.",
+    "ID": "Sebuah karya terkenal dari keturunan pandai besi Futsu. Nama \"Haran\" berasal dari bentuknya yang menyerupai ombak yang ganas dan bergejolak.",
+    "IT": "Una famosa opera prodotta dalla scuola dei fabbri Futsu. Il nome \"Haran\" deriva dalla sua somiglianza con le onde violente e tumultuose.",
+    "JP": "経津伝が命を受けて鍛造した名刀。その波濤を彷彿させる佇まいから、「波乱」と名付けられた。",
+    "KR": "후츠가 명을 받들어 단조한 걸작. 파도처럼 밀려드는 기세를 보고 「하란(波乱)」이라는 이름을 얻었다",
+    "PT": "Uma obra da linhagem Futsu. Seu nome tem como origem devido à maneira que lembra uma onda violenta do mar.",
+    "RU": "Произведение искусства рода кузнецов Фуцу. «Харан» в названии связано со сходством клинка с неистовыми морскими валами.",
+    "TH": "ผลงานชิ้นเอกที่ Futsu ได้รับคำสั่งให้ทำขึ้น เนื่องจากมีลักษณะเหมือนคลื่นทะเลอันแสนปั่นป่วน จึงได้รับนามว่า \"Haran (คลื่นคลั่ง)\"",
+    "TR": "Futsu soyundan gelen demircilerin ürettiği ünlü bir eser. Vahşi ve çalkantılı dalgaları andırdığı için kendisine \"Haran\" ismi verilmiş.",
+    "VI": "Tác phẩm nổi tiếng do Futsu phụng mệnh chế tạo. Do nó sở hữu khí thế tựa những cơn sóng cuộn trào, nên được đặt tên là \"Haran\"."
+  },
+  "icon": "generated/weapon-profiles/11510/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

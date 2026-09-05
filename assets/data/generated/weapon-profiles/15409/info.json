@@ -1,0 +1,52 @@
+{
+  "id": 15409,
+  "name": {
+    "EN": "The Viridescent Hunt",
+    "CHS": "苍翠猎弓",
+    "CHT": "蒼翠獵弓",
+    "DE": "Grasgrüner Jagdbogen",
+    "ES": "Arco de la Cazadora Esmeralda",
+    "FR": "Arc de chasse verdoyant",
+    "ID": "The Viridescent Hunt",
+    "IT": "Arco da caccia smeraldo",
+    "JP": "蒼翠の狩猟弓",
+    "KR": "청록의 사냥활",
+    "PT": "Arco Esmeralda do Caçador",
+    "RU": "Зелёный лук",
+    "TH": "The Viridescent Hunt",
+    "TR": "Yeşil Av",
+    "VI": "Cung Sắc Xanh"
+  },
+  "nameEn": "The Viridescent Hunt",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest.",
+    "CHS": "高洁的青绿猎弓，曾属于在林间狩猎的某人。",
+    "CHT": "高潔的青綠獵弓，曾屬於在林間狩獵的某人。",
+    "DE": "Ein glänzend grüner Bogen, der ursprünglich jemandem gehörte, der in den Wäldern auf die Jagd ging.",
+    "ES": "Un noble e inmaculado arco de caza de color verde oscuro. Perteneció a una persona que solía cazar en los bosques.",
+    "FR": "Un arc noble de couleur verte qui appartenait autrefois à un chasseur.",
+    "ID": "Busur berburu warna hijau tua, dulunya milik seorang pemburu hutan.",
+    "IT": "Un arco da caccia di colore verde, che un tempo apparteneva a un cacciatore che abitava nella foresta.",
+    "JP": "青緑色をした高潔な狩猟弓。かつて森を行き交う狩人が所持していた。",
+    "KR": "고결한 청록색의 활. 숲에서 사냥하며 살아가는 어느 사냥꾼이 사용하던 활",
+    "PT": "Um arco de caça verde puro. Isso pertenceu a um certo caçador cuja casa era a floresta.",
+    "RU": "Лук чистого тёмно-зеленого цвета. Он принадлежал охотнику, который жил в лесу.",
+    "TH": "ธนูล่าสัตว์สีขาวบริสุทธิ์ ครั้งหนึ่งเคยเป็นของใครบางคนที่ออกล่าอยู่ในป่า",
+    "TR": "Saf yeşil bir av yayı. Bir zamanlar ormanları yurt edinmiş bir avcının silahıydı.",
+    "VI": "Cung săn bắn màu xanh lục, từng thuộc về một thợ săn nào đó trong rừng."
+  },
+  "icon": "generated/weapon-profiles/15409/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

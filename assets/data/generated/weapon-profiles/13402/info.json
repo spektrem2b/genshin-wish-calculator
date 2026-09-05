@@ -1,0 +1,52 @@
+{
+  "id": 13402,
+  "name": {
+    "EN": "Prototype Starglitter",
+    "CHS": "试作星镰",
+    "CHT": "試作星鐮",
+    "DE": "Sternsichel-Prototyp",
+    "ES": "Prototipo Estelar",
+    "FR": "Guisarme stellaire (prototype)",
+    "ID": "Prototype Starglitter",
+    "IT": "Prototipo di Luce stellare",
+    "JP": "星鎌·試作",
+    "KR": "별의 낫 프로토타입",
+    "PT": "Protótipo Estelar",
+    "RU": "Прототип: Звёздный блеск",
+    "TH": "Prototype Starglitter",
+    "TR": "Prototip: Yıldız Parıltısı",
+    "VI": "Mẫu Tinh Liêm"
+  },
+  "nameEn": "Prototype Starglitter",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night.",
+    "CHS": "黑岩厂中秘藏的古老钩枪。锋芒上点点的闪光有如夜空稀星。",
+    "CHT": "黑岩廠中密藏的古老鉤槍。鋒芒上點點的閃光有如夜空稀星。",
+    "DE": "Diese alte Sichel war gut in der Schwarzsteinschmiede versteckt. Das Funkeln an der Klinge erinnert an den sternenklaren Nachthimmel.",
+    "ES": "Una alabarda descubierta en la Forja Peñasco Oscuro. Los destellos que produce el brillo de su afilada punta son como estrellas en el firmamento.",
+    "FR": "Une guisarme découverte à la Forge de Rochenoire. L'éclat à la pointe de son fer est aussi brillant qu'une étoile.",
+    "ID": "Sebuah glaive yang ditemukan di Blackcliff Forge. Kilatan cahaya di ujungnya yang tajam bagaikan bintang di malam hari.",
+    "IT": "Una lancia uncinata pervenuta nella Fucina di Rupenera. La sua punta acuminata luccica come stelle nel cielo di notte.",
+    "JP": "黒岩場の中に隠されていた古い鉤槍。槍先の輝きはまるで夜空の星のようだ。",
+    "KR": "흑암 공장에 은밀히 보관된 오래된 구겸창, 칼끝의 반짝이는 빛은 마치 밤하늘의 성긴 별과도 같다",
+    "PT": "Um rancor descoberto na Forja do Penhasco Obscuro. Os vislumbres ao longo da borda afiada são como estrelas na noite.",
+    "RU": "Древнее копьё, обнаруженное в кузнице Черногорья. Самоцветы на лезвии этого копья сверкают, словно звёзды в ночном небе.",
+    "TH": "หอกตะขอที่ถูกซ่อนไว้ใน Blackcliff Forge ที่ปลายนั้นมีแสงประกายราวกับแสงดาวบนฟากฟ้ายามราตรี",
+    "TR": "Kara Kaya Demirci Ocağında saklı bulunan kancalı bir mızrak. Keskin ucundaki süslemeler yıldızları andırır.",
+    "VI": "Thương móc cổ xưa của Hắc Nham Xưởng. Trên đầu lưỡi lấp lánh như ánh sáng của bầu trời vắng sao."
+  },
+  "icon": "generated/weapon-profiles/13402/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

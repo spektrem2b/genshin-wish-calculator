@@ -1,0 +1,52 @@
+{
+  "id": 14426,
+  "name": {
+    "EN": "Ballad of the Boundless Blue",
+    "CHS": "无垠蔚蓝之歌",
+    "CHT": "無垠蔚藍之歌",
+    "DE": "Ballade des unendlichen Blaus",
+    "ES": "Oda al Vasto Azul",
+    "FR": "Ballade d'un azur infini",
+    "ID": "Ballad of the Boundless Blue",
+    "IT": "Ballata del blu sempiterno",
+    "JP": "果てなき紺碧の唄",
+    "KR": "끝없는 쪽빛의 노래",
+    "PT": "Canção do Vasto Azul",
+    "RU": "Песнь необъятной лазури",
+    "TH": "Ballad of the Boundless Blue",
+    "TR": "Sonsuz Mavinin Şarkısı",
+    "VI": "Khúc Ca Xanh Bao La"
+  },
+  "nameEn": "Ballad of the Boundless Blue",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "An anthology of exquisite poetry. It contains quite a few poems beloved by Mondstadters, concerning the skies, dandelions, and other such topics.",
+    "CHS": "一本装帧精美的诗集，其中收录了不少有关天空、蒲公英等蒙德人偏爱的诗歌。",
+    "CHT": "一本裝訂精美的詩集，其中收錄了不少有關天空、蒲公英等蒙德人偏愛的詩歌。",
+    "DE": "Eine wunderschön gebundene Sammlung von Gedichten über den Himmel, Pusteblumen und dergleichen. Erfreut sich unter den Einwohnern von Mondstadt großer Beliebtheit.",
+    "ES": "Una colección lírica exquisitamente encuadernada. Contiene poemas sobre el cielo, los dientes de león y demás elementos que tanto gustan a la gente de Mondstadt.",
+    "FR": "Un recueil de poésie exquise. Il contient de nombreux articles sur le ciel, les pissenlits et d'autres sujets chers aux Mondstadtois.",
+    "ID": "Koleksi puisi yang indah. Berisikan berbagai puisi yang berhubungan dengan topik yang disukai oleh orang Mondstadt seperti langit, bunga dandelion, dan lainnya.",
+    "IT": "Una splendida antologia poetica. Al suo interno sono raccolte poesie che parlano del cielo, di denti di leone e di altri temi tanto cari agli abitanti di Mondstadt.",
+    "JP": "美しい装丁の詩歌集。空や蒲公英など、モンド人好みの詩歌が収録されている。",
+    "KR": "아름다운 시집. 몬드인들이 좋아하는 하늘과 민들레 등을 소재로 하는 시가 많이 수록됐다",
+    "PT": "Uma coleção de poesia requintada. Contém algumas poesias sobre os céus, Dandelions e outros tópicos amados pelas pessoas de Mondstadt.",
+    "RU": "Сборник стихов в изящном переплёте. В нём немало произведений, посвящённых небосводу, одуванчикам и другим излюбленным мондштадтцами темам.",
+    "TH": "ชุดบทกวีที่เข้าเล่มอย่างสวยงาม ซึ่งประกอบด้วยบทกวีที่ชาว Mondstadt ชื่นชอบมากมายเกี่ยวกับท้องฟ้า ดอกแดนดิไลออน และอื่น ๆ",
+    "TR": "Zarif şiirlerin toplandığı bir antoloji. Gökyüzü, karahindiba ve benzer konular üzerine Mondstadtlıların sevdiği şiirler içeriyor.",
+    "VI": "Tập thơ với thiết kế tinh xảo, trong đó sưu tầm rất nhiều thơ ca về trời cao, bồ công anh... mà người Mondstadt rất yêu thích."
+  },
+  "icon": "generated/weapon-profiles/14426/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

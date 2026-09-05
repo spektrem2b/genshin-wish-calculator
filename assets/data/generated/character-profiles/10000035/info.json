@@ -1,0 +1,137 @@
+{
+  "id": "10000035",
+  "name": {
+    "EN": "Qiqi",
+    "CHS": "七七",
+    "CHT": "七七",
+    "DE": "Qiqi",
+    "ES": "Qiqi",
+    "FR": "Qiqi",
+    "ID": "Qiqi",
+    "IT": "Qiqi",
+    "JP": "七七",
+    "KR": "치치",
+    "PT": "Qiqi",
+    "RU": "Ци Ци",
+    "TH": "Qiqi",
+    "TR": "Qiqi",
+    "VI": "Qiqi"
+  },
+  "nameEn": "Qiqi",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 3,
+    "day": 3
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000035/avatar.webp",
+  "fullWish": "generated/character-profiles/10000035/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 34.5%",
+  "title": {
+    "EN": "Icy Resurrection",
+    "CHS": "冻冻回魂夜",
+    "CHT": "凍凍回魂夜",
+    "DE": "Eisige Nacht der Wiedergänger",
+    "ES": "La Resurrección del Hielo",
+    "FR": "Renaissance gelée",
+    "ID": "Icy Resurrection",
+    "IT": "Rinascita glaciale",
+    "JP": "冷たき黄泉帰り",
+    "KR": "차가운 환혼의 밤",
+    "PT": "Ressurreição Gélida",
+    "RU": "Ледяное воскрешение",
+    "TH": "ความหนาวเย็นคืนชีพ",
+    "TR": "Buzul Diriliş",
+    "VI": "Đêm Hồn Về Lạnh Giá"
+  },
+  "description": {
+    "EN": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+    "CHS": "药庐「不卜庐」的采药姑娘兼学徒，面色苍白如纸的不死之人。话很少，也没有什么表情。",
+    "CHT": "藥廬「不卜廬」的採藥姑娘兼學徒，面色蒼白如紙的不死之人。話很少，也沒有什麼表情。",
+    "DE": "Schülerin in der Bubu-Hütte und Kräutersammlerin. Sie ist leichenblass und redet nur sehr wenig. Ihre Miene verzieht sie kein einziges Mal.",
+    "ES": "Una aprendiz y recolectora de hierbas en la Farmacia Bubu. Una zombi con una tez blanca como el hueso, de pocas palabras y emociones.",
+    "FR": "Qiqi est une jeune apprentie du Cottage Bubu, en charge notamment de la récolte des herbes médicinales. C'est également un zombie au teint blafard et aux mots comptés.",
+    "ID": "Seorang murid di Bubu Pharmacy yang bertugas untuk memetik tanaman obat-obatan. Seorang zombie yang kulitnya teramat putih dan pucat, dia teramat pendiam, dan jarang menunjukkan ekspresi apa pun.",
+    "IT": "Apprendista ed erborista della Farmacia Bubu. Una zombi dalla carnagione bianchissima, arida di parole ed emozioni.",
+    "JP": "薬舗「不卜廬」の薬採り兼弟子、紙のように白い顔色で不死身。口数が少なく、あまり表情がない。",
+    "KR": "약방 「불복려」의 약초꾼이자 제자. 안색이 종이처럼 창백하다. 말수가 적고 무표정하다",
+    "PT": "Uma aprendiz e colhedora de ervas no Chalé de Bubu. Uma morta-viva com pele branca como osso, ela raramente tem muitas palavras ou emoções.",
+    "RU": "Ученица и сборщица трав из хижины «Бубу». Зомби с бледным лицом, разговаривает или проявляет эмоции очень редко...",
+    "TH": "คนเก็บสมุนไพรและเด็กฝึกงานของร้านยา \"Bubu Pharmacy\" ซอมบี้ผู้มีผิวขาวซีดราวกับกระดาษ ไม่ค่อยพูดไม่ค่อยจาและไม่ค่อยแสดงอารมณ์",
+    "TR": "Bubu Eczanesinde talebe ve otacı. Kemik beyazı tene sahip bir ölümsüz. Pek konuşmaz ve duygularını belli etmez.",
+    "VI": "Cô bé hái thuốc kiêm học trò tại \"Nhà Thuốc Bubu\". Sắc mặt trắng toát như cương thi, nói chuyện rất ít, cũng không có biểu cảm gì."
+  },
+  "constellationName": {
+    "EN": "Pristina Nola",
+    "CHS": "三清铃座",
+    "CHT": "三清鈴座",
+    "DE": "Pristina Nola",
+    "ES": "Pristina Nola",
+    "FR": "Pristina Nola",
+    "ID": "Pristina Nola",
+    "IT": "Pristina Nola",
+    "JP": "法鈴座",
+    "KR": "삼청령자리",
+    "PT": "Pristina Nola",
+    "RU": "Звон Колокольчика",
+    "TH": "Pristina Nola",
+    "TR": "Antik Çan",
+    "VI": "Cung Tam Thanh Linh"
+  },
+  "native": {
+    "EN": "Bubu Pharmacy",
+    "CHS": "不卜庐",
+    "CHT": "不卜廬",
+    "DE": "Bubu-Hütte",
+    "ES": "Farmacia Bubu",
+    "FR": "Cottage Bubu",
+    "ID": "Bubu Pharmacy",
+    "IT": "Farmacia Bubu",
+    "JP": "不卜廬",
+    "KR": "불복려",
+    "PT": "Chalé de Bubu",
+    "RU": "Хижина «Бубу»",
+    "TH": "Bubu Pharmacy",
+    "TR": "Bubu Eczanesi",
+    "VI": "Nhà Thuốc Bubu"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Christie Cate"
+    },
+    {
+      "lang": "CHS",
+      "va": "宴宁"
+    },
+    {
+      "lang": "JP",
+      "va": "田村ゆかり"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Seul"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HEAL_ADD",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 962.8532,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 22.344,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 71.796,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

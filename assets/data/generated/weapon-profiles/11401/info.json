@@ -1,0 +1,52 @@
+{
+  "id": 11401,
+  "name": {
+    "EN": "Favonius Sword",
+    "CHS": "西风剑",
+    "CHT": "西風劍",
+    "DE": "Favonius-Schwert",
+    "ES": "Espada de Favonius",
+    "FR": "Épée de Favonius",
+    "ID": "Favonius Sword",
+    "IT": "Spada di Favonius",
+    "JP": "西風剣",
+    "KR": "페보니우스 검",
+    "PT": "Espada de Favonius",
+    "RU": "Меч Фавония",
+    "TH": "Favonius Sword",
+    "TR": "Favonius Kılıcı",
+    "VI": "Tây Phong Kiếm"
+  },
+  "nameEn": "Favonius Sword",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
+    "CHS": "西风骑士团的制式长剑。轻快锐利之余，也能轻易导出元素力量。",
+    "CHT": "西風騎士團的制式長劍。輕快銳利之餘，也能輕易導出元素力量。",
+    "DE": "Ein Standardlangschwert des Ordo Favonius. Durch seinen leichten Aufbau und seine scharfe Klinge wird das Bündeln elementarer Energie vereinfacht.",
+    "ES": "Una espada larga estándar de los Caballeros de Favonius. ¡Canalizar el poder de los elementos nunca fue tan fácil como con esta espada!",
+    "FR": "Une longue épée généralement maniée par les chevaliers de l'Ordre de Favonius. Invoquer les éléments est un jeu d'enfant avec cette arme légère et tranchante !",
+    "ID": "Pedang panjang yang digunakan oleh para anggota Knights of Favonius. Ringan dan tajam, juga dapat dialirkan kekuatan elemen dengan mudah.",
+    "IT": "Una spada lunga d'ordinanza dei Cavalieri di Favonius. Quando sei armato di quest'arma agile e affilata, incanalare il potere degli elementi diventa un gioco da ragazzi!",
+    "JP": "西風騎士団でよく使われる長剣。軽くて鋭い上、元素の力が集まりやすい。",
+    "KR": "페보니우스 기사단의 제식 장검. 가볍고 예리할 뿐만 아니라 원소의 힘을 쉽게 끌어낼 수 있다",
+    "PT": "Uma espada longa comum usada pelos Cavaleiros de Favonius. Canalizar o poder dos elementos nunca foi tão fácil nesta arma ágil e afiada!",
+    "RU": "Стандартный длинный меч на вооружении рыцарей Ордо Фавониус. Легко позволяет проводить через себя энергию стихий.",
+    "TH": "ดาบยาวมาตรฐานที่ใช้งานโดยเหล่าอัศวินแห่ง Favonius การรวบรวมพลังงานธาตุจะไม่ใช่เรื่องยากอีกต่อไปเมื่อใช้ดาบที่ทั้งคมและเบาเช่นดาบนี้!",
+    "TR": "Favonius Şövalyelerinin beylik silahı. Bu kıvrak ve keskin silahı kuşandığında elementlerin gücünü kullanmak çocuk oyuncağı!",
+    "VI": "Kiếm nghi thức của Đội Kỵ Sĩ Tây Phong. Sắc bén nhẹ nhàng, cũng dễ phát ra sức mạnh Nguyên Tố."
+  },
+  "icon": "generated/weapon-profiles/11401/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

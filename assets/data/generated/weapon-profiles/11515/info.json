@@ -1,0 +1,52 @@
+{
+  "id": 11515,
+  "name": {
+    "EN": "Absolution",
+    "CHS": "赦罪",
+    "CHT": "赦罪",
+    "DE": "Absolution",
+    "ES": "Expiadora",
+    "FR": "Absolution",
+    "ID": "Absolution",
+    "IT": "Assoluzione",
+    "JP": "赦罪",
+    "KR": "사면",
+    "PT": "Absolvição",
+    "RU": "Отпущение грехов",
+    "TH": "Absolution",
+    "TR": "Müsamaha",
+    "VI": "Xá Tội"
+  },
+  "nameEn": "Absolution",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A rapier once wielded by a deceiver who had forsaken everything. In the past, it was primarily used as a tool when he had to disguise his identity.",
+    "CHS": "曾经弃绝一切的骗徒使用过的刺剑，过去主要是他伪装身份活动时用的道具。",
+    "CHT": "曾經棄絕一切的騙徒使用過的刺劍，過去主要是他偽裝身分活動時用的道具。",
+    "DE": "Ein Degen, der früher einmal von einem Betrüger getragen wurde, der alles hinter sich gelassen hatte. Einst diente er ihm vornehmlich als Utensil, um seine wahren Machenschaften zu verschleiern und seine Identität zu tarnen.",
+    "ES": "La espada ropera que solía empuñar un estafador que lo abandonó todo. En el pasado, la usaba principalmente para ocultar su identidad.",
+    "FR": "Une rapière autrefois brandie par un menteur qui avait tout abandonné. Dans le passé, elle était principalement utilisée lorsqu'il devait dissimuler son identité.",
+    "ID": "Pedang tajam yang pernah digunakan oleh penipu yang merelakan semuanya. Dulu, senjata ini utamanya digunakan untuk menyamar saat hendak beraktivitas.",
+    "IT": "Uno stocco che un tempo veniva impugnato da un impostore che aveva rinunciato a tutto, usandolo principalmente come strumento per celare la propria identità.",
+    "JP": "かつてすべてを捨てた嘘つきが使っていたレイピア。昔は主に身分を隠して行動するための道具だった。",
+    "KR": "모든 것을 버렸던 사기꾼이 사용한 레이피어. 당시에 그는 이 검을 신분 위장용 도구로 사용했다",
+    "PT": "Uma espada afiada utilizada por um trapaceiro que desistiu de tudo. No passado, ele a usava como um disfarce para a sua identidade.",
+    "RU": "Рапира, которая некогда принадлежала отрёкшемуся от всего и вся плуту и в основном служила ему инструментом для маскировки.",
+    "TH": "ดาบที่เคยใช้โดยนักต้มตุ๋น ซึ่งเคยละทิ้งทุกสิ่งอย่าง ในอดีตมันมักจะถูกนำมาใช้ เป็นอุปกรณ์ในการพรางตัว ของเขาซะเป็นส่วนใหญ่",
+    "TR": "Her şeyden vazgeçen düzenbazın bir zamanlar kuşandığı ince kılıç. Eskiden bunu, kimliğini gizlemek için bir araç olarak kullanırdı.",
+    "VI": "Thanh kiếm từng được dùng bởi kẻ dối trá từ bỏ tất cả. Trước đây chủ yếu là công cụ mà anh ta dùng để ngụy trang thân phận của mình."
+  },
+  "icon": "generated/weapon-profiles/11515/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

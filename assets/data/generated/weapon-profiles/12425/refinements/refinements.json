@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "White Cruising Wave",
+    "CHS": "巡航的白浪",
+    "CHT": "巡航的白浪",
+    "DE": "Kreuzende weiße Wellen",
+    "ES": "Olas albugíneas",
+    "FR": "Vague de croisière blanche",
+    "ID": "White Cruising Wave",
+    "IT": "Onda bianca",
+    "JP": "巡航の白波",
+    "KR": "순항하는 흰 파도",
+    "PT": "Onda Branca do Cruzamento",
+    "RU": "Надвигающаяся белая волна",
+    "TH": "White Cruising Wave",
+    "TR": "Beyaz Seyir Dalgası",
+    "VI": "Sóng Trắng Dao Động"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After the wielder is healed, ATK will be increased by 24% for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，攻击力提升24%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，攻擊力提升24%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den ANG um 24 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el ATQ aumenta en un 24% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, son ATQ augmente de 24 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, ATK meningkat 24% selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi la utilizza riceve effetti di guarigione, l'ATT aumenta di un 24% per 8 s. Questo effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、攻撃力+24%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 공격력이 24% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Após receber cura, aumenta o ATQ em 24% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Сила атаки после получения лечения увеличивается на 24% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา พลังโจมตีจะเพิ่มขึ้น 24% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakterin Canı yenilendikten sonra 8 saniyeliğine Saldırısı %24 artar. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, tấn công tăng 24% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After the wielder is healed, ATK will be increased by 30% for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，攻击力提升30%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，攻擊力提升30%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den ANG um 30 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el ATQ aumenta en un 30% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, son ATQ augmente de 30 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, ATK meningkat 30% selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi la utilizza riceve effetti di guarigione, l'ATT aumenta di un 30% per 8 s. Questo effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、攻撃力+30%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 공격력이 30% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Após receber cura, aumenta o ATQ em 30% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Сила атаки после получения лечения увеличивается на 30% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา พลังโจมตีจะเพิ่มขึ้น 30% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakterin Canı yenilendikten sonra 8 saniyeliğine Saldırısı %30 artar. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, tấn công tăng 30% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After the wielder is healed, ATK will be increased by 36% for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，攻击力提升36%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，攻擊力提升36%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den ANG um 36 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el ATQ aumenta en un 36% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, son ATQ augmente de 36 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, ATK meningkat 36% selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi la utilizza riceve effetti di guarigione, l'ATT aumenta di un 36% per 8 s. Questo effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、攻撃力+36%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 공격력이 36% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Após receber cura, aumenta o ATQ em 36% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Сила атаки после получения лечения увеличивается на 36% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา พลังโจมตีจะเพิ่มขึ้น 36% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakterin Canı yenilendikten sonra 8 saniyeliğine Saldırısı %36 artar. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, tấn công tăng 36% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After the wielder is healed, ATK will be increased by 42% for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，攻击力提升42%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，攻擊力提升42%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den ANG um 42 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el ATQ aumenta en un 42% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, son ATQ augmente de 42 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, ATK meningkat 42% selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi la utilizza riceve effetti di guarigione, l'ATT aumenta di un 42% per 8 s. Questo effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、攻撃力+42%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 공격력이 42% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Após receber cura, aumenta o ATQ em 42% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Сила атаки после получения лечения увеличивается на 42% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา พลังโจมตีจะเพิ่มขึ้น 42% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakterin Canı yenilendikten sonra 8 saniyeliğine Saldırısı %42 artar. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, tấn công tăng 42% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After the wielder is healed, ATK will be increased by 48% for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，攻击力提升48%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，攻擊力提升48%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den ANG um 48 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el ATQ aumenta en un 48% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, son ATQ augmente de 48 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, ATK meningkat 48% selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi la utilizza riceve effetti di guarigione, l'ATT aumenta di un 48% per 8 s. Questo effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、攻撃力+48%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 공격력이 48% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Após receber cura, aumenta o ATQ em 48% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Сила атаки после получения лечения увеличивается на 48% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา พลังโจมตีจะเพิ่มขึ้น 48% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakterin Canı yenilendikten sonra 8 saniyeliğine Saldırısı %48 artar. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, tấn công tăng 48% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    }
+  ]
+}

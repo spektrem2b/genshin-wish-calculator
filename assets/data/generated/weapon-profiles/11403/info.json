@@ -1,0 +1,52 @@
+{
+  "id": 11403,
+  "name": {
+    "EN": "Sacrificial Sword",
+    "CHS": "祭礼剑",
+    "CHT": "祭禮劍",
+    "DE": "Opferschwert",
+    "ES": "Espada de Sacrificio",
+    "FR": "Épée rituelle",
+    "ID": "Sacrificial Sword",
+    "IT": "Spada sacrificale",
+    "JP": "祭礼の剣",
+    "KR": "제례검",
+    "PT": "Espada do Sacrifício",
+    "RU": "Церемониальный меч",
+    "TH": "Sacrificial Sword",
+    "TR": "Kurban Kılıcı",
+    "VI": "Kiếm Tế Lễ"
+  },
+  "nameEn": "Sacrificial Sword",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+    "CHS": "在漫长岁月中石化的道具剑，上面的仪式性装饰依然清晰可见。拥有受时间之风冲刷的祝福力量。",
+    "CHT": "在漫長歲月中石化的道具劍，上面的儀式性裝飾依然清晰可見。擁有受時間之風沖刷的祝福力量。",
+    "DE": "Ein über die Zeit verkrustetes Schwert mit noch gut zu erkennenden Ornamenten. Mit ihm kann man die Winde der Zeit gut überstehen.",
+    "ES": "Una espada decorativa que ha sido petrificada por el tiempo. Las baratijas incrustadas en su superficie todavía son visibles. Concede al portador el poder de resistir los vientos del tiempo.",
+    "FR": "Une épée ornementale qui a été pétrifiée par le temps, dont on peut encore distinguer les décorations. Avec elle, son manieur sera capable d'affronter l'épreuve du temps.",
+    "ID": "Pedang dekoratif yang telah membatu karena usianya yang sangat tua, tetapi perhiasan yang tertanam di dalamnya masih dapat terlihat. Memberikan kekuatan berkat akan angin waktu kepada pemegangnya.",
+    "IT": "Una spada cerimoniale pietrificatasi nel corso degli anni. I suoi ornamenti sono ancora visibili. Chi la impugna sarà in grado di affrontare i venti del tempo.",
+    "JP": "長い年月の中で石化した道具剣、表面の装飾はまだ綺麗に残っている。時の風の侵食に耐えうる祝福の力を持つ。",
+    "KR": "기나긴 세월을 거쳐 석화한 검은 의례적인 장식이 여전히 선명하게 보인다. 시간의 바람에 씻긴 축복의 힘을 보유하고 있다",
+    "PT": "Uma espada decorativa que foi petrificada pelo tempo. Os acessórios inseridos ainda estão visíveis. Garante um grande poder ao seu portador.",
+    "RU": "Декоративный церемониальный меч, со временем покрывшийся камнем, но украшения на нём всё ещё можно разобрать. Позволяет владельцу выстоять под суровостью песков времени.",
+    "TH": "ดาบที่ตกแต่งอย่างสวยงามและกลายเป็นหินไปตามกาลเวลา ของที่ตกแต่งดาบยังคงเห็นได้อยู่ และมันให้พลังกับผู้ใช้เพื่อรับมือกับสายลมแห่งเวลา",
+    "TR": "Zaman içinde taşlaşmış bir merasim kılıcı. Üzerindeki süslemeler hâlâ görünür. Onu kullanan savaşçı, zamanın rüzgarlarına karşı direnebilir.",
+    "VI": "Kiếm bị hóa đá theo năm tháng, nhưng độ tinh xảo của trang sức treo trên đó vẫn lấp lánh. Có sức mạnh chúc phúc của gió thời gian."
+  },
+  "icon": "generated/weapon-profiles/11403/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

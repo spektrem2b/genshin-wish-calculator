@@ -1,0 +1,137 @@
+{
+  "id": "10000029",
+  "name": {
+    "EN": "Klee",
+    "CHS": "可莉",
+    "CHT": "可莉",
+    "DE": "Klee",
+    "ES": "Klee",
+    "FR": "Klee",
+    "ID": "Klee",
+    "IT": "Klee",
+    "JP": "クレー",
+    "KR": "클레",
+    "PT": "Klee",
+    "RU": "Кли",
+    "TH": "Klee",
+    "TR": "Klee",
+    "VI": "Klee"
+  },
+  "nameEn": "Klee",
+  "element": "Pyro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 7,
+    "day": 27
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000029/avatar.webp",
+  "fullWish": "generated/character-profiles/10000029/full_wish.webp",
+  "fullWishObjectPosition": "50.2% 38.2%",
+  "title": {
+    "EN": "Fleeing Sunlight",
+    "CHS": "逃跑的太阳",
+    "CHT": "逃跑的太陽",
+    "DE": "Fliehende Sonne",
+    "ES": "El Sol Fugitivo",
+    "FR": "Soleil fuyant",
+    "ID": "Fleeing Sunlight",
+    "IT": "Sole fugace",
+    "JP": "逃げ回る太陽",
+    "KR": "도망치는 태양",
+    "PT": "Sol Fugitivo",
+    "RU": "Ускользающее солнце",
+    "TH": "ดวงอาทิตย์ที่หลบหนี",
+    "TR": "Kaçan Güneş Işığı",
+    "VI": "Mặt Trời Chạy Trốn"
+  },
+  "description": {
+    "EN": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
+    "CHS": "西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。",
+    "CHT": "西風騎士團禁閉室的常客，蒙德的爆破大師。人稱「逃跑的太陽」。",
+    "DE": "Ein häufiger Gast der Arrestzelle des Ordo Favonius und ein wahrer Meister der Zerstörung. Man nennt sie auch die „Fliehende Sonne“.",
+    "ES": "Una visitante frecuente de los calabozos de los Caballeros de Favonius, la maestra de explosiones de Mondstadt. La llaman “el Sol Fugitivo”.",
+    "FR": "#Une invitée régulière des cellules de l'Ordre de Favonius, et également la maîtresse des explosions à Mondstadt, où on la surnomme « le soleil fuyant ».",
+    "ID": "Seorang ahli peledak yang sudah menjadi langganan di ruang tahanan Knights of Favonius. Juga dikenal dengan nama Fleeing Sunlight.",
+    "IT": "Esperta di esplosivi e ospite frequente della cella d'isolamento dei Cavalieri di Favonius. Conosciuta anche come Sole fugace.",
+    "JP": "西風騎士団反省室の常連で、モンドの爆破スペシャリスト。人呼んで「逃げ回る太陽」。",
+    "KR": "페보니우스 기사단 감금실의 단골손님이자 몬드의 폭파 마스터. 「도망치는 태양」이라고 불린다",
+    "PT": "Uma visitante frequente da sala de confinamento dos Cavaleiros de Favonius, também conhecida como \"Sol Fugitivo\".",
+    "RU": "Эксперт по взрывчатке и частый гость темницы Ордо Фавониус. Также известна как «Ускользающее солнце».",
+    "TH": "แขกประจำห้องกักบริเวณของกองอัศวินแห่ง Favonius ผู้เชี่ยวชาญด้านระเบิดแห่ง Mondstadt ผู้คนเรียกเธอว่า \"ดวงอาทิตย์ที่หลบหนี\"",
+    "TR": "Bir patlayıcı uzmanı ve Favonius Şövalyeleri hapishanesinin müdavimi. Ayrıca Kaçan Güneş Işığı olarak da bilinir.",
+    "VI": "Khách quen của phòng giam Đội Kỵ Sĩ Tây Phong, bậc thầy thuốc nổ tại Mondstadt. Mọi người gọi là \"Mặt Trời Chạy Trốn\"."
+  },
+  "constellationName": {
+    "EN": "Trifolium",
+    "CHS": "四叶草座",
+    "CHT": "四葉草座",
+    "DE": "Trifolium",
+    "ES": "Trifolium",
+    "FR": "Trifolium",
+    "ID": "Trifolium",
+    "IT": "Trifolium",
+    "JP": "四つ葉座",
+    "KR": "네잎클로버자리",
+    "PT": "Trifolium",
+    "RU": "Четырёхлистный Клевер",
+    "TH": "Trifolium",
+    "TR": "Dört Yapraklı Yonca",
+    "VI": "Cung Tứ Diệp Thảo"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Poonam Basu"
+    },
+    {
+      "lang": "CHS",
+      "va": "花玲"
+    },
+    {
+      "lang": "JP",
+      "va": "久野美咲"
+    },
+    {
+      "lang": "KR",
+      "va": "Bang Yeon-ji"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_FIRE_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 800.7888,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 24.206,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 47.864,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

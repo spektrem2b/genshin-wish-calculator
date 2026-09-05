@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Shanty",
+    "CHS": "船歌",
+    "CHT": "船歌",
+    "DE": "Seemannslied",
+    "ES": "Saloma",
+    "FR": "Chant de marin",
+    "ID": "Shanty",
+    "IT": "Ballata marinara",
+    "JP": "舟歌",
+    "KR": "뱃노래",
+    "PT": "Canção Navegante",
+    "RU": "Песня матроса",
+    "TH": "Shanty",
+    "TR": "Heyamola",
+    "VI": "Bài Ca Của Thuyền"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 16% and Elemental Burst CRIT Rate by 6%.",
+        "CHS": "元素爆发造成的伤害提升16%，元素爆发的暴击率提升6%。",
+        "CHT": "元素爆發造成的傷害提升16%，元素爆發的暴擊率提升6%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 16 % und die KT von Spezialfähigkeiten um 6 %.",
+        "ES": "Aumenta en un 16% el daño de la Habilidad Definitiva y en un 6% su Prob. CRIT.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 16 % et leur taux CRIT de 6 %.",
+        "ID": "Meningkatkan 16% DMG Elemental Burst dan 6% CRIT Rate Elemental Burst.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 16% e il tasso di CRIT del Tripudio elementale di un 6%.",
+        "JP": "元素爆発ダメージ+16%、元素爆発の会心率+6%。",
+        "KR": "원소폭발로 주는 피해가 16% 증가하고, 원소폭발의 치명타 확률이 6% 증가한다",
+        "PT": "Aumenta o Dano do Supremo em 16% e a Taxa CRIT do Supremo em 6%.",
+        "RU": "Повышает урон взрыва стихии на 16% и его шанс крит. попадания на 6%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 16% และอัตราคริของท่าไม้ตายเพิ่มขึ้น 6%",
+        "TR": "Element Patlaması Hasarını %16 ve Element Patlaması Kritik Oranını %6 artırır.",
+        "VI": "Sát thương Kỹ Năng Nộ gây ra tăng 16%, tỷ lệ bạo của Kỹ Năng Nộ tăng 6%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 20% and Elemental Burst CRIT Rate by 7.5%.",
+        "CHS": "元素爆发造成的伤害提升20%，元素爆发的暴击率提升7.5%。",
+        "CHT": "元素爆發造成的傷害提升20%，元素爆發的暴擊率提升7.5%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 20 % und die KT von Spezialfähigkeiten um 7,5 %.",
+        "ES": "Aumenta en un 20% el daño de la Habilidad Definitiva y en un 7.5% su Prob. CRIT.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 20 % et leur taux CRIT de 7,5 %.",
+        "ID": "Meningkatkan 20% DMG Elemental Burst dan 7.5% CRIT Rate Elemental Burst.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 20% e il tasso di CRIT del Tripudio elementale di un 7,5%.",
+        "JP": "元素爆発ダメージ+20%、元素爆発の会心率+7.5%。",
+        "KR": "원소폭발로 주는 피해가 20% 증가하고, 원소폭발의 치명타 확률이 7.5% 증가한다",
+        "PT": "Aumenta o Dano do Supremo em 20% e a Taxa CRIT do Supremo em 7.5%.",
+        "RU": "Повышает урон взрыва стихии на 20% и его шанс крит. попадания на 7,5%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 20% และอัตราคริของท่าไม้ตายเพิ่มขึ้น 7.5%",
+        "TR": "Element Patlaması Hasarını %20 ve Element Patlaması Kritik Oranını %7,5 artırır.",
+        "VI": "Sát thương Kỹ Năng Nộ gây ra tăng 20%, tỷ lệ bạo của Kỹ Năng Nộ tăng 7.5%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 24% and Elemental Burst CRIT Rate by 9%.",
+        "CHS": "元素爆发造成的伤害提升24%，元素爆发的暴击率提升9%。",
+        "CHT": "元素爆發造成的傷害提升24%，元素爆發的暴擊率提升9%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 24 % und die KT von Spezialfähigkeiten um 9 %.",
+        "ES": "Aumenta en un 24% el daño de la Habilidad Definitiva y en un 9% su Prob. CRIT.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 24 % et leur taux CRIT de 9 %.",
+        "ID": "Meningkatkan 24% DMG Elemental Burst dan 9% CRIT Rate Elemental Burst.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 24% e il tasso di CRIT del Tripudio elementale di un 9%.",
+        "JP": "元素爆発ダメージ+24%、元素爆発の会心率+9%。",
+        "KR": "원소폭발로 주는 피해가 24% 증가하고, 원소폭발의 치명타 확률이 9% 증가한다",
+        "PT": "Aumenta o Dano do Supremo em 24% e a Taxa CRIT do Supremo em 9%.",
+        "RU": "Повышает урон взрыва стихии на 24% и его шанс крит. попадания на 9%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 24% และอัตราคริของท่าไม้ตายเพิ่มขึ้น 9%",
+        "TR": "Element Patlaması Hasarını %24 ve Element Patlaması Kritik Oranını %9 artırır.",
+        "VI": "Sát thương Kỹ Năng Nộ gây ra tăng 24%, tỷ lệ bạo của Kỹ Năng Nộ tăng 9%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 28% and Elemental Burst CRIT Rate by 10.5%.",
+        "CHS": "元素爆发造成的伤害提升28%，元素爆发的暴击率提升10.5%。",
+        "CHT": "元素爆發造成的傷害提升28%，元素爆發的暴擊率提升10.5%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 28 % und die KT von Spezialfähigkeiten um 10,5 %.",
+        "ES": "Aumenta en un 28% el daño de la Habilidad Definitiva y en un 10.5% su Prob. CRIT.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 28 % et leur taux CRIT de 10,5 %.",
+        "ID": "Meningkatkan 28% DMG Elemental Burst dan 10.5% CRIT Rate Elemental Burst.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 28% e il tasso di CRIT del Tripudio elementale di un 10,5%.",
+        "JP": "元素爆発ダメージ+28%、元素爆発の会心率+10.5%。",
+        "KR": "원소폭발로 주는 피해가 28% 증가하고, 원소폭발의 치명타 확률이 10.5% 증가한다",
+        "PT": "Aumenta o Dano do Supremo em 28% e a Taxa CRIT do Supremo em 10.5%.",
+        "RU": "Повышает урон взрыва стихии на 28% и его шанс крит. попадания на 10,5%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 28% และอัตราคริของท่าไม้ตายเพิ่มขึ้น 10.5%",
+        "TR": "Element Patlaması Hasarını %28 ve Element Patlaması Kritik Oranını %10,5 artırır.",
+        "VI": "Sát thương Kỹ Năng Nộ gây ra tăng 28%, tỷ lệ bạo của Kỹ Năng Nộ tăng 10.5%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 32% and Elemental Burst CRIT Rate by 12%.",
+        "CHS": "元素爆发造成的伤害提升32%，元素爆发的暴击率提升12%。",
+        "CHT": "元素爆發造成的傷害提升32%，元素爆發的暴擊率提升12%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 32 % und die KT von Spezialfähigkeiten um 12 %.",
+        "ES": "Aumenta en un 32% el daño de la Habilidad Definitiva y en un 12% su Prob. CRIT.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 32 % et leur taux CRIT de 12 %.",
+        "ID": "Meningkatkan 32% DMG Elemental Burst dan 12% CRIT Rate Elemental Burst.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 32% e il tasso di CRIT del Tripudio elementale di un 12%.",
+        "JP": "元素爆発ダメージ+32%、元素爆発の会心率+12%。",
+        "KR": "원소폭발로 주는 피해가 32% 증가하고, 원소폭발의 치명타 확률이 12% 증가한다",
+        "PT": "Aumenta o Dano do Supremo em 32% e a Taxa CRIT do Supremo em 12%.",
+        "RU": "Повышает урон взрыва стихии на 32% и его шанс крит. попадания на 12%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 32% และอัตราคริของท่าไม้ตายเพิ่มขึ้น 12%",
+        "TR": "Element Patlaması Hasarını %32 ve Element Patlaması Kritik Oranını %12 artırır.",
+        "VI": "Sát thương Kỹ Năng Nộ gây ra tăng 32%, tỷ lệ bạo của Kỹ Năng Nộ tăng 12%."
+      }
+    }
+  ]
+}

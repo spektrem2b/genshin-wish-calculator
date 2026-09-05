@@ -1,0 +1,137 @@
+{
+  "id": "10000084",
+  "name": {
+    "EN": "Lyney",
+    "CHS": "林尼",
+    "CHT": "林尼",
+    "DE": "Lyney",
+    "ES": "Lyney",
+    "FR": "Lyney",
+    "ID": "Lyney",
+    "IT": "Lyney",
+    "JP": "リネ",
+    "KR": "리니",
+    "PT": "Lyney",
+    "RU": "Лини",
+    "TH": "Lyney",
+    "TR": "Lyney",
+    "VI": "Lyney"
+  },
+  "nameEn": "Lyney",
+  "element": "Pyro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 2,
+    "day": 2
+  },
+  "release": "2023-08-14T21:00:00",
+  "icon": "generated/character-profiles/10000084/avatar.webp",
+  "fullWish": "generated/character-profiles/10000084/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Spectacle of Phantasmagoria",
+    "CHS": "惑光幻戏",
+    "CHT": "惑光幻戲",
+    "DE": "Das Spektakel von Fantasmagoria",
+    "ES": "El Mago de la Fantasmagoría",
+    "FR": "Spectacle de fantasmagorie",
+    "ID": "Spectacle of Phantasmagoria",
+    "IT": "Spettacolo fantasmagorico",
+    "JP": "幻光で惑わすトリック",
+    "KR": "현란한 빛의 마술쇼",
+    "PT": "Espetáculo Fantasmagórico",
+    "RU": "Зрелищные фантасмагории",
+    "TH": "มายาลวงพรางตา",
+    "TR": "İllüzyon Oyunu",
+    "VI": "Ảo Ảnh Ngoạn Mục"
+  },
+  "description": {
+    "EN": "A famed Fontainian magician who possesses great stage presence as well as gift of the gab. Audiences are enthralled by his exquisite skills, and they hang on to his every clever word.",
+    "CHS": "伶牙俐齿，演技精湛的著名枫丹魔术师，以精妙的手法和言语牵动着观众的心。",
+    "CHT": "伶牙俐齒，演技精湛的著名楓丹魔術師，以精妙的手法和言語牽動著觀眾的心。",
+    "DE": "Ein redegewandter und charismatischer Zauberer aus Fontaine. Er zieht sein Publikum mit raffinierten Tricks und einnehmenden Worten in seinen Bann.",
+    "ES": "Un astuto y hábil mago de Fontaine que siempre se gana al público con sus ingeniosos trucos y su elocuencia.",
+    "FR": "Un célèbre magicien fontainois qui a un esprit agile et un grand don pour le bagou. Le public est captivé par ses compétences exquises et s'accroche à chacun de ses mots intelligents.",
+    "ID": "Pesulap terkenal dari Fontaine yang berotak encer dan bertangan gesit. Penonton selalu terpesona oleh kemampuannya dalam bermain sulap dan bertutur kata.",
+    "IT": "Un celebre mago di Fontaine, dotato di grande presenza scenica e notevoli doti dialettiche. Il pubblico rimane ammaliato dalle sue incredibili abilità e pende letteralmente dalle sue labbra.",
+    "JP": "話術に長け、優れた表現力を持つフォンテーヌの名高い魔術師。巧妙な手品と言葉で観客たちの心を動かす。",
+    "KR": "말솜씨가 유창하고 연기력이 뛰어난 폰타인의 유명 마술사. 절묘한 기술과 언변으로 관중들의 마음을 움직인다",
+    "PT": "O famoso Mágico de Fontaine, astuto e habilidoso em atuação, atrai os corações do público com suas técnicas e palavras requintadas.",
+    "RU": "Известный маг-иллюзионист из Фонтейна, отличающийся красноречием и актёрским мастерством. Завораживает публику ловкостью рук и своими речами.",
+    "TH": "นักมายากลเลื่องชื่อแห่ง Fontaine ผู้มีพรสวรรค์ และไหวพริบอันเฉียบแหลม มักใช้ทริกกับคำพูดอันแยบยลในการจูงใจของผู้ชม",
+    "TR": "Mükemmel bir sahne duruşu olan ve ağzı çok iyi laf yapan Fontaineli ünlü bir sihirbaz. Eşsiz yetenekleriyle ve zekice sarf ettiği her bir sözle izleyiciyi etkilemesini bilir.",
+    "VI": "Ảo thuật gia nổi tiếng khắp Fontaine, khéo ăn nói, diễn xuất tinh tế, chạm đến trái tim của khán giả bằng ngôn ngữ và kỹ thuật tuyệt vời."
+  },
+  "constellationName": {
+    "EN": "Felis Fuscus",
+    "CHS": "黑斑猫座",
+    "CHT": "黑斑貓座",
+    "DE": "Felis Fuscus",
+    "ES": "Felis Fuscus",
+    "FR": "Felis Fuscus",
+    "ID": "Felis Fuscus",
+    "IT": "Felis Fuscus",
+    "JP": "黒斑猫座",
+    "KR": "검은얼룩고양이자리",
+    "PT": "Felis Fuscus",
+    "RU": "Пятнистый Кот",
+    "TH": "Felis Fuscus",
+    "TR": "Kara Kedi",
+    "VI": "Cung Hắc Ban Miêu"
+  },
+  "native": {
+    "EN": "Hotel Bouffes d'ete",
+    "CHS": "布法蒂公馆",
+    "CHT": "布法蒂公館",
+    "DE": "Hotel Bouffes d’été",
+    "ES": "Hotel Bouffes d'Été",
+    "FR": "Hôtel Bouffes d'été",
+    "ID": "Hotel Bouffes d'ete",
+    "IT": "Hotel Bouffes d'Été",
+    "JP": "ブーフ·ド·エテの館",
+    "KR": "부프 데테 저택",
+    "PT": "Hotel Bouffes d'ete",
+    "RU": "Особняк «Буфф д'эте»",
+    "TH": "โรงแรม Bouffes d'ete",
+    "TR": "Bouffes d'Été Otel",
+    "VI": "Khách Sạn Bouffes d'ete"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Daman Mills"
+    },
+    {
+      "lang": "CHS",
+      "va": "锦鲤"
+    },
+    {
+      "lang": "JP",
+      "va": "下野紘"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Seong-yeong"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 857.988,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 24.7646,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 41.881,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

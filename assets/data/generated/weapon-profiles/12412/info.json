@@ -1,0 +1,52 @@
+{
+  "id": 12412,
+  "name": {
+    "EN": "Luxurious Sea-Lord",
+    "CHS": "衔珠海皇",
+    "CHT": "銜珠海皇",
+    "DE": "Luxuriöser Seekönig",
+    "ES": "Rey de los Mares",
+    "FR": "Illustre seigneur des mers",
+    "ID": "Luxurious Sea-Lord",
+    "IT": "Sovrano marino",
+    "JP": "銜玉の海皇",
+    "KR": "진주를 문 해황",
+    "PT": "Lorde do Mar Luxuoso",
+    "RU": "Благодатный владыка вод",
+    "TH": "Luxurious Sea-Lord",
+    "TR": "Denizlerin Efendisi",
+    "VI": "Vua Biển Hàng Hiệu"
+  },
+  "nameEn": "Luxurious Sea-Lord",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance.",
+    "CHS": "海中的大王。经过风干，是称手的兵器以及应急食品。",
+    "CHT": "海中的大王。經過風乾，是拿起來很順手的兵器以及應急食品。",
+    "DE": "Der große König des Ozeans. An der Luft getrocknet, eignet er sich sowohl als Waffe als auch als Notfallnahrung.",
+    "ES": "El majestuoso rey del océano. Tras secarse, sirve como arma y también como comida de emergencia.",
+    "FR": "Le grand seigneur des océans. Ayant été séché à l'air, c'est une arme de qualité, mais également une nourriture bienvenue en cas d'urgence.",
+    "ID": "Raja laut yang agung. Setelah dikeringkan, tidak hanya menjadi senjata yang bagus, ikan ini juga bisa dipakai sebagai makanan darurat.",
+    "IT": "Il grande sovrano del mare. Essiccato all'aria, funge tanto da arma quanto da alimento d'emergenza.",
+    "JP": "海の王様。風乾を経た今、武器としてはもちろん、非常食としても使える。",
+    "KR": "바다의 황제, 건조 과정을 거치면 병기와 비상식량으로 사용할 수 있다",
+    "PT": "O grande rei do oceano. Após ter sido desidratado, serve como uma boa arma, bem como um alimento de emergência.",
+    "RU": "Великий владыка океана. После просушки становится отличным оружием или аварийным пайком.",
+    "TH": "ราชาแห่งมหาสมุทร หลังจากตากอากาศจนแห้ง ก็กลายเป็นอาวุธที่แสนสะดวก และยังใช้เป็นอาหารฉุกเฉินได้อีกด้วย",
+    "TR": "Denizlerin yüce efendisi. Kurutulduğu için hem bir silah hem de acil durum yiyeceği olarak kullanılabilir.",
+    "VI": "Vua của biển cả. Sau khi sấy khô thì sẽ trở thành binh khí và cả thức ăn dự trữ nữa."
+  },
+  "icon": "generated/weapon-profiles/12412/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

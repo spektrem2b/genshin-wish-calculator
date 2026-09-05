@@ -1,0 +1,52 @@
+{
+  "id": 15513,
+  "name": {
+    "EN": "Silvershower Heartstrings",
+    "CHS": "白雨心弦",
+    "CHT": "白雨心弦",
+    "DE": "Tröpfelnde Herzsaiten",
+    "ES": "Corazón de la Lluvia",
+    "FR": "Corde de pluie blanche",
+    "ID": "Silvershower Heartstrings",
+    "IT": "Candido cuore della pioggia",
+    "JP": "白雨心弦",
+    "KR": "심금을 울리는 하얀 비",
+    "PT": "Cordas da Chuva Branca",
+    "RU": "Сердечные струны дождя",
+    "TH": "Silvershower Heartstrings",
+    "TR": "Gönül Yayları",
+    "VI": "Màn Mưa Tơ Lòng"
+  },
+  "nameEn": "Silvershower Heartstrings",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "Legendary bow of the fairies. Whether on the stage or the battlefield, it can easily touch the hearts of the listener.",
+    "CHS": "传说中的精灵之弓。无论是在舞台上还是战场上，都能轻而易举地拨动听者的心弦。",
+    "CHT": "傳說中的精靈之弓。無論是在舞臺上還是戰場上，都能輕而易舉地撥動聽者的心弦。",
+    "DE": "Ein legendärer Bogen der Feen. Er rührt das Herz der Zuhörer, ob auf der Bühne oder auf dem Schlachtfeld.",
+    "ES": "Un legendario arco feérico. Ya sea en un escenario o un campo de batalla, la música que produce conmueve fácilmente el corazón de quien la escucha.",
+    "FR": "Un arc féerique des légendes. Que ce soit sur scène ou sur le champ de bataille, il peut facilement toucher le cœur des spectateurs.",
+    "ID": "Konon katanya merupakan busur peri. Bisa menyentuh senar hati pendengarnya dengan mudah, baik di atas panggung maupun di medan pertempuran.",
+    "IT": "Un leggendario arco fatato. Che venga usato sul palco o sul campo di battaglia, è in grado di toccare facilmente il cuore di coloro che ne ascoltano il suono.",
+    "JP": "伝説の精霊の弓。舞台でも戦場でも、聴き手の心をいとも簡単に揺さぶる。",
+    "KR": "전설에 나오는 정령의 활. 무대에서든 전장에서든 청중의 심금을 흔든다",
+    "PT": "Um arco espiritual lendário. Não importa se nos palcos ou nas batalhas, ele pode tocar facilmente o coração de todos os seus ouvintes.",
+    "RU": "Легендарный лук фей. Он одинаково легко трогает сердца слушателей со сцены и на поле боя.",
+    "TH": "ธนูแห่งภูตในตำนาน ไม่ว่าจะอยู่บนเวทีหรือในสนามรบ ล้วนแต่สามารถทำให้ผู้สดับฟัง ประทับใจได้อย่างง่ายดายเสมอ",
+    "TR": "Efsanevi peri yayı. İster sahnede ister savaş alanında olsun, kolaylıkla dinleyenlerin yüreğine dokunabilir.",
+    "VI": "Cung tinh linh trong truyền thuyết. Dù là trên sân khấu hay trong chiến trường, cũng đều có thể dễ dàng lay động người nghe."
+  },
+  "icon": "generated/weapon-profiles/15513/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

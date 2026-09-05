@@ -1,0 +1,52 @@
+{
+  "id": 11430,
+  "name": {
+    "EN": "Sturdy Bone",
+    "CHS": "弥坚骨",
+    "CHT": "彌堅骨",
+    "DE": "Robuster Knochen",
+    "ES": "Hueso Recio",
+    "FR": "Os robuste",
+    "ID": "Sturdy Bone",
+    "IT": "Osso tenace",
+    "JP": "ストロング・ボーン",
+    "KR": "견고한 골검",
+    "PT": "Osso Robusto",
+    "RU": "Крепкая кость",
+    "TH": "Sturdy Bone",
+    "TR": "Sağlam Kemik",
+    "VI": "Xương Cứng"
+  },
+  "nameEn": "Sturdy Bone",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A longsword made of bone that has only grown harder after being hit and swung countless times. It is said that this was the hero Wanjiru's reliable weapon.",
+    "CHS": "在千万次敲打和挥舞中变得越发坚硬的骨制长剑，据传曾是英杰万杰鲁趁手的武器。",
+    "CHT": "在千萬次敲打和揮舞中變得更加堅硬的骨製長劍，據傳曾是英傑萬傑魯手拿得很順手的武器。",
+    "DE": "Ein Langschwert aus Knochen, das nach unzähligen Schlägen und Schwüngen immer härter wurde. Angeblich war es einst eine handliche Waffe, die der Held Wanjiru in der Hand hielt.",
+    "ES": "Una larga espada ósea que se ha vuelto más robusta con cada batalla en la que ha luchado. Dicen que se trataba del arma de confianza de la heroína Wanjiru.",
+    "FR": "Une longue épée en os qui n'a fait que durcir après avoir été frappée et balancée d'innombrables fois. On dit que c'était l'arme de confiance du héros Wanjiru.",
+    "ID": "Pedang panjang yang sudah menjadi semakin keras setelah ribuan pukulan dan ayunan. Konon katanya, merupakan senjata yang paling sering digunakan oleh pahlawan Wanjiru.",
+    "IT": "Una spada lunga fatta d'osso, induritasi dopo innumerevoli colpi e fendenti. Si dice fosse la fidata arma dell'eroina Wanjiru.",
+    "JP": "幾千万回と叩き、振り回されるうちにより硬くなった骨の長剣。かつて、英傑ワンジルが使いこなした武器だと言われている。",
+    "KR": "수만 번의 담금질과 휘두름 끝에 더욱 단단해진 뼈 장검. 영웅 완지루가 애용했던 무기라고 한다",
+    "PT": "Uma espada longa feita de osso que se tornou ainda mais resistente após ter sido golpeada e balançada inúmeras vezes. Diz-se que esta era a arma fiel do herói Wanjiru.",
+    "RU": "Длинный костяной меч, который после бесчисленных ударов и взмахов стал только твёрже. Говорят, он был верным оружием героя Ванджиру.",
+    "TH": "ดาบยาวที่ทำจากกระดูก ที่แข็งแกร่งขึ้นเรื่อย ๆ หลังจากผ่านการตี และฟาดฟันมานับครั้งไม่ถ้วน ว่ากันว่ามันเคยเป็นอาวุธคู่ใจของผู้กล้า Wanjiru",
+    "TR": "Sayısız kez savrulup darbe aldıktan sonra artık tamamen sertleşmiş, kemikten yapılma bir uzun kılıç. Kahraman Wanjiru'nun en güvendiği silahı olduğu söylenir.",
+    "VI": "Thanh kiếm dài bằng xương đã trở nên càng lúc càng cứng sau hàng ngàn lần vung lên đập xuống. Nghe nói từng là vũ khí quen thuộc của vị anh hùng Wanjiru."
+  },
+  "icon": "generated/weapon-profiles/11430/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

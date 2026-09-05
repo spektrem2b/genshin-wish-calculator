@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Radiance of the Deeps",
+    "CHS": "渊中霞彩",
+    "CHT": "淵中霞彩",
+    "DE": "Glanz der Tiefe",
+    "ES": "Arrebol del abismo",
+    "FR": "Flèche enterrée",
+    "ID": "Radiance of the Deeps",
+    "IT": "Bagliore delle profondità",
+    "JP": "淵中霞彩",
+    "KR": "심연을 비추는 노을",
+    "PT": "Brilho Abismal",
+    "RU": "Сияние бездны",
+    "TH": "Radiance of the Deeps",
+    "TR": "Derinliğin İhtişamı",
+    "VI": "Vực Sâu Rạng Rỡ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 6%/10%/14% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+        "CHS": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升6%/10%/14%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+        "CHT": "具有夕暮、流霞、朝暉三種狀態，分別能使造成的傷害提升6%/10%/14%。攻擊命中敵人後，將轉換為下一種狀態，每7秒至多轉換一次狀態。裝備該武器的角色處於隊伍後台時該效果依舊能觸發轉換。",
+        "DE": "Diese Waffe hat drei Zustände: Zwielicht, Abendröte und Morgengrauen. Diese drei Zustände erhöhen den verursachten Schaden jeweils um 6/10/14 %. Nachdem die Figur einen Gegner trifft, wird der aktuelle Zustand deaktiviert und der nächste Zustand wird aktiviert. 7 s Abklingzeit für den Zustandswechsel, der auch ausgelöst werden kann, wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist.",
+        "ES": "Otorga los estados de ocaso, crepúsculo y alba, los cuales aumentan el daño infligido en un 6/10/14% respectivamente. Al golpear a un enemigo con un ataque, el personaje entra en el siguiente estado. Este cambio de estado solo se puede activar una vez cada 7 s, y ocurrirá incluso cuando el personaje que lleva esta arma equipada esté en tu equipo pero no en uso.",
+        "FR": "#Cette arme possède trois états (crépuscule, rémanence et aube) qui augmentent respectivement les DGT infligés de 6 %/10 %/14 %. Lorsqu'une attaque a touché un ennemi, l'arme passe à l'état suivant. Un changement d'état peut être déclenché une fois toutes les 7 s, même lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Mempunyai 3 status, yakni: Evengleam, Afterglow, dan Dawnblaze. Masing-masing meningkatkan DMG sebesar 6%/10%/14%. Setelah serangan mengenai musuh, Senjata ini akan berubah ke status selanjutnya. Maksimal dapat mengubah status 1 kali setiap 7 detik. Perubahan status tetap dapat terpicu meskipun Karakter yang mengenakannya ada dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Ha tre stati: Vesprolume, Crepuscoluce e Ardiaurora, che aumentano i DAN inflitti rispettivamente di un 6%/10%/14%. Quando gli attacchi vanno a segno, quest'arma passa allo stato successivo. L'arma può cambiare stato ogni 7 s e anche quando il personaggio che la utilizza non è in campo.",
+        "JP": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+6%/10%/14%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+        "KR": "석양, 유하, 조휘 3가지 상태는 캐릭터가 주는 피해를 각각 6%/10%/14% 증가시킨다. 캐릭터 공격이 적을 명중 시, 순서대로 상태를 전환한다. 7초마다 최대 1회 상태를 전환할 수 있으며 해당 무기를 장착한 캐릭터가 대기 상태일 때도 전환한다",
+        "PT": "Possui três estados: Entardecer, Amanhecer e Alvorada. Estes estados aumentam o Dano infligido em 6%/10%/14% respectivamente. Ao atingir um inimigo com um ataque, se trocará para o próximo estado. Essa troca pode acontecer uma vez a cada 7s. Esse efeito também ocorrerá se o personagem que tiver esta arma equipada não estiver ativo no campo de batalha.",
+        "RU": "Оружие обладает 3 состояниями: Закат, Туман и Заря, каждое из которых увеличивает наносимый урон на 6%/10%/14% соответственно. После попадания по противнику состояние меняется на следующее, не чаще одного раза в 7 сек. Эффект смены состояния срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "มีอยู่สามสถานะได้แก่ Evengleam, Afterglow และ Dawnblaze ซึ่งจะสามารถทำให้ความเสียหายที่สร้างเพิ่มขึ้น 6%/10%/14% ตามลำดับ โดยหลังจากที่โจมตีถูกศัตรูแล้ว จะเปลี่ยนเป็นสถานะถัดไป ซึ่งในทุก 7 วินาที จะเปลี่ยนสถานะได้มากสุด 1 ครั้ง และเอฟเฟกต์ดังกล่าวจะยังคงเกิดขึ้นและเปลี่ยนสถานะได้ แม้ในขณะที่ตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Parıltı, Gün Batımı ve Şafak Işığı olarak üç aşamadan oluşur ve verilen Hasarı sırasıyla %6/%10/%14 artırır. Yapılan saldırılar düşmana isabet ederse silah bir sonraki evreye geçer. Bu silah her 7 saniyede bir evre değiştirebilir. Bu silahı kullanan karakter savaş alanında olmasa bile evre geçişi tetiklenebilir.",
+        "VI": "Có 3 loại trạng thái gồm Chạng Vạng, Lưu Hà, Hừng Đông, lần lượt tăng 6%/10%/14% sát thương gây ra. Khi tấn công trúng kẻ địch sẽ chuyển sang trạng thái tiếp theo, mỗi 7s tối đa chuyển trạng thái một lần. Nhân vật trang bị vũ khí này khi không ra trận cũng sẽ có thể kích hoạt chuyển đổi."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 7.5%/12.5%/17.5% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+        "CHS": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升7.5%/12.5%/17.5%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+        "CHT": "具有夕暮、流霞、朝暉三種狀態，分別能使造成的傷害提升7.5%/12.5%/17.5%。攻擊命中敵人後，將轉換為下一種狀態，每7秒至多轉換一次狀態。裝備該武器的角色處於隊伍後台時該效果依舊能觸發轉換。",
+        "DE": "Diese Waffe hat drei Zustände: Zwielicht, Abendröte und Morgengrauen. Diese drei Zustände erhöhen den verursachten Schaden jeweils um 7,5/12,5/17,5 %. Nachdem die Figur einen Gegner trifft, wird der aktuelle Zustand deaktiviert und der nächste Zustand wird aktiviert. 7 s Abklingzeit für den Zustandswechsel, der auch ausgelöst werden kann, wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist.",
+        "ES": "Otorga los estados de ocaso, crepúsculo y alba, los cuales aumentan el daño infligido en un 7.5/12.5/17.5% respectivamente. Al golpear a un enemigo con un ataque, el personaje entra en el siguiente estado. Este cambio de estado solo se puede activar una vez cada 7 s, y ocurrirá incluso cuando el personaje que lleva esta arma equipada esté en tu equipo pero no en uso.",
+        "FR": "#Cette arme possède trois états (crépuscule, rémanence et aube) qui augmentent respectivement les DGT infligés de 7,5 %/12,5 %/17,5 %. Lorsqu'une attaque a touché un ennemi, l'arme passe à l'état suivant. Un changement d'état peut être déclenché une fois toutes les 7 s, même lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Mempunyai 3 status, yakni: Evengleam, Afterglow, dan Dawnblaze. Masing-masing meningkatkan DMG sebesar 7,5%/12,5%/17,5%. Setelah serangan mengenai musuh, Senjata ini akan berubah ke status selanjutnya. Maksimal dapat mengubah status 1 kali setiap 7 detik. Perubahan status tetap dapat terpicu meskipun Karakter yang mengenakannya ada dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Ha tre stati: Vesprolume, Crepuscoluce e Ardiaurora, che aumentano i DAN inflitti rispettivamente di un 7,5%/12,5%/17,5%. Quando gli attacchi vanno a segno, quest'arma passa allo stato successivo. L'arma può cambiare stato ogni 7 s e anche quando il personaggio che la utilizza non è in campo.",
+        "JP": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+7.5%/12.5%/17.5%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+        "KR": "석양, 유하, 조휘 3가지 상태는 캐릭터가 주는 피해를 각각 7.5%/12.5%/17.5% 증가시킨다. 캐릭터 공격이 적을 명중 시, 순서대로 상태를 전환한다. 7초마다 최대 1회 상태를 전환할 수 있으며 해당 무기를 장착한 캐릭터가 대기 상태일 때도 전환한다",
+        "PT": "Possui três estados: Entardecer, Amanhecer e Alvorada. Estes estados aumentam o Dano infligido em 7.5%/12.5%/17.5% respectivamente. Ao atingir um inimigo com um ataque, se trocará para o próximo estado. Essa troca pode acontecer uma vez a cada 7s. Esse efeito também ocorrerá se o personagem que tiver esta arma equipada não estiver ativo no campo de batalha.",
+        "RU": "Оружие обладает 3 состояниями: Закат, Туман и Заря, каждое из которых увеличивает наносимый урон на 7,5%/12,5%/17,5% соответственно. После попадания по противнику состояние меняется на следующее, не чаще одного раза в 7 сек. Эффект смены состояния срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "มีอยู่สามสถานะได้แก่ Evengleam, Afterglow และ Dawnblaze ซึ่งจะสามารถทำให้ความเสียหายที่สร้างเพิ่มขึ้น 7.5%/12.5%/17.5% ตามลำดับ โดยหลังจากที่โจมตีถูกศัตรูแล้ว จะเปลี่ยนเป็นสถานะถัดไป ซึ่งในทุก 7 วินาที จะเปลี่ยนสถานะได้มากสุด 1 ครั้ง และเอฟเฟกต์ดังกล่าวจะยังคงเกิดขึ้นและเปลี่ยนสถานะได้ แม้ในขณะที่ตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Parıltı, Gün Batımı ve Şafak Işığı olarak üç aşamadan oluşur ve verilen Hasarı sırasıyla %7,5/%12,5/%17,5 artırır. Yapılan saldırılar düşmana isabet ederse silah bir sonraki evreye geçer. Bu silah her 7 saniyede bir evre değiştirebilir. Bu silahı kullanan karakter savaş alanında olmasa bile evre geçişi tetiklenebilir.",
+        "VI": "Có 3 loại trạng thái gồm Chạng Vạng, Lưu Hà, Hừng Đông, lần lượt tăng 7.5%/12.5%/17.5% sát thương gây ra. Khi tấn công trúng kẻ địch sẽ chuyển sang trạng thái tiếp theo, mỗi 7s tối đa chuyển trạng thái một lần. Nhân vật trang bị vũ khí này khi không ra trận cũng sẽ có thể kích hoạt chuyển đổi."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 9%/15%/21% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+        "CHS": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升9%/15%/21%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+        "CHT": "具有夕暮、流霞、朝暉三種狀態，分別能使造成的傷害提升9%/15%/21%。攻擊命中敵人後，將轉換為下一種狀態，每7秒至多轉換一次狀態。裝備該武器的角色處於隊伍後台時該效果依舊能觸發轉換。",
+        "DE": "Diese Waffe hat drei Zustände: Zwielicht, Abendröte und Morgengrauen. Diese drei Zustände erhöhen den verursachten Schaden jeweils um 9/15/21 %. Nachdem die Figur einen Gegner trifft, wird der aktuelle Zustand deaktiviert und der nächste Zustand wird aktiviert. 7 s Abklingzeit für den Zustandswechsel, der auch ausgelöst werden kann, wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist.",
+        "ES": "Otorga los estados de ocaso, crepúsculo y alba, los cuales aumentan el daño infligido en un 9/15/21% respectivamente. Al golpear a un enemigo con un ataque, el personaje entra en el siguiente estado. Este cambio de estado solo se puede activar una vez cada 7 s, y ocurrirá incluso cuando el personaje que lleva esta arma equipada esté en tu equipo pero no en uso.",
+        "FR": "#Cette arme possède trois états (crépuscule, rémanence et aube) qui augmentent respectivement les DGT infligés de 9 %/15 %/21 %. Lorsqu'une attaque a touché un ennemi, l'arme passe à l'état suivant. Un changement d'état peut être déclenché une fois toutes les 7 s, même lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Mempunyai 3 status, yakni: Evengleam, Afterglow, dan Dawnblaze. Masing-masing meningkatkan DMG sebesar 9%/15%/21%. Setelah serangan mengenai musuh, Senjata ini akan berubah ke status selanjutnya. Maksimal dapat mengubah status 1 kali setiap 7 detik. Perubahan status tetap dapat terpicu meskipun Karakter yang mengenakannya ada dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Ha tre stati: Vesprolume, Crepuscoluce e Ardiaurora, che aumentano i DAN inflitti rispettivamente di un 9%/15%/21%. Quando gli attacchi vanno a segno, quest'arma passa allo stato successivo. L'arma può cambiare stato ogni 7 s e anche quando il personaggio che la utilizza non è in campo.",
+        "JP": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+9%/15%/21%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+        "KR": "석양, 유하, 조휘 3가지 상태는 캐릭터가 주는 피해를 각각 9%/15%/21% 증가시킨다. 캐릭터 공격이 적을 명중 시, 순서대로 상태를 전환한다. 7초마다 최대 1회 상태를 전환할 수 있으며 해당 무기를 장착한 캐릭터가 대기 상태일 때도 전환한다",
+        "PT": "Possui três estados: Entardecer, Amanhecer e Alvorada. Estes estados aumentam o Dano infligido em 9%/15%/21% respectivamente. Ao atingir um inimigo com um ataque, se trocará para o próximo estado. Essa troca pode acontecer uma vez a cada 7s. Esse efeito também ocorrerá se o personagem que tiver esta arma equipada não estiver ativo no campo de batalha.",
+        "RU": "Оружие обладает 3 состояниями: Закат, Туман и Заря, каждое из которых увеличивает наносимый урон на 9%/15%/21% соответственно. После попадания по противнику состояние меняется на следующее, не чаще одного раза в 7 сек. Эффект смены состояния срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "มีอยู่สามสถานะได้แก่ Evengleam, Afterglow และ Dawnblaze ซึ่งจะสามารถทำให้ความเสียหายที่สร้างเพิ่มขึ้น 9%/15%/21% ตามลำดับ โดยหลังจากที่โจมตีถูกศัตรูแล้ว จะเปลี่ยนเป็นสถานะถัดไป ซึ่งในทุก 7 วินาที จะเปลี่ยนสถานะได้มากสุด 1 ครั้ง และเอฟเฟกต์ดังกล่าวจะยังคงเกิดขึ้นและเปลี่ยนสถานะได้ แม้ในขณะที่ตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Parıltı, Gün Batımı ve Şafak Işığı olarak üç aşamadan oluşur ve verilen Hasarı sırasıyla %9/%15/%21 artırır. Yapılan saldırılar düşmana isabet ederse silah bir sonraki evreye geçer. Bu silah her 7 saniyede bir evre değiştirebilir. Bu silahı kullanan karakter savaş alanında olmasa bile evre geçişi tetiklenebilir.",
+        "VI": "Có 3 loại trạng thái gồm Chạng Vạng, Lưu Hà, Hừng Đông, lần lượt tăng 9%/15%/21% sát thương gây ra. Khi tấn công trúng kẻ địch sẽ chuyển sang trạng thái tiếp theo, mỗi 7s tối đa chuyển trạng thái một lần. Nhân vật trang bị vũ khí này khi không ra trận cũng sẽ có thể kích hoạt chuyển đổi."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 10.5%/17.5%/24.5% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+        "CHS": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升10.5%/17.5%/24.5%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+        "CHT": "具有夕暮、流霞、朝暉三種狀態，分別能使造成的傷害提升10.5%/17.5%/24.5%。攻擊命中敵人後，將轉換為下一種狀態，每7秒至多轉換一次狀態。裝備該武器的角色處於隊伍後台時該效果依舊能觸發轉換。",
+        "DE": "Diese Waffe hat drei Zustände: Zwielicht, Abendröte und Morgengrauen. Diese drei Zustände erhöhen den verursachten Schaden jeweils um 10,5/17,5/24,5 %. Nachdem die Figur einen Gegner trifft, wird der aktuelle Zustand deaktiviert und der nächste Zustand wird aktiviert. 7 s Abklingzeit für den Zustandswechsel, der auch ausgelöst werden kann, wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist.",
+        "ES": "Otorga los estados de ocaso, crepúsculo y alba, los cuales aumentan el daño infligido en un 10.5/17.5/24.5% respectivamente. Al golpear a un enemigo con un ataque, el personaje entra en el siguiente estado. Este cambio de estado solo se puede activar una vez cada 7 s, y ocurrirá incluso cuando el personaje que lleva esta arma equipada esté en tu equipo pero no en uso.",
+        "FR": "#Cette arme possède trois états (crépuscule, rémanence et aube) qui augmentent respectivement les DGT infligés de 10,5 %/17,5 %/24,5 %. Lorsqu'une attaque a touché un ennemi, l'arme passe à l'état suivant. Un changement d'état peut être déclenché une fois toutes les 7 s, même lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Mempunyai 3 status, yakni: Evengleam, Afterglow, dan Dawnblaze. Masing-masing meningkatkan DMG sebesar 10,5%/17,5%/24,5%. Setelah serangan mengenai musuh, Senjata ini akan berubah ke status selanjutnya. Maksimal dapat mengubah status 1 kali setiap 7 detik. Perubahan status tetap dapat terpicu meskipun Karakter yang mengenakannya ada dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Ha tre stati: Vesprolume, Crepuscoluce e Ardiaurora, che aumentano i DAN inflitti rispettivamente di un 10,5%/17,5%/24,5%. Quando gli attacchi vanno a segno, quest'arma passa allo stato successivo. L'arma può cambiare stato ogni 7 s e anche quando il personaggio che la utilizza non è in campo.",
+        "JP": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+10.5%/17.5%/24.5%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+        "KR": "석양, 유하, 조휘 3가지 상태는 캐릭터가 주는 피해를 각각 10.5%/17.5%/24.5% 증가시킨다. 캐릭터 공격이 적을 명중 시, 순서대로 상태를 전환한다. 7초마다 최대 1회 상태를 전환할 수 있으며 해당 무기를 장착한 캐릭터가 대기 상태일 때도 전환한다",
+        "PT": "Possui três estados: Entardecer, Amanhecer e Alvorada. Estes estados aumentam o Dano infligido em 10.5%/17.5%/24.5% respectivamente. Ao atingir um inimigo com um ataque, se trocará para o próximo estado. Essa troca pode acontecer uma vez a cada 7s. Esse efeito também ocorrerá se o personagem que tiver esta arma equipada não estiver ativo no campo de batalha.",
+        "RU": "Оружие обладает 3 состояниями: Закат, Туман и Заря, каждое из которых увеличивает наносимый урон на 10,5%/17,5%/24,5% соответственно. После попадания по противнику состояние меняется на следующее, не чаще одного раза в 7 сек. Эффект смены состояния срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "มีอยู่สามสถานะได้แก่ Evengleam, Afterglow และ Dawnblaze ซึ่งจะสามารถทำให้ความเสียหายที่สร้างเพิ่มขึ้น 10.5%/17.5%/24.5% ตามลำดับ โดยหลังจากที่โจมตีถูกศัตรูแล้ว จะเปลี่ยนเป็นสถานะถัดไป ซึ่งในทุก 7 วินาที จะเปลี่ยนสถานะได้มากสุด 1 ครั้ง และเอฟเฟกต์ดังกล่าวจะยังคงเกิดขึ้นและเปลี่ยนสถานะได้ แม้ในขณะที่ตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Parıltı, Gün Batımı ve Şafak Işığı olarak üç aşamadan oluşur ve verilen Hasarı sırasıyla %10,5/%17,5/%24,5 artırır. Yapılan saldırılar düşmana isabet ederse silah bir sonraki evreye geçer. Bu silah her 7 saniyede bir evre değiştirebilir. Bu silahı kullanan karakter savaş alanında olmasa bile evre geçişi tetiklenebilir.",
+        "VI": "Có 3 loại trạng thái gồm Chạng Vạng, Lưu Hà, Hừng Đông, lần lượt tăng 10.5%/17.5%/24.5% sát thương gây ra. Khi tấn công trúng kẻ địch sẽ chuyển sang trạng thái tiếp theo, mỗi 7s tối đa chuyển trạng thái một lần. Nhân vật trang bị vũ khí này khi không ra trận cũng sẽ có thể kích hoạt chuyển đổi."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by 12%/20%/28% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+        "CHS": "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升12%/20%/28%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
+        "CHT": "具有夕暮、流霞、朝暉三種狀態，分別能使造成的傷害提升12%/20%/28%。攻擊命中敵人後，將轉換為下一種狀態，每7秒至多轉換一次狀態。裝備該武器的角色處於隊伍後台時該效果依舊能觸發轉換。",
+        "DE": "Diese Waffe hat drei Zustände: Zwielicht, Abendröte und Morgengrauen. Diese drei Zustände erhöhen den verursachten Schaden jeweils um 12/20/28 %. Nachdem die Figur einen Gegner trifft, wird der aktuelle Zustand deaktiviert und der nächste Zustand wird aktiviert. 7 s Abklingzeit für den Zustandswechsel, der auch ausgelöst werden kann, wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist.",
+        "ES": "Otorga los estados de ocaso, crepúsculo y alba, los cuales aumentan el daño infligido en un 12/20/28% respectivamente. Al golpear a un enemigo con un ataque, el personaje entra en el siguiente estado. Este cambio de estado solo se puede activar una vez cada 7 s, y ocurrirá incluso cuando el personaje que lleva esta arma equipada esté en tu equipo pero no en uso.",
+        "FR": "#Cette arme possède trois états (crépuscule, rémanence et aube) qui augmentent respectivement les DGT infligés de 12 %/20 %/28 %. Lorsqu'une attaque a touché un ennemi, l'arme passe à l'état suivant. Un changement d'état peut être déclenché une fois toutes les 7 s, même lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Mempunyai 3 status, yakni: Evengleam, Afterglow, dan Dawnblaze. Masing-masing meningkatkan DMG sebesar 12%/20%/28%. Setelah serangan mengenai musuh, Senjata ini akan berubah ke status selanjutnya. Maksimal dapat mengubah status 1 kali setiap 7 detik. Perubahan status tetap dapat terpicu meskipun Karakter yang mengenakannya ada dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Ha tre stati: Vesprolume, Crepuscoluce e Ardiaurora, che aumentano i DAN inflitti rispettivamente di un 12%/20%/28%. Quando gli attacchi vanno a segno, quest'arma passa allo stato successivo. L'arma può cambiare stato ogni 7 s e anche quando il personaggio che la utilizza non è in campo.",
+        "JP": "夕暮、流霞、朝日の3種類の強化効果が武器にはあり、それぞれ与えるダメージ+12%/20%/28%。攻撃が敵に命中すると、強化効果が次のものに切り替わる。この切り替わりは7秒に1回のみ発動でき、装備キャラクターが待機状態でも発動する。",
+        "KR": "석양, 유하, 조휘 3가지 상태는 캐릭터가 주는 피해를 각각 12%/20%/28% 증가시킨다. 캐릭터 공격이 적을 명중 시, 순서대로 상태를 전환한다. 7초마다 최대 1회 상태를 전환할 수 있으며 해당 무기를 장착한 캐릭터가 대기 상태일 때도 전환한다",
+        "PT": "Possui três estados: Entardecer, Amanhecer e Alvorada. Estes estados aumentam o Dano infligido em 12%/20%/28% respectivamente. Ao atingir um inimigo com um ataque, se trocará para o próximo estado. Essa troca pode acontecer uma vez a cada 7s. Esse efeito também ocorrerá se o personagem que tiver esta arma equipada não estiver ativo no campo de batalha.",
+        "RU": "Оружие обладает 3 состояниями: Закат, Туман и Заря, каждое из которых увеличивает наносимый урон на 12%/20%/28% соответственно. После попадания по противнику состояние меняется на следующее, не чаще одного раза в 7 сек. Эффект смены состояния срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "มีอยู่สามสถานะได้แก่ Evengleam, Afterglow และ Dawnblaze ซึ่งจะสามารถทำให้ความเสียหายที่สร้างเพิ่มขึ้น 12%/20%/28% ตามลำดับ โดยหลังจากที่โจมตีถูกศัตรูแล้ว จะเปลี่ยนเป็นสถานะถัดไป ซึ่งในทุก 7 วินาที จะเปลี่ยนสถานะได้มากสุด 1 ครั้ง และเอฟเฟกต์ดังกล่าวจะยังคงเกิดขึ้นและเปลี่ยนสถานะได้ แม้ในขณะที่ตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Parıltı, Gün Batımı ve Şafak Işığı olarak üç aşamadan oluşur ve verilen Hasarı sırasıyla %12/%20/%28 artırır. Yapılan saldırılar düşmana isabet ederse silah bir sonraki evreye geçer. Bu silah her 7 saniyede bir evre değiştirebilir. Bu silahı kullanan karakter savaş alanında olmasa bile evre geçişi tetiklenebilir.",
+        "VI": "Có 3 loại trạng thái gồm Chạng Vạng, Lưu Hà, Hừng Đông, lần lượt tăng 12%/20%/28% sát thương gây ra. Khi tấn công trúng kẻ địch sẽ chuyển sang trạng thái tiếp theo, mỗi 7s tối đa chuyển trạng thái một lần. Nhân vật trang bị vũ khí này khi không ra trận cũng sẽ có thể kích hoạt chuyển đổi."
+      }
+    }
+  ]
+}

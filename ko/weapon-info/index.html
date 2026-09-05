@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<html lang="ko" data-active-tab="weapon-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Weapons: Genshin Wish Calculator</title>
+    <meta name="description" content="Browse every Genshin Impact weapon's refinement effects and ascension materials.">
+    <meta property="og:title" content="All Weapons: Genshin Wish Calculator">
+    <meta property="og:description" content="Browse every Genshin Impact weapon's refinement effects and ascension materials.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/ko/weapon-info/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="All Weapons: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Browse every Genshin Impact weapon's refinement effects and ascension materials.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/weapon-info/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/weapon-info/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/weapon-info/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/weapon-info/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/weapon-info/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/weapon-info/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/weapon-info/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/weapon-info/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/weapon-info/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/weapon-info/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/weapon-info/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/weapon-info/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/weapon-info/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/weapon-info/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/weapon-info/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/weapon-info/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/weapon-info/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>원신<br>기원 계산기</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">기원 플래너</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">4성 확률</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">시뮬레이터</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">빌드</button>
+            <button type="button" id="tabInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">캐릭터</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">무기</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">기타</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">설정</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel"></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel">
+            <div class="ci-filter-bar">
+                <input type="text" class="ci-filter-search" id="wiGridSearch" aria-label="Search weapons" placeholder="Search name…" autocomplete="off">
+                <div class="ci-filter-group">
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Sword">
+                <img src="assets/data/design/weapon_types_icons/Icon_Sword_type.webp" alt="">Sword
+            </button>
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Claymore">
+                <img src="assets/data/design/weapon_types_icons/Icon_Claymore_type.webp" alt="">Claymore
+            </button>
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Polearm">
+                <img src="assets/data/design/weapon_types_icons/Icon_Polearm_type.webp" alt="">Polearm
+            </button>
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Bow">
+                <img src="assets/data/design/weapon_types_icons/Icon_Bow_type.webp" alt="">Bow
+            </button>
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Catalyst">
+                <img src="assets/data/design/weapon_types_icons/Icon_Catalyst_type.webp" alt="">Catalyst
+            </button></div>
+                <div class="ci-filter-group">
+            <button type="button" class="ci-filter-chip ci-filter-chip-rarity rarity-5" data-filter-group="rarity" data-filter-value="5">5★</button>
+            <button type="button" class="ci-filter-chip ci-filter-chip-rarity rarity-4" data-filter-group="rarity" data-filter-value="4">4★</button>
+            <button type="button" class="ci-filter-chip ci-filter-chip-rarity rarity-3" data-filter-group="rarity" data-filter-value="3">3★</button></div>
+            </div><div class="ci-grid">
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/beacon-of-the-reed-sea/" data-weapon-id="12511" data-type="Trọng Kiếm" data-rarity="5" data-name="갈대 바다의 등대">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">갈대 바다의 등대</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/athame-artis/" data-weapon-id="11518" data-type="Kiếm Đơn" data-rarity="5" data-name="검은 침식">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11518/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">검은 침식</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/splendor-of-tranquil-waters/" data-weapon-id="11513" data-type="Kiếm Đơn" data-rarity="5" data-name="고요히 샘솟는 빛">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">고요히 샘솟는 빛</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/vortex-vanquisher/" data-weapon-id="13504" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="관홍의 창">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13504/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">관홍의 창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/polar-star/" data-weapon-id="15507" data-type="Cung" data-rarity="5" data-name="극지의 별">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15507/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">극지의 별</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sunny-morning-sleep-in/" data-weapon-id="14518" data-type="Pháp Khí" data-rarity="5" data-name="나른한 새해">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14518/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">나른한 새해</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/wolfs-gravestone/" data-weapon-id="12502" data-type="Trọng Kiếm" data-rarity="5" data-name="늑대의 말로">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">늑대의 말로</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/gest-of-the-mighty-wolf/" data-weapon-id="12515" data-type="Trọng Kiếm" data-rarity="5" data-name="늑대의 무용담">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">늑대의 무용담</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/lumidouce-elegy/" data-weapon-id="13513" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="등방울꽃의 애가">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">등방울꽃의 애가</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/a-thousand-floating-dreams/" data-weapon-id="14511" data-type="Pháp Khí" data-rarity="5" data-name="떠오르는 천일 밤의 꿈">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">떠오르는 천일 밤의 꿈</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/nocturnes-curtain-call/" data-weapon-id="14522" data-type="Pháp Khí" data-rarity="5" data-name="막간의 야상곡">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14522/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">막간의 야상곡</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/symphonist-of-scents/" data-weapon-id="13514" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="맛의 지휘자">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">맛의 지휘자</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/aquila-favonia/" data-weapon-id="11501" data-type="Kiếm Đơn" data-rarity="5" data-name="매의 검">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">매의 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-unforged/" data-weapon-id="12504" data-type="Trọng Kiếm" data-rarity="5" data-name="무공의 검">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12504/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">무공의 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/peak-patrol-song/" data-weapon-id="11516" data-type="Kiếm Đơn" data-rarity="5" data-name="바위산을 맴도는 노래">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">바위산을 맴도는 노래</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/primordial-jade-cutter/" data-weapon-id="11505" data-type="Kiếm Đơn" data-rarity="5" data-name="반암결록">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11505/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">반암결록</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/nightweavers-looking-glass/" data-weapon-id="14520" data-type="Pháp Khí" data-rarity="5" data-name="밤을 엮는 거울">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14520/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">밤을 엮는 거울</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/whitelake-frostfeather/" data-weapon-id="11520" data-type="Kiếm Đơn" data-rarity="5" data-name="백조의 호수">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11520/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">백조의 호수</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/jadefalls-splendor/" data-weapon-id="14505" data-type="Pháp Khí" data-rarity="5" data-name="벽락의 옥">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14505/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">벽락의 옥</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/exaiphanes-blade/" data-weapon-id="11521" data-type="Kiếm Đơn" data-rarity="5" data-name="별빛검">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11521/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">별빛검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/starcallers-watch/" data-weapon-id="14517" data-type="Pháp Khí" data-rarity="5" data-name="별지기의 시선">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14517/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">별지기의 시선</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/everlasting-moonglow/" data-weapon-id="14506" data-type="Pháp Khí" data-rarity="5" data-name="불멸의 달빛">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14506/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">불멸의 달빛</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/astral-vultures-crimson-plumage/" data-weapon-id="15514" data-type="Cung" data-rarity="5" data-name="붉은 깃 별독수리">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">붉은 깃 별독수리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/crimson-moons-semblance/" data-weapon-id="13512" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="붉은 달의 형상">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">붉은 달의 형상</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/thundering-pulse/" data-weapon-id="15509" data-type="Cung" data-rarity="5" data-name="비뢰의 고동">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15509/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">비뢰의 고동</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/vivid-notions/" data-weapon-id="14519" data-type="Pháp Khí" data-rarity="5" data-name="빛나는 마음">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14519/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">빛나는 마음</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/hunters-path/" data-weapon-id="15511" data-type="Cung" data-rarity="5" data-name="사냥꾼의 길">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">사냥꾼의 길</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/absolution/" data-weapon-id="11515" data-type="Kiếm Đơn" data-rarity="5" data-name="사면">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">사면</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/lost-prayer-to-the-sacred-winds/" data-weapon-id="14502" data-type="Pháp Khí" data-rarity="5" data-name="사풍 원서">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">사풍 원서</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/fang-of-the-mountain-king/" data-weapon-id="12513" data-type="Trọng Kiếm" data-rarity="5" data-name="산왕의 엄니">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">산왕의 엄니</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/golden-frostbound-oath/" data-weapon-id="15516" data-type="Cung" data-rarity="5" data-name="서리 맺힌 금빛 가지">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">서리 맺힌 금빛 가지</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/surfs-up/" data-weapon-id="14516" data-type="Pháp Khí" data-rarity="5" data-name="서핑 타임">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">서핑 타임</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/key-of-khaj-nisut/" data-weapon-id="11511" data-type="Kiếm Đơn" data-rarity="5" data-name="성현의 열쇠">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">성현의 열쇠</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/memory-of-dust/" data-weapon-id="14504" data-type="Pháp Khí" data-rarity="5" data-name="속세의 자물쇠">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14504/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">속세의 자물쇠</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/song-of-broken-pines/" data-weapon-id="12503" data-type="Trọng Kiếm" data-rarity="5" data-name="송뢰가 울릴 무렵">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12503/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">송뢰가 울릴 무렵</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/redhorn-stonethresher/" data-weapon-id="12510" data-type="Trọng Kiếm" data-rarity="5" data-name="쇄석의 붉은 뿔">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12510/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">쇄석의 붉은 뿔</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/calamity-queller/" data-weapon-id="13507" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="식재">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13507/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">식재</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/lightbearing-moonshard/" data-weapon-id="11519" data-type="Kiếm Đơn" data-rarity="5" data-name="신월의 달빛">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11519/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">신월의 달빛</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/silvershower-heartstrings/" data-weapon-id="15513" data-type="Cung" data-rarity="5" data-name="심금을 울리는 하얀 비">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">심금을 울리는 하얀 비</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/amos-bow/" data-weapon-id="15502" data-type="Cung" data-rarity="5" data-name="아모스의 활">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">아모스의 활</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/mistsplitter-reforged/" data-weapon-id="11509" data-type="Kiếm Đơn" data-rarity="5" data-name="안개를 가르는 회광">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11509/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">안개를 가르는 회광</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/aqua-simulacra/" data-weapon-id="15508" data-type="Cung" data-rarity="5" data-name="약수">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15508/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">약수</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-daybreak-chronicles/" data-weapon-id="15515" data-type="Cung" data-rarity="5" data-name="여명이 트는 역사">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">여명이 트는 역사</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/tome-of-the-eternal-flow/" data-weapon-id="14514" data-type="Pháp Khí" data-rarity="5" data-name="영원히 샘솟는 법전">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">영원히 샘솟는 법전</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/engulfing-lightning/" data-weapon-id="13509" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="예초의 번개">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13509/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">예초의 번개</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/freedom-sworn/" data-weapon-id="11503" data-type="Kiếm Đơn" data-rarity="5" data-name="오래된 자유의 서약">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11503/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">오래된 자유의 서약</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/uraku-misugiri/" data-weapon-id="11514" data-type="Kiếm Đơn" data-rarity="5" data-name="우라쿠의 미스기리">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">우라쿠의 미스기리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/angelos-heptades/" data-weapon-id="14523" data-type="Pháp Khí" data-rarity="5" data-name="일곱빛 계시">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14523/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">일곱빛 계시</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/light-of-foliar-incision/" data-weapon-id="11512" data-type="Kiếm Đơn" data-rarity="5" data-name="잎을 가르는 빛">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">잎을 가르는 빛</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/disaster-and-remorse/" data-weapon-id="13517" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="재앙">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13517/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">재앙</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/staff-of-the-scarlet-sands/" data-weapon-id="13511" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="적색 사막의 지팡이">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">적색 사막의 지팡이</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/elegy-for-the-end/" data-weapon-id="15503" data-type="Cung" data-rarity="5" data-name="종말 탄식의 노래">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15503/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">종말 탄식의 노래</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/reliquary-of-truth/" data-weapon-id="14521" data-type="Pháp Khí" data-rarity="5" data-name="진실의 함">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14521/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">진실의 함</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/summit-shaper/" data-weapon-id="11504" data-type="Kiếm Đơn" data-rarity="5" data-name="참봉의 칼날">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11504/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">참봉의 칼날</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/azurelight/" data-weapon-id="11517" data-type="Kiếm Đơn" data-rarity="5" data-name="창백한 섬광">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11517/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">창백한 섬광</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/skyward-blade/" data-weapon-id="11502" data-type="Kiếm Đơn" data-rarity="5" data-name="천공의 검">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">천공의 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/skyward-pride/" data-weapon-id="12501" data-type="Trọng Kiếm" data-rarity="5" data-name="천공의 긍지">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">천공의 긍지</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/skyward-harp/" data-weapon-id="15501" data-type="Cung" data-rarity="5" data-name="천공의 날개">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">천공의 날개</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/skyward-atlas/" data-weapon-id="14501" data-type="Pháp Khí" data-rarity="5" data-name="천공의 두루마리">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">천공의 두루마리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/skyward-spine/" data-weapon-id="13502" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="천공의 마루">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">천공의 마루</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/a-teaspoon-of-transcendence/" data-weapon-id="12516" data-type="Trọng Kiếm" data-rarity="5" data-name="초월의 열쇠">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">초월의 열쇠</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-first-great-magic/" data-weapon-id="15512" data-type="Cung" data-rarity="5" data-name="최초의 대마술">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">최초의 대마술</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/kaguras-verity/" data-weapon-id="14509" data-type="Pháp Khí" data-rarity="5" data-name="카구라의 진의">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14509/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">카구라의 진의</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/a-thousand-blazing-suns/" data-weapon-id="12514" data-type="Trọng Kiếm" data-rarity="5" data-name="타오르는 천 개의 태양">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">타오르는 천 개의 태양</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/tulaytullahs-remembrance/" data-weapon-id="14512" data-type="Pháp Khí" data-rarity="5" data-name="툴레이툴라의 기억">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">툴레이툴라의 기억</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/fractured-halo/" data-weapon-id="13515" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="파멸의 빛고리">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">파멸의 빛고리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/verdict/" data-weapon-id="12512" data-type="Trọng Kiếm" data-rarity="5" data-name="판정">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">판정</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/bloodsoaked-ruins/" data-weapon-id="13516" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="피로 물든 성">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">피로 물든 성</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/haran-geppaku-futsu/" data-weapon-id="11510" data-type="Kiếm Đơn" data-rarity="5" data-name="하란 월백의 후츠">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11510/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">하란 월백의 후츠</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/cranes-echoing-call/" data-weapon-id="14515" data-type="Pháp Khí" data-rarity="5" data-name="학의 여음">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">학의 여음</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/cashflow-supervision/" data-weapon-id="14513" data-type="Pháp Khí" data-rarity="5" data-name="현금 흐름 감독">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">현금 흐름 감독</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/staff-of-homa/" data-weapon-id="13501" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="호마의 지팡이">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">호마의 지팡이</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/primordial-jade-winged-spear/" data-weapon-id="13505" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="화박연">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13505/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">화박연</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/ultimate-overlords-mega-magic-sword/" data-weapon-id="12426" data-type="Trọng Kiếm" data-rarity="4" data-name="「슈퍼 울트라 패왕 마검」">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">「슈퍼 울트라 패왕 마검」</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-catch/" data-weapon-id="13415" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="「어획」">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">「어획」</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sword-of-descension/" data-weapon-id="11412" data-type="Kiếm Đơn" data-rarity="4" data-name="강림의 검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11412/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">강림의 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/iron-sting/" data-weapon-id="11407" data-type="Kiếm Đơn" data-rarity="4" data-name="강철 벌침">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">강철 벌침</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/compound-bow/" data-weapon-id="15407" data-type="Cung" data-rarity="4" data-name="강철궁">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">강철궁</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/range-gauge/" data-weapon-id="15427" data-type="Cung" data-rarity="4" data-name="거리 측정기">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">거리 측정기</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/blackmarrow-lantern/" data-weapon-id="14433" data-type="Pháp Khí" data-rarity="4" data-name="검은 골수의 등불">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">검은 골수의 등불</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sturdy-bone/" data-weapon-id="11430" data-type="Kiếm Đơn" data-rarity="4" data-name="견고한 골검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">견고한 골검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/deathmatch/" data-weapon-id="13405" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="결투의 창">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">결투의 창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/song-of-stillness/" data-weapon-id="15425" data-type="Cung" data-rarity="4" data-name="고요한 노래">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">고요한 노래</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/serenitys-call/" data-weapon-id="11433" data-type="Kiếm Đơn" data-rarity="4" data-name="고요한 휘파람">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">고요한 휘파람</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/prototype-archaic/" data-weapon-id="12406" data-type="Trọng Kiếm" data-rarity="4" data-name="고화 프로토타입">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">고화 프로토타입</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/rightful-reward/" data-weapon-id="13425" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="공의의 보상">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">공의의 보상</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/blade-of-atonement/" data-weapon-id="12436" data-type="Trọng Kiếm" data-rarity="4" data-name="구원의 대검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">구원의 대검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/snare-hook/" data-weapon-id="15433" data-type="Cung" data-rarity="4" data-name="그물을 뚫는 화살">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">그물을 뚫는 화살</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/etherlight-spindlelute/" data-weapon-id="14432" data-type="Pháp Khí" data-rarity="4" data-name="금빛 류트">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">금빛 류트</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/mailed-flower/" data-weapon-id="12418" data-type="Trọng Kiếm" data-rarity="4" data-name="꽃 장식 대검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12418/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">꽃 장식 대검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/toukabou-shigure/" data-weapon-id="11422" data-type="Kiếm Đơn" data-rarity="4" data-name="꽃잎비">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11422/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">꽃잎비</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/flower-wreathed-feathers/" data-weapon-id="15430" data-type="Cung" data-rarity="4" data-name="꽃장식 깃">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">꽃장식 깃</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/ibis-piercer/" data-weapon-id="15419" data-type="Cung" data-rarity="4" data-name="꿰뚫는 따오기 부리">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15419/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">꿰뚫는 따오기 부리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/ballad-of-the-boundless-blue/" data-weapon-id="14426" data-type="Pháp Khí" data-rarity="4" data-name="끝없는 쪽빛의 노래">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">끝없는 쪽빛의 노래</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/missive-windspear/" data-weapon-id="13419" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="날카로운 바람의 서신">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13419/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">날카로운 바람의 서신</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/fading-twilight/" data-weapon-id="15411" data-type="Cung" data-rarity="4" data-name="노을">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15411/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">노을</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/rust/" data-weapon-id="15405" data-type="Cung" data-rarity="4" data-name="녹슨 활">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">녹슨 활</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/wolf-fang/" data-weapon-id="11424" data-type="Kiếm Đơn" data-rarity="4" data-name="늑대 송곳니">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">늑대 송곳니</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/moonpiercer/" data-weapon-id="13417" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="달을 꿰뚫는 화살">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">달을 꿰뚫는 화살</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/moonweavers-dawn/" data-weapon-id="11434" data-type="Kiếm Đơn" data-rarity="4" data-name="달을 엮는 자의 새벽빛">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11434/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">달을 엮는 자의 새벽빛</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/prototype-crescent/" data-weapon-id="15406" data-type="Cung" data-rarity="4" data-name="담월 프로토타입">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">담월 프로토타입</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/earth-shaker/" data-weapon-id="12431" data-type="Trọng Kiếm" data-rarity="4" data-name="대지를 울리는 자">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">대지를 울리는 자</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/talking-stick/" data-weapon-id="12424" data-type="Trọng Kiếm" data-rarity="4" data-name="대화봉">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">대화봉</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/dodoco-tales/" data-weapon-id="14413" data-type="Pháp Khí" data-rarity="4" data-name="도도코 이야기집">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14413/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">도도코 이야기집</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/waveriding-whirl/" data-weapon-id="14430" data-type="Pháp Khí" data-rarity="4" data-name="돌아오는 파도">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">돌아오는 파도</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/alley-hunter/" data-weapon-id="15410" data-type="Cung" data-rarity="4" data-name="뒷골목 사냥꾼">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15410/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">뒷골목 사냥꾼</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-alley-flash/" data-weapon-id="11410" data-type="Kiếm Đơn" data-rarity="4" data-name="뒷골목의 섬광">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11410/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">뒷골목의 섬광</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/wine-and-song/" data-weapon-id="14410" data-type="Pháp Khí" data-rarity="4" data-name="뒷골목의 술과 시">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14410/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">뒷골목의 술과 시</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/scion-of-the-blazing-sun/" data-weapon-id="15424" data-type="Cung" data-rarity="4" data-name="뜨거운 태양의 후손">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">뜨거운 태양의 후손</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/mappa-mare/" data-weapon-id="14407" data-type="Pháp Khí" data-rarity="4" data-name="만국 항해용해도">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">만국 항해용해도</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/master-key/" data-weapon-id="12433" data-type="Trọng Kiếm" data-rarity="4" data-name="만능 열쇠">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">만능 열쇠</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/oathsworn-eye/" data-weapon-id="14415" data-type="Pháp Khí" data-rarity="4" data-name="맹세의 눈동자">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">맹세의 눈동자</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/end-of-the-line/" data-weapon-id="15418" data-type="Cung" data-rarity="4" data-name="메마른 연못">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15418/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">메마른 연못</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/mouuns-moon/" data-weapon-id="15416" data-type="Cung" data-rarity="4" data-name="모운의 달">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">모운의 달</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/rainbow-serpents-rain-bow/" data-weapon-id="15434" data-type="Cung" data-rarity="4" data-name="무지개뱀의 현">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15434/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">무지개뱀의 현</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/footprint-of-the-rainbow/" data-weapon-id="13431" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="무지개의 행적">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">무지개의 행적</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/makhaira-aquamarine/" data-weapon-id="12415" data-type="Trọng Kiếm" data-rarity="4" data-name="물빛 마카이라">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">물빛 마카이라</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/windblume-ode/" data-weapon-id="15413" data-type="Cung" data-rarity="4" data-name="바람 꽃의 노래">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15413/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">바람 꽃의 노래</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/wandering-evenstar/" data-weapon-id="14416" data-type="Pháp Khí" data-rarity="4" data-name="방랑하는 저녁별">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">방랑하는 저녁별</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/whiteblind/" data-weapon-id="12407" data-type="Trọng Kiếm" data-rarity="4" data-name="백영검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">백영검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-dockhands-assistant/" data-weapon-id="11427" data-type="Kiếm Đơn" data-rarity="4" data-name="뱃도랑 장검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">뱃도랑 장검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/prototype-starglitter/" data-weapon-id="13402" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="별의 낫 프로토타입">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">별의 낫 프로토타입</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/festering-desire/" data-weapon-id="11413" data-type="Kiếm Đơn" data-rarity="4" data-name="부식의 검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11413/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">부식의 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/emberwell/" data-weapon-id="11436" data-type="Kiếm Đơn" data-rarity="4" data-name="불꽃의 인도자">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">불꽃의 인도자</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/flame-forged-insight/" data-weapon-id="12432" data-type="Trọng Kiếm" data-rarity="4" data-name="불로 벼린 지혜">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">불로 벼린 지혜</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/rainslasher/" data-weapon-id="12405" data-type="Trọng Kiếm" data-rarity="4" data-name="빗물 베기">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">빗물 베기</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/chain-breaker/" data-weapon-id="15431" data-type="Cung" data-rarity="4" data-name="사슬 파괴자">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">사슬 파괴자</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/mountain-bracing-bolt/" data-weapon-id="13430" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="산을 고정하는 못">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">산을 고정하는 못</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/frostbreath/" data-weapon-id="13435" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="서리 숨결">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">서리 숨결</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/covenant-of-frost-and-snow/" data-weapon-id="15436" data-type="Cung" data-rarity="4" data-name="서리의 서약">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">서리의 서약</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/dawning-frost/" data-weapon-id="14434" data-type="Pháp Khí" data-rarity="4" data-name="서릿빛 새벽">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14434/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">서릿빛 새벽</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/snow-tombed-starsilver/" data-weapon-id="12411" data-type="Trọng Kiếm" data-rarity="4" data-name="설장의 성은">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12411/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">설장의 성은</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/eye-of-perception/" data-weapon-id="14409" data-type="Pháp Khí" data-rarity="4" data-name="소심">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">소심</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sword-of-narzissenkreuz/" data-weapon-id="11428" data-type="Kiếm Đơn" data-rarity="4" data-name="수선화 십자검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11428/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">수선화 십자검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/song-of-the-vigil/" data-weapon-id="13436" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="수호의 노래">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">수호의 노래</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/fruitful-hook/" data-weapon-id="12430" data-type="Trọng Kiếm" data-rarity="4" data-name="수확의 갈고리">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">수확의 갈고리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/flowing-purity/" data-weapon-id="14425" data-type="Pháp Khí" data-rarity="4" data-name="순수한 달빛 물결">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">순수한 달빛 물결</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/forest-regalia/" data-weapon-id="12417" data-type="Trọng Kiếm" data-rarity="4" data-name="숲의 리게일리어">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">숲의 리게일리어</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/tamayuratei-no-ohanashi/" data-weapon-id="13432" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="쉼터의 이야기꾼">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">쉼터의 이야기꾼</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-bell/" data-weapon-id="12402" data-type="Trọng Kiếm" data-rarity="4" data-name="시간의 검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">시간의 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sacrificers-staff/" data-weapon-id="13434" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="신성한 제사의 지팡이">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13434/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">신성한 제사의 지팡이</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/amenoma-kageuchi/" data-weapon-id="11414" data-type="Kiếm Đơn" data-rarity="4" data-name="아메노마 카게우치가타나">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">아메노마 카게우치가타나</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/akuoumaru/" data-weapon-id="12416" data-type="Trọng Kiếm" data-rarity="4" data-name="아쿠오마루">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">아쿠오마루</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/ring-of-yaxche/" data-weapon-id="14431" data-type="Pháp Khí" data-rarity="4" data-name="약스체의 고리">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">약스체의 고리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/calamity-of-eshu/" data-weapon-id="11432" data-type="Kiếm Đơn" data-rarity="4" data-name="에슈의 재앙">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">에슈의 재앙</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/flute-of-ezpitzal/" data-weapon-id="11431" data-type="Kiếm Đơn" data-rarity="4" data-name="에스피찰의 피리">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">에스피찰의 피리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/jade-vista/" data-weapon-id="15435" data-type="Cung" data-rarity="4" data-name="옥빛 장궁">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">옥빛 장궁</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/clash-of-kings/" data-weapon-id="14435" data-type="Pháp Khí" data-rarity="4" data-name="왕들의 대국">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">왕들의 대국</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/royal-greatsword/" data-weapon-id="12404" data-type="Trọng Kiếm" data-rarity="4" data-name="왕실의 대검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">왕실의 대검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/royal-grimoire/" data-weapon-id="14404" data-type="Pháp Khí" data-rarity="4" data-name="왕실의 비전록">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">왕실의 비전록</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/royal-longsword/" data-weapon-id="11404" data-type="Kiếm Đơn" data-rarity="4" data-name="왕실의 장검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">왕실의 장검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/royal-bow/" data-weapon-id="15404" data-type="Cung" data-rarity="4" data-name="왕실의 장궁">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">왕실의 장궁</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/royal-spear/" data-weapon-id="13408" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="왕실의 장창">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">왕실의 장창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/kings-squire/" data-weapon-id="15417" data-type="Cung" data-rarity="4" data-name="왕의 측근">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">왕의 측근</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/dragonspine-spear/" data-weapon-id="13409" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="용의 척추">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">용의 척추</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/lions-roar/" data-weapon-id="11405" data-type="Kiếm Đơn" data-rarity="4" data-name="용의 포효">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">용의 포효</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/dragons-bane/" data-weapon-id="13401" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="용학살창">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">용학살창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sapwood-blade/" data-weapon-id="11417" data-type="Kiếm Đơn" data-rarity="4" data-name="원목 검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">원목 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/dialogues-of-the-desert-sages/" data-weapon-id="13426" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="위대한 사막 현자의 대답">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">위대한 사막 현자의 대답</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/mitternachts-waltz/" data-weapon-id="15412" data-type="Cung" data-rarity="4" data-name="유야의 왈츠">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15412/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">유야의 왈츠</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/crescent-pike/" data-weapon-id="13403" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="유월창">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">유월창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-widsith/" data-weapon-id="14402" data-type="Pháp Khí" data-rarity="4" data-name="음유시인의 악장">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">음유시인의 악장</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/heretics-molten-blade/" data-weapon-id="11435" data-type="Kiếm Đơn" data-rarity="4" data-name="이단을 가르는 불꽃">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">이단을 가르는 불꽃</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/serpent-spine/" data-weapon-id="12409" data-type="Trọng Kiếm" data-rarity="4" data-name="이무기 검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">이무기 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/frostbearer/" data-weapon-id="14412" data-type="Pháp Khí" data-rarity="4" data-name="인동의 열매">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14412/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">인동의 열매</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/solar-pearl/" data-weapon-id="14405" data-type="Pháp Khí" data-rarity="4" data-name="일월의 정수">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">일월의 정수</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/fleuve-cendre-ferryman/" data-weapon-id="11426" data-type="Kiếm Đơn" data-rarity="4" data-name="잿빛의 강 뱃사공">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">잿빛의 강 뱃사공</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-stringless/" data-weapon-id="15402" data-type="Cung" data-rarity="4" data-name="절현">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">절현</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sacrificial-greatsword/" data-weapon-id="12403" data-type="Trọng Kiếm" data-rarity="4" data-name="제례 대검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">제례 대검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sacrificial-sword/" data-weapon-id="11403" data-type="Kiếm Đơn" data-rarity="4" data-name="제례검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">제례검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sacrificial-fragments/" data-weapon-id="14403" data-type="Pháp Khí" data-rarity="4" data-name="제례의 악장">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">제례의 악장</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sacrificial-bow/" data-weapon-id="15403" data-type="Cung" data-rarity="4" data-name="제례활">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">제례활</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sacrificial-jade/" data-weapon-id="14424" data-type="Pháp Khí" data-rarity="4" data-name="제사의 옥">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">제사의 옥</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/cinnabar-spindle/" data-weapon-id="11415" data-type="Kiếm Đơn" data-rarity="4" data-name="진사의 방추">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">진사의 방추</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/luxurious-sea-lord/" data-weapon-id="12412" data-type="Trọng Kiếm" data-rarity="4" data-name="진주를 문 해황">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12412/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">진주를 문 해황</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/prototype-rancour/" data-weapon-id="11406" data-type="Kiếm Đơn" data-rarity="4" data-name="참암 프로토타입">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">참암 프로토타입</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/prospectors-shovel/" data-weapon-id="13433" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="채굴의 삽">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">채굴의 삽</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/lithic-blade/" data-weapon-id="12410" data-type="Trọng Kiếm" data-rarity="4" data-name="천암고검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12410/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">천암고검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/lithic-spear/" data-weapon-id="13406" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="천암장창">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">천암장창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-viridescent-hunt/" data-weapon-id="15409" data-type="Cung" data-rarity="4" data-name="청록의 사냥활">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">청록의 사냥활</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/cloudforged/" data-weapon-id="15426" data-type="Cung" data-rarity="4" data-name="축운">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">축운</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/fruit-of-fulfillment/" data-weapon-id="14417" data-type="Pháp Khí" data-rarity="4" data-name="충만의 열매">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">충만의 열매</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/echoes-of-the-heart/" data-weapon-id="14436" data-type="Pháp Khí" data-rarity="4" data-name="충성의 메아리">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">충성의 메아리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-black-sword/" data-weapon-id="11409" data-type="Kiếm Đơn" data-rarity="4" data-name="칠흑검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">칠흑검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sequence-of-solitude/" data-weapon-id="15432" data-type="Cung" data-rarity="4" data-name="침묵의 사격">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">침묵의 사격</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/kagotsurube-isshin/" data-weapon-id="11416" data-type="Kiếm Đơn" data-rarity="4" data-name="카고츠루베 잇신">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">카고츠루베 잇신</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/katsuragikiri-nagamasa/" data-weapon-id="12414" data-type="Trọng Kiếm" data-rarity="4" data-name="카츠라기를 벤 나가마사">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">카츠라기를 벤 나가마사</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/xiphos-moonlight/" data-weapon-id="11418" data-type="Kiếm Đơn" data-rarity="4" data-name="크시포스의 달빛">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11418/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">크시포스의 달빛</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/kitain-cross-spear/" data-weapon-id="13414" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="키타인 십자창">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">키타인 십자창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/prospectors-drill/" data-weapon-id="13427" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="탐사용 드릴">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">탐사용 드릴</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/tidal-shadow/" data-weapon-id="12425" data-type="Trọng Kiếm" data-rarity="4" data-name="파도 그림자 대검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">파도 그림자 대검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/wavebreakers-fin/" data-weapon-id="13416" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="파도 베는 지느러미">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">파도 베는 지느러미</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/hamayumi/" data-weapon-id="15414" data-type="Cung" data-rarity="4" data-name="파마궁">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">파마궁</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/favonius-sword/" data-weapon-id="11401" data-type="Kiếm Đơn" data-rarity="4" data-name="페보니우스 검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">페보니우스 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/favonius-greatsword/" data-weapon-id="12401" data-type="Trọng Kiếm" data-rarity="4" data-name="페보니우스 대검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">페보니우스 대검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/favonius-codex/" data-weapon-id="14401" data-type="Pháp Khí" data-rarity="4" data-name="페보니우스 비전">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">페보니우스 비전</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/favonius-lance/" data-weapon-id="13407" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="페보니우스 장창">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">페보니우스 장창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/favonius-warbow/" data-weapon-id="15401" data-type="Cung" data-rarity="4" data-name="페보니우스 활">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">페보니우스 활</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/predator/" data-weapon-id="15415" data-type="Cung" data-rarity="4" data-name="포식자">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">포식자</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/ash-graven-drinking-horn/" data-weapon-id="14427" data-type="Pháp Khí" data-rarity="4" data-name="푸른 문양 뿔잔">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">푸른 문양 뿔잔</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/the-flute/" data-weapon-id="11402" data-type="Kiếm Đơn" data-rarity="4" data-name="피리검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">피리검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/hakushin-ring/" data-weapon-id="14414" data-type="Pháp Khí" data-rarity="4" data-name="하쿠신의 고리">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">하쿠신의 고리</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/finale-of-the-deep/" data-weapon-id="11425" data-type="Kiếm Đơn" data-rarity="4" data-name="해연의 피날레">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">해연의 피날레</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/ballad-of-the-fjords/" data-weapon-id="13424" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="협만의 노래">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">협만의 노래</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/prototype-amber/" data-weapon-id="14406" data-type="Pháp Khí" data-rarity="4" data-name="황금 호박 프로토타입">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">황금 호박 프로토타입</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/forged-by-the-golden-melody/" data-weapon-id="12435" data-type="Trọng Kiếm" data-rarity="4" data-name="황금빛 선율">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">황금빛 선율</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/portable-power-saw/" data-weapon-id="12427" data-type="Trọng Kiếm" data-rarity="4" data-name="휴대용 체인톱">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">휴대용 체인톱</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/blackcliff-warbow/" data-weapon-id="15408" data-type="Cung" data-rarity="4" data-name="흑암 배틀 보우">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">흑암 배틀 보우</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/blackcliff-longsword/" data-weapon-id="11408" data-type="Kiếm Đơn" data-rarity="4" data-name="흑암 장검">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">흑암 장검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/blackcliff-agate/" data-weapon-id="14408" data-type="Pháp Khí" data-rarity="4" data-name="흑암 홍옥">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">흑암 홍옥</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/blackcliff-slasher/" data-weapon-id="12408" data-type="Trọng Kiếm" data-rarity="4" data-name="흑암참도">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">흑암참도</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/blackcliff-pole/" data-weapon-id="13404" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="흑암창">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">흑암창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/twin-nephrite/" data-weapon-id="14305" data-type="Pháp Khí" data-rarity="3" data-name="1급 보옥">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14305/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">1급 보옥</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/ferrous-shadow/" data-weapon-id="12301" data-type="Trọng Kiếm" data-rarity="3" data-name="강철의 그림자">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">강철의 그림자</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/recurve-bow/" data-weapon-id="15303" data-type="Cung" data-rarity="3" data-name="곡궁">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">곡궁</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/raven-bow/" data-weapon-id="15301" data-type="Cung" data-rarity="3" data-name="까마귀깃 활">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">까마귀깃 활</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/bloodtainted-greatsword/" data-weapon-id="12302" data-type="Trọng Kiếm" data-rarity="3" data-name="드래곤 블러드 소드">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">드래곤 블러드 소드</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/thrilling-tales-of-dragon-slayers/" data-weapon-id="14302" data-type="Pháp Khí" data-rarity="3" data-name="드래곤 슬레이어 영웅담">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">드래곤 슬레이어 영웅담</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/magic-guide/" data-weapon-id="14301" data-type="Pháp Khí" data-rarity="3" data-name="마도 서론">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">마도 서론</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/halberd/" data-weapon-id="13302" data-type="Vũ Khí Cán Dài" data-rarity="3" data-name="미늘창">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/13302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">미늘창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/white-tassel/" data-weapon-id="13301" data-type="Vũ Khí Cán Dài" data-rarity="3" data-name="백술창">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/13301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">백술창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/white-iron-greatsword/" data-weapon-id="12303" data-type="Trọng Kiếm" data-rarity="3" data-name="백철 대검">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">백철 대검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/skyrider-greatsword/" data-weapon-id="12306" data-type="Trọng Kiếm" data-rarity="3" data-name="비천대어검">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12306/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">비천대어검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/skyrider-sword/" data-weapon-id="11306" data-type="Kiếm Đơn" data-rarity="3" data-name="비천어검">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11306/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">비천어검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/emerald-orb/" data-weapon-id="14304" data-type="Pháp Khí" data-rarity="3" data-name="비취 오브">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14304/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">비취 오브</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/sharpshooters-oath/" data-weapon-id="15302" data-type="Cung" data-rarity="3" data-name="신궁의 서약">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">신궁의 서약</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/dark-iron-sword/" data-weapon-id="11304" data-type="Kiếm Đơn" data-rarity="3" data-name="암철검">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11304/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">암철검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/harbinger-of-dawn/" data-weapon-id="11302" data-type="Kiếm Đơn" data-rarity="3" data-name="여명신검">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">여명신검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/travelers-handy-sword/" data-weapon-id="11303" data-type="Kiếm Đơn" data-rarity="3" data-name="여행자의 검">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">여행자의 검</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/otherworldly-story/" data-weapon-id="14303" data-type="Pháp Khí" data-rarity="3" data-name="이세계 여행기">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">이세계 여행기</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/messenger/" data-weapon-id="15305" data-type="Cung" data-rarity="3" data-name="전령">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15305/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">전령</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/cool-steel/" data-weapon-id="11301" data-type="Kiếm Đơn" data-rarity="3" data-name="차가운 칼날">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">차가운 칼날</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/slingshot/" data-weapon-id="15304" data-type="Cung" data-rarity="3" data-name="탄궁">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15304/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">탄궁</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/debate-club/" data-weapon-id="12305" data-type="Trọng Kiếm" data-rarity="3" data-name="훌륭한 대화수단">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12305/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">훌륭한 대화수단</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/black-tassel/" data-weapon-id="13303" data-type="Vũ Khí Cán Dài" data-rarity="3" data-name="흑술창">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/13303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">흑술창</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/ko/weapon-info/fillet-blade/" data-weapon-id="11305" data-type="Kiếm Đơn" data-rarity="3" data-name="흘호 생선회칼">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11305/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">흘호 생선회칼</span>
+            </a></div></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">비공식 팬메이드 도구입니다. HoYoverse/miHoYo와 제휴하거나 승인받지 않았습니다. 원신 및 관련된 모든 명칭, 캐릭터, 리소스는 HoYoverse/miHoYo의 상표 및 저작물입니다.</div>
+        <div class="site-footer-links"><a href="privacy.html">개인정보처리방침</a> • <a href="terms.html">이용약관</a> • <a href="contact.html">문의하기</a> • <a href="credits.html">크레딧</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

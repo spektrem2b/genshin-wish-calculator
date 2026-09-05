@@ -1,0 +1,52 @@
+{
+  "id": 12512,
+  "name": {
+    "EN": "Verdict",
+    "CHS": "裁断",
+    "CHT": "裁斷",
+    "DE": "Urteilsspruch",
+    "ES": "Sentenciadora",
+    "FR": "Condamneur",
+    "ID": "Verdict",
+    "IT": "Verdetto",
+    "JP": "裁断",
+    "KR": "판정",
+    "PT": "Veredito",
+    "RU": "Вердикт",
+    "TH": "Verdict",
+    "TR": "Gereği Düşünüldü",
+    "VI": "Phán Quyết"
+  },
+  "nameEn": "Verdict",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "A weapon once used by a young maiden who forsook her family name, stained with the blood of enemies and loved ones both.",
+    "CHS": "曾经抛弃家名的贵族少女使用过的武器，过去沾染了敌人与挚爱的血液。",
+    "CHT": "曾經拋棄家名的貴族少女使用過的武器，過去沾染了敵人與摯愛的血液。",
+    "DE": "Eine Waffe, die von einem adligen Mädchen benutzt wurde, das einst seinen Familiennamen aufgab. Sie war mit dem Blut von Feinden und seinem Liebsten aus der Vergangenheit befleckt.",
+    "ES": "El arma que usó la joven aristócrata que renunció a su apellido. Está manchada con la sangre de enemigos y seres queridos.",
+    "FR": "Une arme autrefois utilisée par une jeune fille qui a abandonné son nom de famille, tachée du sang de ses ennemis et de ses proches.",
+    "ID": "Pedang yang pernah digunakan oleh gadis bangsawan yang meninggalkan nama keluarganya. Dulu, senjata ini ternoda oleh cairan darah dari musuh dan kekasihnya.",
+    "IT": "Un'arma che un tempo apparteneva a una fanciulla che rinnegò la propria famiglia. La lama è macchiata dal sangue dei nemici e di persone care.",
+    "JP": "家名を捨てた貴族の少女がかつて使っていた武器。敵と愛する者の血で染まったことがある。",
+    "KR": "가문의 이름을 버린 귀족 소녀가 사용했던 무기. 적과 연인의 피로 물들었던 과거를 지녔다",
+    "PT": "Uma espada usada por uma jovem dama que abandonou o nome de sua família, manchado com o sangue de inimigos e de familiares.",
+    "RU": "Когда-то этот клинок был оружием благородной девы, отказавшейся от своего рода. Запятнан кровью врагов и близких людей.",
+    "TH": "อาวุธที่ครั้งหนึ่งเคยถูกใช้งานโดยหญิงสาวผู้สูงศักดิ์ที่เคยละทิ้งตระกูลของเธอ ในอดีตมันเคยเปื้อนไปด้วยเลือดของศัตรูและคนที่รัก",
+    "TR": "Hem düşmanlarının hem sevdiklerinin kanıyla lekelenmiş soyadını geride bırakmayı tercih eden genç bir kadın tarafından kullanılan bir silah.",
+    "VI": "Vũ khí từng được thiếu nữ từ bỏ dòng họ của mình sử dụng, đã nhuốm qua máu của kẻ thù lẫn người yêu thương."
+  },
+  "icon": "generated/weapon-profiles/12512/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

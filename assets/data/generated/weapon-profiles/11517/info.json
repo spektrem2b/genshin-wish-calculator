@@ -1,0 +1,52 @@
+{
+  "id": 11517,
+  "name": {
+    "EN": "Azurelight",
+    "CHS": "苍耀",
+    "CHT": "蒼耀",
+    "DE": "Azurglanz",
+    "ES": "Fulgor Cerúleo",
+    "FR": "Éclazur",
+    "ID": "Azurelight",
+    "IT": "Luce azzurra",
+    "JP": "蒼耀",
+    "KR": "창백한 섬광",
+    "PT": "Azul Brilhante",
+    "RU": "Лазурное сияние",
+    "TH": "Azurelight",
+    "TR": "Turkuaz Işık",
+    "VI": "Thương Diệu"
+  },
+  "nameEn": "Azurelight",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "This blade was once pure and pristine as a white dawn star, but it has since been tinted a deep, dark blue.",
+    "CHS": "原本如同拂晓的白星般纯净的无垢之刃，如今已被染上幽蓝的黯色。",
+    "CHT": "原本如同拂曉的白星般純淨的無垢之刃，如今已被染上幽藍的黯色。",
+    "DE": "Die einst makellose Klinge, rein wie der weiße Morgenstern, ist nun von einem tiefen Blau verfärbt.",
+    "ES": "Una hoja de un filo puro e impoluto que solía brillar como una blanca estrella del alba. Ahora, sin embargo, posee un oscuro color azulado.",
+    "FR": "Une lame immaculée, qui brillait autrefois comme une étoile blanche à l'aube. Elle présente désormais une couleur bleuâtre.",
+    "ID": "Pedang yang awalnya murni dan jernih bagaikan bintang fajar yang putih, tapi kini telah berubah menjadi warna biru gelap.",
+    "IT": "Inizialmente, questa lama era pura e incontaminata come una bianca stella del mattino. Tuttavia, da allora, si è tinta d'un intenso colore blu.",
+    "JP": "かつては暁の白き星のように無垢であった刃。今では、青白く暗い光をたたえている。",
+    "KR": "창백한 여명의 별처럼 순수한 검. 지금은 짙푸른 어둠에 물들었다",
+    "PT": "A lâmina pura e imaculada, que outrora era tão límpida quanto uma estrela da manhã, agora está tingida de um sombrio azul escuro.",
+    "RU": "Клинок, некогда чистый и безупречный, как белая рассветная звезда, теперь окрасился в глубокий тёмно-синий цвет.",
+    "TH": "คมดาบที่แต่เดิมบริสุทธิ์ผุดผ่องดุจดาวประกายพรึกยามรุ่งอรุณ แต่ปัจจุบันถูกย้อมด้วยสีน้ำเงินเข้มอันมืดมิด",
+    "TR": "Bir zamanlar bembeyaz parlayan şafak yıldızı kadar saf ve temiz olan bu kılıç artık koyu mavi bir renge bürünmüş.",
+    "VI": "Lưỡi kiếm vốn thuần khiết như ngôi sao trắng ban mai, nay đã nhuốm màu xanh thẫm."
+  },
+  "icon": "generated/weapon-profiles/11517/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

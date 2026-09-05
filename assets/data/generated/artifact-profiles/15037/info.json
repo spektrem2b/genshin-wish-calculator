@@ -1,0 +1,69 @@
+{
+  "id": 15037,
+  "name": {
+    "EN": "Scroll of the Hero of Cinder City",
+    "CHS": "烬城勇者绘卷",
+    "CHT": "燼城勇者繪卷",
+    "DE": "Schriftrolle des Recken der aschenen Stadt",
+    "ES": "Pergamino del Héroe de la Ciudad de las Cenizas",
+    "FR": "Parchemin du héros de la Cité de braise",
+    "ID": "Scroll of the Hero of Cinder City",
+    "IT": "Rotolo dell'Eroe della Città di cenere",
+    "JP": "灰燼の都に立つ英雄の絵巻",
+    "KR": "잿더미성 용사의 두루마리",
+    "PT": "Pergaminho do Herói da Cidade Incandescente",
+    "RU": "Свиток героя сожжённого города",
+    "TH": "Scroll of the Hero of Cinder City",
+    "TR": "Kül Şehir Kahramanının Parşömeni",
+    "VI": "Bức Tranh Dũng Sĩ Thành Tro Tàn"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15037/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.",
+        "CHS": "队伍中附近的角色触发「夜魂迸发」时，装备者恢复6点元素能量。",
+        "CHT": "隊伍中附近的角色觸發「夜魂迸發」時，裝備者恢復6點元素能量。",
+        "DE": "Stellt dem Träger beim Auslösen von „Nachtseelenaufbruch“ durch ein Truppenmitglied in der Nähe 6 Punkte Elementarenergie wieder her.",
+        "ES": "#Cuando un personaje cercano del equipo causa una explosión noctámbula, el portador de este conjunto recupera 6 pts. de Energía Elemental.",
+        "FR": "Lorsqu'un membre de l'équipe à proximité déclenche une éruption noctâme, le personnage équipé de l'artéfact récupère 6 pts d'énergie élémentaire.",
+        "ID": "Saat anggota party di sekitar memicu Nightsoul Burst, akan memulihkan 6 Energy untuk Karakter yang mengenakan.",
+        "IT": "Quando un membro vicino del gruppo innesca un Impeto dell'Anima della Notte, il personaggio equipaggiato con questo set rigenera 6 di energia elementale.",
+        "JP": "付近にいるチーム内キャラクターが「夜魂バースト」を起こすと、装備者は元素エネルギーを6ポイント回復する。",
+        "KR": "주변에 있는 파티 내 캐릭터가 「밤혼 발산」 발동 시, 장착 캐릭터가 원소 에너지를 6pt 회복한다",
+        "PT": "Quando um membro da equipe próximo desencadeia uma Explosão do Espírito da Noite, o personagem que está com esse conjunto equipado regenera 6 de Energia Elemental.",
+        "RU": "Когда член отряда поблизости активирует Вспышку Ночного духа, экипированный персонаж восстанавливает 6 ед. энергии.",
+        "TH": "เมื่อตัวละครในทีมที่อยู่บริเวณใกล้เคียงทำให้เกิด \"วิญญาณราตรีปะทุ\" ผู้สวมใส่จะฟื้นฟูพลังงานธาตุ 6 หน่วย",
+        "TR": "Yakındaki bir grup üyesi bir Gece Ruhu Patlaması tetiklediğinde kuşanan karakter 6 Element Enerjisi yeniler.",
+        "VI": "Khi nhân vật trong đội gần đó kích hoạt Dạ Hồn Bùng Nổ, người trang bị sẽ hồi phục 6 điểm Năng Lượng Nguyên Tố."
+      },
+      "affixId": "2150370"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack.",
+        "CHS": "装备者触发其对应元素类型的相关反应后，队伍中附近的所有角色的该元素反应相关的元素伤害加成提升12%，持续15秒。若触发该效果时，装备者处于夜魂加持状态下，还将使队伍中附近的所有角色的与该元素反应相关的元素伤害加成提升28%，持续20秒。装备者处于后台时也能触发上述效果。同名圣遗物套装产生的伤害加成效果无法叠加。",
+        "CHT": "裝備者觸發其對應元素類型的相關反應後，隊伍中附近的所有角色的該元素反應相關的元素傷害加成提升12%，持續15秒。若觸發該效果時，裝備者處於夜魂加持狀態下，還將使隊伍中附近的所有角色的與該元素反應相關的元素傷害加成提升28%，持續20秒。裝備者處於後臺時也能觸發上述效果。同名聖遺物套裝產生的傷害加成效果無法疊加。",
+        "DE": "#Erhöht, nachdem der Träger eine Elementarreaktion, die mit seinem Elementartyp zusammenhängt, ausgelöst hat, den Elementar-SCH-Bonus der mit dieser Elementarreaktion zusammenhängenden Elemente aller Truppenmitglieder in der Nähe 15 s lang um 12 %. Erhöht, wenn der Träger beim Auslösen dieses Effekts im Zustand „Nachtseelensegen“ ist, den Elementar-SCH-Bonus der mit dieser Elementarreaktion zusammenhängenden Elemente aller Truppenmitglieder in der Nähe 20 s lang zusätzlich um 28 %. Dieser Effekt kann auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die SCH-Bonus-Effekte mehrerer gleicher Artefaktsets sind nicht stapelbar.",
+        "ES": "#Cuando el portador de este conjunto causa una Reacción Elemental relacionada con su tipo elemental, los Bonos de Daño Elemental relacionados con esa Reacción Elemental de todos los personajes cercanos del equipo aumentan en un 12% durante 15 s. Si el portador de este conjunto está en el estado de bendición noctámbula cuando se activa este efecto, los Bonos de Daño Elemental relacionados con esa Reacción Elemental de dichos personajes aumentan en un 28% adicional durante 20 s. Estos efectos se pueden activar incluso cuando el portador está en tu equipo pero no en uso. Los bonos de daño otorgados por este conjunto de artefactos no se pueden acumular con los de otro conjunto del mismo tipo.",
+        "FR": "Lorsque le personnage équipé de l'artéfact a déclenché une réaction liée à son type élémentaire, le bonus de DGT élémentaires des éléments concernés par cette réaction augmente de 12 % pendant 15 s pour tous les personnages de l'équipe à proximité. Si le personnage équipé de l'artéfact bénéficie d'une bénédiction noctâme lors du déclenchement de cet effet, le bonus de DGT élémentaires des éléments concernés par cette réaction augmente de 28 % supplémentaires pendant 20 s pour tous les personnages de l'équipe à proximité. L'effet ci-dessus peut être déclenché même si le personnage n'est pas déployé, et les effets d'augmentation des DGT accordés par les sets d'artéfacts du même nom ne se cumulent pas.",
+        "ID": "Setelah Karakter yang mengenakan memicu Reaksi Elemental yang berkaitan dengan Tipe Elemental dirinya, maka Elemental DMG Bonus seluruh anggota party di sekitar yang berkaitan dengan Tipe Elemental tersebut meningkat 12% selama 15 detik. Jika Karakter yang mengenakan berada dalam status Nightsoul's Blessing saat memicu efek di atas, maka Elemental DMG Bonus seluruh anggota party di sekitar yang berkaitan dengan Tipe Elemental tersebut meningkat lagi sebesar 28% selama 20 detik. Efek di atas dapat terpicu meskipun Karakter tidak berada di medan tempur. Bonus DMG dari Set Artefak dengan nama yang sama tidak dapat ditumpuk.",
+        "IT": "#Quando il personaggio che equipaggia il set innesca una reazione legata al proprio tipo elementale, tutti i membri del gruppo vicini che possiedono un tipo elementale correlato alla suddetta reazione ottengono un bonus DAN elementali pari a un 12% per 15 s. Se il personaggio che equipaggia il set è in stato di Grazia dell'Anima della Notte quando questo effetto si attiva, il suddetto bonus DAN elementali aumenta di un ulteriore 28% per 20 s. Il personaggio che equipaggia il set può attivare questo effetto anche se non si trova in campo. Il bonus DAN di più set di manufatti con lo stesso nome non si accumula.",
+        "JP": "装備者が自身の元素タイプの関連元素反応を起こした後、周囲のチーム全員の、該当元素反応の関連元素タイプのダメージ+12%、継続時間15秒。この効果を発動した時に、装備者が「夜魂の加護」状態にあった場合、周囲チーム全員の前述の元素タイプのダメージがさらに+28%、継続時間20秒。装備者が待機中でも、上記効果を発動できる。同名の聖遺物セットによるダメージアップ効果は重ね掛け不可。",
+        "KR": "장착 캐릭터가 상응하는 원소 타입 관련 반응 발동 후, 주변에 있는 파티 내 모든 캐릭터의 해당 원소 반응과 관련된 원소 피해 보너스가 12% 증가한다. 지속 시간: 15초. 해당 효과 발동 시 장착 캐릭터가 밤혼 가호 상태일 경우, 추가로 주변에 있는 파티 내 모든 캐릭터의 해당 원소 반응과 관련된 원소 피해 보너스가 28% 증가한다. 지속 시간: 20초. 장착 캐릭터가 대기 상태일 때도 상술한 효과를 발동할 수 있다. 동명의 성유물 세트가 생성한 피해 보너스 효과는 중첩되지 않는다",
+        "PT": "Quando o personagem que está com esse conjunto equipado desencadeia uma Reação Elemental que envolve seu Tipo Elemental, todos os membros próximos da equipe ganham 12% de Bônus de Dano Elemental relacionado à reação por 15s. Caso o personagem que está com esse conjunto equipado estiver no estado Bênção do Espírito da Noite ao desencadear esse efeito, todos os membros próximos da equipe ganham mais 28% de Bônus de Dano Elemental relacionado à reação por 20s. Esse efeito pode ser ativado mesmo quando o personagem que está com esse conjunto equipado está fora de campo. Bônus de Dano fornecidos por conjuntos de Artefatos com o mesmo nome não acumularão.",
+        "RU": "После того как экипированный персонаж активирует реакцию, связанную с его элементом, все члены отряда поблизости получают 12% бонус урона элементами, связанными с этой реакцией, на 15 сек. Если экипированный персонаж, активируя данный эффект, находится в состоянии Благословение Ночного духа, все персонажи отряда поблизости дополнительно получают 28% бонус урона элементами, связанными с этой реакцией, на 20 сек. Такой эффект может возникнуть, даже если персонаж не находится на поле боя. Бонусы одноимённых наборов артефактов не суммируются.",
+        "TH": "หลังจากผู้สวมใส่ทำให้เกิดปฏิกิริยาที่เกี่ยวกับประเภทของธาตุที่สอดคล้องกัน ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียง จะทำให้โบนัสความเสียหายธาตุของปฏิกิริยาธาตุที่เกี่ยวข้องเพิ่มขึ้น 12% เป็นเวลา 15 วินาที หากทำให้เกิดเอฟเฟกต์นี้ ในขณะที่ผู้สวมใส่อยู่ในสถานะพรวิญญาณราตรี จะทำให้โบนัสความเสียหายธาตุที่เกี่ยวข้องกับปฏิกิริยาธาตุของตัวละครในทีมที่อยู่ใกล้เคียงทั้งหมดเพิ่มขึ้นอีก 28% เป็นเวลา 20 วินาที โดยสามารถทำให้เกิดเอฟเฟกต์นี้ได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โบนัสความเสียหายที่เกิดจากเซ็ตอาร์ติแฟกต์เดียวกัน จะไม่ซ้อนทับกัน",
+        "TR": "Kuşanan karakter kendi Element Türünü içeren bir Element Tepkimesi tetiklediğinde 15 saniyeliğine yakındaki tüm grup üyeleri, tepkimeyle doğrudan ilişkili Element Türleri için %12 Element Hasarı Bonusu kazanır. Kuşanan karakter bu etkiyi tetiklediğinde Gece Ruhunun Lütfu durumundaysa yakındaki tüm grup üyeleri 20 saniyeliğine tepkimeyle doğrudan ilişkili Element Türleri için ilave %28 Element Hasarı Bonusu kazanır. Bu etki, karakter savaş alanında değilken de tetiklenebilir. Aynı ada sahip Yadigar Setlerinden gelen Hasar Bonusları birikmez.",
+        "VI": "Sau khi người trang bị kích hoạt phản ứng liên quan đến loại nguyên tố của họ, tất cả nhân vật trong đội ở gần tăng 12% buff Sát Thương Nguyên Tố của loại nguyên tố liên quan đến phản ứng đó, duy trì 15s. Nếu người trang bị đang trong trạng thái Dạ Hồn Chúc Phúc khi kích hoạt hiệu quả này, sẽ còn khiến tất cả nhân vật trong đội ở gần tăng thêm 28% buff Sát Thương Nguyên Tố của loại nguyên tố liên quan đến phản ứng đó, duy trì 20s. Người trang bị khi không ra trận cũng có thể kích hoạt hiệu quả nêu trên. Hiệu quả sát thương tăng thêm sản sinh từ bộ Thánh Di Vật cùng tên sẽ không thể cộng dồn."
+      },
+      "affixId": "2150371"
+    }
+  ]
+}

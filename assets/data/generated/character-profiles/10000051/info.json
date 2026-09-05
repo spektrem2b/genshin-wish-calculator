@@ -1,0 +1,137 @@
+{
+  "id": "10000051",
+  "name": {
+    "EN": "Eula",
+    "CHS": "优菈",
+    "CHT": "優菈",
+    "DE": "Eula",
+    "ES": "Eula",
+    "FR": "Eula",
+    "ID": "Eula",
+    "IT": "Eula",
+    "JP": "エウルア",
+    "KR": "유라",
+    "PT": "Eula",
+    "RU": "Эола",
+    "TH": "Eula",
+    "TR": "Eula",
+    "VI": "Eula"
+  },
+  "nameEn": "Eula",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 10,
+    "day": 25
+  },
+  "release": "2021-05-18T15:00:00",
+  "icon": "generated/character-profiles/10000051/avatar.webp",
+  "fullWish": "generated/character-profiles/10000051/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 18.8%",
+  "title": {
+    "EN": "Dance of the Shimmering Wave",
+    "CHS": "浪沫的旋舞",
+    "CHT": "浪沫的旋舞",
+    "DE": "Wirbeltanz der Gischt",
+    "ES": "La Bailarina de las Olas",
+    "FR": "Vague déferlante",
+    "ID": "Dance of the Shimmering Wave",
+    "IT": "Danza dell'onda luccicante",
+    "JP": "波沫のワルツ",
+    "KR": "물보라의 춤",
+    "PT": "Dança da Onda Quebradora",
+    "RU": "Танец морской пены",
+    "TH": "ระบำแห่งเกลียวคลื่น",
+    "TR": "Işıltılı Dalganın Dansı",
+    "VI": "Vũ Điệu Bọt Biển"
+  },
+  "description": {
+    "EN": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+    "CHS": "古老家族出身的「浪花骑士」，西风骑士团游击小队队长。身为旧贵族后裔却加入了堪称死对头的西风骑士团，该事件至今仍是蒙德一大谜团。",
+    "CHT": "古老家族出身的「浪花騎士」，西風騎士團游擊小隊隊長。身為舊貴族後裔卻加入了堪稱死對頭的西風騎士團，該事件至今仍是蒙德一大謎團。",
+    "DE": "Sie ist die „Gischtritterin“ aus einer uralten Familie und Truppenführerin der Freischärler des Ordo Favonius. Als ein Nachkomme der Aristokraten ist sie aber dem Ritterorden, dem Erzfeind der Aristokratie, beigetreten. Warum sie solch eine Entscheidung getroffen hat, bleibt eins der größten Rätsel von Mondstadt.",
+    "ES": "La Caballera de la Marea, procedente de una familia con un gran linaje y Capitana de la Compañía de Reconocimiento de los Caballeros de Favonius. Aunque es descendiente de la antigua aristocracia, se unió a los Caballeros de Favonius, sus archienemigos, algo que sigue siendo un gran enigma para toda Mondstadt hasta hoy en día.",
+    "FR": "Le « Chevalier aux Embruns », né de l'ancien Clan Lawrence, capitaine de l'unité de reconnaissance des chevaliers de l'Ordre de Favonius de Mondstadt. Que cette descendante de la noblesse d'antan ait rejoint les chevaliers de l'Ordre, l'ennemi jusqu'alors juré de la famille, demeure un mystère aux yeux de beaucoup.",
+    "ID": "Sang Spindrift Knight, keturunan keluarga bangsawan dan Kapten dari Pasukan Gerilya Knights of Favonius. Alasan kenapa seorang keturunan bangsawan kuno ingin bergabung dengan para Knight masih menjadi misteri di Mondstadt sampai saat ini.",
+    "IT": "Cavaliere dell'Onda danzante, discendente dell'antica aristocrazia e capitana della compagnia di ricognizione dei Cavalieri di Favonius. Il motivo per cui una giovane nobile abbia voluto unirsi ai Cavalieri rimane tuttora un grande mistero in tutta Mondstadt.",
+    "JP": "古き一族出身の「波花騎士」。同時に西風騎士団の遊撃小隊隊長でもある。旧貴族の末裔でありながら、敵対関係にある西風騎士団に入団した理由は、未だ謎に包まれている。",
+    "KR": "오래된 가문 출신의 「파도 기사」. 페보니우스 기사단의 유격대 대장이다. 옛 귀족의 후예인 그녀가 원수지간인 페보니우스 기사단에 입단한 이유는 지금까지도 몬드의 미스터리로 남아있다",
+    "PT": "A Cavaleira das Ondas, uma descendente da antiga aristocracia, e a Capitã de Reconhecimento dos Cavaleiros de Favonius. A razão pela qual uma descendente dos antigos nobres poderia se juntar aos Cavaleiros permanece um grande mistério em Mondstadt até os dias de hoje.",
+    "RU": "Рыцарь Морская пена из старинного рода аристократов Мондштадта, капитан разведывательного отряда рыцарей Ордо Фавониус. Будучи потомком древней аристократии, она присоединилась к рыцарям Ордо Фавониус, их заклятым врагам. Причины этого поступка и по сей день остаются загадкой для всего Мондштадта.",
+    "TH": "\"อัศวิน Spindrift\" จากตระกูลเก่าแก่ หัวหน้ากองสอดแนมของกองอัศวินแห่ง Favonius ทั้งที่เป็นถึงลูกหลานของชนชั้นสูง แต่เธอกลับเข้าร่วมกับกองอัศวินแห่ง Favonius ซึ่งถือเป็นศัตรูตัวฉกาจของตระกูล เหตุการณ์ดังกล่าวยังคงเป็นปริศนาของ Mondstadt มาจนทุกวันนี้",
+    "TR": "Dalgalar Şövalyesi, Favonius Keşif Bölüğü Şövalyelerinin Yüzbaşısı. Eski asillerin soyundan gelen birinin Şövalyelere ne sebeple katıldığı, bugüne kadar Mondstadt'ta büyük bir gizem olarak kaldı.",
+    "VI": "\"Kỵ Sĩ Sóng Nước\" xuất thân từ gia tộc cổ xưa, đội trưởng tiểu đội du kích thuộc Đội Kỵ Sĩ Tây Phong. Là hậu duệ của quý tộc cũ nhưng lại gia nhập Đội Kỵ Sĩ Tây Phong - kẻ thù không đội trời chung, sự việc này đến nay vẫn là một ẩn số lớn của Mondstadt."
+  },
+  "constellationName": {
+    "EN": "Aphros Delos",
+    "CHS": "浪沫座",
+    "CHT": "浪沫座",
+    "DE": "Aphros Delos",
+    "ES": "Aphros Delos",
+    "FR": "Aphros Delos",
+    "ID": "Aphros Delos",
+    "IT": "Aphros Delos",
+    "JP": "波沫座",
+    "KR": "물보라자리",
+    "PT": "Aphros Delos",
+    "RU": "Морская Пена",
+    "TH": "Aphros Delos",
+    "TR": "Deniz Köpüğü",
+    "VI": "Cung Lãng Mạt"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Suzie Yeung"
+    },
+    {
+      "lang": "CHS",
+      "va": "子音"
+    },
+    {
+      "lang": "JP",
+      "va": "佐藤利奈"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Hyeon-ji"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1029.5856,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.6266,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 58.45391,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

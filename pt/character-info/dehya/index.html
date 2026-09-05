@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="pt" data-active-tab="character-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dehya Build, Talents &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="Dehya talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:title" content="Dehya Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="Dehya talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/dehya/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Dehya Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Dehya talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/dehya/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/dehya/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/character-info/dehya/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/character-info/dehya/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/character-info/dehya/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/character-info/dehya/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/character-info/dehya/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/character-info/dehya/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/character-info/dehya/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/dehya/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/character-info/dehya/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/character-info/dehya/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/character-info/dehya/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/character-info/dehya/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/character-info/dehya/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/character-info/dehya/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/dehya/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br>Calculadora de Desejos</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Planejador de Desejos</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">Chances 4★</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Simulador</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Build</button>
+            <button type="button" id="tabInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Personagens</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Armas</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Outros</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">Configurações</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="ciCharacterSwitch" aria-label="Switch character" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="ciCharacterSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="ciContent">
+            
+          <div class="ci-hero">
+              <img class="ci-hero-portrait" src="assets/data/generated/character-profiles/10000079/full_wish.webp" alt="" data-gi-fallback="retry">
+              <div class="ci-hero-info">
+                  <div class="ci-hero-name">Dehya</div>
+                  <div class="ci-hero-title">"Leoa Flamejante"</div>
+                  <div class="ci-hero-stars">★★★★★</div>
+                  <div class="ci-hero-facts">
+                      
+          <div class="ci-hero-fact">
+              <svg class="ci-hero-fact-icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1600 1600"><path d="M796.266 87.882c10.9 11.6 43 55.6 69.2 95.1 44.7 67.2 60.6 119.1 48 156.7-8.1 24.1-23.2 42.5-60.1 73.3-11 9.3-23.2 20.2-27 24.2-27.2 29.3-51.8 69-60.3 97.6-5.4 18.2-6.5 26.1-6.5 44.7.1 15.1.4 18.1 2.7 27 3.4 12.9 13.5 33.1 22.4 45s28.5 31.5 40.3 40.2c11.275 8.319 19.2 12.499 19.2 12.499s-3.862-4.355-6.8-7.199c-11-10.8-26.6-32.6-32.9-46.2-17.6-38.3-14.6-82.1 8.7-125.8 17.5-32.9 47.7-68 83-96.5 3.674-2.948 14.083-10.22 24.934-17.586 14.548-9.874 32.02-20.386 32.02-20.386s.446-.528-5.754 22.872c-9.7 36.9-11.2 42.8-14.4 56.6-8.3 36.1-10.6 55.2-9.7 82.4.9 26.2 4.5 46.9 12.9 72.5 18.8 57.8 56.2 113.2 115.9 171.6 11.46 11.163 18.699 17.195 18.699 17.195s-.864-6.232-1.799-11.595c-2.2-12.7-9.3-30-17.8-43-2-3.1-10.9-15.3-19.8-27.2s-18.3-25.6-21-30.4c-9.4-17.4-16.8-39-20.6-60.5-2.842-13.862-2.428-40.377.5-53.4 5.6-27.7 21.5-61.4 48.5-102.5 3.484-5.3 8.052-11.201 12.085-15.838 4.185-4.812 9.41-8.946 9.41-8.946s.805.884 3.105 14.784c4.2 25.6 23.6 79.1 40.1 110.6 27.5 52.3 62.1 91.3 131 147.6 27.5 22.5 36 30.3 48.2 43.9 35.2 39.2 69 90.6 87 132.3 9.4 21.7 17.7 49.5 21 70.6 3.096 17.033 2.905 46.3 0 60.5-4.8 25.7-15.7 51.3-33.2 77.4-26.8 40.1-54.7 67.6-108.5 106.7-41.5 30.1-71.4 48.8-126 78.8-98.1 53.8-117.6 65.4-156.5 92.8-36.1 25.5-103.9 79.7-126.5 101.2-4.665 4.436-8.661 8.17-12.058 11.259-9.924 9.025-15.374 12.892-15.374 12.892s-9.177-7.455-19.69-16a3370 3370 0 0 1-9.378-7.65c-27.8-22.901-64.1-50.801-108-83-13.7-10.1-28.1-20.701-32-23.5-34.3-25.301-59.2-40.901-110.2-69.101-36.8-20.4-63.3-35.5-107.3-61.4-111.5-65.6-162.4-102.7-185.2-135-28.6-40.5-39.3-85.6-30.9-130.4 5.4-28.6 17.1-67.3 28.6-94.6 7.2-17.2 22.1-47 31.3-62.6 25.5-43.7 46.4-72.5 112.7-155.4 56.2-70.2 73.8-93.9 94.8-127.6 14.5-23.2 32-56.1 40.3-75.7 1.6-3.7 4-7.575 4-7.575s.4 6.875.8 14.075c1.7 32.2 7.7 57.4 20 83.3 20 42 55.6 79.1 107.6 111.7 34 21.3 69.3 38.1 134.7 64.3 13.4 5.3 25.377 10.805 25.377 10.805s-8.877.695-17.077.695c-49.6 0-105.3 13.2-149.5 35.3-87.4 43.7-142.2 117.9-158.2 214.2-1.4 8.5-1.8 16.3-1.8 34.5.1 21.7.3 24.5 2.8 36.2 5.3 25 14.5 48.6 27.4 70.3 9.5 16.2 15.3 24 32.2 43.8 7.8 9.3 14.835 17.918 14.835 17.918s-12.605-3.438-23.935-9.318c-9.6-4.8-23.1-13-35.6-21.6-5.3-3.6-14-9.5-19.2-13.1-102.6-70.2-147.7-157.3-128.9-248.7 8.9-42.9 29.8-85.3 62.1-125.8 7.6-9.5 14.124-18.098 14.124-18.098s-5.496 1.682-9.728 3.844c-4.204 2.148-9.209 5.063-13.296 7.854-15.4 10.5-47.7 37.1-59.8 49.2-35.5 35.4-57.2 74.7-65.1 118-2.6 14.1-2.6 49.7 0 64 5.1 28.1 13.5 52 25.4 72 5.9 10 19.4 27.4 29.3 37.9 27.5 29.1 63.1 53.7 122.9 85.1 10.7 5.6 29.2 15.3 41 21.5s28.9 15.4 38 20.5c9.1 5 43.5 23.5 76.5 41 72.5 38.5 86.9 47.2 147 89.5 16.927 11.925 27.63 19.421 34.4 24.022 8.388 5.7 10.378 7.411 10.378 7.411s5.453-3.469 11.943-7.713c7.585-4.96 18.424-12.106 30.28-19.92 22-14.6 55.5-36.7 74.5-49.3 54.6-36.1 67.8-43.9 148-87 103.7-55.8 161.5-90.1 189.5-112.6 17.9-14.3 37.4-35.2 48-51.4 9.6-14.7 20.4-38.7 26-58 3.9-13.7 5.5-25.5 5.5-42.1 0-16.7-1.4-26.6-5.8-41.9-9.5-32.4-27.1-60.4-56.7-90.1-16.1-16.2-25.9-24.7-41.9-36.1-4.368-3.098-10.143-6.921-15.702-10.454-9.334-5.932-19.297-11.562-19.297-11.562s2.76 6.977 6.054 15.162a935 935 0 0 0 4.244 10.354c18.1 43.8 27.8 77.9 32.7 115.7 2.997 21.962 2.997 55.479.1 70-4.2 26.8-11 48.3-23.2 73.1-31.2 63.3-87.3 115.2-167.4 154.8-59.2 29.3-114.6 45.4-176.1 51.2-32.45 2.257-65.268 2.575-88-1-32.6-4.7-74.8-16.7-106-30.1-11.6-5-36.9-18.1-46-24-30.3-19.4-52-42.2-64.6-68-18.5-38-15.7-80.2 7.8-114.2 17.5-25.4 46.3-43.1 77.8-47.9 13.2-2 21-1.8 46.7 1.1 10.582 1.23 18.367 1.926 23.836 3.084 5.643 1.194 10.48 4.01 10.48 4.01s-2.916 1.906-5.216 3.006c-4.5 2-24.6 18.2-33.4 26.9-11 10.9-22.8 29.7-29 46.2-19.3 51.3-4 108.7 36.6 137.2 24.4 17.1 59.7 28.6 99.4 32.2 15.4 1.5 53.7.5 67.1-1.6 15-2.3 38.5-8 56.7-13.6 52.5-16.2 93.1-39.1 123.3-69.4 20.3-20.3 35.8-44.5 45.9-71.7 19.5-52.4 14-119.1-14.5-178.7-7.4-15.5-14.4-26-26.2-39.3-5.1-5.7-12.7-14.4-16.9-19.3-26.7-31.4-58.6-55-106.8-79.1-24.2-12-41.1-19.3-96.4-41.8-81.4-33.1-109.5-46.7-143.6-69.6-54.2-36.3-87.9-83.4-100.2-140-2-9.2-2.717-17.265-2.694-32.305.024-14.682.794-23.595 2.694-31.995 8.5-38.4 26.4-71.2 68.1-125.2 48.6-62.9 67.5-90.7 84.5-124.5 20.2-40 33.1-85.4 36.1-126.7.4-4.8 1.354-11.915 1.354-11.915s3.046 1.715 10.446 9.515m-21.666 744.2c-9.4 1.4-33.934 8-44.634 11.5-4.1 1.4-12.2 5-18 8-29 15.1-52.6 38.5-72 71.4-4.087 6.955-8.823 15.74-12.247 22.559-3.026 6.025-5.26 11.993-5.26 11.993s5.607-2.852 11.007-5.452c18.6-9 39.2-15.7 61.5-19.8 7.3-1.3 15-1.7 33.5-1.8 20.7 0 25.6.3 35.7 2.3 36.8 7 66.2 22.5 90.9 47.9 20.9 21.5 33 45.3 38.1 74.8 2.8 16.3 2.1 38.3-1.5 52.6-4.8 18.5-12.4 33.1-23.6 45.3-3.987 4.331-6.25 7.658-6.25 7.658s5.522.605 16.152-3.529c5.813-2.085 12.719-5.036 19.798-8.529 106.5-52.4 137.6-111.5 103.5-196.5-21.3-53.1-60.3-89.9-114.6-108-18.9-6.3-34.2-9.5-59.7-12.5-11.5-1.4-42.566-1.5-52.366.1" style="fill:#ff6640"></path></svg>
+              <span class="ci-hero-fact-value">Pyro</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/weapon_types_icons/Icon_Claymore_type.webp" alt="" data-gi-fallback="hide">
+              <span class="ci-hero-fact-value">Claymore</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/region_icons/sumeru.webp" alt="" data-gi-fallback="swap" data-gi-fallback-src="assets/data/design/region_icons/unknown-region.webp">
+              <span class="ci-hero-fact-value">Sumeru</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Birthday</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">April 7</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Released</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">February 27, 2023</span>
+          </div>
+                  </div>
+                  <p class="ci-hero-desc">Membro dos "Eremitas", uma organização mercenária que vaga pelos desertos de Sumeru. Ela é corajosa, poderosa e tem uma excelente reputação entre os seus colegas Eremitas.</p>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Constellation</span> Mantichora &nbsp;•&nbsp; <span class="ci-hero-meta-label">Affiliation</span> Eremitas</div>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Voice Actors</span> EN: Amber May   ·   CN: 陈雨   ·   JP: 福原綾香   ·   KR: Kim Hyeon-sim</div>
+                  
+          <div class="ci-hero-guides">
+              <div class="ci-hero-guides-label">Guides</div>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://genshin-impact-helper-team.github.io/genshin-builds/en/dehya" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/genshin-builds-guide.webp" alt="">
+                  Genshin Builds
+              </a>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://www.prydwen.gg/genshin-impact/characters/dehya#build" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/prydwen-guide.webp" alt="">
+                  Prydwen
+              </a>
+              <div class="ci-hero-guides-row">
+                  <a class="ci-hero-guide-btn" href="https://www.icy-veins.com/genshin-impact/dehya-guide-best-builds" target="_blank" rel="noopener noreferrer" title="Icy Veins">
+                      <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/icy-veins-guide.webp" alt="">
+                      Icy Veins
+                  </a>
+              </div>
+          </div>
+                  
+          <div class="ci-hero-nav-label">Navigation</div>
+          <div class="ci-hero-nav">
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-talents">Talents</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-const">Constellations</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-passives">Passives</a>
+          </div>
+              </div>
+              <div class="ci-hero-side">
+                  <div class="ci-hero-stats">
+                      <div class="ci-hero-stats-head">
+                          <div class="ci-hero-stats-title">Base Stats</div>
+                          <div class="ci-stat-level-toggle" role="group" aria-label="Comparison level"><button type="button" class="ci-stat-level-btn active" data-stat-level="90">90</button><button type="button" class="ci-stat-level-btn" data-stat-level="95">95</button><button type="button" class="ci-stat-level-btn" data-stat-level="100">100</button></div>
+                      </div>
+                      <div id="ciBaseStatsBody"><div class="ci-stats">
+          <div class="ci-stats-row"><span>HP</span><span>1,220 → 10,664</span></div>
+          <div class="ci-stats-row"><span>ATK</span><span>21 → 181</span></div>
+          <div class="ci-stats-row"><span>DEF</span><span>49 → 427</span></div>
+          <div class="ci-stats-row"><span>Ascension Stat</span><span>HP% +28.8%</span></div></div></div>
+                  </div>
+                  <div class="ci-hero-materials">
+                      <div class="ci-hero-stats-title">Ascension Materials</div>
+                      <div class="ci-hero-mat-list">
+          <div class="ci-hero-mat-item" title="Gordura de Pupa de Areia">
+              <img src="assets/data/generated/shared-assets/materials/101222.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Gordura de Pupa de Areia</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Tetraedro da Luz Guiadora">
+              <img src="assets/data/generated/shared-assets/materials/113039.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Tetraedro da Luz Guiadora</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Gema de Ágata Agnidus">
+              <img src="assets/data/generated/shared-assets/materials/104114.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Gema de Ágata Agnidus</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Coroa da Sabedoria">
+              <img src="assets/data/generated/shared-assets/materials/104319.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Coroa da Sabedoria</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Cetim Vermelho">
+              <img src="assets/data/generated/shared-assets/materials/112067.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Cetim Vermelho</span>
+          </div></div>
+                  </div>
+              </div>
+          </div>
+            <div class="ci-layout">
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-layout">
+                        <div class="ci-talent-tabs">
+                            
+          <button type="button" class="ci-talent-tab active" data-talent-idx="0">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000016/skills/00_normal_attack.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Técnica da Espada Dourada</span>
+                  <span class="ci-talent-summary-type">Normal Attack</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="1">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000079/skills/01_skill.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Inferno Derretido</span>
+                  <span class="ci-talent-summary-type">Elemental Skill</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="2">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000079/skills/02_burst.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Mordida da Leoa</span>
+                  <span class="ci-talent-summary-type">Elemental Burst</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+                        </div>
+                        <div class="ci-talent-detail" id="ciTalentDetail">
+                            
+          <div class="ci-talent-detail-inner">
+              <div class="ci-talent-detail-flavor">
+                  <div class="ci-talent-flavor">Ataque Normal
+Realiza até 4 golpes consecutivos com seu Espadão e artes marciais.
+
+Ataque Carregado
+Drena Stamina ao longo do tempo para realizar cortes contínuos.
+Ao final da sequência, realiza um corte ainda mais poderoso.
+
+Ataque Imersivo
+Mergulha em pleno ar para golpear o chão, causando danos aos inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.</div>
+                  
+              </div>
+              <div class="ci-talent-detail-stats">
+                  <div class="ci-level-slider-row">
+                      <span class="ci-level-slider-label">Level</span>
+                      <span class="ci-level-slider-value">1</span>
+                      <span class="ci-level-slider-bound">1</span>
+                      <input type="range" class="ci-level-slider" id="ciTalentLevelSlider" aria-label="Talent level" min="1" max="15" step="1" value="1">
+                      <span class="ci-level-slider-bound">15</span>
+                  </div>
+                  <div class="ci-level-stats" id="ciTalentLevelStats">
+                      
+          <div class="ci-level-stats-title">Level 1</div>
+          <div class="ci-level-stats-rows">
+              <div class="ci-level-stats-row"><span>Dano do 1° Golpe</span><span>62.1%</span></div><div class="ci-level-stats-row"><span>Dano do 2° Golpe</span><span>61.7%</span></div><div class="ci-level-stats-row"><span>Dano do 3° Golpe</span><span>76.6%</span></div><div class="ci-level-stats-row"><span>Dano do 4° Golpe</span><span>95.3%</span></div><div class="ci-level-stats-row"><span>Dano de Loop de Ataque Carregado</span><span>56.3%</span></div><div class="ci-level-stats-row"><span>Dano Final de Ataque Carregado</span><span>101.8%</span></div><div class="ci-level-stats-row"><span>Consumo de Stamina de Ataque Carregado</span><span>40.0/s</span></div><div class="ci-level-stats-row"><span>Duração Máxima</span><span>5.0s</span></div><div class="ci-level-stats-row"><span>Dano Durante a Queda</span><span>74.6%</span></div><div class="ci-level-stats-row"><span>Dano de Queda de Baixa/Alta Altitude</span><span>149.1%/186.3%</span></div>
+          </div>
+                  </div>
+              </div>
+          </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-const" class="ci-panel">
+                            <h2 class="ci-panel-title">Constellations</h2>
+                            <div class="ci-const-list">
+                                
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000079/constellations/00_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C1</span>Chama Incandescente</div>
+                  <div class="ci-const-desc">A Vida Máxima de Dehya aumenta 20%. Além disso, aumenta o Dano causado pelos ataques de Dehya baseado na sua Vida Máxima:
+· Aumento de Dano de Inferno Derretido: 3.6% da Vida Máxima;
+· Aumento de Dano de Mordida da Leoa: 6% da Vida Máxima.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000079/constellations/01_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C2</span>Brilho das Lâminas de Areia</div>
+                  <div class="ci-const-desc">Ao lançar Inferno Derretido - Campo da Espada Incinerante, estende a duração do campo da Prisão Flamejante que foi gerado novamente em 6s.
+Além disso, quando há um campo da Prisão Flamejante ativo e o personagem ativo dentro dele sofre Dano, aumenta o Dano do Ataque Coordenado seguinte da Prisão Flamejante em 50%.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000079/constellations/02_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C3</span>Fúria Rápida como Fogo</div>
+                  <div class="ci-const-desc">Aumenta o nível de Mordida da Leoa em 3.
+O nível máximo de elevação é 15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000079/constellations/03_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C4</span>Juramento Duradouro</div>
+                  <div class="ci-const-desc">Quando os Socos da Leoa Flamejante e o Chute-Labareda de Mordida da Leoa atingem um inimigo, regeneram 1.5 de Energia Elemental para Dehya, e regenera a Vida de Dehya com base em 2.5% da Vida Máxima. Esse efeito pode ser desencadeado uma vez a cada 0.2s.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000079/constellations/04_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C5</span>A Leoa Está Saindo</div>
+                  <div class="ci-const-desc">Aumenta o nível do Inferno Derretido em 3.
+O nível máximo de elevação é 15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000079/constellations/05_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C6</span>Corte das Garras Incandescentes</div>
+                  <div class="ci-const-desc">Aumenta a Taxa CRIT de Mordida da Leoa em 10%.
+Além disso, quando o Soco da Leoa Flamejante atingir um inimigo e causar Dano CRIT na duração de Leoa Chamejante, aumentará o Dano CRIT na duração de Mordida da Leoa em 15% e prolongará a duração de Leoa Chamejante em 0.5s. Esse efeito pode ser desencadeado uma vez a cada 0.2s, e é possível estender a duração dessa maneira até 2s e aumentar o Dano CRIT até 60%.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-passives" class="ci-panel">
+                            <h2 class="ci-panel-title">Passives</h2>
+                            <div class="ci-passive-list">
+                                
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000079/skills/03_passive_1.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Socorro Generoso</div>
+                  <div class="ci-passive-desc">Nos 6s após Dehya recolher Prisão Flamejante com Inferno Derretido - Campo da Espada Incinerante ou Mordida da Leoa, o Dano que Dehya recebe de Sangue da Leoa Vermelha será reduzido em 60%. Este efeito pode ser ativado 1 vez a cada 2s.
+Além disso, nos 9s após lançar Inferno Derretido - Coragem Flamejante, concederá o estado "Corpo Fundido Dourado" para todos os membros da equipe. Quando personagens que estiverem sob o estado do Corpo Fundido Dourado entrarem na Prisão Flamejante, obterão Resistência contra Interrupção adicional. É possível gerar o estado Corpo Fundido Dourado uma vez a cada 18s.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000079/skills/04_passive_2.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Verdade Honesta</div>
+                  <div class="ci-passive-desc">Quando a Vida é inferior a 40%, Dehya regenerará Vida baseado em 20% de sua Vida Máxima, e nos 10s seguintes, Dehya regenerará Vida a cada 2s baseado em 6% de sua Vida Máxima. Esse efeito pode ser desencadeado uma vez a cada 20s.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000079/skills/05_passive_3.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Jornada Iluminada</div>
+                  <div class="ci-passive-desc">Durante o dia (06:00 - 18:00), os membros do seu grupo ganham o efeito Passos Ágeis: Veloc. Mov. aumenta em 10%.
+Não tem efeito em Domínios, Domínios Dizimados ou Abismo Espiral. O efeito Passos Ágeis não se acumula.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div></div></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel"></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Ferramenta não oficial feita por fãs. Não afiliada nem endossada pela HoYoverse/miHoYo. Genshin Impact e todos os nomes, personagens e recursos relacionados são marcas registradas e direitos autorais da HoYoverse/miHoYo.</div>
+        <div class="site-footer-links"><a href="privacy.html">Política de Privacidade</a> • <a href="terms.html">Termos de Uso</a> • <a href="contact.html">Contato</a> • <a href="credits.html">Créditos</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

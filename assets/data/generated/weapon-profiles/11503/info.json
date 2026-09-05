@@ -1,0 +1,52 @@
+{
+  "id": 11503,
+  "name": {
+    "EN": "Freedom-Sworn",
+    "CHS": "苍古自由之誓",
+    "CHT": "蒼古自由之誓",
+    "DE": "Blasser Schwur der Freiheit",
+    "ES": "Juramento por la Libertad",
+    "FR": "Serment de la liberté",
+    "ID": "Freedom-Sworn",
+    "IT": "Giuramento di libertà",
+    "JP": "蒼古なる自由への誓い",
+    "KR": "오래된 자유의 서약",
+    "PT": "Juramento pela Liberdade",
+    "RU": "Клятва свободы",
+    "TH": "Freedom-Sworn",
+    "TR": "Özgürlük Yemini",
+    "VI": "Lời Thề Tự Do Cổ Xưa"
+  },
+  "nameEn": "Freedom-Sworn",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
+    "CHS": "如同悠古的歌声一般苍蓝的直剑，如同风之国土自由的誓言一般锐利的武器。",
+    "CHT": "如同悠古的歌聲一般蒼藍的直劍，如同風之國土自由的誓言一般銳利的武器。",
+    "DE": "Ein gerades Schwert, blass-bläulich, das an uralte Gesänge erinnert. Diese Waffe ist so scharf wie der Schwur der Freiheit des Reichs des Windes.",
+    "ES": "Una espada azul celeste que recuerda a una canción de la antigüedad. Es tan tajante como el juramento por la libertad del Reino del Viento.",
+    "FR": "Une épée droite à lame bleue, aussi inébranlable que le serment de la liberté du royaume du vent.",
+    "ID": "Pedang biru langit yang mengingatkan pada lagu lama, senjata tajam seperti sumpah kebebasan di bangsa milik Dewa Angin.",
+    "IT": "Del colore del cielo, questa spada dritta testimonia il passato e i giuramenti di libertà resi nella Terra del Vento.",
+    "JP": "悠久なる歌声のように青く、真っすぐな直剣。風の国を代表する自由の誓いのように、その切っ先は鋭い。",
+    "KR": "오래된 노래처럼 푸른 검. 바람의 나라의 자유 맹세처럼 예리한 무기다",
+    "PT": "Uma espada azul como canção antediluviana e tão aguçada quanto os juramentos de liberdade prestados na Terra do Vento.",
+    "RU": "Цвет этого меча напоминает о древних песнопениях, а его острота подобна словам данной в царстве ветров клятвы свободы.",
+    "TH": "ดาบตรงสีน้ำเงินเข้มแห่งบทเพลงโบราณ เป็นดาบที่เหมือนดั่งคำมั่นสัญญาแห่งอิสรภาพในดินแดนแห่งสายลม",
+    "TR": "Mavi bir düz kılıç, kadim şarkıları andırır ve Rüzgar Diyarının özgürlük yemini kadar inatçıdır.",
+    "VI": "Thanh kiếm thẳng tắp màu xanh lam như tiếng ca hoài cổ, vũ khí sắc bén như lời thề tự do ở đất nước của gió."
+  },
+  "icon": "generated/weapon-profiles/11503/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 43.2,
+  "substat_lvl90": 198.4608,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

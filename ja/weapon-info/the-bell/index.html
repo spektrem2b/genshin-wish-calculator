@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="ja" data-active-tab="weapon-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Bell Refinement &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="The Bell refinement effects and ascension materials for Genshin Impact.">
+    <meta property="og:title" content="The Bell Refinement &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="The Bell refinement effects and ascension materials for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/ja/weapon-info/the-bell/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="The Bell Refinement &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="The Bell refinement effects and ascension materials for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/weapon-info/the-bell/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/weapon-info/the-bell/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/weapon-info/the-bell/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/weapon-info/the-bell/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/weapon-info/the-bell/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/weapon-info/the-bell/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/weapon-info/the-bell/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/weapon-info/the-bell/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/weapon-info/the-bell/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/weapon-info/the-bell/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/weapon-info/the-bell/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/weapon-info/the-bell/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/weapon-info/the-bell/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/weapon-info/the-bell/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/weapon-info/the-bell/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/weapon-info/the-bell/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/weapon-info/the-bell/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>原神<br>祈願計算機</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">祈願プランナー</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">★4確率</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">シミュレーター</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">ビルド</button>
+            <button type="button" id="tabInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">キャラクター</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">武器</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">その他</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">設定</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel"></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="wiWeaponSwitch" aria-label="Switch weapon" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="wiWeaponSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="wiContent" class="">
+                
+            <div class="wi-hero">
+                <div class="wi-hero-image-wrap">
+                    <div class="wi-hero-image-col">
+                        <img class="wi-hero-portrait" src="assets/data/generated/weapon-profiles/12402/avatar.webp" alt="" data-gi-fallback="retry">
+                    </div>
+                    <div class="wi-hero-type-caption"><span class="wi-hero-type-star">★★★★</span> Trọng Kiếm</div>
+                </div>
+                <div class="wi-hero-primary-col">
+                    <div class="ci-hero-name">鐘の剣</div>
+                    <div class="wi-stat-block">
+            <div class="wi-stat-item">
+                <div class="wi-stat-label">Base ATK</div>
+                <div class="wi-stat-values">
+                    <div class="wi-stat-value-col">
+                        <span class="wi-stat-value">42</span>
+                        <span class="wi-level-chip">Lv. 1</span>
+                    </div>
+                    <span class="wi-stat-arrow">→</span>
+                    <div class="wi-stat-value-col">
+                        <span class="wi-stat-value">510</span>
+                        <span class="wi-level-chip">Lv. 90</span>
+                    </div>
+                </div>
+            </div>
+            <div class="wi-stat-item">
+                <div class="wi-stat-label">HP%</div>
+                <div class="wi-stat-values">
+                    <div class="wi-stat-value-col">
+                        <span class="wi-stat-value">9.0%</span>
+                        <span class="wi-level-chip">Lv. 1</span>
+                    </div>
+                    <span class="wi-stat-arrow">→</span>
+                    <div class="wi-stat-value-col">
+                        <span class="wi-stat-value">41.3%</span>
+                        <span class="wi-level-chip">Lv. 90</span>
+                    </div>
+                </div>
+            </div></div>
+                </div>
+                <div class="wi-hero-secondary-col">
+                    
+            <div class="wi-passive-mini">
+                <div class="wi-desc-header">Weapon Passive</div>
+                <div class="wi-passive-mini-name">反逆の守護者</div>
+                <div class="wi-passive-mini-desc">ダメージを受けた時、HP上限の20%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+12%。</div>
+            </div>
+                </div>
+            </div>
+                <div class="ci-layout">
+                    <div class="ci-split-row wi-split-row">
+                        <section class="ci-panel wi-area-refine">
+                            <h2 class="ci-panel-title">Refinement</h2>
+                            
+            <div class="wi-refine-tablist" role="tablist">
+            <button type="button" class="wi-refine-tab wi-refine-tab--active" data-refine-tab="1">R1</button>
+            <button type="button" class="wi-refine-tab" data-refine-tab="2">R2</button>
+            <button type="button" class="wi-refine-tab" data-refine-tab="3">R3</button>
+            <button type="button" class="wi-refine-tab" data-refine-tab="4">R4</button>
+            <button type="button" class="wi-refine-tab" data-refine-tab="5">R5</button></div>
+            <div class="wi-refine-panels">
+            <div class="ci-passive-card wi-refine-panel wi-refine-panel--active" data-refine-panel="1">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">反逆の守護者 — R1</div>
+                    <div class="ci-passive-desc">ダメージを受けた時、HP上限の20%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+12%。</div>
+                </div>
+            </div>
+            <div class="ci-passive-card wi-refine-panel" data-refine-panel="2">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">反逆の守護者 — R2</div>
+                    <div class="ci-passive-desc">ダメージを受けた時、HP上限の23%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+15%。</div>
+                </div>
+            </div>
+            <div class="ci-passive-card wi-refine-panel" data-refine-panel="3">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">反逆の守護者 — R3</div>
+                    <div class="ci-passive-desc">ダメージを受けた時、HP上限の26%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+18%。</div>
+                </div>
+            </div>
+            <div class="ci-passive-card wi-refine-panel" data-refine-panel="4">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">反逆の守護者 — R4</div>
+                    <div class="ci-passive-desc">ダメージを受けた時、HP上限の29%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+21%。</div>
+                </div>
+            </div>
+            <div class="ci-passive-card wi-refine-panel" data-refine-panel="5">
+                <div class="ci-passive-body">
+                    <div class="ci-passive-name">反逆の守護者 — R5</div>
+                    <div class="ci-passive-desc">ダメージを受けた時、HP上限の32%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+24%。</div>
+                </div>
+            </div></div>
+                        </section>
+                        <section class="ci-panel wi-area-mats">
+                            <h2 class="ci-panel-title">Ascension Materials</h2>
+                            
+            <div class="wi-mat-dashboard">
+                
+            <div class="wi-mat-group">
+                <div class="wi-mat-group-title">Weapon Material</div>
+                
+            <div class="wi-mat-tile-row">
+                <div class="wi-mat-tiles">
+            <button type="button" class="wi-mat-tile" data-row="weapon-material-0" data-name="高塔の王の瓦" title="高塔の王の瓦 ×3" aria-label="高塔の王の瓦 ×3">
+                <img class="wi-mat-tile-icon rarity-2" src="assets/data/generated/shared-assets/materials/114001.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×3</span>
+            </button>
+            <button type="button" class="wi-mat-tile" data-row="weapon-material-0" data-name="高塔の王の残壁" title="高塔の王の残壁 ×9" aria-label="高塔の王の残壁 ×9">
+                <img class="wi-mat-tile-icon rarity-3" src="assets/data/generated/shared-assets/materials/114002.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×9</span>
+            </button>
+            <button type="button" class="wi-mat-tile" data-row="weapon-material-0" data-name="高塔の王の断片" title="高塔の王の断片 ×9" aria-label="高塔の王の断片 ×9">
+                <img class="wi-mat-tile-icon rarity-4" src="assets/data/generated/shared-assets/materials/114003.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×9</span>
+            </button>
+            <button type="button" class="wi-mat-tile wi-mat-tile--selected" data-row="weapon-material-0" data-name="高塔の王の砕けた夢" title="高塔の王の砕けた夢 ×4" aria-label="高塔の王の砕けた夢 ×4">
+                <img class="wi-mat-tile-icon rarity-5" src="assets/data/generated/shared-assets/materials/114004.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×4</span>
+            </button></div>
+                <div class="wi-mat-tile-name" data-row-name="weapon-material-0">高塔の王の砕けた夢</div>
+            </div>
+            </div>
+                
+            <div class="wi-mat-group">
+                <div class="wi-mat-group-title">Enemy Materials</div>
+                
+            <div class="wi-mat-tile-row">
+                <div class="wi-mat-tiles">
+            <button type="button" class="wi-mat-tile" data-row="enemy-materials-0" data-name="重い角笛" title="重い角笛 ×15" aria-label="重い角笛 ×15">
+                <img class="wi-mat-tile-icon rarity-2" src="assets/data/generated/shared-assets/materials/112014.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×15</span>
+            </button>
+            <button type="button" class="wi-mat-tile" data-row="enemy-materials-0" data-name="黒銅の角笛" title="黒銅の角笛 ×18" aria-label="黒銅の角笛 ×18">
+                <img class="wi-mat-tile-icon rarity-3" src="assets/data/generated/shared-assets/materials/112015.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×18</span>
+            </button>
+            <button type="button" class="wi-mat-tile wi-mat-tile--selected" data-row="enemy-materials-0" data-name="黒晶の角笛" title="黒晶の角笛 ×27" aria-label="黒晶の角笛 ×27">
+                <img class="wi-mat-tile-icon rarity-4" src="assets/data/generated/shared-assets/materials/112016.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×27</span>
+            </button></div>
+                <div class="wi-mat-tile-name" data-row-name="enemy-materials-0">黒晶の角笛</div>
+            </div>
+            <div class="wi-mat-tile-row">
+                <div class="wi-mat-tiles">
+            <button type="button" class="wi-mat-tile" data-row="enemy-materials-1" data-name="トリックフラワーの蜜" title="トリックフラワーの蜜 ×10" aria-label="トリックフラワーの蜜 ×10">
+                <img class="wi-mat-tile-icon rarity-1" src="assets/data/generated/shared-assets/materials/112038.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×10</span>
+            </button>
+            <button type="button" class="wi-mat-tile" data-row="enemy-materials-1" data-name="微光花の蜜" title="微光花の蜜 ×15" aria-label="微光花の蜜 ×15">
+                <img class="wi-mat-tile-icon rarity-2" src="assets/data/generated/shared-assets/materials/112039.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×15</span>
+            </button>
+            <button type="button" class="wi-mat-tile wi-mat-tile--selected" data-row="enemy-materials-1" data-name="原素花の蜜" title="原素花の蜜 ×18" aria-label="原素花の蜜 ×18">
+                <img class="wi-mat-tile-icon rarity-3" src="assets/data/generated/shared-assets/materials/112040.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="wi-mat-tile-qty">×18</span>
+            </button></div>
+                <div class="wi-mat-tile-name" data-row-name="enemy-materials-1">原素花の蜜</div>
+            </div>
+            </div>
+            </div>
+                        </section>
+                        <div class="wi-area-desc">
+            <section class="ci-panel">
+                <h2 class="ci-panel-title">Description</h2>
+                <p class="wi-description">時計が飾られた大剣、その中の時計はすでに壊れている。</p>
+            </section></div>
+                    </div>
+                </div></div></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">非公式のファンメイドツールです。HoYoverse/miHoYoとは提携しておらず、公認も受けていません。「原神」および関連するすべての名称、キャラクター、素材はHoYoverse/miHoYoの商標および著作物です。</div>
+        <div class="site-footer-links"><a href="privacy.html">プライバシーポリシー</a> • <a href="terms.html">利用規約</a> • <a href="contact.html">お問い合わせ</a> • <a href="credits.html">クレジット</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

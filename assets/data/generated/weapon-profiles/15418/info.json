@@ -1,0 +1,52 @@
+{
+  "id": 15418,
+  "name": {
+    "EN": "End of the Line",
+    "CHS": "竭泽",
+    "CHT": "竭澤",
+    "DE": "Schwertfischer",
+    "ES": "Fin de las Aguas",
+    "FR": "Chalutier",
+    "ID": "End of the Line",
+    "IT": "Pesce da lenza",
+    "JP": "竭沢",
+    "KR": "메마른 연못",
+    "PT": "Águas Secas",
+    "RU": "Иссушитель",
+    "TH": "End of the Line",
+    "TR": "Yolun Sonu",
+    "VI": "Sông Cạn"
+  },
+  "nameEn": "End of the Line",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.",
+    "CHS": "似乎是如今已经绝种的鱼。身躯富有弹性，系上绳索后能充当弓使用。",
+    "CHT": "似乎是如今已經絕種的魚。身軀富有彈性，繫上繩索後能充當弓使用。",
+    "DE": "Dies scheint ein inzwischen ausgestorbener Fisch zu sein. Sein Körper ist so elastisch, dass man eine Schnur daran befestigen kann, um ihn als Bogen zu benutzen.",
+    "ES": "Parece una especie piscícola ya extinta. Gracias a su flexibilidad, puede servir como arco si le atas una cuerda.",
+    "FR": "Cela semble être un poisson aujourd'hui disparu. Son corps est suffisamment élastique pour qu'une ficelle puisse y être attachée afin de s'en servir comme d'un arc.",
+    "ID": "Tampak seperti ikan yang kini sudah punah. Dengan elastisitas tubuhnya, ia dapat digunakan sebagai busur setelah diikatkan dengan tali.",
+    "IT": "Sembra un pesce andato estinto. Il suo corpo è piuttosto elastico e legando una corda a esso può diventare un arco.",
+    "JP": "すでに絶滅してしまった魚なのかもしれない。身には弾力があり、紐をつければ弓として使えそうだ。",
+    "KR": "지금은 멸종된 물고기인 듯하다. 몸에 탄력이 있어 활시위를 달아 활로 사용할 수 있다",
+    "PT": "Parece ser um tipo de peixe extinto. Seu corpo é tão elástico, que uma corda pode ser presa a ele e fazer com que sirva como um arco.",
+    "RU": "Рыба, принадлежащая к вымершему виду. Если к её гибкому телу прикрепить тетиву, она может послужить в качестве лука.",
+    "TH": "คล้ายว่าจะเป็นปลาที่ทุกวันนี้สูญพันธุ์ไปแล้ว มีลำตัวที่ยืดหยุ่น เมื่อนำไปผูกกับเชือกแล้ว สามารถนำไปใช้เป็นธนูได้",
+    "TR": "Soyunun tükendiği varsayılan bir balıktan yapılma bir yay. Vücudu o kadar esnek ki kiriş olarak bile kullanılabilir.",
+    "VI": "Loài cá dường như đã tuyệt chủng, thân của chúng có độ đàn hồi cao, gắn thêm dây vào sẽ có thể dùng như cung."
+  },
+  "icon": "generated/weapon-profiles/15418/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

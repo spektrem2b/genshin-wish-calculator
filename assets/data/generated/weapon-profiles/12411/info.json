@@ -1,0 +1,52 @@
+{
+  "id": 12411,
+  "name": {
+    "EN": "Snow-Tombed Starsilver",
+    "CHS": "雪葬的星银",
+    "CHT": "雪葬的星銀",
+    "DE": "Unter Schnee begrabenes Sternsilber",
+    "ES": "Argento Estelar de las Nieves",
+    "FR": "Tombe-neige en argétoile",
+    "ID": "Snow-Tombed Starsilver",
+    "IT": "Argento astrale delle nevi",
+    "JP": "雪葬の星銀",
+    "KR": "설장의 성은",
+    "PT": "Estrela de Prata Enterrada na Neve",
+    "RU": "Заснеженное звёздное серебро",
+    "TH": "Snow-Tombed Starsilver",
+    "TR": "Karlı Gümüş Yıldız",
+    "VI": "Tuyết Vùi Tinh Ngân"
+  },
+  "nameEn": "Snow-Tombed Starsilver",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow.",
+    "CHS": "储存在壁画之间的古老大剑。由星银铸成，似乎拥有斩开冰雪的力量。",
+    "CHT": "儲存在壁畫之間的古老大劍。由星銀鑄成，似乎擁有斬開冰雪的力量。",
+    "DE": "Ein antikes Großschwert, welches zwischen alten Wandgemälden verstaut war. Aus Sternsilber geschmiedet besitzt es die Macht, Eis und Schnee auseinanderzutreiben.",
+    "ES": "Un mandoble antiguo oculto detrás de un fresco. Fue forjado con argento estelar, y tiene el poder de cortar a través del hielo y la nieve.",
+    "FR": "Un espadon antique autrefois dissimulé entre des fresques. Forgée en argétoile, cette arme a le pouvoir de fendre la neige et la glace.",
+    "ID": "Pedang besar kuno yang tersimpan di antara mural. Ditempa dari Starsilver, mempunyai kekuatan untuk membelah es dan salju.",
+    "IT": "Un antico spadone che era stato nascosto dietro un affresco. Forgiato con Argento astrale, è l'ideale per fendere ghiaccio e neve.",
+    "JP": "壁画の間に保存されていた太古の大剣。星銀で鍛錬された刀身は、氷雪をも切り裂く力がある。",
+    "KR": "벽화 사이에 보존되어 있는 태고의 대검. 성은으로 주조된 이 검은 빙설도 가를 수 있는 힘을 보유하고 있다",
+    "PT": "Um Espadão antigo escondido dentro de uma pintura. Forjado de Prata Estrelada, possui o poder de cortar o gelo.",
+    "RU": "Древний меч, сохранившийся среди настенных фресок. Он сделан из звёздного серебра и обладает силой, способной расколоть самый твёрдый лёд.",
+    "TH": "ดาบใหญ่โบราณที่ซ่อนอยู่ในภาพฝาผนังนี้ หลอมขึ้นมาจากดวงดาว ดูเหมือนจะมีพลังที่สามารถฟันน้ำแข็งและหิมะได้",
+    "TR": "Freskler arasında saklanan kadim bir kılıç. Gümüş Yıldızdan dövülen bu kılıç kar ve buzu kesme gücüne sahiptir.",
+    "VI": "Thanh kiếm cổ xưa được cất giấu giữa bức bích họa. Được đúc từ Tinh Ngân, dường như có sở hữu sức mạnh có thể cắt vỡ băng tuyết."
+  },
+  "icon": "generated/weapon-profiles/12411/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.075067,
+  "substat_lvl90": 0.3449,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

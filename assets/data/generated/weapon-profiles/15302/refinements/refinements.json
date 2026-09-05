@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Precise",
+    "CHS": "精准",
+    "CHT": "精準",
+    "DE": "Präzision",
+    "ES": "Precisión",
+    "FR": "Précision",
+    "ID": "Precise",
+    "IT": "Precisione",
+    "JP": "精密射撃",
+    "KR": "정확",
+    "PT": "Precisão",
+    "RU": "Меткий",
+    "TH": "Precise",
+    "TR": "İsabetli",
+    "VI": "Tinh Chuẩn"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases DMG against weak spots by 24%.",
+        "CHS": "针对要害造成的伤害提升24%。",
+        "CHT": "針對要害造成的傷害提升24%。",
+        "DE": "Erhöht den Schwachstellen zugefügten Schaden um 24 %.",
+        "ES": "Aumenta en un 24% el daño contra los puntos débiles.",
+        "FR": "Augmente les DGT de 24 % si les points faibles de l'ennemi sont visés.",
+        "ID": "Meningkatkan 24% DMG serangan yang mengenai titik kelemahan musuh.",
+        "IT": "Aumenta i DAN contro i punti deboli di un 24%.",
+        "JP": "弱点に対するダメージ+24%。",
+        "KR": "약점 공격 시 주는 피해가 24% 증가한다",
+        "PT": "Aumenta o Dano contra pontos fracos em 24%.",
+        "RU": "Увеличивает урон по слабым местам противников на 24%.",
+        "TH": "เพิ่มความเสียหาย ที่สร้างต่อจุดอ่อน 24%",
+        "TR": "Zayıf noktalara verilen Hasarı %24 artırır.",
+        "VI": "Tăng 24% sát thương tạo thành với điểm yếu."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases DMG against weak spots by 30%.",
+        "CHS": "针对要害造成的伤害提升30%。",
+        "CHT": "針對要害造成的傷害提升30%。",
+        "DE": "Erhöht den Schwachstellen zugefügten Schaden um 30 %.",
+        "ES": "Aumenta en un 30% el daño contra los puntos débiles.",
+        "FR": "Augmente les DGT de 30 % si les points faibles de l'ennemi sont visés.",
+        "ID": "Meningkatkan 30% DMG serangan yang mengenai titik kelemahan musuh.",
+        "IT": "Aumenta i DAN contro i punti deboli di un 30%.",
+        "JP": "弱点に対するダメージ+30%。",
+        "KR": "약점 공격 시 주는 피해가 30% 증가한다",
+        "PT": "Aumenta o Dano contra pontos fracos em 30%.",
+        "RU": "Увеличивает урон по слабым местам противников на 30%.",
+        "TH": "เพิ่มความเสียหาย ที่สร้างต่อจุดอ่อน 30%",
+        "TR": "Zayıf noktalara verilen Hasarı %30 artırır.",
+        "VI": "Tăng 30% sát thương tạo thành với điểm yếu."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases DMG against weak spots by 36%.",
+        "CHS": "针对要害造成的伤害提升36%。",
+        "CHT": "針對要害造成的傷害提升36%。",
+        "DE": "Erhöht den Schwachstellen zugefügten Schaden um 36 %.",
+        "ES": "Aumenta en un 36% el daño contra los puntos débiles.",
+        "FR": "Augmente les DGT de 36 % si les points faibles de l'ennemi sont visés.",
+        "ID": "Meningkatkan 36% DMG serangan yang mengenai titik kelemahan musuh.",
+        "IT": "Aumenta i DAN contro i punti deboli di un 36%.",
+        "JP": "弱点に対するダメージ+36%。",
+        "KR": "약점 공격 시 주는 피해가 36% 증가한다",
+        "PT": "Aumenta o Dano contra pontos fracos em 36%.",
+        "RU": "Увеличивает урон по слабым местам противников на 36%.",
+        "TH": "เพิ่มความเสียหาย ที่สร้างต่อจุดอ่อน 36%",
+        "TR": "Zayıf noktalara verilen Hasarı %36 artırır.",
+        "VI": "Tăng 36% sát thương tạo thành với điểm yếu."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases DMG against weak spots by 42%.",
+        "CHS": "针对要害造成的伤害提升42%。",
+        "CHT": "針對要害造成的傷害提升42%。",
+        "DE": "Erhöht den Schwachstellen zugefügten Schaden um 42 %.",
+        "ES": "Aumenta en un 42% el daño contra los puntos débiles.",
+        "FR": "Augmente les DGT de 42 % si les points faibles de l'ennemi sont visés.",
+        "ID": "Meningkatkan 42% DMG serangan yang mengenai titik kelemahan musuh.",
+        "IT": "Aumenta i DAN contro i punti deboli di un 42%.",
+        "JP": "弱点に対するダメージ+42%。",
+        "KR": "약점 공격 시 주는 피해가 42% 증가한다",
+        "PT": "Aumenta o Dano contra pontos fracos em 42%.",
+        "RU": "Увеличивает урон по слабым местам противников на 42%.",
+        "TH": "เพิ่มความเสียหาย ที่สร้างต่อจุดอ่อน 42%",
+        "TR": "Zayıf noktalara verilen Hasarı %42 artırır.",
+        "VI": "Tăng 42% sát thương tạo thành với điểm yếu."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases DMG against weak spots by 48%.",
+        "CHS": "针对要害造成的伤害提升48%。",
+        "CHT": "針對要害造成的傷害提升48%。",
+        "DE": "Erhöht den Schwachstellen zugefügten Schaden um 48 %.",
+        "ES": "Aumenta en un 48% el daño contra los puntos débiles.",
+        "FR": "Augmente les DGT de 48 % si les points faibles de l'ennemi sont visés.",
+        "ID": "Meningkatkan 48% DMG serangan yang mengenai titik kelemahan musuh.",
+        "IT": "Aumenta i DAN contro i punti deboli di un 48%.",
+        "JP": "弱点に対するダメージ+48%。",
+        "KR": "약점 공격 시 주는 피해가 48% 증가한다",
+        "PT": "Aumenta o Dano contra pontos fracos em 48%.",
+        "RU": "Увеличивает урон по слабым местам противников на 48%.",
+        "TH": "เพิ่มความเสียหาย ที่สร้างต่อจุดอ่อน 48%",
+        "TR": "Zayıf noktalara verilen Hasarı %48 artırır.",
+        "VI": "Tăng 48% sát thương tạo thành với điểm yếu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 12415,
+  "name": {
+    "EN": "Makhaira Aquamarine",
+    "CHS": "玛海菈的水色",
+    "CHT": "瑪海菈的水色",
+    "DE": "Makhaira-Aquamarin",
+    "ES": "Májaira Aguamarina",
+    "FR": "Aigue-marine de Makhaira",
+    "ID": "Makhaira Aquamarine",
+    "IT": "Acquamarina di Makhaira",
+    "JP": "マカイラの水色",
+    "KR": "물빛 마카이라",
+    "PT": "Água-Marinha de Mahara",
+    "RU": "Аквамарин Махайры",
+    "TH": "Makhaira Aquamarine",
+    "TR": "Makhaira Deniz Yeşili",
+    "VI": "Sắc Nước Makhaira"
+  },
+  "nameEn": "Makhaira Aquamarine",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "An ancient greatsword that gleams like the waters themselves. A thousand years of sand erosion has not dulled its unnaturally sharp edge one bit.",
+    "CHS": "一柄光泽如水的古老大剑，经过千年流沙磨洗，锋刃依然锐利异常。",
+    "CHT": "一把光澤如水的古老大劍，經過千年流沙磨洗，鋒刃依然銳利異常。",
+    "DE": "Ein uraltes Großschwert, das glänzt wie das Wasser selbst. Tausend Jahre Sanderosion haben seine unnatürlich scharfe Klinge kein bisschen stumpf werden lassen.",
+    "ES": "Un antiguo mandoble que brilla como el agua. A pesar de haber sufrido la erosión de la arena durante tanto tiempo, su hoja no ha perdido el filo.",
+    "FR": "Un ancien espadon qui brille comme les eaux elles-mêmes. Un millier d'années d'érosion par le sable n'ont pas du tout émoussé son bord anormalement tranchant.",
+    "ID": "Sebuah pedang besar kuno yang berkilau seperti air. Erosi pasir selama ribuan tahun sama sekali tidak menumpulkan bilahnya yang tajam.",
+    "IT": "Un antico spadone che luccica come l'acqua. Mille anni di erosione da parte della sabbia non hanno minimamente intaccato la sua lama inverosimilmente affilata.",
+    "JP": "水のような艶やかさを持つ古い大剣。流砂により磨き上げられ、千年ほど経った今も切れ味は鋭いままである。",
+    "KR": "물빛 광택이 나는 고대의 대검. 수천 년 동안 모래알에 씻겨서 여전히 날카롭다",
+    "PT": "Um espadão antigo que brilha como a própria água. Nem mesmo os milhares de anos de erosão da areia conseguiram tirar o fio impecável de sua lâmina.",
+    "RU": "Древний двуручный меч, отливающий мерцанием волн. Его лезвие осталось исключительно острым даже после тысячелетий, проведённых в песках.",
+    "TH": "ดาบใหญ่โบราณที่ส่องประกายแสงราวกับสายน้ำ แม้ผ่านการกัดเซาะของทรายเป็นเวลาหลายพันปี ใบมีดก็ยังคงความคมเหมือนดั่งวันวาน",
+    "TR": "Su gibi parıldayan kadim bir büyük kılıç. Yıllar boyu süren kum erozyonu keskinliğini bir nebze bile köreltememiş.",
+    "VI": "Một thanh đại kiếm ánh lên sắc nước, đã trải qua ngàn năm trong cát nhưng vẫn sắc bén lạ thường."
+  },
+  "icon": "generated/weapon-profiles/12415/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

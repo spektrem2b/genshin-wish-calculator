@@ -1,0 +1,52 @@
+{
+  "id": 11428,
+  "name": {
+    "EN": "Sword of Narzissenkreuz",
+    "CHS": "水仙十字之剑",
+    "CHT": "水仙十字之劍",
+    "DE": "Schwert des Narzissenkreuzes",
+    "ES": "Espada Cruz de los Narcisos",
+    "FR": "Lame du Narzissenkreuz",
+    "ID": "Sword of Narzissenkreuz",
+    "IT": "Spada di Narzissenkreuz",
+    "JP": "水仙十字の剣",
+    "KR": "수선화 십자검",
+    "PT": "Espada da Cruz de Narcissus",
+    "RU": "Меч Нарциссенкрейца",
+    "TH": "Sword of Narzissenkreuz",
+    "TR": "Nergis Haçı'nın Kılıcı",
+    "VI": "Lưỡi Kiếm Narzissenkreuz"
+  },
+  "nameEn": "Sword of Narzissenkreuz",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A sword whose power faded when the story ended. It will now embark upon a new journey with the power that remains within it, which commemorates a certain great dream.",
+    "CHS": "意志与力量随故事的结束而消褪的长剑，它将要再次踏上新的旅途。其中残余着一些力量，纪念着一场宏大的梦。",
+    "CHT": "意志與力量隨故事的結束而消退的長劍，它將要再次踏上新的旅途。其中殘餘著一些力量，紀念著一場宏大的夢。",
+    "DE": "Ein Schwert, dessen Kraft mit dem Ende der Geschichte verblasst ist. Es wird nun eine neue Reise antreten. Die Kraft, die in ihm verbleibt, erinnert an einen bestimmten großen Traum.",
+    "ES": "Una espada cuyo poder y determinación desaparecieron cuando la historia que había detrás de ella terminó, y que ahora volverá a emprender un nuevo camino. Los resquicios de poder que aún conserva conmemoran cierto gran sueño.",
+    "FR": "Une épée dont la puissance s'est évanouie à la fin de l'histoire. Elle va désormais s'embarquer dans un nouveau voyage avec la puissance qui lui reste, afin de commémorer un certain grand rêve.",
+    "ID": "Pedang yang kehilangan kekuatan di akhir kisahnya. Kini pedang ini akan memulai perjalanan barunya dengan sisa kekuatan yang ada di dalamnya, terus memperingati sebuah mimpi yang agung mulia.",
+    "IT": "Una spada che ha perso tutta la sua potenza una volta raggiunto l'epilogo della storia. Ora, col potere residuo in essa racchiuso, è destinata a intraprendere un nuovo viaggio atto a commemorare un grande sogno.",
+    "JP": "物語の終わりとともに意志と力が衰えてしまった長剣は、再び新たな旅に出ることになる。中に残されたわずかな力が、壮大な夢を記念している。",
+    "KR": "이야기가 끝남에 따라 의지와 힘이 퇴색된 장검. 이 검은 다시 새로운 여정을 걷게 될 것이다. 안에 남은 작은 힘은 거대한 꿈을 기리고 있다",
+    "PT": "Uma espada cujo poder desapareceu quando a história chegou ao fim. Agora, ela partirá em uma nova jornada com o poder que permanece dentro dela, o qual comemora um certo grande sonho.",
+    "RU": "Меч, чья воля и сила угасла с концом его истории. Теперь он отправится в новое путешествие. Остатки силы в нём помнят великую мечту.",
+    "TH": "ดาบที่เจตจำนงและความแข็งแกร่งได้จางหายไปเมื่อเรื่องราวสิ้นสุดลง มันจะเริ่มการเดินทางครั้งใหม่อีกครั้ง ในดาบยังมีพลังบางอย่างหลงเหลืออยู่ เพื่อรำลึกถึงความฝันอันยิ่งใหญ่",
+    "TR": "Hikayesi sona erdiğinde gücü zayıflamış olan bir kılıç. İçinde kalan ve büyük bir rüyayı anımsatan gücüyle şimdi yeni bir yolculuğa çıkacak.",
+    "VI": "Thanh kiếm với ý chí và sức mạnh đã tan biến khi câu chuyện kết thúc, nó sẽ bước tiếp trên hành trình mới. Một phần sức mạnh sót lại trong đó là để kỷ niệm cho giấc mộng hào hùng."
+  },
+  "icon": "generated/weapon-profiles/11428/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

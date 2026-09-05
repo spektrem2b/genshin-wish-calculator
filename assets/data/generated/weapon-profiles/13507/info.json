@@ -1,0 +1,52 @@
+{
+  "id": 13507,
+  "name": {
+    "EN": "Calamity Queller",
+    "CHS": "息灾",
+    "CHT": "息災",
+    "DE": "Ende des Unheils",
+    "ES": "Pacificadora del Desastre",
+    "FR": "Étouffeur de calamités",
+    "ID": "Calamity Queller",
+    "IT": "Flagello delle calamità",
+    "JP": "息災",
+    "KR": "식재",
+    "PT": "Subjugadora de Calamidades",
+    "RU": "Усмиритель бед",
+    "TH": "Calamity Queller",
+    "TR": "Bela Söndüren",
+    "VI": "Hủy Diệt"
+  },
+  "nameEn": "Calamity Queller",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past.",
+    "CHS": "由奇异晶石打造成的锋锐利器。幽幽蓝光似乎诉说着无尽往事。",
+    "CHT": "由奇異晶石打造成的鋒銳利器。幽幽藍光似乎訴說著無盡往事。",
+    "DE": "Eine sehr scharfe Waffe, hergestellt aus sonderbaren Kristallen. Die ganze Waffe überzieht ein kalter, blauer Schimmer, der Geschichten aus der endlosen Vergangenheit zu erzählen scheint.",
+    "ES": "Una afilada arma forjada con extraños minerales. Su tenue brillo azul parece estar contando incontables historias del pasado.",
+    "FR": "Une arme finement affûtée forgée à partir d'un cristal étrange. Sa faible lumière bleue semble chuchoter d'innombrables choses du passé.",
+    "ID": "Sebuah senjata tajam yang diciptakan dari kristal aneh. Cahaya birunya yang remang-remang seakan membisikkan cerita masa lalu yang tiada berujung.",
+    "IT": "Un'arma eccezionalmente affilata forgiata da uno strano cristallo. La sua debole luce azzurra sembra sussurrare storie del passato all'infinito.",
+    "JP": "奇妙な晶鉱から作られた鋭利な武器。幽幽たる青白い光は、果てしない過去を語っているかのようだ。",
+    "KR": "기이한 수정석으로 만든 날카로운 무기. 푸르스름한 빛이 끝없는 과거를 들려주는 것만 같다",
+    "PT": "Uma arma afiada forjada de algum cristal estranho. Sua luz azul tênue parece murmurar incontáveis histórias do passado.",
+    "RU": "Отточенное оружие, выкованное из странного кристалла. Его слабый голубой свет, кажется, шепчет о бесчисленных событиях прошлого.",
+    "TH": "อาวุธแหลมคมที่สร้างขึ้นมาจากคริสตัลประหลาดบางอย่าง แสงสีฟ้าจาง ๆ ของมันดูเหมือนจะขับขานเรื่องราวอันไม่รู้จบในอดีต",
+    "TR": "İncecik bilenmiş ve tuhaf bir kristalden yapılmış bir silah. Soluk mavi parıltısı geçmişin hikayelerini anlatır.",
+    "VI": "Vũ khí sắc bén được chế tạo từ Tinh Thạch kỳ lạ. Ánh sáng xanh u tối dường như đang kể lại vô vàn những chuyện đã qua."
+  },
+  "icon": "generated/weapon-profiles/13507/avatar.webp",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.036,
+  "substat_lvl90": 0.1654,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000105",
+  "name": {
+    "EN": "Ororon",
+    "CHS": "欧洛伦",
+    "CHT": "歐洛倫",
+    "DE": "Ororon",
+    "ES": "Ororon",
+    "FR": "Ororon",
+    "ID": "Ororon",
+    "IT": "Ororon",
+    "JP": "オロルン",
+    "KR": "올로룬",
+    "PT": "Ororon",
+    "RU": "Оророн",
+    "TH": "Ororon",
+    "TR": "Ororon",
+    "VI": "Ororon"
+  },
+  "nameEn": "Ororon",
+  "element": "Electro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 10,
+    "day": 14
+  },
+  "release": "2024-11-18T22:00:00",
+  "icon": "generated/character-profiles/10000105/avatar.webp",
+  "fullWish": "generated/character-profiles/10000105/full_wish.webp",
+  "fullWishObjectPosition": "50.3% 19.5%",
+  "title": {
+    "EN": "Shadow of the Night-Wind",
+    "CHS": "深黯的谜烟",
+    "CHT": "深黯的謎煙",
+    "DE": "Schatten des Nachtwinds",
+    "ES": "La Sombra del Viento Nocturno",
+    "FR": "Ombre du vent nocturne",
+    "ID": "Shadow of the Night-Wind",
+    "IT": "Ombra del Vento della Notte",
+    "JP": "暗黒の謎煙",
+    "KR": "깊은 어둠의 연기",
+    "PT": "Sombra do Vento Noturno",
+    "RU": "Тень Ночного Ветра",
+    "TH": "เงาแห่งควันราตรี",
+    "TR": "Gece Rüzgarının Gölgesi",
+    "VI": "Làn Khói U Ám"
+  },
+  "description": {
+    "EN": "A young man from the Masters of the Night-Wind who instead lives in the wild alongside all manner of life.",
+    "CHS": "来自烟谜主的年轻人，却与万千生灵一起，生活在原野之中。",
+    "CHT": "來自煙謎主的年輕人，卻與萬千生靈一起生活在原野之中。",
+    "DE": "Ein junger Mann der Meister des Nachtwinds, der zusammen mit allem, was kreucht und fleucht, in der freien Natur lebt.",
+    "ES": "Un joven de los Augures Vientonocturno que vive en la naturaleza junto a toda clase de seres vivos.",
+    "FR": "Un jeune homme appartenant aux Maîtres du vent nocturne qui vit principalement dans la nature aux côtés de toutes sortes de créatures.",
+    "ID": "Pemuda dari Penguasa Angin Malam yang hidup di alam liar bersama segala jenis makhluk lainnya.",
+    "IT": "Un giovane membro dei Maestri del Vento della Notte che ama vivere in mezzo alla natura, accanto a forme di vita d'ogni sorta.",
+    "JP": "謎煙の主出身だが、無数の命と共に、集落の外で生きる若者。",
+    "KR": "연기 주인 출신의 청년, 수많은 생명과 함께 야외에서 살아간다",
+    "PT": "Um jovem vindo dos Mestres do Vento Noturno, mas que vive nos campos com milhares de criaturas vivas.",
+    "RU": "Юноша из Повелителей Ночного Ветра, живущий в глуши вместе со всевозможными существами.",
+    "TH": "เด็กหนุ่มจากจ้าวแห่งลมราตรี แต่กลับอาศัยอยู่บนทุ่งกว้างพร้อมกับสรรพชีวิตนับหมื่นนับพัน",
+    "TR": "Gece Rüzgarının Ustalarından genç bir adam. Doğada her türden canlıyla birlikte yaşar.",
+    "VI": "Một người trẻ tuổi đến từ Chủ Nhân Gió Đêm, nhưng lại sống ở nơi hoang vu cùng ngàn vạn sinh linh."
+  },
+  "constellationName": {
+    "EN": "Vampyrum Spectrum",
+    "CHS": "夜蝠座",
+    "CHT": "夜蝠座",
+    "DE": "Vampyrum Spectrum",
+    "ES": "Vampyrum Spectrum",
+    "FR": "Vampyrum Spectrum",
+    "ID": "Vampyrum Spectrum",
+    "IT": "Vampyrum Spectrum",
+    "JP": "チスイコウモリ座",
+    "KR": "밤박쥐자리",
+    "PT": "Vampyrum Spectrum",
+    "RU": "Вечерница",
+    "TH": "Vampyrum Spectrum",
+    "TR": "Hayalet Yarasa",
+    "VI": "Cung Dạ Bức"
+  },
+  "native": {
+    "EN": "Mictlan",
+    "CHS": "米克特兰",
+    "CHT": "米克特蘭",
+    "DE": "Mictlan",
+    "ES": "Mictlán",
+    "FR": "Mictlans",
+    "ID": "Mictlan",
+    "IT": "Mictlan",
+    "JP": "ミクトラン",
+    "KR": "믹틀란",
+    "PT": "Mictlan",
+    "RU": "Миктлан",
+    "TH": "Mictlan",
+    "TR": "Mictlan",
+    "VI": "Mictlan"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Nathan Nokes"
+    },
+    {
+      "lang": "CHS",
+      "va": "梁达伟"
+    },
+    {
+      "lang": "JP",
+      "va": "近藤隆"
+    },
+    {
+      "lang": "KR",
+      "va": "Seo Joung-ik"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 775.02234,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.4792,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 49.2135,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

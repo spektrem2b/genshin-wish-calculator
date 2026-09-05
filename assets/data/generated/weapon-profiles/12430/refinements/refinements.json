@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "The Weight of Falling Branches",
+    "CHS": "坠枝之重",
+    "CHT": "墜枝之重",
+    "DE": "Das Gewicht der herabfallenden Äste",
+    "ES": "Peso de las ramas",
+    "FR": "Poids des branches tombantes",
+    "ID": "The Weight of Falling Branches",
+    "IT": "Peso dei rami cadenti",
+    "JP": "落枝の重さ",
+    "KR": "추락하는 가지의 무게",
+    "PT": "Peso dos Galhos Caídos",
+    "RU": "Тяжесть падающих ветвей",
+    "TH": "The Weight of Falling Branches",
+    "TR": "Dökülen Dalların Ağırlığı",
+    "VI": "Trọng Lượng Của Cành Rơi"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increase Plunging Attack CRIT Rate by 16%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 16% for 10s.",
+        "CHS": "下落攻击的暴击率提升16%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升16%，持续10秒。",
+        "CHT": "下落攻擊的暴擊率提升16%；下落攻擊命中敵人後，普通攻擊、重擊、下落攻擊造成的傷害提升16%，持續10秒。",
+        "DE": "#Erhöht die KT von Angriffen aus dem Fall um 16 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 16 %.",
+        "ES": "#La Prob. CRIT del Ataque Descendente aumenta en un 16%. Tras golpear a un enemigo con un Ataque Descendente, el daño del Ataque Normal, Cargado y Descendente aumenta en un 16% durante 10 s.",
+        "FR": "Augmente le taux CRIT des attaques plongeantes de 16 %. Lorsqu'une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 16 % pendant 10 s.",
+        "ID": "CRIT Rate Plunging Attack meningkat 16%; Setelah Plunging Attack mengenai musuh, DMG Normal Attack, Plunging Attack, dan Charged Attack meningkat 16% selama 10 detik.",
+        "IT": "#Aumenta di un 16% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 16% per 10 s.",
+        "JP": "落下攻撃の会心率+16%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+16%、継続時間10秒。",
+        "KR": "낙하 공격의 치명타 확률이 16% 증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 16% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta a Taxa CRIT dos Ataques Imersivos em 16%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 16% por 10s.",
+        "RU": "Увеличивает шанс крит. попадания атаки в падении на 16%. После того как атака в падении попадает по противнику, урон обычной атаки, заряженной атаки и атаки в падении увеличивается на 16% на 10 сек.",
+        "TH": "อัตราคริของการโจมตีพุ่งลงจากอากาศเพิ่มขึ้น 16%; หลังจากการโจมตีพุ่งลงจากอากาศโจมตีโดนศัตรู ความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศจะเพิ่มขึ้น 16% เป็นเวลา 10 วินาที",
+        "TR": "Havadan Saldırı Kritik Oranı %16 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %16 artar.",
+        "VI": "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 16%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 16% trong 10s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increase Plunging Attack CRIT Rate by 20%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 20% for 10s.",
+        "CHS": "下落攻击的暴击率提升20%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升20%，持续10秒。",
+        "CHT": "下落攻擊的暴擊率提升20%；下落攻擊命中敵人後，普通攻擊、重擊、下落攻擊造成的傷害提升20%，持續10秒。",
+        "DE": "#Erhöht die KT von Angriffen aus dem Fall um 20 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 20 %.",
+        "ES": "#La Prob. CRIT del Ataque Descendente aumenta en un 20%. Tras golpear a un enemigo con un Ataque Descendente, el daño del Ataque Normal, Cargado y Descendente aumenta en un 20% durante 10 s.",
+        "FR": "Augmente le taux CRIT des attaques plongeantes de 20 %. Lorsqu'une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 20 % pendant 10 s.",
+        "ID": "CRIT Rate Plunging Attack meningkat 20%; Setelah Plunging Attack mengenai musuh, DMG Normal Attack, Plunging Attack, dan Charged Attack meningkat 20% selama 10 detik.",
+        "IT": "#Aumenta di un 20% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 20% per 10 s.",
+        "JP": "落下攻撃の会心率+20%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+20%、継続時間10秒。",
+        "KR": "낙하 공격의 치명타 확률이 20% 증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 20% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta a Taxa CRIT dos Ataques Imersivos em 20%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 20% por 10s.",
+        "RU": "Увеличивает шанс крит. попадания атаки в падении на 20%. После того как атака в падении попадает по противнику, урон обычной атаки, заряженной атаки и атаки в падении увеличивается на 20% на 10 сек.",
+        "TH": "อัตราคริของการโจมตีพุ่งลงจากอากาศเพิ่มขึ้น 20%; หลังจากการโจมตีพุ่งลงจากอากาศโจมตีโดนศัตรู ความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศจะเพิ่มขึ้น 20% เป็นเวลา 10 วินาที",
+        "TR": "Havadan Saldırı Kritik Oranı %20 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %20 artar.",
+        "VI": "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 20%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 20% trong 10s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increase Plunging Attack CRIT Rate by 24%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 24% for 10s.",
+        "CHS": "下落攻击的暴击率提升24%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升24%，持续10秒。",
+        "CHT": "下落攻擊的暴擊率提升24%；下落攻擊命中敵人後，普通攻擊、重擊、下落攻擊造成的傷害提升24%，持續10秒。",
+        "DE": "#Erhöht die KT von Angriffen aus dem Fall um 24 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 24 %.",
+        "ES": "#La Prob. CRIT del Ataque Descendente aumenta en un 24%. Tras golpear a un enemigo con un Ataque Descendente, el daño del Ataque Normal, Cargado y Descendente aumenta en un 24% durante 10 s.",
+        "FR": "Augmente le taux CRIT des attaques plongeantes de 24 %. Lorsqu'une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 24 % pendant 10 s.",
+        "ID": "CRIT Rate Plunging Attack meningkat 24%; Setelah Plunging Attack mengenai musuh, DMG Normal Attack, Plunging Attack, dan Charged Attack meningkat 24% selama 10 detik.",
+        "IT": "#Aumenta di un 24% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 24% per 10 s.",
+        "JP": "落下攻撃の会心率+24%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+24%、継続時間10秒。",
+        "KR": "낙하 공격의 치명타 확률이 24% 증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 24% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta a Taxa CRIT dos Ataques Imersivos em 24%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 24% por 10s.",
+        "RU": "Увеличивает шанс крит. попадания атаки в падении на 24%. После того как атака в падении попадает по противнику, урон обычной атаки, заряженной атаки и атаки в падении увеличивается на 24% на 10 сек.",
+        "TH": "อัตราคริของการโจมตีพุ่งลงจากอากาศเพิ่มขึ้น 24%; หลังจากการโจมตีพุ่งลงจากอากาศโจมตีโดนศัตรู ความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศจะเพิ่มขึ้น 24% เป็นเวลา 10 วินาที",
+        "TR": "Havadan Saldırı Kritik Oranı %24 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %24 artar.",
+        "VI": "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 24%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 24% trong 10s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increase Plunging Attack CRIT Rate by 28%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 28% for 10s.",
+        "CHS": "下落攻击的暴击率提升28%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升28%，持续10秒。",
+        "CHT": "下落攻擊的暴擊率提升28%；下落攻擊命中敵人後，普通攻擊、重擊、下落攻擊造成的傷害提升28%，持續10秒。",
+        "DE": "#Erhöht die KT von Angriffen aus dem Fall um 28 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 28 %.",
+        "ES": "#La Prob. CRIT del Ataque Descendente aumenta en un 28%. Tras golpear a un enemigo con un Ataque Descendente, el daño del Ataque Normal, Cargado y Descendente aumenta en un 28% durante 10 s.",
+        "FR": "Augmente le taux CRIT des attaques plongeantes de 28 %. Lorsqu'une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 28 % pendant 10 s.",
+        "ID": "CRIT Rate Plunging Attack meningkat 28%; Setelah Plunging Attack mengenai musuh, DMG Normal Attack, Plunging Attack, dan Charged Attack meningkat 28% selama 10 detik.",
+        "IT": "#Aumenta di un 28% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 28% per 10 s.",
+        "JP": "落下攻撃の会心率+28%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+28%、継続時間10秒。",
+        "KR": "낙하 공격의 치명타 확률이 28% 증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 28% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta a Taxa CRIT dos Ataques Imersivos em 28%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 28% por 10s.",
+        "RU": "Увеличивает шанс крит. попадания атаки в падении на 28%. После того как атака в падении попадает по противнику, урон обычной атаки, заряженной атаки и атаки в падении увеличивается на 28% на 10 сек.",
+        "TH": "อัตราคริของการโจมตีพุ่งลงจากอากาศเพิ่มขึ้น 28%; หลังจากการโจมตีพุ่งลงจากอากาศโจมตีโดนศัตรู ความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศจะเพิ่มขึ้น 28% เป็นเวลา 10 วินาที",
+        "TR": "Havadan Saldırı Kritik Oranı %28 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %28 artar.",
+        "VI": "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 28%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 28% trong 10s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increase Plunging Attack CRIT Rate by 32%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 32% for 10s.",
+        "CHS": "下落攻击的暴击率提升32%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升32%，持续10秒。",
+        "CHT": "下落攻擊的暴擊率提升32%；下落攻擊命中敵人後，普通攻擊、重擊、下落攻擊造成的傷害提升32%，持續10秒。",
+        "DE": "#Erhöht die KT von Angriffen aus dem Fall um 32 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 32 %.",
+        "ES": "#La Prob. CRIT del Ataque Descendente aumenta en un 32%. Tras golpear a un enemigo con un Ataque Descendente, el daño del Ataque Normal, Cargado y Descendente aumenta en un 32% durante 10 s.",
+        "FR": "Augmente le taux CRIT des attaques plongeantes de 32 %. Lorsqu'une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 32 % pendant 10 s.",
+        "ID": "CRIT Rate Plunging Attack meningkat 32%; Setelah Plunging Attack mengenai musuh, DMG Normal Attack, Plunging Attack, dan Charged Attack meningkat 32% selama 10 detik.",
+        "IT": "#Aumenta di un 32% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 32% per 10 s.",
+        "JP": "落下攻撃の会心率+32%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+32%、継続時間10秒。",
+        "KR": "낙하 공격의 치명타 확률이 32% 증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 32% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta a Taxa CRIT dos Ataques Imersivos em 32%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 32% por 10s.",
+        "RU": "Увеличивает шанс крит. попадания атаки в падении на 32%. После того как атака в падении попадает по противнику, урон обычной атаки, заряженной атаки и атаки в падении увеличивается на 32% на 10 сек.",
+        "TH": "อัตราคริของการโจมตีพุ่งลงจากอากาศเพิ่มขึ้น 32%; หลังจากการโจมตีพุ่งลงจากอากาศโจมตีโดนศัตรู ความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศจะเพิ่มขึ้น 32% เป็นเวลา 10 วินาที",
+        "TR": "Havadan Saldırı Kritik Oranı %32 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %32 artar.",
+        "VI": "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 32%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 32% trong 10s."
+      }
+    }
+  ]
+}

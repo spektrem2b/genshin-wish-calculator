@@ -1,0 +1,52 @@
+{
+  "id": 13436,
+  "name": {
+    "EN": "Song of the Vigil",
+    "CHS": "戍望谣歌",
+    "CHT": "戍望謠歌",
+    "DE": "Wächterlied",
+    "ES": "Balada de la Custodia",
+    "FR": "Chant de la veillée",
+    "ID": "Song of the Vigil",
+    "IT": "Ballata della veglia",
+    "JP": "遠望の歌",
+    "KR": "수호의 노래",
+    "PT": "Canção da Vigília",
+    "RU": "Песнь бдения",
+    "TH": "Song of the Vigil",
+    "TR": "Nöbet Türküsü",
+    "VI": "Ca Dao Hy Vọng"
+  },
+  "nameEn": "Song of the Vigil",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A long spear that once stood guard over all. Today, it has found a new purpose with children and their games of make-believe.",
+    "CHS": "曾为众人守望的长枪，如今在孩子们的扮演游戏里担任重要角色。",
+    "CHT": "曾為眾人守望的長槍，如今在孩子們的扮演遊戲裡擔任重要角色。",
+    "DE": "Ein Speer, der einst für alle Wacht hielt, spielt nun eine wichtige Rolle in den Rollenspielen der Kinder.",
+    "ES": "Una lanza que en el pasado velaba por mucha gente, y que ahora desempeña un papel muy importante en los juegos de rol infantiles.",
+    "FR": "Une longue lance qui jadis veillait sur tout. Aujourd'hui, elle a trouvé une nouvelle utilité auprès des enfants et dans leurs jeux d'imagination.",
+    "ID": "Tombak yang dulu menjaga semua orang, kini memainkan peran penting dalam permainan anak-anak.",
+    "IT": "Una lunga lancia che un tempo vegliava su tutto. Oggi ha trovato un nuovo scopo nei giochi dei bambini.",
+    "JP": "かつて人々を見守っていた長槍。今は子供たちのごっこ遊びで重要な役割を担っている。",
+    "KR": "한때 사람들을 지켜주던 창. 지금은 아이들의 역할놀이에서 중요한 소품으로 쓰이고 있다",
+    "PT": "Uma lança longa que vigiou a todos. Hoje, possui um novo propósito entre crianças e seus jogos de faz-de-conta.",
+    "RU": "Копьё, которое когда-то оберегало всё и вся. Ныне оно играет важную роль в детских играх.",
+    "TH": "หอกที่เคยเฝ้าปกป้องผู้คน ปัจจุบันได้กลายเป็นตัวละครสำคัญ ในเกมสวมบทบาทของพวกเด็ก ๆ",
+    "TR": "Bir zamanlar her yere muhafızlık eden uzun bir mızrak. Bugün ise çocuklar ve onların hayali oyunlarıyla yeni bir amaç buldu.",
+    "VI": "Trường thương từng bảo vệ chúng sinh, nay lại đóng vai trò quan trọng trong những trò chơi nhập vai của lũ trẻ."
+  },
+  "icon": "generated/weapon-profiles/13436/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

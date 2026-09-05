@@ -1,0 +1,52 @@
+{
+  "id": 14435,
+  "name": {
+    "EN": "Clash of Kings",
+    "CHS": "群王局戏",
+    "CHT": "群王局戲",
+    "DE": "Spiel der Könige",
+    "ES": "Choque de Reyes",
+    "FR": "Choc des rois",
+    "ID": "Clash of Kings",
+    "IT": "Scontro tra re",
+    "JP": "諸王の対局",
+    "KR": "왕들의 대국",
+    "PT": "Duelo de Reis",
+    "RU": "Игры королей",
+    "TH": "Clash of Kings",
+    "TR": "Kralların Çarpışması",
+    "VI": "Trò Chơi Của Các Nhà Vua"
+  },
+  "nameEn": "Clash of Kings",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A golden box lavishly inlaid with precious jewels. It houses a game much beloved by the kings of the sands.",
+    "CHS": "由诸多华贵珠宝嵌缀打造的金匣，其中装藏着沙海诸王最喜欢的游戏。",
+    "CHT": "由諸多華貴珠寶嵌綴打造的金匣，其中裝藏著沙海諸王最喜歡的遊戲。",
+    "DE": "Eine goldene Schatulle, besetzt mit zahlreichen prächtigen Edelsteinen, in der das Lieblingsspiel der Könige des Sandmeeres aufbewahrt wird.",
+    "ES": "Un relicario dorado con numerosas incrustaciones de joyas. En su interior guarda el juego favorito de los reyes del mar de arena.",
+    "FR": "Un coffret doré richement incrusté de pierres précieuses. Il renferme un jeu fort prisé des rois des sables.",
+    "ID": "Peti emas yang dihiasi berbagai permata mewah, menyimpan permainan favorit para raja padang pasir.",
+    "IT": "Un cofanetto d'oro riccamente intarsiato con pietre preziose. Contiene un gioco molto amato dai re delle sabbie.",
+    "JP": "数多の華麗な宝石をちりばめた黄金の匣。砂海の諸王が愛した「遊戯」が納められている。",
+    "KR": "수많은 보석으로 장식된 황금 상자. 그 안에는 모래바다의 왕들이 가장 즐기던 놀이가 담겨 있다",
+    "PT": "Uma caixa dourada ricamente incrustada com joias preciosas. Ela guarda um jogo muito apreciado pelos reis das areias.",
+    "RU": "Золотой ларец, украшенный множеством драгоценных камней. В нём хранится любимая игра царей песчаного моря.",
+    "TH": "กล่องทองคำที่สร้างขึ้นและประดับประดาด้วยอัญมณีล้ำค่ามากมาย ภายในบรรจุเกมที่เหล่าราชาแห่งทะเลทรายโปรดปรานที่สุดเอาไว้",
+    "TR": "Değerli mücevherlerle süslenmiş lüks bir altın kutu. İçinde kumların kralları tarafından çok sevilen bir oyunu barındırır.",
+    "VI": "Chiếc hộp vàng được khảm vô số châu báu lộng lẫy, bên trong chứa đựng trò chơi yêu thích nhất của các vị vua biển cát."
+  },
+  "icon": "generated/weapon-profiles/14435/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

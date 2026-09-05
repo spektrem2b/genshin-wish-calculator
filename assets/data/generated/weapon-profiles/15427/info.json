@@ -1,0 +1,52 @@
+{
+  "id": 15427,
+  "name": {
+    "EN": "Range Gauge",
+    "CHS": "测距规",
+    "CHT": "測距規",
+    "DE": "Entfernungsmesser",
+    "ES": "Medidor Telemétrico",
+    "FR": "Jauge de portée",
+    "ID": "Range Gauge",
+    "IT": "Indicatore distanziometrico",
+    "JP": "レンジゲージ",
+    "KR": "거리 측정기",
+    "PT": "Medidor de Alcance",
+    "RU": "Дальномер",
+    "TH": "Range Gauge",
+    "TR": "Menzil Göstergesi",
+    "VI": "Máy Đo Cự Ly"
+  },
+  "nameEn": "Range Gauge",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A measuring instrument that you can rarely find nowadays. It is capable of firing arrows.",
+    "CHS": "如今几乎绝迹的测量工具，具有发射箭矢的能力。",
+    "CHT": "如今幾乎絕跡的測量工具，具有發射箭矢的能力。",
+    "DE": "Das heute fast in Vergessenheit geratene Messgerät. Besitzt die Eigenschaft, Pfeile abzuschießen.",
+    "ES": "Una herramienta de medir que ya no se puede encontrar en prácticamente ningún sitio. Tiene la capacidad de disparar flechas.",
+    "FR": "Un instrument de mesure que l'on trouve rarement de nos jours. Il est capable de tirer des flèches.",
+    "ID": "Alat pengukur yang hampir punah saat ini. Memiliki kemampuan untuk menembakkan anak panah.",
+    "IT": "Uno strumento di misurazione che al giorno d'oggi risulta particolarmente raro. È in grado di scoccare delle frecce.",
+    "JP": "今では、ほとんど見かけなくなった測量ツール。矢を放つ機能を持っている。",
+    "KR": "지금은 거의 사라져 버린 측량 도구. 활을 발사할 수 있다",
+    "PT": "Um instrumento de medida que raramente é visto hoje em dia. É capaz de disparar flechas.",
+    "RU": "Измерительный инструмент, который в наше время нигде не найти. Способен выпускать стрелы.",
+    "TH": "เครื่องมือวัดที่หาได้ยากในปัจจุบัน ซึ่งมีความสามารถในการยิงลูกธนู",
+    "TR": "Bugünlerde nadir bulunan bir ölçüm aleti. Ok fırlatmak için de kullanılabilir.",
+    "VI": "Công cụ đo lường, ngày nay gần như tuyệt tích, có khả năng bắn tên."
+  },
+  "icon": "generated/weapon-profiles/15427/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

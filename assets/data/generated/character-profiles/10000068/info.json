@@ -1,0 +1,137 @@
+{
+  "id": "10000068",
+  "name": {
+    "EN": "Dori",
+    "CHS": "多莉",
+    "CHT": "多莉",
+    "DE": "Dori",
+    "ES": "Dori",
+    "FR": "Dori",
+    "ID": "Dori",
+    "IT": "Dori",
+    "JP": "ドリー",
+    "KR": "도리",
+    "PT": "Dori",
+    "RU": "Дори",
+    "TH": "Dori",
+    "TR": "Dori",
+    "VI": "Dori"
+  },
+  "nameEn": "Dori",
+  "element": "Electro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 12,
+    "day": 21
+  },
+  "release": "2022-09-09T15:00:00",
+  "icon": "generated/character-profiles/10000068/avatar.webp",
+  "fullWish": "generated/character-profiles/10000068/full_wish.webp",
+  "fullWishObjectPosition": "48.8% 28.0%",
+  "title": {
+    "EN": "Treasure of Dream Garden",
+    "CHS": "梦园藏金",
+    "CHT": "夢園藏金",
+    "DE": "Schatz im Schlummerland",
+    "ES": "La Magnate Acaudalada",
+    "FR": "Trésor du jardin onirique",
+    "ID": "Treasure of Dream Garden",
+    "IT": "Tesoro del giardino dei sogni",
+    "JP": "夢の庭に隠せし財宝",
+    "KR": "꿈의 정원에 감춰진 보물",
+    "PT": "Tesouro do Jardim dos Sonhos",
+    "RU": "Сокровище сада снов",
+    "TH": "ห้วงฝันมหาเงินตรา",
+    "TR": "Rüya Bahçesi Hazinesi",
+    "VI": "Kho Báu Vườn Mơ"
+  },
+  "description": {
+    "EN": "An elusive merchant who has a fondness for glittering Mora.",
+    "CHS": "神出鬼没的旅行百货商人，最喜欢亮闪闪的摩拉。",
+    "CHT": "神出鬼沒的旅行百貨商人，最喜歡閃亮亮的摩拉。",
+    "DE": "Eine geheimnisvolle Händlerin in Sumeru, die eine Vorliebe für glitzernde Mora hat.",
+    "ES": "Una impredecible comerciante itinerante cuya mayor pasión es el Mora contante y sonante.",
+    "FR": "Une marchande ambulante avec un penchant pour les moras scintillants.",
+    "ID": "Pedagang keliling yang sulit dipahami dan paling suka dengan Mora yang berkilauan.",
+    "IT": "Una mercante inafferrabile con un debole per i Mora luccicanti.",
+    "JP": "神出鬼没の旅商人。一番好きなものは、キラキラと輝くモラ。",
+    "KR": "신출귀몰한 여행 잡화 상인. 빛나는 모라를 가장 좋아한다",
+    "PT": "Uma comerciante viajante imprevisível, cuja maior paixão é a Mora brilhante.",
+    "RU": "Неуловимая негоциантка из Сумеру, которая больше всего любит блеск монет.",
+    "TH": "แม่ค้าเร่สารพัดผู้ลึกลับ สิ่งที่ชอบที่สุดก็คือประกายแวววับของ Mora",
+    "TR": "Parlak Moralara olan aşkıyla bilinen gizemli bir tüccar.",
+    "VI": "Thương nhân bách hóa xuất quỷ nhập thần, say mê những đồng Mora sáng loáng."
+  },
+  "constellationName": {
+    "EN": "Magicae Lucerna",
+    "CHS": "神灯座",
+    "CHT": "神燈座",
+    "DE": "Magicae Lucerna",
+    "ES": "Magicae Lucerna",
+    "FR": "Magicae Lucerna",
+    "ID": "Magicae Lucerna",
+    "IT": "Magicae Lucerna",
+    "JP": "ランプ座",
+    "KR": "요술램프자리",
+    "PT": "Magicae Lucerna",
+    "RU": "Волшебная Лампа",
+    "TH": "Magicae Lucerna",
+    "TR": "Sihirli Lamba",
+    "VI": "Cung Thần Đăng"
+  },
+  "native": {
+    "EN": "The Palace of Alcazarzaray",
+    "CHS": "艾尔卡萨扎莱宫",
+    "CHT": "艾爾卡薩扎萊宮",
+    "DE": "Palast Alcazarzaray",
+    "ES": "Palacio Alcazarzaray",
+    "FR": "Palais d'Alcazarzaray",
+    "ID": "The Palace of Alcazarzaray",
+    "IT": "Palazzo di Alcazarzaray",
+    "JP": "アルカサルザライパレス",
+    "KR": "알 카자르자레궁",
+    "PT": "Palácio de Alcazarzaray",
+    "RU": "Дворец Алькасар-сарай",
+    "TH": "วัง Alcazarzaray",
+    "TR": "Alkazar Sarayı",
+    "VI": "Cung Điện Alcazarzaray"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Anjali Kunapaneni"
+    },
+    {
+      "lang": "CHS",
+      "va": "王晓彤"
+    },
+    {
+      "lang": "JP",
+      "va": "金田朋子"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Myeong-ho"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.4418,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.6984,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 60.6585,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

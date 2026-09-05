@@ -1,0 +1,52 @@
+{
+  "id": 14407,
+  "name": {
+    "EN": "Mappa Mare",
+    "CHS": "万国诸海图谱",
+    "CHT": "萬國諸海圖譜",
+    "DE": "Illustrationen von Landen und Wassern",
+    "ES": "Carta Náutica",
+    "FR": "Atlas des terres et des mers",
+    "ID": "Mappa Mare",
+    "IT": "Mappa mare",
+    "JP": "万国諸海の図譜",
+    "KR": "만국 항해용해도",
+    "PT": "Mappa Mare",
+    "RU": "Морской атлас",
+    "TH": "Mappa Mare",
+    "TR": "Deniz Haritası",
+    "VI": "Hải Đồ Vạn Quốc"
+  },
+  "nameEn": "Mappa Mare",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders.",
+    "CHS": "详尽记载了大陆周边海流气候的海图，是从异国经由商路流落到璃月的奇异典籍。",
+    "CHT": "詳盡記載了大陸周邊海流氣候的海圖，是從異國經由商路流落到璃月的奇異典籍。",
+    "DE": "Eine sehr detailreiche Seekarte mit den Gewässern rund um Teyvat. Es gehört zu den wundersamen Dokumenten, die über Handelswege nach Liyue gelangt sind.",
+    "ES": "Un mapa muy detallado de las aguas alrededor de Teyvat. Este es uno de los maravillosos documentos que llegaron a través de las rutas comerciales de Liyue.",
+    "FR": "Une carte marine très détaillée des courants et du climat de Teyvat. Un document étonnant, arrivé à Liyue par voie commerciale.",
+    "ID": "Grafik petunjuk untuk berlayar di laut, menunjukkan arus dan iklim di sekitar, mencapai Liyue melalui tangan para pedagang.",
+    "IT": "Un atlante nautico che raffigura le correnti e i climi. Trasportato misteriosamente a Liyue da alcuni mercanti stranieri.",
+    "JP": "大陸周辺の海流気候を詳しく記載した海図、貿易ルートを経て異国から璃月に渡った。",
+    "KR": "대륙 주변의 해류 기후를 기록한 항해도, 이국에서 상로를 거쳐 리월로 전해져 온 기이한 서적이다",
+    "PT": "Um mapa bastante detalhado sobre as águas ao redor de Teyvat. É um documento valioso que apareceu nas rotas comerciais de Liyue.",
+    "RU": "Привезённая иностранными торговцами в Ли Юэ карта морских течений и ветров.",
+    "TH": "แผนที่เดินเรือที่มีบันทึกกระแสน้ำและสภาพอากาศบริเวณใกล้เคียง ช่วยให้ผู้ค้าจากต่างแดนเข้าถึงเมืองท่า Liyue ได้",
+    "TR": "Bölgedeki akıntıları ve iklimi ayrıntılı olarak anlatan bir deniz haritası. Liyue'ye ticaret yoluyla geldiği biliniyor.",
+    "VI": "Hải đồ ghi lại chi tiết vùng khí hậu hải lưu xung quanh đại lục, từ dị quốc qua tay thương nhân lưu lạc đến Liyue."
+  },
+  "icon": "generated/weapon-profiles/14407/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

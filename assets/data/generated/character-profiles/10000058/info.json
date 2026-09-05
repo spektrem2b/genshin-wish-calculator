@@ -1,0 +1,137 @@
+{
+  "id": "10000058",
+  "name": {
+    "EN": "Yae Miko",
+    "CHS": "八重神子",
+    "CHT": "八重神子",
+    "DE": "Yae Miko",
+    "ES": "Yae Miko",
+    "FR": "Yae Miko",
+    "ID": "Yae Miko",
+    "IT": "Yae Miko",
+    "JP": "八重神子",
+    "KR": "야에 미코",
+    "PT": "Yae Miko",
+    "RU": "Яэ Мико",
+    "TH": "Yae Miko",
+    "TR": "Yae Miko",
+    "VI": "Yae Miko"
+  },
+  "nameEn": "Yae Miko",
+  "element": "Electro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 6,
+    "day": 27
+  },
+  "release": "2022-02-15T22:00:00",
+  "icon": "generated/character-profiles/10000058/avatar.webp",
+  "fullWish": "generated/character-profiles/10000058/full_wish.webp",
+  "fullWishObjectPosition": "49.8% 19.9%",
+  "title": {
+    "EN": "Astute Amusement",
+    "CHS": "浮世笑百姿",
+    "CHT": "浮世笑百姿",
+    "DE": "Verhöhnung der Sterblichen",
+    "ES": "La Kitsune Taimada",
+    "FR": "Frivolité ingénieuse",
+    "ID": "Astute Amusement",
+    "IT": "Divertimento astuto",
+    "JP": "浮世笑百姿",
+    "KR": "속세를 비웃는 백 가지 자태",
+    "PT": "Diversão Astuta",
+    "RU": "Озорное лукавство",
+    "TH": "ยิ้มเล่ห์กลยลโลกา",
+    "TR": "Akıl Oyunları",
+    "VI": "Tiếu Ngạo Thế Gian"
+  },
+  "description": {
+    "EN": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+    "CHS": "鸣神大社的宫司大人，兼任「八重堂」总编。艳丽动人的外表下藏着令人意想不到的聪慧与狡黠。",
+    "CHT": "鳴神大社的宮司大人，兼任「八重堂」總編。豔麗動人的外表下藏著令人意想不到的聰慧與狡黠。",
+    "DE": "Die Guuji des Großen Narukami-Schreins und Chefredakteurin des „Verlagshauses Yae“. Hinter ihrem schönen Aussehen verbergen sich unerwartete Intelligenz und Gerissenheit.",
+    "ES": "La Suma Sacerdotisa del Gran Santuario Narukami y editora jefa de la Editorial Yae. Bajo su increíble encanto esconde una inteligencia y una astucia inimaginables.",
+    "FR": "La Guuji Yae du Sanctuaire de Narukami est également responsable éditoriale de la Chambre Yae. Une intelligence et une ruse inimaginables sont cachées sous son apparence gracieuse.",
+    "ID": "Lady Guuji dari Kuil Agung Narukami ini juga menjabat sebagai pemimpin redaksi Yae Publishing House. Kecerdasan dan kelicikan yang tidak dapat dibayangkan tersembunyi di balik penampilannya yang cantik.",
+    "IT": "Lady Guuji del Gran Santuario di Narukami e caporedattrice della Casa editrice Yae. Dietro alla sua bellezza si celano un'intelligenza e un'astuzia incredibili.",
+    "JP": "鳴神大社の宮司様であり、「八重堂」の編集長。華やかな見た目の裏には、思いもよらぬ知性と奸智が隠されている。",
+    "KR": "나루카미 다이샤의 궁사 겸 「야에 출판사」 편집장. 아름다운 외모 아래 예상 밖의 지혜와 교활함이 숨겨져 있다",
+    "PT": "A Senhorita Guuji do Grande Santuário Narukami, e também a Editora-Chefe da Editora Yae. Por trás de sua bela aparência escondem-se sabedoria e astúcia inimagináveis.",
+    "RU": "Гудзи Великого храма Наруками, а также главный редактор издательского дома Яэ. За прекрасной внешностью скрывается неожиданный ум и хитрость.",
+    "TH": "ท่าน Guuji แห่งศาลเจ้า Grand Narukami และเป็นหัวหน้าบรรณาธิการของ \"สำนักพิมพ์ Yae\" ภายใต้รูปโฉมภายนอกที่งดงาม มีความเฉลียวฉลาดและเล่ห์กลซ่อนอยู่",
+    "TR": "Büyük Narukami Tapınağının Leydi Guuji'si aynı zamanda Yae Yayınevinde genel yayın yönetmenidir. Güzelliğinin altında akla hayale sığmayacak bir zeka ve kurnazlık saklıdır.",
+    "VI": "Đại nhân Guuji của Đền Narukami, kiêm tổng biên tập của Nhà Xuất Bản Yae. Phía sau vẻ ngoài xinh đẹp kiều diễm là sự thông minh và xảo quyệt mà khó ai ngờ đến."
+  },
+  "constellationName": {
+    "EN": "Divina Vulpes",
+    "CHS": "仙狐座",
+    "CHT": "仙狐座",
+    "DE": "Divina Vulpes",
+    "ES": "Divina Vulpes",
+    "FR": "Divina Vulpes",
+    "ID": "Divina Vulpes",
+    "IT": "Divina Vulpes",
+    "JP": "仙狐座",
+    "KR": "선호자리",
+    "PT": "Divina Vulpes",
+    "RU": "Божественная Кицунэ",
+    "TH": "Divina Vulpes",
+    "TR": "Kutsal Tilkiler",
+    "VI": "Cung Tiên Hồ"
+  },
+  "native": {
+    "EN": "Grand Narukami Shrine",
+    "CHS": "鸣神大社",
+    "CHT": "鳴神大社",
+    "DE": "Großer Narukami-Schrein",
+    "ES": "Gran Santuario Narukami",
+    "FR": "Sanctuaire de Narukami",
+    "ID": "Grand Narukami Shrine",
+    "IT": "Gran Santuario di Narukami",
+    "JP": "鳴神大社",
+    "KR": "나루카미 다이샤",
+    "PT": "Grande Santuário Narukami",
+    "RU": "Великий храм Наруками",
+    "TH": "ศาลเจ้า Grand Narukami",
+    "TR": "Büyük Narukami Tapınağı",
+    "VI": "Đền Narukami"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Ratana"
+    },
+    {
+      "lang": "CHS",
+      "va": "杜冥鸦"
+    },
+    {
+      "lang": "JP",
+      "va": "佐倉綾音"
+    },
+    {
+      "lang": "KR",
+      "va": "Moon Yoo-jung"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 807.46204,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.4404,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 44.2742,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

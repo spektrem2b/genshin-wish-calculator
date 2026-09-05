@@ -1,0 +1,52 @@
+{
+  "id": 13435,
+  "name": {
+    "EN": "Frostbreath",
+    "CHS": "寒息",
+    "CHT": "寒息",
+    "DE": "Frostatem",
+    "ES": "Hálito Glacial",
+    "FR": "Souffle de givre",
+    "ID": "Frostbreath",
+    "IT": "Gelorespiro",
+    "JP": "氷の吐息",
+    "KR": "서리 숨결",
+    "PT": "Sopro Gélido",
+    "RU": "Морозное дыхание",
+    "TH": "Frostbreath",
+    "TR": "Buznefes",
+    "VI": "Hàn Khí"
+  },
+  "nameEn": "Frostbreath",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A spear of solid ice imbued with an icy chill. It is said that it once belonged to the Belyi Tsar who ruled Snezhnaya in the distant past.",
+    "CHS": "萦绕着寒意的坚冰长枪，据说在遥远的过去曾被统御至冬的白沙皇持有。",
+    "CHT": "縈繞著寒意的堅冰長槍，據說在遙遠的過去曾由統御至冬的白沙皇持有。",
+    "DE": "Eine von Raureif umhüllte Eislanze, die der Überlieferung nach in ferner Vergangenheit einst dem Zaren Belyi von Snezhnaya gehört haben soll.",
+    "ES": "Una lanza de hielo firme envuelta en un frío punzante. Dicen que, en un pasado remoto, perteneció al Zar Belyi que gobernaba Snezhnaya.",
+    "FR": "Une lance de glace pure imprégnée d'un froid glacial. On raconte qu'elle appartenait jadis au Tsar Belyi, qui régna sur Snezhnaya dans un lointain passé.",
+    "ID": "Tombak es panjang yang diselimuti hawa dingin ini konon merupakan milik Belyi Tsar dari Snezhnaya di masa jauh yang lampau.",
+    "IT": "Una lancia di ghiaccio solido pervasa da un gelo intenso. Si dice che un tempo appartenesse allo Tsar Belyi, che regnò su Snezhnaya in un lontano passato.",
+    "JP": "冷気を纏う堅氷の槍。遥かなる昔、スネージナヤを統べたツァーリ・ベールイが手にしていたと言われている。",
+    "KR": "한기가 맴도는 단단한 얼음 창. 아주 먼 옛날 스네즈나야를 통치했던 하얀 차르가 소유했었다고 전해진다",
+    "PT": "Uma lança de gelo sólido imbuída de um frio glacial. Diz-se que outrora pertenceu ao Czar Belyi que governou Snezhnaya em tempos remotos.",
+    "RU": "Копьё из прочного льда, пропитанное жалящим холодом. Говорят, в далёком прошлом им владел Белый царь, правивший Снежной.",
+    "TH": "หอกน้ำแข็งอันแข็งแกร่งที่ห่อหุ้มไปด้วยเจตจำนงเยือกแข็ง ว่ากันว่าในอดีตอันแสนไกล มันเคยถูกครอบครองโดย Belyi Tsar ผู้ปกครอง Snezhnaya",
+    "TR": "Dondurucu soğukla kaplı bir buz mızrağı. Uzak geçmişte Snezhnaya'ya hükmeden Çar Belyi'ye ait olduğu söylenir.",
+    "VI": "Trường thương băng cứng vương vấn hàn ý lạnh giá, tương truyền trong quá khứ xa xôi từng được nắm giữ bởi Bạch Sa Hoàng thống trị Snezhnaya."
+  },
+  "icon": "generated/weapon-profiles/13435/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

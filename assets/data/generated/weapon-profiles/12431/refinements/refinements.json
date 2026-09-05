@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Oath of Qhapaq Nan",
+    "CHS": "苍翠之路的誓言",
+    "CHT": "蒼翠之路的誓言",
+    "DE": "Eid von Qhapaq Nan",
+    "ES": "Juramento de la senda esmeralda",
+    "FR": "Promesse de Qhapaq Nan",
+    "ID": "Oath of Qhapaq Nan",
+    "IT": "Giuramento del Qhapaq Nan",
+    "JP": "蒼翠の道の誓い",
+    "KR": "푸른 길의 맹세",
+    "PT": "Juramento de Qhapaq Nan",
+    "RU": "Клятва Капах-Ньан",
+    "TH": "Oath of Qhapaq Nan",
+    "TR": "Qhapaq Nan Yemini",
+    "VI": "Lời Thề Qhapaq Nan"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 16% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+        "CHS": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升16%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+        "CHT": "隊伍中的角色觸發火元素相關反應後，裝備者元素戰技造成的傷害提升16%，持續8秒。該效果隊伍中的角色處於隊伍後臺時也能觸發。",
+        "DE": "#Erhöht, nachdem ein Truppenmitglied eine Pyro-Reaktion ausgelöst hat, den mit Elementarfähigkeiten des Trägers verursachten Schaden 8 s lang um 16 %. Dieser Effekt kann auch ausgelöst werden, wenn die jeweilige Figur inaktiv in der Truppe ist.",
+        "ES": "#Cuando un personaje del equipo causa una Reacción Elemental Pyro, el daño que inflige el portador de esta arma con su Habilidad Elemental aumenta en un 16% durante 8 s. Este efecto se puede activar incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsqu'un personnage de l'équipe a déclenché une réaction liée à l'élément Pyro, les DGT infligés par la compétence élémentaire du personnage équipé de l'arme augmentent de 16 % pendant 8 s. Cet effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Karakter dalam party memicu reaksi terkait Pyro, DMG Elemental Skill Karakter yang mengenakan senjata ini akan meningkat 16% selama 8 detik. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo che un membro del gruppo innesca una reazione legata a Pyro, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 16% per 8 s. Quest'effetto può attivarsi anche se il membro che innesca la reazione non è in campo.",
+        "JP": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+16%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+        "KR": "파티 내 캐릭터가 불 원소 관련 반응 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 16% 증가한다. 지속 시간: 8초. 해당 효과는 파티 내 캐릭터가 대기 상태일 때도 발동한다",
+        "PT": "Após um membro da equipe desencadear uma reação relacionada ao Pyro, o Dano da Habilidade Elemental do personagem que está com essa arma equipada é aumentado em 16% por 8s. Esse efeito também pode ser desencadeado quando o personagem que causou a reação não está em campo.",
+        "RU": "После того как член отряда активирует реакцию, связанную с Пиро, урон элементального навыка экипированного персонажа повышается на 16% на 8 сек. Этот эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังจากตัวละครในทีมทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟ ความเสียหายที่เกิดจากสกิลธาตุของผู้สวมใส่จะเพิ่มขึ้น 16% เป็นเวลา 8 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir grup üyesi Ateş ile ilgili bir tepkime tetikledikten sonra 8 saniyeliğine kuşanan karakterin Element Becerisi Hasarı %16 artar. Bu etki, etkiyi tetikleyen grup üyesi alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhân vật trong đội kích hoạt phản ứng liên quan đến nguyên tố Hỏa, sát thương Kỹ Năng Nguyên Tố của người trang bị gây ra tăng 16% trong 8s. Hiệu quả này cũng có thể kích hoạt khi nhân vật trong đội không ra trận."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 20% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+        "CHS": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升20%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+        "CHT": "隊伍中的角色觸發火元素相關反應後，裝備者元素戰技造成的傷害提升20%，持續8秒。該效果隊伍中的角色處於隊伍後臺時也能觸發。",
+        "DE": "#Erhöht, nachdem ein Truppenmitglied eine Pyro-Reaktion ausgelöst hat, den mit Elementarfähigkeiten des Trägers verursachten Schaden 8 s lang um 20 %. Dieser Effekt kann auch ausgelöst werden, wenn die jeweilige Figur inaktiv in der Truppe ist.",
+        "ES": "#Cuando un personaje del equipo causa una Reacción Elemental Pyro, el daño que inflige el portador de esta arma con su Habilidad Elemental aumenta en un 20% durante 8 s. Este efecto se puede activar incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsqu'un personnage de l'équipe a déclenché une réaction liée à l'élément Pyro, les DGT infligés par la compétence élémentaire du personnage équipé de l'arme augmentent de 20 % pendant 8 s. Cet effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Karakter dalam party memicu reaksi terkait Pyro, DMG Elemental Skill Karakter yang mengenakan senjata ini akan meningkat 20% selama 8 detik. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo che un membro del gruppo innesca una reazione legata a Pyro, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 20% per 8 s. Quest'effetto può attivarsi anche se il membro che innesca la reazione non è in campo.",
+        "JP": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+20%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+        "KR": "파티 내 캐릭터가 불 원소 관련 반응 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 20% 증가한다. 지속 시간: 8초. 해당 효과는 파티 내 캐릭터가 대기 상태일 때도 발동한다",
+        "PT": "Após um membro da equipe desencadear uma reação relacionada ao Pyro, o Dano da Habilidade Elemental do personagem que está com essa arma equipada é aumentado em 20% por 8s. Esse efeito também pode ser desencadeado quando o personagem que causou a reação não está em campo.",
+        "RU": "После того как член отряда активирует реакцию, связанную с Пиро, урон элементального навыка экипированного персонажа повышается на 20% на 8 сек. Этот эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังจากตัวละครในทีมทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟ ความเสียหายที่เกิดจากสกิลธาตุของผู้สวมใส่จะเพิ่มขึ้น 20% เป็นเวลา 8 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir grup üyesi Ateş ile ilgili bir tepkime tetikledikten sonra 8 saniyeliğine kuşanan karakterin Element Becerisi Hasarı %20 artar. Bu etki, etkiyi tetikleyen grup üyesi alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhân vật trong đội kích hoạt phản ứng liên quan đến nguyên tố Hỏa, sát thương Kỹ Năng Nguyên Tố của người trang bị gây ra tăng 20% trong 8s. Hiệu quả này cũng có thể kích hoạt khi nhân vật trong đội không ra trận."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 24% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+        "CHS": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升24%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+        "CHT": "隊伍中的角色觸發火元素相關反應後，裝備者元素戰技造成的傷害提升24%，持續8秒。該效果隊伍中的角色處於隊伍後臺時也能觸發。",
+        "DE": "#Erhöht, nachdem ein Truppenmitglied eine Pyro-Reaktion ausgelöst hat, den mit Elementarfähigkeiten des Trägers verursachten Schaden 8 s lang um 24 %. Dieser Effekt kann auch ausgelöst werden, wenn die jeweilige Figur inaktiv in der Truppe ist.",
+        "ES": "#Cuando un personaje del equipo causa una Reacción Elemental Pyro, el daño que inflige el portador de esta arma con su Habilidad Elemental aumenta en un 24% durante 8 s. Este efecto se puede activar incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsqu'un personnage de l'équipe a déclenché une réaction liée à l'élément Pyro, les DGT infligés par la compétence élémentaire du personnage équipé de l'arme augmentent de 24 % pendant 8 s. Cet effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Karakter dalam party memicu reaksi terkait Pyro, DMG Elemental Skill Karakter yang mengenakan senjata ini akan meningkat 24% selama 8 detik. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo che un membro del gruppo innesca una reazione legata a Pyro, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 24% per 8 s. Quest'effetto può attivarsi anche se il membro che innesca la reazione non è in campo.",
+        "JP": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+24%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+        "KR": "파티 내 캐릭터가 불 원소 관련 반응 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 24% 증가한다. 지속 시간: 8초. 해당 효과는 파티 내 캐릭터가 대기 상태일 때도 발동한다",
+        "PT": "Após um membro da equipe desencadear uma reação relacionada ao Pyro, o Dano da Habilidade Elemental do personagem que está com essa arma equipada é aumentado em 24% por 8s. Esse efeito também pode ser desencadeado quando o personagem que causou a reação não está em campo.",
+        "RU": "После того как член отряда активирует реакцию, связанную с Пиро, урон элементального навыка экипированного персонажа повышается на 24% на 8 сек. Этот эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังจากตัวละครในทีมทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟ ความเสียหายที่เกิดจากสกิลธาตุของผู้สวมใส่จะเพิ่มขึ้น 24% เป็นเวลา 8 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir grup üyesi Ateş ile ilgili bir tepkime tetikledikten sonra 8 saniyeliğine kuşanan karakterin Element Becerisi Hasarı %24 artar. Bu etki, etkiyi tetikleyen grup üyesi alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhân vật trong đội kích hoạt phản ứng liên quan đến nguyên tố Hỏa, sát thương Kỹ Năng Nguyên Tố của người trang bị gây ra tăng 24% trong 8s. Hiệu quả này cũng có thể kích hoạt khi nhân vật trong đội không ra trận."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 28% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+        "CHS": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升28%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+        "CHT": "隊伍中的角色觸發火元素相關反應後，裝備者元素戰技造成的傷害提升28%，持續8秒。該效果隊伍中的角色處於隊伍後臺時也能觸發。",
+        "DE": "#Erhöht, nachdem ein Truppenmitglied eine Pyro-Reaktion ausgelöst hat, den mit Elementarfähigkeiten des Trägers verursachten Schaden 8 s lang um 28 %. Dieser Effekt kann auch ausgelöst werden, wenn die jeweilige Figur inaktiv in der Truppe ist.",
+        "ES": "#Cuando un personaje del equipo causa una Reacción Elemental Pyro, el daño que inflige el portador de esta arma con su Habilidad Elemental aumenta en un 28% durante 8 s. Este efecto se puede activar incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsqu'un personnage de l'équipe a déclenché une réaction liée à l'élément Pyro, les DGT infligés par la compétence élémentaire du personnage équipé de l'arme augmentent de 28 % pendant 8 s. Cet effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Karakter dalam party memicu reaksi terkait Pyro, DMG Elemental Skill Karakter yang mengenakan senjata ini akan meningkat 28% selama 8 detik. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo che un membro del gruppo innesca una reazione legata a Pyro, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 28% per 8 s. Quest'effetto può attivarsi anche se il membro che innesca la reazione non è in campo.",
+        "JP": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+28%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+        "KR": "파티 내 캐릭터가 불 원소 관련 반응 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 28% 증가한다. 지속 시간: 8초. 해당 효과는 파티 내 캐릭터가 대기 상태일 때도 발동한다",
+        "PT": "Após um membro da equipe desencadear uma reação relacionada ao Pyro, o Dano da Habilidade Elemental do personagem que está com essa arma equipada é aumentado em 28% por 8s. Esse efeito também pode ser desencadeado quando o personagem que causou a reação não está em campo.",
+        "RU": "После того как член отряда активирует реакцию, связанную с Пиро, урон элементального навыка экипированного персонажа повышается на 28% на 8 сек. Этот эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังจากตัวละครในทีมทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟ ความเสียหายที่เกิดจากสกิลธาตุของผู้สวมใส่จะเพิ่มขึ้น 28% เป็นเวลา 8 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir grup üyesi Ateş ile ilgili bir tepkime tetikledikten sonra 8 saniyeliğine kuşanan karakterin Element Becerisi Hasarı %28 artar. Bu etki, etkiyi tetikleyen grup üyesi alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhân vật trong đội kích hoạt phản ứng liên quan đến nguyên tố Hỏa, sát thương Kỹ Năng Nguyên Tố của người trang bị gây ra tăng 28% trong 8s. Hiệu quả này cũng có thể kích hoạt khi nhân vật trong đội không ra trận."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 32% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+        "CHS": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升32%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+        "CHT": "隊伍中的角色觸發火元素相關反應後，裝備者元素戰技造成的傷害提升32%，持續8秒。該效果隊伍中的角色處於隊伍後臺時也能觸發。",
+        "DE": "#Erhöht, nachdem ein Truppenmitglied eine Pyro-Reaktion ausgelöst hat, den mit Elementarfähigkeiten des Trägers verursachten Schaden 8 s lang um 32 %. Dieser Effekt kann auch ausgelöst werden, wenn die jeweilige Figur inaktiv in der Truppe ist.",
+        "ES": "#Cuando un personaje del equipo causa una Reacción Elemental Pyro, el daño que inflige el portador de esta arma con su Habilidad Elemental aumenta en un 32% durante 8 s. Este efecto se puede activar incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsqu'un personnage de l'équipe a déclenché une réaction liée à l'élément Pyro, les DGT infligés par la compétence élémentaire du personnage équipé de l'arme augmentent de 32 % pendant 8 s. Cet effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Karakter dalam party memicu reaksi terkait Pyro, DMG Elemental Skill Karakter yang mengenakan senjata ini akan meningkat 32% selama 8 detik. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo che un membro del gruppo innesca una reazione legata a Pyro, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 32% per 8 s. Quest'effetto può attivarsi anche se il membro che innesca la reazione non è in campo.",
+        "JP": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+32%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+        "KR": "파티 내 캐릭터가 불 원소 관련 반응 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 32% 증가한다. 지속 시간: 8초. 해당 효과는 파티 내 캐릭터가 대기 상태일 때도 발동한다",
+        "PT": "Após um membro da equipe desencadear uma reação relacionada ao Pyro, o Dano da Habilidade Elemental do personagem que está com essa arma equipada é aumentado em 32% por 8s. Esse efeito também pode ser desencadeado quando o personagem que causou a reação não está em campo.",
+        "RU": "После того как член отряда активирует реакцию, связанную с Пиро, урон элементального навыка экипированного персонажа повышается на 32% на 8 сек. Этот эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังจากตัวละครในทีมทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟ ความเสียหายที่เกิดจากสกิลธาตุของผู้สวมใส่จะเพิ่มขึ้น 32% เป็นเวลา 8 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir grup üyesi Ateş ile ilgili bir tepkime tetikledikten sonra 8 saniyeliğine kuşanan karakterin Element Becerisi Hasarı %32 artar. Bu etki, etkiyi tetikleyen grup üyesi alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhân vật trong đội kích hoạt phản ứng liên quan đến nguyên tố Hỏa, sát thương Kỹ Năng Nguyên Tố của người trang bị gây ra tăng 32% trong 8s. Hiệu quả này cũng có thể kích hoạt khi nhân vật trong đội không ra trận."
+      }
+    }
+  ]
+}

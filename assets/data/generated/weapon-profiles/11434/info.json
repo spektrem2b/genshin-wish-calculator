@@ -1,0 +1,52 @@
+{
+  "id": 11434,
+  "name": {
+    "EN": "Moonweaver's Dawn",
+    "CHS": "织月者的曙色",
+    "CHT": "織月者的曙色",
+    "DE": "Dämmerlicht des Mondwebers",
+    "ES": "Alba de la Tejelunas",
+    "FR": "Aube du tisse-lune",
+    "ID": "Moonweaver's Dawn",
+    "IT": "Alba della Tessiluna",
+    "JP": "月紡ぎの曙光",
+    "KR": "달을 엮는 자의 새벽빛",
+    "PT": "Alvorada do Tecedor do Luar",
+    "RU": "Рассвет прядильщицы луны",
+    "TH": "Moonweaver's Dawn",
+    "TR": "Ay Dokuyanın Şafağı",
+    "VI": "Bình Minh Của Người Dệt Trăng"
+  },
+  "nameEn": "Moonweaver's Dawn",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "An immaculate, sharp silver sword that can slice through armor like moonlight flowing through the empty night. According to legend, it is a divine blade, blessed by the first Moonchanter herself.",
+    "CHS": "纯净无垢的锋锐银剑，足以如流淌的月光般穿透坚固的护甲，传说是最初的咏月使祝福过的圣器。",
+    "CHT": "純淨無垢的鋒銳銀劍，足以如流淌的月光般穿透堅固的護甲，傳說是最初的詠月使祝福過的聖器。",
+    "DE": "Ein reines, makelloses Silberschwert, das starke Rüstungen wie das Mondlicht durchdringen kann. Der Legende nach handelt es sich um ein heiliges Artefakt, das von der ersten Mondkantorin gesegnet wurde.",
+    "ES": "Una afilada espada de plata pura e impoluta que puede atravesar armaduras muy robustas con la suavidad de la luz lunar. Dicen que fue un objeto sagrado bendecido por la primera Cantalunas.",
+    "FR": "Une épée d'argent immaculée et tranchante, capable de transpercer une armure comme la lumière de la lune traversant la nuit. Selon la légende, il s'agit d'une lame divine, bénie par la première Émissaire de chantelune en personne.",
+    "ID": "Pedang perak murni dan tajam, cukup kuat untuk menembus baju besi kokoh bagai cahaya bulan yang mengalir. Legenda mengatakan bahwa pedang ini adalah senjata suci yang diberkati oleh Pelantun Rembulan yang paling awal.",
+    "IT": "Una spada d'argento immacolata e affilata, in grado di fendere le armature come il chiaro di luna che attraversa la notte. Secondo la leggenda, è una lama divina benedetta dalla prima Cantaluna.",
+    "JP": "穢れなき鋭い銀の剣。暗闇に射す月光のように、頑丈な鎧をも貫くことができる。伝説では、最初の詠月使が祝福を授けた聖器とされている。",
+    "KR": "순결한 날카로운 은빛 검. 흐르는 달빛처럼 단단한 갑옷을 뚫을 수 있다. 최초의 달을 읊는 사자가 축복을 내린 성물이라고 전해진다",
+    "PT": "Uma espada prateada imaculada e afiada que pode cortar armadura como o luar rompendo a noite. As lendas dizem que é uma lâmina divina abençoada pela primeira Emissária da Canção Lunar.",
+    "RU": "Безупречный и острый серебряный меч, который пронзает доспехи подобно лунному свету. Легенда гласит, что это священный клинок, благословлённый первым Голосом Лунного Гимна.",
+    "TH": "ดาบเงินบริสุทธิ์ไร้มลทิน คมกริบมากพอ ที่จะเจาะทะลุเกราะแข็ง ได้ราวกับแสงจันทร์ที่ไหลริน ตำนานเล่าว่า ดาบเล่มนี้เป็นวัตถุศักดิ์สิทธิ์ ที่ได้รับพร จากทูตจันทราขับขานคนแรก",
+    "TR": "Düşman zırhını adeta sessiz geceyi yaran ay ışığı gibi delip geçebilen pürüzsüz ve keskin bir gümüş kılıç. Efsanelerde ilk Ay İlahicisinin kutsadığı yüce bir kılıç olduğu anlatılır.",
+    "VI": "Thanh kiếm bạc sắc bén và thuần khiết, tựa như dòng chảy ánh trăng đủ sắc bén để xuyên qua lớp giáp kiên cố. Tương truyền, đây là thánh khí từng được Vịnh Nguyệt Sứ đầu tiên chúc phúc."
+  },
+  "icon": "generated/weapon-profiles/11434/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 15304,
+  "name": {
+    "EN": "Slingshot",
+    "CHS": "弹弓",
+    "CHT": "彈弓",
+    "DE": "Steinschleuder",
+    "ES": "Tirachinas",
+    "FR": "Lance-pierres",
+    "ID": "Slingshot",
+    "IT": "Fionda",
+    "JP": "弾弓",
+    "KR": "탄궁",
+    "PT": "Estilingue",
+    "RU": "Рогатка",
+    "TH": "Slingshot",
+    "TR": "Sapan",
+    "VI": "Nỏ Kéo"
+  },
+  "nameEn": "Slingshot",
+  "type": "Cung",
+  "rarity": 3,
+  "description": {
+    "EN": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.",
+    "CHS": "其实就是一把弓。在无数的改进和实验中，发明出究极弹弓的人发现自己做了一把弓。",
+    "CHT": "其實就是一把弓。在無數的改進和實驗中，發明出究極彈弓的人發現自己做了一把弓。",
+    "DE": "Eigentlich ein Bogen. Nach unzähligen Verbesserungen und Experimenten, um die ultimative Steinschleuder zu schaffen, stand der Erfinder am Ende mit einem Bogen in der Hand da.",
+    "ES": "Después de muchas modificaciones y mejoras, su inventor acabó cambiando su aspecto por completo. Ahora, en realidad, es un arco.",
+    "FR": "C'est bien un arc ! Après de nombreuses modifications et améliorations, l'inventeur du lance-pierres ultime s'est finalement retrouvé avec un arc.",
+    "ID": "Selepas namanya, ini adalah sebuah busur. Setelah percobaan dan peningkatan yang tak terhitung jumlahnya, orang yang membuat Slingshot baru menyadari bahwa yang terbentuk adalah sebuah busur.",
+    "IT": "Un arco, a dispetto del nome. Dopo innumerevoli esperimenti e migliorie, il creatore di questa fionda suprema si rese conto di aver fabbricato, in verità, un arco.",
+    "JP": "弾弓ではなく弓である。無数の改良と実験を経て、最後にできたのは弓であることに製作者自身も気付いた。",
+    "KR": "일반적인 활. 궁극적인 활을 만들려고 오랜 실험과 개선을 통해 제작됐으나 만들어진 건 그냥 일반적인 활이다",
+    "PT": "Na verdade, é um arco. Depois de incontáveis experimentos e melhorias, o mestre criador de estilingues acabou criando um arco.",
+    "RU": "На самом деле это лук. Его создатель хотел сделать рогатку, но после кучи доработок и поправок у него получился лук.",
+    "TH": "แม้มีชื่อแบบนี้ แต่แท้จริงแล้วเป็นคันธนู หลังจากพัฒนาและทดลองมานับครั้งไม่ถ้วนโดยผู้สร้างสุดยอดหนังสติ๊ก ก็พบว่าตัวเองได้สร้างธนูขึ้นมาซะแล้ว",
+    "TR": "İsmine aldanma, bu aslında bir yay. Tasarımcının bir sapan üretmek için yaptığı kapsamlı araştırma geliştirme çalışmalarından sonra ortaya çıkan şeyin bir yay olması düşündürücü.",
+    "VI": "Thực chất là một cây cung. Trải qua vô số lần cải tiến và thực nghiệm, người làm ra nó phát hiện mình đã làm một cây nỏ."
+  },
+  "icon": "generated/weapon-profiles/15304/avatar.webp",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.068,
+  "substat_lvl90": 0.3124,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

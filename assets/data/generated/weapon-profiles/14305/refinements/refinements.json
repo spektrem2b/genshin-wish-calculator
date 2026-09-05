@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Guerilla Tactics",
+    "CHS": "奔袭战术",
+    "CHT": "奔襲戰術",
+    "DE": "Überfalltaktik",
+    "ES": "Táctica de asalto",
+    "FR": "Au galop",
+    "ID": "Guerilla Tactic",
+    "IT": "Tattiche da guerriglia",
+    "JP": "襲撃戦術",
+    "KR": "급습 전술",
+    "PT": "Táticas de Invasão",
+    "RU": "Партизанская тактика",
+    "TH": "Guerilla Tactics",
+    "TR": "Gerilla Taktikleri",
+    "VI": "Chiến Thuật Đột Kích"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Defeating an opponent increases Movement SPD and ATK by 12% for 15s.",
+        "CHS": "击败敌人后的15秒内，移动速度和攻击力提升12%。",
+        "CHT": "擊敗敵人後的15秒內，移動速度和攻擊力提升12%。",
+        "DE": "Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um 12 %.",
+        "ES": "Derrotar a un enemigo aumenta la Vel. Movimiento y el ATQ en un 12% durante 15 s.",
+        "FR": "Augmente la VIT de déplacement et l'ATQ de 12 % pendant 15 s après la défaite d'un ennemi.",
+        "ID": "Mengalahkan musuh meningkatkan 12% Movement SPD dan ATK selama 15 detik.",
+        "IT": "#Sconfiggere un avversario aumenta la VEL di movimento e l'ATT di un 12% per 15 s.",
+        "JP": "敵を倒した後15秒間、移動速度と攻撃力+12%。",
+        "KR": "적을 처치한 후 15초 동안 이동 속도와 공격력이 12% 증가한다",
+        "PT": "Ao derrotar um inimigo, aumenta a Veloc. Mov. e o ATQ em 12% por 15s.",
+        "RU": "Победа над противником увеличивает скорость передвижения и силу атаки на 12% в течение 15 сек.",
+        "TH": "ภายในเวลา 15 วินาที หลังจากกำจัดศัตรูได้ ความเร็วเคลื่อนที่และพลังโจมตีจะเพิ่มขึ้น 12%",
+        "TR": "Bir düşmanı yenmek 15 saniyeliğine Hareket Hızını ve Saldırıyı %12 artırır.",
+        "VI": "Trong 15s sau khi đánh bại kẻ địch, tốc độ di chuyển và tấn công tăng 12%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Defeating an opponent increases Movement SPD and ATK by 14% for 15s.",
+        "CHS": "击败敌人后的15秒内，移动速度和攻击力提升14%。",
+        "CHT": "擊敗敵人後的15秒內，移動速度和攻擊力提升14%。",
+        "DE": "Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um 14 %.",
+        "ES": "Derrotar a un enemigo aumenta la Vel. Movimiento y el ATQ en un 14% durante 15 s.",
+        "FR": "Augmente la VIT de déplacement et l'ATQ de 14 % pendant 15 s après la défaite d'un ennemi.",
+        "ID": "Mengalahkan musuh meningkatkan 14% Movement SPD dan ATK selama 15 detik.",
+        "IT": "#Sconfiggere un avversario aumenta la VEL di movimento e l'ATT di un 14% per 15 s.",
+        "JP": "敵を倒した後15秒間、移動速度と攻撃力+14%。",
+        "KR": "적을 처치한 후 15초 동안 이동 속도와 공격력이 14% 증가한다",
+        "PT": "Ao derrotar um inimigo, aumenta a Veloc. Mov. e o ATQ em 14% por 15s.",
+        "RU": "Победа над противником увеличивает скорость передвижения и силу атаки на 14% в течение 15 сек.",
+        "TH": "ภายในเวลา 15 วินาที หลังจากกำจัดศัตรูได้ ความเร็วเคลื่อนที่และพลังโจมตีจะเพิ่มขึ้น 14%",
+        "TR": "Bir düşmanı yenmek 15 saniyeliğine Hareket Hızını ve Saldırıyı %14 artırır.",
+        "VI": "Trong 15s sau khi đánh bại kẻ địch, tốc độ di chuyển và tấn công tăng 14%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Defeating an opponent increases Movement SPD and ATK by 16% for 15s.",
+        "CHS": "击败敌人后的15秒内，移动速度和攻击力提升16%。",
+        "CHT": "擊敗敵人後的15秒內，移動速度和攻擊力提升16%。",
+        "DE": "Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um 16 %.",
+        "ES": "Derrotar a un enemigo aumenta la Vel. Movimiento y el ATQ en un 16% durante 15 s.",
+        "FR": "Augmente la VIT de déplacement et l'ATQ de 16 % pendant 15 s après la défaite d'un ennemi.",
+        "ID": "Mengalahkan musuh meningkatkan 16% Movement SPD dan ATK selama 15 detik.",
+        "IT": "#Sconfiggere un avversario aumenta la VEL di movimento e l'ATT di un 16% per 15 s.",
+        "JP": "敵を倒した後15秒間、移動速度と攻撃力+16%。",
+        "KR": "적을 처치한 후 15초 동안 이동 속도와 공격력이 16% 증가한다",
+        "PT": "Ao derrotar um inimigo, aumenta a Veloc. Mov. e o ATQ em 16% por 15s.",
+        "RU": "Победа над противником увеличивает скорость передвижения и силу атаки на 16% в течение 15 сек.",
+        "TH": "ภายในเวลา 15 วินาที หลังจากกำจัดศัตรูได้ ความเร็วเคลื่อนที่และพลังโจมตีจะเพิ่มขึ้น 16%",
+        "TR": "Bir düşmanı yenmek 15 saniyeliğine Hareket Hızını ve Saldırıyı %16 artırır.",
+        "VI": "Trong 15s sau khi đánh bại kẻ địch, tốc độ di chuyển và tấn công tăng 16%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Defeating an opponent increases Movement SPD and ATK by 18% for 15s.",
+        "CHS": "击败敌人后的15秒内，移动速度和攻击力提升18%。",
+        "CHT": "擊敗敵人後的15秒內，移動速度和攻擊力提升18%。",
+        "DE": "Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um 18 %.",
+        "ES": "Derrotar a un enemigo aumenta la Vel. Movimiento y el ATQ en un 18% durante 15 s.",
+        "FR": "Augmente la VIT de déplacement et l'ATQ de 18 % pendant 15 s après la défaite d'un ennemi.",
+        "ID": "Mengalahkan musuh meningkatkan 18% Movement SPD dan ATK selama 15 detik.",
+        "IT": "#Sconfiggere un avversario aumenta la VEL di movimento e l'ATT di un 18% per 15 s.",
+        "JP": "敵を倒した後15秒間、移動速度と攻撃力+18%。",
+        "KR": "적을 처치한 후 15초 동안 이동 속도와 공격력이 18% 증가한다",
+        "PT": "Ao derrotar um inimigo, aumenta a Veloc. Mov. e o ATQ em 18% por 15s.",
+        "RU": "Победа над противником увеличивает скорость передвижения и силу атаки на 18% в течение 15 сек.",
+        "TH": "ภายในเวลา 15 วินาที หลังจากกำจัดศัตรูได้ ความเร็วเคลื่อนที่และพลังโจมตีจะเพิ่มขึ้น 18%",
+        "TR": "Bir düşmanı yenmek 15 saniyeliğine Hareket Hızını ve Saldırıyı %18 artırır.",
+        "VI": "Trong 15s sau khi đánh bại kẻ địch, tốc độ di chuyển và tấn công tăng 18%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Defeating an opponent increases Movement SPD and ATK by 20% for 15s.",
+        "CHS": "击败敌人后的15秒内，移动速度和攻击力提升20%。",
+        "CHT": "擊敗敵人後的15秒內，移動速度和攻擊力提升20%。",
+        "DE": "Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um 20 %.",
+        "ES": "Derrotar a un enemigo aumenta la Vel. Movimiento y el ATQ en un 20% durante 15 s.",
+        "FR": "Augmente la VIT de déplacement et l'ATQ de 20 % pendant 15 s après la défaite d'un ennemi.",
+        "ID": "Mengalahkan musuh meningkatkan 20% Movement SPD dan ATK selama 15 detik.",
+        "IT": "#Sconfiggere un avversario aumenta la VEL di movimento e l'ATT di un 20% per 15 s.",
+        "JP": "敵を倒した後15秒間、移動速度と攻撃力+20%。",
+        "KR": "적을 처치한 후 15초 동안 이동 속도와 공격력이 20% 증가한다",
+        "PT": "Ao derrotar um inimigo, aumenta a Veloc. Mov. e o ATQ em 20% por 15s.",
+        "RU": "Победа над противником увеличивает скорость передвижения и силу атаки на 20% в течение 15 сек.",
+        "TH": "ภายในเวลา 15 วินาที หลังจากกำจัดศัตรูได้ ความเร็วเคลื่อนที่และพลังโจมตีจะเพิ่มขึ้น 20%",
+        "TR": "Bir düşmanı yenmek 15 saniyeliğine Hareket Hızını ve Saldırıyı %20 artırır.",
+        "VI": "Trong 15s sau khi đánh bại kẻ địch, tốc độ di chuyển và tấn công tăng 20%."
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Starfire Upon the Snowplains",
+    "CHS": "燃于雪原的星火",
+    "CHT": "燃於雪原的星火",
+    "DE": "Im Schneefeld brennendes Sternfeuer",
+    "ES": "Chispa ardiente de las llanuras nevadas",
+    "FR": "Stellafeu sur les neiges",
+    "ID": "Starfire Upon the Snowplains",
+    "IT": "Fuoco stellare sulla neve",
+    "JP": "雪原に燃ゆる星火",
+    "KR": "설원의 불꽃",
+    "PT": "Fogo Estelar sobre as Planícies Nevadas",
+    "RU": "Звёздный огонь над снежными равнинами",
+    "TH": "Starfire Upon the Snowplains",
+    "TR": "Karlı Ovalarda Yıldız Ateşi",
+    "VI": "Lửa Tinh Tú Cháy Trên Tuyết Nguyên"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's ATK by 16% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 16% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的攻击力提升16%；触发星烁反应的12秒内，装备者造成的星烁反应伤害提升16%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的攻擊力提升16%。觸發星爍反應的12秒內，裝備者造成的星爍反應傷害提升16%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion den ANG des Trägers um 16 %. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den durch den Träger mithilfe der Stellarfunkeln-Reaktion verursachten Schaden um 16 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ del portador de esta arma aumenta en un 16% durante 12 s. Tras causar una reacción de Destello Estelar, el daño de Destello Estelar del portador aumenta en un 16% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "#Déclencher une réaction élémentaire augmente l'ATQ du personnage équipé de l'arme de 16 % pendant 12 s, et déclencher une réaction astrale augmente ses DGT de réaction astrale de 16 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, ATK Karakter yang mengenakan +16% selama 12 detik. Setelah memicu reaksi Stellar Glimmer, DMG reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +16% selama 12 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta l'ATT del personaggio che equipaggia l'arma di un 16% per 12 s. Innescare una reazione di Barlume astrale aumenta i DAN inflitti dalle reazioni di Barlume astrale del personaggio di un 16% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の攻撃力+16%。星反応を起こしてからの12秒間、装備者が与える星反応ダメージ+16%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 16% 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터가 주는 별빛 반응 피해가 16% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em 16%. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em 16%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции сила атаки экипированного персонажа повышается на 16%. Активация реакций Звёздного блеска на 12 сек. повышает урон этих реакций, наносимый экипированным персонажем, на 16%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 16%; ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาประกายดาว ความเสียหายปฏิกิริยาประกายดาวที่ผู้สวมใส่สร้าง จะเพิ่มขึ้น 16% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Saldırısı %16 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin verdiği Yıldız Parıltısı Tepkimesi Hasarı %16 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 16% Tấn Công cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 16% sát thương phản ứng Tinh Tú Lấp Lánh trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's ATK by 20% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 20% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的攻击力提升20%；触发星烁反应的12秒内，装备者造成的星烁反应伤害提升20%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的攻擊力提升20%。觸發星爍反應的12秒內，裝備者造成的星爍反應傷害提升20%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion den ANG des Trägers um 20 %. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den durch den Träger mithilfe der Stellarfunkeln-Reaktion verursachten Schaden um 20 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ del portador de esta arma aumenta en un 20% durante 12 s. Tras causar una reacción de Destello Estelar, el daño de Destello Estelar del portador aumenta en un 20% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "#Déclencher une réaction élémentaire augmente l'ATQ du personnage équipé de l'arme de 20 % pendant 12 s, et déclencher une réaction astrale augmente ses DGT de réaction astrale de 20 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, ATK Karakter yang mengenakan +20% selama 12 detik. Setelah memicu reaksi Stellar Glimmer, DMG reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +20% selama 12 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta l'ATT del personaggio che equipaggia l'arma di un 20% per 12 s. Innescare una reazione di Barlume astrale aumenta i DAN inflitti dalle reazioni di Barlume astrale del personaggio di un 20% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の攻撃力+20%。星反応を起こしてからの12秒間、装備者が与える星反応ダメージ+20%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 20% 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터가 주는 별빛 반응 피해가 20% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em 20%. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em 20%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции сила атаки экипированного персонажа повышается на 20%. Активация реакций Звёздного блеска на 12 сек. повышает урон этих реакций, наносимый экипированным персонажем, на 20%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 20%; ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาประกายดาว ความเสียหายปฏิกิริยาประกายดาวที่ผู้สวมใส่สร้าง จะเพิ่มขึ้น 20% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Saldırısı %20 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin verdiği Yıldız Parıltısı Tepkimesi Hasarı %20 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 20% Tấn Công cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 20% sát thương phản ứng Tinh Tú Lấp Lánh trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's ATK by 24% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 24% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的攻击力提升24%；触发星烁反应的12秒内，装备者造成的星烁反应伤害提升24%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的攻擊力提升24%。觸發星爍反應的12秒內，裝備者造成的星爍反應傷害提升24%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion den ANG des Trägers um 24 %. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den durch den Träger mithilfe der Stellarfunkeln-Reaktion verursachten Schaden um 24 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ del portador de esta arma aumenta en un 24% durante 12 s. Tras causar una reacción de Destello Estelar, el daño de Destello Estelar del portador aumenta en un 24% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "#Déclencher une réaction élémentaire augmente l'ATQ du personnage équipé de l'arme de 24 % pendant 12 s, et déclencher une réaction astrale augmente ses DGT de réaction astrale de 24 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, ATK Karakter yang mengenakan +24% selama 12 detik. Setelah memicu reaksi Stellar Glimmer, DMG reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +24% selama 12 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta l'ATT del personaggio che equipaggia l'arma di un 24% per 12 s. Innescare una reazione di Barlume astrale aumenta i DAN inflitti dalle reazioni di Barlume astrale del personaggio di un 24% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の攻撃力+24%。星反応を起こしてからの12秒間、装備者が与える星反応ダメージ+24%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 24% 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터가 주는 별빛 반응 피해가 24% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em 24%. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em 24%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции сила атаки экипированного персонажа повышается на 24%. Активация реакций Звёздного блеска на 12 сек. повышает урон этих реакций, наносимый экипированным персонажем, на 24%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 24%; ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาประกายดาว ความเสียหายปฏิกิริยาประกายดาวที่ผู้สวมใส่สร้าง จะเพิ่มขึ้น 24% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Saldırısı %24 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin verdiği Yıldız Parıltısı Tepkimesi Hasarı %24 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 24% Tấn Công cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 24% sát thương phản ứng Tinh Tú Lấp Lánh trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's ATK by 28% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 28% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的攻击力提升28%；触发星烁反应的12秒内，装备者造成的星烁反应伤害提升28%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的攻擊力提升28%。觸發星爍反應的12秒內，裝備者造成的星爍反應傷害提升28%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion den ANG des Trägers um 28 %. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den durch den Träger mithilfe der Stellarfunkeln-Reaktion verursachten Schaden um 28 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ del portador de esta arma aumenta en un 28% durante 12 s. Tras causar una reacción de Destello Estelar, el daño de Destello Estelar del portador aumenta en un 28% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "#Déclencher une réaction élémentaire augmente l'ATQ du personnage équipé de l'arme de 28 % pendant 12 s, et déclencher une réaction astrale augmente ses DGT de réaction astrale de 28 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, ATK Karakter yang mengenakan +28% selama 12 detik. Setelah memicu reaksi Stellar Glimmer, DMG reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +28% selama 12 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta l'ATT del personaggio che equipaggia l'arma di un 28% per 12 s. Innescare una reazione di Barlume astrale aumenta i DAN inflitti dalle reazioni di Barlume astrale del personaggio di un 28% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の攻撃力+28%。星反応を起こしてからの12秒間、装備者が与える星反応ダメージ+28%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 28% 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터가 주는 별빛 반응 피해가 28% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em 28%. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em 28%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции сила атаки экипированного персонажа повышается на 28%. Активация реакций Звёздного блеска на 12 сек. повышает урон этих реакций, наносимый экипированным персонажем, на 28%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 28%; ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาประกายดาว ความเสียหายปฏิกิริยาประกายดาวที่ผู้สวมใส่สร้าง จะเพิ่มขึ้น 28% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Saldırısı %28 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin verdiği Yıldız Parıltısı Tepkimesi Hasarı %28 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 28% Tấn Công cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 28% sát thương phản ứng Tinh Tú Lấp Lánh trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's ATK by 32% for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by 32% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的攻击力提升32%；触发星烁反应的12秒内，装备者造成的星烁反应伤害提升32%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的攻擊力提升32%。觸發星爍反應的12秒內，裝備者造成的星爍反應傷害提升32%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion den ANG des Trägers um 32 %. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den durch den Träger mithilfe der Stellarfunkeln-Reaktion verursachten Schaden um 32 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ del portador de esta arma aumenta en un 32% durante 12 s. Tras causar una reacción de Destello Estelar, el daño de Destello Estelar del portador aumenta en un 32% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "#Déclencher une réaction élémentaire augmente l'ATQ du personnage équipé de l'arme de 32 % pendant 12 s, et déclencher une réaction astrale augmente ses DGT de réaction astrale de 32 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, ATK Karakter yang mengenakan +32% selama 12 detik. Setelah memicu reaksi Stellar Glimmer, DMG reaksi Stellar Glimmer yang diakibatkan Karakter yang mengenakan +32% selama 12 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta l'ATT del personaggio che equipaggia l'arma di un 32% per 12 s. Innescare una reazione di Barlume astrale aumenta i DAN inflitti dalle reazioni di Barlume astrale del personaggio di un 32% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の攻撃力+32%。星反応を起こしてからの12秒間、装備者が与える星反応ダメージ+32%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 32% 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터가 주는 별빛 반응 피해가 32% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma reação Elemental, aumenta o ATQ do portador em 32%. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o Dano de reações de Brilho Estelar do portador em 32%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции сила атаки экипированного персонажа повышается на 32%. Активация реакций Звёздного блеска на 12 сек. повышает урон этих реакций, наносимый экипированным персонажем, на 32%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 32%; ภายใน 12 วินาที หลังจากทำให้เกิดปฏิกิริยาประกายดาว ความเสียหายปฏิกิริยาประกายดาวที่ผู้สวมใส่สร้าง จะเพิ่มขึ้น 32% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Saldırısı %32 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin verdiği Yıldız Parıltısı Tepkimesi Hasarı %32 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 32% Tấn Công cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 32% sát thương phản ứng Tinh Tú Lấp Lánh trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    }
+  ]
+}

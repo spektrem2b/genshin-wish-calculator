@@ -1,0 +1,52 @@
+{
+  "id": 15515,
+  "name": {
+    "EN": "The Daybreak Chronicles",
+    "CHS": "黎明破晓之史",
+    "CHT": "黎明破曉之史",
+    "DE": "Chroniken der Morgendämmerung",
+    "ES": "Albores de la Historia",
+    "FR": "Les chroniques de l'aube",
+    "ID": "The Daybreak Chronicles",
+    "IT": "Cronache dell'alba",
+    "JP": "暁を告げる歴史",
+    "KR": "여명이 트는 역사",
+    "PT": "As Crônicas do Amanhecer",
+    "RU": "Хроники рассвета",
+    "TH": "The Daybreak Chronicles",
+    "TR": "Şafak Günlükleri",
+    "VI": "Biên Niên Sử Bình Minh"
+  },
+  "nameEn": "The Daybreak Chronicles",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "The songs of resistance come hither on the wind to settle as gentle tones upon these strings, their combined power great enough to rip boundless darkness asunder with the light of the breaking dawn.",
+    "CHS": "一切抗争的诗歌都将乘风而来，落为弦上的轻音。而其中汇聚的力量如同撕开无边黑夜的破晓之光。",
+    "CHT": "一切抗爭的詩歌都將乘風而來，落為弦上的輕音。而其中匯聚的力量如同撕開無邊黑夜的破曉之光。",
+    "DE": "Alle Lieder vom Widerstand werden mit dem Wind weitergetragen und fielen wie sanfte Klänge auf die Saiten. Die hierin konzentrierte Kraft ist wie das Licht der Morgendämmerung, das die Finsternis der Nacht durchbricht.",
+    "ES": "Toda canción de resistencia se convierte en una suave nota musical al ser traída por el viento, y la fuerza que concentra es como un rayo del alba capaz de romper la oscuridad tras una infinidad de noches.",
+    "FR": "Les poèmes de la résistance furent transportés par les vents pour se poser en douces mélodies sur ces cordes. Son pouvoir est assez puissant pour transpercer les ténèbres les plus profondes et laisser place à la lumière du jour.",
+    "ID": "Semua puisi dan lagu tentang perlawanan jatuh bagai nada lembut di dawai. Kekuatannya yang seperti sinar fajar mampu memecah kegelapan dari malam yang tiada henti.",
+    "IT": "Come dolci melodie, i canti della resistenza giungono trasportati dal vento per posarsi su queste corde. L'unione del loro potere è sufficiente a squarciare l'oscurità sconfinata con la luce dell'aurora nascente.",
+    "JP": "全ての抗争は詩歌となり、弦に乗る軽やかな音となった。楽譜に秘められた力はまるで、暗闇を切り裂く払暁の光のようだ。",
+    "KR": "모든 항쟁의 노래가 바람을 타고 와, 여린 소리를 내며 현 위에 내려앉았다. 그 안에 모인 힘은 마치 끝없는 어둠을 찢는 여명의 빛과 같으리라",
+    "PT": "As canções de resistência chegam ao vento como tons gentis, seu poder combinado é grande o suficiente para rasgar a escuridão sem limites com a luz do amanhecer.",
+    "RU": "Сила песен сопротивления, принесённых лёгкими нотами на эти струны ветром, подобна пронзающему кромешную тьму рассвету.",
+    "TH": "บทกวีทั้งหมดของการต่อสู้นั้นล้วนมากับสายลม และร่วงหล่นลงมาเป็นสุ้มเสียงแผ่วเบาบนสาย พลังที่รวบรวมอยู่ในนั้น เป็นเหมือนดั่งแสงแห่งรุ่งอรุณ ที่ตัดความมืดอันไร้ขอบเขตให้ขาดสะบั้น",
+    "TR": "Direniş şarkıları buraya rüzgarla taşınır ve yumuşak ezgiler halinde bu tellere yerleşir. Birleşmiş güçleri, sonsuz karanlığı şafağın ışığıyla yırtıp atacak kadar kudretlidir.",
+    "VI": "Tất cả thơ ca về chiến tranh đều cưỡi gió mà đến, đọng lại thành những thanh âm nhẹ nhàng trên sợi dây. Sức mạnh hội tụ trong đó cứ như ánh sáng bình minh xé toạc đêm tối vô biên."
+  },
+  "icon": "generated/weapon-profiles/15515/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

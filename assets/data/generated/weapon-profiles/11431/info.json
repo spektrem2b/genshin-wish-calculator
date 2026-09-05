@@ -1,0 +1,52 @@
+{
+  "id": 11431,
+  "name": {
+    "EN": "Flute of Ezpitzal",
+    "CHS": "息燧之笛",
+    "CHT": "息燧之笛",
+    "DE": "Ezpitzal-Flöte",
+    "ES": "Flauta de Ezpitzal",
+    "FR": "Flûte d'ezpitzal",
+    "ID": "Flute of Ezpitzal",
+    "IT": "Flauto di Ezpitzal",
+    "JP": "エズピツァルの笛",
+    "KR": "에스피찰의 피리",
+    "PT": "Flauta de Ezpitzal",
+    "RU": "Флейта Эспицаль",
+    "TH": "Flute of Ezpitzal",
+    "TR": "Ezpitzal Flütü",
+    "VI": "Sáo Ezpitzal"
+  },
+  "nameEn": "Flute of Ezpitzal",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A peculiarly shaped jade longsword that has been passed down amongst the Masters of the Night-Wind as a \"priestly flute.\"",
+    "CHS": "造型奇特的玉石长刀，在烟谜主的传承中被称作「祭司之笛」的礼器。",
+    "CHT": "造型奇特的玉石長刀，在煙謎主的傳承中被稱作「祭司之笛」的禮器。",
+    "DE": "Ein Jade-Langschwert von ungewöhnlicher Form, das in der Legende der Meister des Nachtwinds als „Priesterflöte“ bezeichnet wird.",
+    "ES": "Una espada larga de jade de forma peculiar que ha sido transmitida entre los Augures Vientonocturno como una “flauta sacerdotal”.",
+    "FR": "Une épée longue en jade de forme particulière qui a été transmise parmi les Maîtres du vent nocturne comme une « flûte sacerdotale ».",
+    "ID": "Pisau panjang batu giok dengan bentuk yang unik. Dalam warisan Penguasa Angin Malam, senjata ini disebut sebagai \"seruling sakral\".",
+    "IT": "Una spada di giada dalla forma inusuale, tramandata di generazione in generazione come \"flauto sacerdotale\" tra i Maestri del Vento della Notte.",
+    "JP": "変わった形をした玉石の長刀。謎煙の主の伝承では、「祭司の笛」と呼ばれる礼器である。",
+    "KR": "독특한 옥석으로 만든 장검. 연기 주인의 전승에서는 「제사장의 피리」로 불린다",
+    "PT": "Uma lâmina de jade feita de forma peculiar. Nas lendas dos Mestres do Vento Noturno, ela é conhecida como a ritualística \"Flauta do Sacerdote\".",
+    "RU": "Длинный нефритовый меч причудливой формы. Передавался как наследие среди Повелителей Ночного Ветра и назывался «флейтой жрецов».",
+    "TH": "ดาบยาวหยกที่มีรูปทรงแปลกตา อุปกรณ์ประกอบพิธีในตำนานสืบทอดของเผ่าจ้าวแห่งลมราตรี ซึ่งถูกเรียกว่า \"ขลุ่ยนักบวช\"",
+    "TR": "Gece Rüzgarının Ustaları arasında nesilden nesile \"ruhani bir flüt\" olarak aktarılan, tuhaf şekilli bir yeşim uzun kılıç.",
+    "VI": "Thanh đao bằng ngọc thạch có tạo hình kỳ lạ, được truyền lại trong Chủ Nhân Gió Đêm với cái tên \"sáo tư tế\"."
+  },
+  "icon": "generated/weapon-profiles/11431/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.150133,
+  "substat_lvl90": 0.6897,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

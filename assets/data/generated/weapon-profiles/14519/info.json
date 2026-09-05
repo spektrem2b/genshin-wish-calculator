@@ -1,0 +1,52 @@
+{
+  "id": 14519,
+  "name": {
+    "EN": "Vivid Notions",
+    "CHS": "溢彩心念",
+    "CHT": "溢彩心念",
+    "DE": "Farbenfrohe Gedanken",
+    "ES": "Reflexión Iridiscente",
+    "FR": "Notions colorées",
+    "ID": "Vivid Notions",
+    "IT": "Pensieri vivaci",
+    "JP": "ヴィヴィッド・ハート",
+    "KR": "빛나는 마음",
+    "PT": "Coração Resplandecente",
+    "RU": "Переливающиеся чаяния",
+    "TH": "Vivid Notions",
+    "TR": "Parlak Düşünceler",
+    "VI": "Tâm Niệm Sắc Màu"
+  },
+  "nameEn": "Vivid Notions",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A trophy made from gemstones from the Collective of Plenty and crystals from the Flower-Feather Clan. It is said to have once belonged to a legendary wrestler.",
+    "CHS": "由沃陆之邦的宝石与花羽会的水晶锻造而成的奖杯，据说曾属于某位传奇的摔角手。",
+    "CHT": "由沃陸之邦的寶石與花羽會的水晶鍛造而成的獎盃，據說曾屬於某位傳奇的摔角手。",
+    "DE": "Eine Trophäe, geschmiedet aus den Edelsteinen des Kollektivs der Fülle und den Kristallen des Blumenfeder-Klans. Sie soll einst einem legendären Ringkämpfer gehört haben.",
+    "ES": "Un trofeo hecho con gemas de la Comunidad de la Feracidad y cristales de la Tribu Plumaflora. Se dice que perteneció a un luchador legendario.",
+    "FR": "Un trophée fabriqué à partir des pierres précieuses du Collectif de l'abondance et des cristaux du Clan des fleurplumes. On dit qu'il a appartenu à un lutteur légendaire.",
+    "ID": "Sebuah trofi yang terbuat dari permata suku Berlimpah Jaya dan kristal suku Bunga Bersayap. Konon katanya, trofi ini dulunya dimiliki oleh seorang pegulat legendaris.",
+    "IT": "Un trofeo realizzato con gemme preziose della Comunità dell'Abbondanza e cristalli del Clan Piumafiore. Sembra sia appartenuto a una lottatrice leggendaria.",
+    "JP": "豊穣の邦の宝石と花翼の集の水晶で作られたトロフィー。ある伝説のレスラーが所持していたと言われている。",
+    "KR": "비옥한 터전의 보석과 꽃깃회의 수정으로 만든 트로피. 과거 어느 전설적인 레슬링 선수의 소유였다고 전해진다",
+    "PT": "Um troféu feito de gemas do Coletivo da Fartura e cristais do Clã das Plumas de Flores. Dizem que pertenceu a um lendário lutador.",
+    "RU": "Трофей, выполненный из самоцветов Удела Благодатных Земель и кристаллов клана Цветочного Пера. Говорят, когда-то он принадлежал легендарному борцу.",
+    "TH": "ถ้วยรางวัลที่ทำขึ้นจาก อัญมณีของเผ่าผองสรรพสิ่ง และคริสตัลของเผ่าวงศ์ปีกบุปผา ว่ากันว่าครั้งหนึ่งเคยเป็นของ นักมวยปล้ำในตำนานท่านหนึ่ง",
+    "TR": "Bereket Kolektifinden gelen değerli taşlardan ve Çiçek Tüyü Klanından gelen kristallerden yapılmış bir kupa. Bir zamanlar efsanevi bir güreşçiye aitmiş.",
+    "VI": "Chiếc cúp được đúc từ đá quý của Cộng Đồng Trù Phú và pha lê từ Hội Hoa Vũ, nghe nói từng thuộc về một tuyển thủ đấu vật huyền thoại nào đó."
+  },
+  "icon": "generated/weapon-profiles/14519/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

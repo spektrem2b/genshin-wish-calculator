@@ -1,0 +1,52 @@
+{
+  "id": 11518,
+  "name": {
+    "EN": "Athame Artis",
+    "CHS": "黑蚀",
+    "CHT": "黑蝕",
+    "DE": "Athame Artis",
+    "ES": "Athame Artis",
+    "FR": "Athame Artis",
+    "ID": "Athame Artis",
+    "IT": "Athame Artis",
+    "JP": "黒蝕",
+    "KR": "검은 침식",
+    "PT": "Corrupção Sombria",
+    "RU": "Атаме артис",
+    "TH": "Athame Artis",
+    "TR": "Karanlık Ayin Kılıcı",
+    "VI": "Hắc Ám Xâm Thực"
+  },
+  "nameEn": "Athame Artis",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A precious sword gifted by the Day King to the brave hero in the little witch's story, only for the witch to take it and defeat the hero herself.",
+    "CHS": "在小魔女的故事中，原本是白日王赐予勇者的宝剑，后来小魔女用它击败了勇者。",
+    "CHT": "在小魔女的故事中，原本是白日王賜予勇者的寶劍，後來小魔女用它擊敗了勇者。",
+    "DE": "In der Geschichte der kleinen Hexe wurde das Schwert ursprünglich vom Tageskönig an den Tapferen überreicht. Später jedoch setzte die kleine Hexe es ein, um den Tapferen zu besiegen.",
+    "ES": "En la historia de la brujita, esta espada se la concedió el rey del día a un guerrero, pero más tarde, la brujita derrotó a dicho guerrero con ella.",
+    "FR": "Une épée précieuse offerte par le roi du jour au brave héros de l'histoire de la petite sorcière, mais la sorcière s'en empara et vainquit elle-même le héros.",
+    "ID": "Dalam kisah penyihir kecil, pedang ini awalnya diberikan oleh sang Raja Siang kepada sang pemberani, hingga akhirnya si penyihir kecil menggunakannya sendiri untuk mengalahkan sang pemberani.",
+    "IT": "Nella storia della piccola strega, questa preziosa spada fu donata al coraggioso eroe dal Re del Giorno. Tuttavia, in seguito fu la strega a usarla per sconfiggere l'eroe.",
+    "JP": "小さな魔女の物語の中で、白日の王は勇者に宝剣を与えたが、小さな魔女はそれを使って勇者を倒したのだった…",
+    "KR": "꼬마 마녀의 이야기에서 백일왕이 용사에게 하사한 보검이었으나, 후에 꼬마 마녀가 이 검으로 용사를 쓰러뜨렸다",
+    "PT": "Uma espada preciosa presenteada pelo Rei do Dia para o corajoso herói na história da Bruxa. No final, a Bruxa a roubou e derrotou o herói sozinha.",
+    "RU": "В сказке маленькой ведьмы храбрый герой получил меч в подарок от Короля Дня, но в итоге маленькая ведьма использовала его, чтобы победить самого героя.",
+    "TH": "ในนิทานของแม่มดน้อย เดิมทีมันเป็นดาบวิเศษที่ราชันทิวามอบให้แก่ผู้กล้า ทว่าต่อมาแม่มดน้อยก็ได้ใช้มันเอาชนะผู้กล้า",
+    "TR": "Küçük cadının hikayesinde Gündüz Kralı tarafından cesur kahramana hediye edilen değerli bir kılıç. Cadı bu kılıcı alıp kahramanı bizzat yenmiştir.",
+    "VI": "Trong câu chuyện của ma nữ nhỏ, đây vốn dĩ là thanh bảo kiếm được Vua Ban Ngày tặng cho dũng sĩ, sau đó ma nữ nhỏ đã dùng nó để đánh bại dũng sĩ."
+  },
+  "icon": "generated/weapon-profiles/11518/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

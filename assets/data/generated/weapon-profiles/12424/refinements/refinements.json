@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "\"The Silver Tongue\"",
+    "CHS": "「伶牙俐齿」",
+    "CHT": "「伶牙俐齒」",
+    "DE": "„Wortgewandtheit“",
+    "ES": "Elocuencia",
+    "FR": "« Don du bagou »",
+    "ID": "\"The Silver Tongue\"",
+    "IT": "Lingua sciolta",
+    "JP": "「口八丁」",
+    "KR": "「설득력」",
+    "PT": "\"Bom de Papo\"",
+    "RU": "«Острый язык»",
+    "TH": "\"The Silver Tongue\"",
+    "TR": "\"Tatlı Dil\"",
+    "VI": "\"Miệng Mồm Lanh Lợi\""
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "ATK will be increased by 16% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 12% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+        "CHS": "承受火元素附着后的15秒内，攻击力提升16%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升12%，每12秒至多触发一次。",
+        "CHT": "承受火元素附著後的15秒內，攻擊力提升16%，每12秒至多觸發一次；承受水元素、冰元素、雷元素或草元素附著後的15秒內，所有元素傷害加成提升12%，每12秒至多觸發一次。",
+        "DE": "#Erhöht nach dem Erleiden vom Pyro-Attribut den ANG 15 s lang um 16 %. 12 s Abklingzeit. Erhöht nach dem Erleiden von Hydro-, Kryo-, Elektro- oder Dendro-Attributen 15 s lang den Elementar-SCH-Bonus aller Elemente um 12 %. 12 s Abklingzeit.",
+        "ES": "#Tras ser afectado por Pyro, el ATQ aumenta en un 16% durante 15 s. Tras ser afectado por Hydro, Cryo, Electro o Dendro, todos los Bonos de Daño Elemental aumentan en un 12% durante 15 s. Cada uno de estos efectos solo se puede activar una vez cada 12 s.",
+        "FR": "L'ATQ augmente de 16 % pendant 15 s après avoir été affecté par l'élément Pyro, cet effet pouvant être déclenché une fois toutes les 12 s. Le bonus de DGT élémentaires augmente de 12 % pendant 15 s après avoir été affecté par l'élément Hydro, Cryo, Électro ou Dendro, cet effet pouvant être déclenché une fois toutes les 12 s.",
+        "ID": "Meningkatkan ATK sebesar 16% selama 15 detik setelah menerima efek Pyro, dapat terpicu sekali setiap 12 detik. Meningkatkan Elemental DMG Bonus seluruh elemen sebesar 12% selama 15 detik setelah menerima efek Hydro, Cryo, Electro, atau Dendro, dapat terpicu sekali setiap 12 detik.",
+        "IT": "#Se il personaggio finisce sotto l'effetto di Pyro, il suo ATT aumenta di un 16% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s. Se il personaggio finisce sotto l'effetto di Hydro, Cryo, Electro o Dendro, il bonus DAN per tutti gli elementi aumenta di un 12% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s.",
+        "JP": "炎元素を付着させられた後の15秒間、攻撃力+16%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+12%、12秒毎に1回のみ発動可能。",
+        "KR": "불 원소가 부착된 후 15초 동안 공격력이 16% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다. 물 원소, 얼음 원소, 번개 원소, 풀 원소가 부착된 후 15초 동안 모든 원소 피해 보너스가 12% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다",
+        "PT": "Nos 15s seguintes após ser afetado por Pyro, aumenta o ATQ em 16%. Esse efeito pode ser desencadeado uma vez a cada 12s. Nos 15s após ser afetado por Hydro, Cryo, Electro ou Dendro fornece Bônus de Dano de todos os Elementos de 12%. Esse efeito pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Повышает силу атаки на 16% на 15 сек. после получения эффекта Пиро. Этот эффект может возникнуть один раз в 12 сек. После получения эффектов Гидро, Крио, Электро или Дендро бонус элементального урона на 15 сек. увеличивается на 12%. Может возникнуть раз в 12 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากติดสถานะธาตุไฟ พลังโจมตีจะเพิ่มขึ้น 16% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที; ภายใน 15 วินาที หลังจากติดสถานะธาตุน้ำ น้ำแข็ง ไฟฟ้าหรือไม้ โบนัสความเสียหายธาตุทั้งหมดจะเพิ่มขึ้น 12% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที",
+        "TR": "Ateş etkisine girdikten sonra 15 saniyeliğine Saldırı %16 artar. Bu etki her 12 saniyede bir tetiklenebilir. Su, Buz, Elektrik veya Doğa etkisine girdikten sonra 15 saniyeliğine Tüm Element Hasarları %12 artar. Bu etki her 12 saniyede bir tetiklenebilir.",
+        "VI": "Trong 15s khi bị gán ấn nguyên tố Hỏa, tấn công tăng 16%, mỗi 12s tối đa kích hoạt một lần; Trong 15s khi bị gán ấn nguyên tố Thủy, Băng, Lôi hoặc Thảo, buff sát thương tất cả nguyên tố tăng 12%, mỗi 12s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "ATK will be increased by 20% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 15% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+        "CHS": "承受火元素附着后的15秒内，攻击力提升20%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升15%，每12秒至多触发一次。",
+        "CHT": "承受火元素附著後的15秒內，攻擊力提升20%，每12秒至多觸發一次；承受水元素、冰元素、雷元素或草元素附著後的15秒內，所有元素傷害加成提升15%，每12秒至多觸發一次。",
+        "DE": "#Erhöht nach dem Erleiden vom Pyro-Attribut den ANG 15 s lang um 20 %. 12 s Abklingzeit. Erhöht nach dem Erleiden von Hydro-, Kryo-, Elektro- oder Dendro-Attributen 15 s lang den Elementar-SCH-Bonus aller Elemente um 15 %. 12 s Abklingzeit.",
+        "ES": "#Tras ser afectado por Pyro, el ATQ aumenta en un 20% durante 15 s. Tras ser afectado por Hydro, Cryo, Electro o Dendro, todos los Bonos de Daño Elemental aumentan en un 15% durante 15 s. Cada uno de estos efectos solo se puede activar una vez cada 12 s.",
+        "FR": "#L'ATQ augmente de 20 % pendant 15 s après avoir été affecté par l'élément Pyro, cet effet pouvant être déclenché une fois toutes les 12 s. Le bonus de DGT élémentaires augmente de 15 % pendant 15 s après avoir été affecté par l'élément Hydro, Cryo, Électro ou Dendro, cet effet pouvant être déclenché une fois toutes les 12 s.",
+        "ID": "Meningkatkan ATK sebesar 20% selama 15 detik setelah menerima efek Pyro, dapat terpicu sekali setiap 12 detik. Meningkatkan Elemental DMG Bonus seluruh elemen sebesar 15% selama 15 detik setelah menerima efek Hydro, Cryo, Electro, atau Dendro, dapat terpicu sekali setiap 12 detik.",
+        "IT": "#Se il personaggio finisce sotto l'effetto di Pyro, il suo ATT aumenta di un 20% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s. Se il personaggio finisce sotto l'effetto di Hydro, Cryo, Electro o Dendro, il bonus DAN per tutti gli elementi aumenta di un 15% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s.",
+        "JP": "炎元素を付着させられた後の15秒間、攻撃力+20%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+15%、12秒毎に1回のみ発動可能。",
+        "KR": "불 원소가 부착된 후 15초 동안 공격력이 20% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다. 물 원소, 얼음 원소, 번개 원소, 풀 원소가 부착된 후 15초 동안 모든 원소 피해 보너스가 15% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다",
+        "PT": "Nos 15s seguintes após ser afetado por Pyro, aumenta o ATQ em 20%. Esse efeito pode ser desencadeado uma vez a cada 12s. Nos 15s após ser afetado por Hydro, Cryo, Electro ou Dendro, fornece Bônus de Dano de todos os Elementos de 15%. Esse efeito pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Повышает силу атаки на 20% на 15 сек. после получения эффекта Пиро. Этот эффект может возникнуть один раз в 12 сек. После получения эффектов Гидро, Крио, Электро или Дендро бонус элементального урона на 15 сек. увеличивается на 15%. Может возникнуть раз в 12 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากติดสถานะธาตุไฟ พลังโจมตีจะเพิ่มขึ้น 20% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที; ภายใน 15 วินาที หลังจากติดสถานะธาตุน้ำ น้ำแข็ง ไฟฟ้าหรือไม้ โบนัสความเสียหายธาตุทั้งหมดจะเพิ่มขึ้น 15% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที",
+        "TR": "Ateş etkisine girdikten sonra 15 saniyeliğine Saldırı %20 artar. Bu etki her 12 saniyede bir tetiklenebilir. Su, Buz, Elektrik veya Doğa etkisine girdikten sonra 15 saniyeliğine Tüm Element Hasarları %15 artar. Bu etki her 12 saniyede bir tetiklenebilir.",
+        "VI": "Trong 15s khi bị gán ấn nguyên tố Hỏa, tấn công tăng 20%, mỗi 12s tối đa kích hoạt một lần; Trong 15s khi bị gán ấn nguyên tố Thủy, Băng, Lôi hoặc Thảo, buff sát thương tất cả nguyên tố tăng 15%, mỗi 12s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "ATK will be increased by 24% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 18% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+        "CHS": "承受火元素附着后的15秒内，攻击力提升24%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升18%，每12秒至多触发一次。",
+        "CHT": "承受火元素附著後的15秒內，攻擊力提升24%，每12秒至多觸發一次；承受水元素、冰元素、雷元素或草元素附著後的15秒內，所有元素傷害加成提升18%，每12秒至多觸發一次。",
+        "DE": "#Erhöht nach dem Erleiden vom Pyro-Attribut den ANG 15 s lang um 24 %. 12 s Abklingzeit. Erhöht nach dem Erleiden von Hydro-, Kryo-, Elektro- oder Dendro-Attributen 15 s lang den Elementar-SCH-Bonus aller Elemente um 18 %. 12 s Abklingzeit.",
+        "ES": "#Tras ser afectado por Pyro, el ATQ aumenta en un 24% durante 15 s. Tras ser afectado por Hydro, Cryo, Electro o Dendro, todos los Bonos de Daño Elemental aumentan en un 18% durante 15 s. Cada uno de estos efectos solo se puede activar una vez cada 12 s.",
+        "FR": "#L'ATQ augmente de 24 % pendant 15 s après avoir été affecté par l'élément Pyro, cet effet pouvant être déclenché une fois toutes les 12 s. Le bonus de DGT élémentaires augmente de 18 % pendant 15 s après avoir été affecté par l'élément Hydro, Cryo, Électro ou Dendro, cet effet pouvant être déclenché une fois toutes les 12 s.",
+        "ID": "Meningkatkan ATK sebesar 24% selama 15 detik setelah menerima efek Pyro, dapat terpicu sekali setiap 12 detik. Meningkatkan Elemental DMG Bonus seluruh elemen sebesar 18% selama 15 detik setelah menerima efek Hydro, Cryo, Electro, atau Dendro, dapat terpicu sekali setiap 12 detik.",
+        "IT": "#Se il personaggio finisce sotto l'effetto di Pyro, il suo ATT aumenta di un 24% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s. Se il personaggio finisce sotto l'effetto di Hydro, Cryo, Electro o Dendro, il bonus DAN per tutti gli elementi aumenta di un 18% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s.",
+        "JP": "炎元素を付着させられた後の15秒間、攻撃力+24%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+18%、12秒毎に1回のみ発動可能。",
+        "KR": "불 원소가 부착된 후 15초 동안 공격력이 24% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다. 물 원소, 얼음 원소, 번개 원소, 풀 원소가 부착된 후 15초 동안 모든 원소 피해 보너스가 18% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다",
+        "PT": "Nos 15s seguintes após ser afetado por Pyro, aumenta o ATQ em 24%. Esse efeito pode ser desencadeado uma vez a cada 12s. Nos 15s após ser afetado por Hydro, Cryo, Electro ou Dendro, fornece Bônus de Dano de todos os Elementos de 18%. Esse efeito pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Повышает силу атаки на 24% на 15 сек. после получения эффекта Пиро. Этот эффект может возникнуть один раз в 12 сек. После получения эффектов Гидро, Крио, Электро или Дендро бонус элементального урона на 15 сек. увеличивается на 18%. Может возникнуть раз в 12 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากติดสถานะธาตุไฟ พลังโจมตีจะเพิ่มขึ้น 24% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที; ภายใน 15 วินาที หลังจากติดสถานะธาตุน้ำ น้ำแข็ง ไฟฟ้าหรือไม้ โบนัสความเสียหายธาตุทั้งหมดจะเพิ่มขึ้น 18% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที",
+        "TR": "Ateş etkisine girdikten sonra 15 saniyeliğine Saldırı %24 artar. Bu etki her 12 saniyede bir tetiklenebilir. Su, Buz, Elektrik veya Doğa etkisine girdikten sonra 15 saniyeliğine Tüm Element Hasarları %18 artar. Bu etki her 12 saniyede bir tetiklenebilir.",
+        "VI": "Trong 15s khi bị gán ấn nguyên tố Hỏa, tấn công tăng 24%, mỗi 12s tối đa kích hoạt một lần; Trong 15s khi bị gán ấn nguyên tố Thủy, Băng, Lôi hoặc Thảo, buff sát thương tất cả nguyên tố tăng 18%, mỗi 12s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "ATK will be increased by 28% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 21% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+        "CHS": "承受火元素附着后的15秒内，攻击力提升28%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升21%，每12秒至多触发一次。",
+        "CHT": "承受火元素附著後的15秒內，攻擊力提升28%，每12秒至多觸發一次；承受水元素、冰元素、雷元素或草元素附著後的15秒內，所有元素傷害加成提升21%，每12秒至多觸發一次。",
+        "DE": "#Erhöht nach dem Erleiden vom Pyro-Attribut den ANG 15 s lang um 28 %. 12 s Abklingzeit. Erhöht nach dem Erleiden von Hydro-, Kryo-, Elektro- oder Dendro-Attributen 15 s lang den Elementar-SCH-Bonus aller Elemente um 21 %. 12 s Abklingzeit.",
+        "ES": "#Tras ser afectado por Pyro, el ATQ aumenta en un 28% durante 15 s. Tras ser afectado por Hydro, Cryo, Electro o Dendro, todos los Bonos de Daño Elemental aumentan en un 21% durante 15 s. Cada uno de estos efectos solo se puede activar una vez cada 12 s.",
+        "FR": "#L'ATQ augmente de 28 % pendant 15 s après avoir été affecté par l'élément Pyro, cet effet pouvant être déclenché une fois toutes les 12 s. Le bonus de DGT élémentaires augmente de 21 % pendant 15 s après avoir été affecté par l'élément Hydro, Cryo, Électro ou Dendro, cet effet pouvant être déclenché une fois toutes les 12 s.",
+        "ID": "Meningkatkan ATK sebesar 28% selama 15 detik setelah menerima efek Pyro, dapat terpicu sekali setiap 12 detik. Meningkatkan Elemental DMG Bonus seluruh elemen sebesar 21% selama 15 detik setelah menerima efek Hydro, Cryo, Electro, atau Dendro, dapat terpicu sekali setiap 12 detik.",
+        "IT": "#Se il personaggio finisce sotto l'effetto di Pyro, il suo ATT aumenta di un 28% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s. Se il personaggio finisce sotto l'effetto di Hydro, Cryo, Electro o Dendro, il bonus DAN per tutti gli elementi aumenta di un 21% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s.",
+        "JP": "炎元素を付着させられた後の15秒間、攻撃力+28%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+21%、12秒毎に1回のみ発動可能。",
+        "KR": "불 원소가 부착된 후 15초 동안 공격력이 28% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다. 물 원소, 얼음 원소, 번개 원소, 풀 원소가 부착된 후 15초 동안 모든 원소 피해 보너스가 21% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다",
+        "PT": "Nos 15s seguintes após ser afetado por Pyro, aumenta o ATQ em 28%. Esse efeito pode ser desencadeado uma vez a cada 12s. Nos 15s após ser afetado por Hydro, Cryo, Electro ou Dendro, fornece Bônus de Dano de todos os Elementos de 21%. Esse efeito pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Повышает силу атаки на 28% на 15 сек. после получения эффекта Пиро. Этот эффект может возникнуть один раз в 12 сек. После получения эффектов Гидро, Крио, Электро или Дендро бонус элементального урона на 15 сек. увеличивается на 21%. Может возникнуть раз в 12 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากติดสถานะธาตุไฟ พลังโจมตีจะเพิ่มขึ้น 28% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที; ภายใน 15 วินาที หลังจากติดสถานะธาตุน้ำ น้ำแข็ง ไฟฟ้าหรือไม้ โบนัสความเสียหายธาตุทั้งหมดจะเพิ่มขึ้น 21% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที",
+        "TR": "Ateş etkisine girdikten sonra 15 saniyeliğine Saldırı %28 artar. Bu etki her 12 saniyede bir tetiklenebilir. Su, Buz, Elektrik veya Doğa etkisine girdikten sonra 15 saniyeliğine Tüm Element Hasarları %21 artar. Bu etki her 12 saniyede bir tetiklenebilir.",
+        "VI": "Trong 15s khi bị gán ấn nguyên tố Hỏa, tấn công tăng 28%, mỗi 12s tối đa kích hoạt một lần; Trong 15s khi bị gán ấn nguyên tố Thủy, Băng, Lôi hoặc Thảo, buff sát thương tất cả nguyên tố tăng 21%, mỗi 12s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "ATK will be increased by 32% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 24% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+        "CHS": "承受火元素附着后的15秒内，攻击力提升32%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升24%，每12秒至多触发一次。",
+        "CHT": "承受火元素附著後的15秒內，攻擊力提升32%，每12秒至多觸發一次；承受水元素、冰元素、雷元素或草元素附著後的15秒內，所有元素傷害加成提升24%，每12秒至多觸發一次。",
+        "DE": "#Erhöht nach dem Erleiden vom Pyro-Attribut den ANG 15 s lang um 32 %. 12 s Abklingzeit. Erhöht nach dem Erleiden von Hydro-, Kryo-, Elektro- oder Dendro-Attributen 15 s lang den Elementar-SCH-Bonus aller Elemente um 24 %. 12 s Abklingzeit.",
+        "ES": "#Tras ser afectado por Pyro, el ATQ aumenta en un 32% durante 15 s. Tras ser afectado por Hydro, Cryo, Electro o Dendro, todos los Bonos de Daño Elemental aumentan en un 24% durante 15 s. Cada uno de estos efectos solo se puede activar una vez cada 12 s.",
+        "FR": "#L'ATQ augmente de 32 % pendant 15 s après avoir été affecté par l'élément Pyro, cet effet pouvant être déclenché une fois toutes les 12 s. Le bonus de DGT élémentaires augmente de 24 % pendant 15 s après avoir été affecté par l'élément Hydro, Cryo, Électro ou Dendro, cet effet pouvant être déclenché une fois toutes les 12 s.",
+        "ID": "Meningkatkan ATK sebesar 32% selama 15 detik setelah menerima efek Pyro, dapat terpicu sekali setiap 12 detik. Meningkatkan Elemental DMG Bonus seluruh elemen sebesar 24% selama 15 detik setelah menerima efek Hydro, Cryo, Electro, atau Dendro, dapat terpicu sekali setiap 12 detik.",
+        "IT": "#Se il personaggio finisce sotto l'effetto di Pyro, il suo ATT aumenta di un 32% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s. Se il personaggio finisce sotto l'effetto di Hydro, Cryo, Electro o Dendro, il bonus DAN per tutti gli elementi aumenta di un 24% per i 15 s successivi. Quest'effetto può attivarsi una volta ogni 12 s.",
+        "JP": "炎元素を付着させられた後の15秒間、攻撃力+32%、12秒毎に1回のみ発動可能。水元素、氷元素、雷元素または草元素を付着させられた後の15秒間、全元素ダメージ+24%、12秒毎に1回のみ発動可能。",
+        "KR": "불 원소가 부착된 후 15초 동안 공격력이 32% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다. 물 원소, 얼음 원소, 번개 원소, 풀 원소가 부착된 후 15초 동안 모든 원소 피해 보너스가 24% 증가한다. 해당 효과는 12초마다 최대 1회 발동된다",
+        "PT": "Nos 15s seguintes após ser afetado por Pyro, aumenta o ATQ em 32%. Esse efeito pode ser desencadeado uma vez a cada 12s. Nos 15s após ser afetado por Hydro, Cryo, Electro ou Dendro, fornece Bônus de Dano de todos os Elementos de 24%. Esse efeito pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Повышает силу атаки на 32% на 15 сек. после получения эффекта Пиро. Этот эффект может возникнуть один раз в 12 сек. После получения эффектов Гидро, Крио, Электро или Дендро бонус элементального урона на 15 сек. увеличивается на 24%. Может возникнуть раз в 12 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากติดสถานะธาตุไฟ พลังโจมตีจะเพิ่มขึ้น 32% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที; ภายใน 15 วินาที หลังจากติดสถานะธาตุน้ำ น้ำแข็ง ไฟฟ้าหรือไม้ โบนัสความเสียหายธาตุทั้งหมดจะเพิ่มขึ้น 24% โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที",
+        "TR": "Ateş etkisine girdikten sonra 15 saniyeliğine Saldırı %32 artar. Bu etki her 12 saniyede bir tetiklenebilir. Su, Buz, Elektrik veya Doğa etkisine girdikten sonra 15 saniyeliğine Tüm Element Hasarları %24 artar. Bu etki her 12 saniyede bir tetiklenebilir.",
+        "VI": "Trong 15s khi bị gán ấn nguyên tố Hỏa, tấn công tăng 32%, mỗi 12s tối đa kích hoạt một lần; Trong 15s khi bị gán ấn nguyên tố Thủy, Băng, Lôi hoặc Thảo, buff sát thương tất cả nguyên tố tăng 24%, mỗi 12s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

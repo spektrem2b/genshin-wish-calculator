@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Secret Silver's Testament",
+    "CHS": "秘银的血告",
+    "CHT": "秘銀的血告",
+    "DE": "Blut des geheimen Silbers",
+    "ES": "Testamento de la plata secreta",
+    "FR": "Testament d'argent secret",
+    "ID": "Secret Silver's Testament",
+    "IT": "Testamento dell'argento segreto",
+    "JP": "秘銀の血告",
+    "KR": "은빛 피의 선언",
+    "PT": "Testemunho da Prata Sagrada",
+    "RU": "Завет тайного серебра",
+    "TH": "Secret Silver's Testament",
+    "TR": "Saklı Gümüşün Ahdi",
+    "VI": "Di Chúc Bạc Huyền Bí"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 20%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 16%/28%.",
+        "CHS": "元素爆发造成的伤害提高20%；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高16%/28%。",
+        "CHT": "元素爆發造成的傷害提高20%；裝備者的元素能量上限不超過60/40點時，元素爆發造成的傷害額外提高16%/28%。",
+        "DE": "#Erhöht den mit Spezialfähigkeiten verursachten Schaden um 20 %. Erhöht den mit Spezialfähigkeiten verursachten Schaden zusätzlich um 16 % / 28 %, wenn die max. Elementarenergie des Trägers nicht mehr als 60/40 Punkte ist.",
+        "ES": "#Aumenta en un 20% el daño de la Habilidad Definitiva. Si la Energía Elemental máxima del personaje no supera los 60/40 pts., el daño de la Habilidad Definitiva aumenta en un 16/28% adicional.",
+        "FR": "Les DGT infligés par les déchaînements élémentaires augmentent de 20 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme ne dépasse pas 60 ou 40 pts, les DGT infligés par ses déchaînements élémentaires augmentent respectivement de 16 % ou 28 % supplémentaires.",
+        "ID": "DMG Elemental Burst +20%. Saat Energy maksimum Karakter yang mengenakan tidak lebih dari 60/40 poin, maka DMG Elemental Burst +16%/28% lagi.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 20%. Quando il costo di energia del Tripudio elementale del personaggio che equipaggia l'arma non supera i 60/40 punti, i DAN da Tripudio elementale aumentano di un ulteriore 16%/28%.",
+        "JP": "元素爆発ダメージ+20%。装備者の元素エネルギー上限が60/40以下の場合、元素爆発ダメージがさらに+16%/28%。",
+        "KR": "원소폭발로 주는 피해가 20% 증가한다. 장착 캐릭터의 원소 에너지 최대치가 60/40pt를 초과하지 않을 시, 원소폭발로 주는 피해가 추가로 16%/28% 증가한다",
+        "PT": "Aumenta o Dano causado pelo Supremo em 20%. Quando a Energia Elemental do personagem que está com essa arma equipada não é maior que 60/40, aumenta o Dano do Supremo em mais 16%/28%.",
+        "RU": "Урон взрыва стихии повышается на 20%. Если максимум энергии экипированного персонажа не превышает 60/40 ед., то урон его взрыва стихии дополнительно повышается на 16%/28%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 20%; เมื่อพลังงานธาตุสูงสุดของผู้สวมใส่ไม่เกิน 60/40 หน่วย ท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้นอีก 16%/28%",
+        "TR": "Element Patlaması Hasarını %20 artırır. Kuşanan karakterin Enerji Kapasitesi 60/40 üzerinde olmadığında Element Patlaması Hasarı ek olarak %16/%28 daha artar.",
+        "VI": "Tăng 20% sát thương Kỹ Năng Nộ. Khi giới hạn Năng Lượng Nguyên Tố của người trang bị không vượt quá 60/40, sát thương Kỹ Năng Nộ tăng thêm 16%/28%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 25%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 20%/35%.",
+        "CHS": "元素爆发造成的伤害提高25%；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高20%/35%。",
+        "CHT": "元素爆發造成的傷害提高25%；裝備者的元素能量上限不超過60/40點時，元素爆發造成的傷害額外提高20%/35%。",
+        "DE": "#Erhöht den mit Spezialfähigkeiten verursachten Schaden um 25 %. Erhöht den mit Spezialfähigkeiten verursachten Schaden zusätzlich um 20 % / 35 %, wenn die max. Elementarenergie des Trägers nicht mehr als 60/40 Punkte ist.",
+        "ES": "#Aumenta en un 25% el daño de la Habilidad Definitiva. Si la Energía Elemental máxima del personaje no supera los 60/40 pts., el daño de la Habilidad Definitiva aumenta en un 20/35% adicional.",
+        "FR": "Les DGT infligés par les déchaînements élémentaires augmentent de 25 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme ne dépasse pas 60 ou 40 pts, les DGT infligés par ses déchaînements élémentaires augmentent respectivement de 20 % ou 35 % supplémentaires.",
+        "ID": "DMG Elemental Burst +25%. Saat Energy maksimum Karakter yang mengenakan tidak lebih dari 60/40 poin, DMG Elemental Burst +20%/35% lagi.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 25%. Quando il costo di energia del Tripudio elementale del personaggio che equipaggia l'arma non supera i 60/40 punti, i DAN da Tripudio elementale aumentano di un ulteriore 20%/35%.",
+        "JP": "元素爆発ダメージ+25%。装備者の元素エネルギー上限が60/40以下の場合、元素爆発ダメージがさらに+20%/35%。",
+        "KR": "원소폭발로 주는 피해가 25% 증가한다. 장착 캐릭터의 원소 에너지 최대치가 60/40pt를 초과하지 않을 시, 원소폭발로 주는 피해가 추가로 20%/35% 증가한다",
+        "PT": "Aumenta o Dano causado pelo Supremo em 25%. Quando a Energia Elemental do personagem que está com essa arma equipada não é maior que 60/40, aumenta o Dano do Supremo em mais 20%/35%.",
+        "RU": "Урон взрыва стихии повышается на 25%. Если максимум энергии экипированного персонажа не превышает 60/40 ед., то урон его взрыва стихии дополнительно повышается на 20%/35%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 25%; เมื่อพลังงานธาตุสูงสุดของผู้สวมใส่ไม่เกิน 60/40 หน่วย ท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้นอีก 20%/35%",
+        "TR": "Element Patlaması Hasarını %25 artırır. Kuşanan karakterin Enerji Kapasitesi 60/40 üzerinde olmadığında Element Patlaması Hasarı ek olarak %20/%35 daha artar.",
+        "VI": "Tăng 25% sát thương Kỹ Năng Nộ. Khi giới hạn Năng Lượng Nguyên Tố của người trang bị không vượt quá 60/40, sát thương Kỹ Năng Nộ tăng thêm 20%/35%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 30%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 24%/42%.",
+        "CHS": "元素爆发造成的伤害提高30%；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高24%/42%。",
+        "CHT": "元素爆發造成的傷害提高30%；裝備者的元素能量上限不超過60/40點時，元素爆發造成的傷害額外提高24%/42%。",
+        "DE": "#Erhöht den mit Spezialfähigkeiten verursachten Schaden um 30 %. Erhöht den mit Spezialfähigkeiten verursachten Schaden zusätzlich um 24 % / 42 %, wenn die max. Elementarenergie des Trägers nicht mehr als 60/40 Punkte ist.",
+        "ES": "#Aumenta en un 30% el daño de la Habilidad Definitiva. Si la Energía Elemental máxima del personaje no supera los 60/40 pts., el daño de la Habilidad Definitiva aumenta en un 24/42% adicional.",
+        "FR": "Les DGT infligés par les déchaînements élémentaires augmentent de 30 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme ne dépasse pas 60 ou 40 pts, les DGT infligés par ses déchaînements élémentaires augmentent respectivement de 24 % ou 42 % supplémentaires.",
+        "ID": "DMG Elemental Burst +30%. Saat Energy maksimum Karakter yang mengenakan tidak lebih dari 60/40 poin, DMG Elemental Burst +24%/42% lagi.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 30%. Quando il costo di energia del Tripudio elementale del personaggio che equipaggia l'arma non supera i 60/40 punti, i DAN da Tripudio elementale aumentano di un ulteriore 24%/42%.",
+        "JP": "元素爆発ダメージ+30%。装備者の元素エネルギー上限が60/40以下の場合、元素爆発ダメージがさらに+24%/42%。",
+        "KR": "원소폭발로 주는 피해가 30% 증가한다. 장착 캐릭터의 원소 에너지 최대치가 60/40pt를 초과하지 않을 시, 원소폭발로 주는 피해가 추가로 24%/42% 증가한다",
+        "PT": "Aumenta o Dano causado pelo Supremo em 30%. Quando a Energia Elemental do personagem que está com essa arma equipada não é maior que 60/40, aumenta o Dano do Supremo em mais 24%/42%.",
+        "RU": "Урон взрыва стихии повышается на 30%. Если максимум энергии экипированного персонажа не превышает 60/40 ед., то урон его взрыва стихии дополнительно повышается на 24%/42%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 30%; เมื่อพลังงานธาตุสูงสุดของผู้สวมใส่ไม่เกิน 60/40 หน่วย ท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้นอีก 24%/42%",
+        "TR": "Element Patlaması Hasarını %30 artırır. Kuşanan karakterin Enerji Kapasitesi 60/40 üzerinde olmadığında Element Patlaması Hasarı ek olarak %24/%42 daha artar.",
+        "VI": "Tăng 30% sát thương Kỹ Năng Nộ. Khi giới hạn Năng Lượng Nguyên Tố của người trang bị không vượt quá 60/40, sát thương Kỹ Năng Nộ tăng thêm 24%/42%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 35%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 28%/49%.",
+        "CHS": "元素爆发造成的伤害提高35%；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高28%/49%。",
+        "CHT": "元素爆發造成的傷害提高35%；裝備者的元素能量上限不超過60/40點時，元素爆發造成的傷害額外提高28%/49%。",
+        "DE": "#Erhöht den mit Spezialfähigkeiten verursachten Schaden um 35 %. Erhöht den mit Spezialfähigkeiten verursachten Schaden zusätzlich um 28 % / 49 %, wenn die max. Elementarenergie des Trägers nicht mehr als 60/40 Punkte ist.",
+        "ES": "#Aumenta en un 35% el daño de la Habilidad Definitiva. Si la Energía Elemental máxima del personaje no supera los 60/40 pts., el daño de la Habilidad Definitiva aumenta en un 28/49% adicional.",
+        "FR": "Les DGT infligés par les déchaînements élémentaires augmentent de 35 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme ne dépasse pas 60 ou 40 pts, les DGT infligés par ses déchaînements élémentaires augmentent respectivement de 28 % ou 49 % supplémentaires.",
+        "ID": "DMG Elemental Burst +35%. Saat Energy maksimum Karakter yang mengenakan tidak lebih dari 60/40 poin, DMG Elemental Burst +28%/49% lagi.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 35%. Quando il costo di energia del Tripudio elementale del personaggio che equipaggia l'arma non supera i 60/40 punti, i DAN da Tripudio elementale aumentano di un ulteriore 28%/49%.",
+        "JP": "元素爆発ダメージ+35%。装備者の元素エネルギー上限が60/40以下の場合、元素爆発ダメージがさらに+28%/49%。",
+        "KR": "원소폭발로 주는 피해가 35% 증가한다. 장착 캐릭터의 원소 에너지 최대치가 60/40pt를 초과하지 않을 시, 원소폭발로 주는 피해가 추가로 28%/49% 증가한다",
+        "PT": "Aumenta o Dano causado pelo Supremo em 35%. Quando a Energia Elemental do personagem que está com essa arma equipada não é maior que 60/40, aumenta o Dano do Supremo em mais 28%/49%.",
+        "RU": "Урон взрыва стихии повышается на 35%. Если максимум энергии экипированного персонажа не превышает 60/40 ед., то урон его взрыва стихии дополнительно повышается на 28%/49%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 35%; เมื่อพลังงานธาตุสูงสุดของผู้สวมใส่ไม่เกิน 60/40 หน่วย ท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้นอีก 28%/49%",
+        "TR": "Element Patlaması Hasarını %35 artırır. Kuşanan karakterin Enerji Kapasitesi 60/40 üzerinde olmadığında Element Patlaması Hasarı ek olarak %28/%49 daha artar.",
+        "VI": "Tăng 35% sát thương Kỹ Năng Nộ. Khi giới hạn Năng Lượng Nguyên Tố của người trang bị không vượt quá 60/40, sát thương Kỹ Năng Nộ tăng thêm 28%/49%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 40%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 32%/56%.",
+        "CHS": "元素爆发造成的伤害提高40%；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高32%/56%。",
+        "CHT": "元素爆發造成的傷害提高40%；裝備者的元素能量上限不超過60/40點時，元素爆發造成的傷害額外提高32%/56%。",
+        "DE": "#Erhöht den mit Spezialfähigkeiten verursachten Schaden um 40 %. Erhöht den mit Spezialfähigkeiten verursachten Schaden zusätzlich um 32 % / 56 %, wenn die max. Elementarenergie des Trägers nicht mehr als 60/40 Punkte ist.",
+        "ES": "#Aumenta en un 40% el daño de la Habilidad Definitiva. Si la Energía Elemental máxima del personaje no supera los 60/40 pts., el daño de la Habilidad Definitiva aumenta en un 32/56% adicional.",
+        "FR": "Les DGT infligés par les déchaînements élémentaires augmentent de 40 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme ne dépasse pas 60 ou 40 pts, les DGT infligés par ses déchaînements élémentaires augmentent respectivement de 32 % ou 56 % supplémentaires.",
+        "ID": "DMG Elemental Burst +40%. Saat Energy maksimum Karakter yang mengenakan tidak lebih dari 60/40 poin, DMG Elemental Burst +32%/56% lagi.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 40%. Quando il costo di energia del Tripudio elementale del personaggio che equipaggia l'arma non supera i 60/40 punti, i DAN da Tripudio elementale aumentano di un ulteriore 32%/56%.",
+        "JP": "元素爆発ダメージ+40%。装備者の元素エネルギー上限が60/40以下の場合、元素爆発ダメージがさらに+32%/56%。",
+        "KR": "원소폭발로 주는 피해가 40% 증가한다. 장착 캐릭터의 원소 에너지 최대치가 60/40pt를 초과하지 않을 시, 원소폭발로 주는 피해가 추가로 32%/56% 증가한다",
+        "PT": "Aumenta o Dano causado pelo Supremo em 40%. Quando a Energia Elemental do personagem que está com essa arma equipada não é maior que 60/40, aumenta o Dano do Supremo em mais 32%/56%.",
+        "RU": "Урон взрыва стихии повышается на 40%. Если максимум энергии экипированного персонажа не превышает 60/40 ед., то урон его взрыва стихии дополнительно повышается на 32%/56%.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 40%; เมื่อพลังงานธาตุสูงสุดของผู้สวมใส่ไม่เกิน 60/40 หน่วย ท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้นอีก 32%/56%",
+        "TR": "Element Patlaması Hasarını %40 artırır. Kuşanan karakterin Enerji Kapasitesi 60/40 üzerinde olmadığında Element Patlaması Hasarı ek olarak %32/%56 daha artar.",
+        "VI": "Tăng 40% sát thương Kỹ Năng Nộ. Khi giới hạn Năng Lượng Nguyên Tố của người trang bị không vượt quá 60/40, sát thương Kỹ Năng Nộ tăng thêm 32%/56%."
+      }
+    }
+  ]
+}

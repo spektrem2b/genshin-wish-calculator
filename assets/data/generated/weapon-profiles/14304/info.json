@@ -1,0 +1,52 @@
+{
+  "id": 14304,
+  "name": {
+    "EN": "Emerald Orb",
+    "CHS": "翡玉法球",
+    "CHT": "翡玉法球",
+    "DE": "Jadekugel",
+    "ES": "Orbe Esmeralda",
+    "FR": "Orbe jadien",
+    "ID": "Emerald Orb",
+    "IT": "Sfera smeraldina",
+    "JP": "翡玉法珠",
+    "KR": "비취 오브",
+    "PT": "Orbe de Esmeralda",
+    "RU": "Изумрудный шар",
+    "TH": "Emerald Orb",
+    "TR": "Zümrüt Küre",
+    "VI": "Quả Cầu Ngọc"
+  },
+  "nameEn": "Emerald Orb",
+  "type": "Pháp Khí",
+  "rarity": 3,
+  "description": {
+    "EN": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"",
+    "CHS": "由璃月北郊绝云间出产的硬玉雕琢而成的法器。小巧轻盈，经久耐用，江湖人称「翡玉丸」。",
+    "CHT": "由璃月北郊絕雲間出產的硬玉雕琢而成的法器。小巧輕盈，經久耐用，江湖人稱「翡玉丸」。",
+    "DE": "Ein magischer Katalysator geschnitzt aus der harten Jade aus dem Jueyun-Karst im Norden Liyues. Handlich, leicht und haltbar. Er wird weithin auch als „Jadeperle“ bezeichnet.",
+    "ES": "Un catalizador tallado en jade extraído del Desfiladero Jueyun, al norte de Liyue. Es pequeño, ligero y duradero. Popularmente se conoce como “Orbe de Jade”.",
+    "FR": "Un catalyseur sculpté dans la jadéite, produite au Karst Jueyun, au nord de Liyue. Petit et léger, résistant et durable, les gens l'appellent souvent « Boulette de jade ».",
+    "ID": "Sebuah Catalyst yang dibentuk dari giok keras yang berasal dari Jueyun Karst di Utara Liyue. Bentuknya kecil, ringan, dan memiliki ketahanan yang kuat.",
+    "IT": "Un catalizzatore realizzato con la giada proveniente dai Monti di Jueyun, a nord di Liyue. Piccolo, leggero e durevole, è anche noto come \"sfera di giada\".",
+    "JP": "璃月北部にある絶雲の間の硬玉で出来た法器。小さくて軽い上、かなり長持ちする。",
+    "KR": "리월 북쪽 교외에 위치한 절운간에서 채굴된 옥으로 조각한 법구. 아주 가볍고 내구도가 뛰어나다. 강호의 사람들은 이걸 '비옥환'이라고 부른다",
+    "PT": "Um catalisador esculpido com uma jade rígida de Relevo de Jueyun, norte de Liyue. É pequena, leve e durável.",
+    "RU": "Катализатор, вырезанный из твёрдого нефрита, добываемого в Заоблачном пределе на севере Ли Юэ. Он маленький, лёгкий и прочный.",
+    "TH": "สื่อเวทสร้างจากหยกแข็งที่ สกัดจากเทือกเขาทางเหนือ ของ Liyue มันมีน้ำหนักที่เบา ขนาดเล็ก และทนทาน",
+    "TR": "Liyue'nin kuzeyinde bulunan Jueyun Gölü'nün yeşiminden oyulan bir katalizör. Küçük, hafif ve dayanıklı. Halk arasında \"yeşim küre\" olarak bilinir.",
+    "VI": "Pháp khí được điêu khắc từ bảo ngọc Tuyệt Vân Gián phía bắc Liyue. Nhỏ nhắn xinh xắn, được mệnh danh là Phỉ Ngọc Hoàn."
+  },
+  "icon": "generated/weapon-profiles/14304/avatar.webp",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 20.4,
+  "substat_lvl90": 93.7176,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

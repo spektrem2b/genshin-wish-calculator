@@ -1,0 +1,52 @@
+{
+  "id": 13415,
+  "name": {
+    "EN": "The Catch",
+    "CHS": "「渔获」",
+    "CHT": "「漁獲」",
+    "DE": "„Der Fang“",
+    "ES": "La Captura",
+    "FR": "« La prise »",
+    "ID": "The Catch",
+    "IT": "La Preda",
+    "JP": "「漁獲」",
+    "KR": "「어획」",
+    "PT": "A Fisgada",
+    "RU": "«Улов»",
+    "TH": "The Catch",
+    "TR": "Yakalayan Mızrak",
+    "VI": "Lao Xiên Cá"
+  },
+  "nameEn": "The Catch",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
+    "CHS": "在久远的过去，曾经闻名稻妻的大盗爱用的枪。",
+    "CHT": "在久遠的過去，曾經聞名稻妻的大盜愛用的槍。",
+    "DE": "In der fernen Vergangenheit war dies der geliebte Speer eines berühmten Banditen aus Inazuma.",
+    "ES": "Hace mucho tiempo, esta lanza era la preferida de un famoso bandido de Inazuma.",
+    "FR": "Dans un passé lointain, c'était la lance bien-aimée d'un célèbre bandit d'Inazuma.",
+    "ID": "Pada zaman dahulu kala, ini adalah tombak kesayangan milik bandit Inazuma yang terkenal.",
+    "IT": "In un passato remoto, questa lancia apparteneva al famoso bandito d'Inazuma.",
+    "JP": "遠い昔、稲妻に名を轟かせた大泥棒が愛用していた槍。",
+    "KR": "먼 옛날 이나즈마에서 이름을 날리던 대도적이 애용했다는 창이다",
+    "PT": "Num passado distante, esta era a amada lança de um famoso bandido de Inazuma.",
+    "RU": "В далёком прошлом это копьё принадлежало знаменитому инадзумскому разбойнику.",
+    "TH": "หอกที่ครั้งหนึ่งจอมโจรแห่ง Inazuma ที่มีชื่อเสียงในอดีตชอบใช้",
+    "TR": "Uzun zaman önce ünlü bir Inazuma haydudunun en sevdiği silahıydı.",
+    "VI": "Từng là một vũ khí ưa dùng của tướng cướp Inazuma thời xưa."
+  },
+  "icon": "generated/weapon-profiles/13415/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

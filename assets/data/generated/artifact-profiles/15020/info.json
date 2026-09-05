@@ -1,0 +1,69 @@
+{
+  "id": 15020,
+  "name": {
+    "EN": "Emblem of Severed Fate",
+    "CHS": "绝缘之旗印",
+    "CHT": "絕緣之旗印",
+    "DE": "Wappen des getrennten Schicksals",
+    "ES": "Emblema del Destino",
+    "FR": "Emblème du destin brisé",
+    "ID": "Emblem of Severed Fate",
+    "IT": "Emblema del fato spezzato",
+    "JP": "絶縁の旗印",
+    "KR": "절연의 기치",
+    "PT": "Selo da Insulação",
+    "RU": "Эмблема рассечённой судьбы",
+    "TH": "Emblem of Severed Fate",
+    "TR": "Parçalanan Kader Amblemi",
+    "VI": "Dấu Ấn Ngăn Cách"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15020/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Energy Recharge +20%",
+        "CHS": "元素充能效率提高20%。",
+        "CHT": "元素充能效率提高20%。",
+        "DE": "Erhöht die Aufladerate um 20 %.",
+        "ES": "Recarga de Energía +20%.",
+        "FR": "Augmente la recharge d'énergie de 20 %.",
+        "ID": "Energy Recharge +20%.",
+        "IT": "Ricarica energia +20%.",
+        "JP": "元素チャージ効率+20%。",
+        "KR": "원소 충전 효율+20%",
+        "PT": "Recarga de Energia +20%",
+        "RU": "Увеличивает скорость восстановления энергии на 20%.",
+        "TH": "เพิ่มประสิทธิภาพ การฟื้นฟูพลังงานขึ้น 20%",
+        "TR": "+%20 Enerji Yüklemesi.",
+        "VI": "Hiệu Quả Nạp Nguyên Tố tăng 20%"
+      },
+      "affixId": "2150200"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+        "CHS": "基于元素充能效率的25%，提高元素爆发造成的伤害。至多通过这种方式获得75%提升。",
+        "CHT": "基於元素充能效率的25%，提高元素爆發造成的傷害。至多依此方式獲得75%提升。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden basierend auf 25 % der Aufladerate. Bis zu 75 % Bonus auf diese Weise möglich.",
+        "ES": "Aumenta el daño infligido con la Habilidad Definitiva en una cantidad equivalente al 25% de la Recarga de Energía. Se puede obtener un aumento del 75% como máximo.",
+        "FR": "Augmente les DGT infligés par le déchaînement élémentaire d'une valeur équivalant à 25 % de la recharge d'énergie. Les DGT peuvent être augmentés d'un maximum de 75 % de cette manière.",
+        "ID": "Meningkatkan DMG Elemental Burst sebesar 25% dari Energy Recharge. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 75%.",
+        "IT": "Aumenta i DAN da Tripudio elementale di un 25% della ricarica d'energia. In questo modo puoi ottenere fino a un 75% di bonus DAN.",
+        "JP": "元素チャージ効率の25%を基準に、元素爆発ダメージがアップする。この方法でアップできるダメージは最大75%まで。",
+        "KR": "원소폭발로 주는 피해가 원소 충전 효율의 25%만큼 증가한다. 해당 방식으로 최대 75%까지 증가할 수 있다",
+        "PT": "Aumenta o Dano do Supremo em 25% da Recarga de Energia. No máximo é possível obter 75% de aumento de Dano dessa maneira.",
+        "RU": "Увеличивает урон взрыва стихий на величину, равную 25% от значения восстановления энергии. Эффект можно увеличить максимум до 75%.",
+        "TH": "เพิ่มความเสียหายของท่าไม้ตายขึ้น 25% ของประสิทธิภาพการฟื้นฟูพลังงานธาตุ โดยจะสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้มากสุดถึง 75%",
+        "TR": "Element Patlaması Hasarı, Enerji Yüklemesinin %25'i kadar artar. Bu yöntemle maksimum %75 Hasar bonusu elde edilebilir.",
+        "VI": "Tăng sát thương Kỹ Năng Nộ dựa trên 25% Hiệu Quả Nạp Nguyên Tố. Chỉ có thể tăng tối đa 75% thông qua cách này."
+      },
+      "affixId": "2150201"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Gladiator",
+    "CHS": "角斗士",
+    "CHT": "角鬥士",
+    "DE": "Gladiator",
+    "ES": "Gladiador",
+    "FR": "Gladiateur",
+    "ID": "Gladiator",
+    "IT": "Gladiatore",
+    "JP": "剣闘士",
+    "KR": "검투사",
+    "PT": "Gladiador",
+    "RU": "Гладиатор",
+    "TH": "Gladiator",
+    "TR": "Gladyatör",
+    "VI": "Giác Đấu Sĩ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "If there are at least 2 opponents nearby, ATK is increased by 16% and DEF is increased by 16%. If there are fewer than 2 opponents nearby, ATK is increased by 24%.",
+        "CHS": "身边至少有2个敌人时，获得16%攻击力提升与16%防御力提升；身边的敌人少于2个时，获得24%攻击力提升。",
+        "CHT": "身邊至少有2個敵人時，獲得16%攻擊力提升與16%防禦力提升；身邊的敵人少於2個時，獲得24%攻擊力提升。",
+        "DE": "Erhöht den ANG bei Anwesenheit von mindestens 2 Gegnern um 16 % und die VTD um 16 %, erhöht den ANG bei weniger als 2 Gegnern stattdessen um 24 %.",
+        "ES": "Cuando hay 2 o más enemigos cerca, el ATQ y la DEF aumentan en un 16%. Cuando hay menos de 2 enemigos, el ATQ aumenta en un 24%.",
+        "FR": "Augmente l'ATQ de 16 % et la DÉF de 16 % si 2 ennemis ou plus se trouvent à proximité ; augmente l'ATQ de 24 % dans le cas contraire.",
+        "ID": "Meningkatkan 16% ATK dan DEF ketika terdapat 2 musuh atau lebih di sekitar Karakter; Jika jumlah musuh di sekitar Karakter kurang dari 2, meningkatkan 24% ATK.",
+        "IT": "Se ci sono almeno 2 avversari nelle vicinanze, l'ATT e la DIF aumentano di un 16%. Se ci sono meno di 2 avversari nelle vicinanze, l'ATT aumenta di un 24%.",
+        "JP": "近くに敵が2人以上いる時、攻撃力+16%、防御力+16%。近くに敵が2人未満の時、攻撃力+24%。",
+        "KR": "주변에 적이 2기 이상 있을 때 공격력이 16%, 방어력이 16% 증가한다. 주변에 적이 2기 미만일 때 공격력이 24% 증가한다",
+        "PT": "Se houver 2 inimigos ao redor, o ATQ é aumentado em 16% e a DEF é aumentada em 16%. Se houver menos que 2 inimigos ao redor, o ATQ é aumentado em 24%.",
+        "RU": "Если рядом 2 врага и более, сила атаки и защита увеличиваются на 16%; если рядом менее 2 врагов, сила атаки увеличивается на 24%.",
+        "TH": "เมื่อมีศัตรูอย่างน้อย 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 16% และพลังป้องกันเพิ่ม 16% ; เมื่อมีศัตรูน้อยกว่า 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 24%",
+        "TR": "Yakınlarda 2 veya daha fazla düşman olduğunda, Saldırı ve Savunma %16 artırılır. Aksi takdirde sadece Saldırı %24 artırılır.",
+        "VI": "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng 16% tấn công và 16% phòng ngự, khi có dưới 2 kẻ địch, được tăng 24% tấn công."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "If there are at least 2 opponents nearby, ATK is increased by 20% and DEF is increased by 20%. If there are fewer than 2 opponents nearby, ATK is increased by 30%.",
+        "CHS": "身边至少有2个敌人时，获得20%攻击力提升与20%防御力提升；身边的敌人少于2个时，获得30%攻击力提升。",
+        "CHT": "身邊至少有2個敵人時，獲得20%攻擊力提升與20%防禦力提升；身邊的敵人少於2個時，獲得30%攻擊力提升。",
+        "DE": "Erhöht den ANG bei Anwesenheit von mindestens 2 Gegnern um 20 % und die VTD um 20 %, erhöht den ANG bei weniger als 2 Gegnern stattdessen um 30 %.",
+        "ES": "Cuando hay 2 o más enemigos cerca, el ATQ y la DEF aumentan en un 20%. Cuando hay menos de 2 enemigos, el ATQ aumenta en un 30%.",
+        "FR": "Augmente l'ATQ de 20 % et la DÉF de 20 % si 2 ennemis ou plus se trouvent à proximité ; augmente l'ATQ de 30 % dans le cas contraire.",
+        "ID": "Meningkatkan 20% ATK dan DEF ketika terdapat 2 musuh atau lebih di sekitar Karakter; Jika jumlah musuh di sekitar Karakter kurang dari 2, meningkatkan 30% ATK.",
+        "IT": "Se ci sono almeno 2 avversari nelle vicinanze, l'ATT e la DIF aumentano di un 20%. Se ci sono meno di 2 avversari nelle vicinanze, l'ATT aumenta di un 30%.",
+        "JP": "近くに敵が2人以上いる時、攻撃力+20%、防御力+20%。近くに敵が2人未満の時、攻撃力+30%。",
+        "KR": "주변에 적이 2기 이상 있을 때 공격력이 20%, 방어력이 20% 증가한다. 주변에 적이 2기 미만일 때 공격력이 30% 증가한다",
+        "PT": "Se houver 2 inimigos ao redor, o ATQ é aumentado em 20% e a DEF é aumentada em 20%. Se houver menos que 2 inimigos ao redor, o ATQ é aumentado em 30%.",
+        "RU": "Если рядом 2 врага и более, сила атаки и защита увеличиваются на 20%; если рядом менее 2 врагов, сила атаки увеличивается на 30%.",
+        "TH": "เมื่อมีศัตรูอย่างน้อย 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 20% และพลังป้องกันเพิ่ม 20% ; เมื่อมีศัตรูน้อยกว่า 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 30%",
+        "TR": "Yakınlarda 2 veya daha fazla düşman olduğunda, Saldırı ve Savunma %20 artırılır. Aksi takdirde sadece Saldırı %30 artırılır.",
+        "VI": "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng 20% tấn công và 20% phòng ngự, khi có dưới 2 kẻ địch, được tăng 30% tấn công."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "If there are at least 2 opponents nearby, ATK is increased by 24% and DEF is increased by 24%. If there are fewer than 2 opponents nearby, ATK is increased by 36%.",
+        "CHS": "身边至少有2个敌人时，获得24%攻击力提升与24%防御力提升；身边的敌人少于2个时，获得36%攻击力提升。",
+        "CHT": "身邊至少有2個敵人時，獲得24%攻擊力提升與24%防禦力提升；身邊的敵人少於2個時，獲得36%攻擊力提升。",
+        "DE": "Erhöht den ANG bei Anwesenheit von mindestens 2 Gegnern um 24 % und die VTD um 24 %, erhöht den ANG bei weniger als 2 Gegnern stattdessen um 36 %.",
+        "ES": "Cuando hay 2 o más enemigos cerca, el ATQ y la DEF aumentan en un 24%. Cuando hay menos de 2 enemigos, el ATQ aumenta en un 36%.",
+        "FR": "Augmente l'ATQ de 24 % et la DÉF de 24 % si 2 ennemis ou plus se trouvent à proximité ; augmente l'ATQ de 36 % dans le cas contraire.",
+        "ID": "Meningkatkan 24% ATK dan DEF ketika terdapat 2 musuh atau lebih di sekitar Karakter; Jika jumlah musuh di sekitar Karakter kurang dari 2, meningkatkan 36% ATK.",
+        "IT": "Se ci sono almeno 2 avversari nelle vicinanze, l'ATT e la DIF aumentano di un 24%. Se ci sono meno di 2 avversari nelle vicinanze, l'ATT aumenta di un 36%.",
+        "JP": "近くに敵が2人以上いる時、攻撃力+24%、防御力+24%。近くに敵が2人未満の時、攻撃力+36%。",
+        "KR": "주변에 적이 2기 이상 있을 때 공격력이 24%, 방어력이 24% 증가한다. 주변에 적이 2기 미만일 때 공격력이 36% 증가한다",
+        "PT": "Se houver 2 inimigos ao redor, o ATQ é aumentado em 24% e a DEF é aumentada em 24%. Se houver menos que 2 inimigos ao redor, o ATQ é aumentado em 36%.",
+        "RU": "Если рядом 2 врага и более, сила атаки и защита увеличиваются на 24%; если рядом менее 2 врагов, сила атаки увеличивается на 36%.",
+        "TH": "เมื่อมีศัตรูอย่างน้อย 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 24% และพลังป้องกันเพิ่ม 24% ; เมื่อมีศัตรูน้อยกว่า 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 36%",
+        "TR": "Yakınlarda 2 veya daha fazla düşman olduğunda, Saldırı ve Savunma %24 artırılır. Aksi takdirde sadece Saldırı %36 artırılır.",
+        "VI": "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng 24% tấn công và 24% phòng ngự, khi có dưới 2 kẻ địch, được tăng 36% tấn công."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "If there are at least 2 opponents nearby, ATK is increased by 28% and DEF is increased by 28%. If there are fewer than 2 opponents nearby, ATK is increased by 42%.",
+        "CHS": "身边至少有2个敌人时，获得28%攻击力提升与28%防御力提升；身边的敌人少于2个时，获得42%攻击力提升。",
+        "CHT": "身邊至少有2個敵人時，獲得28%攻擊力提升與28%防禦力提升；身邊的敵人少於2個時，獲得42%攻擊力提升。",
+        "DE": "Erhöht den ANG bei Anwesenheit von mindestens 2 Gegnern um 28 % und die VTD um 28 %, erhöht den ANG bei weniger als 2 Gegnern stattdessen um 42 %.",
+        "ES": "Cuando hay 2 o más enemigos cerca, el ATQ y la DEF aumentan en un 28%. Cuando hay menos de 2 enemigos, el ATQ aumenta en un 42%.",
+        "FR": "Augmente l'ATQ de 28 % et la DÉF de 28 % si 2 ennemis ou plus se trouvent à proximité ; augmente l'ATQ de 42 % dans le cas contraire.",
+        "ID": "Meningkatkan 28% ATK dan DEF ketika terdapat 2 musuh atau lebih di sekitar Karakter; Jika jumlah musuh di sekitar Karakter kurang dari 2, meningkatkan 42% ATK.",
+        "IT": "Se ci sono almeno 2 avversari nelle vicinanze, l'ATT e la DIF aumentano di un 28%. Se ci sono meno di 2 avversari nelle vicinanze, l'ATT aumenta di un 42%.",
+        "JP": "近くに敵が2人以上いる時、攻撃力+28%、防御力+28%。近くに敵が2人未満の時、攻撃力+42%。",
+        "KR": "주변에 적이 2기 이상 있을 때 공격력이 28%, 방어력이 28% 증가한다. 주변에 적이 2기 미만일 때 공격력이 42% 증가한다",
+        "PT": "Se houver 2 inimigos ao redor, o ATQ é aumentado em 28% e a DEF é aumentada em 28%. Se houver menos que 2 inimigos ao redor, o ATQ é aumentado em 42%.",
+        "RU": "Если рядом 2 врага и более, сила атаки и защита увеличиваются на 28%; если рядом менее 2 врагов, сила атаки увеличивается на 42%.",
+        "TH": "เมื่อมีศัตรูอย่างน้อย 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 28% และพลังป้องกันเพิ่ม 28% ; เมื่อมีศัตรูน้อยกว่า 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 42%",
+        "TR": "Yakınlarda 2 veya daha fazla düşman olduğunda, Saldırı ve Savunma %28 artırılır. Aksi takdirde sadece Saldırı %42 artırılır.",
+        "VI": "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng 28% tấn công và 28% phòng ngự, khi có dưới 2 kẻ địch, được tăng 42% tấn công."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "If there are at least 2 opponents nearby, ATK is increased by 32% and DEF is increased by 32%. If there are fewer than 2 opponents nearby, ATK is increased by 48%.",
+        "CHS": "身边至少有2个敌人时，获得32%攻击力提升与32%防御力提升；身边的敌人少于2个时，获得48%攻击力提升。",
+        "CHT": "身邊至少有2個敵人時，獲得32%攻擊力提升與32%防禦力提升；身邊的敵人少於2個時，獲得48%攻擊力提升。",
+        "DE": "Erhöht den ANG bei Anwesenheit von mindestens 2 Gegnern um 32 % und die VTD um 32 %, erhöht den ANG bei weniger als 2 Gegnern stattdessen um 48 %.",
+        "ES": "Cuando hay 2 o más enemigos cerca, el ATQ y la DEF aumentan en un 32%. Cuando hay menos de 2 enemigos, el ATQ aumenta en un 48%.",
+        "FR": "Augmente l'ATQ de 32 % et la DÉF de 32 % si 2 ennemis ou plus se trouvent à proximité ; augmente l'ATQ de 48 % dans le cas contraire.",
+        "ID": "Meningkatkan 32% ATK dan DEF ketika terdapat 2 musuh atau lebih di sekitar Karakter; Jika jumlah musuh di sekitar Karakter kurang dari 2, meningkatkan 48% ATK.",
+        "IT": "Se ci sono almeno 2 avversari nelle vicinanze, l'ATT e la DIF aumentano di un 32%. Se ci sono meno di 2 avversari nelle vicinanze, l'ATT aumenta di un 48%.",
+        "JP": "近くに敵が2人以上いる時、攻撃力+32%、防御力+32%。近くに敵が2人未満の時、攻撃力+48%。",
+        "KR": "주변에 적이 2기 이상 있을 때 공격력이 32%, 방어력이 32% 증가한다. 주변에 적이 2기 미만일 때 공격력이 48% 증가한다",
+        "PT": "Se houver 2 inimigos ao redor, o ATQ é aumentado em 32% e a DEF é aumentada em 32%. Se houver menos que 2 inimigos ao redor, o ATQ é aumentado em 48%.",
+        "RU": "Если рядом 2 врага и более, сила атаки и защита увеличиваются на 32%; если рядом менее 2 врагов, сила атаки увеличивается на 48%.",
+        "TH": "เมื่อมีศัตรูอย่างน้อย 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 32% และพลังป้องกันเพิ่ม 32% ; เมื่อมีศัตรูน้อยกว่า 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม 48%",
+        "TR": "Yakınlarda 2 veya daha fazla düşman olduğunda, Saldırı ve Savunma %32 artırılır. Aksi takdirde sadece Saldırı %48 artırılır.",
+        "VI": "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng 32% tấn công và 32% phòng ngự, khi có dưới 2 kẻ địch, được tăng 48% tấn công."
+      }
+    }
+  ]
+}

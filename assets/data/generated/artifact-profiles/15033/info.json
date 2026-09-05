@@ -1,0 +1,69 @@
+{
+  "id": 15033,
+  "name": {
+    "EN": "Song of Days Past",
+    "CHS": "昔时之歌",
+    "CHT": "昔時之歌",
+    "DE": "Lied vergangener Tage",
+    "ES": "Son de Antaño",
+    "FR": "Chanson des jours d'antan",
+    "ID": "Song of Days Past",
+    "IT": "Canto di giorni che furono",
+    "JP": "在りし日の歌",
+    "KR": "지난날의 노래",
+    "PT": "Canção do Passado",
+    "RU": "Песнь былых времён",
+    "TH": "Song of Days Past",
+    "TR": "Geçmiş Günlerin Şarkısı",
+    "VI": "Khúc Ca Ngày Cũ"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15033/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Healing Bonus +15%.",
+        "CHS": "治疗加成提高15%。",
+        "CHT": "治療加成提高15%。",
+        "DE": "#Erhöht den Heilungsbonus um 15 %.",
+        "ES": "Bono de Curación +15%.",
+        "FR": "Augmente le bonus de soins de 15 %.",
+        "ID": "Bonus pemulihan +15%.",
+        "IT": "Bonus di guarigione +15%.",
+        "JP": "与える治療効果+15%。",
+        "KR": "치유 보너스+15%",
+        "PT": "Bônus de Cura +15%",
+        "RU": "Повышает бонус лечения на 15%.",
+        "TH": "เพิ่มโบนัสการรักษา 15%",
+        "TR": "+%15 İyileştirme Bonusu.",
+        "VI": "Tăng Trị Liệu lên 15%."
+      },
+      "affixId": "2150330"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When the equipping character heals a party member, the Yearning effect will be created for 6s, which records the total amount of healing provided (including overflow healing). When the duration expires, the Yearning effect will be transformed into the \"Waves of Days Past\" effect: When your active party member hits an opponent with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, the DMG dealt will be increased by 8% of the total healing amount recorded by the Yearning effect. The \"Waves of Days Past\" effect is removed after it has taken effect 5 times or after 10s. A single instance of the Yearning effect can record up to 15,000 healing, and only a single instance can exist at once, but it can record the healing from multiple equipping characters. Equipping characters on standby can still trigger this effect.",
+        "CHS": "装备者对队伍中的角色进行治疗时，将产生持续6秒的渴盼效果，记录治疗的生命值回复量（包括溢出值）。持续时间结束时，渴盼效果将转变为「彼时的浪潮」效果：队伍中自己的当前场上角色的普通攻击、重击、下落攻击、元素战技与元素爆发命中敌人时，将基于渴盼效果所记录的回复量的8%提高造成的伤害，「彼时的浪潮」将在生效5次或10秒后移除。一次渴盼效果至多记录15000点回复量，同时至多存在一个，能够记录多个装备者的产生的回复量；装备者处于队伍后台时，依然能触发该效果。",
+        "CHT": "裝備者對隊伍中的角色進行治療時，將產生持續6秒的渴盼效果，記錄治療的生命值回復量（包括溢出值）。持續時間結束時，渴盼效果將轉變為「彼時的浪潮」效果：隊伍中自己的目前場上角色的普通攻擊、重擊、下落攻擊、元素戰技與元素爆發命中敵人時，將基於渴盼效果所記錄的回復量的8%提高造成的傷害，「彼時的浪潮」將在生效5次或10秒後移除。一次渴盼效果至多記錄15000點回復量，同時至多存在一個，能夠記錄多個裝備者的產生的回復量；裝備者處於隊伍後臺時，依然能觸發該效果。",
+        "DE": "#Erzeugt, wenn der Träger ein Truppenmitglied heilt, 6 s lang den Effekt „Sehnsucht“, der die Gesamtmenge der durchgeführten Heilung (einschließlich des überschüssigen Heilungswerts) aufzeichnet. Wandelt, wenn die Wirkungsdauer abläuft, den Effekt „Sehnsucht“ in den Effekt „Wellen von damals“ um: Erhöht, wenn die eigene aktuelle Figur in der Truppe einen Gegner mit einem Standardangriff, heftigen Schlag, Angriff aus dem Fall, einer Elementarfähigkeit oder einer Spezialfähigkeit trifft, den verursachten Schaden um 8 % der durch den Effekt „Sehnsucht“ aufgezeichneten Gesamtheilungsmenge. Der Effekt „Wellen von damals“ wird entfernt, nachdem er 5-mal ausgelöst wurde, oder nach 10 s. Ein einzelner „Sehnsucht“-Effekt kann bis zu 15.000 Punkte an Heilung aufzeichnen und es kann zu einem Zeitpunkt nur einen „Sehnsucht“-Effekt geben. Dieser Effekt kann die Menge an Heilung durch mehrere Träger aufzeichnen. Er kann auch noch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet.",
+        "ES": "#Cuando el portador de este conjunto realiza una curación, crea el efecto de “añoranza” durante 6 s, el cual registra la cantidad de Vida recuperada (incluyendo el exceso de curación). Al terminar la duración, el efecto de añoranza se convierte en el de “marea de antaño”, de manera que cuando tu personaje en uso golpea a un enemigo con un Ataque Normal, Cargado o Descendente o con su Habilidad Elemental o Definitiva, el daño que inflige dicho personaje aumenta en una cantidad equivalente al 8% de la cantidad de Vida recuperada y registrada por añoranza. El efecto de marea de antaño se elimina tras activarse 5 veces o después de 10 s. Por su parte, el efecto de añoranza solo puede registrar un máximo de 15 000 pts. de Vida recuperada y solo puede existir uno al mismo tiempo, pero puede registrar la Vida recuperada por varios portadores de este conjunto. Este efecto se puede activar incluso cuando el portador está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage équipé de l'artéfact soigne un personnage de l'équipe, l'effet Désir est créé pendant 6 s, accumulant la quantité de PV soignés (y compris tout surplus au-dessus de 100 %). À la fin de la durée, l'effet Désir est converti en l'effet Vague d'antan : lorsque votre personnage déployé touche un ennemi avec une attaque normale, chargée ou plongeante, une compétence ou un déchaînement élémentaires, les DGT infligés augmentent d'une valeur équivalant à 8 % de la quantité de PV accumulée par l'effet Désir. L'effet Vague d'antan est annulé après avoir été déclenché 5 fois ou après 10 s. L'effet Désir peut accumuler jusqu'à 15 000 PV et il ne peut en exister qu'un seul à la fois, mais il peut accumuler les soins effectués par plusieurs personnages équipés de cet artéfact. Cet effet peut être déclenché même si les personnages équipés de cet artéfact font partie de l'équipe mais ne sont pas déployés.",
+        "ID": "Saat Karakter yang mengenakan memberikan pemulihan kepada Karakter di dalam party, akan memberikan efek Yearning yang berlangsung selama 6 detik, dan mencatat dan mengakumulasi jumlah pemulihan yang dilakukan (termasuk pemulihan yang berlebih). Setelah durasinya berakhir, efek Yearning akan dikonversi menjadi efek \"Waves of Days Past\": Saat Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, atau Elemental Burst Karakter aktif diri sendiri di dalam party mengenai musuh, DMG yang diakibatkan akan meningkat sebesar 8% dari semua jumlah pemulihan yang tercatat oleh efek Yearning. Efek \"Waves of Days Past\" akan dihapus setelah terpicu sebanyak 5 kali atau setelah 10 detik. Maksimum jumlah pemulihan yang dapat tercatat oleh satu kali Yearning adalah 15.000 poin. Hanya satu efek Yearning yang dapat muncul dalam waktu bersamaan, tapi saat ada lebih dari 1 Karakter pengguna yang memberikan efek pemulihan, efek pemulihan ini akan dicatat secara bersamaan. Efek tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando il personaggio che equipaggia il set apporta effetti di guarigione a un membro del gruppo, attiva l'effetto Anelito per 6 s, che registra gli effetti di guarigione totali apportati (inclusi quelli che superano il limite di guarigione massimo). Al termine della sua durata, Anelito si converte in \"Onde di giorni che furono\": quando il membro attivo del tuo gruppo colpisce un nemico con un attacco normale, caricato o in picchiata, o con un'abilità o un Tripudio elementale, infligge DAN aumentati di un 8% della guarigione totale registrata da Anelito. L'effetto \"Onde di giorni che furono\" termina dopo 5 attivazioni o trascorsi 10 s. Una singola iterazione di Anelito è in grado di registrare fino a 15.000 PS derivanti dalla guarigione, e il gruppo può avere un'unica iterazione attiva; tuttavia, Anelito può registrare gli effetti di guarigione apportati da più membri del gruppo che equipaggiano il set. Anelito può essere attivato anche se i membri in questione non sono in campo.",
+        "JP": "装備者がチームにいるキャラクターのHPを回復した時、継続時間6秒の「渇望」効果が発動し、HP回復量（HP上限を超えた回復量も含む）を記録する。継続時間終了時、「渇望」効果は「かの時の潮」効果に変化する。「かの時の潮」効果発動中、フィールド上にいるチーム内の自身キャラクターの通常攻撃、重撃、落下攻撃、元素スキル、元素爆発が敵に命中すると、「渇望」効果で記録した回復量の8%分を基に与えるダメージをアップする。「かの時の潮」効果は、5回発動、または10秒後にクリアされる。1回の「渇望」効果が記録する回復量は最大15000ポイントまで。なお、「渇望」は1つのみ存在でき、複数の装備者の与える回復量を記録可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "장착 캐릭터가 파티 내 캐릭터 치유 시 6초 동안 지속되는 갈망 효과를 생성해 치유한 HP 회복량(초과치 포함)을 기록한다. 지속 시간 종료 시 갈망 효과는 「그때의 파도」 효과로 전환되어 아래 효과를 얻는다: 파티 내 자신의 현재 필드 위 캐릭터의 일반 공격, 강공격, 낙하 공격, 원소전투 스킬, 원소폭발이 적에게 명중 시 갈망 효과가 기록한 회복량의 8%에 기반해 주는 피해가 증가한다. 「그때의 파도」는 5회 발동 또는 10초 후 사라진다. 한 번의 갈망 효과는 회복량을 최대 15000pt 기록하며 동시에 최대 1개만 존재할 수 있으나, 여러 장착 캐릭터가 생성한 회복량을 기록할 수 있다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Quando o personagem que está com este conjunto equipado curar um membro da equipe, gera por 6s o efeito \"Sede de Esperança\", registrando a quantidade curada (inclui sobrecura). Quando a duração acabar, o efeito Sede de Esperança será convertido para o efeito \"Ondas do Passado\": quando o Ataque Normal, Carregado, Imersivo, a Habilidade Elemental e Supremo do personagem ativo de sua equipe atingirem um inimigo, aumentará o Dano causado em 8% da cura registrada. Ondas do Passado será removido depois de ser desencadeado 5 vezes ou após 10s. Uma Sede de Esperança pode registrar até 15.000 de cura, e só é possível existir um efeito ao mesmo tempo, mas que pode registrar a cura feita por mais de um personagem que está com esse conjunto equipado. Esse efeito pode ser desencadeado mesmo que o personagem que está com esse conjunto equipado não esteja ativo no campo de batalha.",
+        "RU": "Экипированный персонаж при лечении членов отряда на 6 сек. создаёт эффект Стремления, который регистрирует осуществлённое лечение (в том числе избыточное). С завершением длительности Стремление превращается в Волны былых времён: при попадании обычной атаки, заряженной атаки, атаки в падении, элементального навыка или взрыва стихии вашего активного персонажа по противнику наносимый урон увеличивается на 8% от общего количества лечения, зарегистрированного Стремлением. После 5 активаций или через 10 сек. эффект Волн былых времён исчезает. Однократный эффект Стремления регистрирует до 15 000 ед. HP. Одновременно может существовать только одно Стремление, но оно регистрирует лечение, предоставляемое несколькими экипированными персонажами сразу. Этот эффект активируется, даже если экипированный персонаж не на поле боя.",
+        "TH": "เมื่อผู้ที่สวมใส่ทำการรักษาตัวละครในทีม จะเกิดเอฟเฟกต์ \"ความปรารถนา\" เป็นเวลา 6 วินาที ซึ่งจะบันทึกค่าการฟื้นฟูพลังชีวิต (รวมถึงค่าที่เป็นส่วนเกิน) เมื่อช่วงเวลาต่อเนื่องสิ้นสุดลง เอฟเฟกต์ \"ความปรารถนา\" จะแปลงเป็นเอฟเฟกต์ \"คลื่นจากวันวาน\": เมื่อการโจมตีปกติ, ชาร์จโจมตี, การโจมตีพุ่งลงจากอากาศ, สกิลธาตุและท่าไม้ตายของตัวละครในทีมของตนเอง ที่เข้าร่วมการต่อสู้ในขณะนั้นโจมตีโดนศัตรู จะสร้างความเสียหายเพิ่มขึ้น 8% ของค่าการฟื้นฟูที่บันทึกไว้ \"คลื่นจากวันวาน\" นี้ จะถูกลบล้างเมื่อเกิดขึ้นครบ 5 ครั้ง หรือหลังจาก 10 วินาที ความปรารถนาหนึ่งครั้งจะบันทึกค่าการฟื้นฟูได้สูงสุด 15,000 หน่วย และในช่วงเวลาเดียวกันจะสามารถมีได้เพียงหนึ่งอันเท่านั้น แต่สามารถบันทึกผลการรักษาของผู้สวมใส่ได้พร้อมกันหลายคน เอฟเฟกต์นี้ จะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter, bir grup üyesini iyileştirdiğinde 6 saniyeliğine Hasret etkisi oluşur ve toplam iyileştirme miktarı kaydedilir (fazlalık iyileştirme miktarı dahil). Etki süresi sona erdiğinde Hasret etkisi \"Geçmiş Günlerin Dalgaları\" etkisine dönüşür. Aktif grup üyesi bir düşmana Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi veya Element Patlaması ile saldırdığında verilen Hasar, Hasret etkisiyle kaydedilen toplam iyileştirme miktarının %8'i kadar artar. \"Geçmiş Günlerin Dalgaları\" etkisi, 5 defa etkili olduğunda veya 10sn sonra kaldırılır. Tek bir Hasret etkisi en fazla 15.000 iyileştirme kaydeder ve aynı anda sadece bir tane var olabilir ancak kuşanan birden fazla karakter varsa hepsinin iyileştirmelerini kaydedebilir. Hazırdaki kuşanan karakterler de bu etkiyi tetikleyebilir.",
+        "VI": "Người trang bị khi trị liệu cho nhân vật trong đội, sẽ sản sinh hiệu quả \"Mong Mỏi\" trong 6s, ghi nhận lượng HP hồi phục khi trị liệu (Bao gồm phần dư ra). Khi thời gian duy trì kết thúc, hiệu quả \"Mong Mỏi\" sẽ chuyển thành hiệu quả \"Làn Sóng Ngày Cũ\": Khi Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của nhân vật ra trận trong đội bản thân trúng kẻ địch, sát thương gây ra sẽ tăng dựa vào 8% lượng HP hồi phục được ghi nhận trong hiệu quả \"Mong Mỏi\". Hiệu quả \"Làn Sóng Ngày Cũ\" sẽ xóa khi hiệu lực 5 lần hoặc sau 10s. Một lần hiệu quả \"Mong Mỏi\" tối đa ghi nhớ 15000 điểm hồi phục, tối đa tồn tại một hiệu quả cùng lúc, nhưng có thể ghi nhận lượng hồi phục của nhiều người trang bị. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả."
+      },
+      "affixId": "2150331"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 13407,
+  "name": {
+    "EN": "Favonius Lance",
+    "CHS": "西风长枪",
+    "CHT": "西風長槍",
+    "DE": "Favonius-Lanze",
+    "ES": "Lanza de Favonius",
+    "FR": "Lance de Favonius",
+    "ID": "Favonius Lance",
+    "IT": "Lancia di Favonius",
+    "JP": "西風長槍",
+    "KR": "페보니우스 장창",
+    "PT": "Lança de Favonius",
+    "RU": "Копьё Фавония",
+    "TH": "Favonius Lance",
+    "TR": "Favonius Mızrağı",
+    "VI": "Thương Tây Phong"
+  },
+  "nameEn": "Favonius Lance",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
+    "CHS": "西风骑士团的制式长枪。枪杆直挺，枪尖轻风流溢。",
+    "CHT": "西風騎士團的制式長槍。槍桿直挺，槍尖輕風流溢。",
+    "DE": "Eine Lanze in der Machart des Ordo Favonius. Sie ist makellos gerade und ihre Spitze zischt leicht durch die Luft.",
+    "ES": "Una lanza hecha al estilo de los Caballeros de Favonius. Su barra es recta y su punta fluye ligeramente como el viento.",
+    "FR": "Une longue lance généralement maniée par les chevaliers de l'Ordre de Favonius. Une douce brise caresse la pointe de sa lame qui est attachée à une hampe droite.",
+    "ID": "Polearm yang dibuat berdasarkan gaya dari Knights of Favonius. Gagangnya lurus dan panjang, dan mata pedangnya ringan seperti angin.",
+    "IT": "Una lancia nello stile dei Cavalieri di Favonius. La sua asta è dritta e la sua punta fluttua come il vento.",
+    "JP": "西風騎士団でよく使われる長槍。身が真っ直ぐで、槍先からそよ風が溢れている。",
+    "KR": "페보니우스 기사단의 제식용 창. 곧게 선 창대에 창 끝으로 산들바람이 넘실댄다",
+    "PT": "Uma lança no estilo dos Cavaleiros de Favonius. Sua haste é reta e sua ponta flui levemente como o vento.",
+    "RU": "Копьё, состоящее на вооружении рыцарей Ордо Фавониус. Лёгкий ветерок ласкает направленный в небеса наконечник.",
+    "TH": "หอกมาตรฐานที่ใช้งานโดย เหล่าอัศวินแห่ง Favonius ด้ามหอกตรงดิ่ง ปลายหอกแหลมคม และพลิ้วไหวดั่งสายลม",
+    "TR": "Genelde Favonius Şövalyeleri tarafından kullanılan bir mızrak. Düz sapının ucundaki bıçak hafif bir rüzgar gibi salınır.",
+    "VI": "Thương nghi thức của Đội Kỵ Sĩ Tây Phong. Mũi thương dài thẳng, đầu thương nhọn như xé được gió."
+  },
+  "icon": "generated/weapon-profiles/13407/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

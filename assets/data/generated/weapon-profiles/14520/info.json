@@ -1,0 +1,52 @@
+{
+  "id": 14520,
+  "name": {
+    "EN": "Nightweaver's Looking Glass",
+    "CHS": "纺夜天镜",
+    "CHT": "紡夜天鏡",
+    "DE": "Spiegel des Nachtwebers",
+    "ES": "Espejo Tejenoches",
+    "FR": "Miroir du tisse-nuit",
+    "ID": "Nightweaver's Looking Glass",
+    "IT": "Specchio dell'Intessinotte",
+    "JP": "夜を紡ぐ天鏡",
+    "KR": "밤을 엮는 거울",
+    "PT": "Luneta do Tecedor da Noite",
+    "RU": "Зеркало прядильщицы ночи",
+    "TH": "Nightweaver's Looking Glass",
+    "TR": "Gece Dokuyanın Sırlar Aynası",
+    "VI": "Kính Dệt Màn Đêm"
+  },
+  "nameEn": "Nightweaver's Looking Glass",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A mirror crafted from flawless silver that is said to have witnessed the birth of the Moon Maiden. It is seen as a relic of unrivalled provenance by the Frostmoon Scions.",
+    "CHS": "由无瑕的白银铸就的明镜，传说见证了月之少女的诞生，因而被霜月之子视作至高的圣物。",
+    "CHT": "由無瑕的白銀鑄就的明鏡，傳說見證了月之少女的誕生，因而被霜月之子視作至高的聖物。",
+    "DE": "Ein Spiegel aus makellosem Silber. Es heißt, dass er Zeuge der Geburt des Mondmädchens war und deshalb von den Nachkommen des Frostmonds als heilig angesehen wird.",
+    "ES": "Un espejo hecho con la plata más inmaculada. Cuenta la leyenda que fue testigo del nacimiento de la Doncella Lunar, por lo que los Descendientes Lunaescarcha lo consideran un objeto verdaderamente sagrado.",
+    "FR": "Un miroir en argent pur qui aurait été témoin de la naissance de la Dame de la lune. Il est considéré comme une relique d'une provenance inégalée par les Descendants de givrelune.",
+    "ID": "Cermin yang ditempa dari perak putih tanpa cacat. Konon katanya cermin ini telah menyaksikan kelahiran Gadis Bulan, sehingga dianggap sebagai relik oleh Bani Bulan Embun.",
+    "IT": "Uno specchio realizzato in argento, che si dice abbia assistito alla nascita della Fanciulla lunare. Viene considerato una reliquia sacra dagli Eredi della Luna gelata.",
+    "JP": "瑕無き白銀で鋳造された鏡。月の少女の誕生を見届けたと言われており、霜月の子の間では至高の聖物と見なされている。",
+    "KR": "순결한 백은으로 만든 거울. 달의 소녀 탄생을 비췄다는 전설로 인해, 서리달 아이의 가장 귀한 성물이 되었다",
+    "PT": "Um espelho feito de prata perfeita, dizem que testemunhou o nascimento da Dama da Lua. É visto como uma relíquia única e elevada dos Filhos da Lua Gelada.",
+    "RU": "Зеркало из безупречного серебра. Согласно легенде, оно стало свидетелем рождения Девы Луны, поэтому Дети Морозной Луны считают его священной реликвией.",
+    "TH": "กระจกสีเงินที่ทำขึ้นจากเงินบริสุทธิ์ ตำนานเล่าว่า มันได้เห็นการถือกำเนิด ของเทพธิดาแห่งจันทรา จึงได้รับการยกย่อง ให้เป็นรีลิกส์ขั้นสูงสุด โดยลูกหลานจันทราน้ำค้างแข็ง",
+    "TR": "Ay Hanımı'nın doğuşuna tanıklık ettiği söylenen, kusursuz gümüşten yapılmış bir ayna. Donuk Ayın Çocukları için kıyas kabul etmez ölçüde değerli bir nesne.",
+    "VI": "Tấm gương sáng bằng bạc không tì vết, tương truyền đã chứng kiến sự ra đời của Thiếu Nữ Mặt Trăng, vì thế mà được Dòng Dõi Sương Nguyệt xem như thánh vật tối cao."
+  },
+  "icon": "generated/weapon-profiles/14520/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 57.6,
+  "substat_lvl90": 264.6144,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

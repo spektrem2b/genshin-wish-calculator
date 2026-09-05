@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Mind in Bloom",
+    "CHS": "盛放的思绪",
+    "CHT": "盛放的思緒",
+    "DE": "Blühende Gedanken",
+    "ES": "Pensamiento floreciente",
+    "FR": "Pensée florissante",
+    "ID": "Mind in Bloom",
+    "IT": "Pensiero in fiore",
+    "JP": "咲き誇る想い",
+    "KR": "피어나는 사색",
+    "PT": "Pensamentos de Florescimento",
+    "RU": "Разум в расцвете",
+    "TH": "Mind in Bloom",
+    "TR": "Zihinde Açan Çiçekler",
+    "VI": "Tâm Tư Nở Rộ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 12 Elemental Energy and increase Elemental Mastery by 60 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field.",
+        "CHS": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复12点元素能量，并在接下来的15秒内使元素精通提升60点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發感電、月感電、綻放、月綻放、結晶或月結晶反應時，恢復12點元素能量，並在接下來的15秒內使元素精通提升60點。該效果每15秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ 12 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 60 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Al causar una reacción de Electrocargado, Electrocargado Lunar, Florecimiento, Florecimiento Lunar, Cristalización o Cristalización Lunar, restaura 12 pts. de Energía Elemental y la Maestría Elemental aumenta en 60 pts. durante 15 s. Este efecto solo puede ocurrir una vez cada 15 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction d'Électrocution, de Sélénocution, de Fleurissement, de Sélénofleurissement, de Cristallisation ou de Sélénocristallisation restaure 12 pts d'énergie élémentaire et augmente la maîtrise élémentaire de 60 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan 12 poin Energy dan meningkatkan 60 poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di 12 e la maestria elementale aumenta di 60 per 15 s. Quest'effetto può attivarsi al massimo una volta ogni 15 s, anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "感電、月感電、開花、月開花、結晶、または月結晶反応を起こした時、元素エネルギーを12ポイント回復し、15秒間元素熟知+60。この効果は15秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "감전, 달 감전, 개화, 달 개화, 결정 또는 달 결정 반응 발동 시, 원소 에너지를 12pt 회복하고, 15초 동안 원소 마스터리가 60pt 증가한다. 해당 효과는 15초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera 12 de Energia Elemental e aumenta a Proficiência Elemental em 60 nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.",
+        "RU": "Активация реакций Заряжен, Лунный заряд, Бутонизация, Лунная бутонизация, Кристалл или Лунный кристалл восстанавливает 12 ед. энергии и на 15 сек. повышает мастерство стихий на 60 ед. Эффект может возникнуть один раз в 15 сек. и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "เมื่อทำให้เกิดปฏิกิริยาชาร์จไฟฟ้า, ชาร์จจันทรา, งอกเงย, งอกเงยจันทรา, ตกผลึก หรือตกผลึกจันทรา จะฟื้นฟูพลังงานธาตุ 12 หน่วย และทำให้ความชำนาญธาตุเพิ่มขึ้น 60 หน่วย เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde 12 Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı 60 artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục 12 điểm Năng Lượng Nguyên Tố, đồng thời tăng 60 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 15 Elemental Energy and increase Elemental Mastery by 75 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field.",
+        "CHS": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复15点元素能量，并在接下来的15秒内使元素精通提升75点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發感電、月感電、綻放、月綻放、結晶或月結晶反應時，恢復15點元素能量，並在接下來的15秒內使元素精通提升75點。該效果每15秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ 15 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 75 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Al causar una reacción de Electrocargado, Electrocargado Lunar, Florecimiento, Florecimiento Lunar, Cristalización o Cristalización Lunar, restaura 15 pts. de Energía Elemental y la Maestría Elemental aumenta en 75 pts. durante 15 s. Este efecto solo puede ocurrir una vez cada 15 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction d'Électrocution, de Sélénocution, de Fleurissement, de Sélénofleurissement, de Cristallisation ou de Sélénocristallisation restaure 15 pts d'énergie élémentaire et augmente la maîtrise élémentaire de 75 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan 15 poin Energy dan meningkatkan 75 poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di 15 e la maestria elementale aumenta di 75 per 15 s. Quest'effetto può attivarsi al massimo una volta ogni 15 s, anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "感電、月感電、開花、月開花、結晶、または月結晶反応を起こした時、元素エネルギーを15ポイント回復し、15秒間元素熟知+75。この効果は15秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "감전, 달 감전, 개화, 달 개화, 결정 또는 달 결정 반응 발동 시, 원소 에너지를 15pt 회복하고 15초 동안 원소 마스터리가 75pt 증가한다. 해당 효과는 15초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera 15 de Energia Elemental e aumenta a Proficiência Elemental em 75 nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.",
+        "RU": "Активация реакций Заряжен, Лунный заряд, Бутонизация, Лунная бутонизация, Кристалл или Лунный кристалл восстанавливает 15 ед. энергии и на 15 сек. повышает мастерство стихий на 75 ед. Эффект может возникнуть один раз в 15 сек. и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "เมื่อทำให้เกิดปฏิกิริยาชาร์จไฟฟ้า, ชาร์จจันทรา, งอกเงย, งอกเงยจันทรา, ตกผลึก หรือตกผลึกจันทรา จะฟื้นฟูพลังงานธาตุ 15 หน่วย และทำให้ความชำนาญธาตุเพิ่มขึ้น 75 หน่วย เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde 15 Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı 75 artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục 15 điểm Năng Lượng Nguyên Tố, đồng thời tăng 75 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 18 Elemental Energy and increase Elemental Mastery by 90 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field.",
+        "CHS": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复18点元素能量，并在接下来的15秒内使元素精通提升90点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發感電、月感電、綻放、月綻放、結晶或月結晶反應時，恢復18點元素能量，並在接下來的15秒內使元素精通提升90點。該效果每15秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ 18 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 90 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Al causar una reacción de Electrocargado, Electrocargado Lunar, Florecimiento, Florecimiento Lunar, Cristalización o Cristalización Lunar, restaura 18 pts. de Energía Elemental y la Maestría Elemental aumenta en 90 pts. durante 15 s. Este efecto solo puede ocurrir una vez cada 15 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction d'Électrocution, de Sélénocution, de Fleurissement, de Sélénofleurissement, de Cristallisation ou de Sélénocristallisation restaure 18 pts d'énergie élémentaire et augmente la maîtrise élémentaire de 90 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan 18 poin Energy dan meningkatkan 90 poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di 18 e la maestria elementale aumenta di 90 per 15 s. Quest'effetto può attivarsi al massimo una volta ogni 15 s, anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "感電、月感電、開花、月開花、結晶、または月結晶反応を起こした時、元素エネルギーを18ポイント回復し、15秒間元素熟知+90。この効果は15秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "감전, 달 감전, 개화, 달 개화, 결정 또는 달 결정 반응 발동 시, 원소 에너지를 18pt 회복하고 15초 동안 원소 마스터리가 90pt 증가한다. 해당 효과는 15초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera 18 de Energia Elemental e aumenta a Proficiência Elemental em 90 nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.",
+        "RU": "Активация реакций Заряжен, Лунный заряд, Бутонизация, Лунная бутонизация, Кристалл или Лунный кристалл восстанавливает 18 ед. энергии и на 15 сек. повышает мастерство стихий на 90 ед. Эффект может возникнуть один раз в 15 сек. и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "เมื่อทำให้เกิดปฏิกิริยาชาร์จไฟฟ้า, ชาร์จจันทรา, งอกเงย, งอกเงยจันทรา, ตกผลึก หรือตกผลึกจันทรา จะฟื้นฟูพลังงานธาตุ 18 หน่วย และทำให้ความชำนาญธาตุเพิ่มขึ้น 90 หน่วย เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde 18 Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı 90 artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục 18 điểm Năng Lượng Nguyên Tố, đồng thời tăng 90 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 21 Elemental Energy and increase Elemental Mastery by 105 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field.",
+        "CHS": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复21点元素能量，并在接下来的15秒内使元素精通提升105点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發感電、月感電、綻放、月綻放、結晶或月結晶反應時，恢復21點元素能量，並在接下來的15秒內使元素精通提升105點。該效果每15秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ 21 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 105 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Al causar una reacción de Electrocargado, Electrocargado Lunar, Florecimiento, Florecimiento Lunar, Cristalización o Cristalización Lunar, restaura 21 pts. de Energía Elemental y la Maestría Elemental aumenta en 105 pts. durante 15 s. Este efecto solo puede ocurrir una vez cada 15 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction d'Électrocution, de Sélénocution, de Fleurissement, de Sélénofleurissement, de Cristallisation ou de Sélénocristallisation restaure 21 pts d'énergie élémentaire et augmente la maîtrise élémentaire de 105 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan 21 poin Energy dan meningkatkan 105 poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di 21 e la maestria elementale aumenta di 105 per 15 s. Quest'effetto può attivarsi al massimo una volta ogni 15 s, anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "感電、月感電、開花、月開花、結晶、または月結晶反応を起こした時、元素エネルギーを21ポイント回復し、15秒間元素熟知+105。この効果は15秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "감전, 달 감전, 개화, 달 개화, 결정 또는 달 결정 반응 발동 시, 원소 에너지를 21pt 회복하고 15초 동안 원소 마스터리가 105pt 증가한다. 해당 효과는 15초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera 21 de Energia Elemental e aumenta a Proficiência Elemental em 105 nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.",
+        "RU": "Активация реакций Заряжен, Лунный заряд, Бутонизация, Лунная бутонизация, Кристалл или Лунный кристалл восстанавливает 21 ед. энергии и на 15 сек. повышает мастерство стихий на 105 ед. Эффект может возникнуть один раз в 15 сек. и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "เมื่อทำให้เกิดปฏิกิริยาชาร์จไฟฟ้า, ชาร์จจันทรา, งอกเงย, งอกเงยจันทรา, ตกผลึก หรือตกผลึกจันทรา จะฟื้นฟูพลังงานธาตุ 21 หน่วย และทำให้ความชำนาญธาตุเพิ่มขึ้น 105 หน่วย เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde 21 Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı 105 artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục 21 điểm Năng Lượng Nguyên Tố, đồng thời tăng 105 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 24 Elemental Energy and increase Elemental Mastery by 120 for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field.",
+        "CHS": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复24点元素能量，并在接下来的15秒内使元素精通提升120点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發感電、月感電、綻放、月綻放、結晶或月結晶反應時，恢復24點元素能量，並在接下來的15秒內使元素精通提升120點。該效果每15秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ 24 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 120 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Al causar una reacción de Electrocargado, Electrocargado Lunar, Florecimiento, Florecimiento Lunar, Cristalización o Cristalización Lunar, restaura 24 pts. de Energía Elemental y la Maestría Elemental aumenta en 120 pts. durante 15 s. Este efecto solo puede ocurrir una vez cada 15 s y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction d'Électrocution, de Sélénocution, de Fleurissement, de Sélénofleurissement, de Cristallisation ou de Sélénocristallisation restaure 24 pts d'énergie élémentaire et augmente la maîtrise élémentaire de 120 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan 24 poin Energy dan meningkatkan 120 poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di 24 e la maestria elementale aumenta di 120 per 15 s. Quest'effetto può attivarsi al massimo una volta ogni 15 s, anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "感電、月感電、開花、月開花、結晶、または月結晶反応を起こした時、元素エネルギーを24ポイント回復し、15秒間元素熟知+120。この効果は15秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "감전, 달 감전, 개화, 달 개화, 결정 또는 달 결정 반응 발동 시, 원소 에너지를 24pt 회복하고 15초 동안 원소 마스터리가 120pt 증가한다. 해당 효과는 15초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera 24 de Energia Elemental e aumenta a Proficiência Elemental em 120 nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.",
+        "RU": "Активация реакций Заряжен, Лунный заряд, Бутонизация, Лунная бутонизация, Кристалл или Лунный кристалл восстанавливает 24 ед. энергии и на 15 сек. повышает мастерство стихий на 120 ед. Эффект может возникнуть один раз в 15 сек. и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "เมื่อทำให้เกิดปฏิกิริยาชาร์จไฟฟ้า, ชาร์จจันทรา, งอกเงย, งอกเงยจันทรา, ตกผลึก หรือตกผลึกจันทรา จะฟื้นฟูพลังงานธาตุ 24 หน่วย และทำให้ความชำนาญธาตุเพิ่มขึ้น 120 หน่วย เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde 24 Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı 120 artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục 24 điểm Năng Lượng Nguyên Tố, đồng thời tăng 120 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    }
+  ]
+}

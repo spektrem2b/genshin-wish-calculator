@@ -1,0 +1,52 @@
+{
+  "id": 15410,
+  "name": {
+    "EN": "Alley Hunter",
+    "CHS": "暗巷猎手",
+    "CHT": "暗巷獵手",
+    "DE": "Gassenjäger",
+    "ES": "Cazador del Callejón",
+    "FR": "Traqueur des impasses",
+    "ID": "Alley Hunter",
+    "IT": "Cacciatore urbano",
+    "JP": "ダークアレイの狩人",
+    "KR": "뒷골목 사냥꾼",
+    "PT": "Caçador do Beco",
+    "RU": "Охотник во тьме",
+    "TH": "Alley Hunter",
+    "TR": "Gece Avcısı",
+    "VI": "Thợ Săn Hẻm Tối"
+  },
+  "nameEn": "Alley Hunter",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught.",
+    "CHS": "外形精巧奢华的长弓，曾属于某位从未被抓获的义贼。",
+    "CHT": "外形精巧奢華的長弓，曾屬於某位從未被抓獲的義賊。",
+    "DE": "Ein präziser und extravaganter Langbogen, der einmal einem Vogelfreien gehört hat, der sich der Gerechtigkeit verschrieben hat und niemals gefangen wurde.",
+    "ES": "Un arco largo presuntuoso y fabricado con gran ingenio. Perteneció a un ladrón justiciero que nunca llegó a ser atrapado.",
+    "FR": "Un arc long somptueux et délicat qui appartenait autrefois à un brigand au grand cœur qui n'a jamais été capturé.",
+    "ID": "Busur panjang yang indah, dulunya digunakan oleh seorang pencuri ulung yang tidak pernah tertangkap.",
+    "IT": "Un arco lungo opulento ed elaborato, appartenuto a un ladro gentiluomo che non è mai stato preso.",
+    "JP": "豪華な装飾が施された長弓。一度も捕らえられたことのない義賊が所持していた。",
+    "KR": "외형이 정교하고 화려한 활. 한 번도 잡히지 않았던 의적이 사용하던 활이다",
+    "PT": "Um arco longo e opulento intrincado. Pertenceu a um ladrão de cavalheiros que nunca foi pego.",
+    "RU": "Мастерски исполненный роскошный лук. Принадлежал он благородному вору, которого никто так и не поймал.",
+    "TH": "ธนูยาวที่ดูสวยงามประณีต ครั้งหนึ่งเคยเป็นของจอมโจรผู้รักความยุติธรรมและยังไม่เคยถูกจับได้",
+    "TR": "Büyük bir ustalıkla üretilmiş gösterişli bir yay. Hiç yakalanmadan yaşamış iyi kalpli bir hırsıza aitti.",
+    "VI": "Cây cung dài với hình dáng tinh xảo xa xỉ, từng thuộc về tên trộm nghĩa hiệp nào đó chưa từng bị bắt."
+  },
+  "icon": "generated/weapon-profiles/15410/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

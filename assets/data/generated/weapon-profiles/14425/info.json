@@ -1,0 +1,52 @@
+{
+  "id": 14425,
+  "name": {
+    "EN": "Flowing Purity",
+    "CHS": "纯水流华",
+    "CHT": "純水流華",
+    "DE": "Fließende Reinheit",
+    "ES": "Fluencia Impoluta",
+    "FR": "Pureté fluide",
+    "ID": "Flowing Purity",
+    "IT": "Corrente d'acqua pura",
+    "JP": "純水流華",
+    "KR": "순수한 달빛 물결",
+    "PT": "Fluxo da Pureza",
+    "RU": "Сверкание чистых вод",
+    "TH": "Flowing Purity",
+    "TR": "Saflığın Akışı",
+    "VI": "Dòng Chảy Tinh Khiết"
+  },
+  "nameEn": "Flowing Purity",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A strangely-shaped anthology of scripts. All the scripts written by Coppelius are recorded within.",
+    "CHS": "造型奇特的剧本集，其中收录了科培琉司创作的所有剧本。",
+    "CHT": "造型奇特的劇本集，其中收錄了科培琉司創作的所有劇本。",
+    "DE": "Eine seltsam geformte Sammlung von Stücken. Enthält unter anderem alle von Coppelius verfasste Werke.",
+    "ES": "Un compendio de aspecto muy peculiar que recoge todos los guiones escritos por Coppélius.",
+    "FR": "Une anthologie de scripts à la forme étrange. Tous les scénarios écrits par Coppelius y sont consignés.",
+    "ID": "Koleksi naskah dengan bentuk aneh yang berisi semua naskah ciptaan Coppelius.",
+    "IT": "Un'antologia di copioni dalla forma bizzarra. Al suo interno sono contenuti tutti i copioni scritti da Coppelius.",
+    "JP": "変わった形をした台本集。コペリウスが創作したすべての台本が記録されている。",
+    "KR": "독특한 모양의 극본집. 코펠리우스가 창작한 모든 극본이 수록되어 있다",
+    "PT": "Uma antologia de roteiros com uma forma estranha. Todos os roteiros escritos por Coppelius estão registrados dentro dele.",
+    "RU": "Сборник сценариев причудливой формы. В нём все сценарии за авторством Коппелиуса.",
+    "TH": "หนังสือรวมบทละครหน้าตาประหลาด มันได้รวบรวมบทละครที่ Coppelius เคยสร้างสรรค์ไว้ทั้งหมด",
+    "TR": "Coppelius'un yazdığı tüm senaryoların yer aldığı tuhaf biçimli bir senaryo antolojisi.",
+    "VI": "Tập kịch bản có tạo hình độc đáo, trong đó đã ghi lại tất cả kịch bản mà Coppelius sáng tác."
+  },
+  "icon": "generated/weapon-profiles/14425/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Debut",
+    "CHS": "登场乐",
+    "CHT": "登場樂",
+    "DE": "Ouvertüre",
+    "ES": "Debut",
+    "FR": "Musique d'ouverture",
+    "ID": "Debut",
+    "IT": "Debutto",
+    "JP": "序曲",
+    "KR": "등장 음악",
+    "PT": "Abertura",
+    "RU": "Дебют",
+    "TH": "Debut",
+    "TR": "Giriş Müziği",
+    "VI": "Nhạc Mở Màn"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 60%. Aria: Increases all Elemental DMG by 48%. Interlude: Elemental Mastery is increased by 240.",
+        "CHS": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升60%；咏叹调：全元素伤害提升48%;间奏曲：元素精通提升240。",
+        "CHT": "角色登場時，隨機獲得一個主題曲，持續10秒。每30秒只能觸發一次。宣敘調：攻擊力提升60%；詠嘆調：全元素傷害提升48%;間奏曲：元素精通提升240。",
+        "DE": "Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um 60 %; Arie: Erhöht gesamten Elementar-SCH um 48 %; Intermezzo: Erhöht Elementarkunde um 240 Punkte.",
+        "ES": "Al entrar en combate, el personaje obtiene una canción aleatoria durante 10 s. Puede ocurrir una vez cada 30 s. Recital: aumenta el ATQ en un 60%. Aria: aumenta todo el Daño elemental en un 48%. Interludio: la Maestría Elemental aumenta 240 pts.",
+        "FR": "Le personnage obtient pendant 10 s une mélodie aléatoire lorsqu'il est déployé au combat. Cet effet peut être déclenché une fois toutes les 30 s. Récital : augmente l'ATQ de 60 % ; Aria : augmente les DGT élémentaires de 48 % ; Interlude : augmente la maîtrise élémentaire de 240 pts.",
+        "ID": "Saat memasuki pertempuran, memulai sebuah musik secara acak selama 10 detik. Dapat terpicu setiap 30 detik. Recitative: Meningkatkan 60% ATK. Aria: Meningkatkan 48% Elemental DMG. Interlude: Meningkatkan 240 Elemental Mastery.",
+        "IT": "#Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l'ATT aumenta di un 60%. Aria: aumenta tutti i DAN elementali di un 48%. Interludio: la maestria elementale aumenta di 240.",
+        "JP": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+60%。詠唱：全元素ダメージ+48%。間奏曲：元素熟知+240。",
+        "KR": "캐릭터가 등장할 때 무작위로 테마송을 획득한다, 지속 시간 10초. 30초마다 1번 발동한다. 서창: 공격력+60%. 영탄곡: 모든 원소의 피해+48%. 간주곡: 원소 마스터리+240",
+        "PT": "Ao entrar no campo de batalha, o personagem ganha uma música temática aleatória por 10s. Pode ser ativada uma vez a cada 30s. Recitativa: O ATQ é aumentado em 60%; Aria: Aumenta todos os Danos Elementais em 48%; Interlúdio: A Proficiência Elemental é aumentada em 240.",
+        "RU": "При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек. Речитатив: увеличивает силу атаки на 60%; Ария: увеличивает элементальный урон на 48%; Интерлюдия: увеличивает мастерство стихий на 240.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ จะได้รับบทเพลงแบบสุ่มเป็นเวลา 10 วินาที โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 30 วินาที การอ่านบรรเลง: เพิ่มพลังโจมตี 60%; เพลงประกอบ: เพิ่มความเสียหายธาตุทั้งหมดขึ้น 48%; การแสดงสลับฉาก: ความชำนาญธาตุเพิ่มขึ้น 240",
+        "TR": "Karakter savaş alanına çıktığında, 10 saniyeliğine rastgele bir tema müziği kazanır. 30 saniyede bir uygulanabilir. Resital: Saldırı %60 artar. Arya: Tüm Element Hasarlarını %48 artırır. İntermezzo: Element Ustalığını 240 artırır.",
+        "VI": "Khi nhân vật ra trận, ngẫu nhiên nhận 1 ca khúc, kéo dài 10s. Mỗi 30s mới thi triển 1 lần. Nhạc dạo: Tấn công tăng 60%; Điệp khúc: Toàn bộ sát thương nguyên tố tăng 48%; Khúc nhạc ngắn: Tinh thông nguyên tố tăng 240."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 75%. Aria: Increases all Elemental DMG by 60%. Interlude: Elemental Mastery is increased by 300.",
+        "CHS": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升75%；咏叹调：全元素伤害提升60%;间奏曲：元素精通提升300。",
+        "CHT": "角色登場時，隨機獲得一個主題曲，持續10秒。每30秒只能觸發一次。宣敘調：攻擊力提升75%；詠嘆調：全元素傷害提升60%;間奏曲：元素精通提升300。",
+        "DE": "Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um 75 %; Arie: Erhöht gesamten Elementar-SCH um 60 %; Intermezzo: Erhöht Elementarkunde um 300 Punkte.",
+        "ES": "Al entrar en combate, el personaje obtiene una canción aleatoria durante 10 s. Puede ocurrir una vez cada 30 s. Recital: aumenta el ATQ en un 75%. Aria: aumenta todo el Daño elemental en un 60%. Interludio: la Maestría Elemental aumenta 300 pts.",
+        "FR": "Le personnage obtient pendant 10 s une mélodie aléatoire lorsqu'il est déployé au combat. Cet effet peut être déclenché une fois toutes les 30 s. Récital : augmente l'ATQ de 75 % ; Aria : augmente les DGT élémentaires de 60 % ; Interlude : augmente la maîtrise élémentaire de 300 pts.",
+        "ID": "Saat memasuki pertempuran, memulai sebuah musik secara acak selama 10 detik. Dapat terpicu setiap 30 detik. Recitative: Meningkatkan 75% ATK. Aria: Meningkatkan 60% Elemental DMG. Interlude: Meningkatkan 300 Elemental Mastery.",
+        "IT": "#Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l'ATT aumenta di un 75%. Aria: aumenta tutti i DAN elementali di un 60%. Interludio: la maestria elementale aumenta di 300.",
+        "JP": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+75%。詠唱：全元素ダメージ+60%。間奏曲：元素熟知+300。",
+        "KR": "캐릭터가 등장할 때 무작위로 테마송을 획득한다, 지속 시간 10초. 30초마다 1번 발동한다. 서창: 공격력+75%. 영탄곡: 모든 원소의 피해+60%. 간주곡: 원소 마스터리+300",
+        "PT": "Ao entrar no campo de batalha, o personagem ganha uma música temática aleatória por 10s. Pode ser ativada uma vez a cada 30s. Recitativa: O ATQ é aumentado em 75%; Ária: Aumenta todos os Danos Elementais em 60%; Interlúdio: A Proficiência Elemental é aumentada em 300.",
+        "RU": "При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек. Речитатив: увеличивает силу атаки на 75%; Ария: увеличивает элементальный урон на 60%; Интерлюдия: увеличивает мастерство стихий на 300.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ จะได้รับบทเพลงแบบสุ่มเป็นเวลา 10 วินาที โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 30 วินาที การอ่านบรรเลง: เพิ่มพลังโจมตี 75%; เพลงประกอบ: เพิ่มความเสียหายธาตุทั้งหมดขึ้น 60%; การแสดงสลับฉาก: ความชำนาญธาตุเพิ่มขึ้น 300",
+        "TR": "Karakter savaş alanına çıktığında, 10 saniyeliğine rastgele bir tema müziği kazanır. 30 saniyede bir uygulanabilir. Resital: Saldırı %75 artar. Arya: Tüm Element Hasarlarını %60 artırır. İntermezzo: Element Ustalığını 300 artırır.",
+        "VI": "Khi nhân vật ra trận, ngẫu nhiên nhận 1 ca khúc, kéo dài 10s. Mỗi 30s mới thi triển 1 lần. Nhạc dạo: Tấn công tăng 75%; Điệp khúc: Toàn bộ sát thương nguyên tố tăng 60%; Khúc nhạc ngắn: Tinh thông nguyên tố tăng 300."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 90%. Aria: Increases all Elemental DMG by 72%. Interlude: Elemental Mastery is increased by 360.",
+        "CHS": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升90%；咏叹调：全元素伤害提升72%;间奏曲：元素精通提升360。",
+        "CHT": "角色登場時，隨機獲得一個主題曲，持續10秒。每30秒只能觸發一次。宣敘調：攻擊力提升90%；詠嘆調：全元素傷害提升72%;間奏曲：元素精通提升360。",
+        "DE": "Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um 90 %; Arie: Erhöht gesamten Elementar-SCH um 72 %; Intermezzo: Erhöht Elementarkunde um 360 Punkte.",
+        "ES": "Al entrar en combate, el personaje obtiene una canción aleatoria durante 10 s. Puede ocurrir una vez cada 30 s. Recital: aumenta el ATQ en un 90%. Aria: aumenta todo el Daño elemental en un 72%. Interludio: la Maestría Elemental aumenta 360 pts.",
+        "FR": "Le personnage obtient pendant 10 s une mélodie aléatoire lorsqu'il est déployé au combat. Cet effet peut être déclenché une fois toutes les 30 s. Récital : augmente l'ATQ de 90 % ; Aria : augmente les DGT élémentaires de 72 % ; Interlude : augmente la maîtrise élémentaire de 360 pts.",
+        "ID": "Saat memasuki pertempuran, memulai sebuah musik secara acak selama 10 detik. Dapat terpicu setiap 30 detik. Recitative: Meningkatkan 90% ATK. Aria: Meningkatkan 72% Elemental DMG. Interlude: Meningkatkan 360 Elemental Mastery.",
+        "IT": "#Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l'ATT aumenta di un 90%. Aria: aumenta tutti i DAN elementali di un 72%. Interludio: la maestria elementale aumenta di 360.",
+        "JP": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+90%。詠唱：全元素ダメージ+72%。間奏曲：元素熟知+360。",
+        "KR": "캐릭터가 등장할 때 무작위로 테마송을 획득한다, 지속 시간 10초. 30초마다 1번 발동한다. 서창: 공격력+90%. 영탄곡: 모든 원소의 피해+72%. 간주곡: 원소 마스터리+360",
+        "PT": "Ao entrar no campo de batalha, o personagem ganha uma música temática aleatória por 10s. Pode ser ativada uma vez a cada 30s. Recitativa: O ATQ é aumentado em 90%; Aria: Aumenta todos os Danos Elementais em 72%; Interlúdio: A Proficiência Elemental é aumentada em 360.",
+        "RU": "При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек. Речитатив: увеличивает силу атаки на 90%; Ария: увеличивает элементальный урон на 72%; Интерлюдия: увеличивает мастерство стихий на 360.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ จะได้รับบทเพลงแบบสุ่มเป็นเวลา 10 วินาที โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 30 วินาที การอ่านบรรเลง: เพิ่มพลังโจมตี 90%; เพลงประกอบ: เพิ่มความเสียหายธาตุทั้งหมดขึ้น 72%; การแสดงสลับฉาก: ความชำนาญธาตุเพิ่มขึ้น 360",
+        "TR": "Karakter savaş alanına çıktığında, 10 saniyeliğine rastgele bir tema müziği kazanır. 30 saniyede bir uygulanabilir. Resital: Saldırı %90 artar. Arya: Tüm Element Hasarlarını %72 artırır. İntermezzo: Element Ustalığını 360 artırır.",
+        "VI": "Khi nhân vật ra trận, ngẫu nhiên nhận 1 ca khúc, kéo dài 10s. Mỗi 30s mới thi triển 1 lần. Nhạc dạo: Tấn công tăng 90%; Điệp khúc: Toàn bộ sát thương nguyên tố tăng 72%; Khúc nhạc ngắn: Tinh thông nguyên tố tăng 360."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 105%. Aria: Increases all Elemental DMG by 84%. Interlude: Elemental Mastery is increased by 420.",
+        "CHS": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升105%；咏叹调：全元素伤害提升84%;间奏曲：元素精通提升420。",
+        "CHT": "角色登場時，隨機獲得一個主題曲，持續10秒。每30秒只能觸發一次。宣敘調：攻擊力提升105%；詠嘆調：全元素傷害提升84%;間奏曲：元素精通提升420。",
+        "DE": "Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um 105 %; Arie: Erhöht gesamten Elementar-SCH um 84 %; Intermezzo: Erhöht Elementarkunde um 420 Punkte.",
+        "ES": "Al entrar en combate, el personaje obtiene una canción aleatoria durante 10 s. Puede ocurrir una vez cada 30 s. Recital: aumenta el ATQ en un 105%. Aria: aumenta todo el Daño elemental en un 84%. Interludio: la Maestría Elemental aumenta 420 pts.",
+        "FR": "Le personnage obtient pendant 10 s une mélodie aléatoire lorsqu'il est déployé au combat. Cet effet peut être déclenché une fois toutes les 30 s. Récital : augmente l'ATQ de 105 % ; Aria : augmente les DGT élémentaires de 84 % ; Interlude : augmente la maîtrise élémentaire de 420 pts.",
+        "ID": "Saat memasuki pertempuran, memulai sebuah musik secara acak selama 10 detik. Dapat terpicu setiap 30 detik. Recitative: Meningkatkan 105% ATK. Aria: Meningkatkan 84% Elemental DMG. Interlude: Meningkatkan 420 Elemental Mastery.",
+        "IT": "#Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l'ATT aumenta di un 105%. Aria: aumenta tutti i DAN elementali di un 84%. Interludio: la maestria elementale aumenta di 420.",
+        "JP": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+105%。詠唱：全元素ダメージ+84%。間奏曲：元素熟知+420。",
+        "KR": "캐릭터가 등장할 때 무작위로 테마송을 획득한다, 지속 시간 10초. 30초마다 1번 발동한다. 서창: 공격력+105%. 영탄곡: 모든 원소의 피해+84%. 간주곡: 원소 마스터리+420",
+        "PT": "Ao entrar no campo de batalha, o personagem ganha uma música temática aleatória por 10s. Pode ser ativada uma vez a cada 30s. Recitativa: O ATQ é aumentado em 105%; Aria: Aumenta todos os Danos Elementais em 84%; Interlúdio: A Proficiência Elemental é aumentada em 420.",
+        "RU": "При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек. Речитатив: увеличивает силу атаки на 105%; Ария: увеличивает элементальный урон на 84%; Интерлюдия: увеличивает мастерство стихий на 420.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ จะได้รับบทเพลงแบบสุ่มเป็นเวลา 10 วินาที โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 30 วินาที การอ่านบรรเลง: เพิ่มพลังโจมตี 105%; เพลงประกอบ: เพิ่มความเสียหายธาตุทั้งหมดขึ้น 84%; การแสดงสลับฉาก: ความชำนาญธาตุเพิ่มขึ้น 420",
+        "TR": "Karakter savaş alanına çıktığında, 10 saniyeliğine rastgele bir tema müziği kazanır. 30 saniyede bir uygulanabilir. Resital: Saldırı %105 artar. Arya: Tüm Element Hasarlarını %84 artırır. İntermezzo: Element Ustalığını 420 artırır.",
+        "VI": "Khi nhân vật ra trận, ngẫu nhiên nhận 1 ca khúc, kéo dài 10s. Mỗi 30s mới thi triển 1 lần. Nhạc dạo: Tấn công tăng 105%; Điệp khúc: Toàn bộ sát thương nguyên tố tăng 84%; Khúc nhạc ngắn: Tinh thông nguyên tố tăng 420."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 120%. Aria: Increases all Elemental DMG by 96%. Interlude: Elemental Mastery is increased by 480.",
+        "CHS": "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升120%；咏叹调：全元素伤害提升96%;间奏曲：元素精通提升480。",
+        "CHT": "角色登場時，隨機獲得一個主題曲，持續10秒。每30秒只能觸發一次。宣敘調：攻擊力提升120%；詠嘆調：全元素傷害提升96%;間奏曲：元素精通提升480。",
+        "DE": "Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um 120 %; Arie: Erhöht gesamten Elementar-SCH um 96 %; Intermezzo: Erhöht Elementarkunde um 480 Punkte.",
+        "ES": "Al entrar en combate, el personaje obtiene una canción aleatoria durante 10 s. Puede ocurrir una vez cada 30 s. Recital: aumenta el ATQ en un 120%. Aria: aumenta todo el Daño elemental en un 96%. Interludio: la Maestría Elemental aumenta 480 pts.",
+        "FR": "Le personnage obtient pendant 10 s une mélodie aléatoire lorsqu'il est déployé au combat. Cet effet peut être déclenché une fois toutes les 30 s. Récital : augmente l'ATQ de 120 % ; Aria : augmente les DGT élémentaires de 96 % ; Interlude : augmente la maîtrise élémentaire de 480 pts.",
+        "ID": "Saat memasuki pertempuran, memulai sebuah musik secara acak selama 10 detik. Dapat terpicu setiap 30 detik. Recitative: Meningkatkan 120% ATK. Aria: Meningkatkan 96% Elemental DMG. Interlude: Meningkatkan 480 Elemental Mastery.",
+        "IT": "#Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l'ATT aumenta di un 120%. Aria: aumenta tutti i DAN elementali di un 96%. Interludio: la maestria elementale aumenta di 480.",
+        "JP": "キャラ登場時、ランダムにテーマ曲を1つ獲得する、継続時間10秒。30秒毎に1回のみ発動可能。叙唱：攻撃力+120%。詠唱：全元素ダメージ+96%。間奏曲：元素熟知+480。",
+        "KR": "캐릭터가 등장할 때 무작위로 테마송을 획득한다, 지속 시간 10초. 30초마다 1번 발동한다. 서창: 공격력+120%. 영탄곡: 모든 원소의 피해+96%. 간주곡: 원소 마스터리+480",
+        "PT": "Ao entrar no campo de batalha, o personagem ganha uma música temática aleatória por 10s. Pode ser ativada uma vez a cada 30s. Recitativa: O ATQ é aumentado em 120%; Aria: Aumenta todos os Danos Elementais em 96%; Interlúdio: A Proficiência Elemental é aumentada em 480.",
+        "RU": "При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек. Речитатив: увеличивает силу атаки на 120%; Ария: увеличивает элементальный урон на 96%; Интерлюдия: увеличивает мастерство стихий на 480.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ จะได้รับบทเพลงแบบสุ่มเป็นเวลา 10 วินาที โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 30 วินาที การอ่านบรรเลง: เพิ่มพลังโจมตี 120%; เพลงประกอบ: เพิ่มความเสียหายธาตุทั้งหมดขึ้น 96%; การแสดงสลับฉาก: ความชำนาญธาตุเพิ่มขึ้น 480",
+        "TR": "Karakter savaş alanına çıktığında, 10 saniyeliğine rastgele bir tema müziği kazanır. 30 saniyede bir uygulanabilir. Resital: Saldırı %120 artar. Arya: Tüm Element Hasarlarını %96 artırır. İntermezzo: Element Ustalığını 480 artırır.",
+        "VI": "Khi nhân vật ra trận, ngẫu nhiên nhận 1 ca khúc, kéo dài 10s. Mỗi 30s mới thi triển 1 lần. Nhạc dạo: Tấn công tăng 120%; Điệp khúc: Toàn bộ sát thương nguyên tố tăng 96%; Khúc nhạc ngắn: Tinh thông nguyên tố tăng 480."
+      }
+    }
+  ]
+}

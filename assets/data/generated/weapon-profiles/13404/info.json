@@ -1,0 +1,52 @@
+{
+  "id": 13404,
+  "name": {
+    "EN": "Blackcliff Pole",
+    "CHS": "黑岩刺枪",
+    "CHT": "黑岩刺槍",
+    "DE": "Schwarzsteinlanze",
+    "ES": "Lanza del Peñasco Oscuro",
+    "FR": "Lance de Rochenoire",
+    "ID": "Blackcliff Pole",
+    "IT": "Lancia di Rupenera",
+    "JP": "黒岩の突槍",
+    "KR": "흑암창",
+    "PT": "Lança do Penhasco Obscuro",
+    "RU": "Черногорская пика",
+    "TH": "Blackcliff Pole",
+    "TR": "Kara Kaya Kargısı",
+    "VI": "Thương Hắc Nham"
+  },
+  "nameEn": "Blackcliff Pole",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A weapon made of blackcliff and aerosiderite. There is a dark crimson glow on its cold black sheen.",
+    "CHS": "以黑岩与陨铁铸成的兵器，玄锋清凛的光泽中仿佛隐隐可见血色。",
+    "CHT": "以黑岩與隕鐵鑄成的兵器，玄鋒清凜的光澤中彷彿隱隱可見血色。",
+    "DE": "Eine aus Schwarzstein und Aerosiderit geschmiedete Waffe, deren kalte Klinge rötlich strahlt, als würde sie bluten.",
+    "ES": "Un arma hecha de piedra negra y siderita. Hay un brillo carmesí oscuro a lo largo de su frío filo.",
+    "FR": "Une lance fabriquée en roche noire et aérosidérite. Son fer sombre brille d'une lueur rouge.",
+    "ID": "Senjata yang terbuat dari blackstone dan aerosiderite. Bercahaya merah tua pada bilah hitamnya.",
+    "IT": "Un'arma di Rupenera e Aerosiderite. La sua punta brilla d'un bagliore purpureo.",
+    "JP": "黒岩と隕石でできた兵器。黒い剣先にある輝きの中で微かに血の色が見える。",
+    "KR": "흑암과 운철로 주조한 병기, 검은 칼날의 차가운 빛 속에서 핏빛이 보이는 것만 같다",
+    "PT": "Uma arma afiada e carmesim que já foi o tesouro inestimável de um gladiador. Seu furador foi manchado pelo sangue de incontáveis bestas e homens. Uma arma feita de pedra preta e aerossiderita. Há um brilho vermelho-escuro em seu brilho frio e preto.",
+    "RU": "Оружие, сделанное из чёрного камня и метеоритного железа. Его холодный клинок отливает кроваво-красным цветом.",
+    "TH": "อาวุธนี้ทำมาจากหิน blackstone และ aerosiderite ทั้งยังมีประกายสีแดงก่ำบนความระยิบระยับของมัน",
+    "TR": "Kara kaya ve meteor demirinden dövülen bir silah. Siyah metali kızıl bir ışıltı saçar.",
+    "VI": "Binh khí được rèn từ hắc nham và sắt thiên thạch, trong ánh sáng loang loáng thoắt hiện màu máu."
+  },
+  "icon": "generated/weapon-profiles/13404/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

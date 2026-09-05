@@ -1,0 +1,52 @@
+{
+  "id": 12405,
+  "name": {
+    "EN": "Rainslasher",
+    "CHS": "雨裁",
+    "CHT": "雨裁",
+    "DE": "Regenschnitter",
+    "ES": "Segadora de la Lluvia",
+    "FR": "Fluorescence",
+    "ID": "Rainslasher",
+    "IT": "Fendiluvio",
+    "JP": "雨裁",
+    "KR": "빗물 베기",
+    "PT": "Segadeira da Chuva",
+    "RU": "Дождерез",
+    "TH": "Rainslasher",
+    "TR": "Yağmurkesen",
+    "VI": "Vũ Tài"
+  },
+  "nameEn": "Rainslasher",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power.",
+    "CHS": "散发着黯淡荧光的无锋大剑，纯粹以气势和力量碾碎敌人。",
+    "CHT": "散發著黯淡螢光的無鋒大劍，純粹以氣勢和力量碾碎敵人。",
+    "DE": "Ein Großschwert ohne scharfe Klinge, das leicht schimmert. Hält man dieses Schwert in den Händen, zerschlägt man seine Feinde gnadenlos mit purer Gewalt.",
+    "ES": "Una gran espada fluorescente y sin punta que hace añicos a los enemigos con fuerza bruta y poder.",
+    "FR": "Une grande épée sans tranchant qui dégage une pâle lueur fluorescente. Idéale pour ceux qui aiment utiliser la force brute pour écraser leurs ennemis.",
+    "ID": "Pedang besar tanpa mata pedang yang bersinar gelap. Meremukkan musuh-musuhnya dengan kekuatan yang besar.",
+    "IT": "Uno spadone fluorescente non affilato che annienta i nemici con la forza bruta.",
+    "JP": "ホタルの光を放つ大剣、その勢いと力で敵を捻りつぶす。",
+    "KR": "어두운 형광빛을 발산하고 있는 무딘 대검. 순전히 기세와 힘만으로 적을 찍어 누른다",
+    "PT": "Uma espada grande fluorescente sem ponta afiada que esmaga os inimigos com força brutal.",
+    "RU": "Светящийся двуручный меч с затупленным остриём, который неистово крушит врагов своей массой.",
+    "TH": "ดาบใหญ่ไร้คมซึ่งส่องประกายแสงสลัว ๆ บดขยี้ศัตรูอย่างราบคาบด้วยความแรงและความแข็งแกร่ง",
+    "TR": "Düşmanlarını kaba kuvvet ve ağırlığıyla ezen, soluk bir ışıltı yayan kör bir kılıç.",
+    "VI": "Đại kiếm tỏa ra ánh sáng ảm đạm, chỉ dùng khí thế và sức mạnh để đàn áp kẻ địch."
+  },
+  "icon": "generated/weapon-profiles/12405/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 15402,
+  "name": {
+    "EN": "The Stringless",
+    "CHS": "绝弦",
+    "CHT": "絕弦",
+    "DE": "Der Sehnenlose",
+    "ES": "Último Acorde",
+    "FR": "Dernière corde",
+    "ID": "The Stringless",
+    "IT": "Monocorda",
+    "JP": "絶弦",
+    "KR": "절현",
+    "PT": "Último Acorde",
+    "RU": "Бесструнный",
+    "TH": "The Stringless",
+    "TR": "Kirişsiz Yay",
+    "VI": "Tuyệt Huyền"
+  },
+  "nameEn": "The Stringless",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
+    "CHS": "曾经作为乐器大放异彩的弓。如今已经不再能令人起舞。",
+    "CHT": "曾經作為樂器大放異彩的弓。如今已經不再能令人起舞。",
+    "DE": "Ein großer, prächtiger Bogen, der einst als Musikinstrument gedient hat. Mittlerweile bringt er niemanden mehr zum Tanzen.",
+    "ES": "Un arco que alguna vez acompañó a un instrumento extraordinario. Ya no es capaz de hacer bailar a la gente.",
+    "FR": "Un arc qui était autrefois un extraordinaire instrument de musique. Il ne fait plus danser personne aujourd'hui.",
+    "ID": "Sebuah busur yang dulunya merupakan instrumen luar biasa. Kini tak mampu lagi untuk membuat orang menari.",
+    "IT": "Un tempo, quest'arco era uno strumento straordinario. Ora non è più in grado di far danzare la gente.",
+    "JP": "かつて楽器として有名だった弓。今はもう踊りに使われることはない。",
+    "KR": "한때 악기로써 빛을 발했던 활. 오늘날에는 사람들을 예전처럼 춤추게 만들지 못한다",
+    "PT": "Um arco que serviu como um instrumento extraordinário. Não é mais capaz de fazer pessoas dançarem.",
+    "RU": "Когда-то этот лук был восхитительным музыкальным инструментом, но больше под его музыку никто не запляшет.",
+    "TH": "คันธนูที่ครั้งหนึ่งเคยเป็นเครื่องดนตรีที่แสนวิเศษ แต่ในตอนนี้มันไม่สามารถทำให้ผู้คนลุกขึ้นเพื่อเต้นรำได้อีกต่อไปแล้ว",
+    "TR": "Bir zamanlar eşsiz bir müzik aleti olan bir yay. Artık kimseyi dans ettirme şansı kalmadı.",
+    "VI": "Cung được sử dụng như nhạc cụ phát ra ánh sáng rực rỡ. Đến nay nó không còn có thể khiến người khác cất bước khiêu vũ được nữa."
+  },
+  "icon": "generated/weapon-profiles/15402/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

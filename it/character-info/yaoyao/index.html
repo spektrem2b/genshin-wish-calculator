@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="it" data-active-tab="character-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yaoyao Build, Talents &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="Yaoyao talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:title" content="Yaoyao Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="Yaoyao talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/it/character-info/yaoyao/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Yaoyao Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Yaoyao talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/it/character-info/yaoyao/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/yaoyao/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/character-info/yaoyao/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/character-info/yaoyao/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/character-info/yaoyao/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/character-info/yaoyao/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/character-info/yaoyao/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/character-info/yaoyao/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/character-info/yaoyao/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/yaoyao/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/character-info/yaoyao/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/character-info/yaoyao/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/character-info/yaoyao/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/character-info/yaoyao/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/character-info/yaoyao/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/character-info/yaoyao/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/yaoyao/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br>Calcolatore di Desideri</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Pianificatore Desideri</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">Probabilità 4★</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Simulatore</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Build</button>
+            <button type="button" id="tabInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Personaggi</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Armi</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Altro</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">Impostazioni</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="ciCharacterSwitch" aria-label="Switch character" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="ciCharacterSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="ciContent">
+            
+          <div class="ci-hero">
+              <img class="ci-hero-portrait" src="assets/data/generated/character-profiles/10000077/full_wish.webp" alt="" data-gi-fallback="retry">
+              <div class="ci-hero-info">
+                  <div class="ci-hero-name">Yaoyao</div>
+                  <div class="ci-hero-title">"Grazia germogliante"</div>
+                  <div class="ci-hero-stars">★★★★</div>
+                  <div class="ci-hero-facts">
+                      
+          <div class="ci-hero-fact">
+              <svg class="ci-hero-fact-icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1600 1600"><path d="M798.712 86.593c.549-.628 1.02-1.17 1.02-1.17s.355.416.975 1.156c1.942 2.315 6.948 9.405 19.908 28.504 7.4 11 18.5 27 24.6 35.5 26.3 36.5 39.8 58.1 50.1 79.6 23.8 49.8 25.7 92 5.8 130.4-10.4 19.9-25 36.9-55.4 63.8-21.7 19.3-32.5 29.7-40.1 38.4l-5.9 6.8-3.2-3.8c-6.7-7.8-27.9-28.3-42.8-41.3-44.6-39.2-62.8-66.6-68.1-102.9-1.7-12.2-.6-33.8 2.5-47 8.2-35.2 23.8-64.7 63.3-120.1 7.7-10.7 20.1-28.6 27.7-39.7 7.5-11.2 15.1-22.3 16.8-24.7a48 48 0 0 1 2.797-3.49m684.503 277.69c-37.5.6-80.9 2.5-90.7 3.9-45.2 6.3-75.1 29-86.2 65.6-1.6 5.1-3.5 16.5-5.1 29.8-2.8 23.2-4.8 35.3-7 44.1-1.456 5.583-1.707 9.808-1.707 9.808s2.541.092 4.507.092c5.6 0 28.7 3.4 43.9 6.5 23.1 4.8 44 5.1 60.1 1 19.7-5.1 37.6-18.2 50.6-37 12.2-17.7 18-31.4 35.5-83.9 4.648-13.861 7.711-23.232 9.553-29.43 1.736-5.841 3.513-11.197 3.513-11.197l-2.166.228c-.4.1-7.1.3-14.8.5m-1383.863.278s1.186 3.773 2.568 8.078c6.701 20.863 26.562 78.484 29.795 85.944 19.4 44.4 44.8 65.4 83.3 69 11.7 1.1 26.8-.2 45.8-3.9 16.3-3.2 36.6-6.1 42.6-6.1 1.575 0 3.518.02 3.518.02s-.18-1.682-.518-3.82c-.3-2-1.5-8-2.6-13.2s-3.4-20.5-5.1-34-4-27.7-5.1-31.5c-11.5-38.7-42-61.5-90.4-67.4-13.134-1.603-66.558-3.207-91.084-3.118-7.593.027-12.78-.004-12.78-.004m436.863 41.623c-25.8 4-63.2 12.3-78 17.4-41.9 14.5-82.1 37.6-118.5 68.1-48.3 40.6-77 81.8-99.5 142.9-11.2 30.5-14.7 45.2-21.5 88.8-5.3 34.5-6.5 53.5-5.1 80.3 4.4 82 30.3 167.7 69.9 231.4 17 27.3 33.9 48.2 58.8 72.5 38.2 37.3 78.7 65.4 172.9 120.2 14.626 9.68 33.43 18.406 46.331 24.388 12.655 5.606 20.986 10.411 21.77 10.411 1 0 37.9 19.9 48.9 26.3 43.1 25.1 72.3 51.4 99.3 89.4 8.1 11.4 14.6 22.1 29 47.8 22.8 41 33.1 63.9 37.2 83.2 0 0 1.41 5.294 2.003 5.294s2.002-5.168 2.002-5.168c5.11-21.9 14.546-42.371 38.594-85.425 21.6-38.8 36.5-60.1 56.8-81.2 29.9-31 57.4-49 130.6-85.5 30.544-14.858 40.692-19.523 70.289-37.535 5.893-3.518 54.161-32.215 77.711-47.765 63.6-42 108.5-85.7 140-136.5 40-64.4 66.1-150.9 70-231.9 1.3-26.9 0-48.1-5-80.3-6.5-42.5-10.3-58.2-20.9-86.9-23.6-64.3-51.1-103.7-102.1-146.4-29.8-24.9-66.2-46.7-101.5-60.7-16.5-6.6-25.7-9.3-47.1-14.1-40-8.9-45.355-9.661-68.739-9.661-21.3 0-28.46 1.06-40.56 2.96-47.1 7.3-90.7 25.1-124.6 50.9-9.7 7.5-29 26.9-33.9 34.2-6.9 10.2-10.6 18.7-10.6 24.1 0 11.8 9.9 33.2 22.3 48.2 3.9 4.7 13 11.7 15.3 11.7 1.328-.092 4-4.2 7.4-9.3 20.3-29.7 29.4-39.8 46-50.8 24.7-16.4 46.2-23.6 94.5-31.6 15.6-2.5 42.1-2.3 61.4.6 23 3.5 51.3 11.2 71.6 19.6 48.5 19.9 93.2 61.3 121.4 112.3 17.2 31 31.3 74.7 36.7 113.1 2.1 15.4 2.9 44.5 1.5 57.6-12 112.3-65.4 208.4-151.5 273-18.9 14.1-29.2 20.6-69.1 43.5-37.4 21.5-52.8 29.1-95.5 47.4-55.3 23.6-72 31.8-93.5 46.1-31 20.5-59.7 52-84 92-11.7 19.4-15.585 23.946-15.585 23.946s-5.516-7.846-20.816-32.745c-12.8-20.7-36.6-49-54.1-64.3-25.6-22.3-47.7-34.9-104.7-59.3-62-26.6-66.8-28.9-109.9-53.7-58.7-33.7-77.4-47.2-108.4-78.3-32.1-32.1-52.3-60.4-72-100.6-18.7-38.1-29.6-73.7-37.2-121.5-3.1-20-3.2-54.8 0-75.1 8.5-55.5 28.8-105.5 59-145.7 24.1-32.1 58.8-60 93.9-75.6 20.5-9.1 51.6-17.9 76.4-21.7 19.2-2.9 45.7-3.2 61.4-.6 44.7 7.4 64.7 13.5 85.8 26 20.3 12.1 32.7 24.3 49.6 49 9.8 14.3 10.991 17.291 13.5 16.1 14.5-4.2 36.6-40.2 36.6-59.4 0-9.4-10.1-25.9-24.6-40.4-36-36.1-87.3-60.1-147.9-69.2-9.7-1.5-41.977-3.952-60-1.8m4.4 183.9c-17.5 3.1-24.2 4.8-35.4 9.2-51.8 20.4-85.3 59.1-98.3 113.8-2.4 9.8-3.195 13.155-3.195 30.155-.1 16.8.795 19.844 2.895 27.844 5 19.1 14.8 40.3 27.1 58.7 8.2 12.3 14.2 19.2 30.2 35.5 8.288 8.37 11.794 12.302 11.794 12.302l-2.094-.002c-1.3 0-6.7.5-11.9 1-37 3.9-63.9 21-82.6 52.6-2.5 4.2-4.398 8.399-4.398 8.399s3.698-1.298 7.098-3.098c23.4-11.8 50.6-18.9 72.5-18.9 18.9 0 34.8 4.4 66.4 18.2 64.2 28.3 109 54.3 170 98.8 18.7 13.7 22.682 15.936 22.682 15.936s-11.282-19.837-16.982-27.937c-13.7-19.5-29.3-36-72.1-76.5-39.6-37.4-59.7-66.1-73.9-105.5-13-36.1-12.9-72.3.4-106.5 18.1-46.8 60.3-80.8 100.4-80.9 10.6 0 15.8.9 32.4 5.5 5.8 1.5 11.1 2.896 11.1 2.896s-5.1-10.496-11.7-20.696c-17.4-26.6-43.8-43.6-78-50.3-8.1-1.6-16.257-3.057-36.947-3.05-13.337-.069-15.253.35-27.453 2.55m468.6-1.9c-32.6 3.4-61.9 16.9-80.4 37-16.392 17.527-24.1 36.4-24.1 36.4s5.4-1.3 11.1-2.9c16.1-4.6 21.6-5.5 32.9-5.4 13.2.1 22.9 2.6 36.5 9.2 35 17.2 61.4 52.8 70.7 95.4 3.2 14.9 3.2 44.6 0 59.6-6.6 30.2-23.6 64.3-45.8 92.1-7.7 9.5-29.9 32-60.1 60.8-26.1 24.8-40.7 41.8-53.7 62.1-5.6 8.7-9.483 18.1-9.483 18.1s3.583-2.5 5.983-4.4c46.6-35.4 96.2-66.8 141.9-89.6 45.4-22.7 73.9-34.2 92.7-37.5 25.3-4.4 57.7 1.6 88.2 16.4 4.7 2.2 9.099 4.09 9.099 4.09s-1.099-2.99-2.599-5.69c-19.3-33.7-46.8-51.5-85.8-55.4-6.1-.6-11.592-.878-11.592-.878s5.192-6.422 11.792-13.223c16.5-16.9 21.2-22.5 29.7-35.3 12.5-18.8 23-42 27.1-60 3.384-12.117 3.504-37.423 0-52.5-11-51.1-40.8-89.7-86-111.5-24.2-11.6-50.494-17.557-74.478-17.518-12.143-.04-21.422.419-23.622.618m-873 241.6c-8.9 2.2-22.3 7-27.2 9.8-2.8 1.6-12 8.5-20.5 15.3-8.4 6.7-19.6 15.3-24.8 18.9-5.3 3.6-10.3 7.5-11.2 8.5-.637.674-1.782 1.788-1.782 1.788s2.157 1.337 5.282 3.212c2.8 1.6 11.1 6.6 18.2 11 38.3 23.5 61.7 31.7 82.9 29.2 13.4-1.7 20.9-7.1 40.3-29.4 5.8-6.6 13.3-14.6 16.6-17.8l6.2-5.8-4.4-3.7c-2.5-2-10.5-9.2-17.8-15.9-14.1-13-18.7-16.5-27-20.7-10-5-24.7-6.9-34.8-4.4m1303.3.4c-11.9 2.8-20.6 8.4-36.6 23.6-6.3 6-13.9 12.8-16.9 15-3.666 3.08-6.244 6.097-6.244 6.097s1.936 2.011 3.544 3.303c1.4 1 8.5 8.5 15.8 16.8 16.2 18.5 24.5 26.2 31.1 29.2 13.3 6.1 33.1 4.5 54.5-4.3 11.3-4.6 21.7-10.2 44.7-24.1 11.174-6.784 19.852-11.768 19.852-11.768s-6.481-5.368-15.052-11.433c-6-4.3-17.5-13.1-25.5-19.5-16.7-13.4-25.5-18.1-40.7-21.9-11.3-2.9-19.7-3.2-28.5-1" style="fill:#90cc00"></path></svg>
+              <span class="ci-hero-fact-value">Dendro</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/weapon_types_icons/Icon_Polearm_type.webp" alt="" data-gi-fallback="hide">
+              <span class="ci-hero-fact-value">Polearm</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/region_icons/liyue.webp" alt="" data-gi-fallback="swap" data-gi-fallback-src="assets/data/design/region_icons/unknown-region.webp">
+              <span class="ci-hero-fact-value">Liyue</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Birthday</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">March 6</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Released</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">January 16, 2023</span>
+          </div>
+                  </div>
+                  <p class="ci-hero-desc">La più giovane discepola di Raminga dei sentieri. Una "piccola adulta" gentile e premurosa.</p>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Constellation</span> Osmanthus &nbsp;•&nbsp; <span class="ci-hero-meta-label">Affiliation</span> Dimora di Raminga dei sentieri</div>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Voice Actors</span> EN: Kelsey Jaffer   ·   CN: 刘颐诺   ·   JP: 門脇舞以   ·   KR: Yu Hye-ji</div>
+                  
+          <div class="ci-hero-guides">
+              <div class="ci-hero-guides-label">Guides</div>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://genshin-impact-helper-team.github.io/genshin-builds/en/yaoyao" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/genshin-builds-guide.webp" alt="">
+                  Genshin Builds
+              </a>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://www.prydwen.gg/genshin-impact/characters/yaoyao#build" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/prydwen-guide.webp" alt="">
+                  Prydwen
+              </a>
+              <div class="ci-hero-guides-row">
+                  <a class="ci-hero-guide-btn" href="https://www.icy-veins.com/genshin-impact/yaoyao-guide-best-builds" target="_blank" rel="noopener noreferrer" title="Icy Veins">
+                      <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/icy-veins-guide.webp" alt="">
+                      Icy Veins
+                  </a>
+              </div>
+          </div>
+                  
+          <div class="ci-hero-nav-label">Navigation</div>
+          <div class="ci-hero-nav">
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-talents">Talents</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-const">Constellations</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-passives">Passives</a>
+          </div>
+              </div>
+              <div class="ci-hero-side">
+                  <div class="ci-hero-stats">
+                      <div class="ci-hero-stats-head">
+                          <div class="ci-hero-stats-title">Base Stats</div>
+                          <div class="ci-stat-level-toggle" role="group" aria-label="Comparison level"><button type="button" class="ci-stat-level-btn active" data-stat-level="90">90</button><button type="button" class="ci-stat-level-btn" data-stat-level="95">95</button><button type="button" class="ci-stat-level-btn" data-stat-level="100">100</button></div>
+                      </div>
+                      <div id="ciBaseStatsBody"><div class="ci-stats">
+          <div class="ci-stats-row"><span>HP</span><span>1,030 → 8,602</span></div>
+          <div class="ci-stats-row"><span>ATK</span><span>18 → 149</span></div>
+          <div class="ci-stats-row"><span>DEF</span><span>63 → 526</span></div>
+          <div class="ci-stats-row"><span>Ascension Stat</span><span>HP% +24.0%</span></div></div></div>
+                  </div>
+                  <div class="ci-hero-materials">
+                      <div class="ci-hero-stats-title">Ascension Materials</div>
+                      <div class="ci-hero-mat-list">
+          <div class="ci-hero-mat-item" title="Peperoncino di Jueyun">
+              <img src="assets/data/generated/shared-assets/materials/100027.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Peperoncino di Jueyun</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Rampicante placato">
+              <img src="assets/data/generated/shared-assets/materials/113040.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Rampicante placato</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Gemma di smeraldo Nagadus">
+              <img src="assets/data/generated/shared-assets/materials/104134.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Gemma di smeraldo Nagadus</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Corona della saggezza">
+              <img src="assets/data/generated/shared-assets/materials/104319.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Corona della saggezza</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Concentrato di Melmoso">
+              <img src="assets/data/generated/shared-assets/materials/112004.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Concentrato di Melmoso</span>
+          </div></div>
+                  </div>
+              </div>
+          </div>
+            <div class="ci-layout">
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-layout">
+                        <div class="ci-talent-tabs">
+                            
+          <button type="button" class="ci-talent-tab active" data-talent-idx="0">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000023/skills/00_normal_attack.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Lancia spasmodica</span>
+                  <span class="ci-talent-summary-type">Normal Attack</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="1">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000077/skills/01_skill.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Ravanelli a grappolo</span>
+                  <span class="ci-talent-summary-type">Elemental Skill</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="2">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000077/skills/02_burst.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Cascata di giada lunare</span>
+                  <span class="ci-talent-summary-type">Elemental Burst</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+                        </div>
+                        <div class="ci-talent-detail" id="ciTalentDetail">
+                            
+          <div class="ci-talent-detail-inner">
+              <div class="ci-talent-detail-flavor">
+                  <div class="ci-talent-flavor">Attacco normale
+Sferra fino a 4 colpi di lancia consecutivi.
+
+Attacco caricato
+Consuma una determinata quantità di vigore per attaccare balzando in avanti infliggendo DAN agli avversari lungo la traiettoria.
+
+Attacco in picchiata
+Attacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto.</div>
+                  
+              </div>
+              <div class="ci-talent-detail-stats">
+                  <div class="ci-level-slider-row">
+                      <span class="ci-level-slider-label">Level</span>
+                      <span class="ci-level-slider-value">1</span>
+                      <span class="ci-level-slider-bound">1</span>
+                      <input type="range" class="ci-level-slider" id="ciTalentLevelSlider" aria-label="Talent level" min="1" max="15" step="1" value="1">
+                      <span class="ci-level-slider-bound">15</span>
+                  </div>
+                  <div class="ci-level-stats" id="ciTalentLevelStats">
+                      
+          <div class="ci-level-stats-title">Level 1</div>
+          <div class="ci-level-stats-rows">
+              <div class="ci-level-stats-row"><span>DAN da 1º colpo</span><span>51.0%</span></div><div class="ci-level-stats-row"><span>DAN da 2º colpo</span><span>47.4%</span></div><div class="ci-level-stats-row"><span>DAN da 3º colpo</span><span>31.4%+32.9%</span></div><div class="ci-level-stats-row"><span>DAN da 4º colpo</span><span>77.9%</span></div><div class="ci-level-stats-row"><span>DAN da ATT caricato</span><span>112.7%</span></div><div class="ci-level-stats-row"><span>Costo vigore ATT caricato</span><span>25.0</span></div><div class="ci-level-stats-row"><span>DAN da ATT in picchiata</span><span>63.9%</span></div><div class="ci-level-stats-row"><span>DAN da ATT in picchiata basso/alto</span><span>127.8%/159.7%</span></div>
+          </div>
+                  </div>
+              </div>
+          </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-const" class="ci-panel">
+                            <h2 class="ci-panel-title">Constellations</h2>
+                            <div class="ci-const-list">
+                                
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000077/constellations/00_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C1</span>Formazione adeptica</div>
+                  <div class="ci-const-desc">#Quando i Ravanelli di giada bianca esplodono, i personaggi attivi presenti nella loro area d'effetto ottengono un 15% di bonus DAN da Dendro per 8&nbsp;s, e il loro vigore si ripristina di 15. Questa forma di recupero del vigore può verificarsi solo una volta ogni 5&nbsp;s.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000077/constellations/01_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C2</span>Innocenza</div>
+                  <div class="ci-const-desc">#Mentre l'effetto dell'Eredità adeptica generata da Cascata di giada lunare è attivo, se i Ravanelli di giada bianca esplodono e colpiscono i nemici, l'energia di Yaoyao si ripristina di 3. Questa forma di recupero dell'energia può verificarsi solo una volta ogni 0,8&nbsp;s.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000077/constellations/02_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C3</span>Lealtà e gentilezza</div>
+                  <div class="ci-const-desc">Aumenta di 3 il livello di Ravanelli a grappolo.
+Il livello di potenziamento massimo è 15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000077/constellations/03_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C4</span>Tenerezza</div>
+                  <div class="ci-const-desc">#Dopo aver usato Ravanelli a grappolo o Cascata di giada lunare, la maestria elementale di Yaoyao aumenta di uno 0,3% dei suoi PS max per 8&nbsp;s. È possibile ottenere in questo modo fino a 120 di maestria elementale.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000077/constellations/04_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C5</span>Compassione</div>
+                  <div class="ci-const-desc">Aumenta di 3 il livello di Cascata di giada lunare.
+Il livello di potenziamento massimo è 15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000077/constellations/05_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C6</span>Bontà</div>
+                  <div class="ci-const-desc">Per ogni 2 Ravanelli di giada bianca lanciati da Yuegui: Modalità di lancio, il tiro successivo scaglierà anche un Megaravanello, che ha un'area d'effetto maggiore rispetto a un comune Ravanello di giada bianca e produce i seguenti effetti quando esplode:
+· infligge DAN da Dendro ad area in base a un 75% dell'ATT di Yaoyao;
+· ripristina i PS del personaggio attivo in base a un 7,5% dei PS max di Yaoyao.
+
+Ogni Yuegui: Modalità di lancio può scagliare fino a un massimo di 2 Megaravanelli.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-passives" class="ci-panel">
+                            <h2 class="ci-panel-title">Passives</h2>
+                            <div class="ci-passive-list">
+                                
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000077/skills/03_passive_1.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Stelle sparse</div>
+                  <div class="ci-passive-desc">#Mentre l'effetto dell'Eredità adeptica generata da Cascata di giada lunare è attivo, Yaoyao lancia continuamente dei Ravanelli di giada bianca quando scatta, salta o corre. Può lanciare un Ravanello di giada bianca in questo modo ogni 0,6&nbsp;s.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000077/skills/04_passive_2.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Per il bene di tutti</div>
+                  <div class="ci-passive-desc">#Quando i Ravanelli di giada bianca esplodono, i PS dei personaggi presenti nella loro area d'effetto vengono ripristinati di uno 0,8% dei PS max di Yaoyao ogni secondo. L'effetto dura 5&nbsp;s.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000077/skills/05_passive_3.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">In punta di piedi</div>
+                  <div class="ci-passive-desc">Quando Yaoyao è nel gruppo, i Cristallotteri e altri animali non fuggiranno spaventati quando i tuoi personaggi si avvicinano a essi.
+Controlla la sottocategoria Altro della sezione Esseri viventi/Fauna nell'Archivio per scoprire su quali creature ha effetto quest'abilità.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div></div></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel"></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Strumento amatoriale non ufficiale. Non affiliato con HoYoverse/miHoYo né approvato da essi. Genshin Impact e tutti i nomi, personaggi e risorse correlati sono marchi e copyright di HoYoverse/miHoYo.</div>
+        <div class="site-footer-links"><a href="privacy.html">Informativa sulla Privacy</a> • <a href="terms.html">Termini di Utilizzo</a> • <a href="contact.html">Contatti</a> • <a href="credits.html">Crediti</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

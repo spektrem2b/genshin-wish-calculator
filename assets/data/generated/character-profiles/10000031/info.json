@@ -1,0 +1,137 @@
+{
+  "id": "10000031",
+  "name": {
+    "EN": "Fischl",
+    "CHS": "菲谢尔",
+    "CHT": "菲謝爾",
+    "DE": "Fischl",
+    "ES": "Fischl",
+    "FR": "Fischl",
+    "ID": "Fischl",
+    "IT": "Fischl",
+    "JP": "フィッシュル",
+    "KR": "피슬",
+    "PT": "Fischl",
+    "RU": "Фишль",
+    "TH": "Fischl",
+    "TR": "Fischl",
+    "VI": "Fischl"
+  },
+  "nameEn": "Fischl",
+  "element": "Electro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 5,
+    "day": 27
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000031/avatar.webp",
+  "fullWish": "generated/character-profiles/10000031/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 34.5%",
+  "title": {
+    "EN": "Prinzessin der Verurteilung!",
+    "CHS": "断罪皇女！！",
+    "CHT": "斷罪皇女！！",
+    "DE": "Prinzessin der Verurteilung!",
+    "ES": "La Princesa del Juicio",
+    "FR": "Princesse du châtiment !",
+    "ID": "Prinzessin der Verurteilung!!",
+    "IT": "Prinzessin der Verurteilung!",
+    "JP": "断罪の皇女！！",
+    "KR": "단죄의 황녀!!",
+    "PT": "Princesa dos Pecados!",
+    "RU": "Принцесса осуждения",
+    "TH": "เจ้าหญิงแห่งการลงทัณฑ์!!",
+    "TR": "Adalet Prensesi!",
+    "VI": "Công Chúa Định Tội!!"
+  },
+  "description": {
+    "EN": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+    "CHS": "自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。",
+    "CHT": "自稱「斷罪之皇女」，與名為奧茲的漆黑夜鴉同行的神秘少女。",
+    "DE": "Ein merkwürdiges Mädchen, das sich selbst als die „Prinzessin der Verurteilung“ bezeichnet und vom Nachtraben Oz begleitet wird.",
+    "ES": "Una chica misteriosa que se hace llamar “Princesa del Juicio”. Siempre camina junto con un cuervo oscuro llamado Oz.",
+    "FR": "Une fille mystérieuse qui se fait appeler « la Princesse du châtiment ». Elle est toujours accompagnée de son fidèle corbeau nocturne, Oz.",
+    "ID": "Seorang gadis misterius yang menyebut dirinya sendiri \"Prinzessin der Verurteilung\", dia selalu terlihat bersama dengan seekor gagak hitam yang bernama Oz.",
+    "IT": "Una ragazza misteriosa che si fa chiamare Prinzessin der Verurteilung e che viaggia in compagnia di un corvo di nome Oz.",
+    "JP": "自称「断罪の皇女」。オズという漆黒の鴉とともに行動する謎の少女。",
+    "KR": "자신을 「단죄의 황녀」라고 부르며, 오즈라는 이름의 검은 까마귀를 데리고 다니는 신비한 소녀이다",
+    "PT": "Uma mulher misteriosa que se autointitula \"Princesa dos Pecados\" e viaja com um corvo chamado Oz.",
+    "RU": "Таинственная девушка, называющая себя «Принцессой осуждения» и путешествующая в сопровождении ворона по имени Оз.",
+    "TH": "หญิงสาวลึกลับผู้เรียกตนเองว่า \"เจ้าหญิงแห่งการลงทัณฑ์\" ร่วมเดินทางไปพร้อมกับเรเวนนามว่า Oz",
+    "TR": "Kendisine \"Adalet Prensesi\" diyen ve Oz adında bir gece kuzgunu ile seyahat eden gizemli bir kız.",
+    "VI": "Tự xưng là [Công Chúa Định Tội], thiếu nữ thần bí đồng hành cùng chú quạ đen tên Oz."
+  },
+  "constellationName": {
+    "EN": "Corvus",
+    "CHS": "幻鸦座",
+    "CHT": "幻鴉座",
+    "DE": "Corvus",
+    "ES": "Corvus",
+    "FR": "Corvus",
+    "ID": "Corvus",
+    "IT": "Corvus",
+    "JP": "幻ノ鴉座",
+    "KR": "환상까마귀자리",
+    "PT": "Corvus",
+    "RU": "Призрачный Ворон",
+    "TH": "Corvus",
+    "TR": "Kuzgun",
+    "VI": "Cung Hoan Áp"
+  },
+  "native": {
+    "EN": "Adventurers' Guild",
+    "CHS": "冒险家协会",
+    "CHT": "冒險家協會",
+    "DE": "Abenteurergilde",
+    "ES": "Gremio de Aventureros",
+    "FR": "Guilde des aventuriers",
+    "ID": "Adventurers' Guild",
+    "IT": "Gilda degli avventurieri",
+    "JP": "冒険者協会",
+    "KR": "모험가 길드",
+    "PT": "Guilda de Aventureiros",
+    "RU": "Искатели приключений",
+    "TH": "กิลด์นักผจญภัย",
+    "TR": "Maceracılar Loncası",
+    "VI": "Hiệp Hội Nhà Mạo Hiểm"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Brittany Cox & Ben Pronsky"
+    },
+    {
+      "lang": "CHS",
+      "va": "Mace & 赵悦程"
+    },
+    {
+      "lang": "JP",
+      "va": "内田真礼 & 増谷康紀"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Go-woon & Lee Hyeon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 770.4634,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.4792,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 49.78575,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

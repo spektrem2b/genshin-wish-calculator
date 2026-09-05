@@ -1,0 +1,52 @@
+{
+  "id": 11502,
+  "name": {
+    "EN": "Skyward Blade",
+    "CHS": "天空之刃",
+    "CHT": "天空之刃",
+    "DE": "Himmelsklinge",
+    "ES": "Hoja Afilada Celestial",
+    "FR": "Lame de la Voûte d'Azur",
+    "ID": "Skyward Blade",
+    "IT": "Lama celeste",
+    "JP": "天空の刃",
+    "KR": "천공의 검",
+    "PT": "Espada Celestial",
+    "RU": "Небесный меч",
+    "TH": "Skyward Blade",
+    "TR": "Göklerin Kılıcı",
+    "VI": "Thiên Không Kiếm"
+  },
+  "nameEn": "Skyward Blade",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind.",
+    "CHS": "象征风龙的荣誉的骑士剑，如今失而复得。剑脊上吹息着风之神的赐福，蕴含苍空与长风的力量。",
+    "CHT": "象徵風龍的榮譽的騎士劍，如今失而復得。劍脊上吹息著風之神的賜福，蘊含蒼空與長風的力量。",
+    "DE": "Ein ritterliches Schwert, das Dvalins wiedererlangte Ehre symbolisiert. Auf der Hohlkehle liegt der Segen des Archons des Windes mit der Kraft von Himmel und Wind.",
+    "ES": "Una espada de caballero que simboliza el honor de Dvalin. Las bendiciones del Arconte Anemo descansan sobre el filo de su hoja, impregnando la espada con los poderes del cielo y del viento.",
+    "FR": "Une épée de chevalier symbolisant l'honneur retrouvé de Dvalin. La bénédiction de l'Archon du Vent est inscrite sur le dos de la lame, lui conférant la puissance du ciel et du vent.",
+    "ID": "Pedang Knight yang melambangkan kemuliaan Dvalin yang sudah terpulihkan. Berkat Archon Anemo bersinar di atas mata pedangnya, memberikan kekuatan langit dan angin.",
+    "IT": "La spada di un cavaliere che simboleggia l'onore riconquistato di Dvalin. Benedetta dall'Archon di Anemo, racchiude i poteri del cielo e del vento.",
+    "JP": "風龍の栄誉を象徴する騎士剣。風神の祝福を受けた剣身に、蒼空と長風の力が秘められている。",
+    "KR": "풍룡의 영광을 상징하는 기사검. 잃어버렸다가 오늘날 되찾았다. 현재 검에 바람 신의 축복이 깃들어 있으며, 푸른 하늘과 바람의 힘을 지니고 있다",
+    "PT": "A espada de um cavaleiro que simboliza a honra restaurada de Dvalin. As bênçãos do Arconte Anemo repousam sobre a lâmina mais cheia, imbuindo a espada com os poderes do céu e do vento.",
+    "RU": "Меч рыцаря, символ вернувшего свою честь Двалина. Благословения Анемо Архонта питают его силой небес и ветров.",
+    "TH": "ดาบของอัศวินที่เป็นสัญลักษณ์ของการกอบกู้เกียรติยศของ Dvalin ด้วยพรของเทพแห่งลมที่หลับใหลอยู่ในดาบนี้จึงทำให้มันมีพลังของท้องฟ้าและสายลม",
+    "TR": "Dvalin'in yeniden kazandığı onurunu simgeleyen bir şövalyenin kılıcı. Bu kılıç, Rüzgar Hükümdarı'nın lütfu ile göklerin ve rüzgarın gücüyle doludur.",
+    "VI": "Thanh kiếm kỵ sĩ, tượng trưng cho danh dự của Phong Long. Lưỡi kiếm toát ra lời chúc phúc của thần gió, chứa đựng sức mạnh của bầu trời và ngàn ngọn gió."
+  },
+  "icon": "generated/weapon-profiles/11502/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

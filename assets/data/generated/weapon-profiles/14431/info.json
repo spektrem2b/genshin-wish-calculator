@@ -1,0 +1,52 @@
+{
+  "id": 14431,
+  "name": {
+    "EN": "Ring of Yaxche",
+    "CHS": "木棉之环",
+    "CHT": "木棉之環",
+    "DE": "Yaxche-Ring",
+    "ES": "Anillo del Yaxché",
+    "FR": "Anneau de Yaxche",
+    "ID": "Ring of Yaxche",
+    "IT": "Anello di Yaxche",
+    "JP": "ヤシュチェの環",
+    "KR": "약스체의 고리",
+    "PT": "Anel de Yaxche",
+    "RU": "Кольцо Яшче",
+    "TH": "Ring of Yaxche",
+    "TR": "Yaxche Yüzüğü",
+    "VI": "Vòng Yaxche"
+  },
+  "nameEn": "Ring of Yaxche",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "This jade vessel was created by a hero of yesteryear. Legend has it that it once shot the giant dragon that dwelt in the volcano down from the skies.",
+    "CHS": "昔日的双生英杰锻造的玉器，传说曾将盘踞火山的巨龙从天穹击坠。",
+    "CHT": "昔日的雙生英傑鍛造的玉器，傳說曾將盤踞火山的巨龍從天穹擊墜。",
+    "DE": "Ein Jadegegenstand, der von den Zwillingshelden der Vergangenheit geschmiedet wurde. Die Legende besagt, dass er einst den Drachen, der den Vulkan beherrschte, zu Fall brachte.",
+    "ES": "Una reliquia de jade que crearon los héroes gemelos de la antigüedad. Cuenta la leyenda que con ella se derribó del cielo al dragón gigante que había ocupado el volcán.",
+    "FR": "Cet objet de jade a été créé par un héros d'autrefois. La légende raconte qu'il aurait un jour abattu du ciel le dragon géant qui résidait dans le volcan.",
+    "ID": "Wadah giok yang ditempa oleh pahlawan kembar dari masa lalu. Konon katanya benda ini pernah menjatuhkan naga raksasa yang menguasai gunung berapi dari atas langit.",
+    "IT": "Un recipiente di giada fabbricato da un eroe di un lontano passato. Leggenda vuole che abbia abbattuto il gigantesco drago che dimorava nel vulcano.",
+    "JP": "かつて、双子の英傑が鍛え上げた玉器。伝説によると、火山を巣くう巨龍を天穹から叩き落としたという。",
+    "KR": "과거의 쌍둥이 영웅이 만든 옥기. 이것으로 화산을 점령한 거대한 용을 하늘에서 떨어뜨렸다고 전해진다",
+    "PT": "Um artefato de jade dos gêmeos heróis de outrora. Dizem que derrotou o dragão do céu que controlava o vulcão.",
+    "RU": "Нефритовый сосуд, выкованный героями-близнецами прошлого. Легенда гласит, что однажды оно сбило с небес исполинского дракона, который жил в вулкане.",
+    "TH": "เครื่องหยกที่สร้างขึ้น โดยผู้กล้าฝาแฝดในอดีต ตำนานกล่าวว่าครั้งหนึ่ง มันเคยปราบมังกรยักษ์ ที่อาศัยอยู่บนภูเขาไฟ จนร่วงหล่นจากฟากฟ้า",
+    "TR": "Bu yeşim silah eski bir kahraman tarafından yaratıldı. Efsaneye göre yanardağda yaşayan dev ejderhayı gökten bizzat bu silah indirmiş.",
+    "VI": "Ngọc khí được tạo ra bởi hai anh kiệt của ngày xưa. Truyền thuyết kể rằng nó đã từng bắn rơi con rồng khổng lồ sống trong núi lửa."
+  },
+  "icon": "generated/weapon-profiles/14431/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

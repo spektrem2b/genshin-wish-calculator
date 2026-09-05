@@ -1,0 +1,52 @@
+{
+  "id": 13511,
+  "name": {
+    "EN": "Staff of the Scarlet Sands",
+    "CHS": "赤沙之杖",
+    "CHT": "赤沙之杖",
+    "DE": "Stab der roten Sande",
+    "ES": "Báculo de las Arenas Escarlatas",
+    "FR": "Bâton des sables écarlates",
+    "ID": "Staff of the Scarlet Sands",
+    "IT": "Bastone delle sabbie scarlatte",
+    "JP": "赤砂の杖",
+    "KR": "적색 사막의 지팡이",
+    "PT": "Báculo das Areias Escarlates",
+    "RU": "Посох алых песков",
+    "TH": "Staff of the Scarlet Sands",
+    "TR": "Kızıl Kum Asası",
+    "VI": "Quyền Trượng Cát Đỏ"
+  },
+  "nameEn": "Staff of the Scarlet Sands",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "One of a paired set of scepters fashioned from obsidian. Legend has it that these staves grant the right to lead the people of the desert, but no retainer now lives who can verify the proper appearance of these regalia.",
+    "CHS": "黑曜石塑造的一对的权杖中的一件。在传说中，具有引领沙之民的权威，但如今已经没有能辨别出这件王器形象的臣子了。",
+    "CHT": "成對黑曜石權杖中的一件。相傳具有引領沙之民的權威，但如今已經沒有能辨別出這件王器形象的臣子。",
+    "DE": "Eines der zwei Szepter, die aus Obsidian gefertigt wurden. In der Legende verleiht es seinem Besitzer das Recht, die Wüstenbewohner zu führen, aber heute lebt kein Untergebener mehr, der das Königsszepter wieder erkennen kann.",
+    "ES": "Un báculo que venía junto a un cetro y que está hecho de obsidiana. En las leyendas, tiene el poder de guiar a los habitantes del desierto, pero hoy en día ya no vive ningún subordinado capaz de corroborar el auténtico aspecto de este objeto de la realeza.",
+    "FR": "L'un des sceptres d'une paire fabriquée à partir d'obsidiennes. La légende raconte que ces bâtons accordent le droit de gouverner les peuples du désert, mais aucun courtisan pouvant vérifier la bonne apparence de ces parures ne vit aujourd'hui...",
+    "ID": "Salah satu dari sepasang tongkat yang dibuat dari obsidian. Legenda mengatakan bahwa tongkat ini memberikan hak untuk memerintah penduduk padang pasir, tetapi sekarang tidak ada punggawa yang dapat membedakan penampilan yang tepat dari senjata raja ini ....",
+    "IT": "Uno degli esemplari di una coppia di scettri forgiati in ossidiana. Leggenda vuole che questi bastoni dessero la facoltà di guidare le popolazioni del deserto, ma nessun servitore attualmente in vita è in grado d'identificare queste insegne regali.",
+    "JP": "黒曜石で形作られた一対の杖の片方。伝説によると、砂の民を率いることができる権威を持っていた。しかし、現在はこの王器を見分けられる臣下はいない。",
+    "KR": "흑요석으로 만든 한 쌍의 세크헴 중 하나. 사막의 백성을 이끄는 권위를 가지고 있지만 지금은 이를 알아보는 신하는 없다",
+    "PT": "Um dos pares de cetros feitos com obsidiana. Dizem que esses artefatos eram usados para guiar o povo do deserto, mas hoje em dia não há ninguém capaz de distinguir a aparência real desta relíquia.",
+    "RU": "Один из пары обсидиановых скипетров. Легенда гласит, что эти посохи дают право вести народ пустыни, но подданных, которые опознали бы эти регалии, не осталось.",
+    "TH": "หนึ่งในคู่คทาที่ทำจากออบซิเดียน ตามตำนานเล่าว่า มีอำนาจในการชี้นำชาวทะเลทราย แต่ตอนนี้ไม่หลงเหลือใครที่สามารถแยกแยะรูปลักษณ์ที่แท้จริงของเครื่องราชกกุธภัณฑ์นี้ได้อีกแล้ว",
+    "TR": "Obsidiyenden yapılma bir çift asanın teki. Bu asaların çöl halkını yönetme hakkını tanıdığı söylenir ama şimdi bunların asli olup olmadığını bilecek kimse kalmadı.",
+    "VI": "Một món trong bộ đôi quyền trượng tạo nên từ Hắc Diệu Thạch. Trong truyền thuyết, sở hữu quyền năng dẫn dắt con dân của cát, nhưng hiện giờ đã không còn thần tử nào có thể phân biệt được hình dạng của vương khí này rồi."
+  },
+  "icon": "generated/weapon-profiles/13511/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

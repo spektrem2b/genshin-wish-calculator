@@ -1,0 +1,52 @@
+{
+  "id": 11433,
+  "name": {
+    "EN": "Serenity's Call",
+    "CHS": "谧音吹哨",
+    "CHT": "謐音吹哨",
+    "DE": "Leises Pfeifen der Stille",
+    "ES": "Silbido Melifluo",
+    "FR": "Appel de sérénité",
+    "ID": "Serenity's Call",
+    "IT": "Richiamo della serenità",
+    "JP": "静謐の笛",
+    "KR": "고요한 휘파람",
+    "PT": "Chamado da Serenidade",
+    "RU": "Зов безмятежности",
+    "TH": "Serenity's Call",
+    "TR": "Sükunetin Çağrısı",
+    "VI": "Còi Yên Tĩnh"
+  },
+  "nameEn": "Serenity's Call",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A longsword forged from metal that makes a mournful sound when swung.",
+    "CHS": "金属打造的长剑，挥动时会发出沉郁的哨音。",
+    "CHT": "金屬打造的長劍，揮動時會發出沉鬱的哨音。",
+    "DE": "Ein Langschwert aus Metall, das beim Schwingen ein dumpfes Pfeifen von sich gibt.",
+    "ES": "Una espada de metal que emite un melancólico silbido al blandirse.",
+    "FR": "Une longue épée forgée à partir de métal qui produit un son lugubre lorsqu'elle est brandie.",
+    "ID": "Pedang panjang yang terbuat dari logam. Mengeluarkan suara tajam saat diayunkan.",
+    "IT": "Una spada lunga di metallo che emette un suono afflitto quando viene fatta oscillare.",
+    "JP": "金属で作られた長剣。振ると重く唸る。",
+    "KR": "금속 장검. 휘두를 때 침울한 휘파람 소리가 들린다",
+    "PT": "Uma espada longa forjada de metal que emite um som de luto ao ser brandida.",
+    "RU": "Длинный меч, который при взмахе издаёт печальный звук.",
+    "TH": "ดาบยาวที่หลอมจากโลหะ เมื่อกวัดแกว่ง จะเกิดเสียงหวีดหวิวทุ้มหนัก",
+    "TR": "Savrulduğu zaman hüzünlü bir ses çıkaran, çelikten dövülmüş bir uzun kılıç.",
+    "VI": "Thanh kiếm được làm bằng kim loại, khi vung lên sẽ phát ra tiếng còi trầm đục."
+  },
+  "icon": "generated/weapon-profiles/11433/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

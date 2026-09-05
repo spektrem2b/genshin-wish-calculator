@@ -1,0 +1,52 @@
+{
+  "id": 11415,
+  "name": {
+    "EN": "Cinnabar Spindle",
+    "CHS": "辰砂之纺锤",
+    "CHT": "辰砂之紡錘",
+    "DE": "Zinnoberspindel",
+    "ES": "Huso de Cinabrio",
+    "FR": "Fuseau de cinabre",
+    "ID": "Cinnabar Spindle",
+    "IT": "Spada cinabrica",
+    "JP": "シナバースピンドル",
+    "KR": "진사의 방추",
+    "PT": "Haste de Cinábrio",
+    "RU": "Киноварное веретено",
+    "TH": "Cinnabar Spindle",
+    "TR": "Sülüğen Kılıç",
+    "VI": "Con Thoi Chu Sa"
+  },
+  "nameEn": "Cinnabar Spindle",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A sword made from materials that do not belong in this world. The power within might even be able to withstand the corruption of a venom that could corrode a mighty dragon.",
+    "CHS": "由不似这个世界的物质制成的剑，其中的力量就连侵蚀龙的腐殖之毒也能抵御住吧。",
+    "CHT": "由不似這個世界的物質製成的劍，其中的力量就連侵蝕龍的腐殖之毒也能抵禦住吧。",
+    "DE": "Ein Schwert aus Materialien, die nicht in diese Welt gehören. Die Kraft darin könnte sogar der Korruption eines Giftes widerstehen, das einen mächtigen Drachen zersetzen könnte.",
+    "ES": "Una espada forjada con materiales que no son de este mundo. El poder que contiene podría incluso resistir la corrupción de un veneno capaz de derribar a un poderoso dragón.",
+    "FR": "Une lame faite de matériaux qui n'appartiennent pas à ce monde. Le pouvoir à l'intérieur peut même résister à une corruption venimeuse ayant pourtant atteint un puissant dragon.",
+    "ID": "Pedang yang terbentuk dari material yang bukan berasal dari dunia ini. Energi di dalam pedang ini bahkan dapat menangkis racun mematikan yang dapat melukai seekor naga.",
+    "IT": "Una spada forgiata con materiali che non appartengono a questo mondo. Il suo potere potrebbe sconfiggere persino la virulenza di un veleno in grado di appestare un potente drago.",
+    "JP": "この世のものとは思えない物質で作られた剣。これに宿る力は、龍さえも侵食する腐植の毒にも対抗できるだろう。",
+    "KR": "이 세계에 존재하지 않는 물질로 만든 검, 그 힘은 드래곤을 침식했던 부식의 독마저 막아낼 수 있을 것 같다",
+    "PT": "Uma espada feita de materiais que não pertencem a este mundo. O poder dentro dela pode até mesmo ser capaz de resistir à corrupção de um veneno que poderia corroer um poderoso dragão.",
+    "RU": "Материалы, из которых сделан этот меч, явно не принадлежат этому миру. Он выдержит даже сильнейший яд, способный разъесть могучего дракона.",
+    "TH": "ดาบที่คล้ายจะไม่ได้ทำจากวัสดุบนโลกนี้ พลังของมันนั้น คงจะสามารถต้านทานได้กระทั่งพิษที่กัดกร่อนมังกรเลยล่ะนะ",
+    "TR": "Bu dünyaya ait olmayan malzemelerden dövülen bir kılıç. Sahip olduğu güç, bir ejderi bile ortadan kaldırabilecek zehirlere dayanabilir.",
+    "VI": "Thanh kiếm có vẻ như được chế tạo từ thứ vật chất không thuộc thế giới này, sức mạnh của nó có thể chế ngự cả chất độc của rồng."
+  },
+  "icon": "generated/weapon-profiles/11415/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.150133,
+  "substat_lvl90": 0.6897,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

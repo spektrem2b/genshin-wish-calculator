@@ -1,0 +1,52 @@
+{
+  "id": 15413,
+  "name": {
+    "EN": "Windblume Ode",
+    "CHS": "风花之颂",
+    "CHT": "風花之頌",
+    "DE": "Windblumenode",
+    "ES": "Oda a las Flores de Viento",
+    "FR": "Ode aux alizées",
+    "ID": "Windblume Ode",
+    "IT": "Ode al Florvento",
+    "JP": "風花の頌歌",
+    "KR": "바람 꽃의 노래",
+    "PT": "Ode à Brisa Florescente",
+    "RU": "Ода анемонии",
+    "TH": "Windblume Ode",
+    "TR": "Rüzgarçiçeği Kasidesi",
+    "VI": "Bài Ca Hoa Gió"
+  },
+  "nameEn": "Windblume Ode",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person.",
+    "CHS": "点缀以无名花朵的弓，承载着同样无名之人的殷切希望。",
+    "CHT": "點綴以無名花朵的弓，承載著同樣無名之人的殷切希望。",
+    "DE": "Ein Bogen, geschmückt mit namenlosen Blumen, der die innigsten Wünsche einer ebenso namenlosen Person trägt.",
+    "ES": "Un arco ornamentado con flores desconocidas que carga con los fervientes deseos de una persona también desconocida.",
+    "FR": "Un arc ornementé de fleurs sans nom, portant également le poids des espoirs ardents d'un inconnu.",
+    "ID": "Sebuah busur yang dihiasi dengan bunga tanpa nama, bunga tersebut mengandung harapan dari orang-orang yang juga tidak pernah berkesempatan memiliki sebuah nama.",
+    "IT": "Un arco adornato di fiori ignoti che custodisce le speranze di una persona altrettanto ignota.",
+    "JP": "名も無き花で飾られた弓、名も無き者の強き希望を宿している。",
+    "KR": "이름 없는 꽃이 수놓아진 활, 이름 없는 사람들의 간절한 희망을 담고 있다",
+    "PT": "Um arco adornado com flores desconhecidas que carrega as esperanças de uma pessoa também desconhecida.",
+    "RU": "Украшенный безымянными цветами лук несёт заветные желания такого же безымянного человека.",
+    "TH": "ธนูที่ประดับตกแต่งด้วยดอกไม้นิรนาม ที่ได้แบกรับความหวังอันแรงกล้าของบุคคลนิรนามเอาไว้",
+    "TR": "İsimsiz bir yabancı tarafından, isimsiz çiçeklerle ve büyük bir umutla süslenmiş bir yay.",
+    "VI": "Cây cung được điểm xuyết bởi đóa hoa không tên mang theo hy vọng tha thiết của những người vô danh."
+  },
+  "icon": "generated/weapon-profiles/15413/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

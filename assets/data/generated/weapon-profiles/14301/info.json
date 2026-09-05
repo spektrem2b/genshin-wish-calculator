@@ -1,0 +1,52 @@
+{
+  "id": 14301,
+  "name": {
+    "EN": "Magic Guide",
+    "CHS": "魔导绪论",
+    "CHT": "魔導緒論",
+    "DE": "Magieführer",
+    "ES": "Guía Mágica",
+    "FR": "Guide de magie",
+    "ID": "Magic Guide",
+    "IT": "Manuale di magia",
+    "JP": "魔導緒論",
+    "KR": "마도 서론",
+    "PT": "Guia de Magia",
+    "RU": "Руководство по магии",
+    "TH": "Magic Guide",
+    "TR": "Büyü Rehberi",
+    "VI": "Tóm Tắt Ma Pháp"
+  },
+  "nameEn": "Magic Guide",
+  "type": "Pháp Khí",
+  "rarity": 3,
+  "description": {
+    "EN": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments.",
+    "CHS": "第十二版。结合时代发展加注了新内容，并修订了第十一版的错别字。",
+    "CHT": "第十二版。結合時代發展加註了新內容，並修訂了第十一版的錯別字。",
+    "DE": "Auflage 12. Mit den Inhalten und Korrekturen von Auflage 11 sowie Ergänzungen zu den neusten Entwicklungen der Zeit.",
+    "ES": "12.ª edición de la «Guía Mágica». Una reimpresión con correcciones de la 11.ª edición y contenido nuevo basado en el desarrollo de los últimos años.",
+    "FR": "12e édition. Comprend les corrections apportées à la 11e édition, ainsi que des ajouts justifiés par les récents progrès dans le domaine.",
+    "ID": "Jilid ke-12. Edisi ini merupakan revisi jilid ke-11 dengan beberapa perbaikan dan penambahan berdasarkan perkembangan terkini.",
+    "IT": "12ª edizione. Una ristampa che include le correzioni all'11ª edizione, nonché nuovi contenuti basati sugli sviluppi più recenti.",
+    "JP": "Ver.12。時代発展などの内容が追加され、Ver.11の誤字を修正したもの。",
+    "KR": "제12판. 시대 발전에 따라 새로운 내용을 추가하고 제11판의 오탈자를 수정하였다",
+    "PT": "12ª edição. Uma reedição com correção da 11ª edição e novas adições baseadas nos desenvolvimentos atuais.",
+    "RU": "12-е издание. Копия 11-го издания, содержащая исправления, согласно последним разработкам.",
+    "TH": "ตีพิมพ์ครั้งที่ 12 หนังสือที่ตีพิมพ์และปรับปรุงจาก 11 ครั้งที่ผ่านมา พร้อมกับเพิ่มเนื้อหาที่ได้รับ การพัฒนาแล้วด้วย",
+    "TR": "12. Baskı. En güncel gelişmeler eklendi ve 11. Baskıdaki hatalar düzeltildi.",
+    "VI": "Phần 12, kết hợp thêm nội dung thời đại mới và sửa đổi một số lỗi của phần 11."
+  },
+  "icon": "generated/weapon-profiles/14301/avatar.webp",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 40.8,
+  "substat_lvl90": 187.4352,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

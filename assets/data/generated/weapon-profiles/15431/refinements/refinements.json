@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Flower-Feather Song",
+    "CHS": "花与落羽的长歌",
+    "CHT": "花與落羽的長歌",
+    "DE": "Lieder der Blumen und fallenden Federn",
+    "ES": "Balada plumafloral",
+    "FR": "Chant de plumes et fleurs",
+    "ID": "Flower-Feather Song",
+    "IT": "Canzone del Piumafiore",
+    "JP": "花と落羽の長歌",
+    "KR": "꽃과 떨어진 깃털의 노래",
+    "PT": "Canção da Flor de Penas",
+    "RU": "Песнь Цветочного Пера",
+    "TH": "Flower-Feather Song",
+    "TR": "Çiçek Tüyü Şarkısı",
+    "VI": "Khúc Ca Hoa Và Lông Vũ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 4.8% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 24 Elemental Mastery.",
+        "CHS": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得4.8%攻击力提升；上述角色不少于3名时，装备者的元素精通提升24点。",
+        "CHT": "隊伍中每有一名納塔角色或與裝備者元素類型不同的角色，裝備者獲得4.8%攻擊力提升；上述角色不少於3名時，裝備者的元素精通提升24點。",
+        "DE": "#Erhöht für jede Figur aus Natlan oder mit einem anderen Elementartyp als dem des Trägers in der Truppe den ANG des Trägers um 4,8 %. Erhöht bei mindestens 3 für den Bonus relevanten Figuren die Elementarkunde des Trägers um 24 Punkte.",
+        "ES": "#Por cada personaje de Natlan o de tipo elemental distinto al del portador de esta arma que haya en el equipo, el ATQ de dicho portador aumenta en un 4.8%. Cuando haya 3 o más personajes con estas características, la Maestría Elemental del portador de esta arma aumenta en 24 pts.",
+        "FR": "Chaque personnage dans l'équipe de Natlan ou ayant un type élémentaire différent de celui du personnage équipé de l'arme augmente l'ATQ de ce dernier de 4,8 %. Lorsque le nombre de ces personnages est supérieur ou égal à 3, la maîtrise élémentaire du personnage équipé de l'arme augmente de 24 pts.",
+        "ID": "Untuk setiap anggota party yang berasal dari Natlan atau memiliki Tipe Elemen yang berbeda dari Karakter yang mengenakan senjata ini, maka ATK Karakter yang mengenakan senjata ini akan meningkat 4,8%. Jika terdapat setidaknya 3 dari Karakter yang disebutkan di atas, maka Elemental Mastery Karakter yang mengenakan senjata ini meningkat 24.",
+        "IT": "Per ogni membro del gruppo proveniente da Natlan o che possiede un tipo elementale diverso da quello del personaggio che equipaggia l'arma, quest'ultimo ottiene un 4,8% di ATT aumentato. Quando nel gruppo sono presenti non meno di 3 dei personaggi menzionati sopra, il personaggio che equipaggia l'arma ottiene 24 di maestria elementale.",
+        "JP": "チームにナタ出身のキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+4.8%。そのようなキャラクターが3名以上いる場合、装備者の元素熟知+24。",
+        "KR": "파티 내 나타 캐릭터 또는 장착 캐릭터와 원소 타입이 다른 캐릭터가 1명 있을 때마다, 장착 캐릭터의 공격력이 4.8% 증가한다. 상술한 캐릭터가 3명 이상 시, 장착 캐릭터의 원소 마스터리가 24pt 증가한다",
+        "PT": "Para cada personagem da equipe que é de Natlan ou que tenha um Tipo Elemental diferente do personagem que está com essa arma equipada, o personagem que está com essa arma equipada ganha 4.8% de aumento de ATQ. Quando não houver menos que 3 dos personagens mencionados, o personagem que está com essa arma equipada ganha 24 de Proficiência Elemental.",
+        "RU": "За каждого члена отряда из Натлана или с элементом, отличным от элемента экипированного персонажа, сила атаки экипированного персонажа повышается на 4,8%. Когда таких персонажей не менее 3, экипированный персонаж получает 24 ед. мастерства стихий.",
+        "TH": "ทุกครั้งที่ทีมมีตัวละครจาก Natlan หรือตัวละครที่มีชนิดธาตุต่างจากผู้สวมใส่ ผู้สวมใส่จะได้รับพลังโจมตีเพิ่มขึ้น 4.8%; เมื่อมีตัวละครข้างต้นไม่ต่ำกว่า 3 ตัว ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 24 หน่วย",
+        "TR": "Natlanlı olan veya kuşanan karakterden farklı Element Türüne sahip her grup üyesi için kuşanan karakterin Saldırısı %4,8 artar. Bahsedilen niteliklerde en az 3 karakter varsa kuşanan karakter 24 Element Ustalığı kazanır.",
+        "VI": "Trong đội mỗi có một nhân vật Natlan hoặc khác loại nguyên tố với người trang bị, thì người trang bị sẽ tăng 4.8% Tấn Công; Khi số nhân vật nêu trên không ít hơn 3 người thì người trang bị sẽ tăng 24 Tinh Thông Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 6% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 30 Elemental Mastery.",
+        "CHS": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得6%攻击力提升；上述角色不少于3名时，装备者的元素精通提升30点。",
+        "CHT": "隊伍中每有一名納塔角色或與裝備者元素類型不同的角色，裝備者獲得6%攻擊力提升；上述角色不少於3名時，裝備者的元素精通提升30點。",
+        "DE": "#Erhöht für jede Figur aus Natlan oder mit einem anderen Elementartyp als dem des Trägers in der Truppe den ANG des Trägers um 6 %. Erhöht bei mindestens 3 für den Bonus relevanten Figuren die Elementarkunde des Trägers um 30 Punkte.",
+        "ES": "#Por cada personaje de Natlan o de tipo elemental distinto al del portador de esta arma que haya en el equipo, el ATQ de dicho portador aumenta en un 6%. Cuando haya 3 o más personajes con estas características, la Maestría Elemental del portador de esta arma aumenta en 30 pts.",
+        "FR": "Chaque personnage dans l'équipe de Natlan ou ayant un type élémentaire différent de celui du personnage équipé de l'arme augmente l'ATQ de ce dernier de 6 %. Lorsque le nombre de ces personnages est supérieur ou égal à 3, la maîtrise élémentaire du personnage équipé de l'arme augmente de 30 pts.",
+        "ID": "Untuk setiap anggota party yang berasal dari Natlan atau memiliki Tipe Elemen yang berbeda dari Karakter yang mengenakan senjata ini, maka ATK Karakter yang mengenakan senjata ini akan meningkat 6%. Jika terdapat setidaknya 3 dari Karakter yang disebutkan di atas, maka Elemental Mastery Karakter yang mengenakan senjata ini meningkat 30.",
+        "IT": "Per ogni membro del gruppo proveniente da Natlan o che possiede un tipo elementale diverso da quello del personaggio che equipaggia l'arma, quest'ultimo ottiene un 6% di ATT aumentato. Quando nel gruppo sono presenti non meno di 3 dei personaggi menzionati sopra, il personaggio che equipaggia l'arma ottiene 30 di maestria elementale.",
+        "JP": "チームにナタ出身のキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+6%。そのようなキャラクターが3名以上いる場合、装備者の元素熟知+30。",
+        "KR": "파티 내 나타 캐릭터 또는 장착 캐릭터와 원소 타입이 다른 캐릭터가 1명 있을 때마다, 장착 캐릭터의 공격력이 6% 증가한다. 상술한 캐릭터가 3명 이상 시, 장착 캐릭터의 원소 마스터리가 30pt 증가한다",
+        "PT": "Para cada personagem da equipe que é de Natlan ou que tenha um Tipo Elemental diferente do personagem que está com essa arma equipada, o personagem que está com essa arma equipada ganha 6% de aumento de ATQ. Quando não houver menos que 3 dos personagens mencionados, o personagem que está com essa arma equipada ganha 30 de Proficiência Elemental.",
+        "RU": "За каждого члена отряда из Натлана или с элементом, отличным от элемента экипированного персонажа, сила атаки экипированного персонажа повышается на 6%. Когда таких персонажей не менее 3, экипированный персонаж получает 30 ед. мастерства стихий.",
+        "TH": "ทุกครั้งที่ทีมมีตัวละครจาก Natlan หรือตัวละครที่มีชนิดธาตุต่างจากผู้สวมใส่ ผู้สวมใส่จะได้รับพลังโจมตีเพิ่มขึ้น 6%; เมื่อมีตัวละครข้างต้นไม่ต่ำกว่า 3 ตัว ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 30 หน่วย",
+        "TR": "Natlanlı olan veya kuşanan karakterden farklı Element Türüne sahip her grup üyesi için kuşanan karakterin Saldırısı %6 artar. Bahsedilen niteliklerde en az 3 karakter varsa kuşanan karakter 30 Element Ustalığı kazanır.",
+        "VI": "Trong đội mỗi có một nhân vật Natlan hoặc khác loại nguyên tố với người trang bị, thì người trang bị sẽ tăng 6% Tấn Công; Khi số nhân vật nêu trên không ít hơn 3 người thì người trang bị sẽ tăng 30 Tinh Thông Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 7.2% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 36 Elemental Mastery.",
+        "CHS": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得7.2%攻击力提升；上述角色不少于3名时，装备者的元素精通提升36点。",
+        "CHT": "隊伍中每有一名納塔角色或與裝備者元素類型不同的角色，裝備者獲得7.2%攻擊力提升；上述角色不少於3名時，裝備者的元素精通提升36點。",
+        "DE": "#Erhöht für jede Figur aus Natlan oder mit einem anderen Elementartyp als dem des Trägers in der Truppe den ANG des Trägers um 7,2 %. Erhöht bei mindestens 3 für den Bonus relevanten Figuren die Elementarkunde des Trägers um 36 Punkte.",
+        "ES": "#Por cada personaje de Natlan o de tipo elemental distinto al del portador de esta arma que haya en el equipo, el ATQ de dicho portador aumenta en un 7.2%. Cuando haya 3 o más personajes con estas características, la Maestría Elemental del portador de esta arma aumenta en 36 pts.",
+        "FR": "Chaque personnage dans l'équipe de Natlan ou ayant un type élémentaire différent de celui du personnage équipé de l'arme augmente l'ATQ de ce dernier de 7,2 %. Lorsque le nombre de ces personnages est supérieur ou égal à 3, la maîtrise élémentaire du personnage équipé de l'arme augmente de 36 pts.",
+        "ID": "Untuk setiap anggota party yang berasal dari Natlan atau memiliki Tipe Elemen yang berbeda dari Karakter yang mengenakan senjata ini, maka ATK Karakter yang mengenakan senjata ini akan meningkat 7,2%. Jika terdapat setidaknya 3 dari Karakter yang disebutkan di atas, maka Elemental Mastery Karakter yang mengenakan senjata ini meningkat 36.",
+        "IT": "Per ogni membro del gruppo proveniente da Natlan o che possiede un tipo elementale diverso da quello del personaggio che equipaggia l'arma, quest'ultimo ottiene un 7,2% di ATT aumentato. Quando nel gruppo sono presenti non meno di 3 dei personaggi menzionati sopra, il personaggio che equipaggia l'arma ottiene 36 di maestria elementale.",
+        "JP": "チームにナタ出身のキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+7.2%そのようなキャラクターが3名以上いる場合、装備者の元素熟知+36。",
+        "KR": "파티 내 나타 캐릭터 또는 장착 캐릭터와 원소 타입이 다른 캐릭터가 1명 있을 때마다, 장착 캐릭터의 공격력이 7.2% 증가한다. 상술한 캐릭터가 3명 이상 시, 장착 캐릭터의 원소 마스터리가 36pt 증가한다",
+        "PT": "Para cada personagem da equipe que é de Natlan ou que tenha um Tipo Elemental diferente do personagem que está com essa arma equipada, o personagem que está com essa arma equipada ganha 7.2% de aumento de ATQ. Quando não houver menos que 3 dos personagens mencionados, o personagem que está com essa arma equipada ganha 36 de Proficiência Elemental.",
+        "RU": "За каждого члена отряда из Натлана или с элементом, отличным от элемента экипированного персонажа, сила атаки экипированного персонажа повышается на 7,2%. Когда таких персонажей не менее 3, экипированный персонаж получает 36 ед. мастерства стихий.",
+        "TH": "ทุกครั้งที่ทีมมีตัวละครจาก Natlan หรือตัวละครที่มีชนิดธาตุต่างจากผู้สวมใส่ ผู้สวมใส่จะได้รับพลังโจมตีเพิ่มขึ้น 7.2%; เมื่อมีตัวละครข้างต้นไม่ต่ำกว่า 3 ตัว ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 36 หน่วย",
+        "TR": "Natlanlı olan veya kuşanan karakterden farklı Element Türüne sahip her grup üyesi için kuşanan karakterin Saldırısı %7,2 artar. Bahsedilen niteliklerde en az 3 karakter varsa kuşanan karakter 36 Element Ustalığı kazanır.",
+        "VI": "Trong đội mỗi có một nhân vật Natlan hoặc khác loại nguyên tố với người trang bị, thì người trang bị sẽ tăng 7.2% Tấn Công; Khi số nhân vật nêu trên không ít hơn 3 người thì người trang bị sẽ tăng 36 Tinh Thông Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 8.4% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 42 Elemental Mastery.",
+        "CHS": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得8.4%攻击力提升；上述角色不少于3名时，装备者的元素精通提升42点。",
+        "CHT": "隊伍中每有一名納塔角色或與裝備者元素類型不同的角色，裝備者獲得8.4%攻擊力提升；上述角色不少於3名時，裝備者的元素精通提升42點。",
+        "DE": "#Erhöht für jede Figur aus Natlan oder mit einem anderen Elementartyp als dem des Trägers in der Truppe den ANG des Trägers um 8,4 %. Erhöht bei mindestens 3 für den Bonus relevanten Figuren die Elementarkunde des Trägers um 42 Punkte.",
+        "ES": "#Por cada personaje de Natlan o de tipo elemental distinto al del portador de esta arma que haya en el equipo, el ATQ de dicho portador aumenta en un 8.4%. Cuando haya 3 o más personajes con estas características, la Maestría Elemental del portador de esta arma aumenta en 42 pts.",
+        "FR": "Chaque personnage dans l'équipe de Natlan ou ayant un type élémentaire différent de celui du personnage équipé de l'arme augmente l'ATQ de ce dernier de 8,4 %. Lorsque le nombre de ces personnages est supérieur ou égal à 3, la maîtrise élémentaire du personnage équipé de l'arme augmente de 42 pts.",
+        "ID": "Untuk setiap anggota party yang berasal dari Natlan atau memiliki Tipe Elemen yang berbeda dari Karakter yang mengenakan senjata ini, maka ATK Karakter yang mengenakan senjata ini akan meningkat 8,4%. Jika terdapat setidaknya 3 dari Karakter yang disebutkan di atas, maka Elemental Mastery Karakter yang mengenakan senjata ini meningkat 42.",
+        "IT": "Per ogni membro del gruppo proveniente da Natlan o che possiede un tipo elementale diverso da quello del personaggio che equipaggia l'arma, quest'ultimo ottiene un 8,4% di ATT aumentato. Quando nel gruppo sono presenti non meno di 3 dei personaggi menzionati sopra, il personaggio che equipaggia l'arma ottiene 42 di maestria elementale.",
+        "JP": "チームにナタ出身のキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+8.4%。そのようなキャラクターが3名以上いる場合、装備者の元素熟知+42。",
+        "KR": "파티 내 나타 캐릭터 또는 장착 캐릭터와 원소 타입이 다른 캐릭터가 1명 있을 때마다, 장착 캐릭터의 공격력이 8.4% 증가한다. 상술한 캐릭터가 3명 이상 시, 장착 캐릭터의 원소 마스터리가 42pt 증가한다",
+        "PT": "Para cada personagem da equipe que é de Natlan ou que tenha um Tipo Elemental diferente do personagem que está com essa arma equipada, o personagem que está com essa arma equipada ganha 8.4% de aumento de ATQ. Quando não houver menos que 3 dos personagens mencionados, o personagem que está com essa arma equipada ganha 42 de Proficiência Elemental.",
+        "RU": "За каждого члена отряда из Натлана или с элементом, отличным от элемента экипированного персонажа, сила атаки экипированного персонажа повышается на 8,4%. Когда таких персонажей не менее 3, экипированный персонаж получает 42 ед. мастерства стихий.",
+        "TH": "ทุกครั้งที่ทีมมีตัวละครจาก Natlan หรือตัวละครที่มีชนิดธาตุต่างจากผู้สวมใส่ ผู้สวมใส่จะได้รับพลังโจมตีเพิ่มขึ้น 8.4%; เมื่อมีตัวละครข้างต้นไม่ต่ำกว่า 3 ตัว ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 42 หน่วย",
+        "TR": "Natlanlı olan veya kuşanan karakterden farklı Element Türüne sahip her grup üyesi için kuşanan karakterin Saldırısı %8,4 artar. Bahsedilen niteliklerde en az 3 karakter varsa kuşanan karakter 42 Element Ustalığı kazanır.",
+        "VI": "Trong đội mỗi có một nhân vật Natlan hoặc khác loại nguyên tố với người trang bị, thì người trang bị sẽ tăng 8.4% Tấn Công; Khi số nhân vật nêu trên không ít hơn 3 người thì người trang bị sẽ tăng 42 Tinh Thông Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 9.6% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 48 Elemental Mastery.",
+        "CHS": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得9.6%攻击力提升；上述角色不少于3名时，装备者的元素精通提升48点。",
+        "CHT": "隊伍中每有一名納塔角色或與裝備者元素類型不同的角色，裝備者獲得9.6%攻擊力提升；上述角色不少於3名時，裝備者的元素精通提升48點。",
+        "DE": "#Erhöht für jede Figur aus Natlan oder mit einem anderen Elementartyp als dem des Trägers in der Truppe den ANG des Trägers um 9,6 %. Erhöht bei mindestens 3 für den Bonus relevanten Figuren die Elementarkunde des Trägers um 48 Punkte.",
+        "ES": "#Por cada personaje de Natlan o de tipo elemental distinto al del portador de esta arma que haya en el equipo, el ATQ de dicho portador aumenta en un 9.6%. Cuando haya 3 o más personajes con estas características, la Maestría Elemental del portador de esta arma aumenta en 48 pts.",
+        "FR": "Chaque personnage dans l'équipe de Natlan ou ayant un type élémentaire différent de celui du personnage équipé de l'arme augmente l'ATQ de ce dernier de 9,6 %. Lorsque le nombre de ces personnages est supérieur ou égal à 3, la maîtrise élémentaire du personnage équipé de l'arme augmente de 48 pts.",
+        "ID": "Untuk setiap anggota party yang berasal dari Natlan atau memiliki Tipe Elemen yang berbeda dari Karakter yang mengenakan senjata ini, maka ATK Karakter yang mengenakan senjata ini akan meningkat 9,6%. Jika terdapat setidaknya 3 dari Karakter yang disebutkan di atas, maka Elemental Mastery Karakter yang mengenakan senjata ini meningkat 48.",
+        "IT": "Per ogni membro del gruppo proveniente da Natlan o che possiede un tipo elementale diverso da quello del personaggio che equipaggia l'arma, quest'ultimo ottiene un 9,6% di ATT aumentato. Quando nel gruppo sono presenti non meno di 3 dei personaggi menzionati sopra, il personaggio che equipaggia l'arma ottiene 48 di maestria elementale.",
+        "JP": "チームにナタ出身のキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+9.6%。そのようなキャラクターが3名以上いる場合、装備者の元素熟知+48。",
+        "KR": "파티 내 나타 캐릭터 또는 장착 캐릭터와 원소 타입이 다른 캐릭터가 1명 있을 때마다, 장착 캐릭터의 공격력이 9.6% 증가한다. 상술한 캐릭터가 3명 이상 시, 장착 캐릭터의 원소 마스터리가 48pt 증가한다",
+        "PT": "Para cada personagem da equipe que é de Natlan ou que tenha um Tipo Elemental diferente do personagem que está com essa arma equipada, o personagem que está com essa arma equipada ganha 9.6% de aumento de ATQ. Quando não houver menos que 3 dos personagens mencionados, o personagem que está com essa arma equipada ganha 48 de Proficiência Elemental.",
+        "RU": "За каждого члена отряда из Натлана или с элементом, отличным от элемента экипированного персонажа, сила атаки экипированного персонажа повышается на 9,6%. Когда таких персонажей не менее 3, экипированный персонаж получает 48 ед. мастерства стихий.",
+        "TH": "ทุกครั้งที่ทีมมีตัวละครจาก Natlan หรือตัวละครที่มีชนิดธาตุต่างจากผู้สวมใส่ ผู้สวมใส่จะได้รับพลังโจมตีเพิ่มขึ้น 9.6%; เมื่อมีตัวละครข้างต้นไม่ต่ำกว่า 3 ตัว ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 48 หน่วย",
+        "TR": "Natlanlı olan veya kuşanan karakterden farklı Element Türüne sahip her grup üyesi için kuşanan karakterin Saldırısı %9,6 artar. Bahsedilen niteliklerde en az 3 karakter varsa kuşanan karakter 48 Element Ustalığı kazanır.",
+        "VI": "Trong đội mỗi có một nhân vật Natlan hoặc khác loại nguyên tố với người trang bị, thì người trang bị sẽ tăng 9.6% Tấn Công; Khi số nhân vật nêu trên không ít hơn 3 người thì người trang bị sẽ tăng 48 Tinh Thông Nguyên Tố."
+      }
+    }
+  ]
+}

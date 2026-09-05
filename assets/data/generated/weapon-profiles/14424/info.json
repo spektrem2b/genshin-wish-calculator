@@ -1,0 +1,52 @@
+{
+  "id": 14424,
+  "name": {
+    "EN": "Sacrificial Jade",
+    "CHS": "遗祀玉珑",
+    "CHT": "遺祀玉瓏",
+    "DE": "Zeremonielle Jade",
+    "ES": "Jade Sacrificial",
+    "FR": "Jade sacrificiel",
+    "ID": "Sacrificial Jade",
+    "IT": "Giada sacrificale",
+    "JP": "古祠の瓏",
+    "KR": "제사의 옥",
+    "PT": "Sacrifício de Jade",
+    "RU": "Жертвенный нефрит",
+    "TH": "Sacrificial Jade",
+    "TR": "Kurban Yeşimi",
+    "VI": "Ngọc Bích Hiến Tế"
+  },
+  "nameEn": "Sacrificial Jade",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "An ancient jade pendant that gleams like clear water. It seems to have been used in ancient ceremonies.",
+    "CHS": "一枚古老的玉珑，闪烁着清水般的光泽，似乎是古代的祭祀用品。",
+    "CHT": "一枚古老的玉瓏，閃爍著清水般的光澤，似乎是古代的祭祀用品。",
+    "DE": "Eine uralte rituelle Jade. Sie schimmert wie klares Wasser und scheint ein uralter Opfergegenstand zu sein.",
+    "ES": "Una antigua pieza de jade del color de unas aguas turquesas. Posiblemente sea un viejo objeto de ofrendas y sacrificios.",
+    "FR": "Un ancien pendentif en jade qui brille comme de l'eau claire. Il semble avoir été utilisé dans des cérémonies anciennes.",
+    "ID": "Sebuah batu giok kuno yang bersinar seperti air jernih, sepertinya merupakan benda yang dipakai pada upacara atau ritual kuno.",
+    "IT": "Un antico pendente di giada che emette un bagliore limpido come l'acqua. Sembra venisse impiegato per officiare antiche cerimonie.",
+    "JP": "清水のような光沢を放つ古い瓏。古代の祭祀に使う道具らしい。",
+    "KR": "오래된 옥. 맑은 물과 같은 광택이 흐른다. 고대 제사용품으로 보인다",
+    "PT": "Um antigo pingente de jade que brilha como água cristalina. Parece ter sido usado em cerimônias antigas.",
+    "RU": "Древний нефритовый кулон, искрящийся словно чистый ручей. Похоже, его использовали в древних церемониях.",
+    "TH": "หยกโบราณเก่าแก่ทอประกายใสดั่งผืนน้ำสะอาด คล้ายจะเป็นของประกอบพิธีในสมัยโบราณ",
+    "TR": "Berrak sular gibi parıldayan kadim bir yeşim kolye. Görünüşe göre kadim törenlerde kullanılıyormuş.",
+    "VI": "Viên ngọc cổ xưa, lấp lánh ánh sáng trong trẻo như nước, hình như là vật dụng trong tế lễ thời cổ đại."
+  },
+  "icon": "generated/weapon-profiles/14424/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

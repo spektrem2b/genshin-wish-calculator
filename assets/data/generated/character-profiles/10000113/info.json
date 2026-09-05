@@ -1,0 +1,137 @@
+{
+  "id": "10000113",
+  "name": {
+    "EN": "Ifa",
+    "CHS": "伊法",
+    "CHT": "伊法",
+    "DE": "Ifa",
+    "ES": "Ifá",
+    "FR": "Ifa",
+    "ID": "Ifa",
+    "IT": "Ifa",
+    "JP": "イファ",
+    "KR": "이파",
+    "PT": "Ifa",
+    "RU": "Ифа",
+    "TH": "Ifa",
+    "TR": "Ifa",
+    "VI": "Ifa"
+  },
+  "nameEn": "Ifa",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 3,
+    "day": 23
+  },
+  "release": "2025-05-05T21:00:00",
+  "icon": "generated/character-profiles/10000113/avatar.webp",
+  "fullWish": "generated/character-profiles/10000113/full_wish.webp",
+  "fullWishObjectPosition": "55.8% 33.0%",
+  "title": {
+    "EN": "In the Wake of Wandering Winds",
+    "CHS": "蔚风引灵",
+    "CHT": "蔚風引靈",
+    "DE": "In den Spuren schweifender Winde",
+    "ES": "El Guiado por Vientos Errantes",
+    "FR": "Zéphyr spirituel",
+    "ID": "In the Wake of Wandering Winds",
+    "IT": "In balia di venti erranti",
+    "JP": "魂を導く疾風",
+    "KR": "생명을 잇는 바람",
+    "PT": "Brisa Espiritual",
+    "RU": "Вслед за блуждающим ветром",
+    "TH": "สายลมสง่านำพาจิต",
+    "TR": "Başıboş Rüzgarların İzinde",
+    "VI": "Gió Xanh Dẫn Lối"
+  },
+  "description": {
+    "EN": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
+    "CHS": "来自花羽会的兽医，由衷热爱着与人、动物，以及其他生灵为伴的生活。",
+    "CHT": "來自花羽會的獸醫，由衷熱愛著與人、動物，以及其他生靈為伴的生活。",
+    "DE": "Ein Tierarzt aus dem Blumenfeder-Klan, der jeden in sein Herz schließt, sei es nun Mensch oder Tier, für ihn ist jedes Lebewesen ein Gefährte.",
+    "ES": "Un veterinario de la Tribu Plumaflora que ama la compañía de personas, animales y demás seres vivos.",
+    "FR": "Un vétérinaire du Clan des fleurplumes qui apprécie sincèrement la compagnie des gens, des animaux et de tous les autres êtres vivants.",
+    "ID": "Dokter hewan dari suku Bunga Bersayap, yang sangat menyukai kehidupan bersama manusia, hewan, dan makhluk hidup lainnya.",
+    "IT": "Un veterinario del Clan Piumafiore che conduce una vita in armonia con gli esseri viventi, dalle persone agli animali.",
+    "JP": "花翼の集の竜医。人や動物、その他の生き物と共に過ごす生活を心から愛している。",
+    "KR": "꽃깃회의 수의사. 사람과 동물, 그리고 다른 생명체들과 함께하는 삶을 진심으로 사랑한다",
+    "PT": "Um veterinário do Clã das Plumas de Flores que ama profundamente viver em companhia de pessoas, animais e outras formas de vida.",
+    "RU": "Ветеринар из клана Цветочного Пера. Дорожит тем, что каждый день проводит рядом с людьми, животными и другими живыми существами.",
+    "TH": "สัตวแพทย์จากวงศ์ปีกบุปผา ผู้รักในการใช้ชีวิตอยู่ร่วมกับมนุษย์ สัตว์ และสิ่งมีชีวิตอื่น ๆ อย่างแท้จริง",
+    "TR": "İster insan olsun ister hayvan, her canlının ve yaşamın kıymetini bilerek hayatını sürdüren, Çiçek Tüyü Klanından bir veteriner hekim.",
+    "VI": "Bác sĩ thú y đến từ Hội Hoa Vũ, chân thành yêu quý cuộc sống đồng hành cùng con người, động vật và mọi sinh linh khác."
+  },
+  "constellationName": {
+    "EN": "Catena Opele",
+    "CHS": "佩链座",
+    "CHT": "佩鏈座",
+    "DE": "Catena Opele",
+    "ES": "Catena Opele",
+    "FR": "Catena Opele",
+    "ID": "Catena Opele",
+    "IT": "Catena Opele",
+    "JP": "カテナ・オペレ座",
+    "KR": "오펠레사슬자리",
+    "PT": "Catena Opele",
+    "RU": "Шнур Опеле",
+    "TH": "Catena Opele",
+    "TR": "Kader Zinciri",
+    "VI": "Cung Bội Liên"
+  },
+  "native": {
+    "EN": "Tlalocan",
+    "CHS": "特拉洛坎",
+    "CHT": "特拉洛坎",
+    "DE": "Tlalocan",
+    "ES": "Tlalocán",
+    "FR": "Tlalocans",
+    "ID": "Tlalocan",
+    "IT": "Tlalocan",
+    "JP": "トラロカン",
+    "KR": "틀라로칸",
+    "PT": "Tlalocan",
+    "RU": "Тлалокан",
+    "TH": "Tlalocan",
+    "TR": "Tlalocan",
+    "VI": "Tlalocan"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Jonny Loquasto & Dominic Catrambone"
+    },
+    {
+      "lang": "CHS",
+      "va": "吕书君"
+    },
+    {
+      "lang": "JP",
+      "va": "寺島惇太&小松昌平"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Ki-wook"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 845.2303,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 14.95872,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 50.758575,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 11435,
+  "name": {
+    "EN": "Heretic's Molten Blade",
+    "CHS": "熔猎异端之刃",
+    "CHT": "熔獵異端之刃",
+    "DE": "Klinge des Ketzerjägers",
+    "ES": "Filo de la Caza de los Herejes",
+    "FR": "Lame de lave de l'hérétique",
+    "ID": "Heretic's Molten Blade",
+    "IT": "Lama incandescente dell'eretico",
+    "JP": "異端を狩る熔刃",
+    "KR": "이단을 가르는 불꽃",
+    "PT": "Lâmina Derretida do Herege",
+    "RU": "Расплавленный клинок еретика",
+    "TH": "Heretic's Molten Blade",
+    "TR": "Kafirin Kızgın Kılıcı",
+    "VI": "Lưỡi Kiếm Dung Luyện Dị Đoan"
+  },
+  "nameEn": "Heretic's Molten Blade",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "He drew this weapon once more when he first met that God of Flame, revered by all, but it had been too long since he had last used it.",
+    "CHS": "那是他在初次见到那位受众人祝福的火焰之神时再度拔出的，却已太久未曾使用的武器。",
+    "CHT": "那是他在初次見到那位受眾人祝福的火焰之神時再度拔出的，卻已太久未曾使用的武器。",
+    "DE": "Die Waffe, die er erneut gezogen hatte, als er zum ersten Mal jener von allen verehrten Feuergottheit begegnete – eine Waffe, die er seit so langer Zeit nicht mehr benutzt hatte.",
+    "ES": "Esta fue el arma que, después de tanto tiempo sin usarla, él volvió a desenvainar al encontrarse por primera vez con el dios de las llamas que había sido bendecido por tantas personas.",
+    "FR": "Une arme inutilisée depuis longtemps qu'il a ressortie lorsqu'il a aperçu ce dieu des flammes à qui tout le monde avait souhaité du bien la première fois.",
+    "ID": "Senjata yang sudah terlalu lama tidak digunakan yang ia cabut kembali saat pertama kali bertemu dengan sang Dewa Api yang diberkati oleh banyak orang.",
+    "IT": "Egli aveva estratto nuovamente quell'arma quando aveva incontrato per la prima volta la divinità della Fiamma venerata da tutti, ma era passato troppo tempo dall'ultima volta che l'aveva usata.",
+    "JP": "長らく使われることのなかった武器。皆から祝福されたあの炎の神に初めて出会った時——彼は再び、この剣を抜いた。",
+    "KR": "그가 사람들의 축복을 받은 불의 신과 처음 만났을 때 다시 뽑아 든 검. 아주 오랫동안 사용하지 않은 무기다",
+    "PT": "Era a arma que ele sacou novamente ao encontrar pela primeira vez aquele Deus das Chamas abençoado por todos — uma arma que havia muito tempo não utilizava.",
+    "RU": "Это оружие, которое очень долго лежало в ножнах. Он вновь извлёк его, впервые встретив бога пламени, которому все желали добра и благополучия.",
+    "TH": "อาวุธที่เขาชักออกมาอีกครั้ง เมื่อคราวแรกพบกับเทพแห่งเปลวไฟผู้นั้นที่ได้รับพรจากมวลชน ทว่ามันไม่ได้ถูกใช้งานมานานมากแล้ว",
+    "TR": "Herkesin saygı duyduğu Ateş Tanrısı'yla ilk karşılaştığında bu silahı çekti, lakin silahı son kullanışının üzerinden epey vakit geçmişti.",
+    "VI": "Đó là món vũ khí mà anh đã rút ra một lần nữa khi lần đầu diện kiến vị thần của lửa được mọi người chúc phúc, dù đã quá lâu không được sử dụng."
+  },
+  "icon": "generated/weapon-profiles/11435/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

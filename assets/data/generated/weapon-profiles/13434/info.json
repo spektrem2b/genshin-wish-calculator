@@ -1,0 +1,52 @@
+{
+  "id": 13434,
+  "name": {
+    "EN": "Sacrificer's Staff",
+    "CHS": "圣祭者的辉杖",
+    "CHT": "聖祭者的輝杖",
+    "DE": "Leuchtstab des Geistlichen",
+    "ES": "Báculo Rutilante de la Sacerdotisa",
+    "FR": "Bâton de sacrificateur",
+    "ID": "Sacrificer's Staff",
+    "IT": "Bastone del sacrificio",
+    "JP": "聖祭者の輝杖",
+    "KR": "신성한 제사의 지팡이",
+    "PT": "Cajado do Sacrificador",
+    "RU": "Посох жертвующей",
+    "TH": "Sacrificer's Staff",
+    "TR": "Kutsal Adak Asası",
+    "VI": "Quyền Trượng Kẻ Thánh Tế"
+  },
+  "nameEn": "Sacrificer's Staff",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A silver-white polearm, pure and completely without blemish. Legend has it that it was used by the Archpriestesses of Hyperborea in ages past to guide their flock of Frostmoon Scions.",
+    "CHS": "纯净无垢的银白长枪，传说在过去曾被亥珀波瑞亚的主祭们用作指引霜月之子前行的权杖。",
+    "CHT": "純淨無垢的銀白長槍，傳說在過去曾被亥珀波瑞亞的主祭們用作指引霜月之子前行的權杖。",
+    "DE": "Ein makelloser, silberner Speer, der der Legende nach einst von den Hohepriestern von Hyperborea verwendet wurde, um die Nachkommen des Frostmonds zu führen.",
+    "ES": "Una lanza plateada, pura e impoluta. Cuenta la leyenda que, antiguamente, fue un báculo que usaban los sumos sacerdotes de Hiperbórea para guiar a los Descendientes Lunaescarcha.",
+    "FR": "Une lance d'un blanc argenté, pure et sans défaut. La légende raconte qu'elle était utilisée par les grandes prêtresses de l'Hyperborée d'autrefois pour guider leur congrégation des Descendants de givrelune.",
+    "ID": "Tombak putih keperakan yang sempurna tanpa cela. Konon di masa lalu, ini adalah tongkat yang digunakan para penghulu Hyperborea untuk menggembalakan Bani Bulan Embun.",
+    "IT": "Una lancia d'argento pura e immacolata. Secondo la leggenda, un tempo veniva usata dalle antiche Gran Sacerdotesse di Iperborea per guidare le loro schiere di Eredi della Luna gelata.",
+    "JP": "清らかな銀白の長槍。かつてヒュペルボレイアの大司祭たちが、霜月の子を導く杖として用いたと伝えられている。",
+    "KR": "순결한 백은 장창. 과거 휘페르보레아의 제사장들이 서리달 아이를 인도할 때 사용했다고 한다",
+    "PT": "Uma lança branca prateada, pura e completamente imaculada. Dizem as lendas que foi usada pelas Arquissacerdotisas de Hiperbórea de eras passadas para guiar seus rebanhos aos Filhos da Lua Gelada.",
+    "RU": "Безупречное серебристо-белое древковое оружие. Легенда гласит, что в былые века таким посохом старшие жрицы Гипербореи указывали путь Детям Морозной Луны.",
+    "TH": "หอกสีขาวเงินอันบริสุทธิ์ไร้มลทิน ในตำนานกล่าวว่าในอดีต เคยถูกใช้โดยเหล่าผู้นำพิธีแห่ง Hyperborea เพื่อเป็นคทาชี้นำทาง แก่ลูกหลานจันทราน้ำค้างแข็ง",
+    "TR": "Tamamen saf ve lekesiz, gümüş beyazı bir mızrak. Efsaneye göre Hyperborea Başrahibeleri geçmişte Donuk Ayın Çocuklarına bununla yol gösterirmiş.",
+    "VI": "Trường thương trắng bạc thuần khiết. Truyền thuyết kể rằng trong quá khứ, chủ tế của Hyperborea đã dùng nó để chỉ dẫn cho Dòng Dõi Sương Nguyệt tiến về phía trước."
+  },
+  "icon": "generated/weapon-profiles/13434/avatar.webp",
+  "base_atk_lvl1": 45.0687,
+  "base_atk_lvl90": 620.0,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.02,
+  "substat_lvl90": 0.0919,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

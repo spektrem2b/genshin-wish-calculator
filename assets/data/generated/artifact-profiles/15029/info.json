@@ -1,0 +1,69 @@
+{
+  "id": 15029,
+  "name": {
+    "EN": "Nymph's Dream",
+    "CHS": "水仙之梦",
+    "CHT": "水仙之夢",
+    "DE": "Traum der Narzisse",
+    "ES": "Sueño de la Ninfa",
+    "FR": "Rêve de la nymphe",
+    "ID": "Nymph's Dream",
+    "IT": "Sogno della ninfa",
+    "JP": "水仙の夢",
+    "KR": "님프의 꿈",
+    "PT": "Sonho da Ninfa",
+    "RU": "Сон нимфы",
+    "TH": "Nymph's Dream",
+    "TR": "Nergisin Rüyası",
+    "VI": "Giấc Mộng Thủy Tiên"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15029/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Hydro DMG Bonus +15%",
+        "CHS": "获得15%水元素伤害加成。",
+        "CHT": "獲得15%水元素傷害加成。",
+        "DE": "Erhöht den Hydro-Schaden um 15 %.",
+        "ES": "Bono de Daño Hydro +15%.",
+        "FR": "Confère un bonus de DGT Hydro de 15 %.",
+        "ID": "Hydro DMG Bonus +15%.",
+        "IT": "Bonus DAN da Hydro +15%.",
+        "JP": "水元素ダメージ+15%。",
+        "KR": "물 원소 피해 보너스+15%",
+        "PT": "Bônus de Dano Hydro +15%",
+        "RU": "Даёт 15% бонус Гидро урона.",
+        "TH": "ได้รับโบนัสความเสียหายน้ำ 15%",
+        "TR": "+%15 Su Hasarı Bonusu.",
+        "VI": "Nhận 15% buff sát thương nguyên tố Thủy."
+      },
+      "affixId": "2150290"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents, 1 stack of Mirrored Nymph will be triggered, lasting 8s. When under the effect of 1, 2, or 3 or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG Bonus will be increased by 4%/9%/15%. Mirrored Nymph stacks created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently.",
+        "CHS": "普通攻击、重击、下落攻击、元素战技或元素爆发命中敌人后，将产生1层持续8秒的「镜中水仙」效果。处于1/2/3层及以上「镜中水仙」效果下时，攻击力将提高7%/16%/25%，水元素伤害加成提升4%/9%/15%。由普通攻击、重击、下落攻击、元素战技或元素爆发产生的「镜中水仙」将分别独立存在。",
+        "CHT": "普通攻擊、重擊、下落攻擊、元素戰技或元素爆發命中敵人後，將產生1層持續8秒的「鏡中水仙」效果。處於1/2/3層及以上「鏡中水仙」效果下時，攻擊力將提高7%/16%/25%，水元素傷害加成提升4%/9%/15%。由普通攻擊、重擊、下落攻擊、元素戰技或元素爆發產生的「鏡中水仙」將分別獨立存在。",
+        "DE": "Erschafft beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen, Angriffen aus dem Fall, Elementarfähigkeiten oder Spezialfähigkeiten eine 8 s anhaltende Stapelung des Effekts „Narzisse im Spiegel“. Erhöht den ANG bei 1/2/3 Stapelungen von „Narzisse im Spiegel“ um 7/16/25 % und den Hydro-SCH-Bonus um 4/9/15 %. Die durch Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten entstandenen Effekte von „Narzisse im Spiegel“ existieren unabhängig voneinander.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Normal, Cargado o Descendente o una Habilidad Elemental o Definitiva, se genera 1 carga de “reflejo de la ninfa” durante 8 s. Con 1/2/3 o más cargas, el ATQ aumenta en un 7/16/25% y el Bono de Daño Hydro aumenta en un 4/9/15%. Las cargas de reflejo de la ninfa creadas con un Ataque Normal, Cargado o Descendente o con la Habilidad Elemental o Definitiva son independientes entre sí.",
+        "FR": "Lorsqu'une attaque normale, chargée ou plongeante, une compétence ou un déchaînement élémentaires a touché un ennemi, un cumul de l'effet Nymphe reflétée de 8 s est généré. Avec 1, 2 ou au minimum 3 cumuls de nymphe reflétée, l'ATQ augmente respectivement de 7 %/16 %/25 % et le bonus de DGT Hydro de 4 %/9 %/15 %. Les cumuls de nymphe reflétée obtenus grâce aux différents types d'attaques (normales, chargées, plongeantes, compétences et déchaînements élémentaires) existent indépendamment les uns des autres.",
+        "ID": "Setelah Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, atau Elemental Burst mengenai musuh, akan mendapatkan 1 lapis efek Mirrored Nymph yang berlangsung selama 8 detik. Saat efek Mirrored Nymph yang dimiliki mencapai 1/2/3 lapis atau lebih, ATK akan meningkat 7%/16%/25% dan Hydro DMG Bonus meningkat 4%/9%/15%. Efek Mirrored Nymph yang dihasilkan oleh Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, atau Elemental Burst akan dihitung secara terpisah.",
+        "IT": "#Dopo che gli attacchi normali, caricati e in picchiata, e le abilità e i Tripudi elementali colpiscono un avversario, si innesca 1 accumulo di Ninfa speculare della durata di 8 s. Mentre sono sotto l'effetto di 1, 2, 3 o più accumuli di Ninfa speculare, l'ATT e il bonus DAN da Hydro aumentano rispettivamente di un 7%/16%/25% e di un 4%/9%/15%. Gli accumuli di Ninfa speculare generati da attacchi normali, caricati e in picchiata e da abilità e Tripudi elementali esistono indipendentemente.",
+        "JP": "通常攻撃、重撃、落下攻撃、元素スキル、または元素爆発が敵に命中すると、8秒間継続する「鏡中の水仙」効果を1層獲得する。1/2/3層以上の「鏡中の水仙」効果を持つ時、それぞれ攻撃力+7%/16%/25%、水元素ダメージ+4%/9%/15%。通常攻撃、重撃、落下攻撃、元素スキル、元素爆発による「鏡中の水仙」効果はそれぞれ独立してカウントされる。",
+        "KR": "일반 공격, 강공격, 낙하 공격, 원소전투 스킬 또는 원소폭발이 적에게 명중한 후, 8초 동안 지속되는 「거울 속 님프」 효과가 1스택 생성된다. 「거울 속 님프」 효과가 1/2/3스택 이상일 시, 공격력이 7%/16%/25% 증가하고 물 원소 피해 보너스가 4%/9%/15% 증가한다. 일반 공격, 강공격, 낙하 공격, 원소전투 스킬 또는 원소폭발이 생성한 「거울 속 님프」는 각각 독립적으로 존재한다",
+        "PT": "Quando um Ataque Normal, Carregado, Imersivo, Habilidade Elemental ou Supremo atingem um inimigo, gerarão um acúmulo do efeito \"Ninfa Espelhada\" por 8s. Quando possuir 1/2/3 acúmulos ou mais do efeito \"Ninfa Espelhada\", aumentará o ATQ em 7%/16%/25, e aumentará o Bônus de Dano Hydro em 4%/9%/15%. Os acúmulos de \"Ninfa Espelhada\" gerados por Ataques Normais, Carregados, Imersivos, Habilidade Elemental ou Supremos existem independentemente.",
+        "RU": "Попадания обычной атакой, заряженной атакой, атакой в падении, элементальным навыком и взрывом стихии по противнику на 8 сек. создают 1 уровень Отражения нимфы. Когда действуют 1/2/3 и более уровня Отражения нимфы, сила атаки повышается на 7%/16%/25%, а бонус Гидро урона на 4%/9%/15%. Уровни Отражения нимфы, созданные обычными атаками, заряженными атаками, атаками в падении, элементальными навыками и взрывами стихии, существуют независимо друг от друга.",
+        "TH": "หลังจากที่การโจมตีปกติ, การชาร์จโจมตี, การโจมตีพุ่งลงจากอากาศ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู จะเกิดเอฟเฟกต์ Mirrored Nymph ที่มีระยะเวลาต่อเนื่อง 8 วินาที จำนวน 1 ชั้น และเมื่อมีเอฟเฟกต์ Mirrored Nymph 1/2/3 ชั้น หรือมากกว่า พลังโจมตีจะเพิ่มขึ้น 7%/16%/25% โบนัสความเสียหายน้ำจะเพิ่มขึ้น 4%/9%/15% โดย Mirrored Nymph ที่เกิดจากการโจมตีปกติ, การชาร์จโจมตี, การโจมตีพุ่งลงจากอากาศ, สกิลธาตุ หรือท่าไม้ตาย จะมีช่วงเวลาคงอยู่ที่เป็นอิสระต่อกัน",
+        "TR": "Normal, Yüklü veya Havadan Saldırılar, Element Becerileri veya Element Patlamaları, bir düşmana isabet ettiğinde 8 saniyeliğine 1 kademe Nergisin Yansıması verir. 1, 2 veya 3 ve üzeri Nergisin Yansıması kademesi etkinken Saldırı %7/%16/%25 ve Su Hasarı Bonusu %4/%9/%15 artar. Normal, Yüklü veya Havadan Saldırılar, Element Becerileri ve Element Patlamaları ile oluşturulan Nergisin Yansıması kademeleri birbirlerinden bağımsız sayılır.",
+        "VI": "Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ sau khi trúng kẻ địch sẽ sản sinh 1 tầng \"Thủy Tiên Trong Kính\" duy trì 8s. Khi \"Thủy Tiên Trong Kính\" đạt 1/2/3 tầng và trở lên, tấn công tăng 7%/16%/25%, Sát Thương Nguyên Tố Thủy tăng 4%/9%/15%. Hiệu quả \"Thủy Tiên Trong Kính\" sản sinh từ Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ sẽ tồn tại độc lập nhau."
+      },
+      "affixId": "2150291"
+    }
+  ]
+}

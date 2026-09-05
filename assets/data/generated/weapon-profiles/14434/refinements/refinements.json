@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Nocturnal Dreams",
+    "CHS": "深宵的胎梦",
+    "CHT": "深宵的胎夢",
+    "DE": "Nächtliche Träume",
+    "ES": "Sueños nocturnos",
+    "FR": "Rêve nocturne",
+    "ID": "Nocturnal Dreams",
+    "IT": "Sogni notturni",
+    "JP": "胎動の夢",
+    "KR": "새벽의 태몽",
+    "PT": "Sonhos Noturnos",
+    "RU": "Сны глубокой ночи",
+    "TH": "Nocturnal Dreams",
+    "TR": "Gece Rüyaları",
+    "VI": "Giấc Mộng Đêm Khuya"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 72. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 48.",
+        "CHS": "重击命中敌人后的10秒内，元素精通提升72点；元素战技命中敌人后的10秒内，元素精通提升48点。",
+        "CHT": "重擊命中敵人後的10秒內，元素精通提升72點。元素戰技命中敵人後的10秒內，元素精通提升48點。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 72 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 48 Punkte.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental aumenta en 72 pts. durante 10 s. Tras golpear a un enemigo con una Habilidad Elemental, la Maestría Elemental aumenta en 48 pts. durante 10 s.",
+        "FR": "Toucher un ennemi avec une attaque chargée augmente la maîtrise élémentaire de 72 pts pendant 10 s. Toucher un ennemi avec une compétence élémentaire augmente la maîtrise élémentaire de 48 pts pendant 10 s.",
+        "ID": "Setelah Charged Attack mengenai musuh, Elemental Mastery +72 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +48 poin selama 10 detik.",
+        "IT": "#Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 72. Per 10 s dopo aver colpito un avversario con un'abilità elementale, la maestria elementale aumenta di 48.",
+        "JP": "重撃が敵に命中した後の10秒間、元素熟知+72。元素スキルが敵に命中した後の10秒間、元素熟知+48。",
+        "KR": "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 72pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 48pt 증가한다",
+        "PT": "Nos 10s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental em 72. Nos 10s após a Habilidade Elemental atingir um inimigo, aumenta a Proficiência Elemental em 48.",
+        "RU": "На 10 сек. после попадания заряженной атаки по противнику мастерство стихий повышается на 72 ед. На 10 сек. после попадания элементального навыка по противнику мастерство стихий повышается на 48 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 72 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 48 หน่วย",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 72 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 48 artar.",
+        "VI": "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 72. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 48."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 90. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 60.",
+        "CHS": "重击命中敌人后的10秒内，元素精通提升90点；元素战技命中敌人后的10秒内，元素精通提升60点。",
+        "CHT": "重擊命中敵人後的10秒內，元素精通提升90點。元素戰技命中敵人後的10秒內，元素精通提升60點。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 90 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 60 Punkte.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental aumenta en 90 pts. durante 10 s. Tras golpear a un enemigo con una Habilidad Elemental, la Maestría Elemental aumenta en 60 pts. durante 10 s.",
+        "FR": "Toucher un ennemi avec une attaque chargée augmente la maîtrise élémentaire de 90 pts pendant 10 s. Toucher un ennemi avec une compétence élémentaire augmente la maîtrise élémentaire de 60 pts pendant 10 s.",
+        "ID": "Setelah Charged Attack mengenai musuh, Elemental Mastery +90 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +60 poin selama 10 detik.",
+        "IT": "#Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 90. Per 10 s dopo aver colpito un avversario con un'abilità elementale, la maestria elementale aumenta di 60.",
+        "JP": "重撃が敵に命中した後の10秒間、元素熟知+90。元素スキルが敵に命中した後の10秒間、元素熟知+60。",
+        "KR": "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 90pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 60pt 증가한다",
+        "PT": "Nos 10s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental em 90. Nos 10s após a Habilidade Elemental atingir um inimigo, aumenta a Proficiência Elemental em 60.",
+        "RU": "На 10 сек. после попадания заряженной атаки по противнику мастерство стихий повышается на 90 ед. На 10 сек. после попадания элементального навыка по противнику мастерство стихий повышается на 60 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 90 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 60 หน่วย",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 90 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 60 artar.",
+        "VI": "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 90. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 60."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 108. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 72.",
+        "CHS": "重击命中敌人后的10秒内，元素精通提升108点；元素战技命中敌人后的10秒内，元素精通提升72点。",
+        "CHT": "重擊命中敵人後的10秒內，元素精通提升108點。元素戰技命中敵人後的10秒內，元素精通提升72點。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 108 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 72 Punkte.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental aumenta en 108 pts. durante 10 s. Tras golpear a un enemigo con una Habilidad Elemental, la Maestría Elemental aumenta en 72 pts. durante 10 s.",
+        "FR": "Toucher un ennemi avec une attaque chargée augmente la maîtrise élémentaire de 108 pts pendant 10 s. Toucher un ennemi avec une compétence élémentaire augmente la maîtrise élémentaire de 72 pts pendant 10 s.",
+        "ID": "Setelah Charged Attack mengenai musuh, Elemental Mastery +108 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +72 poin selama 10 detik.",
+        "IT": "#Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 108. Per 10 s dopo aver colpito un avversario con un'abilità elementale, la maestria elementale aumenta di 72.",
+        "JP": "重撃が敵に命中した後の10秒間、元素熟知+108。元素スキルが敵に命中した後の10秒間、元素熟知+72。",
+        "KR": "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 108pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 72pt 증가한다",
+        "PT": "Nos 10s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental em 108. Nos 10s após a Habilidade Elemental atingir um inimigo, aumenta a Proficiência Elemental em 72.",
+        "RU": "На 10 сек. после попадания заряженной атаки по противнику мастерство стихий повышается на 108 ед. На 10 сек. после попадания элементального навыка по противнику мастерство стихий повышается на 72 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 108 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 72 หน่วย",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 108 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 72 artar.",
+        "VI": "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 108. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 72."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 126. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 84.",
+        "CHS": "重击命中敌人后的10秒内，元素精通提升126点；元素战技命中敌人后的10秒内，元素精通提升84点。",
+        "CHT": "重擊命中敵人後的10秒內，元素精通提升126點。元素戰技命中敵人後的10秒內，元素精通提升84點。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 126 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 84 Punkte.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental aumenta en 126 pts. durante 10 s. Tras golpear a un enemigo con una Habilidad Elemental, la Maestría Elemental aumenta en 84 pts. durante 10 s.",
+        "FR": "Toucher un ennemi avec une attaque chargée augmente la maîtrise élémentaire de 126 pts pendant 10 s. Toucher un ennemi avec une compétence élémentaire augmente la maîtrise élémentaire de 84 pts pendant 10 s.",
+        "ID": "Setelah Charged Attack mengenai musuh, Elemental Mastery +126 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +84 poin selama 10 detik.",
+        "IT": "#Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 126. Per 10 s dopo aver colpito un avversario con un'abilità elementale, la maestria elementale aumenta di 84.",
+        "JP": "重撃が敵に命中した後の10秒間、元素熟知+126。元素スキルが敵に命中した後の10秒間、元素熟知+84。",
+        "KR": "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 126pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 84pt 증가한다",
+        "PT": "Nos 10s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental em 126. Nos 10s após a Habilidade Elemental atingir um inimigo, aumenta a Proficiência Elemental em 84.",
+        "RU": "На 10 сек. после попадания заряженной атаки по противнику мастерство стихий повышается на 126 ед. На 10 сек. после попадания элементального навыка по противнику мастерство стихий повышается на 84 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 126 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 84 หน่วย",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 126 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 84 artar.",
+        "VI": "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 126. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 84."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 144. For 10s after an Elemental Skill hits an opponent, Elemental Mastery is increased by 96.",
+        "CHS": "重击命中敌人后的10秒内，元素精通提升144点；元素战技命中敌人后的10秒内，元素精通提升96点。",
+        "CHT": "重擊命中敵人後的10秒內，元素精通提升144點。元素戰技命中敵人後的10秒內，元素精通提升96點。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 144 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 96 Punkte.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental aumenta en 144 pts. durante 10 s. Tras golpear a un enemigo con una Habilidad Elemental, la Maestría Elemental aumenta en 96 pts. durante 10 s.",
+        "FR": "Toucher un ennemi avec une attaque chargée augmente la maîtrise élémentaire de 144 pts pendant 10 s. Toucher un ennemi avec une compétence élémentaire augmente la maîtrise élémentaire de 96 pts pendant 10 s.",
+        "ID": "Setelah Charged Attack mengenai musuh, Elemental Mastery +144 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +96 poin selama 10 detik.",
+        "IT": "#Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 144. Per 10 s dopo aver colpito un avversario con un'abilità elementale, la maestria elementale aumenta di 96.",
+        "JP": "重撃が敵に命中した後の10秒間、元素熟知+144。元素スキルが敵に命中した後の10秒間、元素熟知+96。",
+        "KR": "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 144pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 96pt 증가한다",
+        "PT": "Nos 10s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental em 144. Nos 10s após a Habilidade Elemental atingir um inimigo, aumenta a Proficiência Elemental em 96.",
+        "RU": "На 10 сек. после попадания заряженной атаки по противнику мастерство стихий повышается на 144 ед. На 10 сек. после попадания элементального навыка по противнику мастерство стихий повышается на 96 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 144 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 96 หน่วย",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 144 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 96 artar.",
+        "VI": "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 144. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 96."
+      }
+    }
+  ]
+}

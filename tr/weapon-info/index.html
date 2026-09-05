@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<html lang="tr" data-active-tab="weapon-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Weapons: Genshin Wish Calculator</title>
+    <meta name="description" content="Browse every Genshin Impact weapon's refinement effects and ascension materials.">
+    <meta property="og:title" content="All Weapons: Genshin Wish Calculator">
+    <meta property="og:description" content="Browse every Genshin Impact weapon's refinement effects and ascension materials.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/tr/weapon-info/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="All Weapons: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Browse every Genshin Impact weapon's refinement effects and ascension materials.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/weapon-info/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/weapon-info/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/weapon-info/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/weapon-info/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/weapon-info/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/weapon-info/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/weapon-info/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/weapon-info/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/weapon-info/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/weapon-info/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/weapon-info/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/weapon-info/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/weapon-info/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/weapon-info/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/weapon-info/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/weapon-info/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/weapon-info/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br>Dilek Hesaplayıcısı</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Dilek Planlayıcısı</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">4★ Oranları</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Simülatör</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Build</button>
+            <button type="button" id="tabInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Karakterler</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Silahlar</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Diğer</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">Ayarlar</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel"></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel">
+            <div class="ci-filter-bar">
+                <input type="text" class="ci-filter-search" id="wiGridSearch" aria-label="Search weapons" placeholder="Search name…" autocomplete="off">
+                <div class="ci-filter-group">
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Sword">
+                <img src="assets/data/design/weapon_types_icons/Icon_Sword_type.webp" alt="">Sword
+            </button>
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Claymore">
+                <img src="assets/data/design/weapon_types_icons/Icon_Claymore_type.webp" alt="">Claymore
+            </button>
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Polearm">
+                <img src="assets/data/design/weapon_types_icons/Icon_Polearm_type.webp" alt="">Polearm
+            </button>
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Bow">
+                <img src="assets/data/design/weapon_types_icons/Icon_Bow_type.webp" alt="">Bow
+            </button>
+            <button type="button" class="ci-filter-chip" data-filter-group="type" data-filter-value="Catalyst">
+                <img src="assets/data/design/weapon_types_icons/Icon_Catalyst_type.webp" alt="">Catalyst
+            </button></div>
+                <div class="ci-filter-group">
+            <button type="button" class="ci-filter-chip ci-filter-chip-rarity rarity-5" data-filter-group="rarity" data-filter-value="5">5★</button>
+            <button type="button" class="ci-filter-chip ci-filter-chip-rarity rarity-4" data-filter-group="rarity" data-filter-value="4">4★</button>
+            <button type="button" class="ci-filter-chip ci-filter-chip-rarity rarity-3" data-filter-group="rarity" data-filter-value="3">3★</button></div>
+            </div><div class="ci-grid">
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/a-thousand-blazing-suns/" data-weapon-id="12514" data-type="Trọng Kiếm" data-rarity="5" data-name="alevli bin güneş">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Alevli Bin Güneş</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/golden-frostbound-oath/" data-weapon-id="15516" data-type="Cung" data-rarity="5" data-name="altuni buzul yemin">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Altuni Buzul Yemin</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/amos-bow/" data-weapon-id="15502" data-type="Cung" data-rarity="5" data-name="amos'un yayı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Amos'un Yayı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/symphonist-of-scents/" data-weapon-id="13514" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="aromaların ezgisi">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Aromaların Ezgisi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/astral-vultures-crimson-plumage/" data-weapon-id="15514" data-type="Cung" data-rarity="5" data-name="astral akbabanın kızıl tüyü">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Astral Akbabanın Kızıl Tüyü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/hunters-path/" data-weapon-id="15511" data-type="Cung" data-rarity="5" data-name="avcının yolu">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Avcının Yolu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/calamity-queller/" data-weapon-id="13507" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="bela söndüren">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13507/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Bela Söndüren</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/whitelake-frostfeather/" data-weapon-id="11520" data-type="Kiếm Đơn" data-rarity="5" data-name="beyaz gölün buz tüyü">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11520/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Beyaz Gölün Buz Tüyü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/a-thousand-floating-dreams/" data-weapon-id="14511" data-type="Pháp Khí" data-rarity="5" data-name="binbir gece süzülen rüyalar">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Binbir Gece Süzülen Rüyalar</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/a-teaspoon-of-transcendence/" data-weapon-id="12516" data-type="Trọng Kiếm" data-rarity="5" data-name="bir kaşık üstünlük">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Bir Kaşık Üstünlük</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/fang-of-the-mountain-king/" data-weapon-id="12513" data-type="Trọng Kiếm" data-rarity="5" data-name="dağ kralı'nın dişi">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Dağ Kralı'nın Dişi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/everlasting-moonglow/" data-weapon-id="14506" data-type="Pháp Khí" data-rarity="5" data-name="ebedi mehtap">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14506/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ebedi Mehtap</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/exaiphanes-blade/" data-weapon-id="11521" data-type="Kiếm Đơn" data-rarity="5" data-name="exaiphanes kılıcı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11521/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Exaiphanes Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/primordial-jade-winged-spear/" data-weapon-id="13505" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="ezeli yeşim kanatlı mızrak">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13505/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ezeli Yeşim Kanatlı Mızrak</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/primordial-jade-cutter/" data-weapon-id="11505" data-type="Kiếm Đơn" data-rarity="5" data-name="ezeli yeşim kılıcı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11505/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ezeli Yeşim Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/aquila-favonia/" data-weapon-id="11501" data-type="Kiếm Đơn" data-rarity="5" data-name="favonia kartalı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Favonia Kartalı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/disaster-and-remorse/" data-weapon-id="13517" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="felaket ve pişmanlık">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13517/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Felaket ve Pişmanlık</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/nightweavers-looking-glass/" data-weapon-id="14520" data-type="Pháp Khí" data-rarity="5" data-name="gece dokuyanın sırlar aynası">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14520/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gece Dokuyanın Sırlar Aynası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/verdict/" data-weapon-id="12512" data-type="Trọng Kiếm" data-rarity="5" data-name="gereği düşünüldü">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gereği Düşünüldü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/vortex-vanquisher/" data-weapon-id="13504" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="girdap söndüren">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13504/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Girdap Söndüren</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/skyward-atlas/" data-weapon-id="14501" data-type="Pháp Khí" data-rarity="5" data-name="göklerin atlası">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Göklerin Atlası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/skyward-pride/" data-weapon-id="12501" data-type="Trọng Kiếm" data-rarity="5" data-name="göklerin gururu">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Göklerin Gururu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/skyward-blade/" data-weapon-id="11502" data-type="Kiếm Đơn" data-rarity="5" data-name="göklerin kılıcı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Göklerin Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/skyward-harp/" data-weapon-id="15501" data-type="Cung" data-rarity="5" data-name="göklerin liri">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Göklerin Liri</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/skyward-spine/" data-weapon-id="13502" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="göklerin omurgası">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Göklerin Omurgası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/silvershower-heartstrings/" data-weapon-id="15513" data-type="Cung" data-rarity="5" data-name="gönül yayları">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gönül Yayları</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/reliquary-of-truth/" data-weapon-id="14521" data-type="Pháp Khí" data-rarity="5" data-name="hakikat kutusu">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14521/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Hakikat Kutusu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/engulfing-lightning/" data-weapon-id="13509" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="hapseden yıldırım">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13509/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Hapseden Yıldırım</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/haran-geppaku-futsu/" data-weapon-id="11510" data-type="Kiếm Đơn" data-rarity="5" data-name="haran geppaku futsu">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11510/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Haran Geppaku Futsu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/staff-of-homa/" data-weapon-id="13501" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="homa'nın asası">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13501/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Homa'nın Asası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-first-great-magic/" data-weapon-id="15512" data-type="Cung" data-rarity="5" data-name="i̇lk büyük sihir">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">İlk Büyük Sihir</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/lightbearing-moonshard/" data-weapon-id="11519" data-type="Kiếm Đơn" data-rarity="5" data-name="işıldayan ay parçası">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11519/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Işıldayan Ay Parçası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/kaguras-verity/" data-weapon-id="14509" data-type="Pháp Khí" data-rarity="5" data-name="kagura'nın hakikati">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14509/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kagura'nın Hakikati</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/bloodsoaked-ruins/" data-weapon-id="13516" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="kanlı harabe">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kanlı Harabe</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/athame-artis/" data-weapon-id="11518" data-type="Kiếm Đơn" data-rarity="5" data-name="karanlık ayin kılıcı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11518/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Karanlık Ayin Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/key-of-khaj-nisut/" data-weapon-id="11511" data-type="Kiếm Đơn" data-rarity="5" data-name="khaj-nisut anahtarı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Khaj-Nisut Anahtarı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/song-of-broken-pines/" data-weapon-id="12503" data-type="Trọng Kiếm" data-rarity="5" data-name="kırık çamların şarkısı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12503/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kırık Çamların Şarkısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/fractured-halo/" data-weapon-id="13515" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="kırık hale">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kırık Hale</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/crimson-moons-semblance/" data-weapon-id="13512" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="kızıl ayın sureti">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kızıl Ayın Sureti</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/beacon-of-the-reed-sea/" data-weapon-id="12511" data-type="Trọng Kiếm" data-rarity="5" data-name="kızıl çölün i̇radesi">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kızıl Çölün İradesi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/staff-of-the-scarlet-sands/" data-weapon-id="13511" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="kızıl kum asası">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13511/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kızıl Kum Asası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-unforged/" data-weapon-id="12504" data-type="Trọng Kiếm" data-rarity="5" data-name="kötülüksavar">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12504/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kötülüksavar</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/gest-of-the-mighty-wolf/" data-weapon-id="12515" data-type="Trọng Kiếm" data-rarity="5" data-name="kudretli kurdun destanı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kudretli Kurdun Destanı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/wolfs-gravestone/" data-weapon-id="12502" data-type="Trọng Kiếm" data-rarity="5" data-name="kurdun mezar taşı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kurdun Mezar Taşı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/lost-prayer-to-the-sacred-winds/" data-weapon-id="14502" data-type="Pháp Khí" data-rarity="5" data-name="kutsal rüzgarların kayıp duası">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14502/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kutsal Rüzgarların Kayıp Duası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/polar-star/" data-weapon-id="15507" data-type="Cung" data-rarity="5" data-name="kutup yıldızı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15507/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kutup Yıldızı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/lumidouce-elegy/" data-weapon-id="13513" data-type="Vũ Khí Cán Dài" data-rarity="5" data-name="lumidouce ağıdı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/13513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Lumidouce Ağıdı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/angelos-heptades/" data-weapon-id="14523" data-type="Pháp Khí" data-rarity="5" data-name="meleğin yedi fermanı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14523/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Meleğin Yedi Fermanı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/absolution/" data-weapon-id="11515" data-type="Kiếm Đơn" data-rarity="5" data-name="müsamaha">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Müsamaha</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/cashflow-supervision/" data-weapon-id="14513" data-type="Pháp Khí" data-rarity="5" data-name="nakit akışı i̇zleyici">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Nakit Akışı İzleyici</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/freedom-sworn/" data-weapon-id="11503" data-type="Kiếm Đơn" data-rarity="5" data-name="özgürlük yemini">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11503/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Özgürlük Yemini</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/vivid-notions/" data-weapon-id="14519" data-type="Pháp Khí" data-rarity="5" data-name="parlak düşünceler">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14519/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Parlak Düşünceler</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-daybreak-chronicles/" data-weapon-id="15515" data-type="Cung" data-rarity="5" data-name="şafak günlükleri">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Şafak Günlükleri</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sunny-morning-sleep-in/" data-weapon-id="14518" data-type="Pháp Khí" data-rarity="5" data-name="şafak uykusu">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14518/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Şafak Uykusu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/splendor-of-tranquil-waters/" data-weapon-id="11513" data-type="Kiếm Đơn" data-rarity="5" data-name="sakin suların i̇htişamı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11513/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sakin Suların İhtişamı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/elegy-for-the-end/" data-weapon-id="15503" data-type="Cung" data-rarity="5" data-name="son ağıt">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15503/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Son Ağıt</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/nocturnes-curtain-call/" data-weapon-id="14522" data-type="Pháp Khí" data-rarity="5" data-name="son perde noktürnü">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14522/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Son Perde Noktürnü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/tome-of-the-eternal-flow/" data-weapon-id="14514" data-type="Pháp Khí" data-rarity="5" data-name="sonsuz akış kitabı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sonsuz Akış Kitabı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/surfs-up/" data-weapon-id="14516" data-type="Pháp Khí" data-rarity="5" data-name="sörf zamanı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sörf Zamanı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/aqua-simulacra/" data-weapon-id="15508" data-type="Cung" data-rarity="5" data-name="su sureti">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15508/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Su Sureti</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/redhorn-stonethresher/" data-weapon-id="12510" data-type="Trọng Kiếm" data-rarity="5" data-name="taşkıran kızılboynuz">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/12510/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Taşkıran Kızılboynuz</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/peak-patrol-song/" data-weapon-id="11516" data-type="Kiếm Đơn" data-rarity="5" data-name="tepe devriyesi şarkısı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11516/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Tepe Devriyesi Şarkısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/memory-of-dust/" data-weapon-id="14504" data-type="Pháp Khí" data-rarity="5" data-name="tozlu hatıra">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14504/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Tozlu Hatıra</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/tulaytullahs-remembrance/" data-weapon-id="14512" data-type="Pháp Khí" data-rarity="5" data-name="tulaytullah'ın anısı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Tulaytullah'ın Anısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/azurelight/" data-weapon-id="11517" data-type="Kiếm Đơn" data-rarity="5" data-name="turkuaz işık">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11517/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Turkuaz Işık</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/cranes-echoing-call/" data-weapon-id="14515" data-type="Pháp Khí" data-rarity="5" data-name="turnam selam götür">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14515/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Turnam Selam Götür</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/uraku-misugiri/" data-weapon-id="11514" data-type="Kiếm Đơn" data-rarity="5" data-name="uraku misugiri">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11514/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Uraku Misugiri</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/light-of-foliar-incision/" data-weapon-id="11512" data-type="Kiếm Đơn" data-rarity="5" data-name="yaprak kesen işık">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11512/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yaprak Kesen Işık</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/mistsplitter-reforged/" data-weapon-id="11509" data-type="Kiếm Đơn" data-rarity="5" data-name="yeniden dövülmüş siskesen">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11509/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yeniden Dövülmüş Siskesen</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/jadefalls-splendor/" data-weapon-id="14505" data-type="Pháp Khí" data-rarity="5" data-name="yeşimlerin mağrur işıltısı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14505/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yeşimlerin Mağrur Işıltısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/thundering-pulse/" data-weapon-id="15509" data-type="Cung" data-rarity="5" data-name="yıldırım nabzı">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/15509/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yıldırım Nabzı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/starcallers-watch/" data-weapon-id="14517" data-type="Pháp Khí" data-rarity="5" data-name="yıldız çağıranın nöbeti">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/14517/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yıldız Çağıranın Nöbeti</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/summit-shaper/" data-weapon-id="11504" data-type="Kiếm Đơn" data-rarity="5" data-name="zirvekesen">
+                <img class="ci-grid-icon rarity-5" src="assets/data/generated/weapon-profiles/11504/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Zirvekesen</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/whiteblind/" data-weapon-id="12407" data-type="Trọng Kiếm" data-rarity="4" data-name="akkörelten">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Akkörelten</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/akuoumaru/" data-weapon-id="12416" data-type="Trọng Kiếm" data-rarity="4" data-name="akuou'nun kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Akuou'nun Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/eye-of-perception/" data-weapon-id="14409" data-type="Pháp Khí" data-rarity="4" data-name="algı gözü">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Algı Gözü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/forged-by-the-golden-melody/" data-weapon-id="12435" data-type="Trọng Kiếm" data-rarity="4" data-name="altın melodiyle dövülen">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Altın Melodiyle Dövülen</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/amenoma-kageuchi/" data-weapon-id="11414" data-type="Kiếm Đơn" data-rarity="4" data-name="amenoma kageuchi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Amenoma Kageuchi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/master-key/" data-weapon-id="12433" data-type="Trọng Kiếm" data-rarity="4" data-name="ana anahtar">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ana Anahtar</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/lions-roar/" data-weapon-id="11405" data-type="Kiếm Đơn" data-rarity="4" data-name="aslan kükreyişi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Aslan Kükreyişi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/flame-forged-insight/" data-weapon-id="12432" data-type="Trọng Kiếm" data-rarity="4" data-name="ateşte dövülen bilgelik">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ateşte Dövülen Bilgelik</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/moonweavers-dawn/" data-weapon-id="11434" data-type="Kiếm Đơn" data-rarity="4" data-name="ay dokuyanın şafağı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11434/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ay Dokuyanın Şafağı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/cloudforged/" data-weapon-id="15426" data-type="Cung" data-rarity="4" data-name="bulut örgüsü">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Bulut Örgüsü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/frostbreath/" data-weapon-id="13435" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="buznefes">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Buznefes</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/frostbearer/" data-weapon-id="14412" data-type="Pháp Khí" data-rarity="4" data-name="buzözü meyvesi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14412/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Buzözü Meyvesi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-bell/" data-weapon-id="12402" data-type="Trọng Kiếm" data-rarity="4" data-name="çan">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Çan</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/fleuve-cendre-ferryman/" data-weapon-id="11426" data-type="Kiếm Đơn" data-rarity="4" data-name="cendre nehri kayıkçısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Cendre Nehri Kayıkçısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/flower-wreathed-feathers/" data-weapon-id="15430" data-type="Cung" data-rarity="4" data-name="çiçek bezeli tüyler">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Çiçek Bezeli Tüyler</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/dialogues-of-the-desert-sages/" data-weapon-id="13426" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="çöl alimleriyle sohbet">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Çöl Alimleriyle Sohbet</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/mountain-bracing-bolt/" data-weapon-id="13430" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="dağ sürgüsü">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Dağ Sürgüsü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/wavebreakers-fin/" data-weapon-id="13416" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="dalgakesen yüzgeci">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Dalgakesen Yüzgeci</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/waveriding-whirl/" data-weapon-id="14430" data-type="Pháp Khí" data-rarity="4" data-name="dalgaların girdabı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Dalgaların Girdabı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/tidal-shadow/" data-weapon-id="12425" data-type="Trọng Kiếm" data-rarity="4" data-name="dalgaların gölgesi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Dalgaların Gölgesi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/iron-sting/" data-weapon-id="11407" data-type="Kiếm Đơn" data-rarity="4" data-name="demir kılıç">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Demir Kılıç</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/mappa-mare/" data-weapon-id="14407" data-type="Pháp Khí" data-rarity="4" data-name="deniz haritası">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Deniz Haritası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/luxurious-sea-lord/" data-weapon-id="12412" data-type="Trọng Kiếm" data-rarity="4" data-name="denizlerin efendisi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12412/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Denizlerin Efendisi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/finale-of-the-deep/" data-weapon-id="11425" data-type="Kiếm Đơn" data-rarity="4" data-name="derinliklerin sonu">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Derinliklerin Sonu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/dodoco-tales/" data-weapon-id="14413" data-type="Pháp Khí" data-rarity="4" data-name="dodoko masalları">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14413/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Dodoko Masalları</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/fruit-of-fulfillment/" data-weapon-id="14417" data-type="Pháp Khí" data-rarity="4" data-name="doygunluk meyvesi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Doygunluk Meyvesi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/song-of-stillness/" data-weapon-id="15425" data-type="Cung" data-rarity="4" data-name="durgunluğun şarkısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Durgunluğun Şarkısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/dragons-bane/" data-weapon-id="13401" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="ejder laneti">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ejder Laneti</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/dragonspine-spear/" data-weapon-id="13409" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="ejdersırtı mızrak">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ejdersırtı Mızrak</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/calamity-of-eshu/" data-weapon-id="11432" data-type="Kiếm Đơn" data-rarity="4" data-name="eshu'nun felaketi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Eshu'nun Felaketi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/flute-of-ezpitzal/" data-weapon-id="11431" data-type="Kiếm Đơn" data-rarity="4" data-name="ezpitzal flütü">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ezpitzal Flütü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/favonius-greatsword/" data-weapon-id="12401" data-type="Trọng Kiếm" data-rarity="4" data-name="favonius büyük kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Favonius Büyük Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/favonius-codex/" data-weapon-id="14401" data-type="Pháp Khí" data-rarity="4" data-name="favonius kanunları">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Favonius Kanunları</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/favonius-sword/" data-weapon-id="11401" data-type="Kiếm Đơn" data-rarity="4" data-name="favonius kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Favonius Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/favonius-lance/" data-weapon-id="13407" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="favonius mızrağı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Favonius Mızrağı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/favonius-warbow/" data-weapon-id="15401" data-type="Cung" data-rarity="4" data-name="favonius savaş yayı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15401/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Favonius Savaş Yayı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/ballad-of-the-fjords/" data-weapon-id="13424" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="fiyortların türküsü">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Fiyortların Türküsü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-flute/" data-weapon-id="11402" data-type="Kiếm Đơn" data-rarity="4" data-name="flüt">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Flüt</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/alley-hunter/" data-weapon-id="15410" data-type="Cung" data-rarity="4" data-name="gece avcısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15410/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gece Avcısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-alley-flash/" data-weapon-id="11410" data-type="Kiếm Đơn" data-rarity="4" data-name="gece parıltısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11410/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gece Parıltısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/mitternachts-waltz/" data-weapon-id="15412" data-type="Cung" data-rarity="4" data-name="geceyarısı valsi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15412/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Geceyarısı Valsi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-widsith/" data-weapon-id="14402" data-type="Pháp Khí" data-rarity="4" data-name="göçebenin nota kitabı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Göçebenin Nota Kitabı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/rainbow-serpents-rain-bow/" data-weapon-id="15434" data-type="Cung" data-rarity="4" data-name="gökkuşağı yılanının yağmur yayı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15434/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gökkuşağı Yılanının Yağmur Yayı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/footprint-of-the-rainbow/" data-weapon-id="13431" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="gökkuşağının i̇zi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gökkuşağının İzi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/solar-pearl/" data-weapon-id="14405" data-type="Pháp Khí" data-rarity="4" data-name="güneş i̇ncisi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Güneş İncisi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/missive-windspear/" data-weapon-id="13419" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="habercinin rüzgar mızrağı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13419/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Habercinin Rüzgar Mızrağı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/hakushin-ring/" data-weapon-id="14414" data-type="Pháp Khí" data-rarity="4" data-name="hakushin yüzüğü">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Hakushin Yüzüğü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/hamayumi/" data-weapon-id="15414" data-type="Cung" data-rarity="4" data-name="hamayumi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Hamayumi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/crescent-pike/" data-weapon-id="13403" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="hilal mızrak">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Hilal Mızrak</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sapwood-blade/" data-weapon-id="11417" data-type="Kiếm Đơn" data-rarity="4" data-name="i̇ç kabuk kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">İç Kabuk Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/heretics-molten-blade/" data-weapon-id="11435" data-type="Kiếm Đơn" data-rarity="4" data-name="kafirin kızgın kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kafirin Kızgın Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/kagotsurube-isshin/" data-weapon-id="11416" data-type="Kiếm Đơn" data-rarity="4" data-name="kagotsurube isshin">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kagotsurube Isshin</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/echoes-of-the-heart/" data-weapon-id="14436" data-type="Pháp Khí" data-rarity="4" data-name="kalbin yankıları">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kalbin Yankıları</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/snare-hook/" data-weapon-id="15433" data-type="Cung" data-rarity="4" data-name="kapan kancası">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kapan Kancası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/covenant-of-frost-and-snow/" data-weapon-id="15436" data-type="Cung" data-rarity="4" data-name="kar ve ayazın yemini">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kar ve Ayazın Yemini</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/blackmarrow-lantern/" data-weapon-id="14433" data-type="Pháp Khí" data-rarity="4" data-name="kara i̇lik feneri">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kara İlik Feneri</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/blackcliff-agate/" data-weapon-id="14408" data-type="Pháp Khí" data-rarity="4" data-name="kara kaya akiği">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kara Kaya Akiği</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/blackcliff-pole/" data-weapon-id="13404" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="kara kaya kargısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kara Kaya Kargısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/blackcliff-slasher/" data-weapon-id="12408" data-type="Trọng Kiếm" data-rarity="4" data-name="kara kaya kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kara Kaya Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/blackcliff-warbow/" data-weapon-id="15408" data-type="Cung" data-rarity="4" data-name="kara kaya savaş yayı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kara Kaya Savaş Yayı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/blackcliff-longsword/" data-weapon-id="11408" data-type="Kiếm Đơn" data-rarity="4" data-name="kara kaya uzun kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kara Kaya Uzun Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-black-sword/" data-weapon-id="11409" data-type="Kiếm Đơn" data-rarity="4" data-name="kara kılıç">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kara Kılıç</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/snow-tombed-starsilver/" data-weapon-id="12411" data-type="Trọng Kiếm" data-rarity="4" data-name="karlı gümüş yıldız">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12411/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Karlı Gümüş Yıldız</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/katsuragikiri-nagamasa/" data-weapon-id="12414" data-type="Trọng Kiếm" data-rarity="4" data-name="katsuragikiri nagamasa">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Katsuragikiri Nagamasa</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/blade-of-atonement/" data-weapon-id="12436" data-type="Trọng Kiếm" data-rarity="4" data-name="kefaret kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kefaret Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-stringless/" data-weapon-id="15402" data-type="Cung" data-rarity="4" data-name="kirişsiz yay">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kirişsiz Yay</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/kitain-cross-spear/" data-weapon-id="13414" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="kitain haç mızrağı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13414/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kitain Haç Mızrağı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/compound-bow/" data-weapon-id="15407" data-type="Cung" data-rarity="4" data-name="kompozit yay">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15407/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kompozit Yay</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/talking-stick/" data-weapon-id="12424" data-type="Trọng Kiếm" data-rarity="4" data-name="konuşma çubuğu">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Konuşma Çubuğu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/emberwell/" data-weapon-id="11436" data-type="Kiếm Đơn" data-rarity="4" data-name="kor pınarı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kor Pınarı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/royal-grimoire/" data-weapon-id="14404" data-type="Pháp Khí" data-rarity="4" data-name="kraliyet büyü kitabı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kraliyet Büyü Kitabı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/royal-greatsword/" data-weapon-id="12404" data-type="Trọng Kiếm" data-rarity="4" data-name="kraliyet büyük kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kraliyet Büyük Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/royal-spear/" data-weapon-id="13408" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="kraliyet mızrağı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13408/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kraliyet Mızrağı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/royal-longsword/" data-weapon-id="11404" data-type="Kiếm Đơn" data-rarity="4" data-name="kraliyet uzun kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kraliyet Uzun Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/royal-bow/" data-weapon-id="15404" data-type="Cung" data-rarity="4" data-name="kraliyet yayı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15404/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kraliyet Yayı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/kings-squire/" data-weapon-id="15417" data-type="Cung" data-rarity="4" data-name="kralın yaveri">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kralın Yaveri</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/clash-of-kings/" data-weapon-id="14435" data-type="Pháp Khí" data-rarity="4" data-name="kralların çarpışması">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kralların Çarpışması</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/ash-graven-drinking-horn/" data-weapon-id="14427" data-type="Pháp Khí" data-rarity="4" data-name="kül oymalı i̇çki boynuzu">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kül Oymalı İçki Boynuzu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sacrificial-greatsword/" data-weapon-id="12403" data-type="Trọng Kiếm" data-rarity="4" data-name="kurban büyük kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kurban Büyük Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sacrificial-fragments/" data-weapon-id="14403" data-type="Pháp Khí" data-rarity="4" data-name="kurban kanunları">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kurban Kanunları</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sacrificial-sword/" data-weapon-id="11403" data-type="Kiếm Đơn" data-rarity="4" data-name="kurban kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kurban Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sacrificial-bow/" data-weapon-id="15403" data-type="Cung" data-rarity="4" data-name="kurban yayı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15403/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kurban Yayı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sacrificial-jade/" data-weapon-id="14424" data-type="Pháp Khí" data-rarity="4" data-name="kurban yeşimi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kurban Yeşimi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/wolf-fang/" data-weapon-id="11424" data-type="Kiếm Đơn" data-rarity="4" data-name="kurt dişi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kurt Dişi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sacrificers-staff/" data-weapon-id="13434" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="kutsal adak asası">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13434/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kutsal Adak Asası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/prospectors-drill/" data-weapon-id="13427" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="madenci kazması">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Madenci Kazması</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/prospectors-shovel/" data-weapon-id="13433" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="madenci küreği">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Madenci Küreği</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/makhaira-aquamarine/" data-weapon-id="12415" data-type="Trọng Kiếm" data-rarity="4" data-name="makhaira deniz yeşili">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Makhaira Deniz Yeşili</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/moonpiercer/" data-weapon-id="13417" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="mehtap delen">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Mehtap Delen</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/range-gauge/" data-weapon-id="15427" data-type="Cung" data-rarity="4" data-name="menzil göstergesi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Menzil Göstergesi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/rightful-reward/" data-weapon-id="13425" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="meşru mükafat">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Meşru Mükafat</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/fruitful-hook/" data-weapon-id="12430" data-type="Trọng Kiếm" data-rarity="4" data-name="meyve kancası">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Meyve Kancası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/mouuns-moon/" data-weapon-id="15416" data-type="Cung" data-rarity="4" data-name="mouun'un ayı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Mouun'un Ayı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sword-of-narzissenkreuz/" data-weapon-id="11428" data-type="Kiếm Đơn" data-rarity="4" data-name="nergis haçı'nın kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11428/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Nergis Haçı'nın Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/song-of-the-vigil/" data-weapon-id="13436" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="nöbet türküsü">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13436/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Nöbet Türküsü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/deathmatch/" data-weapon-id="13405" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="ölümsaçan">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ölümsaçan</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/forest-regalia/" data-weapon-id="12417" data-type="Trọng Kiếm" data-rarity="4" data-name="orman nişanı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12417/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Orman Nişanı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/rust/" data-weapon-id="15405" data-type="Cung" data-rarity="4" data-name="pas">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Pas</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/prototype-archaic/" data-weapon-id="12406" data-type="Trọng Kiếm" data-rarity="4" data-name="prototip: arkaik">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Prototip: Arkaik</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/prototype-rancour/" data-weapon-id="11406" data-type="Kiếm Đơn" data-rarity="4" data-name="prototip: garez">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Prototip: Garez</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/prototype-crescent/" data-weapon-id="15406" data-type="Cung" data-rarity="4" data-name="prototip: hilal">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Prototip: Hilal</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/prototype-amber/" data-weapon-id="14406" data-type="Pháp Khí" data-rarity="4" data-name="prototip: kehribar">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Prototip: Kehribar</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/prototype-starglitter/" data-weapon-id="13402" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="prototip: yıldız parıltısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13402/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Prototip: Yıldız Parıltısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-dockhands-assistant/" data-weapon-id="11427" data-type="Kiếm Đơn" data-rarity="4" data-name="rıhtım kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Rıhtım Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/windblume-ode/" data-weapon-id="15413" data-type="Cung" data-rarity="4" data-name="rüzgarçiçeği kasidesi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15413/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Rüzgarçiçeği Kasidesi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/dawning-frost/" data-weapon-id="14434" data-type="Pháp Khí" data-rarity="4" data-name="sabah ayazı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14434/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sabah Ayazı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/flowing-purity/" data-weapon-id="14425" data-type="Pháp Khí" data-rarity="4" data-name="saflığın akışı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14425/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Saflığın Akışı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sturdy-bone/" data-weapon-id="11430" data-type="Kiếm Đơn" data-rarity="4" data-name="sağlam kemik">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11430/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sağlam Kemik</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/wine-and-song/" data-weapon-id="14410" data-type="Pháp Khí" data-rarity="4" data-name="şarap ve şarkı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14410/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Şarap ve Şarkı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/wandering-evenstar/" data-weapon-id="14416" data-type="Pháp Khí" data-rarity="4" data-name="serseri akşam yıldızı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14416/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Serseri Akşam Yıldızı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sequence-of-solitude/" data-weapon-id="15432" data-type="Cung" data-rarity="4" data-name="sessizliğin yankısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sessizliğin Yankısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/fading-twilight/" data-weapon-id="15411" data-type="Cung" data-rarity="4" data-name="solan alacakaranlık">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15411/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Solan Alacakaranlık</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/ballad-of-the-boundless-blue/" data-weapon-id="14426" data-type="Pháp Khí" data-rarity="4" data-name="sonsuz mavinin şarkısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sonsuz Mavinin Şarkısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/serenitys-call/" data-weapon-id="11433" data-type="Kiếm Đơn" data-rarity="4" data-name="sükunetin çağrısı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11433/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sükunetin Çağrısı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/cinnabar-spindle/" data-weapon-id="11415" data-type="Kiếm Đơn" data-rarity="4" data-name="sülüğen kılıç">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sülüğen Kılıç</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/tamayuratei-no-ohanashi/" data-weapon-id="13432" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="tamayuratei no ohanashi">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Tamayuratei no Ohanashi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/lithic-blade/" data-weapon-id="12410" data-type="Trọng Kiếm" data-rarity="4" data-name="taş kılıç">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12410/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Taş Kılıç</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/lithic-spear/" data-weapon-id="13406" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="taş mızrak">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13406/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Taş Mızrak</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/portable-power-saw/" data-weapon-id="12427" data-type="Trọng Kiếm" data-rarity="4" data-name="taşınabilir otomatik testere">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12427/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Taşınabilir Otomatik Testere</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/ibis-piercer/" data-weapon-id="15419" data-type="Cung" data-rarity="4" data-name="telli turna">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15419/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Telli Turna</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/toukabou-shigure/" data-weapon-id="11422" data-type="Kiếm Đơn" data-rarity="4" data-name="toukabou shigure">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11422/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Toukabou Shigure</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/etherlight-spindlelute/" data-weapon-id="14432" data-type="Pháp Khí" data-rarity="4" data-name="uhrevi işığın lavtası">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14432/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Uhrevi Işığın Lavtası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/xiphos-moonlight/" data-weapon-id="11418" data-type="Kiếm Đơn" data-rarity="4" data-name="xiphos'un ay işığı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11418/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Xiphos'un Ay Işığı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/rainslasher/" data-weapon-id="12405" data-type="Trọng Kiếm" data-rarity="4" data-name="yağmurkesen">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12405/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yağmurkesen</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-catch/" data-weapon-id="13415" data-type="Vũ Khí Cán Dài" data-rarity="4" data-name="yakalayan mızrak">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/13415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yakalayan Mızrak</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/scion-of-the-blazing-sun/" data-weapon-id="15424" data-type="Cung" data-rarity="4" data-name="yakıcı güneşin veliahtı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15424/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yakıcı Güneşin Veliahtı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/ring-of-yaxche/" data-weapon-id="14431" data-type="Pháp Khí" data-rarity="4" data-name="yaxche yüzüğü">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yaxche Yüzüğü</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/oathsworn-eye/" data-weapon-id="14415" data-type="Pháp Khí" data-rarity="4" data-name="yeminli göz">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/14415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yeminli Göz</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/earth-shaker/" data-weapon-id="12431" data-type="Trọng Kiếm" data-rarity="4" data-name="yersarsan">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yersarsan</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/the-viridescent-hunt/" data-weapon-id="15409" data-type="Cung" data-rarity="4" data-name="yeşil av">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yeşil Av</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/jade-vista/" data-weapon-id="15435" data-type="Cung" data-rarity="4" data-name="yeşim ufuklar">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15435/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yeşim Ufuklar</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/festering-desire/" data-weapon-id="11413" data-type="Kiếm Đơn" data-rarity="4" data-name="yıkıcı arzu">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11413/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yıkıcı Arzu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/serpent-spine/" data-weapon-id="12409" data-type="Trọng Kiếm" data-rarity="4" data-name="yılansırt">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12409/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yılansırt</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/predator/" data-weapon-id="15415" data-type="Cung" data-rarity="4" data-name="yırtıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15415/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yırtıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/end-of-the-line/" data-weapon-id="15418" data-type="Cung" data-rarity="4" data-name="yolun sonu">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15418/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yolun Sonu</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/ultimate-overlords-mega-magic-sword/" data-weapon-id="12426" data-type="Trọng Kiếm" data-rarity="4" data-name="yüce lordun devasa büyü kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12426/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Yüce Lordun Devasa Büyü Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/chain-breaker/" data-weapon-id="15431" data-type="Cung" data-rarity="4" data-name="zincirkıran">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/15431/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Zincirkıran</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/mailed-flower/" data-weapon-id="12418" data-type="Trọng Kiếm" data-rarity="4" data-name="zırhlı çiçek">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/12418/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Zırhlı Çiçek</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sword-of-descension/" data-weapon-id="11412" data-type="Kiếm Đơn" data-rarity="4" data-name="zuhur kılıcı">
+                <img class="ci-grid-icon rarity-4" src="assets/data/generated/weapon-profiles/11412/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Zuhur Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/halberd/" data-weapon-id="13302" data-type="Vũ Khí Cán Dài" data-rarity="3" data-name="baltalı mızrak">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/13302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Baltalı Mızrak</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/white-iron-greatsword/" data-weapon-id="12303" data-type="Trọng Kiếm" data-rarity="3" data-name="beyaz demirden büyük kılıç">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Beyaz Demirden Büyük Kılıç</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/white-tassel/" data-weapon-id="13301" data-type="Vũ Khí Cán Dài" data-rarity="3" data-name="beyaz püskül">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/13301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Beyaz Püskül</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/magic-guide/" data-weapon-id="14301" data-type="Pháp Khí" data-rarity="3" data-name="büyü rehberi">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Büyü Rehberi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/ferrous-shadow/" data-weapon-id="12301" data-type="Trọng Kiếm" data-rarity="3" data-name="demir gölge">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Demir Gölge</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/recurve-bow/" data-weapon-id="15303" data-type="Cung" data-rarity="3" data-name="eğri yay">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Eğri Yay</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/thrilling-tales-of-dragon-slayers/" data-weapon-id="14302" data-type="Pháp Khí" data-rarity="3" data-name="ejder katillerinin serüvenleri">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ejder Katillerinin Serüvenleri</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/fillet-blade/" data-weapon-id="11305" data-type="Kiếm Đơn" data-rarity="3" data-name="fileto kılıcı">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11305/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Fileto Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/travelers-handy-sword/" data-weapon-id="11303" data-type="Kiếm Đơn" data-rarity="3" data-name="gezginin mahir kılıcı">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gezginin Mahir Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/skyrider-greatsword/" data-weapon-id="12306" data-type="Trọng Kiếm" data-rarity="3" data-name="gökbinicisi büyük kılıcı">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12306/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gökbinicisi Büyük Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/skyrider-sword/" data-weapon-id="11306" data-type="Kiếm Đơn" data-rarity="3" data-name="gökbinicisi kılıcı">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11306/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Gökbinicisi Kılıcı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/twin-nephrite/" data-weapon-id="14305" data-type="Pháp Khí" data-rarity="3" data-name="i̇kiz yeşimtaşı">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14305/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">İkiz Yeşimtaşı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/debate-club/" data-weapon-id="12305" data-type="Trọng Kiếm" data-rarity="3" data-name="i̇kna sopası">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12305/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">İkna Sopası</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/bloodtainted-greatsword/" data-weapon-id="12302" data-type="Trọng Kiếm" data-rarity="3" data-name="kanlı büyük kılıç">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/12302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kanlı Büyük Kılıç</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/dark-iron-sword/" data-weapon-id="11304" data-type="Kiếm Đơn" data-rarity="3" data-name="kara demir kılıç">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11304/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kara Demir Kılıç</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/sharpshooters-oath/" data-weapon-id="15302" data-type="Cung" data-rarity="3" data-name="keskin nişancı yemini">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Keskin Nişancı Yemini</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/raven-bow/" data-weapon-id="15301" data-type="Cung" data-rarity="3" data-name="kuzgun yayı">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Kuzgun Yayı</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/harbinger-of-dawn/" data-weapon-id="11302" data-type="Kiếm Đơn" data-rarity="3" data-name="şafak habercisi">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11302/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Şafak Habercisi</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/slingshot/" data-weapon-id="15304" data-type="Cung" data-rarity="3" data-name="sapan">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15304/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Sapan</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/black-tassel/" data-weapon-id="13303" data-type="Vũ Khí Cán Dài" data-rarity="3" data-name="siyah püskül">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/13303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Siyah Püskül</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/cool-steel/" data-weapon-id="11301" data-type="Kiếm Đơn" data-rarity="3" data-name="soğuk çelik">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/11301/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Soğuk Çelik</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/otherworldly-story/" data-weapon-id="14303" data-type="Pháp Khí" data-rarity="3" data-name="uhrevi hikaye">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14303/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Uhrevi Hikaye</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/messenger/" data-weapon-id="15305" data-type="Cung" data-rarity="3" data-name="ulak">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/15305/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Ulak</span>
+            </a>
+            <a class="ci-grid-card" href="/genshin-wish-calculator/tr/weapon-info/emerald-orb/" data-weapon-id="14304" data-type="Pháp Khí" data-rarity="3" data-name="zümrüt küre">
+                <img class="ci-grid-icon rarity-3" src="assets/data/generated/weapon-profiles/14304/avatar.webp" alt="" loading="lazy" data-gi-fallback="retry">
+                <span class="ci-grid-name">Zümrüt Küre</span>
+            </a></div></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Resmi olmayan, hayranlar tarafından yapılmış bir araçtır. HoYoverse/miHoYo ile bağlantılı değildir ve onlar tarafından onaylanmamıştır. Genshin Impact ile ilgili tüm isimler, karakterler ve varlıklar HoYoverse/miHoYo'nun ticari markaları ve telif haklarıdır.</div>
+        <div class="site-footer-links"><a href="privacy.html">Gizlilik Politikası</a> • <a href="terms.html">Kullanım Şartları</a> • <a href="contact.html">İletişim</a> • <a href="credits.html">Krediler</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

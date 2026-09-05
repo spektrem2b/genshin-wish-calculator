@@ -1,0 +1,52 @@
+{
+  "id": 13401,
+  "name": {
+    "EN": "Dragon's Bane",
+    "CHS": "匣里灭辰",
+    "CHT": "匣裡滅辰",
+    "DE": "Drachenschreck",
+    "ES": "Perdición del Dragón",
+    "FR": "Fléau du dragon",
+    "ID": "Dragon's Bane",
+    "IT": "Scacciadraghi",
+    "JP": "匣中滅龍",
+    "KR": "용학살창",
+    "PT": "Perdição do Dragão",
+    "RU": "Гроза драконов",
+    "TH": "Dragon's Bane",
+    "TR": "Ejder Laneti",
+    "VI": "Tai Ương Của Rồng"
+  },
+  "nameEn": "Dragon's Bane",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
+    "CHS": "金龙缠绕的长枪，轻快锐利无比。大抵真能轻易屠龙。",
+    "CHT": "金龍纏繞的長槍，輕快銳利無比。大概真能輕易屠龍。",
+    "DE": "Umschlungen von einem Drachen aus Metall ist diese Lanze unvergleichlich leicht und spitz. Wahrscheinlich kann man damit wirklich mühelos einen Drachen töten.",
+    "ES": "Un palo decorado con un dragón dorado entrelazado. Ligera y afilada, esta arma puede matar dragones con facilidad.",
+    "FR": "Une lance aussi légère que pointue sur laquelle s'enroule un dragon d'or. Légère et affûtée, cette arme pourrait fort bien être capable de tuer des dragons.",
+    "ID": "Tombak dengan ukiran naga emas yang membelit menjadi satu. Ringan dan tajam, mungkin senjata ini sungguh dapat membunuh naga.",
+    "IT": "Una lancia decorata con un drago d'oro attorcigliato. Leggera e aguzza, quest'arma può uccidere i draghi con facilità.",
+    "JP": "金の龍の装飾を施した長槍。軽くて鋭い。龍が相手でも楽勝である。",
+    "KR": "금빛 용이 휘감겨 있는 매우 날카로운 창. 대체로 보아 진짜로 쉽게 용을 죽일 수 있을지도 모른다",
+    "PT": "Uma lança decorada com um dragão dourado entrelaçado. Leve e afiada, esta arma pode muito bem matar dragões com facilidade.",
+    "RU": "Копьё, декорированное извивающимся золотым драконом. Будучи лёгким и острым, это копьё может с лёгкостью убить дракона.",
+    "TH": "หอกที่ตกแต่งด้วยมังกรทองพันอยู่ที่ด้าม มันทั้งเบาและคม อาวุธนี้ใช้สังหารมังกรได้อย่างดี",
+    "TR": "Altın bir ejderle süslenmiş bir mızrak. Hafif ve keskin olan bu silah ejderleri kolaylıkla yere serebilir.",
+    "VI": "Thương dài có rồng cuộn quanh, sắc bén khôn lường. Có thể dễ dàng diệt rồng."
+  },
+  "icon": "generated/weapon-profiles/13401/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 48.0,
+  "substat_lvl90": 220.512,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

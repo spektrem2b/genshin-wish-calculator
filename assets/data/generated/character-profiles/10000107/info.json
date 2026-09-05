@@ -1,0 +1,137 @@
+{
+  "id": "10000107",
+  "name": {
+    "EN": "Citlali",
+    "CHS": "茜特菈莉",
+    "CHT": "茜特菈莉",
+    "DE": "Citlali",
+    "ES": "Citlalí",
+    "FR": "Citlali",
+    "ID": "Citlali",
+    "IT": "Citlali",
+    "JP": "シトラリ",
+    "KR": "시틀라리",
+    "PT": "Citlali",
+    "RU": "Ситлали",
+    "TH": "Citlali",
+    "TR": "Citlali",
+    "VI": "Citlali"
+  },
+  "nameEn": "Citlali",
+  "element": "Cryo",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 1,
+    "day": 20
+  },
+  "release": "2024-12-30T22:00:00",
+  "icon": "generated/character-profiles/10000107/avatar.webp",
+  "fullWish": "generated/character-profiles/10000107/full_wish.webp",
+  "fullWishObjectPosition": "51.7% 23.7%",
+  "title": {
+    "EN": "Obsidian Opalstar",
+    "CHS": "白星黑曜",
+    "CHT": "白星黑曜",
+    "DE": "Sternenobsidian",
+    "ES": "La Estrella de Obsidiana",
+    "FR": "Étoile opaline d'obsidienne",
+    "ID": "Obsidian Opalstar",
+    "IT": "Fulgistella d'ossidiana",
+    "JP": "白星黒曜",
+    "KR": "흰별을 품은 흑요석",
+    "PT": "Obsidiana da Estrela Branca",
+    "RU": "Чёрный отблеск белой звезды",
+    "TH": "ออบซิเดียนดาราผ่อง",
+    "TR": "Obsidiyen Opal Yıldızı",
+    "VI": "Tinh Tú Obsidian"
+  },
+  "description": {
+    "EN": "The great shaman from the Masters of the Night-Wind, the universally-revered Granny Itztli.",
+    "CHS": "烟谜主的大萨满，令所有族人敬畏的黑曜石奶奶。",
+    "CHT": "煙謎主的大薩滿，令所有族人敬畏的黑曜石奶奶。",
+    "DE": "Die große Schamanin der Meister des Nachtwinds Oma Itztli, die alle Stammesmitglieder mit Furcht verehren.",
+    "ES": "La gran chamana y la abu Itztli de los Augures Vientonocturno, respetada por toda la gente de su tribu.",
+    "FR": "La grande shamane des Maîtres du vent nocturne et la grand-mère Itztli que tous dans la tribu respectent.",
+    "ID": "Shaman Agung dari Penguasa Angin Malam, Nenek Itztli yang dihormati oleh orang dari semua suku.",
+    "IT": "La grande sciamana dei Maestri del Vento della Notte, l'universalmente venerata Nonna Itztli.",
+    "JP": "謎煙の主の大シャーマン。一族の誰もが敬う「黒曜石の老婆」。",
+    "KR": "연기 주인의 대샤먼이자 모든 부족원이 경외하는 흑요석 할머니",
+    "PT": "A grande xamã dos Mestres do Vento Noturno, a universalmente reverenciada Vovó Itztli.",
+    "RU": "Великая шаманка Повелителей Ночного Ветра, всеми почитаемая Бабушка Ицтли.",
+    "TH": "ชาแมนผู้ยิ่งใหญ่แห่งจ้าวแห่งลมราตรี คุณยาย Itztli ผู้ซึ่งทำให้ชาวเผ่าทุกคนเคารพและยำเกรง",
+    "TR": "Gece Rüzgarının Ustalarının büyük şamanı, herkes tarafından saygı duyulan Itztli Nine.",
+    "VI": "Shaman vĩ đại của Chủ Nhân Gió Đêm, Bà Itztli mà tất cả cư dân bộ tộc đều kính nể."
+  },
+  "constellationName": {
+    "EN": "Patina Anavatlaca",
+    "CHS": "石心镜座",
+    "CHT": "石心鏡座",
+    "DE": "Patina Anavatlaca",
+    "ES": "Patina Anavatlaca",
+    "FR": "Patina Anavatlaca",
+    "ID": "Patina Anavatlaca",
+    "IT": "Patina Anavatlaca",
+    "JP": "アナワトルの鏡座",
+    "KR": "흑요석거울자리",
+    "PT": "Patina Anavatlaca",
+    "RU": "Алмазное Сердце",
+    "TH": "Patina Anavatlaca",
+    "TR": "Kalp Aynası",
+    "VI": "Cung Thạch Tâm Kính"
+  },
+  "native": {
+    "EN": "Mictlan",
+    "CHS": "米克特兰",
+    "CHT": "米克特蘭",
+    "DE": "Mictlan",
+    "ES": "Mictlán",
+    "FR": "Mictlans",
+    "ID": "Mictlan",
+    "IT": "Mictlan",
+    "JP": "ミクトラン",
+    "KR": "믹틀란",
+    "PT": "Mictlan",
+    "RU": "Миктлан",
+    "TH": "Mictlan",
+    "TR": "Mictlan",
+    "VI": "Mictlan"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Skyler Davenport"
+    },
+    {
+      "lang": "CHS",
+      "va": "柳知萧"
+    },
+    {
+      "lang": "JP",
+      "va": "田野アサミ"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Eun-jo"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 905.654,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 9.8686,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.41119,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000100",
+  "name": {
+    "EN": "Kachina",
+    "CHS": "卡齐娜",
+    "CHT": "卡齊娜",
+    "DE": "Kachina",
+    "ES": "Kachina",
+    "FR": "Kachina",
+    "ID": "Kachina",
+    "IT": "Kachina",
+    "JP": "カチーナ",
+    "KR": "카치나",
+    "PT": "Kachina",
+    "RU": "Качина",
+    "TH": "Kachina",
+    "TR": "Kachina",
+    "VI": "Kachina"
+  },
+  "nameEn": "Kachina",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 4,
+    "day": 22
+  },
+  "release": "2024-08-26T21:00:00",
+  "icon": "generated/character-profiles/10000100/avatar.webp",
+  "fullWish": "generated/character-profiles/10000100/full_wish.webp",
+  "fullWishObjectPosition": "50.3% 19.5%",
+  "title": {
+    "EN": "Mottled Gold Yet Unsmelted",
+    "CHS": "斑金矿朴",
+    "CHT": "斑金礦樸",
+    "DE": "Gesprenkeltes Rohgold",
+    "ES": "La Gema de Oro en Bruto",
+    "FR": "Or brut moucheté",
+    "ID": "Mottled Gold Yet Unsmelted",
+    "IT": "Oro screziato allo stato grezzo",
+    "JP": "金の混じる原鉱",
+    "KR": "순수한 금빛 원석",
+    "PT": "Minério de Ouro Não Fundido",
+    "RU": "Крапчатое самородное золото",
+    "TH": "ทองแท้รอหลอมประกาย",
+    "TR": "Ebruli Altın Cevheri",
+    "VI": "Khoáng Thạch Ánh Vàng"
+  },
+  "description": {
+    "EN": "A young warrior of the Nanatzcayan, given the Ancient Name of \"Uthabiti.\" Kind-hearted and insatiably persistent, she grows stronger and more capable with each setback she faces.",
+    "CHS": "纳茨卡延的年轻战士，受赐古名「乌沙博蒂」。善良执着的少女，在挫折中不断成长。",
+    "CHT": "納茨卡延的年輕戰士，受賜古名「烏沙博蒂」。善良執著的少女，在挫折中不斷成長。",
+    "DE": "Eine junge Kämpferin der Nanatzcayan, die den antiken Namen „Uthabiti“ erhielt. Eine gutmütige, entschlossene junge Frau, die stets an ihren Misserfolgen wächst.",
+    "ES": "Una joven guerrera de Nanatzcayan agraciada con el nombre antiguo de “Uthabiti”. Esta muchacha persistente y de buen corazón siempre encuentra oportunidades de crecimiento ante cualquier contratiempo.",
+    "FR": "Une jeune guerrière des Nanatzcayens à qui a été accordé l'antique nom d'« Uthabiti ». C'est une jeune fille bienveillante et déterminée qui grandit en affrontant l'adversité.",
+    "ID": "Pejuang muda Nanatzcayan yang menyandang Marga Kuno \"Uthabiti\". Baik hati dan pantang menyerah, dia tumbuh lebih kuat acap kali berhasil melewati rintangan yang menghadang.",
+    "IT": "Una giovane guerriera dei Nanatzcayan insignita del Nome antico di \"Uthabiti\". Gentile e insaziabilmente perseverante, ogni ostacolo che affronta la rende sempre più forte.",
+    "JP": "古名「ウッサビーティ」を授かったナナツカヤンの若き戦士。挫折の中で成長し続ける、善良で粘り強い少女。",
+    "KR": "고대 이름 「우사비티」를 이어받은 나나치카얀의 젊은 전사. 좌절 속에서도 끊임없이 성장하는 착하고 끈기 있는 소녀다",
+    "PT": "Uma jovem guerreira dos Filhos dos Ecos, condecorada com o Nome Antigo \"Uthabiti\". É uma jovem garota gentil e com uma persistência insaciável que nunca para de crescer no meio das adversidades.",
+    "RU": "Юная воительница из Нанацкайана с древним именем Утхабити. Добрая и решительная девушка, которая, преодолевая трудности, становится только сильнее.",
+    "TH": "นักรบรุ่นเยาว์แห่ง Nanatzcayan ผู้ได้รับนามโบราณว่า \"Uthabiti\" สาวน้อยผู้ใจดีและดื้อรั้น ที่เติบโตขึ้นมาท่ามกลางอุปสรรค",
+    "TR": "Kadim Adı \"Uthabiti\" olan Nanatzcayan'ın genç bir savaşçısı. İyi kalpli ve inatçı biri. Karşılaştığı her zorlukla daha da güçlenip becerilerini geliştiriyor.",
+    "VI": "Chiến binh trẻ tuổi của Nanatzcayan, được ban cho Tên Cổ \"Uthabiti\". Thiếu nữ hiền lành và kiên trì, không ngừng trưởng thành từ những lần thất bại."
+  },
+  "constellationName": {
+    "EN": "Ochotona Princeps",
+    "CHS": "鼠兔座",
+    "CHT": "鼠兔座",
+    "DE": "Ochotona Princeps",
+    "ES": "Ochotona Princeps",
+    "FR": "Ochotona Princeps",
+    "ID": "Ochotona Princeps",
+    "IT": "Ochotona Princeps",
+    "JP": "ナキウサギ座",
+    "KR": "우는토끼자리",
+    "PT": "Ochotona Princeps",
+    "RU": "Пищуха",
+    "TH": "Ochotona Princeps",
+    "TR": "Islıklı Tavşan",
+    "VI": "Cung Thử Thố"
+  },
+  "native": {
+    "EN": "Nanatzcayan",
+    "CHS": "纳茨卡延",
+    "CHT": "納茨卡延",
+    "DE": "Nanatzcayan",
+    "ES": "Nanatzcayan",
+    "FR": "Nanatzcayen",
+    "ID": "Nanatzcayan",
+    "IT": "Nanatzcayan",
+    "JP": "ナナツカヤン",
+    "KR": "나나치카얀",
+    "PT": "Nanatzcayan",
+    "RU": "Нанацкайан",
+    "TH": "Nanatzcayan",
+    "TR": "Nanatzcayan",
+    "VI": "Nanatzcayan"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kristen McGuire"
+    },
+    {
+      "lang": "CHS",
+      "va": "静宸"
+    },
+    {
+      "lang": "JP",
+      "va": "久保ユリカ"
+    },
+    {
+      "lang": "KR",
+      "va": "Son Sun-young"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ROCK_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 989.2932,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.16416,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 66.438225,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

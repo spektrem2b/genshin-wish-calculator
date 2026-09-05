@@ -1,0 +1,137 @@
+{
+  "id": "10000071",
+  "name": {
+    "EN": "Cyno",
+    "CHS": "赛诺",
+    "CHT": "賽諾",
+    "DE": "Cyno",
+    "ES": "Cyno",
+    "FR": "Cyno",
+    "ID": "Cyno",
+    "IT": "Cyno",
+    "JP": "セノ",
+    "KR": "사이노",
+    "PT": "Cyno",
+    "RU": "Сайно",
+    "TH": "Cyno",
+    "TR": "Cyno",
+    "VI": "Cyno"
+  },
+  "nameEn": "Cyno",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 6,
+    "day": 23
+  },
+  "release": "2022-09-26T21:00:00",
+  "icon": "generated/character-profiles/10000071/avatar.webp",
+  "fullWish": "generated/character-profiles/10000071/full_wish.webp",
+  "fullWishObjectPosition": "48.7% 38.7%",
+  "title": {
+    "EN": "Judicator of Secrets",
+    "CHS": "缄秘的裁遣",
+    "CHT": "緘秘的裁遣",
+    "DE": "Richter über Geheimnisse",
+    "ES": "El Magistrado de lo Arcano",
+    "FR": "Juge des secrets",
+    "ID": "Judicator of Secrets",
+    "IT": "Giustiziere dei segreti",
+    "JP": "緘秘の裁き",
+    "KR": "비밀 심판",
+    "PT": "Juiz dos Segredos",
+    "RU": "Вершитель таинств",
+    "TH": "การพิพากษาอันซ่อนเร้น",
+    "TR": "Sırlar Hakimi",
+    "VI": "Phán Quyết Ẩn Mật"
+  },
+  "description": {
+    "EN": "The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the \"Great Vayuvyastra\" made by the Kshahrewar.",
+    "CHS": "教令院内负责监管学者们的「大风纪官」。工作时比刹诃伐罗学院制作的「大风机关」更有效率。",
+    "CHT": "教令院內負責監管學者們的「大風紀官」。工作時比剎訶伐羅學院製作的「大風機關」更有效率。",
+    "DE": "Mahamatra an der Akademie, der die Arbeit der Gelehrten beaufsichtigt. Bei seiner Arbeit ist er effizienter als das „Große Vayuvyastra“, das das Kshahrewar-Institut geschaffen hat.",
+    "ES": "Gran Juez de la matra y supervisor de los eruditos de la Academia de Sumeru. Cuando trabaja, es incluso más eficiente que la “Gran Vayuvyastra” creada por la Facultad Kshahrewar.",
+    "FR": "Le général mahamatra chargé de superviser les chercheurs de l'Académie. On dit que lorsqu'il se met au travail, il est encore plus efficace que le grand vayuvyastra fabriqué par le Kshahrewar.",
+    "ID": "\"Mahamatra Agung\" yang mengawasi para peneliti di Akademiya. Saat bekerja, lebih efisien daripada \"Vayuvyastra Agung\" buatan Kshahrewar.",
+    "IT": "Il generale Mahamatra incaricato della supervisione dei ricercatori all'Akademiya. Si dice che svolga il suo lavoro in maniera ancor più efficiente del Gran Vayuvyastra creato dalla Kshahrewar.",
+    "JP": "教令院の学者たちを監督する「大マハマトラ」。クシャレワー学院が作った『大マッハマシン』よりも効率よく仕事をこなす。",
+    "KR": "아카데미아에서 학자들을 감독하고 관리하는 「대풍기관」. 업무 집행 중에는 크샤흐레와르 학부에서 제작한 「대풍 기관」보다도 더 효율적으로 움직인다",
+    "PT": "O General Mahamatra responsável por supervisionar os pesquisadores da Academia.\\nDizem que quando ele está trabalhando, o General Mahamatra é ainda mais eficiente do que o \"Grande Vayuvyastra\" feito pelo Kshahrewar.",
+    "RU": "Генерал махаматра, который осуществляет надзор над всеми учёными Академии. Говорят, в работе он по эффективности превосходит «Великую Ваювьястру» Кшахревара.",
+    "TH": "\"เจ้าหน้าที่มหามาตรา\" ผู้รับหน้าที่ดูแลนักวิชาการในสถาบัน...ในตอนที่ทำงาน มีประสิทธิภาพมากกว่า \"กลไกมหามนตรา\" ที่ผลิตโดยคณะ Kshahrewar เสียอีก",
+    "TR": "Akademi araştırmacılarını gözetmekle yükümlü General Mahamatra. İşe koyulduğunda Kshahrewar tarafından yapılan \"Büyük Vayuvyastra\"dan bile daha verimli olduğu söylenir.",
+    "VI": "\"Tổng Quản Mahamatra\", phụ trách giám sát các học giả trong Giáo Viện. Hiệu suất trong lúc làm việc sẽ còn hiệu quả hơn \"Vayuvyastra Vĩ Đại\" của Học Phái Kshahrewar."
+  },
+  "constellationName": {
+    "EN": "Lupus Aureus",
+    "CHS": "金狼座",
+    "CHT": "金狼座",
+    "DE": "Lupus Aureus",
+    "ES": "Lupus Aureus",
+    "FR": "Lupus Aureus",
+    "ID": "Lupus Aureus",
+    "IT": "Lupus Aureus",
+    "JP": "金狼座",
+    "KR": "황금이리자리",
+    "PT": "Lupus Aureus",
+    "RU": "Золотой Шакал",
+    "TH": "Lupus Aureus",
+    "TR": "Altın Kurt",
+    "VI": "Cung Kim Lang"
+  },
+  "native": {
+    "EN": "Temple of Silence",
+    "CHS": "缄默之殿",
+    "CHT": "緘默之殿",
+    "DE": "Tempel des Schweigens",
+    "ES": "Templo del Silencio",
+    "FR": "Temple du silence",
+    "ID": "Temple of Silence",
+    "IT": "Tempio del Silenzio",
+    "JP": "沈黙の殿",
+    "KR": "침묵의 신전",
+    "PT": "Templo do Silêncio",
+    "RU": "Храм Молчания",
+    "TH": "วิหารแห่งความเงียบงัน",
+    "TR": "Sessizlik Tapınağı",
+    "VI": "Ngôi Đền Im Lặng"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Alejandro Saab"
+    },
+    {
+      "lang": "CHS",
+      "va": "李轻扬"
+    },
+    {
+      "lang": "JP",
+      "va": "入野自由"
+    },
+    {
+      "lang": "KR",
+      "va": "Jung Eui-jin & Lee Woo-ri"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 972.3864,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 24.7646,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 66.88994,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

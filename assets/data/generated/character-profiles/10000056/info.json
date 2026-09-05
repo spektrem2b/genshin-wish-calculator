@@ -1,0 +1,137 @@
+{
+  "id": "10000056",
+  "name": {
+    "EN": "Kujou Sara",
+    "CHS": "九条裟罗",
+    "CHT": "九條裟羅",
+    "DE": "Kujou Sara",
+    "ES": "Kujou Sara",
+    "FR": "Kujou Sara",
+    "ID": "Kujou Sara",
+    "IT": "Kujou Sara",
+    "JP": "九条裟羅",
+    "KR": "쿠죠 사라",
+    "PT": "Kujou Sara",
+    "RU": "Сара",
+    "TH": "Kujou Sara",
+    "TR": "Kujou Sara",
+    "VI": "Kujou Sara"
+  },
+  "nameEn": "Kujou Sara",
+  "element": "Electro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 7,
+    "day": 14
+  },
+  "release": "2021-08-31T21:00:00",
+  "icon": "generated/character-profiles/10000056/avatar.webp",
+  "fullWish": "generated/character-profiles/10000056/full_wish.webp",
+  "fullWishObjectPosition": "50.2% 20.0%",
+  "title": {
+    "EN": "Crowfeather Kaburaya",
+    "CHS": "黑羽鸣镝",
+    "CHT": "黑羽鳴鏑",
+    "DE": "Krähenfeder-Kaburaya",
+    "ES": "La Arquera Plumanegra",
+    "FR": "Kaburaya de plume de corvidé",
+    "ID": "Crowfeather Kaburaya",
+    "IT": "Kaburaya piumata",
+    "JP": "黒羽鳴鏑",
+    "KR": "검은 깃의 효시",
+    "PT": "Flecha de Penas de Corvo",
+    "RU": "Кабурая вороньего пера",
+    "TH": "ศรคำรามแห่งรัตติกาล",
+    "TR": "Karga Tüylü Kaburaya",
+    "VI": "Hắc Vũ Tiễn"
+  },
+  "description": {
+    "EN": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+    "CHS": "「天领奉行」的大将，杀伐果断，骁勇善战。",
+    "CHT": "「天領奉行」的大將，殺伐果斷，驍勇善戰。",
+    "DE": "Eine Generalin der „Tenryou-Verwaltung“, kühn, entschlossen und geschickt im Kampf.",
+    "ES": "La general de la Comisión Tenryou. Es una persona audaz, firme y muy buena en combate.",
+    "FR": "Une générale de la Commission administrative. Audacieuse, décisive et habile au combat.",
+    "ID": "Seorang jenderal di Tenryou Commission. Sifatnya berani, tegas, dan sangat pandai bertarung.",
+    "IT": "Generale della Commissione Tenryou. Audace, risoluta e abile in battaglia.",
+    "JP": "「天領奉行」の大将。果敢かつ勇猛である。",
+    "KR": "「텐료 봉행」의 대장. 대담하고 결단력 있으며 용맹하고 전투에 능하다",
+    "PT": "General da Comissão Tenryou. Audaciosa, decisiva e habilidosa em batalha.",
+    "RU": "Действующий генерал комиссии Тэнрё. Сурова, решительна и отважна в бою.",
+    "TH": "นายพลแห่งสำนัก Tenryou เด็ดเดี่ยว กล้าหาญ และเชี่ยวชาญในการต่อสู้",
+    "TR": "Tenryou Heyetinin bir generali. Cesur, kararlı ve savaşta yetenekli.",
+    "VI": "Đại tướng đương nhiệm của Hiệp Hội Tenryou. Sát phạt quyết đoán, anh dũng thiện chiến."
+  },
+  "constellationName": {
+    "EN": "Flabellum",
+    "CHS": "羽团扇座",
+    "CHT": "羽團扇座",
+    "DE": "Flabellum",
+    "ES": "Flabellum",
+    "FR": "Flabellum",
+    "ID": "Flabellum",
+    "IT": "Flabellum",
+    "JP": "羽団扇座",
+    "KR": "깃털부채자리",
+    "PT": "Flabellum",
+    "RU": "Веер",
+    "TH": "Flabellum",
+    "TR": "Yelpaze",
+    "VI": "Cung Vũ Phiến"
+  },
+  "native": {
+    "EN": "Tenryou Commission",
+    "CHS": "天领奉行",
+    "CHT": "天領奉行",
+    "DE": "Tenryou-Verwaltung",
+    "ES": "Comisión Tenryou",
+    "FR": "Commission admin.",
+    "ID": "Tenryou Commission",
+    "IT": "Commissione Tenryou",
+    "JP": "天領奉行",
+    "KR": "텐료 봉행",
+    "PT": "Comissão Tenryou",
+    "RU": "Комиссия Тэнрё",
+    "TH": "สำนัก Tenryou",
+    "TR": "Tenryou Heyeti",
+    "VI": "Hiệp Hội Tenryou"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Jeannie Tirado"
+    },
+    {
+      "lang": "CHS",
+      "va": "杨梦露"
+    },
+    {
+      "lang": "JP",
+      "va": "瀬戸麻沙美"
+    },
+    {
+      "lang": "KR",
+      "va": "Moon Ji-young"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 802.3761,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.38336,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 52.647,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

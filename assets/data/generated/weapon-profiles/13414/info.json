@@ -1,0 +1,52 @@
+{
+  "id": 13414,
+  "name": {
+    "EN": "Kitain Cross Spear",
+    "CHS": "喜多院十文字",
+    "CHT": "喜多院十文字",
+    "DE": "Kitain-Kreuzlanze",
+    "ES": "Cruz de Kitain",
+    "FR": "Lance en croix de Kitain",
+    "ID": "Kitain Cross Spear",
+    "IT": "Lancia crociata di Kitain",
+    "JP": "喜多院十文字槍",
+    "KR": "키타인 십자창",
+    "PT": "Lança Cruzada de Kitain",
+    "RU": "Крест-копьё Китаин",
+    "TH": "Kitain Cross Spear",
+    "TR": "Kitain Haç Mızrağı",
+    "VI": "Giáo Thập Tự Kitain"
+  },
+  "nameEn": "Kitain Cross Spear",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island.",
+    "CHS": "曾经在八酝岛守望「祟神」的枪法名士所用的特殊长枪。",
+    "CHT": "曾經在八醞島守望「祟神」的槍法名士所用的特殊長槍。",
+    "DE": "Eine besondere Lanze, die einst von einem berühmten Krieger benutzt wurde, der die Tatarigami auf der Insel Yashiori bewachte.",
+    "ES": "El arma utilizada por el famoso lancero que custodiaba a los tatarigami en la Isla Yashiori.",
+    "FR": "Une lance spéciale qui était autrefois utilisée par un célèbre guerrier qui gardait le Tatarigami sur l'Île de Yashiori.",
+    "ID": "Tombak spesial yang pernah digunakan oleh prajurit terkenal yang menjaga Tatarigami di Pulau Yashiori.",
+    "IT": "Una lancia speciale, appartenuta a un guerriero famoso che custodiva il Tatarigami sull'Isola di Yashiori.",
+    "JP": "ヤシオリ島で「祟り神」を見守る槍術の名士が使っていた特殊な長槍。",
+    "KR": "과거 야시오리섬의 「재앙신」을 지키던 창술의 대가가 사용했던 특수한 창",
+    "PT": "Uma lança especial que foi usada por um guerreiro famoso que guardava o Tatarigami da Ilha Yashiori.",
+    "RU": "Копьё, что раньше принадлежало прославленному воину, который охранял Татаригами на острове Ясиори.",
+    "TH": "หอกที่ครั้งหนึ่งนักรบผู้มีชื่อเสียงเคยใช้คุ้มครอง \"Tatarigami\" บนเกาะ Yashiori",
+    "TR": "Yashiori Adası'nda Tatarigami'ye muhafızlık eden ünlü bir savaşçıya ait özel bir mızrak.",
+    "VI": "Một cây thương đặc biệt đã từng được sử dụng bởi một chiến binh nổi tiếng, người bảo vệ đảo Yashiori khỏi Họa Thần."
+  },
+  "icon": "generated/weapon-profiles/13414/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "White Fairy's Queening",
+    "CHS": "白女皇的升变",
+    "CHT": "白女皇的升變",
+    "DE": "Verwandlung der weißen Herrscherin",
+    "ES": "Coronación del hada blanca",
+    "FR": "Promotion de la fée blanche",
+    "ID": "White Fairy's Queening",
+    "IT": "Promozione della Fata bianca",
+    "JP": "「白の女皇」への昇格",
+    "KR": "하얀 여왕의 승급",
+    "PT": "Coroação da Fada Branca",
+    "RU": "Коронация белой феи",
+    "TH": "White Fairy's Queening",
+    "TR": "Beyaz Perinin Hükümranlığı",
+    "VI": "Thăng Biến Của Bạch Nữ Hoàng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "ATK is increased by 28%.\nAdditionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by 16% for 5s. This effect can stack once every 0.2s, max 3 stacks.",
+        "CHS": "攻击力提升28%。\n此外，装备者的重击每次命中敌人后，都会短暂达成「超越」：使装备者的星超导和星扩散反应伤害提升16%，持续5秒。该效果至多叠加3层，每0.2秒至多叠加一层。",
+        "CHT": "攻擊力提升28%。\n此外，裝備者的重擊每次命中敵人後，都會短暫達成「超越」：使裝備者的星超導和星擴散反應傷害提升16%，持續5秒。該效果至多疊加3層，每0.2秒至多疊加一層。",
+        "DE": "#Erhöht den ANG um 28 %.\nDer Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um 16 %. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
+        "ES": "#El ATQ aumenta en un 28%.\nAdemás, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un 16% su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
+        "FR": "Augmente l'ATQ du personnage équipé de l'arme de 28 %.\nDe plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de 16 % pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
+        "ID": "ATK +28%.\nSetiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +16% selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
+        "IT": "#L'ATT aumenta di un 28%.\nInoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazioni di Astroconduzione e Turbinio astrale di un 16% per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
+        "JP": "攻撃力+28%。\nさらに、装備者の重撃が敵に命中するたびに一時的に「超越」状態となり、装備者の星電導と星拡散反応ダメージ+16%、継続時間5秒。この効果は最大3層まで、0.2秒ごとに最大1層まで重ね掛け可能。",
+        "KR": "공격력이 28% 증가한다.\n또한, 장착 캐릭터의 강공격이 적에게 명중할 때마다 짧은 시간 동안 「초월」을 달성한다: 장착 캐릭터의 별 초전도와 별 확산 반응 피해가 16% 증가한다, 지속 시간: 5초. 해당 효과는 0.2초마다 최대 1스택 중첩된다, 최대 중첩수: 3스택",
+        "PT": "Aumenta o ATQ em 28%.\nAlém disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em 16% por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
+        "RU": "Увеличивает силу атаки на 28%.\nТакже каждый раз после того, как заряженная атака экипированного персонажа поражает противника, персонаж на короткое время получает Превосходство: урон его реакций Звёздный проводник и Звёздное рассеивание повышается на 16% на 5 сек. Эффект складывается до 3 раз не чаще одного раза в 0,2 сек.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 28%;\nนอกจากนี้ ทุกครั้งที่การชาร์จโจมตีของผู้สวมใส่โดนศัตรู จะได้รับ \"Transcendence\" ชั่วคราว: เพิ่มความเสียหายจากปฏิกิริยานำไฟฟ้าดาราและกระจายดาราของผู้สวมใส่ 16% เป็นเวลา 5 วินาที เอฟเฟกต์นี้ซ้อนทับได้ไม่เกิน 1 ชั้นทุก 0.2 วินาที และซ้อนทับได้สูงสุด 3 ชั้น",
+        "TR": "Saldırı %28 artar.\nAyrıca kuşanan karakter Yüklü Saldırı ile bir düşmana her vurduğunda kısa süreliğine \"Aşkınlık\" kazanır: 5 saniyeliğine Yıldız İletimi ve Yıldız Girdabı Tepkimesi Hasarı %16 artar. Bu etki her 0,2 saniyede bir kademe, toplamda en fazla 3 kademe birikebilir.",
+        "VI": "Tấn Công tăng 28%.\nNgoài ra, sau mỗi lần Trọng Kích của người trang bị đánh trúng kẻ địch, đều sẽ đạt được hiệu quả \"Siêu Việt\" trong giây lát: Người trang bị tăng 16% sát thương phản ứng Tinh-Siêu Dẫn và Tinh-Khuếch Tán, duy trì 5s. Hiệu quả này tối đa cộng dồn 3 tầng, mỗi 0.2s tối đa cộng dồn một tầng."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "ATK is increased by 35%.\nAdditionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by 20% for 5s. This effect can stack once every 0.2s, max 3 stacks.",
+        "CHS": "攻击力提升35%。\n此外，装备者的重击每次命中敌人后，都会短暂达成「超越」：使装备者的星超导和星扩散反应伤害提升20%，持续5秒。该效果至多叠加3层，每0.2秒至多叠加一层。",
+        "CHT": "攻擊力提升35%。\n此外，裝備者的重擊每次命中敵人後，都會短暫達成「超越」：使裝備者的星超導和星擴散反應傷害提升20%，持續5秒。該效果至多疊加3層，每0.2秒至多疊加一層。",
+        "DE": "#Erhöht den ANG um 35 %.\nDer Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um 20 %. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
+        "ES": "#El ATQ aumenta en un 35%.\nAdemás, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un 20% su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
+        "FR": "Augmente l'ATQ du personnage équipé de l'arme de 35 %.\nDe plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de 20 % pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
+        "ID": "ATK +35%.\nSetiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +20% selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
+        "IT": "#L'ATT aumenta di un 35%.\nInoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un 20% per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
+        "JP": "攻撃力+35%。\nさらに、装備者の重撃が敵に命中するたびに一時的に「超越」状態となり、装備者の星電導と星拡散反応ダメージ+20%、継続時間5秒。この効果は最大3層まで、0.2秒ごとに最大1層まで重ね掛け可能。",
+        "KR": "공격력이 35% 증가한다.\n또한, 장착 캐릭터의 강공격이 적에게 명중할 때마다 짧은 시간 동안 「초월」을 달성한다: 장착 캐릭터의 별 초전도와 별 확산 반응 피해가 20% 증가한다, 지속 시간: 5초. 해당 효과는 0.2초마다 최대 1스택 중첩된다, 최대 중첩수: 3스택",
+        "PT": "Aumenta o ATQ em 35%.\nAlém disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em 20% por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
+        "RU": "Увеличивает силу атаки на 35%.\nТакже каждый раз после того, как заряженная атака экипированного персонажа поражает противника, персонаж на короткое время получает Превосходство: урон его реакций Звёздный проводник и Звёздное рассеивание повышается на 20% на 5 сек. Эффект складывается до 3 раз не чаще одного раза в 0,2 сек.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 35%;\nนอกจากนี้ ทุกครั้งที่การชาร์จโจมตีของผู้สวมใส่โดนศัตรู จะได้รับ \"Transcendence\" ชั่วคราว: เพิ่มความเสียหายจากปฏิกิริยานำไฟฟ้าดาราและกระจายดาราของผู้สวมใส่ 20% เป็นเวลา 5 วินาที เอฟเฟกต์นี้ซ้อนทับได้ไม่เกิน 1 ชั้นทุก 0.2 วินาที และซ้อนทับได้สูงสุด 3 ชั้น",
+        "TR": "Saldırı %35 artar.\nAyrıca kuşanan karakter Yüklü Saldırı ile bir düşmana her vurduğunda kısa süreliğine \"Aşkınlık\" kazanır: 5 saniyeliğine Yıldız İletimi ve Yıldız Girdabı Tepkimesi Hasarı %20 artar. Bu etki her 0,2 saniyede bir kademe, toplamda en fazla 3 kademe birikebilir.",
+        "VI": "Tấn Công tăng 35%.\nNgoài ra, sau mỗi lần Trọng Kích của người trang bị đánh trúng kẻ địch, đều sẽ đạt được hiệu quả \"Siêu Việt\" trong giây lát: Người trang bị tăng 20% sát thương phản ứng Tinh-Siêu Dẫn và Tinh-Khuếch Tán, duy trì 5s. Hiệu quả này tối đa cộng dồn 3 tầng, mỗi 0.2s tối đa cộng dồn một tầng."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "ATK is increased by 42%.\nAdditionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by 24% for 5s. This effect can stack once every 0.2s, max 3 stacks.",
+        "CHS": "攻击力提升42%。\n此外，装备者的重击每次命中敌人后，都会短暂达成「超越」：使装备者的星超导和星扩散反应伤害提升24%，持续5秒。该效果至多叠加3层，每0.2秒至多叠加一层。",
+        "CHT": "攻擊力提升42%。\n此外，裝備者的重擊每次命中敵人後，都會短暫達成「超越」：使裝備者的星超導和星擴散反應傷害提升24%，持續5秒。該效果至多疊加3層，每0.2秒至多疊加一層。",
+        "DE": "#Erhöht den ANG um 42 %.\nDer Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um 24 %. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
+        "ES": "#El ATQ aumenta en un 42%.\nAdemás, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un 24% su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
+        "FR": "Augmente l'ATQ du personnage équipé de l'arme de 42 %.\nDe plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de 24 % pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
+        "ID": "ATK +42%.\nSetiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +24% selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
+        "IT": "#L'ATT aumenta di un 42%.\nInoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un 24% per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
+        "JP": "攻撃力+42%。\nさらに、装備者の重撃が敵に命中するたびに一時的に「超越」状態となり、装備者の星電導と星拡散反応ダメージ+24%、継続時間5秒。この効果は最大3層まで、0.2秒ごとに最大1層まで重ね掛け可能。",
+        "KR": "공격력이 42% 증가한다.\n또한, 장착 캐릭터의 강공격이 적에게 명중할 때마다 짧은 시간 동안 「초월」을 달성한다: 장착 캐릭터의 별 초전도와 별 확산 반응 피해가 24% 증가한다, 지속 시간: 5초. 해당 효과는 0.2초마다 최대 1스택 중첩된다, 최대 중첩수: 3스택",
+        "PT": "Aumenta o ATQ em 42%.\nAlém disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em 24% por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
+        "RU": "Увеличивает силу атаки на 42%.\nТакже каждый раз после того, как заряженная атака экипированного персонажа поражает противника, он на короткое время получает Превосходство: урон его реакций Звёздный проводник и Звёздное рассеивание повышается на 24% на 5 сек. Эффект складывается до 3 раз не чаще одного раза в 0,2 сек.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 42%;\nนอกจากนี้ ทุกครั้งที่การชาร์จโจมตีของผู้สวมใส่โดนศัตรู จะได้รับ \"Transcendence\" ชั่วคราว: เพิ่มความเสียหายจากปฏิกิริยานำไฟฟ้าดาราและกระจายดาราของผู้สวมใส่ 24% เป็นเวลา 5 วินาที เอฟเฟกต์นี้ซ้อนทับได้ไม่เกิน 1 ชั้นทุก 0.2 วินาที และซ้อนทับได้สูงสุด 3 ชั้น",
+        "TR": "Saldırı %42 artar.\nAyrıca kuşanan karakter Yüklü Saldırı ile bir düşmana her vurduğunda kısa süreliğine \"Aşkınlık\" kazanır: 5 saniyeliğine Yıldız İletimi ve Yıldız Girdabı Tepkimesi Hasarı %24 artar. Bu etki her 0,2 saniyede bir kademe, toplamda en fazla 3 kademe birikebilir.",
+        "VI": "Tấn Công tăng 42%.\nNgoài ra, sau mỗi lần Trọng Kích của người trang bị đánh trúng kẻ địch, đều sẽ đạt được hiệu quả \"Siêu Việt\" trong giây lát: Người trang bị tăng 24% sát thương phản ứng Tinh-Siêu Dẫn và Tinh-Khuếch Tán, duy trì 5s. Hiệu quả này tối đa cộng dồn 3 tầng, mỗi 0.2s tối đa cộng dồn một tầng."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "ATK is increased by 49%.\nAdditionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by 28% for 5s. This effect can stack once every 0.2s, max 3 stacks.",
+        "CHS": "攻击力提升49%。\n此外，装备者的重击每次命中敌人后，都会短暂达成「超越」：使装备者的星超导和星扩散反应伤害提升28%，持续5秒。该效果至多叠加3层，每0.2秒至多叠加一层。",
+        "CHT": "攻擊力提升49%。\n此外，裝備者的重擊每次命中敵人後，都會短暫達成「超越」：使裝備者的星超導和星擴散反應傷害提升28%，持續5秒。該效果至多疊加3層，每0.2秒至多疊加一層。",
+        "DE": "#Erhöht den ANG um 49 %.\nDer Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um 28 %. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
+        "ES": "#El ATQ aumenta en un 49%.\nAdemás, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un 28% su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
+        "FR": "Augmente l'ATQ du personnage équipé de l'arme de 49 %.\nDe plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de 28 % pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
+        "ID": "ATK +49%.\nSetiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +28% selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
+        "IT": "#L'ATT aumenta di un 49%.\nInoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un 28% per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
+        "JP": "攻撃力+49%。\nさらに、装備者の重撃が敵に命中するたびに一時的に「超越」状態となり、装備者の星電導と星拡散反応ダメージ+28%、継続時間5秒。この効果は最大3層まで、0.2秒ごとに最大1層まで重ね掛け可能。",
+        "KR": "공격력이 49% 증가한다.\n또한, 장착 캐릭터의 강공격이 적에게 명중할 때마다 짧은 시간 동안 「초월」을 달성한다: 장착 캐릭터의 별 초전도와 별 확산 반응 피해가 28% 증가한다, 지속 시간: 5초. 해당 효과는 0.2초마다 최대 1스택 중첩된다, 최대 중첩수: 3스택",
+        "PT": "Aumenta o ATQ em 49%.\nAlém disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em 28% por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
+        "RU": "Увеличивает силу атаки на 49%.\nТакже каждый раз после того, как заряженная атака экипированного персонажа поражает противника, он на короткое время получает Превосходство: урон его реакций Звёздный проводник и Звёздное рассеивание повышается на 28% на 5 сек. Эффект складывается до 3 раз не чаще одного раза в 0,2 сек.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 49%;\nนอกจากนี้ ทุกครั้งที่การชาร์จโจมตีของผู้สวมใส่โดนศัตรู จะได้รับ \"Transcendence\" ชั่วคราว: เพิ่มความเสียหายจากปฏิกิริยานำไฟฟ้าดาราและกระจายดาราของผู้สวมใส่ 28% เป็นเวลา 5 วินาที เอฟเฟกต์นี้ซ้อนทับได้ไม่เกิน 1 ชั้นทุก 0.2 วินาที และซ้อนทับได้สูงสุด 3 ชั้น",
+        "TR": "Saldırı %49 artar.\nAyrıca kuşanan karakter Yüklü Saldırı ile bir düşmana her vurduğunda kısa süreliğine \"Aşkınlık\" kazanır: 5 saniyeliğine Yıldız İletimi ve Yıldız Girdabı Tepkimesi Hasarı %28 artar. Bu etki her 0,2 saniyede bir kademe, toplamda en fazla 3 kademe birikebilir.",
+        "VI": "Tấn Công tăng 49%.\nNgoài ra, sau mỗi lần Trọng Kích của người trang bị đánh trúng kẻ địch, đều sẽ đạt được hiệu quả \"Siêu Việt\" trong giây lát: Người trang bị tăng 28% sát thương phản ứng Tinh-Siêu Dẫn và Tinh-Khuếch Tán, duy trì 5s. Hiệu quả này tối đa cộng dồn 3 tầng, mỗi 0.2s tối đa cộng dồn một tầng."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "ATK is increased by 56%.\nAdditionally, each time the equipping character hits an opponent with their Charged Attack, they attain \"Transcendence\" for a short time: their Stellar-Conduct and Stellar Swirl reaction DMG is increased by 32% for 5s. This effect can stack once every 0.2s, max 3 stacks.",
+        "CHS": "攻击力提升56%。\n此外，装备者的重击每次命中敌人后，都会短暂达成「超越」：使装备者的星超导和星扩散反应伤害提升32%，持续5秒。该效果至多叠加3层，每0.2秒至多叠加一层。",
+        "CHT": "攻擊力提升56%。\n此外，裝備者的重擊每次命中敵人後，都會短暫達成「超越」：使裝備者的星超導和星擴散反應傷害提升32%，持續5秒。該效果至多疊加3層，每0.2秒至多疊加一層。",
+        "DE": "#Erhöht den ANG um 56 %.\nDer Träger erreicht jedes Mal, wenn er mit seinem heftigen Schlag Gegner trifft, kurzzeitig „Übertreffen“: Erhöht den durch die Reaktionen Stellar-Supraleiter und Stellar-Verwirbelung verursachten Schaden des Trägers 5 s lang um 32 %. Dieser Effekt ist 3-fach stapelbar, max. 1-fach alle 0,2 s.",
+        "ES": "#El ATQ aumenta en un 56%.\nAdemás, cada vez que el portador de esta arma golpee a un enemigo con un Ataque Cargado, obtendrá brevemente el efecto de “trascendencia”, el cual aumenta en un 32% su daño de Superconductor Estelar y Torbellino Estelar durante 5 s. Este efecto puede acumularse hasta 3 veces y solo se puede obtener 1 carga cada 0.2 s.",
+        "FR": "Augmente l'ATQ du personnage équipé de l'arme de 56 %.\nDe plus, chaque fois que le personnage équipé de l'arme a touché un ennemi avec une attaque chargée, il obtient une transcendance temporaire : augmente ses DGT de réaction d'Astroconduction et de réaction d'Astrodispersion de 32 % pendant 5 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,2 s.",
+        "ID": "ATK +56%.\nSetiap kali Charged Attack Karakter yang mengenakan mengenai musuh, Karakter akan mencapai efek \"Transcendence\" singkat: DMG reaksi Stellar-Conduct dan Stellar Swirl Karakter yang mengenakan +32% selama 5 detik. Efek ini dapat ditumpuk sampai 3 lapis, maksimum ditumpuk sekali setiap 0,2 detik.",
+        "IT": "#L'ATT aumenta di un 56%.\nInoltre, ogni volta che il personaggio che equipaggia l'arma colpisce un avversario con il suo attacco caricato, ottiene per un breve periodo l'effetto Trascendenza, che aumenta i suoi DAN da reazione di Astroconduzione e Turbinio astrale di un 32% per 5 s. L'effetto può accumularsi una volta ogni 0,2 s, per un massimo di 3 accumuli.",
+        "JP": "攻撃力+56%。\nさらに、装備者の重撃が敵に命中するたびに一時的に「超越」状態となり、装備者の星電導と星拡散反応ダメージ+32%、継続時間5秒。この効果は最大3層まで、0.2秒ごとに最大1層まで重ね掛け可能。",
+        "KR": "공격력이 56% 증가한다.\n또한, 장착 캐릭터의 강공격이 적에게 명중할 때마다 짧은 시간 동안 「초월」을 달성한다: 장착 캐릭터의 별 초전도와 별 확산 반응 피해가 32% 증가한다, 지속 시간: 5초. 해당 효과는 0.2초마다 최대 1스택 중첩된다, 최대 중첩수: 3스택",
+        "PT": "Aumenta o ATQ em 56%.\nAlém disso, toda vez que o Ataque Carregado do portador atingir o inimigo, alcançará temporariamente Transcendência: aumenta o Dano de Supercondutor Estelar e Redemoinho Estelar causado pelo portador em 32% por 5s. Esse efeito pode ser acumulado até 3 vezes, e pode ser acumulado uma vez a cada 0.2s.",
+        "RU": "Увеличивает силу атаки на 56%.\nТакже каждый раз после того, как заряженная атака экипированного персонажа поражает противника, персонаж на короткое время получает Превосходство: урон его реакций Звёздный проводник и Звёздное рассеивание повышается на 32% на 5 сек. Эффект складывается до 3 раз не чаще одного раза в 0,2 сек.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 56%;\nนอกจากนี้ ทุกครั้งที่การชาร์จโจมตีของผู้สวมใส่โดนศัตรู จะได้รับ \"Transcendence\" ชั่วคราว: เพิ่มความเสียหายจากปฏิกิริยานำไฟฟ้าดาราและกระจายดาราของผู้สวมใส่ 32% เป็นเวลา 5 วินาที เอฟเฟกต์นี้ซ้อนทับได้ไม่เกิน 1 ชั้นทุก 0.2 วินาที และซ้อนทับได้สูงสุด 3 ชั้น",
+        "TR": "Saldırı %56 artar.\nAyrıca kuşanan karakter Yüklü Saldırı ile bir düşmana her vurduğunda kısa süreliğine \"Aşkınlık\" kazanır: 5 saniyeliğine Yıldız İletimi ve Yıldız Girdabı Tepkimesi Hasarı %32 artar. Bu etki her 0,2 saniyede bir kademe, toplamda en fazla 3 kademe birikebilir.",
+        "VI": "Tấn Công tăng 56%.\nNgoài ra, sau mỗi lần Trọng Kích của người trang bị đánh trúng kẻ địch, đều sẽ đạt được hiệu quả \"Siêu Việt\" trong giây lát: Người trang bị tăng 32% sát thương phản ứng Tinh-Siêu Dẫn và Tinh-Khuếch Tán, duy trì 5s. Hiệu quả này tối đa cộng dồn 3 tầng, mỗi 0.2s tối đa cộng dồn một tầng."
+      }
+    }
+  ]
+}

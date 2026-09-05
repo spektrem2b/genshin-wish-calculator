@@ -1,0 +1,52 @@
+{
+  "id": 11302,
+  "name": {
+    "EN": "Harbinger of Dawn",
+    "CHS": "黎明神剑",
+    "CHT": "黎明神劍",
+    "DE": "Schwert der Dämmerung",
+    "ES": "Espada del Alba",
+    "FR": "Messager de l'Aube",
+    "ID": "Harbinger of Dawn",
+    "IT": "Messaggera dell'alba",
+    "JP": "黎明の神剣",
+    "KR": "여명신검",
+    "PT": "Prenúncio do Alvorecer",
+    "RU": "Предвестник зари",
+    "TH": "Harbinger of Dawn",
+    "TR": "Şafak Habercisi",
+    "VI": "Thần Kiếm Lê Minh"
+  },
+  "nameEn": "Harbinger of Dawn",
+  "type": "Kiếm Đơn",
+  "rarity": 3,
+  "description": {
+    "EN": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+    "CHS": "一把曾经耀若朝阳的宝剑，掌握它的人会获得「自我感觉良好」的力量加持。剑身上的发光材料已经褪去。",
+    "CHT": "一把曾經耀若朝陽的寶劍，掌握它的人會獲得「自我感覺良好」的力量加持。劍身的發光材料已經褪去。",
+    "DE": "Ein wertvolles Schwert, das einst wie die Sonne glänzte. Hält man es in der Hand, fühlt man sich überaus selbstbewusst. Das leuchtende Material hat sich mit der Zeit abgenutzt.",
+    "ES": "Una espada que solía brillar como el sol. Su portador será bendecido con una sensación de poder y bienestar. El material reflectante de su hoja se desgastó hace mucho tiempo.",
+    "FR": "La lame de cette épée luisait jadis comme le soleil, mais ce n'est plus le cas aujourd'hui. Celui qui manie cette arme se sent au sommet de sa forme.",
+    "ID": "Pedang yang sebelumnya bersinar seterang matahari. Memberikan buff dan efek \"Feel-good\". Bahan yang memantulkan cahaya telah pudar dari permukaannya.",
+    "IT": "In passato, questa spada splendeva come il sole. Chi la brandisce sarà benedetto da un effetto positivo di benessere. Il materiale riflettente della lama si è consumato da tempo.",
+    "JP": "かつて朝日のように輝いていた宝剣。手にした人は「自己悦楽」の力を身に宿す。剣身にあった発光素材は既に失われている。",
+    "KR": "오래전 아침 햇살처럼 빛나던 보검. 이 검을 가진 자는 근거 없는 자신감에 가득 차게 된다. 검신의 빛나던 발광 재료는 이미 사라졌다",
+    "PT": "Uma espada que, uma vez, brilhou como o sol. O portador desta espada será abençoado com um bônus de \"boa sensação\". O material refletivo em sua lâmina já se desgastou há muito tempo.",
+    "RU": "Меч, некогда испускавший солнечный свет. Владелец этого меча получит благословение «Хорошего Самочувствия». Отражающая поверхность меча давно стёрлась.",
+    "TH": "ดาบที่ครั้งหนึ่งเคยส่องประกายดั่งแสงตะวัน ผู้กวัดแกว่งดาบเล่มนี้จะได้รับพรและบัฟ \"ความรู้สึกดี\" วัสดุที่สะท้อนแสงอยู่บนใบดาบนั้น ได้หมดแสงของมันไปนานแล้ว",
+    "TR": "Bir zamanlar güneş gibi parlamış bir kılıç. Bu kılıcı eline alan kişi kendini yenilmez hisseder. Kılıcın parlak kaplaması zaman içinde aşınmıştır.",
+    "VI": "Một thanh bảo kiếm sáng ngời, người nắm giữ nó sẽ có được sức mạnh \"Tự mình cảm thấy ưu tú\". Nhưng thanh kiếm đã có đôi chút xuống sắc."
+  },
+  "icon": "generated/weapon-profiles/11302/avatar.webp",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.102,
+  "substat_lvl90": 0.4686,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

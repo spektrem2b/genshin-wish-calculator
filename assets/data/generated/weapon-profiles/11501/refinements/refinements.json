@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Falcon's Defiance",
+    "CHS": "西风之鹰的抗争",
+    "CHT": "西風之鷹的抗爭",
+    "DE": "Widerstand des Falken des Westens",
+    "ES": "Resistencia del Halcón del Oeste",
+    "FR": "Résistance du Faucon de l'Ouest",
+    "ID": "Falcon's Defiance",
+    "IT": "Resistenza del Falco d'Occidente",
+    "JP": "西風の鷹の抗い",
+    "KR": "서풍 매의 투쟁",
+    "PT": "Resistência do Falcão do Oeste",
+    "RU": "Неповиновение Сокола",
+    "TH": "Falcon's Defiance",
+    "TR": "Şahin Başkaldırısı",
+    "VI": "Kháng Chiến Của Chim Ưng Tây Phong"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "ATK is increased by 20%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 100% of ATK and dealing 200% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+        "CHS": "攻击力提高20%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的100%的生命值，并对周围的敌人造成200%攻击力的伤害。该效果每15秒只能触发一次。",
+        "CHT": "攻擊力提高20%；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的100%的生命值，並對周圍的敵人造成200%攻擊力的傷害。該效果每15秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 20 %. Effekt beim Erleiden von Schaden: Die Seele des Falken des Westens erwacht und erhebt die Fahne des Widerstands. Stellt LP in Höhe von 100 % ANG wieder her und fügt Gegnern in der Umgebung Schaden in Höhe von 200 % ANG zu. 15 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 20%. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al 100% del ATQ, y hace daño equivalente al 200% del ATQ a los enemigos cercanos. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "#Augmente l'ATQ de 20 %. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure 100 % de l'ATQ sous forme de PV, et inflige des DGT équivalant à 200 % de l'ATQ aux ennemis proches. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 20% ATK. Terpicu saat menerima DMG: Jiwa Falcon of the West bangkit dan menegakkan bendera pertahanan. Memulihkan HP sebesar 100% ATK dan mengakibatkan DMG sebesar 200% ATK pada musuh di sekitar. Dapat terpicu setiap 15 detik.",
+        "IT": "#L'ATT aumenta di un 20%. Quando il giocatore subisce DAN, l'anima del Falco d'Occidente si risveglia brandendo il vessillo della resistenza, rigenerando PS pari a un 100% dell'ATT e infliggendo DAN per un 200% dell'ATT agli avversari circostanti. Si può verificare una sola volta ogni 15 s.",
+        "JP": "攻撃力+20%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の100%分のHPを回復し、周りの敵に攻撃力の200%のダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "공격력이 20% 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이 든 서풍 매의 영혼이 깨어나 공격력 100%만큼의 HP를 회복하고 주변의 적에게 공격력 200%의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "O ATQ aumenta em 20%; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a 100% do ATQ e causando 200% do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+        "RU": "Увеличивает силу атаки на 20%. При получении урона пробуждается душа Сокола Запада, несущего знамя сопротивления. Восстанавливает HP, равное 100% от силы атаки, и наносит 200% урона окружающим врагам. Может возникнуть раз в 15 сек.",
+        "TH": "เพิ่มพลังโจมตี 20%; ปลดปล่อยเมื่อ ได้รับความเสียหาย: จิตวิญญาณของวิหคตะวันตกที่ ชูธงแห่งการต่อต้านจะตื่นขึ้น และฟื้นฟูพลังชีวิตเท่ากับ 100% ของพลังโจมตี และสร้างความเสียหายเป็น 200% ของพลังโจมตี แก่ศัตรูโดยรอบ โดยเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Saldırı %20 artar. Hasar alındığında tetiklenir: Batı'nın Şahini ruhu uyanır, direniş bayrağını dalgalandırır, %100 Saldırı kadar Can yeniler ve çevresindeki düşmanlara %200 Saldırı kadar Hasar verir. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 20%, kích hoạt khi chịu sát thương: Linh hồn Tây Phong Ưng thức tỉnh dưới cờ hiệu kháng chiến, hồi HP bằng 100% tấn công và gây cho địch xung quanh sát thương bằng 200% lực tấn công. Mỗi 15s kích hoạt 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "ATK is increased by 25%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 115% of ATK and dealing 230% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+        "CHS": "攻击力提高25%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的115%的生命值，并对周围的敌人造成230%攻击力的伤害。该效果每15秒只能触发一次。",
+        "CHT": "攻擊力提高25%；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的115%的生命值，並對周圍的敵人造成230%攻擊力的傷害。該效果每15秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 25 %. Effekt beim Erleiden von Schaden: Die Seele des Falken des Westens erwacht und erhebt die Fahne des Widerstands. Stellt LP in Höhe von 115 % ANG wieder her und fügt Gegnern in der Umgebung Schaden in Höhe von 230 % ANG zu. 15 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 25%. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al 115% del ATQ, y hace daño equivalente al 230% del ATQ a los enemigos cercanos. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "#Augmente l'ATQ de 25 %. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure 115 % de l'ATQ sous forme de PV, et inflige des DGT équivalant à 230 % de l'ATQ aux ennemis proches. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 25% ATK. Terpicu saat menerima DMG: Jiwa Falcon of the West bangkit dan menegakkan bendera pertahanan. Memulihkan HP sebesar 115% ATK dan mengakibatkan DMG sebesar 230% ATK pada musuh di sekitar. Dapat terpicu setiap 15 detik.",
+        "IT": "#L'ATT aumenta di un 25%. Quando il giocatore subisce DAN, l'anima del Falco d'Occidente si risveglia brandendo il vessillo della resistenza, rigenerando PS pari a un 115% dell'ATT e infliggendo DAN per un 230% dell'ATT agli avversari circostanti. Si può verificare una sola volta ogni 15 s.",
+        "JP": "攻撃力+25%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の115%分のHPを回復し、周りの敵に攻撃力の230%のダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "공격력이 25% 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이 든 서풍 매의 영혼이 깨어나 공격력 115%만큼의 HP를 회복하고 주변의 적에게 공격력 230%의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "O ATQ aumenta em 25%; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a 115% do ATQ e causando 230% do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+        "RU": "Увеличивает силу атаки на 25%. При получении урона пробуждается душа Сокола Запада, несущего знамя сопротивления. Восстанавливает HP, равное 115% от силы атаки, и наносит 230% урона окружающим врагам. Может возникнуть раз в 15 сек.",
+        "TH": "เพิ่มพลังโจมตี 25%; ปลดปล่อยเมื่อ ได้รับความเสียหาย: จิตวิญญาณของ วิหคตะวันตกที่ชูธงแห่งการต่อต้านได้ตื่นขึ้น และฟื้นฟูพลังชีวิตเท่ากับ 115% ของพลังโจมตี และสร้างความเสียหายเป็น 230% ของพลังโจมตี แก่ศัตรูโดยรอบ โดยเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Saldırı %25 artar. Hasar alındığında tetiklenir: Batı'nın Şahini ruhu uyanır, direniş bayrağını dalgalandırır, %115 Saldırı kadar Can yeniler ve çevresindeki düşmanlara %230 Saldırı kadar Hasar verir. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 25%, kích hoạt khi chịu sát thương: Linh hồn Tây Phong Ưng thức tỉnh dưới cờ hiệu kháng chiến, hồi HP bằng 115% tấn công và gây cho địch xung quanh sát thương bằng 230% lực tấn công. Mỗi 15s kích hoạt 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "ATK is increased by 30%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 130% of ATK and dealing 260% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+        "CHS": "攻击力提高30%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的130%的生命值，并对周围的敌人造成260%攻击力的伤害。该效果每15秒只能触发一次。",
+        "CHT": "攻擊力提高30%；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的130%的生命值，並對周圍的敵人造成260%攻擊力的傷害。該效果每15秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 30 %. Effekt beim Erleiden von Schaden: Die Seele des Falken des Westens erwacht und erhebt die Fahne des Widerstands. Stellt LP in Höhe von 130 % ANG wieder her und fügt Gegnern in der Umgebung Schaden in Höhe von 260 % ANG zu. 15 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 30%. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al 130% del ATQ, y hace daño equivalente al 260% del ATQ a los enemigos cercanos. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "#Augmente l'ATQ de 30 %. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure 130 % de l'ATQ sous forme de PV, et inflige des DGT équivalant à 260 % de l'ATQ aux ennemis proches. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 30% ATK. Terpicu saat menerima DMG: Jiwa Falcon of the West bangkit dan menegakkan bendera pertahanan. Memulihkan HP sebesar 130% ATK dan mengakibatkan DMG sebesar 260% ATK pada musuh di sekitar. Dapat terpicu setiap 15 detik.",
+        "IT": "#L'ATT aumenta di un 30%. Quando il giocatore subisce DAN, l'anima del Falco d'Occidente si risveglia brandendo il vessillo della resistenza, rigenerando PS pari a un 130% dell'ATT e infliggendo DAN per un 260% dell'ATT agli avversari circostanti. Si può verificare una sola volta ogni 15 s.",
+        "JP": "攻撃力+30%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の130%分のHPを回復し、周りの敵に攻撃力の260%のダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "공격력이 30% 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이 든 서풍 매의 영혼이 깨어나 공격력 130%만큼의 HP를 회복하고 주변의 적에게 공격력 260%의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "O ATQ aumenta em 30%; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a 130% do ATQ e causando 260% do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+        "RU": "Увеличивает силу атаки на 30%. При получении урона пробуждается душа Сокола Запада, несущего знамя сопротивления. Восстанавливает HP, равное 130% от силы атаки, и наносит 260% урона окружающим врагам. Может возникнуть раз в 15 сек.",
+        "TH": "เพิ่มพลังโจมตี 30%; ปลดปล่อยเมื่อ ได้รับความเสียหาย: จิตวิญญาณของวิหคตะวันตกที่ ชูธงแห่งการต่อต้านจะตื่นขึ้น และฟื้นฟูพลังชีวิตเท่ากับ 130% ของพลังโจมตี และสร้างความเสียหายเป็น 260% ของพลังโจมตี แก่ศัตรูโดยรอบ โดยเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Saldırı %30 artar. Hasar alındığında tetiklenir: Batı'nın Şahini ruhu uyanır, direniş bayrağını dalgalandırır, %130 Saldırı kadar Can yeniler ve çevresindeki düşmanlara %260 Saldırı kadar Hasar verir. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 30%, kích hoạt khi chịu sát thương: Linh hồn Tây Phong Ưng thức tỉnh dưới cờ hiệu kháng chiến, hồi HP bằng 130% tấn công và gây cho địch xung quanh sát thương bằng 260% lực tấn công. Mỗi 15s kích hoạt 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "ATK is increased by 35%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 145% of ATK and dealing 290% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+        "CHS": "攻击力提高35%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的145%的生命值，并对周围的敌人造成290%攻击力的伤害。该效果每15秒只能触发一次。",
+        "CHT": "攻擊力提高35%；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的145%的生命值，並對周圍的敵人造成290%攻擊力的傷害。該效果每15秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 35 %. Effekt beim Erleiden von Schaden: Die Seele des Falken des Westens erwacht und erhebt die Fahne des Widerstands. Stellt LP in Höhe von 145 % ANG wieder her und fügt Gegnern in der Umgebung Schaden in Höhe von 290 % ANG zu. 15 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 35%. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al 145% del ATQ, y hace daño equivalente al 290% del ATQ a los enemigos cercanos. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "#Augmente l'ATQ de 35 %. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure 145 % de l'ATQ sous forme de PV, et inflige des DGT équivalant à 290 % de l'ATQ aux ennemis proches. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 35% ATK. Terpicu saat menerima DMG: Jiwa Falcon of the West bangkit dan menegakkan bendera pertahanan. Memulihkan HP sebesar 145% ATK dan mengakibatkan DMG sebesar 290% ATK pada musuh di sekitar. Dapat terpicu setiap 15 detik.",
+        "IT": "#L'ATT aumenta di un 35%. Quando il giocatore subisce DAN, l'anima del Falco d'Occidente si risveglia brandendo il vessillo della resistenza, rigenerando PS pari a un 145% dell'ATT e infliggendo DAN per un 290% dell'ATT agli avversari circostanti. Si può verificare una sola volta ogni 15 s.",
+        "JP": "攻撃力+35%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の145%分のHPを回復し、周りの敵に攻撃力の290%のダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "공격력이 35% 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이 든 서풍 매의 영혼이 깨어나 공격력 145%만큼의 HP를 회복하고 주변의 적에게 공격력 290%의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "O ATQ aumenta em 35%; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a 145% do ATQ e causando 290% do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+        "RU": "Увеличивает силу атаки на 35%. При получении урона пробуждается душа Сокола Запада, несущего знамя сопротивления. Восстанавливает HP, равное 145% от силы атаки, и наносит 290% урона окружающим врагам. Может возникнуть раз в 15 сек.",
+        "TH": "เพิ่มพลังโจมตี 35%; ปลดปล่อยเมื่อ ได้รับความเสียหาย: จิตวิญญาณของวิหคตะวันตกที่ ชูธงแห่งการต่อต้านจะตื่นขึ้น และฟื้นฟูพลังชีวิตเท่ากับ 145% ของพลังโจมตี และสร้างความเสียหายเป็น 290% ของพลังโจมตี แก่ศัตรูโดยรอบ โดยเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Saldırı %35 artar. Hasar alındığında tetiklenir: Batı'nın Şahini ruhu uyanır, direniş bayrağını dalgalandırır, %145 Saldırı kadar Can yeniler ve çevresindeki düşmanlara %290 Saldırı kadar Hasar verir. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 35%, kích hoạt khi chịu sát thương: Linh hồn Tây Phong Ưng thức tỉnh dưới cờ hiệu kháng chiến, hồi HP bằng 145% tấn công và gây cho địch xung quanh sát thương bằng 290% lực tấn công. Mỗi 15s kích hoạt 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "ATK is increased by 40%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to 160% of ATK and dealing 320% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+        "CHS": "攻击力提高40%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的160%的生命值，并对周围的敌人造成320%攻击力的伤害。该效果每15秒只能触发一次。",
+        "CHT": "攻擊力提高40%；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的160%的生命值，並對周圍的敵人造成320%攻擊力的傷害。該效果每15秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 40 %. Effekt beim Erleiden von Schaden: Die Seele des Falken des Westens erwacht und erhebt die Fahne des Widerstands. Stellt LP in Höhe von 160 % ANG wieder her und fügt Gegnern in der Umgebung Schaden in Höhe von 320 % ANG zu. 15 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 40%. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al 160% del ATQ, y hace daño equivalente al 320% del ATQ a los enemigos cercanos. Este efecto puede ocurrir una vez cada 15 s.",
+        "FR": "#Augmente l'ATQ de 40 %. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure 160 % de l'ATQ sous forme de PV, et inflige des DGT équivalant à 320 % de l'ATQ aux ennemis proches. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 40% ATK. Terpicu saat menerima DMG: Jiwa Falcon of the West bangkit dan menegakkan bendera pertahanan. Memulihkan HP sebesar 160% ATK dan mengakibatkan DMG sebesar 320% ATK pada musuh di sekitar. Dapat terpicu setiap 15 detik.",
+        "IT": "#L'ATT aumenta di un 40%. Quando il giocatore subisce DAN, l'anima del Falco d'Occidente si risveglia brandendo il vessillo della resistenza, rigenerando PS pari a un 160% dell'ATT e infliggendo DAN per un 320% dell'ATT agli avversari circostanti. Si può verificare una sola volta ogni 15 s.",
+        "JP": "攻撃力+40%。ダメージを受けると発動：抗争の旗を高く掲げる西風の鷹の魂が蘇り、攻撃力の160%分のHPを回復し、周りの敵に攻撃力の320%のダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "공격력이 40% 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이 든 서풍 매의 영혼이 깨어나 공격력 160%만큼의 HP를 회복하고 주변의 적에게 공격력 320%의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "O ATQ aumenta em 40%; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a 160% do ATQ e causando 320% do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+        "RU": "Увеличивает силу атаки на 40%. При получении урона пробуждается душа Сокола Запада, несущего знамя сопротивления. Восстанавливает HP, равное 160% от силы атаки, и наносит 320% урона окружающим врагам. Может возникнуть раз в 15 сек.",
+        "TH": "เพิ่มพลังโจมตี 40%; ปลดปล่อยเมื่อ ได้รับความเสียหาย: จิตวิญญาณของวิหคตะวันตกที่ ชูธงแห่งการต่อต้านจะตื่นขึ้น และฟื้นฟูพลังชีวิตเท่ากับ 160% ของพลังโจมตี และสร้างความเสียหายเป็น 320% ของพลังโจมตี แก่ศัตรูโดยรอบ โดยเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Saldırı %40 artar. Hasar alındığında tetiklenir: Batı'nın Şahini ruhu uyanır, direniş bayrağını dalgalandırır, %160 Saldırı kadar Can yeniler ve çevresindeki düşmanlara %320 Saldırı kadar Hasar verir. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 40%, kích hoạt khi chịu sát thương: Linh hồn Tây Phong Ưng thức tỉnh dưới cờ hiệu kháng chiến, hồi HP bằng 160% tấn công và gây cho địch xung quanh sát thương bằng 320% lực tấn công. Mỗi 15s kích hoạt 1 lần."
+      }
+    }
+  ]
+}

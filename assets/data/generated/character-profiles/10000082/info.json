@@ -1,0 +1,137 @@
+{
+  "id": "10000082",
+  "name": {
+    "EN": "Baizhu",
+    "CHS": "白术",
+    "CHT": "白朮",
+    "DE": "Baizhu",
+    "ES": "Baizhu",
+    "FR": "Baizhu",
+    "ID": "Baizhu",
+    "IT": "Baizhu",
+    "JP": "白朮",
+    "KR": "백출",
+    "PT": "Baizhu",
+    "RU": "Бай Чжу",
+    "TH": "Baizhu",
+    "TR": "Baizhu",
+    "VI": "Baizhu"
+  },
+  "nameEn": "Baizhu",
+  "element": "Dendro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 4,
+    "day": 25
+  },
+  "release": "2023-05-02T15:00:00",
+  "icon": "generated/character-profiles/10000082/avatar.webp",
+  "fullWish": "generated/character-profiles/10000082/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Beyond Mortality",
+    "CHS": "遵生合和",
+    "CHT": "遵生合和",
+    "DE": "Jenseits der Sterblichkeit",
+    "ES": "El Transgresor de lo Mortal",
+    "FR": "Transcendant la mortalité",
+    "ID": "Beyond Mortality",
+    "IT": "Mortalità trascesa",
+    "JP": "遵生合和",
+    "KR": "양생의 도",
+    "PT": "Além da Mortalidade",
+    "RU": "Преодоление бренности",
+    "TH": "หลอมจิตรวมชีพ",
+    "TR": "Ölümsüzlüğün Ötesi",
+    "VI": "Sinh Tử Giao Hòa"
+  },
+  "description": {
+    "EN": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.",
+    "CHS": "药庐「不卜庐」的主人，随身悬着名为「长生」的白蛇。精于药石，深于城府。",
+    "CHT": "藥廬「不卜廬」的主人，隨身懸著名為「長生」的白蛇。精於藥石，深於城府。",
+    "DE": "Der Besitzer der „Bubu-Hütte“. Er trägt eine weiße Schlange namens Changsheng auf seiner Schulter. Ein äußerst geschickter Mediziner, der allerdings als Person schwer zu durchschauen ist.",
+    "ES": "El dueño de la Farmacia Bubu, siempre con una serpiente blanca llamada Changsheng colgándole del cuello. Gran conocedor de la medicina, sus auténticas intenciones son un verdadero misterio.",
+    "FR": "Le propriétaire du Cottage Bubu, un serpent blanc appelé Changsheng l'accompagnant. Médecin extrêmement compétent, ses véritables intentions restent cependant un mystère.",
+    "ID": "Pemilik Bubu Pharmacy. Dia sering membawa ular putih bernama Changsheng di pundaknya. Dia adalah seorang dokter yang terampil dan cerdas.",
+    "IT": "Il proprietario della Farmacia Bubu, accompagnato quasi sempre dalla serpentella bianca di nome Changsheng. È un'enciclopedia medica vivente, nonché dedito a velati intrighi personali.",
+    "JP": "薬舗「不卜廬」の店主。「長生」という名の白蛇を体に乗せている。薬に精通しており、いつも深く考えを巡らせているが、他人が彼の思考を読み取ることは難しい。",
+    "KR": "「불복려」의 주인. 「장생」이란 이름의 흰 뱀이 몸에 매달려있다. 약재에 정통하며, 속마음을 쉽게 알 수 없다",
+    "PT": "O dono do Chalé de Bubu, sempre com uma cobra branca chamada Changsheng pendurada no pescoço. Um grande conhecedor de medicina, suas verdadeiras intenções são um grande mistério.",
+    "RU": "Владелец хижины «Бубу» в Ли Юэ. На его плечах всегда возлежит белая змея по имени Чан Шэн. Искусный лекарь со своими скрытыми намерениями.",
+    "TH": "เจ้าของร้านยา \"Bubu Pharmacy\" มักจะมีงูเผือกที่ชื่อว่า \"Changsheng\" อยู่ข้างกายเสมอ เก่งเรื่องยาและการฝังเข็ม จิตใจลึกล้ำสุดหยั่งถึง",
+    "TR": "Bubu Eczanesinin sahibi. Genelde Changsheng adında beyaz bir yılanla beraber dolaşır. Tıp bilgisi engin, planları üstü kapalıdır.",
+    "VI": "Chủ Nhà Thuốc Bubu, trên người quấn theo bạch xà có tên là \"Changsheng\". Tinh thông y dược và cũng là một người rất kín tiếng."
+  },
+  "constellationName": {
+    "EN": "Lagenaria",
+    "CHS": "悬壶座",
+    "CHT": "懸壺座",
+    "DE": "Lagenaria",
+    "ES": "Lagenaria",
+    "FR": "Lagenaria",
+    "ID": "Lagenaria",
+    "IT": "Lagenaria",
+    "JP": "懸壺座",
+    "KR": "호리병자리",
+    "PT": "Lagenaria",
+    "RU": "Сосуд Лекаря",
+    "TH": "Lagenaria",
+    "TR": "Su Kabağı",
+    "VI": "Cung Huyền Hồ"
+  },
+  "native": {
+    "EN": "Bubu Pharmacy",
+    "CHS": "不卜庐",
+    "CHT": "不卜廬",
+    "DE": "Bubu-Hütte",
+    "ES": "Farmacia Bubu",
+    "FR": "Cottage Bubu",
+    "ID": "Bubu Pharmacy",
+    "IT": "Farmacia Bubu",
+    "JP": "不卜廬",
+    "KR": "불복려",
+    "PT": "Chalé de Bubu",
+    "RU": "Хижина «Бубу»",
+    "TH": "Bubu Pharmacy",
+    "TR": "Bubu Eczanesi",
+    "VI": "Nhà Thuốc Bubu"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Sean Durrie & Xanthe Huynh"
+    },
+    {
+      "lang": "CHS",
+      "va": "秦且歌 & 王晓彤"
+    },
+    {
+      "lang": "JP",
+      "va": "遊佐浩二 & 庄子裕衣"
+    },
+    {
+      "lang": "KR",
+      "va": "Yi Ho-san & Jang Mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.1188,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 14.9891,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 38.8895,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

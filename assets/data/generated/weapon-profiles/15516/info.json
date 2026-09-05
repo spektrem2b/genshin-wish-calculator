@@ -1,0 +1,52 @@
+{
+  "id": 15516,
+  "name": {
+    "EN": "Golden Frostbound Oath",
+    "CHS": "霜结的誓金枝",
+    "CHT": "霜結的誓金枝",
+    "DE": "Goldener Frostschwur",
+    "ES": "Rama del Juramento Escarchado",
+    "FR": "Serment de gel doré",
+    "ID": "Golden Frostbound Oath",
+    "IT": "Promessa del gelo dorato",
+    "JP": "霜契の金枝",
+    "KR": "서리 맺힌 금빛 가지",
+    "PT": "Ramo Dourado do Juramento Gelado",
+    "RU": "Золотая клятва льда",
+    "TH": "Golden Frostbound Oath",
+    "TR": "Altuni Buzul Yemin",
+    "VI": "Lời Thề Vàng Sương Giá"
+  },
+  "nameEn": "Golden Frostbound Oath",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "A longbow carved from ancient whitewood, once, in ages past, wielded by the Jack Frost King of the northern lands.",
+    "CHS": "由古老的白木打造而成的长弓，在遥远的过去曾属于北境的霜精之王。",
+    "CHT": "由古老的白木打造而成的長弓，在遙遠的過去曾屬於北境的霜精之王。",
+    "DE": "Ein Langbogen aus uraltem Weißholz, der in der fernen Vergangenheit einst dem König der Jack Frosts des Nordens gehörte.",
+    "ES": "Un arco largo forjado con una antigua madera blanca que, en un pasado remoto, perteneció al rey de los Jack Frost de las tierras del norte.",
+    "FR": "Un arc long taillé dans un bois blanc ancestral, manié jadis, en des âges révolus, par le roi des jack frost des terres du nord.",
+    "ID": "Busur panjang dari kayu putih kuno ini dahulu adalah milik Raja Jack Frost dari utara.",
+    "IT": "Un arco lungo intagliato da un antico pezzo di legno bianco, un tempo impugnato dal re dei Jokul Frosti delle terre del Nord.",
+    "JP": "古い白木で作られた長弓。遥か昔、北方の霜の精の王が所有していたものである。",
+    "KR": "오래된 하얀 나무로 만든 장궁. 먼 옛날 북쪽의 서리 요정의 왕이 소유했던 물건이다",
+    "PT": "Um Arco Longo feito de madeira branca ancestral que, em um passado distante, pertenceu ao Rei dos Geladinhos do norte.",
+    "RU": "Длинный лук, изготовленный из древнего белого дерева. В далёком прошлом он принадлежал правителю ледовиков севера.",
+    "TH": "ธนูยาวที่สร้างขึ้นจากไม้ขาวโบราณ ในอดีตกาลอันแสนไกล มันเคยเป็นของราชาแจ็คฟรอสต์แห่งแดนเหนือ",
+    "TR": "Kadim bir beyaz ağaçtan oyulmuş, geçmiş çağlarda bir zamanlar kuzey topraklarının Ayaz Perisi Kralı tarafından kullanılan bir uzun yay.",
+    "VI": "Cây cung được chế tác từ gỗ trắng cổ xưa, trong quá khứ xa xôi từng thuộc về Vua Sương Linh của vùng biên thùy phía bắc."
+  },
+  "icon": "generated/weapon-profiles/15516/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

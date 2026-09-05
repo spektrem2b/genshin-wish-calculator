@@ -1,0 +1,52 @@
+{
+  "id": 15408,
+  "name": {
+    "EN": "Blackcliff Warbow",
+    "CHS": "黑岩战弓",
+    "CHT": "黑岩戰弓",
+    "DE": "Schwarzstein-Kriegsbogen",
+    "ES": "Arco del Peñasco Oscuro",
+    "FR": "Arc de guerre de Rochenoire",
+    "ID": "Blackcliff Warbow",
+    "IT": "Arco da guerra di Rupenera",
+    "JP": "黒岩の戦弓",
+    "KR": "흑암 배틀 보우",
+    "PT": "Arco do Penhasco Obscuro",
+    "RU": "Черногорский боевой лук",
+    "TH": "Blackcliff Warbow",
+    "TR": "Kara Kaya Savaş Yayı",
+    "VI": "Cung Hắc Nham"
+  },
+  "nameEn": "Blackcliff Warbow",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
+    "CHS": "以黑岩塑成的弓。弓臂坚硬无比，只有膂力绝人的弓手才能尽心所欲地使用。",
+    "CHT": "以黑岩塑成的弓。弓臂堅硬無比，只有膂力絕人的弓手才能盡心所欲地使用。",
+    "DE": "Ein aus Schwarzstein hergestellter Bogen. Die Arme halten eine unfassbare Zugkraft aus. Nur die Kräftigsten können diesen Bogen nach Belieben benutzen.",
+    "ES": "Un arco hecho de piedra negra cuyos extremos son sumamente resistentes. Su uso requiere de un arquero diestro y de brazos fuertes.",
+    "FR": "Un arc de roche noire, à la courbure d'une solidité à toute épreuve. Seul un archer aux bras robustes peut le manier.",
+    "ID": "Sebuah busur yang dibuat dari blackstone, sangat kokoh. Membutuhkan seorang pemanah dengan lengan yang kuat untuk menggunakannya.",
+    "IT": "Un arco di Rupenera che vanta dei flettenti estremamente resistenti. Il suo uso richiede un arciere dotato di braccia forti.",
+    "JP": "黒岩でできた弓。かなり硬いため、腕に自信のある射手だけが思うままに使いこなせられる。",
+    "KR": "흑암으로 만든 활. 활짱은 단단하기 그지없어서 오직 힘이 장사인 궁수만이 자유자재로 다룰 수 있다",
+    "PT": "Um arco feito de Pedra Negra extremamente robusto. Requer um arqueiro com um braço forte para usar.",
+    "RU": "Весьма крепкий лук из чёрного камня. Только лучники с сильными руками смогут им воспользоваться.",
+    "TH": "คันธนูที่ทำจากหิน blackstone ที่มีคันศรอันแข็งแกร่ง ผู้ยิงต้องเป็นมือธนูที่กำยำแข็งแกร่งเท่านั้น",
+    "TR": "Kara kayadan yapılmış bir yay, kavisli uçları son derece sağlamdır. Sadece güçlü bir okçu kullanabilir.",
+    "VI": "Tạo nên từ hắc nham. Cung chắc chắn và nặng vô cùng, chỉ có cung thủ có thể lực tốt mới có thể phát huy hết sức mạnh."
+  },
+  "icon": "generated/weapon-profiles/15408/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

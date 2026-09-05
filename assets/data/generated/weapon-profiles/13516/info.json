@@ -1,0 +1,52 @@
+{
+  "id": 13516,
+  "name": {
+    "EN": "Bloodsoaked Ruins",
+    "CHS": "血染荒城",
+    "CHT": "血染荒城",
+    "DE": "Blutbefleckte Stadt",
+    "ES": "Ruinas Ensangrentadas",
+    "FR": "Ruines sanglantes",
+    "ID": "Bloodsoaked Ruins",
+    "IT": "Rovine insanguinate",
+    "JP": "血染めの荒れ地",
+    "KR": "피로 물든 성",
+    "PT": "Ruínas Ensanguentadas",
+    "RU": "Окровавленные руины",
+    "TH": "Bloodsoaked Ruins",
+    "TR": "Kanlı Harabe",
+    "VI": "Tàn Tích Nhuốm Máu"
+  },
+  "nameEn": "Bloodsoaked Ruins",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A long spear tainted black by unrelenting battle, it shines with an ethereal glow beneath the ghostly blue light of lantern-fire.",
+    "CHS": "于漫长的战斗中染成漆黑的长枪，在幽蓝的火光照耀下散发着别样的光辉。",
+    "CHT": "於漫長的戰鬥中染成漆黑的長槍，在幽藍的火光照耀下散發著別樣的光輝。",
+    "DE": "Ein Speer, der im Laufe des Kampfes schwarz gefärbt wurde. Im blauen Licht des Feuers strahlt er einen ganz besonderen Glanz aus.",
+    "ES": "Una lanza que se tiñó de un color oscuro después de muchas batallas. Emite un brillo muy especial debido al reflejo de la azulada llama que cuelga de ella.",
+    "FR": "Une longue lance teintée de noir par une bataille acharnée, brillant d'une lueur éthérée sous la lumière bleue fantomatique du feu de la lanterne.",
+    "ID": "Tombak panjang yang warnanya menghitam karena pertempuran panjang, kini memancarkan cahaya unik di bawah cahaya api biru yang redup.",
+    "IT": "Una lunga lancia macchiatasi di nero nel corso di un'accanita battaglia. Quando illuminata dalla spettrale luce blu della lanterna, brilla di un bagliore etereo.",
+    "JP": "長い戦いの中で漆黒に染まった長槍。青い炎を浴びて、独特の輝きを放っている。",
+    "KR": "긴 전투 끝에 검게 물든 창. 짙은 푸른 불빛 아래에서 특별한 빛으로 반짝이고 있다",
+    "PT": "Uma lança longa pintada de preto por causa de incontáveis batalhas, reluz com um brilho etéreo sob a luz azulada fantasmagórica do fogo da lanterna.",
+    "RU": "Длинное копьё, которое после долгих сражений стало чёрным как смоль. В свете призрачно-голубого пламени фонаря оно сверкает неземным блеском.",
+    "TH": "หอกที่ถูกย้อมจนกลายเป็นสีดำ ท่ามกลางการต่อสู้อันยาวนาน ทอประกายแสงอันเป็นเอกลักษณ์ ใต้แสงไฟสีน้ำเงิน",
+    "TR": "Acımasız savaşlar sırasında siyah renge bürünmüş bir uzun mızrak. Fener ışığının ruhani mavi ışığında havai bir renkle parlıyor.",
+    "VI": "Trường thương nhuốm màu đen thẫm từ những cuộc chiến lâu dài, dưới ánh lửa xanh u tối tỏa ra ánh sáng khác biệt."
+  },
+  "icon": "generated/weapon-profiles/13516/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

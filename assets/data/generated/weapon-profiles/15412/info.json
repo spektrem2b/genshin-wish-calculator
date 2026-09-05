@@ -1,0 +1,52 @@
+{
+  "id": 15412,
+  "name": {
+    "EN": "Mitternachts Waltz",
+    "CHS": "幽夜华尔兹",
+    "CHT": "幽夜華爾滋",
+    "DE": "Mitternachtswalzer",
+    "ES": "Vals Nocturno",
+    "FR": "Valse nocturne",
+    "ID": "Mitternachts Waltz",
+    "IT": "Valzer notturno",
+    "JP": "幽夜のワルツ",
+    "KR": "유야의 왈츠",
+    "PT": "Valsa do Crepúsculo",
+    "RU": "Вальс Нирваны Ночи",
+    "TH": "Mitternachts Waltz",
+    "TR": "Geceyarısı Valsi",
+    "VI": "Điệu Van Ban Đêm"
+  },
+  "nameEn": "Mitternachts Waltz",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A bow painted the color of transgression and nights of illusion.",
+    "CHS": "有着如同罪与幻想之夜一般颜色的弓。",
+    "CHT": "有著如同罪與幻想之夜一般顏色的弓。",
+    "DE": "Ein Bogen in der Farbe der Sünden und der Nächte der Illusion.",
+    "ES": "Un arco pintado del color de los pecados y las fantasías de la noche.",
+    "FR": "Un arc peint de la couleur des nuits de péché et de fantaisie.",
+    "ID": "Busur yang diwarnai dengan warna kelam bagaikan dosa dan malam hari pada imajinasi yang liar.",
+    "IT": "Un arco dipinto del colore delle notti di peccato e illusione.",
+    "JP": "罪と幻想の夜を想起させる色をした弓。",
+    "KR": "죄악과 환상의 밤을 떠올리게 하는 색의 활",
+    "PT": "Um arco que possui cores como as da noite de ilusões e de pecados.",
+    "RU": "Лук, окрашенный в цвета греха и диких ночных фантазий.",
+    "TH": "คันธนูที่มีสีดั่งค่ำคืนแห่งบาปและความเพ้อฝัน",
+    "TR": "Günah ve yanılsama dolu gecelerin rengine boyanmış bir yay.",
+    "VI": "Chiếc cung có màu sắc giống như màn đêm huyền ảo và tội lỗi."
+  },
+  "icon": "generated/weapon-profiles/15412/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.1126,
+  "substat_lvl90": 0.5173,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

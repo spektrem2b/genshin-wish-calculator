@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "At the End of the Beast-Paths",
+    "CHS": "兽径的终点",
+    "CHT": "獸徑的終點",
+    "DE": "Am Ende der Fährte",
+    "ES": "Destino de las bestias",
+    "FR": "Arrivée du sentier bestial",
+    "ID": "At the End of the Beast-Paths",
+    "IT": "Al termine del cammino della bestia",
+    "JP": "獣道の終着点",
+    "KR": "동물이 거니는 길의 끝",
+    "PT": "O Destino da Besta",
+    "RU": "Конец звериной тропы",
+    "TH": "At the End of the Beast-Paths",
+    "TR": "Yabandaki İzin Sonu",
+    "VI": "Đường Cùng Của Thú"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Gain 12% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 160% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+        "CHS": "获得12%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的160%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+        "CHT": "獲得12%所有元素傷害加成。重擊命中敵人後，將獲得「無休止的狩獵」：重擊造成的傷害值提高相當於元素精通數值的160%。該效果將在生效12次或10秒後消失，每12秒至多獲得一次無休止的狩獵。",
+        "DE": "Erhöht den Schaden aller Elemente um 12 %. Erhält nach Treffern mit heftigen Schlägen den Effekt „Unermüdliche Jagd“: Erhöht den Schaden heftiger Schläge um 160 % der Elementarkunde. Dieser Effekt verschwindet nach 10 s oder 12 heftigen Schlägen. 12 s Abklingzeit.",
+        "ES": "Otorga un 12% a todos los Bonos de Daño Elemental. Tras golpear a un enemigo con un Ataque Cargado, el personaje obtiene el efecto de “caza incansable”, el cual aumenta el daño de su Ataque Cargado en una cantidad equivalente al 160% de su Maestría Elemental. Este efecto desaparece tras activarse 12 veces o después de 10 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Accorde un bonus de DGT élémentaires de 12 %. Lorsqu'une attaque chargée a touché un ennemi, l'effet Chasse infatigable est accordé, augmentant les DGT d'attaque chargée d'une valeur équivalant à 160 % de la maîtrise élémentaire. Cet effet disparaît après 10 s ou après 12 attaques chargées. Cet effet peut être déclenché une fois toutes les 12 s.",
+        "ID": "Mendapatkan 12% Elemental DMG Bonus untuk semua elemen. Setelah Charged Attack mengenai musuh, akan mendapatkan \"Tireless Hunt\" yang akan meningkatkan DMG Charged Attack setara dengan 160% dari nilai Elemental Mastery. Efek tersebut akan menghilang setelah aktif sebanyak 12 kali atau 10 detik. \"Tireless Hunt\" bisa didapatkan setiap 12 detik.",
+        "IT": "#Ottiene un 12% di bonus DAN per tutti gli elementi e l'effetto Caccia instancabile dopo aver colpito un avversario con un attacco caricato. Quest'effetto aumenta i DAN dell'attacco caricato di un 160% della maestria elementale. Quest'effetto verrà rimosso dopo 12 attacchi caricati o dopo 10 s. È possibile ottenere Caccia instancabile una volta ogni 12 s.",
+        "JP": "全元素ダメージ+12%。重撃が敵に命中すると、重撃ダメージが元素熟知160%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "모든 원소 피해 보너스를 12% 획득한다. 강공격으로 적 명중 후, 「무한 사냥」을 획득한다: 강공격으로 주는 피해가 원소 마스터리 수치의 160%만큼 증가한다. 해당 효과는 12회 발동 또는 10초 후 사라지고, 12초마다 무한 사냥 효과를 최대 1회 획득할 수 있다",
+        "PT": "Ganha 12% de Bônus de Dano de todos os Elementos. Obtém o efeito \"Caça Incansável\" ao acertar um oponente com um Ataque Carregado. Esse efeito aumenta o Dano do Ataque Carregado em 160% da Proficiência Elemental. Esse efeito será removido depois 12 Ataques Carregados ou após 10s. Só é possível obter 1 efeito de Caça Incansável a cada 12s.",
+        "RU": "Даёт 12% бонус урона всеми элементами. Попадание заряженной атакой наделяет персонажа эффектом Непрестанной охоты, который увеличивает урон заряженных атак на 160% от мастерства стихий. Через 10 сек. либо после 12 активаций эффект исчезает. Может возникнуть один раз в 12 сек.",
+        "TH": "ได้รับโบนัสความเสียหายธาตุทั้งหมด 12% และหลังจากที่การชาร์จโจมตีถูกศัตรู จะได้รับเอฟเฟกต์ Tireless Hunt ซึ่งจะทำให้การชาร์จโจมตี สร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่ม จะเท่ากับ 160% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปเมื่อทำงานครบ 12 ครั้ง หรือหลังจากผ่านไป 10 วินาที โดยที่ทุก 12 วินาที จะได้รับ Tireless Hunt มากสุดหนึ่งครั้ง",
+        "TR": "Tüm Element Hasarları için %12 Bonus sağlar. Karakter, bir düşmana Yüklü Saldırı ile vurduğunda Amansız Av etkisi kazanır. Bu etki, Yüklü Saldırı Hasarını Element Ustalığının %160'ı kadar artırır. Bu etki, 12 Yüklü Saldırı veya 10 saniye sonrasında kaybolur. Her 12 saniyede 1 defa Amansız Av kazanılabilir.",
+        "VI": "Nhận 12% buff sát thương tất cả nguyên tố. Sau khi trọng kích đánh trúng kẻ địch sẽ nhận được hiệu ứng \"Săn Bắt Vô Tận\": Tăng sát thương trọng kích gây ra, lượng sát thương tăng thêm tương đương 160% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi có hiệu lực 12 lần hoặc sau 10s. Mỗi 12s tối đa kích hoạt một lần \"Săn Bắt Vô Tận\"."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Gain 15% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 200% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+        "CHS": "获得15%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的200%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+        "CHT": "獲得15%所有元素傷害加成。重擊命中敵人後，將獲得「無休止的狩獵」：重擊造成的傷害值提高相當於元素精通數值的200%。該效果將在生效12次或10秒後消失，每12秒至多獲得一次無休止的狩獵。",
+        "DE": "Erhöht den Schaden aller Elemente um 15 %. Erhält nach Treffern mit heftigen Schlägen den Effekt „Unermüdliche Jagd“: Erhöht den Schaden heftiger Schläge um 200 % der Elementarkunde. Dieser Effekt verschwindet nach 10 s oder 12 heftigen Schlägen. 12 s Abklingzeit.",
+        "ES": "Otorga un 15% a todos los Bonos de Daño Elemental. Tras golpear a un enemigo con un Ataque Cargado, el personaje obtiene el efecto de “caza incansable”, el cual aumenta el daño de su Ataque Cargado en una cantidad equivalente al 200% de su Maestría Elemental. Este efecto desaparece tras activarse 12 veces o después de 10 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Accorde un bonus de DGT élémentaires de 15 %. Lorsqu'une attaque chargée a touché un ennemi, l'effet Chasse infatigable est accordé, augmentant les DGT d'attaque chargée d'une valeur équivalant à 200 % de la maîtrise élémentaire. Cet effet disparaît après 10 s ou après 12 attaques chargées. Cet effet peut être déclenché une fois toutes les 12 s.",
+        "ID": "Mendapatkan 15% Elemental DMG Bonus untuk semua elemen. Setelah Charged Attack mengenai musuh, akan mendapatkan \"Tireless Hunt\" yang akan meningkatkan DMG Charged Attack setara dengan 200% dari nilai Elemental Mastery. Efek tersebut akan menghilang setelah aktif sebanyak 12 kali atau 10 detik. \"Tireless Hunt\" bisa didapatkan setiap 12 detik.",
+        "IT": "#Ottiene un 15% di bonus DAN per tutti gli elementi e l'effetto Caccia instancabile dopo aver colpito un avversario con un attacco caricato. Quest'effetto aumenta i DAN dell'attacco caricato di un 200% della maestria elementale. Quest'effetto verrà rimosso dopo 12 attacchi caricati o dopo 10 s. È possibile ottenere Caccia instancabile una volta ogni 12 s.",
+        "JP": "全元素ダメージ+15%。重撃が敵に命中すると、重撃ダメージが元素熟知200%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "모든 원소 피해 보너스를 15% 획득한다. 강공격으로 적 명중 후, 「무한 사냥」을 획득한다: 강공격으로 주는 피해가 원소 마스터리 수치의 200%만큼 증가한다. 해당 효과는 12회 발동 또는 10초 후 사라지고, 12초마다 무한 사냥 효과를 최대 1회 획득할 수 있다",
+        "PT": "Ganha 15% de Bônus de Dano de todos os Elementos. Obtém o efeito \"Caça Incansável\" ao acertar um oponente com um Ataque Carregado. Esse efeito aumenta o Dano do Ataque Carregado em 200% da Proficiência Elemental. Esse efeito será removido depois 12 Ataques Carregados ou após 10s. Só é possível obter 1 efeito de Caça Incansável a cada 12s.",
+        "RU": "Даёт 15% бонус урона всеми элементами. Попадание заряженной атакой наделяет персонажа эффектом Непрестанной охоты, который увеличивает урон заряженных атак на 200% от мастерства стихий. Через 10 сек. либо после 12 активаций эффект исчезает. Может возникнуть один раз в 12 сек.",
+        "TH": "ได้รับโบนัสความเสียหายธาตุทั้งหมด 15% และหลังจากที่การชาร์จโจมตีถูกศัตรู จะได้รับเอฟเฟกต์ Tireless Hunt ซึ่งจะทำให้การชาร์จโจมตี สร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่ม จะเท่ากับ 200% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปเมื่อทำงานครบ 12 ครั้ง หรือหลังจากผ่านไป 10 วินาที โดยที่ทุก 12 วินาที จะได้รับ Tireless Hunt มากสุดหนึ่งครั้ง",
+        "TR": "Tüm Element Hasarları için %15 Bonus sağlar. Karakter, bir düşmana Yüklü Saldırı ile vurduğunda Amansız Av etkisi kazanır. Bu etki, Yüklü Saldırı Hasarını Element Ustalığının %200'ü kadar artırır. Bu etki, 12 Yüklü Saldırı veya 10 saniye sonrasında kaybolur. Her 12 saniyede 1 defa Amansız Av kazanılabilir.",
+        "VI": "Nhận 15% buff sát thương tất cả nguyên tố. Sau khi trọng kích đánh trúng kẻ địch sẽ nhận được hiệu ứng \"Săn Bắt Vô Tận\": Tăng sát thương trọng kích gây ra, lượng sát thương tăng thêm tương đương 200% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi có hiệu lực 12 lần hoặc sau 10s. Mỗi 12s tối đa kích hoạt một lần \"Săn Bắt Vô Tận\"."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Gain 18% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 240% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+        "CHS": "获得18%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的240%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+        "CHT": "獲得18%所有元素傷害加成。重擊命中敵人後，將獲得「無休止的狩獵」：重擊造成的傷害值提高相當於元素精通數值的240%。該效果將在生效12次或10秒後消失，每12秒至多獲得一次無休止的狩獵。",
+        "DE": "Erhöht den Schaden aller Elemente um 18 %. Erhält nach Treffern mit heftigen Schlägen den Effekt „Unermüdliche Jagd“: Erhöht den Schaden heftiger Schläge um 240 % der Elementarkunde. Dieser Effekt verschwindet nach 10 s oder 12 heftigen Schlägen. 12 s Abklingzeit.",
+        "ES": "Otorga un 18% a todos los Bonos de Daño Elemental. Tras golpear a un enemigo con un Ataque Cargado, el personaje obtiene el efecto de “caza incansable”, el cual aumenta el daño de su Ataque Cargado en una cantidad equivalente al 240% de su Maestría Elemental. Este efecto desaparece tras activarse 12 veces o después de 10 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Accorde un bonus de DGT élémentaires de 18 %. Lorsqu'une attaque chargée a touché un ennemi, l'effet Chasse infatigable est accordé, augmentant les DGT d'attaque chargée d'une valeur équivalant à 240 % de la maîtrise élémentaire. Cet effet disparaît après 10 s ou après 12 attaques chargées. Cet effet peut être déclenché une fois toutes les 12 s.",
+        "ID": "Mendapatkan 18% Elemental DMG Bonus untuk semua elemen. Setelah Charged Attack mengenai musuh, akan mendapatkan \"Tireless Hunt\" yang akan meningkatkan DMG Charged Attack setara dengan 240% dari nilai Elemental Mastery. Efek tersebut akan menghilang setelah aktif sebanyak 12 kali atau 10 detik. \"Tireless Hunt\" bisa didapatkan setiap 12 detik.",
+        "IT": "#Ottiene un 18% di bonus DAN per tutti gli elementi e l'effetto Caccia instancabile dopo aver colpito un avversario con un attacco caricato. Quest'effetto aumenta i DAN dell'attacco caricato di un 240% della maestria elementale. Quest'effetto verrà rimosso dopo 12 attacchi caricati o dopo 10 s. È possibile ottenere Caccia instancabile una volta ogni 12 s.",
+        "JP": "全元素ダメージ+18%。重撃が敵に命中すると、重撃ダメージが元素熟知240%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "모든 원소 피해 보너스를 18% 획득한다. 강공격으로 적 명중 후, 「무한 사냥」을 획득한다: 강공격으로 주는 피해가 원소 마스터리 수치의 240%만큼 증가한다. 해당 효과는 12회 발동 또는 10초 후 사라지고, 12초마다 무한 사냥 효과를 최대 1회 획득할 수 있다",
+        "PT": "Ganha 18% de Bônus de Dano de todos os Elementos. Obtém o efeito \"Caça Incansável\" ao acertar um oponente com um Ataque Carregado. Esse efeito aumenta o Dano do Ataque Carregado em 240% da Proficiência Elemental. Esse efeito será removido depois 12 Ataques Carregados ou após 10s. Só é possível obter 1 efeito de Caça Incansável a cada 12s.",
+        "RU": "Даёт 18% бонус урона всеми элементами. Попадание заряженной атакой наделяет персонажа эффектом Непрестанной охоты, который увеличивает урон заряженных атак на 240% от мастерства стихий. Через 10 сек. либо после 12 активаций эффект исчезает. Может возникнуть один раз в 12 сек.",
+        "TH": "ได้รับโบนัสความเสียหายธาตุทั้งหมด 18% และหลังจากที่การชาร์จโจมตีถูกศัตรู จะได้รับเอฟเฟกต์ Tireless Hunt ซึ่งจะทำให้การชาร์จโจมตี สร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่ม จะเท่ากับ 240% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปเมื่อทำงานครบ 12 ครั้ง หรือหลังจากผ่านไป 10 วินาที โดยที่ทุก 12 วินาที จะได้รับ Tireless Hunt มากสุดหนึ่งครั้ง",
+        "TR": "Tüm Element Hasarları için %18 Bonus sağlar. Karakter, bir düşmana Yüklü Saldırı ile vurduğunda Amansız Av etkisi kazanır. Bu etki, Yüklü Saldırı Hasarını Element Ustalığının %240'ı kadar artırır. Bu etki, 12 Yüklü Saldırı veya 10 saniye sonrasında kaybolur. Her 12 saniyede 1 defa Amansız Av kazanılabilir.",
+        "VI": "Nhận 18% buff sát thương tất cả nguyên tố. Sau khi trọng kích đánh trúng kẻ địch sẽ nhận được hiệu ứng \"Săn Bắt Vô Tận\": Tăng sát thương trọng kích gây ra, lượng sát thương tăng thêm tương đương 240% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi có hiệu lực 12 lần hoặc sau 10s. Mỗi 12s tối đa kích hoạt một lần \"Săn Bắt Vô Tận\"."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Gain 21% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 280% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+        "CHS": "获得21%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的280%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+        "CHT": "獲得21%所有元素傷害加成。重擊命中敵人後，將獲得「無休止的狩獵」：重擊造成的傷害值提高相當於元素精通數值的280%。該效果將在生效12次或10秒後消失，每12秒至多獲得一次無休止的狩獵。",
+        "DE": "Erhöht den Schaden aller Elemente um 21 %. Erhält nach Treffern mit heftigen Schlägen den Effekt „Unermüdliche Jagd“: Erhöht den Schaden heftiger Schläge um 280 % der Elementarkunde. Dieser Effekt verschwindet nach 10 s oder 12 heftigen Schlägen. 12 s Abklingzeit.",
+        "ES": "Otorga un 21% a todos los Bonos de Daño Elemental. Tras golpear a un enemigo con un Ataque Cargado, el personaje obtiene el efecto de “caza incansable”, el cual aumenta el daño de su Ataque Cargado en una cantidad equivalente al 280% de su Maestría Elemental. Este efecto desaparece tras activarse 12 veces o después de 10 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Accorde un bonus de DGT élémentaires de 21 %. Lorsqu'une attaque chargée a touché un ennemi, l'effet Chasse infatigable est accordé, augmentant les DGT d'attaque chargée d'une valeur équivalant à 280 % de la maîtrise élémentaire. Cet effet disparaît après 10 s ou après 12 attaques chargées. Cet effet peut être déclenché une fois toutes les 12 s.",
+        "ID": "Mendapatkan 21% Elemental DMG Bonus untuk semua elemen. Setelah Charged Attack mengenai musuh, akan mendapatkan \"Tireless Hunt\" yang akan meningkatkan DMG Charged Attack setara dengan 280% dari nilai Elemental Mastery. Efek tersebut akan menghilang setelah aktif sebanyak 12 kali atau 10 detik. \"Tireless Hunt\" bisa didapatkan setiap 12 detik.",
+        "IT": "#Ottiene un 21% di bonus DAN per tutti gli elementi e l'effetto Caccia instancabile dopo aver colpito un avversario con un attacco caricato. Quest'effetto aumenta i DAN dell'attacco caricato di un 280% della maestria elementale. Quest'effetto verrà rimosso dopo 12 attacchi caricati o dopo 10 s. È possibile ottenere Caccia instancabile una volta ogni 12 s.",
+        "JP": "全元素ダメージ+21%。重撃が敵に命中すると、重撃ダメージが元素熟知280%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "모든 원소 피해 보너스를 21% 획득한다. 강공격으로 적 명중 후, 「무한 사냥」을 획득한다: 강공격으로 주는 피해가 원소 마스터리 수치의 280%만큼 증가한다. 해당 효과는 12회 발동 또는 10초 후 사라지고, 12초마다 무한 사냥 효과를 최대 1회 획득할 수 있다",
+        "PT": "Ganha 21% de Bônus de Dano de todos os Elementos. Obtém o efeito \"Caça Incansável\" ao acertar um oponente com um Ataque Carregado. Esse efeito aumenta o Dano do Ataque Carregado em 280% da Proficiência Elemental. Esse efeito será removido depois 12 Ataques Carregados ou após 10s. Só é possível obter 1 efeito de Caça Incansável a cada 12s.",
+        "RU": "Даёт 21% бонус урона всеми элементами. Попадание заряженной атакой наделяет персонажа эффектом Непрестанной охоты, который увеличивает урон заряженных атак на 280% от мастерства стихий. Через 10 сек. либо после 12 активаций эффект исчезает. Может возникнуть один раз в 12 сек.",
+        "TH": "ได้รับโบนัสความเสียหายธาตุทั้งหมด 21% และหลังจากที่การชาร์จโจมตีถูกศัตรู จะได้รับเอฟเฟกต์ Tireless Hunt ซึ่งจะทำให้การชาร์จโจมตี สร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่ม จะเท่ากับ 280% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปเมื่อทำงานครบ 12 ครั้ง หรือหลังจากผ่านไป 10 วินาที โดยที่ทุก 12 วินาที จะได้รับ Tireless Hunt มากสุดหนึ่งครั้ง",
+        "TR": "Tüm Element Hasarları için %21 Bonus sağlar. Karakter, bir düşmana Yüklü Saldırı ile vurduğunda Amansız Av etkisi kazanır. Bu etki, Yüklü Saldırı Hasarını Element Ustalığının %280'i kadar artırır. Bu etki, 12 Yüklü Saldırı veya 10 saniye sonrasında kaybolur. Her 12 saniyede 1 defa Amansız Av kazanılabilir.",
+        "VI": "Nhận 21% buff sát thương tất cả nguyên tố. Sau khi trọng kích đánh trúng kẻ địch sẽ nhận được hiệu ứng \"Săn Bắt Vô Tận\": Tăng sát thương trọng kích gây ra, lượng sát thương tăng thêm tương đương 280% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi có hiệu lực 12 lần hoặc sau 10s. Mỗi 12s tối đa kích hoạt một lần \"Săn Bắt Vô Tận\"."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Gain 24% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 320% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+        "CHS": "获得24%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的320%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
+        "CHT": "獲得24%所有元素傷害加成。重擊命中敵人後，將獲得「無休止的狩獵」：重擊造成的傷害值提高相當於元素精通數值的320%。該效果將在生效12次或10秒後消失，每12秒至多獲得一次無休止的狩獵。",
+        "DE": "Erhöht den Schaden aller Elemente um 24 %. Erhält nach Treffern mit heftigen Schlägen den Effekt „Unermüdliche Jagd“: Erhöht den Schaden heftiger Schläge um 320 % der Elementarkunde. Dieser Effekt verschwindet nach 10 s oder 12 heftigen Schlägen. 12 s Abklingzeit.",
+        "ES": "Otorga un 24% a todos los Bonos de Daño Elemental. Tras golpear a un enemigo con un Ataque Cargado, el personaje obtiene el efecto de “caza incansable”, el cual aumenta el daño de su Ataque Cargado en una cantidad equivalente al 320% de su Maestría Elemental. Este efecto desaparece tras activarse 12 veces o después de 10 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Accorde un bonus de DGT élémentaires de 24 %. Lorsqu'une attaque chargée a touché un ennemi, l'effet Chasse infatigable est accordé, augmentant les DGT d'attaque chargée d'une valeur équivalant à 320 % de la maîtrise élémentaire. Cet effet disparaît après 10 s ou après 12 attaques chargées. Cet effet peut être déclenché une fois toutes les 12 s.",
+        "ID": "Mendapatkan 24% Elemental DMG Bonus untuk semua elemen. Setelah Charged Attack mengenai musuh, akan mendapatkan \"Tireless Hunt\" yang akan meningkatkan DMG Charged Attack setara dengan 320% dari nilai Elemental Mastery. Efek tersebut akan menghilang setelah aktif sebanyak 12 kali atau 10 detik. \"Tireless Hunt\" bisa didapatkan setiap 12 detik.",
+        "IT": "#Ottiene un 24% di bonus DAN per tutti gli elementi e l'effetto Caccia instancabile dopo aver colpito un avversario con un attacco caricato. Quest'effetto aumenta i DAN dell'attacco caricato di un 320% della maestria elementale. Quest'effetto verrà rimosso dopo 12 attacchi caricati o dopo 10 s. È possibile ottenere Caccia instancabile una volta ogni 12 s.",
+        "JP": "全元素ダメージ+24%。重撃が敵に命中すると、重撃ダメージが元素熟知320%分アップする「エンドレスハント」効果を獲得する。「エンドレスハント」効果は12回発動または10秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "모든 원소 피해 보너스를 24% 획득한다. 강공격으로 적 명중 후, 「무한 사냥」을 획득한다: 강공격으로 주는 피해가 원소 마스터리 수치의 320%만큼 증가한다. 해당 효과는 12회 발동 또는 10초 후 사라지고, 12초마다 무한 사냥 효과를 최대 1회 획득할 수 있다",
+        "PT": "Ganha 24% de Bônus de Dano de todos os Elementos. Obtém o efeito \"Caça Incansável\" ao acertar um oponente com um Ataque Carregado. Esse efeito aumenta o Dano do Ataque Carregado em 320% da Proficiência Elemental. Esse efeito será removido depois de 12 Ataques Carregados ou após 10s. Só é possível obter 1 efeito de Caça Incansável a cada 12s.",
+        "RU": "Даёт 24% бонус урона всеми элементами. Попадание заряженной атакой наделяет персонажа эффектом Непрестанной охоты, который увеличивает урон заряженных атак на 320% от мастерства стихий. Через 10 сек. либо после 12 активаций эффект исчезает. Может возникнуть один раз в 12 сек.",
+        "TH": "ได้รับโบนัสความเสียหายธาตุทั้งหมด 24% และหลังจากที่การชาร์จโจมตีถูกศัตรู จะได้รับเอฟเฟกต์ Tireless Hunt ซึ่งจะทำให้การชาร์จโจมตี สร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่ม จะเท่ากับ 320% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปเมื่อทำงานครบ 12 ครั้ง หรือหลังจากผ่านไป 10 วินาที โดยที่ทุก 12 วินาที จะได้รับ Tireless Hunt มากสุดหนึ่งครั้ง",
+        "TR": "Tüm Element Hasarları için %24 Bonus sağlar. Karakter, bir düşmana Yüklü Saldırı ile vurduğunda Amansız Av etkisi kazanır. Bu etki, Yüklü Saldırı Hasarını Element Ustalığının %320'si kadar artırır. Bu etki, 12 Yüklü Saldırı veya 10 saniye sonrasında kaybolur. Her 12 saniyede 1 defa Amansız Av kazanılabilir.",
+        "VI": "Nhận 24% buff sát thương tất cả nguyên tố. Sau khi trọng kích đánh trúng kẻ địch sẽ nhận được hiệu ứng \"Săn Bắt Vô Tận\": Tăng sát thương trọng kích gây ra, lượng sát thương tăng thêm tương đương 320% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi có hiệu lực 12 lần hoặc sau 10s. Mỗi 12s tối đa kích hoạt một lần \"Săn Bắt Vô Tận\"."
+      }
+    }
+  ]
+}

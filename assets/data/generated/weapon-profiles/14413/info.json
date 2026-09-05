@@ -1,0 +1,52 @@
+{
+  "id": 14413,
+  "name": {
+    "EN": "Dodoco Tales",
+    "CHS": "嘟嘟可故事集",
+    "CHT": "嘟嘟可故事集",
+    "DE": "Dodoco-Geschichten",
+    "ES": "Cuentos de Dodoco",
+    "FR": "Contes de Dodoco",
+    "ID": "Dodoco Tales",
+    "IT": "Fiabe di Dodoco",
+    "JP": "ドドコの物語",
+    "KR": "도도코 이야기집",
+    "PT": "Contos de Dodoco",
+    "RU": "Истории Додоко",
+    "TH": "Dodoco Tales",
+    "TR": "Dodoko Masalları",
+    "VI": "Tuyển tập các câu chuyện về Dodoco"
+  },
+  "nameEn": "Dodoco Tales",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A children's book filled with childish short stories at which one cannot help but laugh.\nEven those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.",
+    "CHS": "一本封面华丽的童书，内容皆是童言无忌的短小故事，读之令人忍俊不禁。\n即使业已成年的读者，读到书中天真无邪的冒险故事，也会忍不住神往吧。",
+    "CHT": "一本封面華麗的童書，內容皆是童言無忌的短小故事，讀之令人忍俊不禁。\n即使業已成年的讀者，讀到書中天真無邪的冒險故事，也會忍不住神往吧。",
+    "DE": "Ein Kinderbuch mit vielen lustigen Kurzgeschichten.\nDie unschuldigen, kindlichen Abenteuer, die in den Geschichten geschildert werden, reißen selbst die längst erwachsenen Leser beim Lesen mit.",
+    "ES": "Un libro infantil con una bella portada. Todo su contenido son relatos cortos infantiles que harán reír a cualquier lector.\nNi los adultos podrán evitar sentirse fascinados al leer sus inocentes historias de aventuras.",
+    "FR": "Un livre pour enfants rempli d'histoires enfantines qui font sourire petits et grands.\nMême les lecteurs passés depuis longtemps à l'âge adulte ne peuvent s'empêcher d'être absorbés par les petites aventures innocentes et naïves qui y sont dépeintes.",
+    "ID": "Buku anak-anak yang penuh dengan cerita pendek anak-anak yang bisa membuat pembacanya tertawa.\nMereka yang sudah dewasa sekalipun akan terpukau dengan kepolosan, kesucian petualangan kecil yang tergambarkan di dalamnya.",
+    "IT": "Un libro per bambini con brevi racconti infantili e ridanciani.\nPersino i lettori più attempati si faranno trasportare dalle candide avventure che vi sono narrate.",
+    "JP": "豪華な表紙の児童書、子供向けの短いストーリーで構成されている。読むと心がリラックスできるものばかり。\nその無邪気な冒険物語を読めば、たとえ大人でも夢中になるだろう。",
+    "KR": "겉표지가 화려한 동화책. 내용은 모두 어린아이들의 이야기로 독자들을 행복하게 해 준다.\n또 어른이라도 이 책의 순진무구한 모험담을 읽으면 어느새 집중하고 있는 자신을 발견할 거다",
+    "PT": "Um livro infantil com uma bela capa. Seu conteúdo é pequenas estórias infantis inofensivas, e quem as ler não poderá evitar rir.\nMesmo que seu leitor já seja um adulto, ao ler tais aventuras inocentes, também acabará fascinado por elas.",
+    "RU": "Книга, состоящая из увлекательных детских историй, которые невольно вызывают улыбку на лице.\nДаже взрослые читатели не могут не погрузиться с головой в рассказанные здесь невинные и наивные маленькие приключения.",
+    "TH": "หนังสือสำหรับเด็กที่มีหน้าปกสวยงาม เนื้อหาเป็นเรื่องสั้นที่เกี่ยวกับเด็ก ๆ ทั้งหมด มันน่าอ่านจนอดใจไม่ไหว\nแม้แต่นักอ่านที่เป็นผู้ใหญ่พอได้อ่านเรื่องราวผจญภัยแบบเด็ก ๆ แบบนี้แล้ว ก็อดไม่ได้ที่จะหลงใหลไปกับมัน",
+    "TR": "Okuyanları güldürecek çocuksu hikayelerle dolu bir çocuk kitabı.\nAnlatılan saf ve masum maceraları okurken yetişkinler bile kitabı bir an olsun elinden bırakmak istemez.",
+    "VI": "Một cuốn sách thiếu nhi với trang bìa lộng lẫy, nội dung toàn là truyện ngắn với ngôn từ trẻ con, sẽ khiến người đọc không kìm được cảm xúc.\n Ngay cả những độc giả trưởng thành khi đọc những câu chuyện phiêu lưu hồn nhiên và ngây thơ trong cuốn sách cũng không thể không bị cuốn hút."
+  },
+  "icon": "generated/weapon-profiles/14413/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

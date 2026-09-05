@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Infusion Stinger",
+    "CHS": "注能之刺",
+    "CHT": "注能之刺",
+    "DE": "Energieschubstachel",
+    "ES": "Aguijón de infusión",
+    "FR": "Dard énergisant",
+    "ID": "Infusion Stinger",
+    "IT": "Puntura energizzante",
+    "JP": "注入の棘",
+    "KR": "에너지 주입 가시",
+    "PT": "Ferrão Energético",
+    "RU": "Заряженное жало",
+    "TH": "Infusion Stinger",
+    "TR": "Tesirli Meç",
+    "VI": "Kích Năng Lượng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Dealing Elemental DMG increases all DMG by 6% for 6s. Max 2 stacks. Can occur once every 1s.",
+        "CHS": "造成元素伤害后的6秒内，角色造成的伤害提高6%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+        "CHT": "造成元素傷害後的6秒內，角色造成的傷害提高6%，最多疊加兩層。該效果每秒只能觸發一次。",
+        "DE": "Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um 6 %, 2-fach stapelbar. 1 s Abklingzeit.",
+        "ES": "Tras causar Daño Elemental, aumenta todo el daño infligido en un 6% durante 6 s. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 1 s.",
+        "FR": "Lorsque vous infligez des DGT élémentaires à vos ennemis, tous les DGT infligés par ce personnage augmentent de 6 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les secondes.",
+        "ID": "Mengakibatkan Elemental DMG akan meningkatkan 6% DMG selama 6 detik. Maksimum 2 lapis. Dapat terpicu setiap 1 detik.",
+        "IT": "#Infliggere DAN elementali aumenta tutti i DAN di un 6% per 6 s. Cumulabile fino a 2 volte. Si può verificare una volta ogni 1 s.",
+        "JP": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+6%、最大2重まで。1秒毎に1回のみ発動可能。",
+        "KR": "원소 피해를 준 후 6초 동안 캐릭터가 주는 피해가 6% 증가한다. 최대 중첩수: 2회. 해당 효과는 1초마다 1번 발동한다",
+        "PT": "Após causar Dano Elemental, aumenta todos os Danos em 6% por 6s. Este efeito pode acumular até 2 vezes e pode ser ativado uma vez a cada 1s.",
+        "RU": "Нанесённый элементальный урон увеличивает весь наносимый урон на 6% на 6 сек. Может складываться до 2 раз. Может возникнуть раз в 1 сек.",
+        "TH": "ภายใน 6 วินาทีหลังจากสร้างความเสียหายธาตุ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 6% ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุด 2 ชั้นและสามารถปล่อยได้หนึ่งครั้งในทุก 1 วินาที",
+        "TR": "Element Hasarı verildiğinde 6 saniyeliğine tüm Hasarlar %6 artar. 2 kademeye kadar birikir. Her 1 saniyede bir uygulanabilir.",
+        "VI": "Trong 6s sau khi tạo thành sát thương nguyên tố, sát thương nhân vật tạo ra tăng 6%, cộng dồn 2 lần. Mỗi 1s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Dealing Elemental DMG increases all DMG by 7.5% for 6s. Max 2 stacks. Can occur once every 1s.",
+        "CHS": "造成元素伤害后的6秒内，角色造成的伤害提高7.5%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+        "CHT": "造成元素傷害後的6秒內，角色造成的傷害提高7.5%，最多疊加兩層。該效果每秒只能觸發一次。",
+        "DE": "Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um 7,5 %, 2-fach stapelbar. 1 s Abklingzeit.",
+        "ES": "Tras causar Daño Elemental, aumenta todo el daño infligido en un 7.5% durante 6 s. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 1 s.",
+        "FR": "Lorsque vous infligez des DGT élémentaires à vos ennemis, tous les DGT infligés par ce personnage augmentent de 7,5 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les secondes.",
+        "ID": "Mengakibatkan Elemental DMG akan meningkatkan 7,5% DMG selama 6 detik. Maksimum 2 lapis. Dapat terpicu setiap 1 detik.",
+        "IT": "#Infliggere DAN elementali aumenta tutti i DAN di un 7,5% per 6 s. Cumulabile fino a 2 volte. Si può verificare una volta ogni 1 s.",
+        "JP": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+7.5%、最大2重まで。1秒毎に1回のみ発動可能。",
+        "KR": "원소 피해를 준 후 6초 동안 캐릭터가 주는 피해가 7.5% 증가한다. 최대 중첩수: 2회. 해당 효과는 1초마다 1번 발동한다",
+        "PT": "6s após ao causar Dano Elemental, aumenta todos os Danos em 7.5%. Este efeito pode acumular até 2 vezes e pode ser ativado uma vez a cada 1s.",
+        "RU": "Нанесённый элементальный урон увеличивает весь наносимый урон на 7,5% на 6 сек. Может складываться до 2 раз. Может возникнуть раз в 1 сек.",
+        "TH": "ภายใน 6 วินาทีหลังจากสร้างความเสียหายธาตุ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 7.5% ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 2 ชั้นและสามารถปล่อยได้หนึ่งครั้งในทุก 1 วินาที",
+        "TR": "Element Hasarı verildiğinde 6 saniyeliğine tüm Hasarlar %7,5 artar. 2 kademeye kadar birikir. Her 1 saniyede bir uygulanabilir.",
+        "VI": "Trong 6s sau khi tạo thành sát thương nguyên tố, sát thương nhân vật tạo ra tăng 7.5%, cộng dồn 2 lần. Mỗi 1s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Dealing Elemental DMG increases all DMG by 9% for 6s. Max 2 stacks. Can occur once every 1s.",
+        "CHS": "造成元素伤害后的6秒内，角色造成的伤害提高9%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+        "CHT": "造成元素傷害後的6秒內，角色造成的傷害提高9%，最多疊加兩層。該效果每秒只能觸發一次。",
+        "DE": "Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um 9 %, 2-fach stapelbar. 1 s Abklingzeit.",
+        "ES": "Tras causar Daño Elemental, aumenta todo el daño infligido en un 9% durante 6 s. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 1 s.",
+        "FR": "Lorsque vous infligez des DGT élémentaires à vos ennemis, tous les DGT infligés par ce personnage augmentent de 9 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les secondes.",
+        "ID": "Mengakibatkan Elemental DMG akan meningkatkan 9% DMG selama 6 detik. Maksimum 2 lapis. Dapat terpicu setiap 1 detik.",
+        "IT": "#Infliggere DAN elementali aumenta tutti i DAN di un 9% per 6 s. Cumulabile fino a 2 volte. Si può verificare una volta ogni 1 s.",
+        "JP": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+9%、最大2重まで。1秒毎に1回のみ発動可能。",
+        "KR": "원소 피해를 준 후 6초 동안 캐릭터가 주는 피해가 9% 증가한다. 최대 중첩수: 2회. 해당 효과는 1초마다 1번 발동한다",
+        "PT": "6s após ao causar Dano Elemental, aumenta todos os Danos em 9%. Este efeito pode acumular até 2 vezes e pode ser ativado uma vez a cada 1s.",
+        "RU": "Нанесённый элементальный урон увеличивает весь наносимый урон на 9% на 6 сек. Может складываться до 2 раз. Может возникнуть раз в 1 сек.",
+        "TH": "ภายใน 6 วินาทีหลังจากสร้างความเสียหายธาตุ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 9% ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 2 ชั้นและสามารถปล่อยได้หนึ่งครั้งในทุก 1 วินาที",
+        "TR": "Element Hasarı verildiğinde 6 saniyeliğine tüm Hasarlar %9 artar. 2 kademeye kadar birikir. Her 1 saniyede bir uygulanabilir.",
+        "VI": "Trong 6s sau khi tạo thành sát thương nguyên tố, sát thương nhân vật tạo ra tăng 9%, cộng dồn 2 lần. Mỗi 1s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Dealing Elemental DMG increases all DMG by 10.5% for 6s. Max 2 stacks. Can occur once every 1s.",
+        "CHS": "造成元素伤害后的6秒内，角色造成的伤害提高10.5%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+        "CHT": "造成元素傷害後的6秒內，角色造成的傷害提高10.5%，最多疊加兩層。該效果每秒只能觸發一次。",
+        "DE": "Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um 10,5 %, 2-fach stapelbar. 1 s Abklingzeit.",
+        "ES": "Tras causar Daño Elemental, aumenta todo el daño infligido en un 10.5% durante 6 s. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 1 s.",
+        "FR": "Lorsque vous infligez des DGT élémentaires à vos ennemis, tous les DGT infligés par ce personnage augmentent de 10,5 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les secondes.",
+        "ID": "Mengakibatkan Elemental DMG akan meningkatkan 10,5% DMG selama 6 detik. Maksimum 2 lapis. Dapat terpicu setiap 1 detik.",
+        "IT": "#Infliggere DAN elementali aumenta tutti i DAN di un 10,5% per 6 s. Cumulabile fino a 2 volte. Si può verificare una volta ogni 1 s.",
+        "JP": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+10.5%、最大2重まで。1秒毎に1回のみ発動可能。",
+        "KR": "원소 피해를 준 후 6초 동안 캐릭터가 주는 피해가 10.5% 증가한다. 최대 중첩수: 2회. 해당 효과는 1초마다 1번 발동한다",
+        "PT": "6s após ao causar Dano Elemental, aumenta todos os Danos em 10.5%. Este efeito pode acumular até 2 vezes e pode ser ativado uma vez a cada 1s.",
+        "RU": "Нанесённый элементальный урон увеличивает весь наносимый урон на 10,5% на 6 сек. Может складываться до 2 раз. Может возникнуть раз в 1 сек.",
+        "TH": "ภายใน 6 วินาทีหลังจากสร้างความเสียหายธาตุ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 10.5% ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 2 ชั้นและสามารถปล่อยได้หนึ่งครั้งในทุก 1 วินาที",
+        "TR": "Element Hasarı verildiğinde 6 saniyeliğine tüm Hasarlar %10,5 artar. 2 kademeye kadar birikir. Her 1 saniyede bir uygulanabilir.",
+        "VI": "Trong 6s sau khi tạo thành sát thương nguyên tố, sát thương nhân vật tạo ra tăng 10.5%, cộng dồn 2 lần. Mỗi 1s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Dealing Elemental DMG increases all DMG by 12% for 6s. Max 2 stacks. Can occur once every 1s.",
+        "CHS": "造成元素伤害后的6秒内，角色造成的伤害提高12%，该效果最多叠加2层。该效果每1秒可以触发一次。",
+        "CHT": "造成元素傷害後的6秒內，角色造成的傷害提高12%，最多疊加兩層。該效果每秒只能觸發一次。",
+        "DE": "Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um 12 %, 2-fach stapelbar. 1 s Abklingzeit.",
+        "ES": "Tras causar Daño Elemental, aumenta todo el daño infligido en un 12% durante 6 s. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 1 s.",
+        "FR": "Lorsque vous infligez des DGT élémentaires à vos ennemis, tous les DGT infligés par ce personnage augmentent de 12 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les secondes.",
+        "ID": "Mengakibatkan Elemental DMG akan meningkatkan 12% DMG selama 6 detik. Maksimum 2 lapis. Dapat terpicu setiap 1 detik.",
+        "IT": "#Infliggere DAN elementali aumenta tutti i DAN di un 12% per 6 s. Cumulabile fino a 2 volte. Si può verificare una volta ogni 1 s.",
+        "JP": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+12%、最大2重まで。1秒毎に1回のみ発動可能。",
+        "KR": "원소 피해를 준 후 6초 동안 캐릭터가 주는 피해가 12% 증가한다. 최대 중첩수: 2회. 해당 효과는 1초마다 1번 발동한다",
+        "PT": "6s após ao causar Dano Elemental, aumenta todos os Danos em 12%. Este efeito pode acumular até 2 vezes e pode ser ativado uma vez a cada 1s.",
+        "RU": "Нанесённый элементальный урон увеличивает весь наносимый урон на 12% на 6 сек. Может складываться до 2 раз. Может возникнуть раз в 1 сек.",
+        "TH": "ภายใน 6 วินาทีหลังจากสร้างความเสียหายธาตุ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 12% ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุด 2 ชั้นและสามารถปล่อยได้หนึ่งครั้งในทุก 1 วินาที",
+        "TR": "Element Hasarı verildiğinde 6 saniyeliğine tüm Hasarlar %12 artar. 2 kademeye kadar birikir. Her 1 saniyede bir uygulanabilir.",
+        "VI": "Trong 6s sau khi tạo thành sát thương nguyên tố, sát thương nhân vật tạo ra tăng 12%, cộng dồn 2 lần. Mỗi 1s mới thi triển 1 lần."
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 11521,
+  "name": {
+    "EN": "Exaiphanes Blade",
+    "CHS": "星锋剑",
+    "CHT": "星鋒劍",
+    "DE": "Sternspitzen-Klinge",
+    "ES": "Hoja de Exáifanes",
+    "FR": "Lame exaphane",
+    "ID": "Exaiphanes Blade",
+    "IT": "Lama exaiphanes",
+    "JP": "星鋒の剣",
+    "KR": "별빛검",
+    "PT": "Sabre da Ponta Estelar",
+    "RU": "Клинок озарения",
+    "TH": "Exaiphanes Blade",
+    "TR": "Exaiphanes Kılıcı",
+    "VI": "Thanh Kiếm Exaiphanes"
+  },
+  "nameEn": "Exaiphanes Blade",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A longsword that once shone with the light of the very stars. In the voyager's hand, it becomes a brand-new light that has nothing to do with any past era.",
+    "CHS": "曾经闪耀着苍星辉光的长剑。在踏上旅途之人的手中，成为了不属于任何旧时代的崭新光芒。",
+    "CHT": "曾經閃耀著蒼星輝光的長劍。在踏上旅途之人的手中，成為了不屬於任何舊時代的嶄新光芒。",
+    "DE": "Ein Langschwert, das einst im Sternenglanz erstrahlte. In der Hand einer Person, die sich auf eine Reise begeben hat, ist es zu einem ganz neuen Licht geworden, das keiner vergangenen Ära angehört.",
+    "ES": "Una espada larga que alguna vez brilló con la gloriosa luz de la Estrella Albina. Al caer en manos de alguien que ha emprendido un viaje, se ha convertido en un resplandor completamente nuevo que no pertenece a ninguna época pasada.",
+    "FR": "Une épée longue qui, jadis, brillait de l'éclat de mille étoiles. Entre vos mains, elle devient une lumière inédite, étrangère à toute époque révolue.",
+    "ID": "Pedang panjang yang pernah memancarkan cahaya dari Bintang Pucat. Di tangan seseorang yang memulai perjalanan, ia menjadi cahaya baru yang tidak termasuk dalam era lama mana pun.",
+    "IT": "Una spada lunga che un tempo brillava della luce degli astri. Nelle mani di chi viaggia, diventa una luce nuova priva di ogni legame con le epoche passate.",
+    "JP": "かつて蒼星の輝きを纏っていた長剣。旅する者の手に渡り、いかなる旧き時代にも属さない、新たな光となった。",
+    "KR": "창백한 별빛 장검은 이제 여행자의 손에서 새로운 시대의 빛으로 거듭났다",
+    "PT": "Uma espada longa que outrora brilhava com o resplandecente brilho da Estrela Azul. Na mão do viajante, ela se torna uma luz inteiramente nova, sem qualquer vínculo com eras passadas.",
+    "RU": "Длинный меч, некогда сиявший светом мириад звёзд. В руках путника он превращается в совершенно новый свет, не имеющий ничего общего с какой-либо из прошлых эпох.",
+    "TH": "ดาบยาวที่เคยทอประกายแสงแห่งดาราสีจาง ได้กลายเป็นแสงสว่างสายใหม่ที่ไม่ได้เป็นของยุคสมัยเก่ายุคใดในมือของผู้ที่ออกเดินทาง",
+    "TR": "Bir zamanlar yıldızların ışığıyla parlayan bir uzun kılıç. Yolcunun elindeyken geçmiş çağlarla hiçbir bağlantısı kalmamış yepyeni bir ışığa bürünür.",
+    "VI": "Thanh kiếm từng tỏa ra ánh vinh quang của Sao Nhạt. Trong tay người bước lên hành trình, nó đã trở thành ánh sáng hoàn toàn mới không thuộc về bất kỳ thời đại cũ nào."
+  },
+  "icon": "generated/weapon-profiles/11521/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

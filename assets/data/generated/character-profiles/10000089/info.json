@@ -1,0 +1,137 @@
+{
+  "id": "10000089",
+  "name": {
+    "EN": "Furina",
+    "CHS": "芙宁娜",
+    "CHT": "芙寧娜",
+    "DE": "Furina",
+    "ES": "Furina",
+    "FR": "Furina",
+    "ID": "Furina",
+    "IT": "Furina",
+    "JP": "フリーナ",
+    "KR": "푸리나",
+    "PT": "Furina",
+    "RU": "Фурина",
+    "TH": "Furina",
+    "TR": "Furina",
+    "VI": "Furina"
+  },
+  "nameEn": "Furina",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 10,
+    "day": 13
+  },
+  "release": "2023-11-06T22:00:00",
+  "icon": "generated/character-profiles/10000089/avatar.webp",
+  "fullWish": "generated/character-profiles/10000089/full_wish.webp",
+  "fullWishObjectPosition": "57.3% 39.6%",
+  "title": {
+    "EN": "Endless Solo of Solitude",
+    "CHS": "不休独舞",
+    "CHT": "不休獨舞",
+    "DE": "Endloser Solotanz",
+    "ES": "La Bailarina Incansable",
+    "FR": "Solo infini de solitude",
+    "ID": "Endless Solo of Solitude",
+    "IT": "Assolo solitario e sempiterno",
+    "JP": "不休のソリスト",
+    "KR": "멈추지 않는 독무",
+    "PT": "Dançarina Solitária Eterna",
+    "RU": "Бесконечный танец одиночества",
+    "TH": "ระบำเดียวดายชั่วนิรันดร์",
+    "TR": "Ebedi Yalnızlık Senfonisi",
+    "VI": "Độc Diễn Vô Tận"
+  },
+  "description": {
+    "EN": "The absolute focus of the stage of judgment, until the final applause sounds.",
+    "CHS": "审判舞台上的绝对焦点，直至谢幕的掌声响起。",
+    "CHT": "審判舞臺上的絕對焦點，直至謝幕的掌聲響起。",
+    "DE": "Der absolute Mittelpunkt auf der Bühne bei Verhandlungen bis zum Applaus am Ende.",
+    "ES": "El foco de atención absoluto del escenario durante los juicios, hasta que la obra termina y el público rompe a aplaudir.",
+    "FR": "Le point central absolu de la scène du jugement, jusqu'aux applaudissements finaux.",
+    "ID": "Pusat perhatian utama panggung pengadilan, hingga tepuk-tangan di penghujung acara terdengar.",
+    "IT": "La protagonista assoluta della scena del giudizio, fino all'applauso finale.",
+    "JP": "審判の舞台で、誰よりもスポットライトを浴びる存在——拍手が鳴り響き、その幕が閉じられるまで。",
+    "KR": "종막을 알리는 박수 소리가 울려 퍼지기 전까지 모두의 주목을 받는 심판 무대 위의 주인공",
+    "PT": "O foco absoluto em cima do palco durante um julgamento, até o momento das cortinas caírem e dos aplausos soarem.",
+    "RU": "В центре внимания на сцене театра правосудия вплоть до финального занавеса и оваций.",
+    "TH": "จุดสนใจบนเวทีแห่งการพิพากษา จนกระทั่งเสียงปรบมือคำรามก้องเมื่อม่านปิดลง",
+    "TR": "Son alkış gelene dek mahkeme sahnesinin sarsılmaz odak noktası.",
+    "VI": "Tâm điểm tuyệt đối trên sân khấu xét xử, cho đến khi tiếng vỗ tay hạ màn nổi lên."
+  },
+  "constellationName": {
+    "EN": "Animula Choragi",
+    "CHS": "司颂座",
+    "CHT": "司頌座",
+    "DE": "Animula Choragi",
+    "ES": "Animula Choragi",
+    "FR": "Animula Choragi",
+    "ID": "Animula Choragi",
+    "IT": "Animula Choragi",
+    "JP": "頌歌者座",
+    "KR": "코레고스자리",
+    "PT": "Animula Choragi",
+    "RU": "Капельмейстер",
+    "TH": "Animula Choragi",
+    "TR": "Kutsal Ezgi",
+    "VI": "Cung Tư Tụng"
+  },
+  "native": {
+    "EN": "Court of Fontaine",
+    "CHS": "枫丹廷",
+    "CHT": "楓丹廷",
+    "DE": "Hof von Fontaine",
+    "ES": "Corte de Fontaine",
+    "FR": "Cour de Fontaine",
+    "ID": "Court of Fontaine",
+    "IT": "Corte di Fontaine",
+    "JP": "フォンテーヌ廷",
+    "KR": "폰타인성",
+    "PT": "Corte de Fontaine",
+    "RU": "Кур-де-Фонтейн",
+    "TH": "นครว่าการ Fontaine",
+    "TR": "Fontaine Şehri",
+    "VI": "Đại Sảnh Fontaine"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Amber Lee Connors"
+    },
+    {
+      "lang": "CHS",
+      "va": "钱琛"
+    },
+    {
+      "lang": "JP",
+      "va": "水瀬いのり"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Ha-young"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1191.65,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.9924,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 54.14615,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000094",
+  "name": {
+    "EN": "Chiori",
+    "CHS": "千织",
+    "CHT": "千織",
+    "DE": "Chiori",
+    "ES": "Chiori",
+    "FR": "Chiori",
+    "ID": "Chiori",
+    "IT": "Chiori",
+    "JP": "千織",
+    "KR": "치오리",
+    "PT": "Chiori",
+    "RU": "Тиори",
+    "TH": "Chiori",
+    "TR": "Chiori",
+    "VI": "Chiori"
+  },
+  "nameEn": "Chiori",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 8,
+    "day": 17
+  },
+  "release": "2024-03-11T22:00:00",
+  "icon": "generated/character-profiles/10000094/avatar.webp",
+  "fullWish": "generated/character-profiles/10000094/full_wish.webp",
+  "fullWishObjectPosition": "46.1% 16.4%",
+  "title": {
+    "EN": "The Thundering Seamstress",
+    "CHS": "鸣雷的裁锦师",
+    "CHT": "鳴雷的裁錦師",
+    "DE": "Donnernde Schneiderin",
+    "ES": "La Costurera Tronadora",
+    "FR": "Couturière tonitruante",
+    "ID": "The Thundering Seamstress",
+    "IT": "Sarta tonante",
+    "JP": "雷鳴の裁錦師",
+    "KR": "뇌명의 재단사",
+    "PT": "Costureira Trovejante",
+    "RU": "Громоподобная закройщица",
+    "TH": "ช่างตัดเสื้อสายฟ้าฟาด",
+    "TR": "Gürleyen Terzi",
+    "VI": "Nhà Thiết Kế Sấm Chớp"
+  },
+  "description": {
+    "EN": "The owner of Chioriya Boutique. A tailor renowned throughout Fontaine.",
+    "CHS": "「千织屋」的老板。枫丹著名服装设计师。",
+    "CHT": "「千織屋」的老闆。楓丹著名服裝設計師。",
+    "DE": "Die Inhaberin der Chioriya-Boutique und eine in ganz Fontaine bekannte Schneiderin.",
+    "ES": "La dueña de la Sastrería Chiori y una famosa diseñadora de moda de Fontaine.",
+    "FR": "La propriétaire de la Boutique Chioriya et une tailleuse réputée dans tout Fontaine.",
+    "ID": "Pemilik Chioriya Boutique. Penjahit yang namanya sangat terkenal di Fontaine.",
+    "IT": "La proprietaria della Boutique Chiori. Una sarta famosa in tutta Fontaine.",
+    "JP": "「千織屋」店主。フォンテーヌの有名なファッションデザイナー。",
+    "KR": "「치오리 부티크」의 사장이자 폰타인의 유명 패션 디자이너",
+    "PT": "A dona da Boutique Chioriya. É uma costureira renomada em Fontaine.",
+    "RU": "Хозяйка «Дома Тиори». Дизайнер одежды, известный во всём Фонтейне.",
+    "TH": "เจ้าของ \"ร้าน Chioriya Boutique\" ดีไซเนอร์ ชื่อดังของ Fontaine",
+    "TR": "Butik Chioriya'nın sahibi. Tüm Fontaine'de tanınan bir terzi.",
+    "VI": "Chủ Tiệm Thời Trang Chioriya. Nhà thiết kế thời trang nổi tiếng ở Fontaine."
+  },
+  "constellationName": {
+    "EN": "Cisoria",
+    "CHS": "丝切铗座",
+    "CHT": "絲切鋏座",
+    "DE": "Cisoria",
+    "ES": "Cisoria",
+    "FR": "Cisoria",
+    "ID": "Cisoria",
+    "IT": "Cisoria",
+    "JP": "糸切鋏座",
+    "KR": "재단가위자리",
+    "PT": "Cisoria",
+    "RU": "Портновские Ножницы",
+    "TH": "Cisoria",
+    "TR": "İpek Makası",
+    "VI": "Cung Ti Thiết Kiệp"
+  },
+  "native": {
+    "EN": "Court of Fontaine",
+    "CHS": "枫丹廷",
+    "CHT": "楓丹廷",
+    "DE": "Hof von Fontaine",
+    "ES": "Corte de Fontaine",
+    "FR": "Cour de Fontaine",
+    "ID": "Court of Fontaine",
+    "IT": "Corte di Fontaine",
+    "JP": "フォンテーヌ廷",
+    "KR": "폰타인성",
+    "PT": "Corte de Fontaine",
+    "RU": "Кур-де-Фонтейн",
+    "TH": "นครว่าการ Fontaine",
+    "TR": "Fontaine Şehri",
+    "VI": "Đại Sảnh Fontaine"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Brittany Lauda"
+    },
+    {
+      "lang": "CHS",
+      "va": "陈阳"
+    },
+    {
+      "lang": "JP",
+      "va": "竹達彩奈"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Da-eun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 890.4009,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 25.137,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 74.1892,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

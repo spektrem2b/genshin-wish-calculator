@@ -1,0 +1,137 @@
+{
+  "id": "10000055",
+  "name": {
+    "EN": "Gorou",
+    "CHS": "五郎",
+    "CHT": "五郎",
+    "DE": "Gorou",
+    "ES": "Gorou",
+    "FR": "Gorou",
+    "ID": "Gorou",
+    "IT": "Gorou",
+    "JP": "ゴロー",
+    "KR": "고로",
+    "PT": "Gorou",
+    "RU": "Горо",
+    "TH": "Gorou",
+    "TR": "Gorou",
+    "VI": "Gorou"
+  },
+  "nameEn": "Gorou",
+  "element": "Geo",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 5,
+    "day": 18
+  },
+  "release": "2021-12-14T16:00:00",
+  "icon": "generated/character-profiles/10000055/avatar.webp",
+  "fullWish": "generated/character-profiles/10000055/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 19.4%",
+  "title": {
+    "EN": "Canine Warrior",
+    "CHS": "戎犬锵锵",
+    "CHT": "戎犬鏘鏘",
+    "DE": "Hundekrieger",
+    "ES": "El General Canino",
+    "FR": "Guerrier canin",
+    "ID": "Canine Warrior",
+    "IT": "Guerriero canino",
+    "JP": "雄々しき戎犬",
+    "KR": "견족의 전사",
+    "PT": "Guerreiro Canino",
+    "RU": "Пёс войны",
+    "TH": "นักรบคู่หูผู้ซื่อสัตย์",
+    "TR": "Köpek Savaşçı",
+    "VI": "Chiến Khuyển Nanh Nhọn"
+  },
+  "description": {
+    "EN": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+    "CHS": "海祇岛军的大将，深受部下信赖。",
+    "CHT": "海祇島軍的大將，深受部下信賴。",
+    "DE": "Der große General der Streitkräfte von Watatsumi, dessen Untergebene ihm voll und ganz vertrauen.",
+    "ES": "El gran general de las tropas de Watatsumi. Sus subordinados confían plenamente en él.",
+    "FR": "Le grand général des forces de l'Île de Watatsumi, en qui ses subordonnés ont profondément confiance.",
+    "ID": "Jenderal pasukan di Pulau Watatsumi. Dia sangat dipercaya anak buahnya.",
+    "IT": "Il grande generale dell'esercito dell'Isola di Watatsumi. I suoi subordinati nutrono piena fiducia in lui.",
+    "JP": "海祇島軍隊の大将で、部下から厚く信頼されている。",
+    "KR": "와타츠미군의 대장, 부하들의 깊은 신뢰를 받고 있다",
+    "PT": "O grande general das tropas da Ilha Watatsumi. Seus subordinados acreditam profundamente nele.",
+    "RU": "Великий генерал армии Ватацуми. Пользуется безграничным доверием своих подчинённых.",
+    "TH": "พลเอกของกองทหารแห่งเกาะ Watatsumi ผู้ได้รับความไว้วางใจจากผู้ใต้บังคับบัญชาเป็นอย่างสูง",
+    "TR": "Watatsumi Adası kuvvetlerinin büyük generali. Astları kendisine derinden güvenir.",
+    "VI": "Đại tướng đảo Watatsumi, rất được thuộc hạ tin tưởng."
+  },
+  "constellationName": {
+    "EN": "Canis Bellatoris",
+    "CHS": "柴犬座",
+    "CHT": "柴犬座",
+    "DE": "Canis Bellatoris",
+    "ES": "Canis Bellatoris",
+    "FR": "Canis Bellatoris",
+    "ID": "Canis Bellatoris",
+    "IT": "Canis Bellatoris",
+    "JP": "柴犬座",
+    "KR": "시바견자리",
+    "PT": "Canis Bellatoris",
+    "RU": "Сиба-ину",
+    "TH": "Canis Bellatoris",
+    "TR": "Savaşçı Köpek",
+    "VI": "Cung Sài Khuyển"
+  },
+  "native": {
+    "EN": "Watatsumi Island",
+    "CHS": "海祇岛",
+    "CHT": "海祇島",
+    "DE": "Watatsumi",
+    "ES": "Isla Watatsumi",
+    "FR": "Île de Watatsumi",
+    "ID": "Pulau Watatsumi",
+    "IT": "Isola di Watatsumi",
+    "JP": "海祇島",
+    "KR": "와타츠미섬",
+    "PT": "Ilha Watatsumi",
+    "RU": "Ватацуми",
+    "TH": "เกาะ Watatsumi",
+    "TR": "Watatsumi Adası",
+    "VI": "Đảo Watatsumi"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Cory Yee"
+    },
+    {
+      "lang": "CHS",
+      "va": "杨昕燃"
+    },
+    {
+      "lang": "JP",
+      "va": "畠中祐"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Sae-byeok"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ROCK_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 802.3761,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 15.31488,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 54.36375,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

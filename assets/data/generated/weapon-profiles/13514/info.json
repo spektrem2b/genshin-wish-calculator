@@ -1,0 +1,52 @@
+{
+  "id": 13514,
+  "name": {
+    "EN": "Symphonist of Scents",
+    "CHS": "香韵奏者",
+    "CHT": "香韻奏者",
+    "DE": "Sinfoniker der Düfte",
+    "ES": "Sinfonista de Aromas",
+    "FR": "Symphoniste des senteurs",
+    "ID": "Symphonist of Scents",
+    "IT": "Sinfonista di fragranze",
+    "JP": "香りのシンフォニスト",
+    "KR": "맛의 지휘자",
+    "PT": "Sinfonista de Aromas",
+    "RU": "Симфонист ароматов",
+    "TH": "Symphonist of Scents",
+    "TR": "Aromaların Ezgisi",
+    "VI": "Nhạc Sĩ Hương Thơm"
+  },
+  "nameEn": "Symphonist of Scents",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "An elegantly built polearm, said to have been a conductor's baton wielded by a great musician to bridge tune and taste.",
+    "CHS": "形制典雅的长枪，据说曾是某位伟大乐师在音律和味觉之间建起桥梁的指挥棒。",
+    "CHT": "形制典雅的長槍，據說曾是某位偉大樂師在音律和味覺之間建起橋梁的指揮棒。",
+    "DE": "Ein elegant konstruierter Speer, von dem es heißt, er sei einst ein Dirigentenstab gewesen, der von einem großen Musiker geschwungen wurde, um Melodie und Geschmack zu vereinen.",
+    "ES": "Una elegante lanza que, según dicen, fue la batuta de una gran compositora que unió la música y el sabor.",
+    "FR": "Une lance élégamment construite, qui aurait été un bâton de chef d'orchestre utilisé par un grand musicien pour concilier mélodie et goût.",
+    "ID": "Tombak yang elegan. konon katanya merupakan tongkat konduktor yang pernah digunakan oleh seorang musisi hebat untuk membangun jembatan antara melodi dan indra perasa.",
+    "IT": "Una lancia finemente realizzata. Si dice che sia stata la bacchetta di un direttore d'orchestra, brandita da un grande musicista per unire la musica al gusto.",
+    "JP": "優雅な形の長槍。とある偉大な楽師による、音楽と味覚の架け橋を作るための指揮棒だという。",
+    "KR": "우아한 형태의 창. 어떤 위대한 대악사가 선율과 미각 사이를 연결하는 다리로 삼았던 지휘봉이라고 전해진다",
+    "PT": "Uma lança elegante, dizem que foi a batuta de um maestro, empunhada por um grande músico para ser a ponte entre a música e o bom gosto.",
+    "RU": "Копьё элегантной формы. Говорят, когда-то оно служило дирижёрской палочкой великому музыканту, который воздвиг мост между мелодией и вкусом.",
+    "TH": "หอกรูปทรงคลาสสิก ว่ากันว่าครั้งหนึ่ง มันเคยเป็นไม้บาตอง ที่นักดนตรีผู้ยิ่งใหญ่ ใช้สร้างสะพานระหว่างท่วงทำนอง และประสาทรับรสชาติ",
+    "TR": "Zarif işçiliğe sahip bir mızrak. Melodileri ve lezzetleri bir araya getirebilen büyük bir müzisyene ait bir orkestra şefi batonu olduğu söylenir.",
+    "VI": "Ngọn thương dài với tạo hình tao nhã, nghe nói từng là gậy chỉ huy của một nhạc sĩ vĩ đại nào đó sử dụng để tạo nên cây cầu nối giữa âm nhạc và vị giác."
+  },
+  "icon": "generated/weapon-profiles/13514/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

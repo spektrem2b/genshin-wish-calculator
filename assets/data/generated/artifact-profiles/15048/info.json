@@ -1,0 +1,69 @@
+{
+  "id": 15048,
+  "name": {
+    "EN": "Heart of the Furnace",
+    "CHS": "炉火融炼之心",
+    "CHT": "爐火融煉之心",
+    "DE": "Im Feuer geschmolzenes Herz",
+    "ES": "Corazón Forjado",
+    "FR": "Cœur de la fournaise",
+    "ID": "Heart of the Furnace",
+    "IT": "Cuore della fornace",
+    "JP": "炉炎溶錬の心",
+    "KR": "용광로가 빚은 심장",
+    "PT": "Coração Forjado",
+    "RU": "Сердце горна",
+    "TH": "Heart of the Furnace",
+    "TR": "Ocağın Kalbi",
+    "VI": "Trái Tim Lửa Nung"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15048/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "#Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%",
+        "RU": "Сила атаки увеличивается на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn Công tăng 18%."
+      },
+      "affixId": "2150480"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases the equipping character's ATK by 12% for 12s when they trigger a Stellar Glimmer reaction or deal Stellar Glimmer reaction DMG. Also increases Stellar Glimmer reaction DMG dealt by all nearby party members by 50%. The above effects can trigger even when the equipping character is not on the field, and he DMG bonus from multiple Artifact Sets with the same name do not stack.",
+        "CHS": "装备者触发星烁反应或造成星烁反应伤害后的12秒内，攻击力提升12%，队伍中附近的所有角色造成的星烁反应伤害提升50%。装备者处于后台时也能触发上述效果。同名圣遗物套装产生的伤害加成效果无法叠加。",
+        "CHT": "裝備者觸發星爍反應或造成星爍反應傷害後的12秒內，攻擊力提升12%，隊伍中附近的所有角色造成的星爍反應傷害提升50%。裝備者處於後臺時也能觸發上述效果。同名聖遺物套裝產生的傷害加成效果無法疊加。",
+        "DE": "#Erhöht innerhalb von 12 s, nachdem der Träger eine Stellarfunkeln-Reaktion ausgelöst oder Schaden mit einer solchen verursacht hat, den ANG des Trägers um 12 % und den durch alle Truppenmitglieder in der Nähe mithilfe von Stellarfunkeln-Reaktionen verursachten Schaden um 50 %. Dieser Effekt kann auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die SCH-Bonus-Effekte mehrerer gleicher Artefaktsets sind nicht stapelbar.",
+        "ES": "#Durante 12 s después de que el portador de este conjunto de artefactos cause una reacción de Destello Estelar o inflija daño de Destello Estelar, su ATQ aumentará en un 12% y el daño de Destello Estelar de todos los personajes cercanos del equipo aumentará en un 50%. Este efecto se puede activar incluso cuando el portador está en tu equipo pero no en uso. Los bonos de daño otorgados por este conjunto de artefactos no se pueden acumular con los de otro conjunto del mismo tipo.",
+        "FR": "Pendant 12 s après que le personnage équipé de l'artéfact a déclenché une réaction astrale ou infligé des DGT de réaction astrale, son ATQ augmente de 12 % et les DGT de réaction astrale infligés par tous les personnages de l'équipe à proximité augmentent de 50 %. L'effet ci-dessus peut être déclenché même si le personnage n'est pas déployé, et les effets d'augmentation des DGT accordés par les sets d'artéfacts du même nom ne se cumulent pas.",
+        "ID": "Saat Karakter yang mengenakan memicu reaksi Stellar Glimmer atau mengakibatkan DMG reaksi Stellar Glimmer, maka ATK +12% dan DMG reaksi Stellar Glimmer yang diakibatkan Karakter party di sekitar +50% selama 12 detik. Efek di atas juga dapat terpicu saat Karakter yang mengenakan ada di dalam party namun tidak berada dalam medan pertempuran. Bonus DMG dari Set Artefak dengan nama yang sama tidak dapat ditumpuk.",
+        "IT": "#Quando il personaggio innesca una reazione di Barlume astrale o quando infligge DAN da reazione di Barlume astrale, il suo ATT aumenta di un 12% per 12 s. Inoltre, i DAN da reazione di Barlume astrale inflitti dai membri vicini del gruppo aumentano di un 50%. Gli effetti sopracitati possono attivarsi anche quando il personaggio non è in campo, e i bonus DAN forniti da set di manufatti con lo stesso nome non si accumulano.",
+        "JP": "装備者が星反応を起こす、または星反応ダメージを与えた後の12秒間、攻撃力+12%、近くにいるチーム内のすべてのキャラクターが与える星反応ダメージ+50%。装備したキャラクターが待機している場合にも効果を発動できる。同じ名前の聖遺物セットによるダメージアップ効果は重ね掛けできない。",
+        "KR": "장착 캐릭터가 별빛 반응을 발동하거나 별빛 반응 피해를 준 후 12초 동안 공격력이 12% 증가하고, 주변에 있는 파티 내 모든 캐릭터가 주는 별빛 반응 피해가 50% 증가한다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다. 동명의 성유물 세트가 생성한 피해 보너스 효과는 중첩되지 않는다",
+        "PT": "Nos 12s após o portador desencadear Brilho Estelar ou causar Dano de Brilho Estelar, aumenta o ATQ em 12% e o Dano de Brilho Estelar de todos os membros próximos da equipe em 50%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo. O efeito de bônus de Dano de conjuntos de Artefatos iguais não acumula.",
+        "RU": "На 12 сек. после того как экипированный персонаж активирует реакции Звёздного блеска или наносит ими урон, его сила атаки повышается на 12%, а урон реакций Звёздного блеска всех персонажей отряда поблизости увеличивается на 50%. Перечисленные эффекты могут возникнуть, даже если экипированный персонаж не находится на поле боя. Бонусы урона одноимённых наборов артефактов не суммируются.",
+        "TH": "ภายใน 12 วินาที หลังจากผู้สวมใส่ทำให้เกิดปฏิกิริยาประกายดาว หรือสร้างความเสียหายจากปฏิกิริยาประกายดาว พลังโจมตีจะเพิ่มขึ้น 12% ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียง จะสร้างความเสียหายจากปฏิกิริยาประกายดาวเพิ่มขึ้น 50% เอฟเฟกต์นี้สามารถเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โบนัสความเสียหายที่เกิดจากเซ็ตอาร์ติแฟกต์เดียวกัน จะไม่ซ้อนทับกัน",
+        "TR": "Kuşanan karakter bir Yıldız Parıltısı tepkimesi tetiklediğinde veya Yıldız Parıltısı Tepkimesi Hasarı verdiğinde 12 saniyeliğine Saldırısı %12 artar. Ayrıca yakındaki tüm grup üyelerinin verdiği Yıldız Parıltısı Tepkimesi Hasarı da %50 artar. Bu etkiler kuşanan karakter savaş alanında olmasa da tetiklenebilir. Birden fazla Yadigar Setinden gelen aynı isimdeki Hasar bonusları birikmez.",
+        "VI": "Trong 12s sau khi người trang bị kích hoạt phản ứng Tinh Tú Lấp Lánh hoặc gây sát thương Tinh Tú Lấp Lánh, Tấn Công tăng 12%, tất cả nhân vật trong đội ở gần tăng 50% sát thương phản ứng Tinh Tú Lấp Lánh. Người trang bị khi không ra trận cũng có thể kích hoạt hiệu quả nêu trên. Hiệu quả tăng sát thương sản sinh từ bộ Thánh Di Vật cùng tên sẽ không thể cộng dồn."
+      },
+      "affixId": "2150481"
+    }
+  ]
+}

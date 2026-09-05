@@ -1,0 +1,52 @@
+{
+  "id": 12402,
+  "name": {
+    "EN": "The Bell",
+    "CHS": "钟剑",
+    "CHT": "鐘劍",
+    "DE": "Glocke",
+    "ES": "Espada del Tiempo",
+    "FR": "Épée-horloge",
+    "ID": "The Bell",
+    "IT": "Spadone del tempo",
+    "JP": "鐘の剣",
+    "KR": "시간의 검",
+    "PT": "O Sino",
+    "RU": "Меч-колокол",
+    "TH": "The Bell",
+    "TR": "Çan",
+    "VI": "Kiếm Chuông"
+  },
+  "nameEn": "The Bell",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged.",
+    "CHS": "装有时钟的厚重大剑，其中的计时机关早已被破坏。",
+    "CHT": "裝有時鐘的厚重大劍，其中的計時機關早已被破壞。",
+    "DE": "Ein schweres Großschwert mit einer eingebauten Uhr, die jedoch längst nicht mehr geht.",
+    "ES": "Una espada pesada con un reloj cuyos mecanismos internos fueron dañados hace mucho tiempo.",
+    "FR": "Une grande épée lourde équipée d'une cloche, mais dont le mécanisme de chronométrage a été détruit il y a bien longtemps.",
+    "ID": "Greatsword yang besar dengan sebuah jam tertanam di tengahnya, tetapi mesin di dalamnya telah rusak sejak lama.",
+    "IT": "Uno spadone pesante. L'orologio con cui è abbellito è rimasto danneggiato da tempo immemore.",
+    "JP": "時計が飾られた大剣、その中の時計はすでに壊れている。",
+    "KR": "시계가 달린 대검. 사실 검 내부의 시계 장치는 오래전에 파괴되었다",
+    "PT": "Um espadão pesado com um relógio, mas seus mecanismos internos foram danificados.",
+    "RU": "Тяжёлый двуручный меч со встроенными часами, механизмы которых уже давно изношены.",
+    "TH": "ดาบขนาดใหญ่ที่หนักและมีนาฬิกาติดตั้งมาด้วย แต่กลไกภายในของมันนั้นพังไปนานแล้ว",
+    "TR": "Ağır bir büyük kılıç. Üzerinde mekanizması uzun zaman önce bozulmuş bir saat bulunur.",
+    "VI": "Kiếm lớn và nặng có gắn thêm đồng hồ, nhưng cơ quan tính giờ của nó đã bị phá hoại."
+  },
+  "icon": "generated/weapon-profiles/12402/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

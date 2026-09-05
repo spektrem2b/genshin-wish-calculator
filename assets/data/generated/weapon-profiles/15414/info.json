@@ -1,0 +1,52 @@
+{
+  "id": 15414,
+  "name": {
+    "EN": "Hamayumi",
+    "CHS": "破魔之弓",
+    "CHT": "破魔之弓",
+    "DE": "Hamayumi",
+    "ES": "Masacrademonios",
+    "FR": "Arc d'exorcisme",
+    "ID": "Hamayumi",
+    "IT": "Arco ammazzademoni",
+    "JP": "破魔の弓",
+    "KR": "파마궁",
+    "PT": "Arco Quebra-Demônios",
+    "RU": "Хамаюми",
+    "TH": "Hamayumi",
+    "TR": "Hamayumi",
+    "VI": "Cung Trừ Ma"
+  },
+  "nameEn": "Hamayumi",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.",
+    "CHS": "曾经属于某个巫女的战弓。以优越的技法打造，精巧而耐用。",
+    "CHT": "曾經屬於某個巫女的戰弓。以優越的技法打造，精巧而耐用。",
+    "DE": "Eine gewisse Schreinjungfer besaß einst diesen Bogen. Er wurde mit überragendem Geschick gefertigt und ist sowohl kunstvoll als auch robust.",
+    "ES": "El arco de guerra que perteneció a una miko del pasado. Exquisito y resistente, fue fabricado con una técnica inigualable.",
+    "FR": "Cet arc de guerre appartenait autrefois à une certaine prêtresse. Il a été fabriqué avec un doigté exceptionnel, et est à la fois complexe et robuste.",
+    "ID": "Seorang miko tertentu pernah memiliki busur ini. Busur ini dibuat dengan keahlian yang luar biasa, rumit, juga kokoh.",
+    "IT": "Quest'arco, appartenuto a una sacerdotessa, è stato realizzato con una maestria superlativa. Un'arma elaborata e resistente al tempo stesso.",
+    "JP": "ある巫女の所有物だった戦弓。優れた技術で作られ、精巧で強靭である。",
+    "KR": "어느 무녀의 전궁, 뛰어난 기술로 만들어져 매우 정교하고 튼튼하다",
+    "PT": "Uma certa bruxa do templo tinha este arco de guerra. Foi feito com uma excelente habilidade, e ele é complexo e robusto.",
+    "RU": "Боевой лук, когда-то принадлежавший одной жрице. Изысканный и прочный, он был изготовлен с использованием непревзойденной техники.",
+    "TH": "ธนูสงครามที่เคยเป็นของมิโกะคนหนึ่ง ถูกสร้างขึ้นมาด้วยเทคนิคที่เหนือชั้น มีความประณีตและทนทาน",
+    "TR": "Bu savaş yayı bir zamanlar bir tapınak görevlisine aitti. Üstün işçilikle üretilen bu yay karmaşık bir yapıya sahip olsa da sağlamdır.",
+    "VI": "Cây cung từng thuộc về một pháp sư nào đó, tạo hình tinh xảo nhưng rất dễ sử dụng."
+  },
+  "icon": "generated/weapon-profiles/15414/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

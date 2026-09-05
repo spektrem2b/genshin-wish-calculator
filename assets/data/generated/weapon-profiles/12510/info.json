@@ -1,0 +1,52 @@
+{
+  "id": 12510,
+  "name": {
+    "EN": "Redhorn Stonethresher",
+    "CHS": "赤角石溃杵",
+    "CHT": "赤角石潰杵",
+    "DE": "Rothorn-Steinbrecher",
+    "ES": "Espadón Cornirrojo",
+    "FR": "Brise-pierre de corne rouge",
+    "ID": "Redhorn Stonethresher",
+    "IT": "Spaccarocce Cornorosso",
+    "JP": "赤角石塵滅砕",
+    "KR": "쇄석의 붉은 뿔",
+    "PT": "Chifres Vermelhos Destruidores de Pedras",
+    "RU": "Краснорогий камнеруб",
+    "TH": "Redhorn Stonethresher",
+    "TR": "Taşkıran Kızılboynuz",
+    "VI": "Xích Giác Phá Thạch Đao"
+  },
+  "nameEn": "Redhorn Stonethresher",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs.",
+    "CHS": "依据过去的主人的说法，这是何等鬼怪精妖都能打跑的大杵「赤角石见石溃金涂金啮御狮子」。",
+    "CHT": "依據過去的主人的說法，這是何等鬼怪精妖都能打跑的大杵「赤角石見石潰金塗金齧御獅子」。",
+    "DE": "Seinem Vorbesitzer zufolge ist dies die Waffe des „mächtigen Rothorn-Löwenfürsten, der Stein und Gold brechen kann“ und jedes Monster in die Flucht schlägt.",
+    "ES": "Según su dueño anterior, este gran espadón es el “Heroico, Poderoso, Cornirrojo, Dorado y Destrozapiedras Señor de los Leones”, capaz de hacer que cualquier monstruo ponga pies en polvorosa al verlo.",
+    "FR": "#D'après son ancien propriétaire, cette arme serait le « puissant seigneur lion doré écraseur d'or et briseur de pierres en corne rouge » pouvant faire déguerpir n'importe quel monstre sur-le-champ...",
+    "ID": "Berdasarkan penuturan pemiliknya yang terdahulu, pedang ini adalah pedang \"Bertanduk Merah Penghancur Batu Pelumat Emas Penakluk Singa\" yang dapat membuat monster mana pun lari terbirit-birit.",
+    "IT": "Secondo il suo precedente proprietario, quest'arma rappresenta il \"potente e stoico Signore dei leoni dorato Spaccarocce Cornorosso\" che può affrontare qualsiasi mostro.",
+    "JP": "かつての持ち主によると、これはあらゆる魑魅魍魎を打ち払うことのできる金剛杵——「赤角石塵滅砕金塗金嚼獅子」だそうだ。",
+    "KR": "이전 검 주인의 말을 따르면, 어떤 요괴든 물리칠 수 있는 거대한 방망이라고 한다. 이름하여 「돌을 부수고 금을 씹어먹는 붉은 뿔의 사자」",
+    "PT": "De acordo com seu dono anterior, esta arma é o \"Leão Heroico, Poderoso e de Chifres Vermelhos Destruidores de Pedras\" que pode fazer com que qualquer monstro saia correndo com sua cauda entre suas pernas.",
+    "RU": "По словам его предыдущего владельца, это «Могучее золочёное краснорогое орудие Короля Львов, разрубающее камни и разрезающее золото» может обратить в бегство любого монстра.",
+    "TH": "ตามที่เจ้าของคนก่อนบอก ดาบนี้คือ \"ลอร์ดสิงโตเขาแดงเคลือบทองทะลวงหินทลายศิลา\" ที่สามารถขับไล่เหล่าปีศาจและมอนสเตอร์ให้หนีกระเจิงได้",
+    "TR": "Bir önceki sahibinin açıklamasına göre, bu \"Yüce Kızılboynuz Metin Taşkıran Yaldızlı Taşkıran Aslan Efendisi\" ile karşılaşan tüm canavarlar kuyruğunu bacaklarının arasına sıkıştırıp kaçar.",
+    "VI": "Theo cách nói của chủ nhân xưa kia, với thanh \"Xích Giác Thạch Kiến Thạch Hội Kim Đồ Kim Niết Ngự Sư Tử\" này thì bất cứ loại yêu tinh quỷ quái nào cũng sẽ bị đánh đuổi."
+  },
+  "icon": "generated/weapon-profiles/12510/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

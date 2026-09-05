@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Purifying Crown",
+    "CHS": "洁霜的玉冕",
+    "CHT": "潔霜的玉冕",
+    "DE": "Krone der Läuterung",
+    "ES": "Corona purificahielo",
+    "FR": "Couronne de purification",
+    "ID": "Purifying Crown",
+    "IT": "Corona purificatrice",
+    "JP": "清き霜の冠",
+    "KR": "서리옥 왕관",
+    "PT": "Coroa de Jade Gelado",
+    "RU": "Очищающий венец",
+    "TH": "Purifying Crown",
+    "TR": "Arındıran Taç",
+    "VI": "Vương Miện Sương Trong"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After an Elemental Skill or Elemental Burst is used, ATK is increased by 24% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 40% more Lunar-Charged DMG.",
+        "CHS": "施放元素战技或元素爆发后的20秒内，攻击力提升24%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升40%。",
+        "CHT": "施放元素戰技或元素爆發後的20秒內，攻擊力提升24%。持續期間內，若裝備者創造了護盾，則接下來的20秒內，還會獲得「流電聖敕」效果：隊伍中附近所有角色觸發的月感電反應造成的傷害提升40%。",
+        "DE": "#Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 24 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 40 %.",
+        "ES": "#Tras usar la Habilidad Elemental o Definitiva, el ATQ aumenta en un 24% durante 20 s. Si el portador de esta arma crea un escudo mientras dicho efecto está activo, también obtendrá el efecto de “edicto voltaico” durante 20 s, el cual aumenta en un 40% el daño de la reacción de Electrocargado Lunar de todos los personajes cercanos del equipo.",
+        "FR": "#Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l'ATQ augmente de 24 % pendant 20 s. Si le personnage équipé de l'arme crée un bouclier pendant cette durée, il obtient l'effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l'équipe à proximité de 40 %.",
+        "ID": "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +24% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +40%.",
+        "IT": "#Dopo l'utilizzo di un'abilità o di un Tripudio elementale, l'ATT aumenta di un 24% per 20 s. Se il personaggio che equipaggia l'arma crea uno scudo mentre quest'effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 40% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+        "JP": "元素スキルまたは元素爆発を発動した後の20秒間、攻撃力+24%。継続時間内に装備者がシールドを生成した場合、さらに次の20秒間、「流電の聖勅」効果を獲得し、周囲のチーム全員が起こした月感電反応によるダメージ+40%。",
+        "KR": "원소전투 스킬 또는 원소폭발 발동 후 20초 동안 공격력이 24% 증가한다. 지속 시간 동안 장착 캐릭터가 보호막을 생성하면, 그 후 20초 동안 「전류 칙령」 효과를 획득한다: 주변에 있는 파티 내 모든 캐릭터가 발동한 달 감전 반응으로 주는 피해가 40% 증가한다",
+        "PT": "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 24%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe em 40%.",
+        "RU": "После активации элементального навыка или взрыва стихии сила атаки увеличивается на 24% на 20 сек. Если экипированный персонаж в это время создаёт щит, то на 20 сек. он получает эффект Электризующего эдикта: урон реакции Лунный заряд всех членов отряда поблизости увеличивается на 40%.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุหรือท่าไม้ตาย พลังโจมตีจะเพิ่มขึ้น 24% ในช่วงเวลาต่อเนื่อง หากผู้สวมใส่สร้างโล่ขึ้นมา จะได้รับเอฟเฟกต์ \"Electrifying Edict\" เป็นเวลา 20 วินาทีหลังจากนั้น: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทรา ของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียงเพิ่มขึ้น 40%",
+        "TR": "Bir Element Becerisi veya Element Patlaması kullanıldığında 20sn boyunca Saldırı %24 artar. Bu etki aktifken kuşanan karakter bir Kalkan oluşturduğunda 20sn boyunca Elektrik Fermanı etkisi kazanır: Yakındaki tüm grup üyelerinin verdiği Ay Yüklü Hasarı %40 artar.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 24% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 40% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After an Elemental Skill or Elemental Burst is used, ATK is increased by 30% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 50% more Lunar-Charged DMG.",
+        "CHS": "施放元素战技或元素爆发后的20秒内，攻击力提升30%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升50%。",
+        "CHT": "施放元素戰技或元素爆發後的20秒內，攻擊力提升30%。持續期間內，若裝備者創造了護盾，則接下來的20秒內，還會獲得「流電聖敕」效果：隊伍中附近所有角色觸發的月感電反應造成的傷害提升50%。",
+        "DE": "#Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 30 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 50 %.",
+        "ES": "#Tras usar la Habilidad Elemental o Definitiva, el ATQ aumenta en un 30% durante 20 s. Si el portador de esta arma crea un escudo mientras dicho efecto está activo, también obtendrá el efecto de “edicto voltaico” durante 20 s, el cual aumenta en un 50% el daño de la reacción de Electrocargado Lunar de todos los personajes cercanos del equipo.",
+        "FR": "#Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l'ATQ augmente de 30 % pendant 20 s. Si le personnage équipé de l'arme crée un bouclier pendant cette durée, il obtient l'effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l'équipe à proximité de 50 %.",
+        "ID": "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +30% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +50%.",
+        "IT": "#Dopo l'utilizzo di un'abilità o di un Tripudio elementale, l'ATT aumenta di un 30% per 20 s. Se il personaggio che equipaggia l'arma crea uno scudo mentre quest'effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 50% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+        "JP": "元素スキルまたは元素爆発を発動した後の20秒間、攻撃力+30%。継続時間内に装備者がシールドを生成した場合、さらに次の20秒間、「流電の聖勅」効果を獲得し、周囲のチーム全員が起こした月感電反応によるダメージ+50%。",
+        "KR": "원소전투 스킬 또는 원소폭발 발동 후 20초 동안 공격력이 30% 증가한다. 지속 시간 동안 장착 캐릭터가 보호막을 생성하면, 그 후 20초 동안 「전류 칙령」 효과를 획득한다: 주변에 있는 파티 내 모든 캐릭터가 발동한 달 감전 반응으로 주는 피해가 50% 증가한다",
+        "PT": "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 30%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe em 50%.",
+        "RU": "После активации элементального навыка или взрыва стихии сила атаки увеличивается на 30% на 20 сек. Если экипированный персонаж в это время создаёт щит, то на 20 сек. он получает эффект Электризующего эдикта: урон реакции Лунный заряд всех членов отряда поблизости увеличивается на 50%.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุหรือท่าไม้ตาย พลังโจมตีจะเพิ่มขึ้น 30% ในช่วงเวลาต่อเนื่อง หากผู้สวมใส่สร้างโล่ขึ้นมา จะได้รับเอฟเฟกต์ \"Electrifying Edict\" เป็นเวลา 20 วินาทีหลังจากนั้น: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทรา ของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียงเพิ่มขึ้น 50%",
+        "TR": "Bir Element Becerisi veya Element Patlaması kullanıldığında 20sn boyunca Saldırı %30 artar. Bu etki aktifken kuşanan karakter bir Kalkan oluşturduğunda 20sn boyunca Elektrik Fermanı etkisi kazanır: Yakındaki tüm grup üyelerinin verdiği Ay Yüklü Hasarı %50 artar.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 30% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 50% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After an Elemental Skill or Elemental Burst is used, ATK is increased by 36% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 60% more Lunar-Charged DMG.",
+        "CHS": "施放元素战技或元素爆发后的20秒内，攻击力提升36%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升60%。",
+        "CHT": "施放元素戰技或元素爆發後的20秒內，攻擊力提升36%。持續期間內，若裝備者創造了護盾，則接下來的20秒內，還會獲得「流電聖敕」效果：隊伍中附近所有角色觸發的月感電反應造成的傷害提升60%。",
+        "DE": "#Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 36 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 60 %.",
+        "ES": "#Tras usar la Habilidad Elemental o Definitiva, el ATQ aumenta en un 36% durante 20 s. Si el portador de esta arma crea un escudo mientras dicho efecto está activo, también obtendrá el efecto de “edicto voltaico” durante 20 s, el cual aumenta en un 60% el daño de la reacción de Electrocargado Lunar de todos los personajes cercanos del equipo.",
+        "FR": "#Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l'ATQ augmente de 36 % pendant 20 s. Si le personnage équipé de l'arme crée un bouclier pendant cette durée, il obtient l'effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l'équipe à proximité de 60 %.",
+        "ID": "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +36% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +60%.",
+        "IT": "#Dopo l'utilizzo di un'abilità o di un Tripudio elementale, l'ATT aumenta di un 36% per 20 s. Se il personaggio che equipaggia l'arma crea uno scudo mentre quest'effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 60% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+        "JP": "元素スキルまたは元素爆発を発動した後の20秒間、攻撃力+36%。継続時間内に装備者がシールドを生成した場合、さらに次の20秒間、「流電の聖勅」効果を獲得し、周囲のチーム全員が起こした月感電反応によるダメージ+60%。",
+        "KR": "원소전투 스킬 또는 원소폭발 발동 후 20초 동안 공격력이 36% 증가한다. 지속 시간 동안 장착 캐릭터가 보호막을 생성하면, 그 후 20초 동안 「전류 칙령」 효과를 획득한다: 주변에 있는 파티 내 모든 캐릭터가 발동한 달 감전 반응으로 주는 피해가 60% 증가한다",
+        "PT": "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 36%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe em 60%.",
+        "RU": "После активации элементального навыка или взрыва стихии сила атаки увеличивается на 36% на 20 сек. Если экипированный персонаж в это время создаёт щит, то на 20 сек. он получает эффект Электризующего эдикта: урон реакции Лунный заряд всех членов отряда поблизости увеличивается на 60%.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุหรือท่าไม้ตาย พลังโจมตีจะเพิ่มขึ้น 36% ในช่วงเวลาต่อเนื่อง หากผู้สวมใส่สร้างโล่ขึ้นมา จะได้รับเอฟเฟกต์ \"Electrifying Edict\" เป็นเวลา 20 วินาทีหลังจากนั้น: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทรา ของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียงเพิ่มขึ้น 60%",
+        "TR": "Bir Element Becerisi veya Element Patlaması kullanıldığında 20sn boyunca Saldırı %36 artar. Bu etki aktifken kuşanan karakter bir Kalkan oluşturduğunda 20sn boyunca Elektrik Fermanı etkisi kazanır: Yakındaki tüm grup üyelerinin verdiği Ay Yüklü Hasarı %60 artar.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 36% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 60% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After an Elemental Skill or Elemental Burst is used, ATK is increased by 42% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 70% more Lunar-Charged DMG.",
+        "CHS": "施放元素战技或元素爆发后的20秒内，攻击力提升42%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升70%。",
+        "CHT": "施放元素戰技或元素爆發後的20秒內，攻擊力提升42%。持續期間內，若裝備者創造了護盾，則接下來的20秒內，還會獲得「流電聖敕」效果：隊伍中附近所有角色觸發的月感電反應造成的傷害提升70%。",
+        "DE": "#Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 42 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 70 %.",
+        "ES": "#Tras usar la Habilidad Elemental o Definitiva, el ATQ aumenta en un 42% durante 20 s. Si el portador de esta arma crea un escudo mientras dicho efecto está activo, también obtendrá el efecto de “edicto voltaico” durante 20 s, el cual aumenta en un 70% el daño de la reacción de Electrocargado Lunar de todos los personajes cercanos del equipo.",
+        "FR": "#Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l'ATQ augmente de 42 % pendant 20 s. Si le personnage équipé de l'arme crée un bouclier pendant cette durée, il obtient l'effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l'équipe à proximité de 70 %.",
+        "ID": "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +42% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +70%.",
+        "IT": "#Dopo l'utilizzo di un'abilità o di un Tripudio elementale, l'ATT aumenta di un 42% per 20 s. Se il personaggio che equipaggia l'arma crea uno scudo mentre quest'effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 70% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+        "JP": "元素スキルまたは元素爆発を発動した後の20秒間、攻撃力+42%。継続時間内に装備者がシールドを生成した場合、さらに次の20秒間、「流電の聖勅」効果を獲得し、周囲のチーム全員が起こした月感電反応によるダメージ+70%。",
+        "KR": "원소전투 스킬 또는 원소폭발 발동 후 20초 동안 공격력이 42% 증가한다. 지속 시간 동안 장착 캐릭터가 보호막을 생성하면, 그 후 20초 동안 「전류 칙령」 효과를 획득한다: 주변에 있는 파티 내 모든 캐릭터가 발동한 달 감전 반응으로 주는 피해가 70% 증가한다",
+        "PT": "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 42%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe em 70%.",
+        "RU": "После активации элементального навыка или взрыва стихии сила атаки увеличивается на 42% на 20 сек. Если экипированный персонаж в это время создаёт щит, то на 20 сек. он получает эффект Электризующего эдикта: урон реакции Лунный заряд всех членов отряда поблизости увеличивается на 70%.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุหรือท่าไม้ตาย พลังโจมตีจะเพิ่มขึ้น 42% ในช่วงเวลาต่อเนื่อง หากผู้สวมใส่สร้างโล่ขึ้นมา จะได้รับเอฟเฟกต์ \"Electrifying Edict\" เป็นเวลา 20 วินาทีหลังจากนั้น: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทรา ของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียงเพิ่มขึ้น 70%",
+        "TR": "Bir Element Becerisi veya Element Patlaması kullanıldığında 20sn boyunca Saldırı %42 artar. Bu etki aktifken kuşanan karakter bir Kalkan oluşturduğunda 20sn boyunca Elektrik Fermanı etkisi kazanır: Yakındaki tüm grup üyelerinin verdiği Ay Yüklü Hasarı %70 artar.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 42% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 70% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After an Elemental Skill or Elemental Burst is used, ATK is increased by 48% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 80% more Lunar-Charged DMG.",
+        "CHS": "施放元素战技或元素爆发后的20秒内，攻击力提升48%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升80%。",
+        "CHT": "施放元素戰技或元素爆發後的20秒內，攻擊力提升48%。持續期間內，若裝備者創造了護盾，則接下來的20秒內，還會獲得「流電聖敕」效果：隊伍中附近所有角色觸發的月感電反應造成的傷害提升80%。",
+        "DE": "#Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 48 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 80 %.",
+        "ES": "#Tras usar la Habilidad Elemental o Definitiva, el ATQ aumenta en un 48% durante 20 s. Si el portador de esta arma crea un escudo mientras dicho efecto está activo, también obtendrá el efecto de “edicto voltaico” durante 20 s, el cual aumenta en un 80% el daño de la reacción de Electrocargado Lunar de todos los personajes cercanos del equipo.",
+        "FR": "#Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l'ATQ augmente de 48 % pendant 20 s. Si le personnage équipé de l'arme crée un bouclier pendant cette durée, il obtient l'effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l'équipe à proximité de 80 %.",
+        "ID": "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +48% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +80%.",
+        "IT": "#Dopo l'utilizzo di un'abilità o di un Tripudio elementale, l'ATT aumenta di un 48% per 20 s. Se il personaggio che equipaggia l'arma crea uno scudo mentre quest'effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 80% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+        "JP": "元素スキルまたは元素爆発を発動した後の20秒間、攻撃力+48%。継続時間内に装備者がシールドを生成した場合、さらに次の20秒間、「流電の聖勅」効果を獲得し、周囲のチーム全員が起こした月感電反応によるダメージ+80%。",
+        "KR": "원소전투 스킬 또는 원소폭발 발동 후 20초 동안 공격력이 48% 증가한다. 지속 시간 동안 장착 캐릭터가 보호막을 생성하면, 그 후 20초 동안 「전류 칙령」 효과를 획득한다: 주변에 있는 파티 내 모든 캐릭터가 발동한 달 감전 반응으로 주는 피해가 80% 증가한다",
+        "PT": "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 48%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe em 80%.",
+        "RU": "После активации элементального навыка или взрыва стихии сила атаки увеличивается на 48% на 20 сек. Если экипированный персонаж в это время создаёт щит, то на 20 сек. он получает эффект Электризующего эдикта: урон реакции Лунный заряд всех членов отряда поблизости увеличивается на 80%.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุหรือท่าไม้ตาย พลังโจมตีจะเพิ่มขึ้น 48% ในช่วงเวลาต่อเนื่อง หากผู้สวมใส่สร้างโล่ขึ้นมา จะได้รับเอฟเฟกต์ \"Electrifying Edict\" เป็นเวลา 20 วินาทีหลังจากนั้น: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทรา ของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียงเพิ่มขึ้น 80%",
+        "TR": "Bir Element Becerisi veya Element Patlaması kullanıldığında 20sn boyunca Saldırı %48 artar. Bu etki aktifken kuşanan karakter bir Kalkan oluşturduğunda 20sn boyunca Elektrik Fermanı etkisi kazanır: Yakındaki tüm grup üyelerinin verdiği Ay Yüklü Hasarı %80 artar.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 48% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 80% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần."
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 15035,
+  "name": {
+    "EN": "Fragment of Harmonic Whimsy",
+    "CHS": "谐律异想断章",
+    "CHT": "諧律異想斷章",
+    "DE": "Fragment harmonischer Launen",
+    "ES": "Fragmento de la Armonía Fantasiosa",
+    "FR": "Fragment d'harmonie divergente",
+    "ID": "Fragment of Harmonic Whimsy",
+    "IT": "Scheggia di estro armonico",
+    "JP": "諧律奇想の断章",
+    "KR": "조화로운 공상의 단편",
+    "PT": "Fragmento da Harmonia Fantástica",
+    "RU": "Фрагмент гармонической фантазии",
+    "TH": "Fragment of Harmonic Whimsy",
+    "TR": "Armonik İlham Parçası",
+    "VI": "Mảnh Hài Hòa Bất Thường"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15035/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "#Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%",
+        "RU": "Увеличивает силу атаки на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn công tăng 18%"
+      },
+      "affixId": "2150350"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When the value of a Bond of Life increases or decreases, this character deals 18% increased DMG for 6s. Max 3 stacks.",
+        "CHS": "生命之契的数值提升或降低时，角色造成的伤害提升18%，该效果持续6秒，至多叠加3次。",
+        "CHT": "生命之契的數值提升或降低時，角色造成的傷害提升18%，該效果持續6秒，至多疊加3次。",
+        "DE": "#Erhöht beim Erhöhen oder Verringern des Werts von Eid des Lebens den von der Figur verursachten Schaden um 18 %, hält 6 s, 3-fach stapelbar.",
+        "ES": "#Cuando el valor de un pacto vital aumenta o disminuye, el daño que inflige el personaje aumenta en un 18%. Este efecto dura 6 s y puede acumularse hasta 3 veces.",
+        "FR": "Lorsque la valeur d'un engagement vital augmente ou diminue, les DGT infligés par le personnage augmentent de 18 % pendant 6 s. Cet effet peut être cumulé 3 fois maximum.",
+        "ID": "Saat nilai Bond of Life bertambah atau berkurang, DMG yang diakibatkan Karakter meningkat 18% selama 6 detik, dapat ditumpuk sampai 3 kali.",
+        "IT": "#Quando il valore di un Legame vitale aumenta o diminuisce, il personaggio infligge DAN aumentati di un 18% per 6 s. Massimo 3 accumuli.",
+        "JP": "命の契約の数値が増減する時、キャラクターの与えるダメージ+18%、継続時間6秒、最大3層まで重ね掛け可能。",
+        "KR": "생명의 계약의 수치가 증가 또는 감소 시, 캐릭터가 주는 피해가 18% 증가한다. 지속 시간: 6초, 최대 중첩수: 3회",
+        "PT": "Quando o valor de um Contrato de Vida aumenta ou diminui, aumenta o Dano causado por esse personagem em 18% por 6s. Acumula até 3 vezes.",
+        "RU": "Когда значение Долга жизни увеличивается или уменьшается, наносимый персонажем урон увеличивается на 18% на 6 сек. Эффект может складываться до 3 раз.",
+        "TH": "เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้นหรือลดลง ตัวละครจะสร้างความเสียหายเพิ่มขึ้น 18% โดยเอฟเฟกต์นี้จะมีระยะเวลาต่อเนื่อง 6 วินาที ซ้อนทับได้สูงสุด 3 ครั้ง",
+        "TR": "Hayat Bağı değeri arttığında veya azaldığında 6 saniyeliğine bu karakterin verdiği Hasar %18 artar. 3 kademeye kadar birikir.",
+        "VI": "Khi giá trị Khế Ước Sinh Mệnh tăng hoặc giảm, sát thương nhân vật gây ra sẽ tăng 18% trong 6s. Tối đa cộng dồn 3 lần."
+      },
+      "affixId": "2150351"
+    }
+  ]
+}

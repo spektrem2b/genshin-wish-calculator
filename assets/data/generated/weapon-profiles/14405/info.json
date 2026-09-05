@@ -1,0 +1,52 @@
+{
+  "id": 14405,
+  "name": {
+    "EN": "Solar Pearl",
+    "CHS": "匣里日月",
+    "CHT": "匣裡日月",
+    "DE": "Sonne und Mond",
+    "ES": "Perla Solar",
+    "FR": "Perle solaire",
+    "ID": "Solar Pearl",
+    "IT": "Perla solare",
+    "JP": "匣中日月",
+    "KR": "일월의 정수",
+    "PT": "Pérola Solar",
+    "RU": "Солнечная жемчужина",
+    "TH": "Solar Pearl",
+    "TR": "Güneş İncisi",
+    "VI": "Nhật Nguyệt Hạp"
+  },
+  "nameEn": "Solar Pearl",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength.",
+    "CHS": "材质难解的暗金宝珠，饱含日月天地的光辉，脉动着温暖的力量。",
+    "CHT": "材質難解的暗金珠寶，飽含日月天地的光輝，脈動著溫暖的力量。",
+    "DE": "Diese Kugel aus unbekanntem dunklem Metall enthält den himmlischen Glanz von Sonne und Mond und strahlt eine spürbare Wärme aus.",
+    "ES": "Una perla opaca y dorada hecha de una sustancia desconocida que alberga la luz del sol y la luna. Late con una fuerza muy cálida.",
+    "FR": "Une précieuse perle dorée et mate abritant la lumière du soleil et de la lune, dont la matière est inconnue. Une force chaleureuse s'en dégage.",
+    "ID": "Mutiara emas yang terbuat dari benda yang menyimpan cahaya matahari dan bulan, memancarkan kekuatan hangat.",
+    "IT": "Una perla dorata, realizzata con un materiale sconosciuto che assorbe la luce del sole e della luna e pulsa di una tiepida energia.",
+    "JP": "素材の解析が難しい宝珠。太陽と月の光に満ちており、暖かい力が秘められている。",
+    "KR": "알 수 없는 재질의 어두운 금색 보주. 태양과 달의 빛을 머금어 따뜻한 힘이 요동치고 있다",
+    "PT": "Abriga a luz do sol e da lua, uma pérola feita de materiais desconhecidos pulsa com uma força calorosa.",
+    "RU": "Грубая золотая жемчужина из неизвестного материала, скрывающая в себе силу солнца и луны. Пульсирует тёплой энергией.",
+    "TH": "มันเก็บกักพลังของแสงแห่งตะวันและจันทราไว้ เป็นไข่มุกสีทองที่คอยปล่อยคลื่นพลังอันอบอุ่นออกมา",
+    "TR": "Güneşin ve ayın ışığını barındıran, mat altından yapılmış bir inci. Etrafı sıcak bir güçle sarılıdır.",
+    "VI": "Bảo châu màu vàng kim đậm được làm từ nguyên liệu ít ai biết, tràn đầy ánh sáng của đất trời và sức mạnh ấm áp."
+  },
+  "icon": "generated/weapon-profiles/14405/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

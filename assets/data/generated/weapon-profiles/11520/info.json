@@ -1,0 +1,52 @@
+{
+  "id": 11520,
+  "name": {
+    "EN": "Whitelake Frostfeather",
+    "CHS": "白湖冬羽",
+    "CHT": "白湖冬羽",
+    "DE": "Winterfeder des weißen Sees",
+    "ES": "Pluma Invernal Lagoblanco",
+    "FR": "Plume hivernale du lac blanc",
+    "ID": "Whitelake Frostfeather",
+    "IT": "Piuma gelata del lago bianco",
+    "JP": "白銀の湖を舞う翼",
+    "KR": "백조의 호수",
+    "PT": "Asa Gelada do Lago Branco",
+    "RU": "Морозное перо белого озера",
+    "TH": "Whitelake Frostfeather",
+    "TR": "Beyaz Gölün Buz Tüyü",
+    "VI": "Bạch Hồ Đông Vũ"
+  },
+  "nameEn": "Whitelake Frostfeather",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A longsword light as the feathers of a snow swan, and which stays pure and untainted at all times.",
+    "CHS": "如同白雪鹄的柔羽一般轻盈的长剑，无论何时都能保持未染的纯净。",
+    "CHT": "如同白雪鵠的柔羽一般輕盈的長劍，無論何時都能保持未染的純淨。",
+    "DE": "Ein Langschwert, so leicht wie die sanften Federn eines Schneeschwans, das sich zu jeder Zeit seine makellose Reinheit bewahrt.",
+    "ES": "Una espada larga y ligera como las suaves plumas de un cisne níveo. Es capaz de mantener en todo momento su pureza inmaculada.",
+    "FR": "Une légère épée longue comme les plumes d'un cygne des neiges, et qui demeure en tout temps pure et immaculée.",
+    "ID": "Pedang panjang seringan bulu angsa putih yang selalu terjaga kemurniannya tanpa noda.",
+    "IT": "Una spada lunga leggera come le piume di un cigno delle nevi, che rimane pura e incontaminata in ogni momento.",
+    "JP": "白き雪鳥の柔らかな羽根のように軽やかな長剣。いかなる時も、何ものにも染まらぬ純潔を保ち続ける。",
+    "KR": "백조의 부드러운 깃털처럼 가벼운 장검. 언제나 오염되지 않은 순수함을 유지하고 있다",
+    "PT": "Uma espada longa leve como as suaves plumas de um Cisne da Neve, que permanece pura e imaculada a qualquer momento.",
+    "RU": "Длинный меч, лёгкий, словно нежное перо белого лебедя, он всегда остаётся чистым и незапятнанным.",
+    "TH": "ดาบยาวที่เบาดุจขนนกอันอ่อนนุ่มของหงส์หิมะขาว ไม่ว่าเมื่อใดก็สามารถคงความบริสุทธิ์อันไร้มลทินไว้ได้เสมอ",
+    "TR": "Bir kar kuğusunun tüyleri kadar hafif bir uzun kılıç. Her daim saf ve lekesiz kalır.",
+    "VI": "Thanh kiếm thanh thoát tựa lông vũ mềm mại của thiên nga tuyết, luôn giữ được vẻ thuần khiết không tì vết."
+  },
+  "icon": "generated/weapon-profiles/11520/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

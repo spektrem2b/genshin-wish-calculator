@@ -1,0 +1,52 @@
+{
+  "id": 13406,
+  "name": {
+    "EN": "Lithic Spear",
+    "CHS": "千岩长枪",
+    "CHT": "千岩長槍",
+    "DE": "Millelithenlanze",
+    "ES": "Lanza Lítica",
+    "FR": "Lance des Millelithes",
+    "ID": "Lithic Spear",
+    "IT": "Lancia litica",
+    "JP": "千岩長槍",
+    "KR": "천암장창",
+    "PT": "Lança de Millelith",
+    "RU": "Каменное копьё",
+    "TH": "Lithic Spear",
+    "TR": "Taş Mızrak",
+    "VI": "Thương Thiên Nham"
+  },
+  "nameEn": "Lithic Spear",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal.",
+    "CHS": "取孤云阁的岩片精工打造的长枪，枪尖坚固无比。",
+    "CHT": "取孤雲閣的岩片精工打造的長槍，槍尖堅固無比。",
+    "DE": "Eine Lanze mit großem Geschick aus dem Gestein der Guyun-Türme gehauen. Die Härte der Speerspitze sucht ihresgleichen.",
+    "ES": "Una lanza excelentemente forjada con rocas del Bosque de Piedra Guyun. La robustez de su filo no tiene igual.",
+    "FR": "Une lance forgée à partir des rochers de la Forêt de pierre de Guyun. Sa pointe est d'une solidité sans pareille.",
+    "ID": "Tombak panjang yang ditempa dari bebatuan di Guyun Stone Forest. Tingkat kekerasan tombak ini sungguh tiada duanya.",
+    "IT": "Una lancia forgiata dalle rocce della Foresta di pietra di Guyun. La sua resistenza non ha eguali.",
+    "JP": "孤雲閣の岩の欠片を使って丹念に仕上げた長槍。槍先は非常に鋭い。",
+    "KR": "고운각의 바위를 정밀히 가공하여 만든 창. 창끝이 견고하기 그지없다",
+    "PT": "Uma lança forjada com pedras da floresta de Guyun. Sua robustez é conhecida por não haver outra igual.",
+    "RU": "Копьё тонкой работы, выточенное из утёсов каменного леса Гуюнь. На свете нет ничего твёрже, чем его наконечник.",
+    "TH": "หอกยาวที่ทำขึ้นอย่างประณีตโดยใช้แผ่นหินของป่าหิน Guyun Stone Forest ตัวหอกนั้นคมและแข็งแกร่งไร้ผู้ต้านทาน",
+    "TR": "Guyun Taş Ormanı kayalarından yapılan bir mızrak. Sağlamlık konusunda eşi benzeri yok.",
+    "VI": "Thương dài được chế tạo kỳ công từ phiến đá ở Cô Vân Các, mũi thương bén nhọn vô cùng."
+  },
+  "icon": "generated/weapon-profiles/13406/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 15503,
+  "name": {
+    "EN": "Elegy for the End",
+    "CHS": "终末嗟叹之诗",
+    "CHT": "終末嗟嘆之詩",
+    "DE": "Letzter Seufzer",
+    "ES": "Elegía del Fin",
+    "FR": "Ultime soupir",
+    "ID": "Elegy for the End",
+    "IT": "Elegia finale",
+    "JP": "終焉を嘆く詩",
+    "KR": "종말 탄식의 노래",
+    "PT": "Elegia do Suspiro Final",
+    "RU": "Элегия погибели",
+    "TH": "Elegy for the End",
+    "TR": "Son Ağıt",
+    "VI": "Tiếng Thở Dài Vô Tận"
+  },
+  "nameEn": "Elegy for the End",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh.",
+    "CHS": "如同诗人的乐器一般优美的弓，放出的箭矢如同叹息声一般穿透人心。",
+    "CHT": "如同詩人的樂器一般優美的弓，放出的箭矢如同嘆息聲一般穿透人心。",
+    "DE": "Ein wunderschöner Bogen so elegant wie das Instrument eines Barden. Wie ein schweres Seufzen durchdringen seine Pfeile die Herzen ihrer Ziele.",
+    "ES": "Un arco tan bello como el instrumento de un bardo. Las flechas que dispara son como un suspiro capaz de atravesar el corazón de una persona.",
+    "FR": "Un arc aussi élégant qu'une lyre de barde ; les flèches qu'il décoche transpercent le cœur à la manière d'un doux soupir.",
+    "ID": "Sebuah busur seanggun alat musik penyair, panah yang ditembakkan menghasilkan suara merdu yang mampu menembus hati seseorang.",
+    "IT": "Un arco che ricorda la lira di un bardo, le sue frecce centrano il cuore come un sospiro lamentoso.",
+    "JP": "詩人の楽器のような美しい弓。放った矢は嘆き声のように心に響く。",
+    "KR": "시인의 악기처럼 우아한 활. 쏘아져 나오는 화살은 탄식 소리처럼 사람의 마음을 꿰뚫는다",
+    "PT": "Um arco tão adorável quanto a lira de qualquer bardo, suas flechas perfuram o coração como um suspiro lamentável.",
+    "RU": "В изящности этот лук не уступает лире барда. Словно вздох печали, выпущенные из него стрелы разят точно в сердце.",
+    "TH": "ธนูที่ดูสวยงามราวกับเป็น เครื่องดนตรีของนักกวี ศรที่ถูกปล่อยออกไปนั้น เสียบทะลุหัวใจคนราวกับ เสียงของการถอนลมหายใจ",
+    "TR": "Bir ozanın liri kadar sevimli bir yay, oklarıyla kalpleri bir ağıt gibi deler.",
+    "VI": "Cây cung đẹp hoàn mỹ như nhạc cụ của thi nhân, tên bắn ra như tiếng than ai oán xuyên thấu tâm can."
+  },
+  "icon": "generated/weapon-profiles/15503/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 11404,
+  "name": {
+    "EN": "Royal Longsword",
+    "CHS": "宗室长剑",
+    "CHT": "宗室長劍",
+    "DE": "Königliches Langschwert",
+    "ES": "Espada Real Larga",
+    "FR": "Épée longue royale",
+    "ID": "Royal Longsword",
+    "IT": "Spada lunga reale",
+    "JP": "旧貴族長剣",
+    "KR": "왕실의 장검",
+    "PT": "Espada Longa Real",
+    "RU": "Меч аристократов",
+    "TH": "Royal Longsword",
+    "TR": "Kraliyet Uzun Kılıcı",
+    "VI": "Trường Kiếm Tông Thất"
+  },
+  "nameEn": "Royal Longsword",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner.",
+    "CHS": "曾支配蒙德的旧日贵族的佩剑。做工精良，装饰与雕花彰显着挥舞者的身份。",
+    "CHT": "曾支配蒙德的舊日貴族的佩劍。做工精良，裝飾與雕花彰顯著揮舞者的身分。",
+    "DE": "Ein altes Schwert der Aristokraten, die einst über Mondstadt herrschten. Es ist fein ausgearbeitet und zeigt mit seinen Verzierungen und Schnitzereien den Status seines Trägers.",
+    "ES": "Una vieja espada larga que perteneció a aquellos que una vez gobernaron sobre Mondstadt. Tiene un acabado exquisito. Sus decoraciones y grabados son una muestra del estatus de su antiguo propietario.",
+    "FR": "Une épée longue assez ancienne qui appartenait jadis aux dirigeants de Mondstadt. Sa lame est d'une excellente facture et ses ornements sont révélateurs du statut social de son propriétaire.",
+    "ID": "Pedang panjang tua milik bangsawan Mondstadt di masa lampau. Memiliki ukiran dan ornamen yang elegan yang melambangkan status dari pemiliknya.",
+    "IT": "Una vecchia spada lunga, appartenuta agli antichi governanti di Mondstadt. Di squisita fattura, le incisioni e gli ornamenti testimoniano la levatura del suo proprietario.",
+    "JP": "かつてモンドを支配した旧貴族の佩剣。精巧に作られており、装飾や花の彫刻が持ち主の身分を表している。",
+    "KR": "몬드를 지배했던 옛 귀족의 패검. 정교한 장식과 문양은 소유자의 귀한 신분을 드러내고 있다",
+    "PT": "Uma velha espada longa que pertencia aos antigos governantes de Mondstadt. Requintadamente trabalhada, as esculturas e enfeites testemunham a estatura de seu dono.",
+    "RU": "Старинный меч, который носили с собой древние правители Мондштадта. Изысканно выполненная резьба и инкрустация подчёркивают высокий статус его владельца.",
+    "TH": "ดาบยาวสภาพเก่าแก่เล่มหนึ่งของชนชั้นสูงผู้ที่ครั้งหนึ่งเคยปกครอง Mondstadt มันถูกสร้างขึ้นอย่างประณีต การตกแต่งบนตัวดาบแสดงถึงสถานะของเจ้าของมัน",
+    "TR": "Bir zamanlar Mondstadt'ın kadim yöneticilerine ait olan eski bir kılıç. Mükemmel bir işçilikle dövülmüştür ve sahibine prestij kazandırır.",
+    "VI": "Bội kiếm từng được giới quý tộc Mondstadt dùng. Chế tác tinh xảo, trang sức và hoa cũng thể hiện thân phận người dùng."
+  },
+  "icon": "generated/weapon-profiles/11404/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 12406,
+  "name": {
+    "EN": "Prototype Archaic",
+    "CHS": "试作古华",
+    "CHT": "試作古華",
+    "DE": "Guhua-Prototyp",
+    "ES": "Prototipo Arcaico",
+    "FR": "Espadon (prototype)",
+    "ID": "Prototype Archaic",
+    "IT": "Prototipo arcaico",
+    "JP": "古華·試作",
+    "KR": "고화 프로토타입",
+    "PT": "Protótipo Arcaico",
+    "RU": "Прототип: Архаичный",
+    "TH": "Prototype Archaic",
+    "TR": "Prototip: Arkaik",
+    "VI": "Mẫu Cổ Hoa"
+  },
+  "nameEn": "Prototype Archaic",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
+    "CHS": "黑岩厂中秘藏的古老大刀。挥舞时，仿佛连空间本身也要被一刀两断。",
+    "CHT": "黑岩廠中密藏的古老大刀。揮舞時，彷彿連空間本身也要被一刀兩斷。",
+    "DE": "Ein in der Schwarzsteinschmiede verstecktes, uraltes Großschwert. Schwingst du es durch die Luft, könntest du meinen, den Raum selbst zu spalten.",
+    "ES": "Una gran espada descubierta en la Forja Peñasco Oscuro. Al blandirla, tiene tal poder que uno puede sentir como si pudiera cortar a través del espacio.",
+    "FR": "Un prototype d'espadon ancien découvert dans la Forge de Rochenoire. La force qui s'en dégage lorsqu'on le manie laisse supposer qu'il serait capable de couper même à travers le tissu de la réalité.",
+    "ID": "Sebuah greatsword kuno yang ditemukan di Blackcliff Forge. Mempunyai kekuatan ayunan yang luar biasa seolah dapat membelah dimensi.",
+    "IT": "Uno spadone antico pervenuto nella Fucina di Rupenera. Colpisce con così tanta forza, che si potrebbe pensare che sia in grado di squarciare persino la stessa realtà.",
+    "JP": "黒岩場の中に隠されていた古い大剣、振り回す時の圧は空間さえも切り裂くようだ。",
+    "KR": "흑암 공장에 은밀히 보관된 오래된 대도. 휘두를 때 공간마저 베어버릴 것만 같다",
+    "PT": "Um espadão antigo descoberto no Penhasco Obscuro. Ao brandi-lo, dá a sensação de como se fosse possível cortar o espaço.",
+    "RU": "Древний двуручный меч, обнаруженный в кузнице Черногорья. Он производит впечатление меча, который может разрубить пополам саму реальность.",
+    "TH": "ดาบยักษ์โบราณที่ถูกซ่อนไว้ใน Blackcliff Forge ตอนที่ชูขึ้น ราวกับว่าสามารถลงดาบหั่นอากาศออกเป็นสองท่อน",
+    "TR": "Kara Kaya Demirci Ocağında keşfedilmiş kadim bir kılıç. Kullanıldığında açığa çıkan güç ile gerçekliği bile kesip atabilecek gibi görünüyor.",
+    "VI": "Đại đao cổ xưa của Hắc Nham Xưởng. Khi vung lên uy lực như có thể chém không gian ra thành hai mảnh."
+  },
+  "icon": "generated/weapon-profiles/12406/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

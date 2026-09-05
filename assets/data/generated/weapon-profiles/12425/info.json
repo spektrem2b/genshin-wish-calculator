@@ -1,0 +1,52 @@
+{
+  "id": 12425,
+  "name": {
+    "EN": "Tidal Shadow",
+    "CHS": "浪影阔剑",
+    "CHT": "浪影闊劍",
+    "DE": "Gezeitenschatten",
+    "ES": "Sombra de la Marea",
+    "FR": "Ombre tidale",
+    "ID": "Tidal Shadow",
+    "IT": "Mareombra",
+    "JP": "タイダル·シャドー",
+    "KR": "파도 그림자 대검",
+    "PT": "Lâmina das Ondas",
+    "RU": "Тень волны",
+    "TH": "Tidal Shadow",
+    "TR": "Dalgaların Gölgesi",
+    "VI": "Bóng Tối Thủy Triều"
+  },
+  "nameEn": "Tidal Shadow",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "An exquisitely-crafted, standard-model sword forged for the high-ranking officers and flagship captains of Fontaine's old navy.",
+    "CHS": "造型优美的枫丹旧海军的制式剑，专为将官与旗舰舰长量身打造。",
+    "CHT": "造型優美的楓丹舊海軍的制式劍，專為將官與旗艦艦長量身打造。",
+    "DE": "Ein formschönes Standardschwert. Maßgeschneidert für Generäle und Flaggschiffkapitäne der alten Marine von Fontaine.",
+    "ES": "Una bella espada de modelo estándar forjada para los oficiales de alto rango y capitanes de la antigua marina de Fontaine.",
+    "FR": "Une épée de modèle standard à la fabrication exquise, forgée pour les officiers de haut rang et les capitaines de l'ancienne marine de Fontaine.",
+    "ID": "Pedang standar dengan desain yang indah dan ditempa dengan sangat baik, dibuat khusus untuk petugas jabatan kelas atas dan Kapten angkatan laut Fontaine.",
+    "IT": "Uno spadone modello base forgiato con materiali di prima qualità per gli ufficiali d'alto rango e i capitani di bandiera dell'antica marina di Fontaine.",
+    "JP": "美しい造形を持ったフォンテーヌ旧海軍の制式剣。ジェネラルと旗艦艦長のためだけに仕立てたもの。",
+    "KR": "우아한 구 폰타인 해군 제식 검. 장교와 기함 함장을 위해 맞춤 제작됐다",
+    "PT": "Uma espada modelo padrão intrincada para os oficiais de alto-escalão e capitães da antiga marinha de Fontaine.",
+    "RU": "Стандартный клинок изящной формы, изготавливаемый специально для старших офицеров и капитанов флагманских кораблей старого морского флота Фонтейна.",
+    "TH": "ดาบงามสง่าที่หลอมขึ้นเฉพาะสำหรับเจ้าหน้าที่ระดับสูง และกัปตันเรือธงในกองทัพเรือสมัยก่อนของ Fontaine",
+    "TR": "Fontaine eski donanmasının yüksek rütbeli subayları ve amiral gemisi kaptanları için dövülmüş ve özenle işlenerek yapılmış standart modelde bir kılıç.",
+    "VI": "Kiếm của hải quân Fontaine xưa, có tạo hình đẹp mắt, được chế tạo dành riêng cho tướng quân và thuyền trưởng chiến hạm."
+  },
+  "icon": "generated/weapon-profiles/12425/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

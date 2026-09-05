@@ -1,0 +1,52 @@
+{
+  "id": 11426,
+  "name": {
+    "EN": "Fleuve Cendre Ferryman",
+    "CHS": "灰河渡手",
+    "CHT": "灰河渡手",
+    "DE": "Schiffer des Fleuve Cendré",
+    "ES": "Vado del Río Ceniciento",
+    "FR": "Passeur du Fleuve cendré",
+    "ID": "Fleuve Cendre Ferryman",
+    "IT": "Traghettatore del Fleuve Cendre",
+    "JP": "サーンドルの渡し守",
+    "KR": "잿빛의 강 뱃사공",
+    "PT": "Cruzamento de Fleuve Cendre",
+    "RU": "Перевозчик Флёв Сандр",
+    "TH": "Fleuve Cendre Ferryman",
+    "TR": "Cendre Nehri Kayıkçısı",
+    "VI": "Ống Đồng Fleuve Cendre"
+  },
+  "nameEn": "Fleuve Cendre Ferryman",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A handy length of abandoned copper pipe that was once used as a weapon. It was famous — or infamous, depending — in some circles.",
+    "CHS": "在过去曾经被当作武器使用的趁手废弃铜管，曾经在一些人当中享有盛名或是臭名昭著。",
+    "CHT": "在過去曾經被當作武器使用的趁手廢棄銅管，曾經在一些人當中享有盛名或是臭名昭著。",
+    "DE": "Ein ausrangiertes Kupferrohr in genau der richtigen Länge. Diente einst jemandem als Waffe und erfreute sich als solche wohl in bestimmten Kreisen berüchtigter Berühmtheit.",
+    "ES": "Una tubería abandonada muy práctica que en el pasado se usó como arma. Gozaba de una excelente reputación (o de una muy infame, dependiendo de a quién le preguntes).",
+    "FR": "Un long morceau de tuyau en cuivre qui servait autrefois d'arme, célèbre chez certains, malfamé chez d'autres.",
+    "ID": "Pipa tembaga yang pernah digunakan sebagai senjata di masa lalu. Bisa dibilang benda ini cukup terkenal — atau mungkin juga tidak — tergantung lingkungan komunitasnya.",
+    "IT": "Un tubo di rame abbandonato di media lunghezza, che un tempo veniva usato come arma. In certi ambienti, era considerato molto popolare o famigerato (in base ai punti di vista).",
+    "JP": "かつて武器として使われていた、使い勝手の良い廃棄された銅のパイプ。一部の人のあいだでは有名だったり、悪名高かったりする。",
+    "KR": "과거에 무기로 사용됐던 아무렇게나 버려진 구리 파이프. 일부 사람들 사이에서 명성이나 악명이 자자했다",
+    "PT": "Um cano de cobre abandonado que foi usado como arma. Era famoso, ou infame, dependendo de onde se estivesse.",
+    "RU": "Выброшенный кусок медной трубы, который в прошлом использовался как оружие. Популярная в одних кругах, в других она снискала дурную славу.",
+    "TH": "ท่อโลหะถูกทิ้งที่ในอดีตเคยมีคนใช้เป็นอาวุธ มันเคยมีทั้งชื่อเสียงและชื่อเสียในคนกลุ่มหนึ่งมาก่อน",
+    "TR": "Bir zamanlar silah görevi gören uzun bakır bir boru. Bazıları arasında ünlüydü, bazıları için de kötü bir namı vardı.",
+    "VI": "Ống đồng khá vừa tay, đã từng được dùng như vũ khí trong quá khứ. Từng để lại danh tiếng hoặc tai tiếng trong một số người."
+  },
+  "icon": "generated/weapon-profiles/11426/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

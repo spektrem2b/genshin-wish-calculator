@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="es" data-active-tab="character-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traveler Build, Talents &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="Traveler talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:title" content="Traveler Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="Traveler talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/es/character-info/traveler-10000005-cryo/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Traveler Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Traveler talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/es/character-info/traveler-10000005-cryo/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/character-info/traveler-10000005-cryo/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/traveler-10000005-cryo/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br>Calculadora de Deseos</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Planificador de Deseos</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">Probabilidades 4★</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Simulador</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Build</button>
+            <button type="button" id="tabInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Personajes</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Armas</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Otros</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">Ajustes</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="ciCharacterSwitch" aria-label="Switch character" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="ciCharacterSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="ciContent">
+            
+          <div class="ci-hero">
+              <img class="ci-hero-portrait" src="assets/data/generated/character-profiles/10000005-pyro/full_wish.webp" alt="" data-gi-fallback="retry">
+              <div class="ci-hero-info">
+                  <div class="ci-hero-name">Viajero (Cryo)</div>
+                  
+                  <div class="ci-hero-stars">★★★★★</div>
+                  <div class="ci-hero-facts">
+                      
+          <div class="ci-hero-fact">
+              <svg class="ci-hero-fact-icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1600 1600"><path d="M791.837 77.671c-17.4 36.7-54.5 111.3-65.4 131.6-28.6 53.1-60.3 105.2-107 176.1-9.1 13.7-16.529 25.938-16.529 25.938s30.429-9.238 47.129-15.938c8.8-3.6 16.563-6.55 16.563-6.55s15.237 20.95 22.937 32.55c44.8 67.2 78.4 148 97.8 234.7 4.3 19.1 9 46.5 10.6 61.5.7 6.2 2.112 12.128 2.112 12.128s.888-3.828 1.288-7.628c1-10.8 5.4-38.5 8.6-54.2 16.5-80.1 45.9-156.9 85.5-222.9 9.4-15.7 28.5-44.3 35.5-53.1l2.6-3.2 13.8 5.7c34.06 13.763 49.84 16.747 49.84 16.747s-7.84-12.347-16.44-25.247c-59.5-89.7-93.7-147.9-131.7-224-21.1-42.1-45.9-93.1-47.4-97.3l-1.353-3.387s-4.347 7.887-8.447 16.487m13.8 212.2c12.7 17.5 37.2 41.2 59.5 57.8 3.1 2.3 6.709 4.696 6.709 4.696s-4.11 7.804-8.01 15.404c-30.8 61.6-53.4 134-62 199.1-.843 6.094-1.919 12.323-1.919 12.323s-1.412-7.216-2.58-15.823c-8.5-62-29.3-129.3-58.8-189.9l-10.2-20.9 3.5-2.6c22.2-16.8 47.7-41 60.4-57.4 3.7-4.8 7.852-9.76 7.852-9.76s3.148 3.86 5.548 7.06m-622.1 174.7c79 117.1 103.4 158.3 160.3 270.8 11.1 22 21.3 41.321 21.3 41.321s.7-2.02 1-3.52c.2-1.5 2.1-10.7 4-20.3 2-9.6 4.3-23.1 5.2-29.9.8-6.8 1.815-13.254 1.815-13.254s6.485-.547 13.785-1.347c67.6-7.2 140.5-2.7 212.6 13 37.9 8.3 88.3 23.9 119 36.9 8.4 3.5 16.414 6.489 16.414 6.489s-3.714-3.589-7.914-6.589c-36.7-26.3-86.7-74.8-123.7-119.8-31.6-38.4-64.4-89.3-82.6-128.2-7.1-15.3-14.168-31.53-14.168-31.53s3.368-2.87 7.268-5.67c7.9-5.8 27.1-21.9 37.5-31.6l7-6.4-5.5-.1c-3 0-16.3.7-29.4 1.5-53.1 3.3-97.2 4.7-150.1 4.8-65.3.1-77.7-.5-191.9-8.8-11.5-.8-24.571-1.5-24.571-1.5s4.97 7.6 22.67 33.7M448.464 514.5s22.373 33.472 30.173 43.872c21.4 28.4 37.8 47.3 61.6 71 22 21.9 50.3 46.7 64.9 57 1.312.907 3.867 3.508 3.867 3.508s-6.311-2.651-13.667-5.608c-49.7-20-107.6-34.9-160.8-41.4-18.2-2.2-39.5-4-47.9-4-4.8 0-9.731-.103-9.731-.103s-1.07-7.997-2.07-15.397c-3.4-23.9-8.4-43.6-17.1-67.7-2.8-7.6-4.9-14-4.8-14.2.2-.1 6.7-1.3 14.3-2.5 23-3.7 51.4-11.9 71.5-20.6 8.7-3.8 9.728-3.872 9.728-3.872m935.873-80.128c-74.4 5.6-103.2 6.8-163 6.7-49.9 0-94.3-1.3-140.5-4.2-11.924-.73-20.669-1.23-26.988-1.53-11.86-.564-15.742-.474-15.742-.474s4.942 5.406 10.15 10.146c10.527 9.58 27.152 23.507 34.78 28.658 2.6 1.8 5.919 4.696 5.919 4.696s-1.174 2.715-2.836 6.887c-4.266 10.707-13.792 30.887-22.283 46.717-31.9 59.1-71.7 111.8-123.4 163.4-23.8 23.7-45.2 42.7-66.4 58.7-7.3 5.5-13.471 10.864-13.471 10.864s4.77-1.664 9.37-3.664c56.7-24.5 133.1-44.6 197.9-51.8 52-5.8 106.3-5.9 150.7 0 1.798.225 4.29.453 4.29.453s.39 2.751.853 6.178c.31 2.3.655 5.448 1.158 9.77.98 7.848 3.19 20.029 5.35 30.402 2.244 10.773 5.156 20.422 5.156 20.422s8.594-17.125 18.494-37.125c10-19.9 20.1-39.8 22.5-44.2 2.3-4.4 8.4-15.9 13.5-25.5 20.2-37.9 41.7-75.4 62.7-108.9 15.8-25.1 83.9-125.905 84.9-127.2.999-1.295 1.904-3.06 1.904-3.06s-9.926.3-55.004 3.66m-221.9 84.5c23.4 9.6 47.7 16.5 70.7 20.2 8.792 1.446 14.445 2.511 14.445 2.511s-1.171 3.16-2.245 5.19c-2.8 5.5-10.7 29.8-14 43.4-1.9 7.6-4.6 21.3-6 30.5-1.4 9.1-2.515 17.929-2.515 17.929s-4.785.27-9.285.27c-16.2 0-53.5 4-79.7 8.6-43.3 7.5-89.8 20.8-129.4 36.8-4.9 2-12.086 4.717-12.086 4.717s6.586-5.917 13.086-11.117c39.2-31.2 77.1-69.7 108-109.5 12-15.5 25.8-35.1 32.3-45.7 2.5-4.3 5.718-8.351 5.718-8.351s5.482 2.351 10.982 4.551m-464.9 88.1c20.5 9.7 57.8 26.6 61.6 28l3.702 1.609 4.898 14.791c7.7 23.7 25.5 96.8 30.7 125.9 1.05 5.95 2.105 8.576 2.105 8.576s1.282-3.42 2.3-8.474c.296-1.463.624-3.128.995-5.002 8.7-44.6 22.5-100.9 31.1-127.1.52-1.597.957-2.92 1.351-4.027.874-2.458 1.933-5.054 1.933-5.054s2.085-1.11 3.416-1.719c3.8-1.9 60.7-27.4 67.5-30.3 2-.9 4.578-1.873 4.578-1.873s1.922 17.473 3.722 36.773c1.8 19.4 3.6 38 4 41.3l.6 6-14.5 15.6c-17.7 19.1-68.7 67.3-92.2 87.2-1.6 1.4-3.511 3.711-3.511 3.711s8.71-2.61 17.51-5.51c39.29-13.097 83.707-26.246 109.179-32.59 9.925-2.472 20.51-4.553 20.51-4.553s3.548 1.79 16.297 10.788c6.81 4.805 16.576 11.85 30.815 22.154 11.4 8.3 21.657 15.87 21.657 15.87s-4.757 3.83-9.257 6.83-19.7 13.7-33.7 23.7c-11.95 8.6-18.46 13.529-22.31 15.879-1.815 1.107-3.63 2.355-3.63 2.355s-2.188-.375-3.06-.534c-21.3-3.6-69.3-17-121.5-34-24.4-8-23.084-7.235-23.084-7.235s6.284 5.735 13.384 11.935c35.6 31.8 68.4 63 84.8 80.7 6.682 7.187 13.11 13.654 13.11 13.654s-1.25 13.69-3.31 33.646c-1.4 14-3.1 30.8-3.8 37.4-.9 9.6-1.293 12.652-1.293 12.652s-18.007-8.152-36.607-16.652-34.9-15.8-36.2-16.1c-1.42-.51-3.784-1.697-3.784-1.697s-1.28-3.407-2.61-7.438c-7.966-24.132-26.594-98.903-33.106-134.465-.732-4.106-1.848-7.834-1.848-7.834s-1.115 3.153-1.552 5.734c-2.1 11.3-14.4 67.1-18.7 84.6-3.042 12.295-7.691 29.61-11.248 42.07-2.056 7.2-5.125 17.325-5.125 17.325s-3.527 2.205-16.527 7.805c-4.1 1.8-19.2 8.5-33.4 14.9-14.3 6.4-26.95 11.752-26.95 11.752s-1.55-15.652-3.05-32.652c-1.5-17.1-3.3-35.5-4-41l-1.2-9.9 7.7-8.6c9.8-10.8 46.4-47 63.4-62.6 16.5-15.2 32.3-29.3 35.5-31.9 1.4-1.1 4.17-3.852 4.17-3.852s-9.47 2.652-20.97 6.352c-45.9 15.2-85.9 26.9-112.9 33l-14.3 3.2-6.7-4.6c-20.2-13.9-61.34-44.151-61.34-44.151s5.44-4.249 10.84-7.949c30.1-21.3 48.2-34.2 51.9-37.1 2.6-2.2 6.522-4.09 6.522-4.09s19.592 3.965 39.285 9.315c25.311 6.877 59.479 17.183 93.393 28.375 6.8 2.2 14.171 4.414 14.171 4.414s-3.971-4.314-8.771-8.414c-8.6-7.4-11.6-10.1-36.3-32.8-12.178-11.252-42.531-41.334-56.772-56.048-4.236-4.378-8.4-8.963-8.4-8.963s-.27-2.316.43-11.51c.464-6.096 1.366-15.467 2.842-30.179 2.2-22 4.685-42.582 4.685-42.582s3.615 1.782 10.915 5.182m-343.6 237.6c-41.5 83.5-79.3 151.8-113.9 205.8-9.8 15.2-49.1 74-68.5 102.5-6.3 9.3-10.878 16.149-10.878 16.149s21.478-1.449 44.278-3.049c132.3-9.7 187.2-10.2 315.1-3 20.2 1.1 32.506 1.82 40.304 1.929.955.004 1.248-.063 1.248-.063s-1.722-1.726-2.834-2.91c-1.552-1.654-4.446-4.321-9.218-8.656-14.2-13-21.4-19-31.5-26.3-3.54-2.581-7.468-5.49-7.468-5.49s2.507-6.255 7.468-17.11c22.4-49.4 53.9-99.7 90-143.7 35.2-43.1 80.5-87.1 120.6-117.3a145 145 0 0 1 3.404-2.456c1.787-1.259 7.252-6.021 7.252-6.021s-6.523 2.43-8.246 3.19c-8.52 3.755-25.153 10.213-39.71 15.287-76 26.7-160.8 41.5-237.4 41.5-20.1 0-58.4-2.4-73.3-4.6-1.427-.203-3.819-.355-3.819-.355s-.312-2.907-.955-7.543c-.365-2.635-.804-6.191-1.426-11.002-.72-5.417-2.37-14.757-4.112-23.729-2.372-12.227-5.368-24.38-5.368-24.38s-5.32 9.91-11.02 21.31m254.637 66.13s-3.737 3.17-7.437 5.87c-21.4 15.6-63 54.3-85.5 79.5-21.4 24-45 54.9-62.1 81.5-2.6 4-4.687 7.608-4.687 7.608s-7.713-2.808-15.413-5.808c-23-9.1-44.1-15.1-66.3-18.7-7.9-1.3-14.3-2.6-14.3-3s1.8-5.3 4.1-10.9c7.9-19.9 16.5-54.7 18.5-74.4.562-5.53 1.516-11.167 1.516-11.167s6.084-.26 14.584-.633c64.6-3 137-18.8 201.8-44.2 15.3-6 15.237-5.67 15.237-5.67m625.863-85.73c-2.3 6.5-7.9 35.6-10.1 52.3-.8 6.6-1.491 12.59-1.491 12.59s-4.153.39-9.469.95c-9.645 1.019-24.958 2.351-36.24 3.06-53.7 3.2-116-1.9-176.4-14.5-41.7-8.8-92.2-24.3-126.5-39-5.9-2.5-12.883-4.9-12.883-4.9s6.483 5.5 13.783 11c73.7 56.4 145.6 140.7 188.2 220.5 9.5 17.9 25.939 54.625 25.939 54.625s-4.34 2.975-9.14 6.575c-6.382 4.73-15.928 12.665-24.289 19.96-9.847 8.593-17.967 16.898-17.967 16.898s9.057-.158 19.157-.858c35.7-2.3 79.9-4.3 123-5.5 65.3-1.8 113.7-.1 215.1 7.3 23 1.6 43.995 2.961 43.995 2.961s-13.795-20.26-30.195-44.36c-68.6-101.2-98.1-151.3-151.9-257.7-11.8-23.4-21.79-43.863-21.79-43.863s-.507 1.088-.81 1.962m-227.6 91.5c60.9 24.5 136.9 41.2 200.7 44.1 9.192.39 15.679.932 15.679.932s.522 4.895.92 9.368c1.7 18.7 9.2 49.6 17.2 71 2.5 6.9 6.644 16.968 6.644 16.968s-2.143-.268-17.343 2.232c-19.8 3.2-42.9 9.8-63.2 17.8-8.4 3.3-16.436 6.793-16.436 6.793s-2.264-3.393-4.164-6.593c-8-13.5-28-41.2-42.9-59.7-27.8-34.2-63.8-69.9-98.3-97.4-6.5-5.1-14.257-11.38-14.257-11.38s4.457 1.48 15.457 5.88m-209.75-27.098c-1.714 11.958-4.404 28.128-6.75 39.798-18.1 91.4-54.5 180.6-103.2 252.9-14.2 21.2-21.348 29.426-21.348 29.426s-8.552-4.026-15.952-7.126c-14.1-5.8-44.4-15.9-46-15.3-.6.2 4.1 7.9 10.3 17.3 50.6 76.5 84.2 131.7 116.3 191.5 8.4 15.7 42.2 84.1 60.4 122.2 4.7 9.7 9.281 18.745 9.281 18.745s.819-1.845 1.219-2.945c1.8-5.7 58.6-120.3 71.6-144.5 29.1-54.2 63.4-110.5 114-186.8 5.5-8.2 10.396-15.96 10.396-15.96s-10.395 2.406-21.702 6.242c-8.918 3.025-19.378 6.87-28.594 10.618-7.4 3-13.242 5.716-13.242 5.716s-2.813-3.098-5.868-7.334c-5.84-8.103-15.118-21.526-21.29-30.982-45.2-69-79.1-154.2-97.3-244-2.607-12.815-5.108-27.517-6.708-39.135-.61-4.428-2.819-19.761-2.819-19.761s-1.661 11.99-2.723 19.398m4.65 143.698c8.7 65.1 31.5 137.8 62.7 200 3.5 7 7.182 13.997 7.182 13.997s-4.982 3.803-9.982 7.603c-19.1 14.5-39.9 34.8-54.8 53.4-3.4 4.3-7.489 8.72-7.489 8.72s-2.911-3.72-5.311-6.92c-13.3-18.3-34.9-39.1-62.7-60.4l-3-2.3 10.7-21.9c29.5-60.4 50.1-127.4 58.4-189.8.9-6.9 2.681-15.134 2.681-15.134s1.019 7.634 1.619 12.734" style="fill:#80ffff"></path></svg>
+              <span class="ci-hero-fact-value">Cryo</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/weapon_types_icons/Icon_Sword_type.webp" alt="" data-gi-fallback="hide">
+              <span class="ci-hero-fact-value">Sword</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/region_icons/main character.webp" alt="" data-gi-fallback="swap" data-gi-fallback-src="assets/data/design/region_icons/unknown-region.webp">
+              <span class="ci-hero-fact-value">Main Character</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Birthday</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">0</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Released</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">January 1, 2025</span>
+          </div>
+                  </div>
+                  <p class="ci-hero-desc">Un viajero de otro mundo al que arrebataron su única familia, y que se vio obligado a embarcarse en un viaje en busca de Los Siete.</p>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Constellation</span> Viator &nbsp;•&nbsp; <span class="ci-hero-meta-label">Affiliation</span> —</div>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Voice Actors</span> EN: Zach Aguilar &amp; Various Artists   ·   CN: 鹿喑 &amp; 多多poi   ·   JP: 堀江瞬 &amp; 古賀葵   ·   KR: Lee Kyeong-tae &amp; Kim Ka-ryoung</div>
+                  
+          <div class="ci-hero-guides">
+              <div class="ci-hero-guides-label">Guides</div>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://genshin-impact-helper-team.github.io/genshin-builds/en/cryo-traveler" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/genshin-builds-guide.webp" alt="">
+                  Genshin Builds
+              </a>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://www.prydwen.gg/genshin-impact/characters/traveler#build" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/prydwen-guide.webp" alt="">
+                  Prydwen
+              </a>
+              <div class="ci-hero-guides-row">
+                  <a class="ci-hero-guide-btn" href="https://www.icy-veins.com/genshin-impact/traveler-guide-best-builds" target="_blank" rel="noopener noreferrer" title="Icy Veins">
+                      <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/icy-veins-guide.webp" alt="">
+                      Icy Veins
+                  </a>
+              </div>
+          </div>
+                  
+          <div class="ci-hero-nav-label">Navigation</div>
+          <div class="ci-hero-nav">
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-talents">Talents</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-const">Constellations</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-passives">Passives</a>
+          </div>
+              </div>
+              <div class="ci-hero-side">
+                  <div class="ci-hero-stats">
+                      <div class="ci-hero-stats-head">
+                          <div class="ci-hero-stats-title">Base Stats</div>
+                          <div class="ci-stat-level-toggle" role="group" aria-label="Comparison level"><button type="button" class="ci-stat-level-btn active" data-stat-level="90">90</button><button type="button" class="ci-stat-level-btn" data-stat-level="95">95</button><button type="button" class="ci-stat-level-btn" data-stat-level="100">100</button></div>
+                      </div>
+                      <div id="ciBaseStatsBody"><div class="ci-stats">
+          <div class="ci-stats-row"><span>HP</span><span>912 → 7,613</span></div>
+          <div class="ci-stats-row"><span>ATK</span><span>18 → 149</span></div>
+          <div class="ci-stats-row"><span>DEF</span><span>57 → 478</span></div>
+          <div class="ci-stats-row"><span>Ascension Stat</span><span>ATK% +24.0%</span></div></div></div>
+                  </div>
+                  <div class="ci-hero-materials">
+                      <div class="ci-hero-stats-title">Ascension Materials</div>
+                      <div class="ci-hero-mat-list">
+          <div class="ci-hero-mat-item" title="Margarita voladora">
+              <img src="assets/data/generated/shared-assets/materials/100024.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Margarita voladora</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Máscara dañada">
+              <img src="assets/data/generated/shared-assets/materials/112005.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Máscara dañada</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Diamante brillante">
+              <img src="assets/data/generated/shared-assets/materials/104104.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Diamante brillante</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Corona de la sabiduría">
+              <img src="assets/data/generated/shared-assets/materials/104319.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Corona de la sabiduría</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Máscara amenazante">
+              <img src="assets/data/generated/shared-assets/materials/112007.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Máscara amenazante</span>
+          </div></div>
+                  </div>
+              </div>
+          </div>
+            <div class="ci-layout">
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-layout">
+                        <div class="ci-talent-tabs">
+                            
+          <button type="button" class="ci-talent-tab active" data-talent-idx="0">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000015/skills/00_normal_attack.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Llamarada extranjera</span>
+                  <span class="ci-talent-summary-type">Normal Attack</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="1">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000005-pyro/skills/01_skill.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Espada ignífera</span>
+                  <span class="ci-talent-summary-type">Elemental Skill</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="2">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000005-pyro/skills/02_burst.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Abrasallanuras</span>
+                  <span class="ci-talent-summary-type">Elemental Burst</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+                        </div>
+                        <div class="ci-talent-detail" id="ciTalentDetail">
+                            
+          <div class="ci-talent-detail-inner">
+              <div class="ci-talent-detail-flavor">
+                  <div class="ci-talent-flavor">Ataque Normal
+Realiza hasta 5 ataques consecutivos con espada.
+
+Ataque Cargado
+Consume cierta cantidad de Aguante para desatar un doble golpe de espada.
+
+Ataque Descendente
+Se lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo Daño en el AdE en el momento del impacto.</div>
+                  
+              </div>
+              <div class="ci-talent-detail-stats">
+                  <div class="ci-level-slider-row">
+                      <span class="ci-level-slider-label">Level</span>
+                      <span class="ci-level-slider-value">1</span>
+                      <span class="ci-level-slider-bound">1</span>
+                      <input type="range" class="ci-level-slider" id="ciTalentLevelSlider" aria-label="Talent level" min="1" max="15" step="1" value="1">
+                      <span class="ci-level-slider-bound">15</span>
+                  </div>
+                  <div class="ci-level-stats" id="ciTalentLevelStats">
+                      
+          <div class="ci-level-stats-title">Level 1</div>
+          <div class="ci-level-stats-rows">
+              <div class="ci-level-stats-row"><span>Daño de 1er golpe</span><span>44.5%</span></div><div class="ci-level-stats-row"><span>Daño de 2.º golpe</span><span>43.4%</span></div><div class="ci-level-stats-row"><span>Daño de 3er golpe</span><span>53.0%</span></div><div class="ci-level-stats-row"><span>Daño de 4.º golpe</span><span>58.3%</span></div><div class="ci-level-stats-row"><span>Daño de 5.º golpe</span><span>70.8%</span></div><div class="ci-level-stats-row"><span>#Daño de ATQ Cargado</span><span>55.9%NON_BREAK_SPACE+NON_BREAK_SPACE60.7%</span></div><div class="ci-level-stats-row"><span>Coste de Aguante de ATQ Cargado</span><span>20.0 pts.</span></div><div class="ci-level-stats-row"><span>Daño de Caída</span><span>63.9%</span></div><div class="ci-level-stats-row"><span>Daño de impacto de caída baja/alta</span><span>127.8%/159.7%</span></div>
+          </div>
+                  </div>
+              </div>
+          </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-const" class="ci-panel">
+                            <h2 class="ci-panel-title">Constellations</h2>
+                            <div class="ci-const-list">
+                                
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000005-pyro/constellations/00_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C1</span>Estrella fulgente</div>
+                  <div class="ci-const-desc">Mientras el umbral flagrante o el umbral abrasador estén activos, el daño que inflige el personaje en uso aumentará en un 6%. Si dicho personaje está en estado de bendición noctámbula, el daño que inflige aumenta en un 9% adicional.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000005-pyro/constellations/01_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C2</span>Vela perpetua</div>
+                  <div class="ci-const-desc">#Durante los 12&nbsp;s posteriores a usar la Habilidad Elemental, Espada ignífera, cuando un personaje cercano del equipo causa una Reacción Elemental Pyro contra un enemigo, {F#la Viajera}{M#el Viajero} recupera 14&nbsp;pts. de noctambulismo. Solo se pueden recuperar un máximo de 28&nbsp;pts. de noctambulismo de esta manera por cada vez que se use la Habilidad Elemental, Espada ignífera.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000005-pyro/constellations/02_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C3</span>Relevo llameante</div>
+                  <div class="ci-const-desc">#Aumenta el nivel de habilidad de Espada ignífera&nbsp;+3.
+Puede ser aumentado hasta Niv.&nbsp;15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000005-pyro/constellations/03_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C4</span>Fuego abrasador</div>
+                  <div class="ci-const-desc">#Tras usar la Habilidad Definitiva, Abrasallanuras, {F#la Viajera}{M#el Viajero} obtiene un 20% de Bono de Daño Pyro durante 9&nbsp;s.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000005-pyro/constellations/04_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C5</span>Antorcha inextinguible</div>
+                  <div class="ci-const-desc">#Aumenta el nivel de habilidad de Abrasallanuras&nbsp;+3.
+Puede ser aumentado hasta Niv.&nbsp;15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000005-pyro/constellations/05_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C6</span>Sacrofuego imperecedero</div>
+                  <div class="ci-const-desc">#Mientras está en estado de bendición noctámbula, el daño de los Ataques Normales, Cargados y Descendentes {F#de la Viajera}{M#del Viajero} se convierte en Daño Pyro de naturaleza noctámbula, el cual no puede sustituirse imbuyéndose de otro elemento, y el Daño CRIT de estos ataques aumenta en un 40%.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-passives" class="ci-panel">
+                            <h2 class="ci-panel-title">Passives</h2>
+                            <div class="ci-passive-list">
+                                
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000005-pyro/skills/03_passive_1.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Fuego incinerador</div>
+                  <div class="ci-passive-desc">#Cuando {F#la Viajera}{M#el Viajero} tiene más de 20&nbsp;pts. de noctambulismo, aumenta el AdE del umbral flagrante y el umbral abrasador de la Habilidad Elemental, Espada ignífera, tras golpear a un oponente.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000005-pyro/skills/04_passive_2.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Perduración de las ascuas</div>
+                  <div class="ci-passive-desc">#Cuando el personaje en uso afectado por el umbral flagrante o el umbral abrasador causa una Reacción Elemental Pyro, {F#la Viajera}{M#el Viajero} recupera 5&nbsp;pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 12&nbsp;s. Además, cuando un personaje cercano del equipo causa una explosión noctámbula, {F#la Viajera}{M#el Viajero} recupera 4&nbsp;pts. de Energía Elemental.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000005-pyro/skills/05_passive_3.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Fuego estelar extranjero</div>
+                  <div class="ci-passive-desc">#Obtienes nuevos poderes gracias a tus viajes pasados, de manera que ganarás fortalecimientos adicionales por cada elemento con el que hayas resonado.
+
+Además, cuando un personaje cercano del equipo cause una explosión noctámbula, {F#la Viajera}{M#el Viajero} obtendrá 1 carga de “filo sacrofuego”, acumulable hasta un máximo de 2 cargas. Al tener 2 cargas y ejecutar un Ataque Cargado, se consumirán todas las cargas de filo sacrofuego para ejecutar un Ataque Cargado: Infierno especial.
+
+Ataque Cargado: Infierno
+·Cada golpe del Ataque Cargado inflige Daño Pyro de naturaleza noctámbula adicional, con un aumento equivalente al 200% del ATQ {F#de la}{M#del} Viajer{F#a}{M#o}.
+·Como máximo, solo se puede ejecutar un Ataque Cargado: Infierno cada 15&nbsp;s.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div></div></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel"></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Herramienta no oficial hecha por fans. No afiliada ni respaldada por HoYoverse/miHoYo. Genshin Impact y todos los nombres, personajes y recursos relacionados son marcas registradas y derechos de autor de HoYoverse/miHoYo.</div>
+        <div class="site-footer-links"><a href="privacy.html">Política de Privacidad</a> • <a href="terms.html">Términos de Uso</a> • <a href="contact.html">Contacto</a> • <a href="credits.html">Créditos</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

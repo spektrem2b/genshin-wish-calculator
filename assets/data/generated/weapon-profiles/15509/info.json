@@ -1,0 +1,52 @@
+{
+  "id": 15509,
+  "name": {
+    "EN": "Thundering Pulse",
+    "CHS": "飞雷之弦振",
+    "CHT": "飛雷之弦振",
+    "DE": "Donnerpuls",
+    "ES": "Agitador del Relámpago",
+    "FR": "Pulsation du tonnerre",
+    "ID": "Thundering Pulse",
+    "IT": "Battito tonante",
+    "JP": "飛雷の鳴弦",
+    "KR": "비뢰의 고동",
+    "PT": "Agitação Trovejante",
+    "RU": "Громовой пульс",
+    "TH": "Thundering Pulse",
+    "TR": "Yıldırım Nabzı",
+    "VI": "Sấm Sét Rung Động"
+  },
+  "nameEn": "Thundering Pulse",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it.",
+    "CHS": "曾由将军御赐的长弓，闪烁着永不熄灭的雷光。",
+    "CHT": "曾由將軍御賜的長弓，閃爍著永不熄滅的雷光。",
+    "DE": "Ein Langbogen, der ein Geschenk des Shougun war. Ewige Blitze knistern rundherum.",
+    "ES": "Un arco que la Shogun le otorgó a alguien. Emite unos destellos eléctricos que nunca se apagarán.",
+    "FR": "Un arc long qui était un cadeau de la Shogun. Il crépite d'éclairs qui ne tariront jamais.",
+    "ID": "Busur panjang yang dihadiahkan oleh Shogun, memancarkan kilatan cahaya yang tidak pernah padam.",
+    "IT": "Un arco lungo donato dallo Shogun. Avvolto da una luce eterna.",
+    "JP": "将軍から賜わった長弓。消えぬ雷光が輝いている。",
+    "KR": "쇼군이 하사한 장궁, 영원히 꺼지지 않는 뇌광이 반짝인다",
+    "PT": "Um Arco Longo que foi dado a alguém pela Shogun. Ele emite raios que nunca se apagam.",
+    "RU": "Лук, дарованный сёгуном. Его окружают непрестанно потрескивающие молнии.",
+    "TH": "ธนูยาวที่เคยถูกมอบให้เป็นของขวัญโดยโชกุน ส่องประกายแสงของสายฟ้าชั่วนิรันดร์",
+    "TR": "Şogun tarafından hediye edilmiş bir yay. Dizginsiz şimşekler ona eşlik eder.",
+    "VI": "Chiếc cung được Shogun ban tặng, ánh lên sắc màu của lôi điện bất diệt."
+  },
+  "icon": "generated/weapon-profiles/15509/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

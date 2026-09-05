@@ -1,0 +1,137 @@
+{
+  "id": "10000114",
+  "name": {
+    "EN": "Skirk",
+    "CHS": "丝柯克",
+    "CHT": "絲柯克",
+    "DE": "Skirk",
+    "ES": "Skirk",
+    "FR": "Skirk",
+    "ID": "Skirk",
+    "IT": "Skirk",
+    "JP": "スカーク",
+    "KR": "스커크",
+    "PT": "Skirk",
+    "RU": "Скирк",
+    "TH": "Skirk",
+    "TR": "Skirk",
+    "VI": "Skirk"
+  },
+  "nameEn": "Skirk",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "OMNI_SCOURGE",
+  "birthday": {
+    "month": 11,
+    "day": 5
+  },
+  "release": "2025-06-16T21:00:00",
+  "icon": "generated/character-profiles/10000114/avatar.webp",
+  "fullWish": "generated/character-profiles/10000114/full_wish.webp",
+  "fullWishObjectPosition": "48.3% 32.5%",
+  "title": {
+    "EN": "Void Star",
+    "CHS": "虚渊暗星",
+    "CHT": "虛淵暗星",
+    "DE": "Stern der Leere",
+    "ES": "La Estrella del Vacío",
+    "FR": "Étoile du néant",
+    "ID": "Void Star",
+    "IT": "Astro del Vuoto",
+    "JP": "虚淵の暗星",
+    "KR": "허계의 별",
+    "PT": "Astro do Vazio",
+    "RU": "Звезда пустоты",
+    "TH": "ดาราอนธการห้วงลึก",
+    "TR": "Boşluk Yıldızı",
+    "VI": "Ánh Sao Hư Không"
+  },
+  "description": {
+    "EN": "A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.",
+    "CHS": "曾现身于深渊裂隙和原始胎海的来访者，教导达达利亚武技的老师。孤身一人的女武者。",
+    "CHT": "曾現身於深淵裂隙和原始胎海的來訪者，教導達達利亞武技的老師。孤身一人的女武者。",
+    "DE": "Eine Besucherin, die einst im Abgrund-Riss und dem Urmeer auftauchte, und die Meisterin, die Tartaglia seine Kampfkünste lehrte. Eine einsame Kriegerin.",
+    "ES": "Una visitante que apareció en una fisura del Abismo y en el Mar Primigenio. Esta guerrera solitaria es también quien enseñó a Tartaglia sus habilidades de combate.",
+    "FR": "Cette visiteuse, précédemment apparue dans une brèche abyssale et dans la mer primordiale, est une guerrière solitaire qui a encadré Tartaglia pendant sa maîtrise des arts martiaux.",
+    "ID": "Seorang pengunjung yang pernah muncul di celah Abyss dan Lautan Primordial. Petarung yang selalu menyendiri ini adalah guru Tartaglia dalam ilmu bela diri.",
+    "IT": "Una visitatrice comparsa tempo fa in una Faglia abissale e nel Mare primordiale. Questa guerriera solitaria è colei che ha insegnato a Tartaglia come combattere.",
+    "JP": "かつて深淵の裂け目や原始胎海に足を踏み入れた来訪者であり、タルタリヤに武芸を仕込んだ師。孤独に戦う。",
+    "KR": "심연의 균열과 원시 모태 바다에 나타났던 방문객이자, 타르탈리아에게 무술을 알려준 스승. 홀로 남은 고독한 전사이기도 하다",
+    "PT": "Uma visitante que apareceu nas fendas do Abismo e no Mar Primordial. Essa guerreira solitária treinou Tartaglia em artes marciais.",
+    "RU": "Путница, однажды появившаяся в разломе Бездны и Первозданном море. Эта одинокая воительница обучала Тарталью боевым искусствам.",
+    "TH": "ผู้มาเยือนที่เคยปรากฏตัวในรอยแยกของ Abyss และทะเลบรรพกาล นักรบหญิงผู้โดดเดี่ยว อาจารย์ผู้สอนศิลปะการต่อสู้ให้กับ Tartaglia",
+    "TR": "Ezeli Deniz'de ve bir Hiçlik yarığında ortaya çıkan bir ziyaretçi. Tartaglia'ya dövüş sanatları hocalığı yapan yalnız bir savaşçı.",
+    "VI": "Người từng xuất hiện trong Khe Nứt Vực Sâu và Biển Khởi Nguyên, là sư phụ dạy võ cho Tartaglia. Nữ võ sĩ cô độc một mình."
+  },
+  "constellationName": {
+    "EN": "Crystallina",
+    "CHS": "磷星座",
+    "CHT": "磷星座",
+    "DE": "Crystallina",
+    "ES": "Crystallina",
+    "FR": "Crystallina",
+    "ID": "Crystallina",
+    "IT": "Crystallina",
+    "JP": "クリスタリナ座",
+    "KR": "수정별자리",
+    "PT": "Crystallina",
+    "RU": "Кристаллина",
+    "TH": "Crystallina",
+    "TR": "Berrak Kristal",
+    "VI": "Cung Lân Tinh"
+  },
+  "native": {
+    "EN": "Cosmic Calamity",
+    "CHS": "寰宇劫灭",
+    "CHT": "寰宇劫滅",
+    "DE": "Kosmischer Kataklysmus",
+    "ES": "Calamidad Cósmica",
+    "FR": "Calamité cosmique",
+    "ID": "Cosmic Calamity",
+    "IT": "Calamità cosmica",
+    "JP": "宇宙の劫災",
+    "KR": "우주적 재앙",
+    "PT": "Calamidade Cósmica",
+    "RU": "Космический катаклизм",
+    "TH": "ภัยพิบัติแห่งจักรวาล",
+    "TR": "Kozmik Facia",
+    "VI": "Kiếp Nạn Vũ Trụ"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Cat Protano"
+    },
+    {
+      "lang": "CHS",
+      "va": "谢莹"
+    },
+    {
+      "lang": "JP",
+      "va": "能登麻美子"
+    },
+    {
+      "lang": "KR",
+      "va": "Seo Da-hye"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 966.6665,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 27.93,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.76167,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

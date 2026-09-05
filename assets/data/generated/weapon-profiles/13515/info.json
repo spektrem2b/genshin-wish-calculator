@@ -1,0 +1,52 @@
+{
+  "id": 13515,
+  "name": {
+    "EN": "Fractured Halo",
+    "CHS": "支离轮光",
+    "CHT": "支離輪光",
+    "DE": "Zerstreutes Licht",
+    "ES": "Halo Fracturado",
+    "FR": "Halo fracturé",
+    "ID": "Fractured Halo",
+    "IT": "Aureola frammentata",
+    "JP": "砕け散る光輪",
+    "KR": "파멸의 빛고리",
+    "PT": "Resplendor Fragmentado",
+    "RU": "Расколотый ореол",
+    "TH": "Fractured Halo",
+    "TR": "Kırık Hale",
+    "VI": "Hào Quang Tách Rời"
+  },
+  "nameEn": "Fractured Halo",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A spinning mechanical blade produced by the Clink-Clank Krumkake Craftshop that seems to hide secrets from a bygone era...",
+    "CHS": "由「叮铃哐啷蛋卷工坊」出品的机关旋刃，其中似乎隐藏着什么久远时代的秘密…",
+    "CHT": "由「叮鈴哐啷蛋捲工坊」出品的機關旋刃，其中似乎隱藏著什麼久遠時代的秘密…",
+    "DE": "Eine rotierende mechanische Klinge, die von der „Krumkake-Werkstatt Kling-Klang“ hergestellt wurde. Sie scheint ein Geheimnis aus längst vergangenen Zeiten zu verbergen ...",
+    "ES": "Una lanza mecánica giratoria fabricada por el Taller de Krumkake Cling-clang. En ella parece esconderse un secreto de tiempos inmemoriales.",
+    "FR": "Une lame mécanique rotative produite par la Knieperterie Cling-clang qui semble cacher des secrets d'une époque révolue...",
+    "ID": "Sejenis gergaji putar yang diproduksi oleh Clink-Clank Krumkake Craftshop, sepertinya mengandung rahasia dari zaman kuno ....",
+    "IT": "Una lancia meccanica rotante creata dal Laboratorio di krumkake Tin-Tin. Sembra nascondere segreti di un'epoca passata...",
+    "JP": "「カチャカチャ・クルムカケ工房」が製作した回転型の機械式武器。大昔の何らかの秘密が隠されているようだ…",
+    "KR": "「뚝딱뚝딱 크룸카케 공방」에서 제작한 회전하는 기계 칼날. 그 안에는 고대의 비밀이 숨겨져 있는 것 같다…",
+    "PT": "Uma lâmina mecânica giratória produzida pela Oficina de Rolinho de Ovo Trilimlim que parece esconder os segredos de uma era passada...",
+    "RU": "Вращающийся механический клинок, выполненный мастерской крумкаке «Дзынь-Клац». Кажется, в нём кроется тайна давно ушедших времён...",
+    "TH": "ดาบหมุนจักรกลที่ผลิตโดย \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" ดูเหมือนจะซ่อนความลับของยุคโบราณอันไกลโพ้นเอาไว้...",
+    "TR": "Çın Çın Krumkake Atölyesi tarafından yapılmış, kendi etrafında dönen mekanik bir kılıç. Geçmiş çağların sırlarını içinde barındırıyor...",
+    "VI": "Đao xoay cơ học chế tác bởi Xưởng Krumkake Clink-Clank, dường như ẩn chứa bí mật từ thời đại xa xưa..."
+  },
+  "icon": "generated/weapon-profiles/13515/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

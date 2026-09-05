@@ -1,0 +1,52 @@
+{
+  "id": 15417,
+  "name": {
+    "EN": "King's Squire",
+    "CHS": "王下近侍",
+    "CHT": "王下近侍",
+    "DE": "Gefolgsfrau des Königs",
+    "ES": "Vasalla del Rey",
+    "FR": "Le valet du roi",
+    "ID": "King's Squire",
+    "IT": "Scudiere del re",
+    "JP": "王の近侍",
+    "KR": "왕의 측근",
+    "PT": "Vassalo do Rei",
+    "RU": "Приближённый короля",
+    "TH": "King's Squire",
+    "TR": "Kralın Yaveri",
+    "VI": "Cận Vệ Nhà Vua"
+  },
+  "nameEn": "King's Squire",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down.",
+    "CHS": "从兰那罗的故事中得到的武器。具有弓的形制，能够射落森林的敌人。",
+    "CHT": "從蘭那羅的故事中得到的武器。具有弓的形制，能夠射落森林的敵人。",
+    "DE": "Eine Waffe, die du aus einer Geschichte über die Aranara erhalten hast. Sie hat die Form eines Bogens angenommen, mit dem man die Gegner des Waldes niederschießen kann.",
+    "ES": "Un arma obtenida a través de una de las historias de los aranara. Tiene forma de arco y, con sus flechas, es capaz de derribar a cualquier enemigo del bosque.",
+    "FR": "Une arme que vous avez obtenue dans un conte d'aranara. Elle a pris la forme d'un arc qui peut abattre les ennemis de la forêt.",
+    "ID": "Senjata yang didapat dari cerita Aranara. Senjata dengan bentuk busur ini dapat menembak jatuh musuh hutan.",
+    "IT": "Un'arma che hai ottenuto da una storia degli Aranara. Ha assunto la forma di un arco in grado di abbattere i nemici della foresta.",
+    "JP": "アランナラの物語で手に入る武器。弓のような形をしており、森に出没する敵を撃ち落とせる。",
+    "KR": "아란나라의 이야기에서 획득한 무기. 활의 형태를 지니고 있으며 숲속의 적을 쏘아 떨어뜨릴 수 있다",
+    "PT": "Uma arma obtida através de uma das histórias dos Aranara. Ela tomou a forma de um arco que é capaz de perfurar os inimigos da floresta.",
+    "RU": "Оружие, полученное из истории аранар. Оно приняло форму лука, который способен поражать врагов леса стрелами.",
+    "TH": "อาวุธที่ได้รับมาจากเรื่องเล่าของ Aranara ซึ่งมีรูปร่างเหมือนธนู สามารถยิงศัตรูของป่าให้ร่วงหล่นลงมาได้",
+    "TR": "Aranara hikayesinden elde ettiğin bir silah. Ormanın düşmanlarını vurabileceğin bir yay şekline girmiş.",
+    "VI": "Vũ khí nhận được từ câu chuyện của Aranara. Có tạo hình của chiếc cung, có thể bắn rơi kẻ địch trong rừng."
+  },
+  "icon": "generated/weapon-profiles/15417/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

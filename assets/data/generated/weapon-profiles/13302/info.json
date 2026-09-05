@@ -1,0 +1,52 @@
+{
+  "id": 13302,
+  "name": {
+    "EN": "Halberd",
+    "CHS": "钺矛",
+    "CHT": "鉞矛",
+    "DE": "Hellebarde",
+    "ES": "Alabarda",
+    "FR": "Hallebarde",
+    "ID": "Halberd",
+    "IT": "Alabarda",
+    "JP": "鉾槍",
+    "KR": "미늘창",
+    "PT": "Alabarda",
+    "RU": "Алебарда Миллелита",
+    "TH": "Halberd",
+    "TR": "Baltalı Mızrak",
+    "VI": "Thuẫn Kích"
+  },
+  "nameEn": "Halberd",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 3,
+  "description": {
+    "EN": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers.",
+    "CHS": "在矛上增加斧刃的兵器，有不俗的破坏力。是千岩军军官青睐的武器。",
+    "CHT": "在矛上增加斧刃的兵器，有不俗的破壞力。是千岩軍軍官青睞的武器。",
+    "DE": "Im Grunde eine Lanze gepaart mit einer Axt. Genau das macht sie zu einer zerstörerischen Waffe. Sie wird besonders gern von Millelithen-Offizieren verwendet.",
+    "ES": "Un arma de asta con una hoja de hacha montada en la parte superior, capaz de causar mucho daño. El arma predilecta entre los oficiales de la Geoarmada.",
+    "FR": "Une hampe à l'extrémité de laquelle se trouve un fer de hache. Cette arme puissante est l'une des favorites des officiers des Millelithes.",
+    "ID": "Sebuah polearm dengan sebilah kapak terpasang di atasnya yang bisa mengakibatkan kerusakan hebat. Senjata yang sangat disukai oleh prajurit Millelith.",
+    "IT": "Una lancia con un'ascia montata in cima che può infliggere gravi danni. La favorita degli ufficiali Milleliti.",
+    "JP": "矛の先に斧の刃を追加した兵器。悪くない破壊力を持つ。千岩軍兵士にも愛された武器である。",
+    "KR": "도끼와 창을 결합시킨 형태의 무기. 무시할 수 없는 파괴력을 가지고 있다. 천암군 군관의 마음에 쏙 든 무기이다",
+    "PT": "Uma arma de fogo com uma lâmina de machado montada no topo que pode causar muito dano. É a arma preferida entre os Oficiais de Millelith.",
+    "RU": "Длинное древко с прикреплённым лезвием на одном конце. Любимое оружие офицеров Миллелита.",
+    "TH": "หอกที่มีใบมีดคล้ายขวานติดตั้งอยู่ที่ปลายหอก สามารถสร้างความเสียหายได้ประมาณหนึ่ง เป็นอาวุธที่ทหาร Millelith ชื่นชอบ",
+    "TR": "Baltalı bir uca sahip bu mızrağın hasar kabiliyeti inanılmaz. Taşordu subaylarının vazgeçilmez silahı.",
+    "VI": "Binh khí trên mũi có gắn thêm lưỡi đao nhọn, có sức phá hủy lớn. Là vũ khí được Thiên Nham Quân ưa chuộng."
+  },
+  "icon": "generated/weapon-profiles/13302/avatar.webp",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.051067,
+  "substat_lvl90": 0.2346,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "A Cast Real Far",
+    "CHS": "万顷一掷",
+    "CHT": "萬頃一擲",
+    "DE": "Alles auf eine Karte",
+    "ES": "Lanzamiento lejano",
+    "FR": "Envoi lointain",
+    "ID": "A Cast Real Far",
+    "IT": "Lancio lontano",
+    "JP": "一擲万頃",
+    "KR": "혼신의 투척",
+    "PT": "Arremesso Distante",
+    "RU": "Бросок в безграничную даль",
+    "TH": "A Cast Real Far",
+    "TR": "Uzaklardan Bir Atış",
+    "VI": "Cú Ném Ngàn Tấn"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 20% for the next 15s, as well as regenerates 6 Elemental Energy for other members of their party. This effect can trigger once every 16s.",
+        "CHS": "触发冰元素或水元素相关反应后的15秒内，装备者的攻击力提升20%，并为队伍中自己的其他角色恢复6点元素能量。该效果每16秒至多触发一次。",
+        "CHT": "觸發冰元素或水元素相關反應後的15秒內，裝備者的攻擊力提升20%，並為隊伍中自己的其他角色恢復6點元素能量。該效果每16秒至多觸發一次。",
+        "DE": "#Erhöht innerhalb von 15 s nach dem Auslösen einer mit Kryo oder Hydro in Zusammenhang stehenden Reaktion den ANG des Trägers um 20 % und stellt den eigenen Truppenmitgliedern 6 Punkte Elementarenergie wieder her. 16 s Abklingzeit.",
+        "ES": "#Tras causar una Reacción Elemental Cryo o Hydro, el ATQ del portador de esta arma aumenta en un 20% durante 15 s y tus demás personajes del equipo regeneran 6 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 16 s.",
+        "FR": "Pendant 15 s après avoir déclenché une réaction élémentaire liée à l'élément Cryo ou à l'élément Hydro, l'ATQ du personnage équipé de l'arme augmente de 20 % et les autres personnages de votre équipe récupèrent 6 pts d'énergie élémentaire. Cet effet peut être déclenché une fois toutes les 16 s.",
+        "ID": "Setelah memicu Reaksi Elemental yang berkaitan dengan Cryo atau Hydro, ATK Karakter yang mengenakan +20% selama 15 detik dan memulihkan 6 Energy untuk Karakter lain miliknya dalam party. Efek ini dapat terpicu sekali setiap 16 detik.",
+        "IT": "#Innescare una reazione elementale di Cryo o di Hydro aumenta l'ATT del personaggio che equipaggia l'arma di un 20% per 15 s e ripristina di 6 l'energia elementale degli altri membri del gruppo. Questo effetto può attivarsi una volta ogni 16 s.",
+        "JP": "氷元素または水元素に関連する反応を起こした後の15秒間、装備者の攻撃力+20%、チーム内の自身の他のキャラクターの元素エネルギーを6ポイント回復する。この効果は16秒毎に1回のみ発動可能。",
+        "KR": "얼음 원소 또는 물 원소 관련 반응 발동 후 15초 동안 장착 캐릭터의 공격력이 20% 증가하고, 파티 내 자신의 다른 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 16초마다 최대 1회 발동된다",
+        "PT": "Nos 15s após desencadear uma reação Cryo ou Hydro, aumenta o ATQ do portador em 20%, e regenera 6 de Energia Elemental para os outros personagens da equipe. Esse efeito pode ser desencadeado uma vez a cada 16s.",
+        "RU": "Активация Крио или Гидро реакций повышает силу атаки экипированного персонажа на 15 сек. на 20%, а также восстанавливает другим персонажам вашего отряда 6 ед. энергии. Эффект может возникнуть один раз в 16 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุน้ำแข็งหรือธาตุน้ำ พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 20% และฟื้นฟูพลังงานธาตุ 6 หน่วยให้กับตัวละครอื่นของตัวเองในทีม เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 16 วินาที",
+        "TR": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı %20 artar ve gruptaki diğer üyeler için 6 Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng liên quan đến Nguyên Tố Băng hoặc Thủy, người trang bị tăng 20% Tấn Công trong 15s, đồng thời hồi phục 6 điểm Năng Lượng Nguyên Tố cho nhân vật khác trong đội bản thân. Hiệu quả này mỗi 16s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 25% for the next 15s, as well as regenerates 7.5 Elemental Energy for other members of their party. This effect can trigger once every 16s.",
+        "CHS": "触发冰元素或水元素相关反应后的15秒内，装备者的攻击力提升25%，并为队伍中自己的其他角色恢复7.5点元素能量。该效果每16秒至多触发一次。",
+        "CHT": "觸發冰元素或水元素相關反應後的15秒內，裝備者的攻擊力提升25%，並為隊伍中自己的其他角色恢復7.5點元素能量。該效果每16秒至多觸發一次。",
+        "DE": "#Erhöht innerhalb von 15 s nach dem Auslösen einer mit Kryo oder Hydro in Zusammenhang stehenden Reaktion den ANG des Trägers um 25 % und stellt den eigenen Truppenmitgliedern 7,5 Punkte Elementarenergie wieder her. 16 s Abklingzeit.",
+        "ES": "#Tras causar una Reacción Elemental Cryo o Hydro, el ATQ del portador de esta arma aumenta en un 25% durante 15 s y tus demás personajes del equipo regeneran 7.5 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 16 s.",
+        "FR": "Pendant 15 s après avoir déclenché une réaction élémentaire liée à l'élément Cryo ou à l'élément Hydro, l'ATQ du personnage équipé de l'arme augmente de 25 % et les autres personnages de votre équipe récupèrent 7,5 pts d'énergie élémentaire. Cet effet peut être déclenché une fois toutes les 16 s.",
+        "ID": "Setelah memicu Reaksi Elemental yang berkaitan dengan Cryo atau Hydro, ATK Karakter yang mengenakan +25% selama 15 detik dan memulihkan 7,5 Energy untuk Karakter lain milik sendiri dalam party. Efek ini dapat terpicu sekali setiap 16 detik.",
+        "IT": "#Innescare una reazione elementale di Cryo o di Hydro aumenta l'ATT del personaggio che equipaggia l'arma di un 25% per 15 s e ripristina di 7,5 l'energia elementale degli altri membri del gruppo. Questo effetto può attivarsi una volta ogni 16 s.",
+        "JP": "氷元素または水元素に関連する反応を起こした後の15秒間、装備者の攻撃力+25%、チーム内の自身の他のキャラクターの元素エネルギーを7.5ポイント回復する。この効果は16秒毎に1回のみ発動可能。",
+        "KR": "얼음 원소 또는 물 원소 관련 반응 발동 후 15초 동안 장착 캐릭터의 공격력이 25% 증가하고, 파티 내 자신의 다른 캐릭터의 원소 에너지를 7.5pt 회복한다. 해당 효과는 16초마다 최대 1회 발동된다",
+        "PT": "Nos 15s após desencadear uma reação Cryo ou Hydro, aumenta o ATQ do portador em 25%, e regenera 7.5 de Energia Elemental para os outros personagens da equipe. Esse efeito pode ser desencadeado uma vez a cada 16s.",
+        "RU": "Активация Крио или Гидро реакций повышает силу атаки экипированного персонажа на 15 сек. на 25%, а также восстанавливает другим персонажам вашего отряда 7,5 ед. энергии. Эффект может возникнуть один раз в 16 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุน้ำแข็งหรือธาตุน้ำ พลังโจมตีของผู้ที่สวมใส่จะเพิ่มขึ้น 25% และฟื้นฟูพลังงานธาตุ 7.5 หน่วยให้กับตัวละครอื่นของตัวเองในทีม เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 16 วินาที",
+        "TR": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı %25 artar ve gruptaki diğer üyeler için 7,5 Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng liên quan đến Nguyên Tố Băng hoặc Thủy, người trang bị tăng 25% Tấn Công trong 15s, đồng thời hồi phục 7.5 điểm Năng Lượng Nguyên Tố cho nhân vật khác trong đội bản thân. Hiệu quả này mỗi 16s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 30% for the next 15s, as well as regenerates 9 Elemental Energy for other members of their party. This effect can trigger once every 16s.",
+        "CHS": "触发冰元素或水元素相关反应后的15秒内，装备者的攻击力提升30%，并为队伍中自己的其他角色恢复9点元素能量。该效果每16秒至多触发一次。",
+        "CHT": "觸發冰元素或水元素相關反應後的15秒內，裝備者的攻擊力提升30%，並為隊伍中自己的其他角色恢復9點元素能量。該效果每16秒至多觸發一次。",
+        "DE": "#Erhöht innerhalb von 15 s nach dem Auslösen einer mit Kryo oder Hydro in Zusammenhang stehenden Reaktion den ANG des Trägers um 30 % und stellt den eigenen Truppenmitgliedern 9 Punkte Elementarenergie wieder her. 16 s Abklingzeit.",
+        "ES": "#Tras causar una Reacción Elemental Cryo o Hydro, el ATQ del portador de esta arma aumenta en un 30% durante 15 s y tus demás personajes del equipo regeneran 9 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 16 s.",
+        "FR": "Pendant 15 s après avoir déclenché une réaction élémentaire liée à l'élément Cryo ou à l'élément Hydro, l'ATQ du personnage équipé de l'arme augmente de 30 % et les autres personnages de votre équipe récupèrent 9 pts d'énergie élémentaire. Cet effet peut être déclenché une fois toutes les 16 s.",
+        "ID": "Setelah memicu Reaksi Elemental yang berkaitan dengan Cryo atau Hydro, ATK Karakter yang mengenakan +30% selama 15 detik dan memulihkan 9 Energy untuk Karakter lain milik sendiri dalam party. Efek ini dapat terpicu sekali setiap 16 detik.",
+        "IT": "#Innescare una reazione elementale di Cryo o di Hydro aumenta l'ATT del personaggio che equipaggia l'arma di un 30% per 15 s e ripristina di 9 l'energia elementale degli altri membri del gruppo. Questo effetto può attivarsi una volta ogni 16 s.",
+        "JP": "氷元素または水元素に関連する反応を起こした後の15秒間、装備者の攻撃力+30%、チーム内の自身の他のキャラクターの元素エネルギーを9ポイント回復する。この効果は16秒毎に1回のみ発動可能。",
+        "KR": "얼음 원소 또는 물 원소 관련 반응 발동 후 15초 동안 장착 캐릭터의 공격력이 30% 증가하고, 파티 내 자신의 다른 캐릭터의 원소 에너지를 9pt 회복한다. 해당 효과는 16초마다 최대 1회 발동된다",
+        "PT": "Nos 15s após desencadear uma reação Cryo ou Hydro, aumenta o ATQ do portador em 30%, e regenera 9 de Energia Elemental para os outros personagens da equipe. Esse efeito pode ser desencadeado uma vez a cada 16s.",
+        "RU": "Активация Крио или Гидро реакций повышает силу атаки экипированного персонажа на 15 сек. на 30%, а также восстанавливает другим персонажам вашего отряда 9 ед. энергии. Эффект может возникнуть один раз в 16 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุน้ำแข็งหรือธาตุน้ำ พลังโจมตีของผู้ที่สวมใส่จะเพิ่มขึ้น 30% และฟื้นฟูพลังงานธาตุ 9 หน่วยให้กับตัวละครอื่นของตัวเองในทีม เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 16 วินาที",
+        "TR": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı %30 artar ve gruptaki diğer üyeler için 9 Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng liên quan đến Nguyên Tố Băng hoặc Thủy, người trang bị tăng 30% Tấn Công trong 15s, đồng thời hồi phục 9 điểm Năng Lượng Nguyên Tố cho nhân vật khác trong đội bản thân. Hiệu quả này mỗi 16s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 35% for the next 15s, as well as regenerates 10.5 Elemental Energy for other members of their party. This effect can trigger once every 16s.",
+        "CHS": "触发冰元素或水元素相关反应后的15秒内，装备者的攻击力提升35%，并为队伍中自己的其他角色恢复10.5点元素能量。该效果每16秒至多触发一次。",
+        "CHT": "觸發冰元素或水元素相關反應後的15秒內，裝備者的攻擊力提升35%，並為隊伍中自己的其他角色恢復10.5點元素能量。該效果每16秒至多觸發一次。",
+        "DE": "#Erhöht innerhalb von 15 s nach dem Auslösen einer mit Kryo oder Hydro in Zusammenhang stehenden Reaktion den ANG des Trägers um 35 % und stellt den eigenen Truppenmitgliedern 10,5 Punkte Elementarenergie wieder her. 16 s Abklingzeit.",
+        "ES": "#Tras causar una Reacción Elemental Cryo o Hydro, el ATQ del portador de esta arma aumenta en un 35% durante 15 s y tus demás personajes del equipo regeneran 10.5 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 16 s.",
+        "FR": "Pendant 15 s après avoir déclenché une réaction élémentaire liée à l'élément Cryo ou à l'élément Hydro, l'ATQ du personnage équipé de l'arme augmente de 35 % et les autres personnages de votre équipe récupèrent 10,5 pts d'énergie élémentaire. Cet effet peut être déclenché une fois toutes les 16 s.",
+        "ID": "Setelah memicu Reaksi Elemental yang berkaitan dengan Cryo atau Hydro, ATK Karakter yang mengenakan +35% selama 15 detik dan memulihkan 10,5 Energy untuk Karakter lain milik sendiri dalam party. Efek ini dapat terpicu sekali setiap 16 detik.",
+        "IT": "#Innescare una reazione elementale di Cryo o di Hydro aumenta l'ATT del personaggio che equipaggia l'arma di un 35% per 15 s e ripristina di 10,5 l'energia elementale degli altri membri del gruppo. Questo effetto può attivarsi una volta ogni 16 s.",
+        "JP": "氷元素または水元素に関連する反応を起こした後の15秒間、装備者の攻撃力+35%、チーム内の自身の他のキャラクターの元素エネルギーを10.5ポイント回復する。この効果は16秒毎に1回のみ発動可能。",
+        "KR": "얼음 원소 또는 물 원소 관련 반응 발동 후 15초 동안 장착 캐릭터의 공격력이 35% 증가하고, 파티 내 자신의 다른 캐릭터의 원소 에너지를 10.5pt 회복한다. 해당 효과는 16초마다 최대 1회 발동된다",
+        "PT": "Nos 15s após desencadear uma reação Cryo ou Hydro, aumenta o ATQ do portador em 35%, e regenera 10.5 de Energia Elemental para os outros personagens da equipe. Esse efeito pode ser desencadeado uma vez a cada 16s.",
+        "RU": "Активация Крио или Гидро реакций повышает силу атаки экипированного персонажа на 15 сек. на 35%, а также восстанавливает другим персонажам вашего отряда 10,5 ед. энергии. Эффект может возникнуть один раз в 16 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุน้ำแข็งหรือธาตุน้ำ พลังโจมตีของผู้ที่สวมใส่จะเพิ่มขึ้น 35% และฟื้นฟูพลังงานธาตุ 10.5 หน่วยให้กับตัวละครอื่นของตัวเองในทีม เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 16 วินาที",
+        "TR": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı %35 artar ve gruptaki diğer üyeler için 10,5 Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng liên quan đến Nguyên Tố Băng hoặc Thủy, người trang bị tăng 35% Tấn Công trong 15s, đồng thời hồi phục 10.5 điểm Năng Lượng Nguyên Tố cho nhân vật khác trong đội bản thân. Hiệu quả này mỗi 16s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Triggering a Cryo or Hydro-related elemental reaction increases the equipping character's ATK by 40% for the next 15s, as well as regenerates 12 Elemental Energy for other members of their party. This effect can trigger once every 16s.",
+        "CHS": "触发冰元素或水元素相关反应后的15秒内，装备者的攻击力提升40%，并为队伍中自己的其他角色恢复12点元素能量。该效果每16秒至多触发一次。",
+        "CHT": "觸發冰元素或水元素相關反應後的15秒內，裝備者的攻擊力提升40%，並為隊伍中自己的其他角色恢復12點元素能量。該效果每16秒至多觸發一次。",
+        "DE": "#Erhöht innerhalb von 15 s nach dem Auslösen einer mit Kryo oder Hydro in Zusammenhang stehenden Reaktion den ANG des Trägers um 40 % und stellt den eigenen Truppenmitgliedern 12 Punkte Elementarenergie wieder her. 16 s Abklingzeit.",
+        "ES": "#Tras causar una Reacción Elemental Cryo o Hydro, el ATQ del portador de esta arma aumenta en un 40% durante 15 s y regenera 12 pts. de Energía Elemental para tus demás personajes del equipo. Este efecto solo se puede activar una vez cada 16 s.",
+        "FR": "Pendant 15 s après avoir déclenché une réaction élémentaire liée à l'élément Cryo ou à l'élément Hydro, l'ATQ du personnage équipé de l'arme augmente de 40 % et les autres personnages de votre équipe récupèrent 12 pts d'énergie élémentaire. Cet effet peut être déclenché une fois toutes les 16 s.",
+        "ID": "Setelah memicu Reaksi Elemental yang berkaitan dengan Cryo atau Hydro, ATK Karakter yang mengenakan +40% selama 15 detik dan memulihkan 12 Energy untuk Karakter lain milik sendiri dalam party. Efek ini dapat terpicu sekali setiap 16 detik.",
+        "IT": "#Innescare una reazione elementale di Cryo o di Hydro aumenta l'ATT del personaggio che equipaggia l'arma di un 40% per 15 s e ripristina di 12 l'energia elementale degli altri membri del gruppo. Questo effetto può attivarsi una volta ogni 16 s.",
+        "JP": "氷元素または水元素に関連する反応を起こした後の15秒間、装備者の攻撃力+40%、チーム内の自身の他のキャラクターの元素エネルギーを12ポイント回復する。この効果は16秒毎に1回のみ発動可能。",
+        "KR": "얼음 원소 또는 물 원소 관련 반응 발동 후 15초 동안 장착 캐릭터의 공격력이 40% 증가하고, 파티 내 자신의 다른 캐릭터의 원소 에너지를 12pt 회복한다. 해당 효과는 16초마다 최대 1회 발동된다",
+        "PT": "Nos 15s após desencadear uma reação Cryo ou Hydro, aumenta o ATQ do portador em 40%, e regenera 12 de Energia Elemental para os outros personagens da equipe. Esse efeito pode ser desencadeado uma vez a cada 16s.",
+        "RU": "Активация Крио или Гидро реакций повышает силу атаки экипированного персонажа на 15 сек. на 40%, а также восстанавливает другим персонажам вашего отряда 12 ед. энергии. Эффект может возникнуть один раз в 16 сек.",
+        "TH": "ภายใน 15 วินาที หลังจากทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุน้ำแข็งหรือธาตุน้ำ พลังโจมตีของผู้ที่สวมใส่จะเพิ่มขึ้น 40% และฟื้นฟูพลังงานธาตุ 12 หน่วยให้กับตัวละครอื่นของตัวเองในทีม เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 16 วินาที",
+        "TR": "Buz veya Su ile ilgili bir Element Tepkimesi tetiklediğinde, 15sn boyunca kuşanan karakterin Saldırısı %40 artar ve gruptaki diğer üyeler için 12 Element Enerjisi yenilenir. Bu etki her 16 saniyede bir tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng liên quan đến Nguyên Tố Băng hoặc Thủy, người trang bị tăng 40% Tấn Công trong 15s, đồng thời hồi phục 12 điểm Năng Lượng Nguyên Tố cho nhân vật khác trong đội bản thân. Hiệu quả này mỗi 16s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

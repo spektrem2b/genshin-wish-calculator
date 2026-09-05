@@ -1,0 +1,52 @@
+{
+  "id": 14414,
+  "name": {
+    "EN": "Hakushin Ring",
+    "CHS": "白辰之环",
+    "CHT": "白辰之環",
+    "DE": "Hakushin-Ring",
+    "ES": "Anillo de Hakushin",
+    "FR": "Anneau des Hakushin",
+    "ID": "Hakushin Ring",
+    "IT": "Anello di Hakushin",
+    "JP": "白辰の輪",
+    "KR": "하쿠신의 고리",
+    "PT": "Anel de Hakushin",
+    "RU": "Кольцо Хакусин",
+    "TH": "Hakushin Ring",
+    "TR": "Hakushin Yüzüğü",
+    "VI": "Vòng Bạch Thần"
+  },
+  "nameEn": "Hakushin Ring",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought.",
+    "CHS": "承载着过去的「狐斋宫」思念的法器。但她的思念之大，是无法完全装进这样小小的器物当中的。",
+    "CHT": "承載著過去的「狐齋宮」思念的法器。但她的思念之大，是無法完全裝進這樣小小的器物當中的。",
+    "DE": "Ein Katalysator, der die Erinnerung der „Kitsune Saiguu“ der alten Zeit trägt. Und doch ist dieses Gerät immer noch zu klein für das immense Volumen ihrer Erinnerungen.",
+    "ES": "Un catalizador que conserva los antiguos pensamientos de la Sacerdotisa Kitsune. Sin embargo, estos pensamientos eran tantos que no fue posible que todos cupieran en este objeto.",
+    "FR": "Un catalyseur qui contient les mémoires de la Kitsune Saiguu. Cependant, ses pensées étaient si nombreuses qu'il n'était pas possible de toutes les faire tenir dans cet objet.",
+    "ID": "Catalyst yang menyimpan ingatan Kitsune Saiguu akan masa lalu. Bagaimanapun, benda ini tidak punya cukup ruang untuk menampung luasnya pemikiran Kitsune Saiguu.",
+    "IT": "Un catalizzatore che racchiude le memorie della Saiguu Kitsune. Tuttavia, i suoi pensieri erano talmente numerosi che quest'oggetto non fu in grado di contenerli tutti.",
+    "JP": "過去の「狐斎宮」の想いが込められた法器。しかし、彼女の想いの大きさでは、この小さな器に入りきらない。",
+    "KR": "과거 「호재궁」에 대한 그리움이 담긴 법구. 하지만 호재궁에 대한 그리움이 너무 커, 이 작은 법구 안에 다 담을 수는 없었다",
+    "PT": "Um catalisador que guarda a memória de Kitsune Saiguu dos tempos passados. E, ainda assim, esse dispositivo é apenas um recipiente empobrecido para toda a amplitude do seu pensamento.",
+    "RU": "Катализатор, в котором заточены воспоминания о кицунэ Сайгу с древнейших времен. Однако этих воспоминаний так много, что вместить их все в одном сосуде не представлялось возможным.",
+    "TH": "สื่อเวทที่แบกรับความคิดและความทรงจำของ \"Kitsune Saiguu\" เมื่อในอดีต แต่ความคิดและความทรงจำของเธอนั้นยิ่งใหญ่มาก ซึ่งเป็นไปไม่ได้เลยที่จะใส่ลงในอาวุธขนาดเล็กเช่นนี้ได้ทั้งหมด",
+    "TR": "Kadim zamanlarda yaşamış \"Kitsune Saiguu\"nun hatıralarını taşıyan bir katalizör. Yine de hatıraların zenginliği karşısında hacmi yetersiz kalıyor.",
+    "VI": "Pháp khí kế thừa ý niệm của Ngài Kitsune. Chỉ có điều ý niệm của ngài lớn mạnh như vậy vật nhỏ bé này chẳng thể chứa đựng được hết."
+  },
+  "icon": "generated/weapon-profiles/14414/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Last Singer",
+    "CHS": "最后的歌者",
+    "CHT": "最後的歌者",
+    "DE": "Die letzte Sängerin",
+    "ES": "El último cantor",
+    "FR": "Ultime chantre",
+    "ID": "Last Singer",
+    "IT": "Cantante finale",
+    "JP": "最後の歌い手",
+    "KR": "최후의 가수",
+    "PT": "O Último Cantor",
+    "RU": "Последний певец",
+    "TH": "Last Singer",
+    "TR": "Son Şarkıcı",
+    "VI": "Giọng Ca Cuối Cùng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 100.",
+        "CHS": "施放元素战技后的20秒内，装备者的元素精通提升100点。",
+        "CHT": "施放元素戰技後的20秒內，裝備者的元素精通提升100點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 20 s lang um 100 Punkte.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 100 pts. durante 20 s.",
+        "FR": "Après avoir utilisé une compétence élémentaire, la maîtrise élémentaire du personnage équipé de l'arme augmente de 100 pts pendant 20 s.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery Karakter yang mengenakan +100 poin selama 20 detik.",
+        "IT": "#Per 20 s dopo l'uso dell'abilità elementale, la maestria elementale del personaggio che equipaggia l'arma aumenta di 100.",
+        "JP": "元素スキルを発動した後の20秒間、装備者の元素熟知+100。",
+        "KR": "원소전투 스킬 발동 후, 20초 동안 장착 캐릭터의 원소 마스터리가 100pt 증가한다",
+        "PT": "Nos 20s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental do personagem que está com essa arma equipada em 100.",
+        "RU": "После использования элементального навыка мастерство стихий экипированного персонажа повышается на 100 ед. на 20 сек.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 100 หน่วย",
+        "TR": "Bir Element Becerisi kullandıktan sonra 20sn boyunca kuşanan karakterin Element Ustalığı 100 artar.",
+        "VI": "Trong 20s sau khi thi triển Kỹ Năng Nguyên Tố, người trang bị tăng 100 điểm Tinh Thông Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 125.",
+        "CHS": "施放元素战技后的20秒内，装备者的元素精通提升125点。",
+        "CHT": "施放元素戰技後的20秒內，裝備者的元素精通提升125點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 20 s lang um 125 Punkte.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 125 pts. durante 20 s.",
+        "FR": "Après avoir utilisé une compétence élémentaire, la maîtrise élémentaire du personnage équipé de l'arme augmente de 125 pts pendant 20 s.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery Karakter yang mengenakan +125 poin selama 20 detik.",
+        "IT": "#Per 20 s dopo l'uso dell'abilità elementale, la maestria elementale del personaggio che equipaggia l'arma aumenta di 125.",
+        "JP": "元素スキルを発動した後の20秒間、装備者の元素熟知+125。",
+        "KR": "원소전투 스킬 발동 후, 20초 동안 장착 캐릭터의 원소 마스터리가 125pt 증가한다",
+        "PT": "Nos 20s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental do personagem que está com essa arma equipada em 125.",
+        "RU": "После использования элементального навыка мастерство стихий экипированного персонажа повышается на 125 ед. на 20 сек.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 125 หน่วย",
+        "TR": "Bir Element Becerisi kullandıktan sonra 20sn boyunca kuşanan karakterin Element Ustalığı 125 artar.",
+        "VI": "Trong 20s sau khi thi triển Kỹ Năng Nguyên Tố, người trang bị tăng 125 điểm Tinh Thông Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 150.",
+        "CHS": "施放元素战技后的20秒内，装备者的元素精通提升150点。",
+        "CHT": "施放元素戰技後的20秒內，裝備者的元素精通提升150點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 20 s lang um 150 Punkte.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 150 pts. durante 20 s.",
+        "FR": "Après avoir utilisé une compétence élémentaire, la maîtrise élémentaire du personnage équipé de l'arme augmente de 150 pts pendant 20 s.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery Karakter yang mengenakan +150 poin selama 20 detik.",
+        "IT": "#Per 20 s dopo l'uso dell'abilità elementale, la maestria elementale del personaggio che equipaggia l'arma aumenta di 150.",
+        "JP": "元素スキルを発動した後の20秒間、装備者の元素熟知+150。",
+        "KR": "원소전투 스킬 발동 후, 20초 동안 장착 캐릭터의 원소 마스터리가 150pt 증가한다",
+        "PT": "Nos 20s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental do personagem que está com essa arma equipada em 150.",
+        "RU": "После использования элементального навыка мастерство стихий экипированного персонажа повышается на 150 ед. на 20 сек.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 150 หน่วย",
+        "TR": "Bir Element Becerisi kullandıktan sonra 20sn boyunca kuşanan karakterin Element Ustalığı 150 artar.",
+        "VI": "Trong 20s sau khi thi triển Kỹ Năng Nguyên Tố, người trang bị tăng 150 điểm Tinh Thông Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 175.",
+        "CHS": "施放元素战技后的20秒内，装备者的元素精通提升175点。",
+        "CHT": "施放元素戰技後的20秒內，裝備者的元素精通提升175點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 20 s lang um 175 Punkte.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 175 pts. durante 20 s.",
+        "FR": "Après avoir utilisé une compétence élémentaire, la maîtrise élémentaire du personnage équipé de l'arme augmente de 175 pts pendant 20 s.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery Karakter yang mengenakan +175 poin selama 20 detik.",
+        "IT": "#Per 20 s dopo l'uso dell'abilità elementale, la maestria elementale del personaggio che equipaggia l'arma aumenta di 175.",
+        "JP": "元素スキルを発動した後の20秒間、装備者の元素熟知+175。",
+        "KR": "원소전투 스킬 발동 후, 20초 동안 장착 캐릭터의 원소 마스터리가 175pt 증가한다",
+        "PT": "Nos 20s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental do personagem que está com essa arma equipada em 175.",
+        "RU": "После использования элементального навыка мастерство стихий экипированного персонажа повышается на 175 ед. на 20 сек.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 175 หน่วย",
+        "TR": "Bir Element Becerisi kullandıktan sonra 20sn boyunca kuşanan karakterin Element Ustalığı 175 artar.",
+        "VI": "Trong 20s sau khi thi triển Kỹ Năng Nguyên Tố, người trang bị tăng 175 điểm Tinh Thông Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 200.",
+        "CHS": "施放元素战技后的20秒内，装备者的元素精通提升200点。",
+        "CHT": "施放元素戰技後的20秒內，裝備者的元素精通提升200點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 20 s lang um 200 Punkte.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 200 pts. durante 20 s.",
+        "FR": "Après avoir utilisé une compétence élémentaire, la maîtrise élémentaire du personnage équipé de l'arme augmente de 200 pts pendant 20 s.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery Karakter yang mengenakan +200 poin selama 20 detik.",
+        "IT": "#Per 20 s dopo l'uso dell'abilità elementale, la maestria elementale del personaggio che equipaggia l'arma aumenta di 200.",
+        "JP": "元素スキルを発動した後の20秒間、装備者の元素熟知+200。",
+        "KR": "원소전투 스킬 발동 후, 20초 동안 장착 캐릭터의 원소 마스터리가 200pt 증가한다",
+        "PT": "Nos 20s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental do personagem que está com essa arma equipada em 200.",
+        "RU": "После использования элементального навыка мастерство стихий экипированного персонажа повышается на 200 ед. на 20 сек.",
+        "TH": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 200 หน่วย",
+        "TR": "Bir Element Becerisi kullandıktan sonra 20sn boyunca kuşanan karakterin Element Ustalığı 200 artar.",
+        "VI": "Trong 20s sau khi thi triển Kỹ Năng Nguyên Tố, người trang bị tăng 200 điểm Tinh Thông Nguyên Tố."
+      }
+    }
+  ]
+}

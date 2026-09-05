@@ -1,0 +1,52 @@
+{
+  "id": 15305,
+  "name": {
+    "EN": "Messenger",
+    "CHS": "信使",
+    "CHT": "信使",
+    "DE": "Überbringer",
+    "ES": "Mensajero",
+    "FR": "Messager",
+    "ID": "Messenger",
+    "IT": "Messaggero",
+    "JP": "文使い",
+    "KR": "전령",
+    "PT": "Mensageiro",
+    "RU": "Посыльный",
+    "TH": "Messenger",
+    "TR": "Ulak",
+    "VI": "Tín Sứ"
+  },
+  "nameEn": "Messenger",
+  "type": "Cung",
+  "rarity": 3,
+  "description": {
+    "EN": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
+    "CHS": "造型简单的木制弓。传说它曾被人用作远程通讯的道具。",
+    "CHT": "造型簡單的木製弓。傳說它曾被人用做遠程通訊的道具。",
+    "DE": "Ein einfacher Holzbogen, mit dem man früher wohl einmal Nachrichten übermittelt hat.",
+    "ES": "Un arco de madera básico. Dicen que se usaba para comunicaciones de larga distancia.",
+    "FR": "Un simple arc en bois. On raconte qu'il était autrefois utilisé pour communiquer à distance.",
+    "ID": "Busur kayu yang sederhana. Konon busur ini biasanya digunakan hanya untuk mengirimkan pesan surat.",
+    "IT": "Un semplice arco di legno. Si dice che sia stato usato come strumento per la comunicazione a distanza.",
+    "JP": "デザインがシンプルな木弓。かつて遠隔通信の道具として使われていたらしい。",
+    "KR": "간단한 모양의 나무활. 전설에 의하면 과거 장거리 통신 도구로 사용했었다고 한다",
+    "PT": "Um arco básico de madeira. Dizem que ele foi usado para comunicações de longa distância.",
+    "RU": "Простой деревянный лук. Говорят, что когда-то такие луки использовали для дистанционного общения.",
+    "TH": "คันธนูแบนที่ทำขึ้นอย่างง่าย ๆ ที่ครั้งหนึ่งเคยใช้สำหรับการสื่อสารส่งข้อความ",
+    "TR": "Basit bir ahşap yay. Bir zamanlar uzaktan iletişim kurmak için kullanıldığı söylenir.",
+    "VI": "Cung làm từ gỗ có tạo hình đơn giản. Nghe nói nó từng được dùng làm công cụ truyền tin xa."
+  },
+  "icon": "generated/weapon-profiles/15305/avatar.webp",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.068,
+  "substat_lvl90": 0.3124,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

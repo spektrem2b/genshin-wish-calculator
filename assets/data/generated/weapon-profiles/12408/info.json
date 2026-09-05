@@ -1,0 +1,52 @@
+{
+  "id": 12408,
+  "name": {
+    "EN": "Blackcliff Slasher",
+    "CHS": "黑岩斩刀",
+    "CHT": "黑岩斬刀",
+    "DE": "Schwarzstein-Schneide",
+    "ES": "Gran Hoja del Peñasco Oscuro",
+    "FR": "Trancheuse de Rochenoire",
+    "ID": "Blackcliff Slasher",
+    "IT": "Grande lama di Rupenera",
+    "JP": "黒岩の斬刀",
+    "KR": "흑암참도",
+    "PT": "Foice do Penhasco Obscuro",
+    "RU": "Черногорская бритва",
+    "TH": "Blackcliff Slasher",
+    "TR": "Kara Kaya Kılıcı",
+    "VI": "Hắc Nham Trảm Đao"
+  },
+  "nameEn": "Blackcliff Slasher",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to pommel.",
+    "CHS": "坚韧无比的黑岩大刀，通体皆为玄赤之色。",
+    "CHT": "堅韌無比的黑岩大刀，通體皆為玄赤之色。",
+    "DE": "Ein Schwarzstein-Großschwert, dessen Härte unübertroffen ist. Es ist schwarz mit roten Einschlüssen.",
+    "ES": "Una gran espada firme forjada en el Peñasco Oscuro. Tiene un color carmesí oscuro a lo largo de su cuchilla.",
+    "FR": "Un espadon très résistant fabriqué à la Forge de Rochenoire. Sa lame sombre brille d'une lueur rouge.",
+    "ID": "Pedang yang sangat kokoh dan kuat dari Blackcliff Forge. Berwarna merah gelap di sepanjang bilahnya.",
+    "IT": "Uno spadone estremamente resistente, forgiato nella Fucina di Rupenera. La sua lama riluce di un riflesso purpureo.",
+    "JP": "とても丈夫な黒岩大刀、刀身は暗赤色。",
+    "KR": "강인하기 그지없는 흑암 대도. 전신이 검붉은색으로 뒤덮여있다",
+    "PT": "Uma espada extremamente resistente da Forja do Penhasco Obscuro. Tem uma cor carmesim escura ao longo de sua lâmina.",
+    "RU": "Крепкий двуручный меч из кузницы Черногорья. Лезвие отливает зловещим красным цветом.",
+    "TH": "ดาบยักษ์ของ Blackcliff Forge นั้นแข็งแกร่งไม่มีใครเทียบ ตัวดาบสีดำแดง",
+    "TR": "Kara Kaya Demirci Ocağında dövülmüş sağlam bir kılıç. Kılıcın ucundan kabzasına kadar kızıl bir ışıltı saçar.",
+    "VI": "Thanh kiếm hắc nham chắc cứng sắc bén, toàn thân có màu đen đỏ."
+  },
+  "icon": "generated/weapon-profiles/12408/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

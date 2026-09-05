@@ -1,0 +1,137 @@
+{
+  "id": "10000023",
+  "name": {
+    "EN": "Xiangling",
+    "CHS": "香菱",
+    "CHT": "香菱",
+    "DE": "Xiangling",
+    "ES": "Xiangling",
+    "FR": "Xiangling",
+    "ID": "Xiangling",
+    "IT": "Xiangling",
+    "JP": "香菱",
+    "KR": "향릉",
+    "PT": "Xiangling",
+    "RU": "Сян Лин",
+    "TH": "Xiangling",
+    "TR": "Xiangling",
+    "VI": "Xiangling"
+  },
+  "nameEn": "Xiangling",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 11,
+    "day": 2
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000023/avatar.webp",
+  "fullWish": "generated/character-profiles/10000023/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 18.5%",
+  "title": {
+    "EN": "Exquisite Delicacy",
+    "CHS": "万民百味",
+    "CHT": "萬民百味",
+    "DE": "Küchenfee des Volkes",
+    "ES": "La Maestra Culinaria de Liyue",
+    "FR": "Cordon-bleu du peuple",
+    "ID": "Exquisite Delicacy",
+    "IT": "Maestra culinaria di Liyue",
+    "JP": "万民百味",
+    "KR": "만민백미",
+    "PT": "Mestre da Culinária",
+    "RU": "Миллион вкусов",
+    "TH": "สุดยอดนักทำอาหาร",
+    "TR": "Enfes Lezzet",
+    "VI": "Vạn Dân Bách Vị"
+  },
+  "description": {
+    "EN": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+    "CHS": "来自璃月、名声在外的少女厨师，对料理之道极具热情，拿手麻辣菜肴堪称一绝。",
+    "CHT": "來自璃月、名聲在外的少女廚師，對料理之道極具熱情，拿手麻辣菜餚堪稱一絕。",
+    "DE": "Eine recht bekannte Köchin aus Liyue, die Gerichte mit Leidenschaft zubereitet. Ihre Techniken sind feurig genug, um ihren Gegnern den Appetit zu verderben.",
+    "ES": "Una reconocida chef de Liyue. Siente una gran pasión por la cocina y sus platos picantes son de una excelente calidad.",
+    "FR": "Une jeune cheffe liyuéenne qui nourrit une passion extrême pour la cuisine. Elle est réputée pour ses plats épicés.",
+    "ID": "Seorang koki ternama dari Liyue yang memiliki cinta mendalam terhadap dunia memasak. Sangat mahir membuat masakan-masakan pedas.",
+    "IT": "Una cuoca rinomata di Liyue. Nutre una grande passione per la cucina ed eccelle nella preparazione di piatti piccanti e speziati.",
+    "JP": "璃月出身で少し有名な料理人。料理に対して情熱があり、激辛料理が大の得意。",
+    "KR": "리월에서 온 유명한 소녀 요리사. 요리를 아주 열정적으로 대하며, 마라 요리는 가히 일품이라 할 수 있다",
+    "PT": "Uma renomada chef de Liyue. Ela é extremamente apaixonada por cozinhar e se destaca em fazer seus pratos quentes e picantes.",
+    "RU": "Знаменитый шеф-повар из Ли Юэ. Она относится к готовке со всей страстью. Её особым рецептам острых блюд нет равных во всём Тейвате.",
+    "TH": "เชฟสาวชื่อดังจาก Liyue หลงใหลในการปรุงอาหารเป็นอย่างมาก อาหารรสเผ็ดของเธอนั้นโดดเด่นเป็นที่สุด",
+    "TR": "Liyue'den ünlü bir şef. Yemek pişirme konusunda son derece tutkulu. Özellikle acı ve baharatlı yemeklerdeki maharetiyle bilinir.",
+    "VI": "Thiếu nữ đầu bếp đến từ Liyue, rất nổi tiếng. Có sự nhiệt tình vô hạn với việc nấu nướng, đặc biệt là những món tê cay."
+  },
+  "constellationName": {
+    "EN": "Trulla",
+    "CHS": "长杓座",
+    "CHT": "長杓座",
+    "DE": "Trulla",
+    "ES": "Trulla",
+    "FR": "Trulla",
+    "ID": "Ladle",
+    "IT": "Trulla",
+    "JP": "長杓座",
+    "KR": "국자자리",
+    "PT": "Trulla",
+    "RU": "Поварской Черпак",
+    "TH": "Trulla",
+    "TR": "Şefin Spesiyali",
+    "VI": "Cung Trường Tiêu"
+  },
+  "native": {
+    "EN": "Wanmin Restaurant",
+    "CHS": "万民堂",
+    "CHT": "萬民堂",
+    "DE": "Restaurant Wanmin",
+    "ES": "Restaurante Wanmin",
+    "FR": "Restaurant Wanmin",
+    "ID": "Wanmin Restaurant",
+    "IT": "Ristorante Wanmin",
+    "JP": "万民堂",
+    "KR": "만민당",
+    "PT": "Restaurante Wanmin",
+    "RU": "Ресторан «Народный выбор»",
+    "TH": "ภัตตาคาร Wanmin",
+    "TR": "Wanmin Restoranı",
+    "VI": "Vạn Dân Đường"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Jackie Lastra"
+    },
+    {
+      "lang": "CHS",
+      "va": "小N"
+    },
+    {
+      "lang": "JP",
+      "va": "小澤亜李"
+    },
+    {
+      "lang": "KR",
+      "va": "Yoon Ah-young"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 911.791,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.87648,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 56.0805,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000015",
+  "name": {
+    "EN": "Kaeya",
+    "CHS": "凯亚",
+    "CHT": "凱亞",
+    "DE": "Kaeya",
+    "ES": "Kaeya",
+    "FR": "Kaeya",
+    "ID": "Kaeya",
+    "IT": "Kaeya",
+    "JP": "ガイア",
+    "KR": "케이아",
+    "PT": "Kaeya",
+    "RU": "Кэйа",
+    "TH": "Kaeya",
+    "TR": "Kaeya",
+    "VI": "Kaeya"
+  },
+  "nameEn": "Kaeya",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 11,
+    "day": 30
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000015/avatar.webp",
+  "fullWish": "generated/character-profiles/10000015/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 22.7%",
+  "title": {
+    "EN": "Frostwind Swordsman",
+    "CHS": "寒风剑士",
+    "CHT": "寒風劍士",
+    "DE": "Eiskalter Schwertkämpfer",
+    "ES": "El Espadachín Glacial",
+    "FR": "Chevalier du froid",
+    "ID": "Frostwind Swordsman",
+    "IT": "Spadaccino della bufera",
+    "JP": "寒風の剣士",
+    "KR": "한풍의 검사",
+    "PT": "Espadachim do Vento Congelante",
+    "RU": "Зимний клинок",
+    "TH": "นักดาบสายลมยะเยือก",
+    "TR": "Buzdaki Kılıç Ustası",
+    "VI": "Hàn Phong Kiếm Sĩ"
+  },
+  "description": {
+    "EN": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+    "CHS": "异国面容的剑斗士，西风骑士团的头脑派人物。",
+    "CHT": "異國面容的劍鬥士，西風騎士團的頭腦派人物。",
+    "DE": "Ein geschickter Schwertkämpfer und strategischer Denker des Ordo Favonius, weit über die Grenzen von Mondstadt hinaus bekannt.",
+    "ES": "El gran estratega de los Caballeros de Favonius. Se rumorea que procede de un lugar de fuera de Mondstadt.",
+    "FR": "Un épéiste accompli et un stratège de génie de l'Ordre de Favonius. Il est originaire, selon les rumeurs, d'une terre bien au-delà des frontières de Mondstadt.",
+    "ID": "Seorang kesatria pedang yang ulung dan ahli strategi di dalam Knights of Favonius, dikabarkan berasal dari luar Mondstadt.",
+    "IT": "Spadaccino esperto e stratega dei Cavalieri di Favonius. Si dice che non sia originario di Mondstadt.",
+    "JP": "異国の顔を持つ剣士。西風騎士団の頭脳派である。",
+    "KR": "이국적인 얼굴의 검투사. 페보니우스 기사단의 두뇌파 인물이다",
+    "PT": "Um espadachim dos Cavaleiros de Favonius com uma aparência única.",
+    "RU": "Капитан Ордо Фавониус выглядит довольно экзотично. Несмотря на дружелюбие и приветливость, от него веет странным холодком.",
+    "TH": "นักดาบผู้มีกลิ่นอายของคนจากต่างแดน มันสมองของกองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyelerinde başarılı bir kılıç ustası ve stratejik düşünür. Mondstadt'ın ötesinden geldiği söylenir.",
+    "VI": "Kiếm sĩ có nét của người ngoại quốc, là nhân vật có đầu óc trong Đội Kỵ Sĩ Tây Phong."
+  },
+  "constellationName": {
+    "EN": "Pavo Ocellus",
+    "CHS": "孔雀羽座",
+    "CHT": "孔雀羽座",
+    "DE": "Pavo Ocellus",
+    "ES": "Pavo Ocellus",
+    "FR": "Pavo Ocellus",
+    "ID": "Pavo Ocellus",
+    "IT": "Pavo Ocellus",
+    "JP": "孔雀羽座",
+    "KR": "공작깃털자리",
+    "PT": "Pavo Ocellus",
+    "RU": "Павлинье Перо",
+    "TH": "Pavo Ocellus",
+    "TR": "Tavus Kuşu",
+    "VI": "Cung Khổng Tước Vũ"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Josey Montana McCoy"
+    },
+    {
+      "lang": "CHS",
+      "va": "孙晔"
+    },
+    {
+      "lang": "JP",
+      "va": "鳥海浩輔"
+    },
+    {
+      "lang": "KR",
+      "va": "Jung Joo-won"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 975.6164,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.6984,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 66.381,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

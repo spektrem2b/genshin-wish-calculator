@@ -1,0 +1,52 @@
+{
+  "id": 14516,
+  "name": {
+    "EN": "Surf's Up",
+    "CHS": "冲浪时光",
+    "CHT": "衝浪時光",
+    "DE": "Zeit fürs Wellenreiten",
+    "ES": "Hora de Surfear",
+    "FR": "Instant surfant",
+    "ID": "Surf's Up",
+    "IT": "Vai col surf",
+    "JP": "サーフィンタイム",
+    "KR": "서핑 타임",
+    "PT": "Hora do Surfe",
+    "RU": "Лови волну",
+    "TH": "Surf's Up",
+    "TR": "Sörf Zamanı",
+    "VI": "Thời Khắc Lướt Sóng"
+  },
+  "nameEn": "Surf's Up",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A commemorative item originally reserved for the champion of the \"First All-Tribe Surfing Championship.\" Since said tournament is currently in the preparatory stage, the prize is in temporary storage at the Leisurely Puffer, with the shop owner as its custodian.",
+    "CHS": "原本预订发放给「第一届全部族冲浪竞速锦标赛」冠军的纪念品。鉴于赛事目前尚处于筹备阶段，奖品便被临时寄存在了「悠游豚豚」内，由店主代为保管。",
+    "CHT": "原本預訂發放給「第一屆全部族衝浪競速錦標賽」冠軍的紀念品。鑑於賽事目前尚處於籌備階段，獎品便被臨時寄存在「悠遊豚豚」內，由店主代為保管。",
+    "DE": "Ein Andenken, das ursprünglich für den Gewinner der ersten „Surfmeisterschaft für alle Stämme“ reserviert war. Da sich der Wettbewerb noch in der Vorbereitungsphase befindet, wird dieser Preis vorübergehend im „Gemütlichen Kugelfisch“ unter der Obhut der Geschäftsinhaberin aufbewahrt.",
+    "ES": "Un objeto conmemorativo que, supuestamente, se le iba a entregar al ganador de la primera edición del Campeonato de Surf Intertribal. Como el torneo aún está en fase de preparación, el premio lo está guardando temporalmente la dueña de la tienda Peciglobos Parsimoniosos.",
+    "FR": "Un objet commémoratif réservé à l'origine au vainqueur du Premier championnat inter-tribus de surf. Étant donné que ce tournoi est actuellement en phase préparatoire, le prix est temporairement conservé à la Bouée oisive et protégé par la propriétaire de l'établissement.",
+    "ID": "Benda kenang-kenangan yang awalnya dipesan untuk diberikan kepada pemenang \"Kejuaraan Berselancar Seluruh Suku Pertama\". Karena turnamennya sampai sekarang masih dalam tahap persiapan, maka untuk sementara hadiahnya disimpan di dalam Leisurely Puffer dulu dan dijaga oleh pemiliknya.",
+    "IT": "Un oggetto commemorativo pensato come premio esclusivo per il campione del \"Primo Torneo di Surf Intertribù\". Essendo il torneo ancora nella sua fase preparatoria, l'oggetto è stato temporaneamente affidato alla proprietaria del negozio Il Gonfiotto Pacioccone.",
+    "JP": "「第一回全部族サーフィントーナメント」の優勝者へ贈られる賞品。大会はまだ準備段階にあるため、賞品は「プクフグスローライフ」に一時的に預けられ、店主が保管することになった。",
+    "KR": "「제1회 전 부족 파도타기 경주 선수권 대회」 우승자에게 주어지는 기념품. 다만 아직 대회가 준비 단계에 머물러 있기 때문에, 이 상품은 「여유로운 빵빵이」 가게 주인이 대신 보관하고 있다",
+    "PT": "Originalmente reservado como lembrança para o campeão do \"Primeiro Campeonato de Corrida de Surfe de Todas as Tribos\". Dado que o evento continua em fase de preparação, o prêmio foi temporariamente armazenado no \"Flutuador Viajante\", sob a guarda do proprietário.",
+    "RU": "Сувенир, который должен был стать наградой чемпиону Первого состязания по сёрфингу среди племён. Поскольку состязание всё ещё находится на стадии подготовки, он временно хранится у владельца магазина «Досужий иглобрюх».",
+    "TH": "ของที่ระลึกที่เดิมที จะมอบให้กับผู้ชนะใน \"การแข่งขันโต้คลื่นชิงแชมป์ ชนเผ่าครั้งที่หนึ่ง\" แต่เนื่องจากการแข่งขัน ยังอยู่ในช่วงเตรียมงาน ของรางวัลจึงถูกฝากไว้ที่ \"Leisurely Puffer\" ชั่วคราว โดยมีเจ้าของร้านเป็นผู้ดูแล",
+    "TR": "\"Birinci Kabileler Arası Sörf Şampiyonası\" şampiyonuna verilmek için tasarlanan bir hatıra eşyası. Bu turnuva şu an hazırlık aşamasında olduğundan ödül de geçici olarak Deniz Keyfi'nde, dükkan sahibinin gözetiminde bekliyor.",
+    "VI": "Đồ lưu niệm được đặt trước để phát cho quán quân \"Giải Lướt Sóng Toàn Bộ Tộc Mùa Đầu Tiên\". Vì giải đấu hiện đang trong giai đoạn chuẩn bị, nên phần thưởng đã được tạm cất trong tiệm \"Cá Nóc Nhàn Nhã\" để chủ tiệm bảo quản thay."
+  },
+  "icon": "generated/weapon-profiles/14516/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

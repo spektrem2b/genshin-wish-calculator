@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Net Snapper",
+    "CHS": "网破",
+    "CHT": "網破",
+    "DE": "Netzreißer",
+    "ES": "Romperredes",
+    "FR": "Délaceur",
+    "ID": "Net Snapper",
+    "IT": "Spaccareti",
+    "JP": "ネットブレーカー",
+    "KR": "찢어진 그물",
+    "PT": "Rompedor de Redes",
+    "RU": "Разрывающий сети",
+    "TH": "Net Snapper",
+    "TR": "Ağ Koparan",
+    "VI": "Phá Lưới"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Triggers the Flowrider effect after using an Elemental Skill, dealing 80% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+        "CHS": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成80%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+        "CHT": "施放元素戰技後，將觸發「沿洄」效果，在攻擊命中敵人時造成80%攻擊力的範圍傷害，該效果將在15秒或觸發3次範圍傷害後移除。每2秒至多依此方式造成一次範圍傷害，每12秒至多觸發一次沿洄。",
+        "DE": "Löst beim Anwenden der Elementarfähigkeit den Effekt „Drift“ aus, bei dem die Figur, wenn sie einen Gegner trifft, Flächenschaden in Höhe von 80 % ANG verursacht. Dieser Effekt wird nach 15 s oder 3-maligem Verursachen des Flächenschadens entfernt. 2 s Abklingzeit für das Verursachen solch eines Flächenschadens, 12 s Abklingzeit für den Effekt „Drift“.",
+        "ES": "Al usar una Habilidad Elemental, el personaje obtiene el efecto de “deriva”, con el cual, al golpear a un enemigo, inflige Daño en el AdE equivalente al 80% de su ATQ. Este efecto desaparecerá después de 15 s o tras haber infligido 3 veces Daño en el AdE. Solo se puede infligir Daño en el AdE una vez cada 2 s de esta manera, y el efecto de deriva solo se puede activar, como máximo, una vez cada 12 s.",
+        "FR": "Accorde l'effet Dérive après l'utilisation d'une compétence élémentaire, permettant d'infliger des DGT de zone équivalant à 80 % de l'ATQ en touchant un ennemi. Cet effet disparaît après 15 s ou après avoir infligé des DGT de zone 3 fois. Des DGT de zone peuvent être infligés une fois toutes les 2 s de cette manière, et l'effet Dérive peut être déclenché une fois toutes les 12 s.",
+        "ID": "Setelah melancarkan Elemental Skill, akan mendapatkan efek \"Flowrider\": Saat serangan mengenai musuh, akan mengakibatkan DMG Area sebesar 80% ATK. Efek ini akan dihapus setelah 15 detik atau setelah memicu DMG Area sebanyak 3 kali. DMG Area dari \"Flowrider\" dapat diakibatkan dengan cara ini setiap 2 detik, sementara \"Flowrider\" dapat terpicu setiap 12 detik.",
+        "IT": "#Dopo aver utilizzato un'abilità elementale, attiva l'effetto Cavalcaflusso che infligge DAN ad area pari a un 80% dell'ATT quando si colpisce un avversario. Cavalcaflusso viene rimosso dopo 15 s o dopo aver inflitto i DAN ad area per 3 volte. Ciascuna iterazione dei DAN ad area può innescarsi ogni 2 s. Cavalcaflusso può essere attivato una volta ogni 12 s.",
+        "JP": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力80%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+        "KR": "원소전투 스킬 발동 후 「연회」 효과가 발동된다. 공격이 적에게 명중하면 공격력의 80%에 해당하는 범위 피해를 준다. 해당 효과는 15초 동안 지속되거나, 3회의 범위 피해 발동 시 사라진다. 2초마다 해당 방식으로 최대 1회의 범위 피해를 주고 12초마다 연회를 최대 1회 발동할 수 있다",
+        "PT": "Desencadeia o efeito \"Deriva\" após usar uma Habilidade Elemental, causando 80% do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Активация элементального навыка вызывает эффект Плывущего по течению: атаки при попадании наносят урон по площади, равный 80% от силы атаки. Через 15 сек. либо после 3 нанёсших урон атак эффект исчезнет. Эффект наносит урон не чаще одного раза в 2 сек. и может возникнуть раз в 12 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ จะเกิดเอฟเฟกต์ Flowrider ซึ่งเมื่อโจมตีถูกศัตรู จะทำให้เกิดความเสียหายวงกว้าง 80% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะหายไปหลังจากผ่านไป 15 วินาที หรือหลังทำให้เกิดความเสียหายวงกว้างครบ 3 ครั้ง ซึ่งทุก 2 วินาที จะสามารถสร้างความเสียหายวงกว้างด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง และทุก 12 วินาที จะเกิด Flowrider ได้มากสุดหนึ่งครั้ง",
+        "TR": "Element Becerisi kullanmak düşmana vurulduğunda %80 Saldırı değerinde Alan Hasarı veren Akışında etkisini tetikler. Akışında, 15 saniye sonrasında veya 3 defa Alan Hasarı verdikten sonra kaybolur. Bu şekilde her 2 saniyede 1 defa Alan Hasarı verilebilir. Akışında, her 12 saniyede bir tetiklenebilir.",
+        "VI": "Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng \"Xuôi Dòng\", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng 80% tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần \"Xuôi Dòng\"."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Triggers the Flowrider effect after using an Elemental Skill, dealing 100% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+        "CHS": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成100%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+        "CHT": "施放元素戰技後，將觸發「沿洄」效果，在攻擊命中敵人時造成100%攻擊力的範圍傷害，該效果將在15秒或觸發3次範圍傷害後移除。每2秒至多依此方式造成一次範圍傷害，每12秒至多觸發一次沿洄。",
+        "DE": "Löst beim Anwenden der Elementarfähigkeit den Effekt „Drift“ aus, bei dem die Figur, wenn sie einen Gegner trifft, Flächenschaden in Höhe von 100 % ANG verursacht. Dieser Effekt wird nach 15 s oder 3-maligem Verursachen des Flächenschadens entfernt. 2 s Abklingzeit für das Verursachen solch eines Flächenschadens, 12 s Abklingzeit für den Effekt „Drift“.",
+        "ES": "Al usar una Habilidad Elemental, el personaje obtiene el efecto de “deriva”, con el cual, al golpear a un enemigo, inflige Daño en el AdE equivalente al 100% de su ATQ. Este efecto desaparecerá después de 15 s o tras haber infligido 3 veces Daño en el AdE. Solo se puede infligir Daño en el AdE una vez cada 2 s de esta manera, y el efecto de deriva solo se puede activar, como máximo, una vez cada 12 s.",
+        "FR": "Accorde l'effet Dérive après l'utilisation d'une compétence élémentaire, permettant d'infliger des DGT de zone équivalant à 100 % de l'ATQ en touchant un ennemi. Cet effet disparaît après 15 s ou après avoir infligé des DGT de zone 3 fois. Des DGT de zone peuvent être infligés une fois toutes les 2 s de cette manière, et l'effet Dérive peut être déclenché une fois toutes les 12 s.",
+        "ID": "Setelah melancarkan Elemental Skill, efek \"Flowrider\" akan terpicu. Saat serangan mengenai musuh, akan mendapatkan efek \"Flowrider\" yang mengakibatkan DMG Area sebesar 100% ATK. Efek ini akan dihapus setelah 15 detik atau setelah memicu DMG Area sebanyak 3 kali. DMG Area dari \"Flowrider\" dapat diakibatkan dengan cara ini setiap 2 detik, sementara \"Flowrider\" dapat terpicu setiap 12 detik.",
+        "IT": "#Dopo aver utilizzato un'abilità elementale, attiva l'effetto Cavalcaflusso che infligge DAN ad area pari a un 100% dell'ATT quando si colpisce un avversario. Cavalcaflusso viene rimosso dopo 15 s o dopo aver inflitto i DAN ad area per 3 volte. Ciascuna iterazione dei DAN ad area può innescarsi ogni 2 s. Cavalcaflusso può essere attivato una volta ogni 12 s.",
+        "JP": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力100%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+        "KR": "원소전투 스킬 발동 후 「연회」 효과가 발동된다. 공격이 적에게 명중하면 공격력의 100%에 해당하는 범위 피해를 준다. 해당 효과는 15초 동안 지속되거나, 3회의 범위 피해 발동 시 사라진다. 2초마다 해당 방식으로 최대 1회의 범위 피해를 주고 12초마다 연회를 최대 1회 발동할 수 있다",
+        "PT": "Desencadeia o efeito \"Deriva\" após usar uma Habilidade Elemental, causando 100% do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Активация элементального навыка вызывает эффект Плывущего по течению: атаки при попадании наносят урон по площади, равный 100% от силы атаки. Через 15 сек. либо после 3 нанёсших урон атак эффект исчезнет. Эффект наносит урон не чаще одного раза в 2 сек. и может возникнуть раз в 12 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ จะเกิดเอฟเฟกต์ Flowrider ซึ่งเมื่อโจมตีถูกศัตรู จะทำให้เกิดความเสียหายวงกว้าง 100% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะหายไปหลังจากผ่านไป 15 วินาที หรือหลังทำให้เกิดความเสียหายวงกว้างครบ 3 ครั้ง ซึ่งทุก 2 วินาที จะสามารถสร้างความเสียหายวงกว้างด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง และทุก 12 วินาที จะเกิด Flowrider ได้มากสุดหนึ่งครั้ง",
+        "TR": "Element Becerisi kullanmak düşmana vurulduğunda %100 Saldırı değerinde Alan Hasarı veren Akışında etkisini tetikler. Akışında, 15 saniye sonrasında veya 3 defa Alan Hasarı verdikten sonra kaybolur. Bu şekilde her 2 saniyede 1 defa Alan Hasarı verilebilir. Akışında, her 12 saniyede bir tetiklenebilir.",
+        "VI": "Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng \"Xuôi Dòng\", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng 100% tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần \"Xuôi Dòng\"."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Triggers the Flowrider effect after using an Elemental Skill, dealing 120% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+        "CHS": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成120%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+        "CHT": "施放元素戰技後，將觸發「沿洄」效果，在攻擊命中敵人時造成120%攻擊力的範圍傷害，該效果將在15秒或觸發3次範圍傷害後移除。每2秒至多依此方式造成一次範圍傷害，每12秒至多觸發一次沿洄。",
+        "DE": "Löst beim Anwenden der Elementarfähigkeit den Effekt „Drift“ aus, bei dem die Figur, wenn sie einen Gegner trifft, Flächenschaden in Höhe von 120 % ANG verursacht. Dieser Effekt wird nach 15 s oder 3-maligem Verursachen des Flächenschadens entfernt. 2 s Abklingzeit für das Verursachen solch eines Flächenschadens, 12 s Abklingzeit für den Effekt „Drift“.",
+        "ES": "Al usar una Habilidad Elemental, el personaje obtiene el efecto de “deriva”, con el cual, al golpear a un enemigo, inflige Daño en el AdE equivalente al 120% de su ATQ. Este efecto desaparecerá después de 15 s o tras haber infligido 3 veces Daño en el AdE. Solo se puede infligir Daño en el AdE una vez cada 2 s de esta manera, y el efecto de deriva solo se puede activar, como máximo, una vez cada 12 s.",
+        "FR": "Accorde l'effet Dérive après l'utilisation d'une compétence élémentaire, permettant d'infliger des DGT de zone équivalant à 120 % de l'ATQ en touchant un ennemi. Cet effet disparaît après 15 s ou après avoir infligé des DGT de zone 3 fois. Des DGT de zone peuvent être infligés une fois toutes les 2 s de cette manière, et l'effet Dérive peut être déclenché une fois toutes les 12 s.",
+        "ID": "Setelah melancarkan Elemental Skill, efek \"Flowrider\" akan terpicu. Saat serangan mengenai musuh, akan mendapatkan efek \"Flowrider\" yang mengakibatkan DMG Area sebesar 120% ATK. Efek ini akan dihapus setelah 15 detik atau setelah memicu DMG Area sebanyak 3 kali. DMG Area dari \"Flowrider\" dapat diakibatkan dengan cara ini setiap 2 detik, sementara \"Flowrider\" dapat terpicu setiap 12 detik.",
+        "IT": "#Dopo aver utilizzato un'abilità elementale, attiva l'effetto Cavalcaflusso che infligge DAN ad area pari a un 120% dell'ATT quando si colpisce un avversario. Cavalcaflusso viene rimosso dopo 15 s o dopo aver inflitto i DAN ad area per 3 volte. Ciascuna iterazione dei DAN ad area può innescarsi ogni 2 s. Cavalcaflusso può essere attivato una volta ogni 12 s.",
+        "JP": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力120%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+        "KR": "원소전투 스킬 발동 후 「연회」 효과가 발동된다. 공격이 적에게 명중하면 공격력의 120%에 해당하는 범위 피해를 준다. 해당 효과는 15초 동안 지속되거나, 3회의 범위 피해 발동 시 사라진다. 2초마다 해당 방식으로 최대 1회의 범위 피해를 주고 12초마다 연회를 최대 1회 발동할 수 있다",
+        "PT": "Desencadeia o efeito \"Deriva\" após usar uma Habilidade Elemental, causando 120% do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Активация элементального навыка вызывает эффект Плывущего по течению: атаки при попадании наносят урон по площади, равный 120% от силы атаки. Через 15 сек. либо после 3 нанёсших урон атак эффект исчезнет. Эффект наносит урон не чаще одного раза в 2 сек. и может возникнуть раз в 12 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ จะเกิดเอฟเฟกต์ Flowrider ซึ่งเมื่อโจมตีถูกศัตรู จะทำให้เกิดความเสียหายวงกว้าง 120% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะหายไปหลังจากผ่านไป 15 วินาที หรือหลังทำให้เกิดความเสียหายวงกว้างครบ 3 ครั้ง ซึ่งทุก 2 วินาที จะสามารถสร้างความเสียหายวงกว้างด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง และทุก 12 วินาที จะเกิด Flowrider ได้มากสุดหนึ่งครั้ง",
+        "TR": "Element Becerisi kullanmak düşmana vurulduğunda %120 Saldırı değerinde Alan Hasarı veren Akışında etkisini tetikler. Akışında, 15 saniye sonrasında veya 3 defa Alan Hasarı verdikten sonra kaybolur. Bu şekilde her 2 saniyede 1 defa Alan Hasarı verilebilir. Akışında, her 12 saniyede bir tetiklenebilir.",
+        "VI": "Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng \"Xuôi Dòng\", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng 120% tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần \"Xuôi Dòng\"."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Triggers the Flowrider effect after using an Elemental Skill, dealing 140% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+        "CHS": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成140%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+        "CHT": "施放元素戰技後，將觸發「沿洄」效果，在攻擊命中敵人時造成140%攻擊力的範圍傷害，該效果將在15秒或觸發3次範圍傷害後移除。每2秒至多依此方式造成一次範圍傷害，每12秒至多觸發一次沿洄。",
+        "DE": "Löst beim Anwenden der Elementarfähigkeit den Effekt „Drift“ aus, bei dem die Figur, wenn sie einen Gegner trifft, Flächenschaden in Höhe von 140 % ANG verursacht. Dieser Effekt wird nach 15 s oder 3-maligem Verursachen des Flächenschadens entfernt. 2 s Abklingzeit für das Verursachen solch eines Flächenschadens, 12 s Abklingzeit für den Effekt „Drift“.",
+        "ES": "Al usar una Habilidad Elemental, el personaje obtiene el efecto de “deriva”, con el cual, al golpear a un enemigo, inflige Daño en el AdE equivalente al 140% de su ATQ. Este efecto desaparecerá después de 15 s o tras haber infligido 3 veces Daño en el AdE. Solo se puede infligir Daño en el AdE una vez cada 2 s de esta manera, y el efecto de deriva solo se puede activar, como máximo, una vez cada 12 s.",
+        "FR": "Accorde l'effet Dérive après l'utilisation d'une compétence élémentaire, permettant d'infliger des DGT de zone équivalant à 140 % de l'ATQ en touchant un ennemi. Cet effet disparaît après 15 s ou après avoir infligé des DGT de zone 3 fois. Des DGT de zone peuvent être infligés une fois toutes les 2 s de cette manière, et l'effet Dérive peut être déclenché une fois toutes les 12 s.",
+        "ID": "Setelah melancarkan Elemental Skill, efek \"Flowrider\" akan terpicu. Saat serangan mengenai musuh, akan mendapatkan efek \"Flowrider\" yang mengakibatkan DMG Area sebesar 140% ATK. Efek ini akan dihapus setelah 15 detik atau setelah memicu DMG Area sebanyak 3 kali. DMG Area dari \"Flowrider\" dapat diakibatkan dengan cara ini setiap 2 detik, sementara \"Flowrider\" dapat terpicu setiap 12 detik.",
+        "IT": "#Dopo aver utilizzato un'abilità elementale, attiva l'effetto Cavalcaflusso che infligge DAN ad area pari a un 140% dell'ATT quando si colpisce un avversario. Cavalcaflusso viene rimosso dopo 15 s o dopo aver inflitto i DAN ad area per 3 volte. Ciascuna iterazione dei DAN ad area può innescarsi ogni 2 s. Cavalcaflusso può essere attivato una volta ogni 12 s.",
+        "JP": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力140%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+        "KR": "원소전투 스킬 발동 후 「연회」 효과가 발동된다. 공격이 적에게 명중하면 공격력의 140%에 해당하는 범위 피해를 준다. 해당 효과는 15초 동안 지속되거나, 3회의 범위 피해 발동 시 사라진다. 2초마다 해당 방식으로 최대 1회의 범위 피해를 주고 12초마다 연회를 최대 1회 발동할 수 있다",
+        "PT": "Desencadeia o efeito \"Deriva\" após usar uma Habilidade Elemental, causando 140% do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Активация элементального навыка вызывает эффект Плывущего по течению: атаки при попадании наносят урон по площади, равный 140% от силы атаки. Через 15 сек. либо после 3 нанёсших урон атак эффект исчезнет. Эффект наносит урон не чаще одного раза в 2 сек. и может возникнуть раз в 12 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ จะเกิดเอฟเฟกต์ Flowrider ซึ่งเมื่อโจมตีถูกศัตรู จะทำให้เกิดความเสียหายวงกว้าง 140% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะหายไปหลังจากผ่านไป 15 วินาที หรือหลังทำให้เกิดความเสียหายวงกว้างครบ 3 ครั้ง ซึ่งทุก 2 วินาที จะสามารถสร้างความเสียหายวงกว้างด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง และทุก 12 วินาที จะเกิด Flowrider ได้มากสุดหนึ่งครั้ง",
+        "TR": "Element Becerisi kullanmak düşmana vurulduğunda %140 Saldırı değerinde Alan Hasarı veren Akışında etkisini tetikler. Akışında, 15 saniye sonrasında veya 3 defa Alan Hasarı verdikten sonra kaybolur. Bu şekilde her 2 saniyede 1 defa Alan Hasarı verilebilir. Akışında, her 12 saniyede bir tetiklenebilir.",
+        "VI": "Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng \"Xuôi Dòng\", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng 140% tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần \"Xuôi Dòng\"."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Triggers the Flowrider effect after using an Elemental Skill, dealing 160% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+        "CHS": "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成160%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
+        "CHT": "施放元素戰技後，將觸發「沿洄」效果，在攻擊命中敵人時造成160%攻擊力的範圍傷害，該效果將在15秒或觸發3次範圍傷害後移除。每2秒至多依此方式造成一次範圍傷害，每12秒至多觸發一次沿洄。",
+        "DE": "Löst beim Anwenden der Elementarfähigkeit den Effekt „Drift“ aus, bei dem die Figur, wenn sie einen Gegner trifft, Flächenschaden in Höhe von 160 % ANG verursacht. Dieser Effekt wird nach 15 s oder 3-maligem Verursachen des Flächenschadens entfernt. 2 s Abklingzeit für das Verursachen solch eines Flächenschadens, 12 s Abklingzeit für den Effekt „Drift“.",
+        "ES": "Al usar una Habilidad Elemental, el personaje obtiene el efecto de “deriva”, con el cual, al golpear a un enemigo, inflige Daño en el AdE equivalente al 160% de su ATQ. Este efecto desaparecerá después de 15 s o tras haber infligido 3 veces Daño en el AdE. Solo se puede infligir Daño en el AdE una vez cada 2 s de esta manera, y el efecto de deriva solo se puede activar, como máximo, una vez cada 12 s.",
+        "FR": "Accorde l'effet Dérive après l'utilisation d'une compétence élémentaire, permettant d'infliger des DGT de zone équivalant à 160 % de l'ATQ en touchant un ennemi. Cet effet disparaît après 15 s ou après avoir infligé des DGT de zone 3 fois. Des DGT de zone peuvent être infligés une fois toutes les 2 s de cette manière, et l'effet Dérive peut être déclenché une fois toutes les 12 s.",
+        "ID": "Setelah melancarkan Elemental Skill, efek \"Flowrider\" akan terpicu. Saat serangan mengenai musuh, akan mendapatkan efek \"Flowrider\" yang mengakibatkan DMG Area sebesar 160% ATK. Efek ini akan dihapus setelah 15 detik atau setelah memicu DMG Area sebanyak 3 kali. DMG Area dari \"Flowrider\" dapat diakibatkan dengan cara ini setiap 2 detik, sementara \"Flowrider\" dapat terpicu setiap 12 detik.",
+        "IT": "#Dopo aver utilizzato un'abilità elementale, attiva l'effetto Cavalcaflusso che infligge DAN ad area pari a un 160% dell'ATT quando si colpisce un avversario. Cavalcaflusso viene rimosso dopo 15 s o dopo aver inflitto i DAN ad area per 3 volte. Ciascuna iterazione dei DAN ad area può innescarsi ogni 2 s. Cavalcaflusso può essere attivato una volta ogni 12 s.",
+        "JP": "元素スキルを発動すると「廻流」効果が付与され、攻撃が敵に命中した時、攻撃力160%分の範囲ダメージを与える。この効果は15秒後、または3回範囲ダメージ発動後にクリアされる。範囲ダメージは2秒毎に1回のみ発動でき、「廻流」効果は12秒毎に1回のみ発動できる。",
+        "KR": "원소전투 스킬 발동 후 「연회」 효과가 발동된다. 공격이 적에게 명중하면 공격력의 160%에 해당하는 범위 피해를 준다. 해당 효과는 15초 동안 지속되거나, 3회의 범위 피해 발동 시 사라진다. 2초마다 해당 방식으로 최대 1회의 범위 피해를 주고 12초마다 연회를 최대 1회 발동할 수 있다",
+        "PT": "Desencadeia o efeito \"Deriva\" após usar uma Habilidade Elemental, causando 160% do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.",
+        "RU": "Активация элементального навыка вызывает эффект Плывущего по течению: атаки при попадании наносят урон по площади, равный 160% от силы атаки. Через 15 сек. либо после 3 нанёсших урон атак эффект исчезнет. Эффект наносит урон не чаще одного раза в 2 сек. и может возникнуть раз в 12 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ จะเกิดเอฟเฟกต์ Flowrider ซึ่งเมื่อโจมตีถูกศัตรู จะทำให้เกิดความเสียหายวงกว้าง 160% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะหายไปหลังจากผ่านไป 15 วินาที หรือหลังทำให้เกิดความเสียหายวงกว้างครบ 3 ครั้ง ซึ่งทุก 2 วินาที จะสามารถสร้างความเสียหายวงกว้างด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง และทุก 12 วินาที จะเกิด Flowrider ได้มากสุดหนึ่งครั้ง",
+        "TR": "Element Becerisi kullanmak düşmana vurulduğunda %160 Saldırı değerinde Alan Hasarı veren Akışında etkisini tetikler. Akışında, 15 saniye sonrasında veya 3 defa Alan Hasarı verdikten sonra kaybolur. Bu şekilde her 2 saniyede 1 defa Alan Hasarı verilebilir. Akışında, her 12 saniyede bir tetiklenebilir.",
+        "VI": "Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng \"Xuôi Dòng\", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng 160% tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần \"Xuôi Dòng\"."
+      }
+    }
+  ]
+}

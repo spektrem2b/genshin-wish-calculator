@@ -1,0 +1,52 @@
+{
+  "id": 15426,
+  "name": {
+    "EN": "Cloudforged",
+    "CHS": "筑云",
+    "CHT": "築雲",
+    "DE": "Wolkenweber",
+    "ES": "Cimentador de Nubes",
+    "FR": "Nimbus-forgé",
+    "ID": "Cloudforged",
+    "IT": "Forgianuvole",
+    "JP": "築雲",
+    "KR": "축운",
+    "PT": "Tocador de Nuvens",
+    "RU": "Выкованный из облаков",
+    "TH": "Cloudforged",
+    "TR": "Bulut Örgüsü",
+    "VI": "Trúc Vân"
+  },
+  "nameEn": "Cloudforged",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A prototype for a standard-issue weapon the Yuheng commissioned from Blackcliff Forge after having analyzed the ancient mechanisms that protected the adeptal abode upon Tianheng.",
+    "CHS": "解析昔日拱卫天衡的仙家机关后，由玉衡星委托黑岩厂锻造的实验型制式兵器。",
+    "CHT": "解析昔日拱衛天衡的仙家機關後，由玉衡星委託黑岩廠鍛造的實驗型制式兵器。",
+    "DE": "Eine experimentelle Standardwaffe, die nach der eingehenden Analyse der adeptischen Maschinen, die Tianheng einst beschützten, von der Schwarzsteinschmiede im Auftrag vom Yuheng hergestellt wurde.",
+    "ES": "Un prototipo de arma experimental que, tras investigar los mecanismos adépticos que antaño protegían Tianheng, fue creada por la Forja Peñasco Oscuro por encargo del Equilibrio Terrenal.",
+    "FR": "Un prototype d'arme standard que Yuheng a commandé à la Forge de Rochenoire après avoir analysé les mécanismes qui protégeaient les demeures des Adeptes sur les Monts Tianheng.",
+    "ID": "Sebuah senjata prototipe standar yang dipesan oleh Yuheng dari Blackcliff Forge setelah menganalisis mekanisme kuno yang melindungi tempat tinggal para Adeptus di Mt. Tianheng.",
+    "IT": "Un prototipo di arma d'ordinanza, commissionato dalla Yuheng presso la Fucina di Rupenera dopo aver analizzato gli antichi meccanismi posti a difesa della dimora adeptica a Tianheng.",
+    "JP": "かつて天衡を守っていた仙人の仕掛けが解析された後、玉衡が黒岩場に鍛造を依頼した実験型制式兵器。",
+    "KR": "천형산을 수호하는 선가 기관을 분석한 옥형성이 흑암 공장에 위탁 제조한 실험용 제식 병기",
+    "PT": "Após analisar os antigos mecanismos Adepti que protegem o Tianheng, a Yuheng comissionou a fabricação desse protótipo para a Forja do Penhasco Obscuro.",
+    "RU": "Экспериментальный вариант стандартного оружия, выкованный в кузнице Черногорья по поручению Нефритового Равновесия после того, как были изучены охранявшие обитель Тяньхэн древние механизмы.",
+    "TH": "อาวุธรุ่นทดลองมาตรฐานที่ Yuheng มอบหมายให้ Blackcliff Forge ทำการหลอมขึ้นมา หลังจากวิเคราะห์กลไก ของเหล่าเซียนที่คอยปกปักภูเขา Tianheng",
+    "TR": "Tianheng üzerindeki Adeptus yuvasını koruyan kadim mekanizmalar analiz edildikten sonra, Yuheng tarafından Kara Kaya Demirci Ocağına sipariş edilen standart askeri silah prototipi.",
+    "VI": "Mẫu binh khí thử nghiệm do Ngọc Hành Tinh ủy thác Hắc Nham Xưởng rèn ra sau khi phân tích cơ quan tiên gia từng bảo vệ Thiên Hoành Sơn."
+  },
+  "icon": "generated/weapon-profiles/15426/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

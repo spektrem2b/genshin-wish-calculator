@@ -1,0 +1,52 @@
+{
+  "id": 12417,
+  "name": {
+    "EN": "Forest Regalia",
+    "CHS": "森林王器",
+    "CHT": "森林王器",
+    "DE": "Waldkönigsschwert",
+    "ES": "Espada Real del Bosque",
+    "FR": "Apparat de la forêt",
+    "ID": "Forest Regalia",
+    "IT": "Gloria della foresta",
+    "JP": "森林のレガリア",
+    "KR": "숲의 리게일리어",
+    "PT": "Espada Real da Floresta",
+    "RU": "Регалия леса",
+    "TH": "Forest Regalia",
+    "TR": "Orman Nişanı",
+    "VI": "Vương Khí Rừng Sâu"
+  },
+  "nameEn": "Forest Regalia",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest.",
+    "CHS": "从兰那罗的故事中得到的武器。具有大剑的形制，能够粉碎森林的敌人。",
+    "CHT": "從蘭那羅的故事中得到的武器。具有大劍的形制，能夠粉碎森林的敵人。",
+    "DE": "Eine Waffe, die du aus einer Geschichte über die Aranara erhalten hast. Sie hat die Form eines Großschwertes angenommen, mit dem man die Gegner des Waldes durchschlagen kann.",
+    "ES": "Un arma obtenida a través de una de las historias de los aranara. Tiene forma de mandoble y es capaz de aplastar a cualquier enemigo del bosque.",
+    "FR": "Une arme que vous avez obtenue dans un conte d'aranara. Elle a pris la forme d'une grande lame qui peut pulvériser les ennemis de la forêt.",
+    "ID": "Senjata yang didapat dari cerita Aranara. Senjata dengan bentuk pedang besar ini dapat menghancurkan musuh-musuh hutan.",
+    "IT": "Un'arma che hai ottenuto da una storia degli Aranara. Ha assunto la forma di uno spadone in grado di fendere i nemici della foresta.",
+    "JP": "アランナラの物語で手に入る武器。大剣のような形をしており、森に出没する敵を粉砕できる。",
+    "KR": "아란나라의 이야기에서 획득한 무기. 거대한 검의 형태를 지니고 있으며 숲속의 적을 가루로 만들 수 있다",
+    "PT": "Uma arma obtida através de uma das histórias dos Aranara. Ela tomou a forma de um espadão que é capaz de cortar os inimigos da floresta.",
+    "RU": "Оружие, полученное из истории аранар. Оно приняло форму двуручного меча, который способен пронзать врагов леса.",
+    "TH": "อาวุธที่ได้รับมาจากเรื่องเล่าของ Aranara ซึ่งมีรูปร่างเหมือนดาบใหญ่ สามารถบดขยี้ศัตรูของป่าได้",
+    "TR": "Aranara hikayesinden elde ettiğin bir silah. Ormanın düşmanlarını ikiye ayırabileceğin bir büyük kılıcın şekline girmiş.",
+    "VI": "Vũ khí nhận được từ câu chuyện của Aranara. Có tạo hình của đại kiếm, có thể nghiền nát kẻ địch trong rừng."
+  },
+  "icon": "generated/weapon-profiles/12417/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

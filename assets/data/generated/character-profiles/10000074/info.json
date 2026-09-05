@@ -1,0 +1,137 @@
+{
+  "id": "10000074",
+  "name": {
+    "EN": "Layla",
+    "CHS": "莱依拉",
+    "CHT": "萊依拉",
+    "DE": "Layla",
+    "ES": "Laila",
+    "FR": "Layla",
+    "ID": "Layla",
+    "IT": "Layla",
+    "JP": "レイラ",
+    "KR": "레일라",
+    "PT": "Layla",
+    "RU": "Лайла",
+    "TH": "Layla",
+    "TR": "Layla",
+    "VI": "Layla"
+  },
+  "nameEn": "Layla",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 12,
+    "day": 19
+  },
+  "release": "2022-11-18T16:00:00",
+  "icon": "generated/character-profiles/10000074/avatar.webp",
+  "fullWish": "generated/character-profiles/10000074/full_wish.webp",
+  "fullWishObjectPosition": "52.4% 67.5%",
+  "title": {
+    "EN": "Fantastical Evening Star",
+    "CHS": "绮思晚星",
+    "CHT": "綺思晚星",
+    "DE": "Verträumter Abendstern",
+    "ES": "La Estrella de la Noche",
+    "FR": "Merveilleuse étoile vespérale",
+    "ID": "Fantastical Evening Star",
+    "IT": "Stella fantastica della sera",
+    "JP": "綺思と夜星",
+    "KR": "저녁별의 아름다운 사색",
+    "PT": "Contemplações da Estrela Noturna",
+    "RU": "Дивная вечерняя звезда",
+    "TH": "คะนึงฝันดารากาล",
+    "TR": "Bir Akşam Yıldızı Rüyası",
+    "VI": "Sao Đêm Kỳ Ảo"
+  },
+  "description": {
+    "EN": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.",
+    "CHS": "专攻理论星相学的梨多梵谛学院学生。时常梦游，长期缺觉，饱受睡眠问题困扰。",
+    "CHT": "專攻理論星相學的梨多梵諦學院學生。時常夢遊，長期睡眠不足，飽受睡眠問題困擾。",
+    "DE": "Eine Rtawahist-Studentin, die sich auf theoretische Astrologie spezialisiert hat. Manchmal schlafwandelnd, manchmal schlaflos. Sie leidet immer unter Schlafproblemen.",
+    "ES": "Una estudiante de la Facultad Rtawahist especializada en astrología teórica. A veces con sonambulismo, otras veces con insomnio, esta chica siempre tiene problemas de sueño.",
+    "FR": "Une étudiante du Rtawahist spécialisée en astrologie théorique. Parfois somnambule, parfois insomniaque, elle souffre de troubles du sommeil.",
+    "ID": "Siswa Darshan Rtawahist yang mengambil spesialisasi Teori Astrologi. Sering tidur berjalan, kadang kala terus terjaga sampai sekian lama. Intinya, dia bermasalah untuk urusan tidur dan istirahat.",
+    "IT": "Una studentessa della Rtawahist specializzata in astrologia teorica. Molto predisposta al sonnambulismo e bloccata in una logorante battaglia contro la mancanza di sonno. Il suo più grande problema è riuscire a farsi una bella dormita riposante.",
+    "JP": "理論占星学を専攻するルタワヒスト学院の学生。時々夢遊状態になる。寝不足が長期にわたり続いており、睡眠障害に悩まされている。",
+    "KR": "점성학 이론을 전공하고 있는 르타와히스트 학부의 학생. 늘 몽유병과 수면 부족에 시달리고 있다",
+    "PT": "Estudante dos Rtawahist, especializada em astrologia teórica. Sofre de sonambulismo e insônia, ela está sempre enfrentando distúrbios de sono.",
+    "RU": "Студентка, которая изучает теоретическую астрологию в даршане Ртавахист. Нередко ходит во сне и страдает от хронического недосыпания.",
+    "TH": "นักศึกษาจากคณะ Rtawahist ที่เชี่ยวชาญด้านโหราศาสตร์เชิงทฤษฎี มักจะนอนละเมออยู่บ่อยครั้ง ทั้งยังต้องอดหลับอดนอนเป็นเวลานาน เพราะงั้นเลยมีปัญหาด้านการนอนหลับ",
+    "TR": "Teorik Astrolojide uzmanlaşmış bir Rtawahist öğrencisi. Uyurgezerlikten muzdarip ve uyku eksikliği ile sürekli savaş halindedir. İyi bir uyku, onun için büyük bir sorundur.",
+    "VI": "Học sinh của Học Viện Rtawahist, chuyên nghiên cứu Lý Luận Tinh Tượng Học. Thường hay mộng du, mất ngủ trường kỳ, đau đầu vì những vấn đề về giấc ngủ."
+  },
+  "constellationName": {
+    "EN": "Luscinia",
+    "CHS": "夜莺座",
+    "CHT": "夜鶯座",
+    "DE": "Luscinia",
+    "ES": "Luscinia",
+    "FR": "Luscinia",
+    "ID": "Luscinia",
+    "IT": "Luscinia",
+    "JP": "夜鶯座",
+    "KR": "밤꾀꼬리자리",
+    "PT": "Luscinia",
+    "RU": "Соловей",
+    "TH": "Luscinia",
+    "TR": "Bülbül",
+    "VI": "Cung Dạ Oanh"
+  },
+  "native": {
+    "EN": "Rtawahist",
+    "CHS": "梨多梵谛学院",
+    "CHT": "梨多梵諦學院",
+    "DE": "Rtawahist-Institut",
+    "ES": "Facultad Rtawahist",
+    "FR": "Le Rtawahist",
+    "ID": "Rtawahist",
+    "IT": "Rtawahist",
+    "JP": "ルタワヒスト学院",
+    "KR": "르타와히스트 학부",
+    "PT": "Rtawahist",
+    "RU": "Ртавахист",
+    "TH": "คณะ Rtawahist",
+    "TR": "Rtawahist",
+    "VI": "Học Viện Rtawahist"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Ashely Biski"
+    },
+    {
+      "lang": "CHS",
+      "va": "侯小菲"
+    },
+    {
+      "lang": "JP",
+      "va": "富田美憂"
+    },
+    {
+      "lang": "KR",
+      "va": "Kang Sae-bom"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 930.0268,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.16416,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 54.936,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

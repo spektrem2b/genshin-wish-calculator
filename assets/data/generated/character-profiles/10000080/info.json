@@ -1,0 +1,137 @@
+{
+  "id": "10000080",
+  "name": {
+    "EN": "Mika",
+    "CHS": "米卡",
+    "CHT": "米卡",
+    "DE": "Mika",
+    "ES": "Mika",
+    "FR": "Mika",
+    "ID": "Mika",
+    "IT": "Mika",
+    "JP": "ミカ",
+    "KR": "미카",
+    "PT": "Mika",
+    "RU": "Мика",
+    "TH": "Mika",
+    "TR": "Mika",
+    "VI": "Mika"
+  },
+  "nameEn": "Mika",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 8,
+    "day": 11
+  },
+  "release": "2023-03-21T16:00:00",
+  "icon": "generated/character-profiles/10000080/avatar.webp",
+  "fullWish": "generated/character-profiles/10000080/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Coordinates of Clear Frost",
+    "CHS": "晴霜的标绘",
+    "CHT": "晴霜的標繪",
+    "DE": "Koordinaten des klaren Frosts",
+    "ES": "El Agrimensor Nieveclara",
+    "FR": "Coordonnées du givre clair",
+    "ID": "Coordinates of Clear Frost",
+    "IT": "Coordinate del gelo solare",
+    "JP": "霜晴の測量",
+    "KR": "맑은 서리의 좌표",
+    "PT": "Topógrafo da Geada Translúcida",
+    "RU": "Картограф чистого инея",
+    "TH": "พิกัดเหมันต์ใต้ฟ้าคราม",
+    "TR": "Sabah Ayazının Koordinatları",
+    "VI": "Dấu Hiệu Sương Mai"
+  },
+  "description": {
+    "EN": "A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.",
+    "CHS": "平凡家庭出身的年轻骑士，在小队中担任「前进测绘员」一职。为人低调，谨小慎微。",
+    "CHT": "平凡家庭出身的年輕騎士，在小隊中擔任「前進測繪員」一職。為人低調，謹小慎微。",
+    "DE": "Ein junger Ritter aus einer gewöhnlichen Familie. In der Truppe dient er als „Frontlinien-Feldmesser“. Er ist immer ruhig und behutsam.",
+    "ES": "Un joven caballero procedente de una familia normal. Es el tímido y precavido topógrafo de avanzada de la Compañía de Reconocimiento.",
+    "FR": "Jeune chevalier né dans une famille ordinaire, il occupe le poste d'arpenteur dans son unité. C'est un personnage au caractère discret et prudent.",
+    "ID": "Seorang kesatria muda yang terlahir di keluarga biasa. Di dalam kelompok pasukannya, dia bertugas sebagai \"petugas survei lapangan barisan depan\". Dia adalah orang yang rendah hati dan selalu berwaspada.",
+    "IT": "Un giovane cavaliere di umili natali. Svolge l'incarico di topografo di prima linea all'interno della sua compagnia. Ha un carattere cauto e discreto.",
+    "JP": "平凡な家庭に生まれた若い騎士。小隊では「前進測量士」を担当している。控えめで慎重な性格の持ち主。",
+    "KR": "평범한 가정에서 태어난 젊은 기사로, 소대에서 「전선 측량사」로 근무하고 있다. 겸손하고 신중한 성격을 지녔다",
+    "PT": "Um jovem cavaleiro nascido em uma família comum. Ele serve como Topógrafo da Linha de Frente na sua companhia. É tímido e cauteloso.",
+    "RU": "Молодой рыцарь из обычной семьи. Он служит передовым геодезистом отряда. Застенчив и осторожен.",
+    "TH": "อัศวินหนุ่มผู้มาจากครอบครัวธรรมดา หน้าที่ของเขาคือ \"เจ้าหน้าที่สำรวจแนวหน้า\" ประจำทีม เด็กหนุ่มเป็นคนเงียบขรึม และระมัดระวังรอบคอบเสมอ",
+    "TR": "Sıradan bir ailenin çocuğu olan genç bir şövalye. Bölüğünde Ön Saha Gözlemcisi olarak görev yapmaktadır. Alçak gönüllü ve temkinli bir karakterdir.",
+    "VI": "Kỵ sĩ trẻ tuổi xuất thân trong một gia đình bình thường, đảm nhận chức vụ \"người đo vẽ bản đồ\" trong tiểu đội. Tính cách khiêm tốn thận trọng."
+  },
+  "constellationName": {
+    "EN": "Palumbus",
+    "CHS": "林鸽座",
+    "CHT": "林鴿座",
+    "DE": "Palumbus",
+    "ES": "Palumbus",
+    "FR": "Palumbus",
+    "ID": "Palumbus",
+    "IT": "Palumbus",
+    "JP": "森鳩座",
+    "KR": "숲비둘기자리",
+    "PT": "Palumbus",
+    "RU": "Лесной Голубь",
+    "TH": "Palumbus",
+    "TR": "Güvercin",
+    "VI": "Cung Lâm Cáp"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Robb Moreira"
+    },
+    {
+      "lang": "CHS",
+      "va": "邓宥希"
+    },
+    {
+      "lang": "JP",
+      "va": "三瓶由布子"
+    },
+    {
+      "lang": "KR",
+      "va": "Yoon Eun-seo"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1048.5597,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.6984,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.800125,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

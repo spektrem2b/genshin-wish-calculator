@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Brocade Bloom, Shrine Sword",
+    "CHS": "锦之花与龛中剑",
+    "CHT": "錦之花與龕中劍",
+    "DE": "Die Blume im Brokat und das Schwert im Schrein",
+    "ES": "Flor bordada y espada consagrada",
+    "FR": "Fleur brodée et épée consacrée",
+    "ID": "Brocade Bloom, Shrine Sword",
+    "IT": "Broccato in fiore, Spada del santuario",
+    "JP": "錦の花と小祠の刀",
+    "KR": "비단 꽃과 감실 검",
+    "PT": "Brocado Florescente, Espada do Santuário",
+    "RU": "Парчовый цветок и меч святилища",
+    "TH": "Brocade Bloom, Shrine Sword",
+    "TR": "Sırmalı Çiçek ve Tapınak Kılıcı",
+    "VI": "Hoa Thổ Cẩm Và Kiếm Đền Thờ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Normal Attack DMG is increased by 16% and Elemental Skill DMG is increased by 24%. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by 20%.",
+        "CHS": "普通攻击造成的伤害提升16%，元素战技造成的伤害提升24%；队伍中附近的角色在场上造成岩元素伤害后，上述效果进一步提升100%，持续15秒。此外，装备者的防御力提升20%。",
+        "CHT": "普通攻擊造成的傷害提升16%，元素戰技造成的傷害提升24%；隊伍中附近的角色在場上造成岩元素傷害後，上述效果進一步提升100%，持續15秒。此外，裝備者的防禦力提升20%。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden um 16 % und den mit Elementarfähigkeiten verursachten Schaden um 24 %. Erhöht diesen Effekt um 100 %, wenn Truppenmitglieder in der Nähe Geo-Schaden auf dem Feld verursachen, hält 15 s. Erhöht außerdem die VTD des Trägers um 20 %.",
+        "ES": "#El daño de los Ataques Normales aumenta en un 16%, y el de la Habilidad Elemental aumenta en un 24%. Cuando un personaje en uso cercano inflige Daño Geo, los anteriores efectos aumentan en un 100% durante 15 s. Además, la DEF del portador de esta arma aumenta en un 20%.",
+        "FR": "#Les DGT infligés par les attaques normales augmentent de 16 % et ceux infligés par les compétences élémentaires augmentent de 24 %. Lorsqu'un personnage de l'équipe à proximité a infligé des DGT Géo, les effets susmentionnés augmentent de 100 % supplémentaires pendant 15 s. De plus, la DÉF du personnage équipé de l'arme augmente de 20 %.",
+        "ID": "DMG Normal Attack meningkat sebesar 16% dan DMG Elemental Skill meningkat sebesar 24%. Setelah Karakter aktif di sekitar mengakibatkan Geo DMG, efek ini meningkat 100% selama 15 detik. Selain itu, DEF pengguna meningkat sebesar 20%.",
+        "IT": "#I DAN da attacco normale e da abilità elementale aumentano rispettivamente di un 16% e di un 24%. Quando un personaggio attivo nelle vicinanze infligge DAN da Geo, gli effetti sopracitati aumentano di un 100% per 15 s. Inoltre, la DIF del personaggio che equipaggia l'arma aumenta di un 20%.",
+        "JP": "通常攻撃ダメージ+16%、元素スキルダメージ+24%。付近にいるチーム内キャラクターがフィールド上で岩元素ダメージを与えた後、上記ダメージアップ効果が元の100%分アップ、継続時間15秒。また、装備者の防御力+20%。",
+        "KR": "일반 공격으로 주는 피해가 16% 증가하고, 원소전투 스킬로 주는 피해가 24% 증가한다. 주변에 있는 파티 내 캐릭터가 필드 위에서 바위 원소 피해를 준 후, 상술한 효과가 100% 증가한다. 지속 시간: 15초. 또한 장착 캐릭터의 방어력이 20% 증가한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 16%. Aumenta o Dano da Habilidade Elemental em 24%. Quando um personagem ativo próximo causa Dano Geo, os efeitos mencionados acima serão aumentados em 100% por 15s. Além disso, a DEF do personagem que está com essa arma equipada aumenta em 20%.",
+        "RU": "Урон обычной атаки увеличивается на 16%, элементального навыка - на 24%. После того как активный персонаж поблизости наносит Гео урон, эти эффекты дополнительно увеличиваются на 100% на 15 сек. Кроме того, защита экипированного персонажа повышается на 20%.",
+        "TH": "ความเสียหายของการโจมตีปกติเพิ่มขึ้น 16% และความเสียหายของสกิลธาตุเพิ่มขึ้น 24%; เมื่อตัวละครในทีมที่อยู่ใกล้เคียงสร้างความเสียหายหินในสนาม เอฟเฟกต์ข้างต้นจะเพิ่มขึ้นอีก 100% เป็นเวลา 15 วินาที นอกจากนี้ จะเพิ่มพลังป้องกันของตัวละครที่สวมใส่ขึ้น 20%",
+        "TR": "Normal Saldırı Hasarı %16 artar ve Element Becerisi Hasarı %24 artar. Yakındaki bir aktif karakter Toprak Hasarı verdikten sonra 15sn boyunca yukarıdaki etkiler %100 artar. Buna ek olarak silahı kuşanan karakterin Savunması %20 artar.",
+        "VI": "Sát thương Tấn Công Thường tăng 16%; Sát thương Kỹ Năng Nguyên Tố tăng 24%. Sau khi nhân vật trong đội ra trận gần đó gây Sát Thương Nguyên Tố Nham, hiệu quả nêu trên tăng 100% trong 15s. Ngoài ra, Phòng Ngự của người trang bị tăng 20%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Normal Attack DMG is increased by 20% and Elemental Skill DMG is increased by 30%. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by 25%.",
+        "CHS": "普通攻击造成的伤害提升20%，元素战技造成的伤害提升30%；队伍中附近的角色在场上造成岩元素伤害后，上述效果进一步提升100%，持续15秒。此外，装备者的防御力提升25%。",
+        "CHT": "普通攻擊造成的傷害提升20%，元素戰技造成的傷害提升30%；隊伍中附近的角色在場上造成岩元素傷害後，上述效果進一步提升100%，持續15秒。此外，裝備者的防禦力提升25%。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden um 20 % und den mit Elementarfähigkeiten verursachten Schaden um 30 %. Erhöht diesen Effekt um 100 %, wenn Truppenmitglieder in der Nähe Geo-Schaden auf dem Feld verursachen, hält 15 s. Erhöht außerdem die VTD des Trägers um 25 %.",
+        "ES": "#El daño de los Ataques Normales aumenta en un 20%, y el de la Habilidad Elemental aumenta en un 30%. Cuando un personaje en uso cercano inflige Daño Geo, los anteriores efectos aumentan en un 100% durante 15 s. Además, la DEF del portador de esta arma aumenta en un 25%.",
+        "FR": "#Les DGT infligés par les attaques normales augmentent de 20 % et ceux infligés par les compétences élémentaires augmentent de 30 %. Lorsqu'un personnage de l'équipe à proximité a infligé des DGT Géo, les effets susmentionnés augmentent de 100 % supplémentaires pendant 15 s. De plus, la DÉF du personnage équipé de l'arme augmente de 25 %.",
+        "ID": "DMG Normal Attack meningkat sebesar 20% dan DMG Elemental Skill meningkat sebesar 30%. Setelah Karakter aktif di sekitar mengakibatkan Geo DMG, efek ini meningkat 100% selama 15 detik. Selain itu, DEF pengguna meningkat sebesar 25%.",
+        "IT": "#I DAN da attacco normale e da abilità elementale aumentano rispettivamente di un 20% e di un 30%. Quando un personaggio attivo nelle vicinanze infligge DAN da Geo, gli effetti sopracitati aumentano di un 100% per 15 s. Inoltre, la DIF del personaggio che equipaggia l'arma aumenta di un 25%.",
+        "JP": "通常攻撃ダメージ+20%、元素スキルダメージ+30%。付近にいるチーム内キャラクターがフィールド上で岩元素ダメージを与えた後、上記ダメージアップ効果が元の100%分アップ、継続時間15秒。また、装備者の防御力+25%。",
+        "KR": "일반 공격으로 주는 피해가 20% 증가하고, 원소전투 스킬로 주는 피해가 30% 증가한다. 주변에 있는 파티 내 캐릭터가 필드 위에서 바위 원소 피해를 준 후, 상술한 효과가 100% 증가한다. 지속 시간: 15초. 또한 장착 캐릭터의 방어력이 25% 증가한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 20%. Aumenta o Dano da Habilidade Elemental em 30%. Quando um personagem ativo próximo causa Dano Geo, os efeitos mencionados acima serão aumentados em 100% por 15s. Além disso, a DEF do personagem que está com essa arma equipada aumenta em 25%.",
+        "RU": "Урон обычной атаки увеличивается на 20%, элементального навыка - на 30%. После того как активный персонаж поблизости наносит Гео урон, эти эффекты дополнительно увеличиваются на 100% на 15 сек. Кроме того, защита экипированного персонажа повышается на 25%.",
+        "TH": "ความเสียหายของการโจมตีปกติเพิ่มขึ้น 20% และความเสียหายของสกิลธาตุเพิ่มขึ้น 30%; เมื่อตัวละครในทีมที่อยู่ใกล้เคียงสร้างความเสียหายหินในสนาม เอฟเฟกต์ข้างต้นจะเพิ่มขึ้นอีก 100% เป็นเวลา 15 วินาที นอกจากนี้ จะเพิ่มพลังป้องกันของตัวละครที่สวมใส่ขึ้น 25%",
+        "TR": "Normal Saldırı Hasarı %20 artar ve Element Becerisi Hasarı %30 artar. Yakındaki bir aktif karakter Toprak Hasarı verdikten sonra 15sn boyunca yukarıdaki etkiler %100 artar. Buna ek olarak silahı kuşanan karakterin Savunması %25 artar.",
+        "VI": "Sát thương Tấn Công Thường tăng 20%; Sát thương Kỹ Năng Nguyên Tố tăng 30%. Sau khi nhân vật trong đội ra trận gần đó gây Sát Thương Nguyên Tố Nham, hiệu quả nêu trên tăng 100% trong 15s. Ngoài ra, Phòng Ngự của người trang bị tăng 25%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Normal Attack DMG is increased by 24% and Elemental Skill DMG is increased by 36%. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by 30%.",
+        "CHS": "普通攻击造成的伤害提升24%，元素战技造成的伤害提升36%；队伍中附近的角色在场上造成岩元素伤害后，上述效果进一步提升100%，持续15秒。此外，装备者的防御力提升30%。",
+        "CHT": "普通攻擊造成的傷害提升24%，元素戰技造成的傷害提升36%；隊伍中附近的角色在場上造成岩元素傷害後，上述效果進一步提升100%，持續15秒。此外，裝備者的防禦力提升30%。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden um 24 % und den mit Elementarfähigkeiten verursachten Schaden um 36 %. Erhöht diesen Effekt um 100 %, wenn Truppenmitglieder in der Nähe Geo-Schaden auf dem Feld verursachen, hält 15 s. Erhöht außerdem die VTD des Trägers um 30 %.",
+        "ES": "#El daño de los Ataques Normales aumenta en un 24%, y el de la Habilidad Elemental aumenta en un 36%. Cuando un personaje en uso cercano inflige Daño Geo, los anteriores efectos aumentan en un 100% durante 15 s. Además, la DEF del portador de esta arma aumenta en un 30%.",
+        "FR": "#Les DGT infligés par les attaques normales augmentent de 24 % et ceux infligés par les compétences élémentaires augmentent de 36 %. Lorsqu'un personnage de l'équipe à proximité a infligé des DGT Géo, les effets susmentionnés augmentent de 100 % supplémentaires pendant 15 s. De plus, la DÉF du personnage équipé de l'arme augmente de 30 %.",
+        "ID": "DMG Normal Attack meningkat sebesar 24% dan DMG Elemental Skill meningkat sebesar 36%. Setelah Karakter aktif di sekitar mengakibatkan Geo DMG, efek ini meningkat 100% selama 15 detik. Selain itu, DEF pengguna meningkat sebesar 30%.",
+        "IT": "#I DAN da attacco normale e da abilità elementale aumentano rispettivamente di un 24% e di un 36%. Quando un personaggio attivo nelle vicinanze infligge DAN da Geo, gli effetti sopracitati aumentano di un 100% per 15 s. Inoltre, la DIF del personaggio che equipaggia l'arma aumenta di un 30%.",
+        "JP": "通常攻撃ダメージ+24%、元素スキルダメージ+36%。付近にいるチーム内キャラクターがフィールド上で岩元素ダメージを与えた後、上記ダメージアップ効果が元の100%分アップ、継続時間15秒。また、装備者の防御力+30%。",
+        "KR": "일반 공격으로 주는 피해가 24% 증가하고, 원소전투 스킬로 주는 피해가 36% 증가한다. 주변에 있는 파티 내 캐릭터가 필드 위에서 바위 원소 피해를 준 후, 상술한 효과가 100% 증가한다. 지속 시간: 15초. 또한 장착 캐릭터의 방어력이 30% 증가한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 24%. Aumenta o Dano da Habilidade Elemental em 36%. Quando um personagem ativo próximo causa Dano Geo, os efeitos mencionados acima serão aumentados em 100% por 15s. Além disso, a DEF do personagem que está com essa arma equipada aumenta em 30%.",
+        "RU": "Урон обычной атаки увеличивается на 24%, элементального навыка - на 36%. После того как активный персонаж поблизости наносит Гео урон, эти эффекты дополнительно увеличиваются на 100% на 15 сек. Кроме того, защита экипированного персонажа повышается на 30%.",
+        "TH": "ความเสียหายของการโจมตีปกติเพิ่มขึ้น 24% และความเสียหายของสกิลธาตุเพิ่มขึ้น 36%; เมื่อตัวละครในทีมที่อยู่ใกล้เคียงสร้างความเสียหายหินในสนาม เอฟเฟกต์ข้างต้นจะเพิ่มขึ้นอีก 100% เป็นเวลา 15 วินาที นอกจากนี้ จะเพิ่มพลังป้องกันของตัวละครที่สวมใส่ขึ้น 30%",
+        "TR": "Normal Saldırı Hasarı %24 artar ve Element Becerisi Hasarı %36 artar. Yakındaki bir aktif karakter Toprak Hasarı verdikten sonra 15sn boyunca yukarıdaki etkiler %100 artar. Buna ek olarak silahı kuşanan karakterin Savunması %30 artar.",
+        "VI": "Sát thương Tấn Công Thường tăng 24%; Sát thương Kỹ Năng Nguyên Tố tăng 36%. Sau khi nhân vật trong đội ra trận gần đó gây Sát Thương Nguyên Tố Nham, hiệu quả nêu trên tăng 100% trong 15s. Ngoài ra, Phòng Ngự của người trang bị tăng 30%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Normal Attack DMG is increased by 28% and Elemental Skill DMG is increased by 42%. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by 35%.",
+        "CHS": "普通攻击造成的伤害提升28%，元素战技造成的伤害提升42%；队伍中附近的角色在场上造成岩元素伤害后，上述效果进一步提升100%，持续15秒。此外，装备者的防御力提升35%。",
+        "CHT": "普通攻擊造成的傷害提升28%，元素戰技造成的傷害提升42%；隊伍中附近的角色在場上造成岩元素傷害後，上述效果進一步提升100%，持續15秒。此外，裝備者的防禦力提升35%。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden um 28 % und den mit Elementarfähigkeiten verursachten Schaden um 42 %. Erhöht diesen Effekt um 100 %, wenn Truppenmitglieder in der Nähe Geo-Schaden auf dem Feld verursachen, hält 15 s. Erhöht außerdem die VTD des Trägers um 35 %.",
+        "ES": "#El daño de los Ataques Normales aumenta en un 28%, y el de la Habilidad Elemental aumenta en un 42%. Cuando un personaje en uso cercano inflige Daño Geo, los anteriores efectos aumentan en un 100% durante 15 s. Además, la DEF del portador de esta arma aumenta en un 35%.",
+        "FR": "#Les DGT infligés par les attaques normales augmentent de 28 % et ceux infligés par les compétences élémentaires augmentent de 42 %. Lorsqu'un personnage de l'équipe à proximité a infligé des DGT Géo, les effets susmentionnés augmentent de 100 % supplémentaires pendant 15 s. De plus, la DÉF du personnage équipé de l'arme augmente de 35 %.",
+        "ID": "DMG Normal Attack meningkat sebesar 28% dan DMG Elemental Skill meningkat sebesar 42%. Setelah Karakter aktif di sekitar mengakibatkan Geo DMG, efek ini meningkat 100% selama 15 detik. Selain itu, DEF pengguna meningkat sebesar 35%.",
+        "IT": "#I DAN da attacco normale e da abilità elementale aumentano rispettivamente di un 28% e di un 42%. Quando un personaggio attivo nelle vicinanze infligge DAN da Geo, gli effetti sopracitati aumentano di un 100% per 15 s. Inoltre, la DIF del personaggio che equipaggia l'arma aumenta di un 35%.",
+        "JP": "通常攻撃ダメージ+28%、元素スキルダメージ+42%。付近にいるチーム内キャラクターがフィールド上で岩元素ダメージを与えた後、上記ダメージアップ効果が元の100%分アップ、継続時間15秒。また、装備者の防御力+35%。",
+        "KR": "일반 공격으로 주는 피해가 28% 증가하고, 원소전투 스킬로 주는 피해가 42% 증가한다. 주변에 있는 파티 내 캐릭터가 필드 위에서 바위 원소 피해를 준 후, 상술한 효과가 100% 증가한다. 지속 시간: 15초. 또한 장착 캐릭터의 방어력이 35% 증가한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 28%. Aumenta o Dano da Habilidade Elemental em 42%. Quando um personagem ativo próximo causa Dano Geo, os efeitos mencionados acima serão aumentados em 100% por 15s. Além disso, a DEF do personagem que está com essa arma equipada aumenta em 35%.",
+        "RU": "Урон обычной атаки увеличивается на 28%, элементального навыка - на 42%. После того как активный персонаж поблизости наносит Гео урон, эти эффекты дополнительно увеличиваются на 100% на 15 сек. Кроме того, защита экипированного персонажа повышается на 35%.",
+        "TH": "ความเสียหายของการโจมตีปกติเพิ่มขึ้น 28% และความเสียหายของสกิลธาตุเพิ่มขึ้น 42%; เมื่อตัวละครในทีมที่อยู่ใกล้เคียงสร้างความเสียหายหินในสนาม เอฟเฟกต์ข้างต้นจะเพิ่มขึ้นอีก 100% เป็นเวลา 15 วินาที นอกจากนี้ จะเพิ่มพลังป้องกันของตัวละครที่สวมใส่ขึ้น 35%",
+        "TR": "Normal Saldırı Hasarı %28 artar ve Element Becerisi Hasarı %42 artar. Yakındaki bir aktif karakter Toprak Hasarı verdikten sonra 15sn boyunca yukarıdaki etkiler %100 artar. Buna ek olarak silahı kuşanan karakterin Savunması %35 artar.",
+        "VI": "Sát thương Tấn Công Thường tăng 28%; Sát thương Kỹ Năng Nguyên Tố tăng 42%. Sau khi nhân vật trong đội ra trận gần đó gây Sát Thương Nguyên Tố Nham, hiệu quả nêu trên tăng 100% trong 15s. Ngoài ra, Phòng Ngự của người trang bị tăng 35%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Normal Attack DMG is increased by 32% and Elemental Skill DMG is increased by 48%. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by 40%.",
+        "CHS": "普通攻击造成的伤害提升32%，元素战技造成的伤害提升48%；队伍中附近的角色在场上造成岩元素伤害后，上述效果进一步提升100%，持续15秒。此外，装备者的防御力提升40%。",
+        "CHT": "普通攻擊造成的傷害提升32%，元素戰技造成的傷害提升48%；隊伍中附近的角色在場上造成岩元素傷害後，上述效果進一步提升100%，持續15秒。此外，裝備者的防禦力提升40%。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden um 32 % und den mit Elementarfähigkeiten verursachten Schaden um 48 %. Erhöht diesen Effekt um 100 %, wenn Truppenmitglieder in der Nähe Geo-Schaden auf dem Feld verursachen, hält 15 s. Erhöht außerdem die VTD des Trägers um 40 %.",
+        "ES": "#El daño de los Ataques Normales aumenta en un 32%, y el de la Habilidad Elemental aumenta en un 48%. Cuando un personaje en uso cercano inflige Daño Geo, los anteriores efectos aumentan en un 100% durante 15 s. Además, la DEF del portador de esta arma aumenta en un 40%.",
+        "FR": "#Les DGT infligés par les attaques normales augmentent de 32 % et ceux infligés par les compétences élémentaires augmentent de 48 %. Lorsqu'un personnage de l'équipe à proximité a infligé des DGT Géo, les effets susmentionnés augmentent de 100 % supplémentaires pendant 15 s. De plus, la DÉF du personnage équipé de l'arme augmente de 40 %.",
+        "ID": "DMG Normal Attack meningkat sebesar 32% dan DMG Elemental Skill meningkat sebesar 48%. Setelah Karakter aktif di sekitar mengakibatkan Geo DMG, efek ini meningkat 100% selama 15 detik. Selain itu, DEF pengguna meningkat sebesar 40%.",
+        "IT": "#I DAN da attacco normale e da abilità elementale aumentano rispettivamente di un 32% e di un 48%. Quando un personaggio attivo nelle vicinanze infligge DAN da Geo, gli effetti sopracitati aumentano di un 100% per 15 s. Inoltre, la DIF del personaggio che equipaggia l'arma aumenta di un 40%.",
+        "JP": "通常攻撃ダメージ+32%、元素スキルダメージ+48%。付近にいるチーム内キャラクターがフィールド上で岩元素ダメージを与えた後、上記ダメージアップ効果が元の100%分アップ、継続時間15秒。また、装備者の防御力+40%。",
+        "KR": "일반 공격으로 주는 피해가 32% 증가하고, 원소전투 스킬로 주는 피해가 48% 증가한다. 주변에 있는 파티 내 캐릭터가 필드 위에서 바위 원소 피해를 준 후, 상술한 효과가 100% 증가한다. 지속 시간: 15초. 또한 장착 캐릭터의 방어력이 40% 증가한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 32%. Aumenta o Dano da Habilidade Elemental em 48%. Quando um personagem ativo próximo causa Dano Geo, os efeitos mencionados acima serão aumentados em 100% por 15s. Além disso, a DEF do personagem que está com essa arma equipada aumenta em 40%.",
+        "RU": "Урон обычной атаки увеличивается на 32%, элементального навыка - на 48%. После того как активный персонаж поблизости наносит Гео урон, эти эффекты дополнительно увеличиваются на 100% на 15 сек. Кроме того, защита экипированного персонажа повышается на 40%.",
+        "TH": "ความเสียหายของการโจมตีปกติเพิ่มขึ้น 32% และความเสียหายของสกิลธาตุเพิ่มขึ้น 48%; เมื่อตัวละครในทีมที่อยู่ใกล้เคียงสร้างความเสียหายหินในสนาม เอฟเฟกต์ข้างต้นจะเพิ่มขึ้นอีก 100% เป็นเวลา 15 วินาที นอกจากนี้ จะเพิ่มพลังป้องกันของตัวละครที่สวมใส่ขึ้น 40%",
+        "TR": "Normal Saldırı Hasarı %32 artar ve Element Becerisi Hasarı %48 artar. Yakındaki bir aktif karakter Toprak Hasarı verdikten sonra 15sn boyunca yukarıdaki etkiler %100 artar. Buna ek olarak silahı kuşanan karakterin Savunması %40 artar.",
+        "VI": "Sát thương Tấn Công Thường tăng 32%; Sát thương Kỹ Năng Nguyên Tố tăng 48%. Sau khi nhân vật trong đội ra trận gần đó gây Sát Thương Nguyên Tố Nham, hiệu quả nêu trên tăng 100% trong 15s. Ngoài ra, Phòng Ngự của người trang bị tăng 40%."
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 14410,
+  "name": {
+    "EN": "Wine and Song",
+    "CHS": "暗巷的酒与诗",
+    "CHT": "暗巷的酒與詩",
+    "DE": "Wein und Gesang in den Gassen",
+    "ES": "Vino y Poesía",
+    "FR": "Vins et chants",
+    "ID": "Wine and Song",
+    "IT": "Vino e musica",
+    "JP": "ダークアレイの酒と詩",
+    "KR": "뒷골목의 술과 시",
+    "PT": "Vinho e Música",
+    "RU": "Вино и песни",
+    "TH": "Wine and Song",
+    "TR": "Şarap ve Şarkı",
+    "VI": "Rượu Và Thơ Nơi Hẻm Tối"
+  },
+  "nameEn": "Wine and Song",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw.",
+    "CHS": "过去贵族时代流行的歌谱，作者已无从考究。其中记载了某位侠盗的故事…",
+    "CHT": "過去貴族時代流行的歌譜，作者已無從考究。其中記載了某位俠盜的故事…",
+    "DE": "Ein Gesangbuch aus den Zeiten der Aristokratie, dessen Autor in Vergessenheit geraten ist. Darin geht es um die Geschichten eines vogelfreien Kämpfers.",
+    "ES": "El nombre de una canción muy popular durante la época de la aristocracia. Su autor es desconocido. En ella, se cuenta la historia de un bandido errante...",
+    "FR": "Un recueil de chansons de l'époque aristocratique dont le compositeur est tombé dans l'oubli. Certaines d'entre elles relatent l'histoire d'un certain brigand héroïque...",
+    "ID": "Lagu yang sangat populer di era kebangsawanan. Penulisnya tak diketahui. Menceritakan kisah seorang bandit...",
+    "IT": "Un canzoniere della passata epoca aristocratica, il cui compositore è caduto nell'oblio. Racconta la storia di un eroe fuorilegge.",
+    "JP": "貴族時代に流行った楽譜、作曲家は不明。とある義賊のことを描いた物語である。",
+    "KR": "과거 귀족 시대에 유행하던 악보로 저자가 누군진 알 수 없다. 어느 의적의 이야기가 적혀있다…",
+    "PT": "Um livro de canções da época aristocrática passada, cujo compositor foi esquecido. Ele narra a história de um certo fora-da-lei heroico.",
+    "RU": "Сборник песен давно минувшей эпохи аристократии. В нём автор, чьё имя кануло в лету, ведёт сказ об одном благородном разбойнике.",
+    "TH": "บทเพลงที่ได้รับความนิยมในยุคสมัยของชนชั้นสูง ข้อมูลของผู้แต่งนั้นไม่เป็นที่แน่ชัด สิ่งที่อยู่ในนั้นคือบันทึกเรื่องราวของจอมโจรผู้ยิ่งใหญ่ ...",
+    "TR": "Bestecisi uzun süre önce unutulmuş, aristokratik dönem eserlerini içeren bir şarkı kitabı. Bazı şarkılarda ünlü bir eşkıyanın hikayeleri anlatılır.",
+    "VI": "Nhạc phổ lưu hành ở thời đại quý tộc xa xưa, không biết tác giả là ai. Trong đó ghi chép về câu chuyện của một hiệp đạo nào đó..."
+  },
+  "icon": "generated/weapon-profiles/14410/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

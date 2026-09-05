@@ -1,0 +1,52 @@
+{
+  "id": 11409,
+  "name": {
+    "EN": "The Black Sword",
+    "CHS": "黑剑",
+    "CHT": "黑劍",
+    "DE": "Schwarzes Schwert",
+    "ES": "Espada Negra",
+    "FR": "Épée noire",
+    "ID": "The Black Sword",
+    "IT": "Spada nera",
+    "JP": "黒剣",
+    "KR": "칠흑검",
+    "PT": "Espada Negra",
+    "RU": "Чёрный меч",
+    "TH": "The Black Sword",
+    "TR": "Kara Kılıç",
+    "VI": "Kiếm Đen"
+  },
+  "nameEn": "The Black Sword",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter.",
+    "CHS": "渴求着纷争与砍杀的漆黑长剑，据说会让人沉醉在浴血厮杀的亢奋中。",
+    "CHT": "渴求著紛爭與砍殺的漆黑長劍，據說會讓人沉醉在浴血廝殺的亢奮中。",
+    "DE": "Ein tiefschwarzes Langschwert, das nach Streit und Schlacht dürstet. Es soll seinen Träger dazu bringen, ekstatisch im Blut der Niedergemetzelten zu baden.",
+    "ES": "Una espada larga oscura que ansía el conflicto y el combate. Se dice que sume a su portador en el violento deseo de mancharse de sangre en una masacre.",
+    "FR": "Une épée qui a soif de violence et de conflit. Cette arme aurait le pouvoir d'exciter la soif de sang de son propriétaire.",
+    "ID": "Longsword hitam yang haus akan konflik dan pertempuran. Dikatakan bahwa pedang ini bisa membuat pemiliknya menjadi haus darah dan pembantaian.",
+    "IT": "Una spada lunga, nera come la pece e assetata di guerre e di sangue. Si dice che quest'arma possa ubriacare chi la brandisce del vino rosso delle mattanze.",
+    "JP": "紛争と殺戮を渇望する漆黒の剣。手にした人は殺戮の悦びに溺れてしまうらしい。",
+    "KR": "분쟁과 살상을 갈망하는 칠흑 장검. 사람을 피비린내 나는 전투에 극도로 미치도록 만든다고 한다",
+    "PT": "Uma espada longa que anseia por conflito e combate. Dizem-se que mergulha seu portador em um desejo violento de se manchar de sangue em um massacre.",
+    "RU": "Этот чёрный как смоль меч жаждет кровопролития. Говорят, что в пылу резни его владелец пьянеет, словно от вина.",
+    "TH": "ดาบสีดำยาวที่กระหายเพียงความขัดแย้งและฆ่าฟัน กล่าวกันว่ามันทำให้ผู้คนมัวเมาไปกับการต่อสู้ที่นองเลือด",
+    "TR": "Kana ve şiddete susamış simsiyah bir kılıç. Bu kılıcı kuşanan savaşçının gözünü kan bürüdüğü söylenir.",
+    "VI": "Trường kiếm đen khao khát chiến tranh và chém giết, nghe nói có thể khiến người ta chìm đắm trong cuồng sát."
+  },
+  "icon": "generated/weapon-profiles/11409/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

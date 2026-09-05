@@ -1,0 +1,52 @@
+{
+  "id": 14522,
+  "name": {
+    "EN": "Nocturne's Curtain Call",
+    "CHS": "帷间夜曲",
+    "CHT": "帷間夜曲",
+    "DE": "Nachtmusik im Schleier",
+    "ES": "Nocturno tras el Velo",
+    "FR": "Rappel de la nocturne",
+    "ID": "Nocturne's Curtain Call",
+    "IT": "Sipario del notturno",
+    "JP": "帳の夜曲",
+    "KR": "막간의 야상곡",
+    "PT": "Cortinas Noturnas",
+    "RU": "Вызов ноктюрна",
+    "TH": "Nocturne's Curtain Call",
+    "TR": "Son Perde Noktürnü",
+    "VI": "Dạ Khúc Hạ Màn"
+  },
+  "nameEn": "Nocturne's Curtain Call",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A jade pearl shrouded in the light of the moon. Even in the coldest winter night, its gentle warmth lingers like a song.",
+    "CHS": "笼着月色轻纱的玉珠，即便是在冬日的寒夜中也萦绕着如歌的温存。",
+    "CHT": "籠著月色輕紗的玉珠，即便是在冬日的寒夜中也縈繞著如歌的溫存。",
+    "DE": "Eine vom Mondlicht umhüllte Jadeperle. Sie strahlt selbst in der kalten Winternacht eine liedhafte Wärme aus.",
+    "ES": "Un orbe de jade cubierto con un fino velo del color de la luz de la luna que conserva una calidez similar a la de una canción incluso en las noches más frías de invierno.",
+    "FR": "Une perle de jade, baignée par la lumière de la lune. Même au cœur des nuits d'hiver les plus froides, sa douce chaleur persiste comme une mélodie.",
+    "ID": "Manik-manik giok yang diselubungi cahaya bulan, memancarkan pesona lembut dan merdu bahkan di malam musim dingin yang dingin.",
+    "IT": "Una perla di giada avvolta nella luce della luna. Anche nelle più fredde notti d'inverno, il suo calore gentile permane come una canzone.",
+    "JP": "月光のベールを纏った玉。冬の寒い夜でも、歌のような温もりを感じさせてくれる。",
+    "KR": "달빛으로 짠 비단을 두른 옥구슬은, 한겨울 차가운 밤에도 그 노래처럼 따뜻한 온기를 품고 있다",
+    "PT": "Uma pérola de jade envolvida pela luz do luar. Mesmo nas noites mais frias de inverno, seu calor gentil permanece como uma canção.",
+    "RU": "Нефритовая жемчужина, окутанная лунным светом. Даже в самые холодные зимние ночи её тепло витает подобно песне.",
+    "TH": "ไข่มุกหยกที่ห่อหุ้ม ด้วยผ้าแพรแสงจันทร์ แม้ในค่ำคืนอันหนาวเหน็บ ของฤดูหนาว ก็ยังคงอบอวลไปด้วย ความอบอุ่นดุจบทเพลง",
+    "TR": "Ay ışığıyla çevrili yeşim bir inci. En soğuk kış gecesinde bile narin sıcaklığı yankılanan bir şarkı gibi hissedilir.",
+    "VI": "Viên ngọc được phủ một lớp ánh trăng mỏng phía trên, dù trong đêm đông lạnh giá vẫn toát lên sự ấm áp dịu dàng như khúc hát."
+  },
+  "icon": "generated/weapon-profiles/14522/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

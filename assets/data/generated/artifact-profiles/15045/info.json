@@ -1,0 +1,69 @@
+{
+  "id": 15045,
+  "name": {
+    "EN": "Celestial Gift",
+    "CHS": "天之美赐",
+    "CHT": "天之美賜",
+    "DE": "Gabe des Himmels",
+    "ES": "Dádiva Celestial",
+    "FR": "Don céleste",
+    "ID": "Celestial Gift",
+    "IT": "Dono del cielo",
+    "JP": "天からの贈り物",
+    "KR": "하늘의 은총",
+    "PT": "Dádiva Celestial",
+    "RU": "Дар небес",
+    "TH": "Celestial Gift",
+    "TR": "Göklerin Hediyesi",
+    "VI": "Phước Lành Trời Cao"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15045/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Energy Recharge +20%.",
+        "CHS": "元素充能效率提高20%。",
+        "CHT": "元素充能效率提高20%。",
+        "DE": "#Erhöht die Aufladerate um 20 %.",
+        "ES": "Recarga de Energía +20%.",
+        "FR": "Augmente la recharge d'énergie de 20 %.",
+        "ID": "Energy Recharge +20%.",
+        "IT": "Ricarica d'energia +20%.",
+        "JP": "元素チャージ効率+20%。",
+        "KR": "원소 충전 효율+20%",
+        "PT": "Recarga de Energia +20%",
+        "RU": "Увеличивает скорость восстановления энергии на 20%.",
+        "TH": "เพิ่มประสิทธิภาพ การฟื้นฟูพลังงานขึ้น 20%",
+        "TR": "+%20 Enerji Yüklemesi.",
+        "VI": "Hiệu Quả Nạp Nguyên Tố tăng 20%."
+      },
+      "affixId": "2150450"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "If the equipping character has completed Witch's Homework, after they use an Elemental Skill, they gain \"Light's Guidance\" for 20s: All nearby party members gain a 20% Elemental DMG Bonus corresponding to the equipping character's Elemental Type. The equipping character can trigger this effect while off-field. DMG Bonuses provided by Artifact Sets with the same name do not stack.\\n· When your party has the Hexerei: Secret Rite effect, Light's Guidance is upgraded to \"Mortal Hymn\": All nearby party members gain a 40% Elemental DMG Bonus corresponding to both the equipping character and the current active party member's Elemental Type instead. If both characters have the same Elemental Type, these bonuses will not stack.",
+        "CHS": "若装备者已经完成了魔女的课业，则施放元素战技后，会获得「天光之引」效果：依据装备者的元素类型，使队伍中附近的所有角色获得20%对应元素伤害加成，持续20秒。装备者处于后台时也能触发上述效果，同名圣遗物套装产生的伤害加成效果无法叠加。\\n·队伍拥有「魔导·秘仪」效果时，「天光之引」效果将会升级为「凡世颂歌」，除装备者的元素类型外，还会依据队伍中自己的当前场上角色的元素类型，使队伍中附近的所有角色获得对应元素伤害加成，且上述两种元素伤害加成提升至40%，同元素类型的元素伤害加成效果无法叠加。",
+        "CHT": "若裝備者已經完成了魔女的課業，則施放元素戰技後，會獲得「天光之引」效果：依據裝備者的元素類型，使隊伍中附近的所有角色獲得20%對應元素傷害加成，持續20秒。裝備者處於後臺時也能觸發上述效果，同名聖遺物套裝產生的傷害加成效果無法疊加。\\n·隊伍擁有「魔導·秘儀」效果時，「天光之引」效果將會升級為「凡世頌歌」，除裝備者的元素類型外，還會依據隊伍中自己的目前場上角色的元素類型，使隊伍中附近的所有角色獲得對應元素傷害加成，且上述兩種元素傷害加成提升至40%，同元素類型的元素傷害加成效果無法疊加。",
+        "DE": "#Verleiht dem Träger, nachdem er die Aufgabe der Hexe abgeschlossen und eine Elementarfähigkeit angewendet hat, den Effekt „Führung des Himmelslichts“: Verleiht allen Truppenmitgliedern in der Nähe 20 s lang einen Elementar-SCH-Bonus von 20 % für das Element des Trägers. Dieser Effekt kann auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die SCH-Bonus-Effekte mehrerer gleicher Artefaktsets sind nicht stapelbar.\\n· Stuft den Effekt „Führung des Himmelslichts“ zu „Ode an die Welt“ hoch, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt. Verleiht allen Truppenmitgliedern in der Nähe zusätzlich zum Elementartyp des Trägers einen Elementar-SCH-Bonus für das Element des eigenen aktuellen Truppenmitglieds. Erhöht die beiden oben genannten Elementar-SCH-Boni zudem auf 40 %. Elementar-SCH-Boni desselben Elementartyps können nicht gestapelt werden.",
+        "ES": "#Si el portador de este conjunto de artefactos ya ha completado la misión de «Lecciones del Aquelarre», tras usar su Habilidad Elemental, obtendrá el efecto de “guía de la luz celestial”, el cual otorga durante 20 s a todos los personajes cercanos del equipo un 20% de bono de daño del elemento correspondiente al elemento del portador. Este efecto se puede activar incluso cuando el portador de este conjunto está en tu equipo pero no en uso. Los bonos de daño otorgados por este conjunto de artefactos no se pueden acumular con los de otro conjunto del mismo tipo.\\n·Si el equipo tiene el efecto de “taumaturgia: rito secreto”, mejora el efecto de guía de la luz celestial a “himno del mundo terrenal”, de manera que, además del bono correspondiente al tipo elemental del portador, todos los personajes cercanos del equipo también obtendrán un bono de daño correspondiente al elemento de tu personaje en uso del equipo, y ambos Bonos de Daño Elemental pasarán a ser del 40%. Los bonos de daño del mismo tipo elemental no se pueden acumular.",
+        "FR": "#Si le personnage équipé de l'artéfact a terminé son devoir de la sorcière et a utilisé une compétence élémentaire, il obtient l'effet Guidance de la lumière : accorde un bonus de DGT de l'élément du personnage équipé de l'artéfact de 20 % pendant 20 s à tous les personnages de l'équipe à proximité. L'effet ci-dessus peut être déclenché même si le personnage équipé de l'artéfact n'est pas déployé, et les effets d'augmentation des DGT accordés par les sets d'artéfacts du même nom ne se cumulent pas.\\nLorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, l'effet Guidance de la lumière est amélioré en Hymne mortel, accordant un bonus de DGT de l'élément du personnage équipé de l'artéfact et de l'élément de votre personnage déployé de 40 % à tous les personnages de l'équipe à proximité, ce bonus n'étant pas doublé si leurs éléments sont identiques.",
+        "ID": "Jika Karakter yang mengenakan sudah menyelesaikan PR Penyihir, maka setelah melancarkan Elemental Skill, akan mendapatkan efek Light's Guidance: Seluruh anggota party di sekitar mendapatkan 20% Elemental DMG Bonus untuk jenis elemen yang sesuai dengan elemen Karakter yang mengenakan selama 20 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun tidak berada di medan pertempuran. Efek Bonus DMG yang dihasilkan dari set Artefak dengan nama yang sama tidak dapat ditumpuk.\\nSaat party memiliki efek Hexerei: Secret Rite, efek Light's Guidance akan ditingkatkan menjadi Mortal Hymn: Selain jenis elemen Karakter yang mengenakan, seluruh Karakter dalam party di sekitar juga akan mendapatkan Elemental DMG Bonus dengan jenis elemen yang sesuai berdasarkan jenis elemen Karakter aktif sendiri dalam party, dan kedua Elemental DMG Bonus yang disebutkan di atas meningkat menjadi 40%. Elemental DMG Bonus dari jenis elemen yang sama tidak dapat ditumpuk.",
+        "IT": "#Se il personaggio che equipaggia il set ha completato i Compiti della strega, dopo aver utilizzato un'abilità elementale ottiene l'effetto Guida della luce per 20 s, che conferisce un 20% di bonus DAN elementali a tutti i membri vicini del gruppo corrispondente al tipo elementale del personaggio che equipaggia il set. L'effetto può attivarsi anche se il personaggio non è in campo. I bonus DAN forniti da set di manufatti con lo stesso nome non si accumulano.\\n· Se Hexerei: Rito segreto è attivo nel tuo gruppo, Guida della luce si potenzia in Inno mortale, che conferisce un 40% di bonus DAN elementali a tutti i membri vicini del gruppo corrispondente sia al tipo elementale del personaggio che equipaggia il set sia a quello del membro attivo del gruppo attuale. Se entrambi i personaggi hanno lo stesso tipo elementale, i bonus non si accumulano.",
+        "JP": "装備者が「魔女の課題」をクリアしている場合、元素スキルを発動すると、「天光の導き」効果を獲得する。この効果は装備者の元素タイプに基づき、付近にいるチーム全員に当該元素ダメージ+20%のバフを付与する。継続時間20秒。装備者が待機中でも発動可能。同じ聖遺物セットによるダメージアップ効果は重ね掛けできない。\\n・チームが「魔導秘儀」効果を持っている時、「天光の導き」効果は「浮世の頌歌」に強化される。装備者の元素タイプに加え、フィールド上にいる自身のキャラクターの元素タイプに基づき、周囲のチーム全員に当該元素のダメージアップ効果を付与する。さらに、上記2種類の元素ダメージアップ効果は40%までアップする。同じ元素タイプの元素ダメージアップ効果は重ね掛けできない。",
+        "KR": "장착 캐릭터가 마녀의 과제를 완료한 경우, 원소전투 스킬 발동 후 「하늘의 인도」 효과를 획득한다: 장착 캐릭터의 원소 타입에 따라 주변에 있는 파티 내 모든 캐릭터가 상응하는 원소 피해 보너스를 20% 획득한다. 지속 시간: 20초. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동되며, 동명의 성유물 세트가 생성한 피해 보너스 효과는 중첩되지 않는다.\\n·파티가 「마도·비밀 의식」 효과 보유 시, 「하늘의 인도」 효과가 「속세의 송가」로 강화된다. 장착 캐릭터의 원소 타입 외에도 현재 필드 위에 있는 파티 내 자신의 캐릭터의 원소 타입에 따라 주변에 있는 파티 내 모든 캐릭터가 상응하는 원소 피해 보너스를 획득하며, 상술한 두 가지 원소 피해 보너스가 40%로 증가한다. 같은 원소 타입의 원소 피해 보너스 효과는 중첩되지 않는다",
+        "PT": "Se o portador já completou a Tarefa da Bruxa, após usar uma Habilidade Elemental, obtém \"Orientação da Luz Celestial\" por 20s: todos os personagens próximos da equipe obtêm 20% de Bônus de Dano Elemental correspondente ao Tipo Elemental do portador. Esse efeito pode ser desencadeado mesmo se o portador estiver fora de campo. Bônus de Dano fornecidos por Conjuntos de Artefatos com o mesmo nome não acumulam.\\n· Quando a equipe possui o efeito \"Mágico: Ritual Secreto\", \"Orientação da Luz Celestial\" é elevada para \"Cântico do Mundo Mortal\": todos os personagens próximos da equipe passam a obter 40% de Bônus de Dano Elemental correspondente tanto ao Tipo Elemental do portador quanto ao Tipo Elemental do personagem ativo atual da equipe. Se ambos os personagens tiverem o mesmo Tipo Elemental, esses bônus não acumulam.",
+        "RU": "Если экипированный персонаж выполнил Уроки ведьм, то на 20 сек. после использования элементального навыка он наделяется эффектом Наставления света: все персонажи отряда поблизости получают 20% бонус элементального урона согласно типу элемента экипированного персонажа. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя. Бонусы одноимённых наборов артефактов не суммируются.\\n· Когда в отряде действует эффект Ведьмовство: Тайный обряд, Наставление света улучшается до Гимна смертных: все персонажи отряда поблизости получают 40% бонус элементального урона согласно элементу экипированного и вашего активного персонажей. Бонусы урона одного типа элемента не суммируются.",
+        "TH": "หากผู้สวมใส่ทำแบบฝึกหัดของแม่มดสำเร็จแล้ว หลังจากใช้สกิลธาตุ จะได้รับเอฟเฟกต์ \"Light's Guidance\" : ทำให้ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียงได้รับโบนัสความเสียหายธาตุที่เกี่ยวข้อง ตามประเภทธาตุของผู้สวมใส่ 20% เป็นเวลา 20 วินาที แม้ผู้สวมใส่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ก็สามารถเกิดเอฟเฟกต์ดังกล่าวได้เช่นกัน เอฟเฟกต์โบนัสความเสียหายที่เกิดจากเซ็ตอาร์ติแฟกต์ชื่อเดียวกันจะไม่สามารถซ้อนทับกันได้\\n·เมื่อในทีมมีเอฟเฟกต์ Hexerei: Secret Rite เอฟเฟกต์ \"Light's Guidance\" จะอัปเกรดเป็น \"Mortal Hymn\" ทำให้ตัวละครในทีมทั้งหมดที่อยู่ใกล้เคียง ได้รับโบนัสความเสียหายธาตุที่เกี่ยวข้อง ตามประเภทธาตุของผู้สวมใส่ และประเภทธาตุของตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้น 40% โดยเอฟเฟกต์โบนัสความเสียหายธาตุของประเภทธาตุเดียวกัน จะไม่สามารถซ้อนทับกันได้",
+        "TR": "Kuşanan karakter Cadının Ödevini tamamladıysa bir Element Becerisi kullandıktan sonra 20 saniyeliğine \"Işığın Rehberliği\" etkisini kazanır: Yakındaki tüm grup üyeleri, kuşanan karakterle aynı Element Türünde %20 Element Hasarı Bonusu kazanır. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir. Aynı isme sahip Yadigar Setlerinin sağladığı Hasar Bonusları birikmez.\\n·Grubunda Cadılık: Saklı Ayin etkisi varsa Işığın Rehberliği gelişerek \"Fanilerin İlahisi\" olur: Yakındaki tüm grup üyeleri, hem kuşanan karakterin hem de mevcut aktif grup üyesinin Element Türünde %40 Element Hasarı Bonusu kazanır. İki karakterin de Element Türü aynıysa bu bonus birikmez.",
+        "VI": "Nếu người trang bị đã hoàn thành Bài Tập Của Ma Nữ, thì sau khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Thiên Quang Chỉ Dẫn\": Căn cứ vào Loại Nguyên Tố của người trang bị, khiến tất cả nhân vật trong đội ở gần nhận 20% buff Sát Thương Nguyên Tố tương ứng, duy trì 20s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên. Hiệu quả tăng sát thương sản sinh từ bộ Thánh Di Vật cùng tên sẽ không thể cộng dồn.\\nKhi đội ngũ có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\": Hiệu quả \"Thiên Quang Chỉ Dẫn\" nâng cấp thành \"Khúc Ca Phàm Trần\": Ngoài Loại Nguyên Tố của người trang bị, sẽ còn căn cứ vào Loại Nguyên Tố của nhân vật ra trận hiện tại trong đội bản thân, khiến tất cả nhân vật trong đội ở gần nhận buff Sát Thương Nguyên Tố tương ứng, đồng thời cả hai loại buff Sát Thương Nguyên Tố kể trên tăng đến 40%. Buff sát thương cho cùng loại nguyên tố sẽ không thể cộng dồn."
+      },
+      "affixId": "2150451"
+    }
+  ]
+}

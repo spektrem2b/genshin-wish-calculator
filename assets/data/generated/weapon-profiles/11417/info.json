@@ -1,0 +1,52 @@
+{
+  "id": 11417,
+  "name": {
+    "EN": "Sapwood Blade",
+    "CHS": "原木刀",
+    "CHT": "原木刀",
+    "DE": "Stammklinge",
+    "ES": "Espada de Madera",
+    "FR": "Lame d'aubier",
+    "ID": "Sapwood Blade",
+    "IT": "Lama di alburno",
+    "JP": "原木刀",
+    "KR": "원목 검",
+    "PT": "Espada de Madeira",
+    "RU": "Деревянный клинок",
+    "TH": "Sapwood Blade",
+    "TR": "İç Kabuk Kılıcı",
+    "VI": "Kiếm Gỗ"
+  },
+  "nameEn": "Sapwood Blade",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest.",
+    "CHS": "从兰那罗的故事中得到的武器。具有刀的形制，能够贯穿森林的敌人。",
+    "CHT": "從蘭那羅的故事中得到的武器。具有刀的形制，能夠貫穿森林的敵人。",
+    "DE": "Eine Waffe, die du aus einer Geschichte über die Aranara erhalten hast. Sie hat die Form eines Schwerts angenommen, mit dem man die Gegner des Waldes niederstrecken kann.",
+    "ES": "Un arma obtenida a través de una de las historias de los aranara. Tiene forma de espada y es capaz de atravesar a cualquier enemigo del bosque.",
+    "FR": "Une arme que vous avez obtenue dans un conte d'aranara. Elle a pris la forme d'une lame qui peut terrasser les ennemis de la forêt.",
+    "ID": "Senjata yang didapat dari cerita Aranara. Senjata dengan bentuk pisau ini bisa menembus musuh hutan.",
+    "IT": "Un'arma che hai ottenuto da una storia degli Aranara. Ha assunto la forma di una lama in grado di fendere i nemici della foresta.",
+    "JP": "アランナラの物語で手に入る武器。刀のような形をしており、森に出没する敵を切り伏せられる。",
+    "KR": "아란나라의 이야기에서 획득한 무기. 검의 형태를 지니고 있으며 숲속의 적을 관통할 수 있다",
+    "PT": "Uma arma obtida através de uma das histórias dos Aranara. Ela tomou a forma de uma espada que é capaz de cortar os inimigos da floresta.",
+    "RU": "Оружие, полученное из истории аранар. Оно приняло форму меча, который способен пронзать врагов леса.",
+    "TH": "อาวุธที่ได้รับมาจากเรื่องเล่าของ Aranara ซึ่งมีรูปร่างเหมือนดาบ สามารถตัดสะบั้นศัตรูของป่าได้",
+    "TR": "Aranara hikayesinden elde ettiğin bir silah. Ormanın düşmanlarını ikiye ayırabileceğin bir kılıcın şekline girmiş.",
+    "VI": "Vũ khí nhận được từ câu chuyện của Aranara. Có tạo hình của lưỡi đao, có thể tiêu diệt kẻ địch trong rừng."
+  },
+  "icon": "generated/weapon-profiles/11417/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

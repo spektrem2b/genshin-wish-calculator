@@ -1,0 +1,137 @@
+{
+  "id": "10000021",
+  "name": {
+    "EN": "Amber",
+    "CHS": "安柏",
+    "CHT": "安柏",
+    "DE": "Amber",
+    "ES": "Amber",
+    "FR": "Amber",
+    "ID": "Amber",
+    "IT": "Amber",
+    "JP": "アンバー",
+    "KR": "엠버",
+    "PT": "Amber",
+    "RU": "Эмбер",
+    "TH": "Amber",
+    "TR": "Amber",
+    "VI": "Amber"
+  },
+  "nameEn": "Amber",
+  "element": "Pyro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 8,
+    "day": 10
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000021/avatar.webp",
+  "fullWish": "generated/character-profiles/10000021/full_wish.webp",
+  "fullWishObjectPosition": "48.1% 24.0%",
+  "title": {
+    "EN": "Gliding Champion",
+    "CHS": "飞行冠军",
+    "CHT": "飛行冠軍",
+    "DE": "Flugmeister",
+    "ES": "La Campeona de Vuelo",
+    "FR": "Championne de planage",
+    "ID": "Gliding Champion",
+    "IT": "Campionessa di volo a vela",
+    "JP": "飛行チャンピオン",
+    "KR": "비행 챔피언",
+    "PT": "Campeã Voadora",
+    "RU": "Чемпион полётов",
+    "TH": "แชมป์นักร่อนเวหา",
+    "TR": "Uçuş Şampiyonu",
+    "VI": "Quán Quân Bay Lượn"
+  },
+  "description": {
+    "EN": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
+    "CHS": "永远充满活力的女孩，骑士团最优秀，同时也是最后的侦察骑士。",
+    "CHT": "永遠充滿活力的女孩，騎士團最優秀、同時也是最後的偵察騎士。",
+    "DE": "Ein Mädchen voller Lebenskraft und gleichzeitig die beste, wenn auch einzig verbliebene, Kundschafterin des Ordo Favonius.",
+    "ES": "Siempre enérgica y llena de vida, Amber es la mejor Exploradora de los Caballeros de Favonius, aunque también es la única...",
+    "FR": "Une jeune fille pleine d'énergie. Elle est la seule et unique Éclaireuse de l'Ordre de Favonius.",
+    "ID": "Gadis periang yang selalu penuh semangat. Amber adalah Outrider terbaik (dan juga satu-satunya) di Knights of Favonius.",
+    "IT": "Piena d'energia e vitalità, Amber è la migliore, nonché l'unica, Vigilante dei Cavalieri di Favonius.",
+    "JP": "元気満々な女の子、騎士団で最も優秀で、最後の偵察騎士である。",
+    "KR": "항상 활력이 넘치는 여자아이. 기사단에서 가장 우수한 최후의 정찰 기사다",
+    "PT": "Sempre energética e cheia de vida, a Amber é a melhor, mas também a última Aventureira dos Cavaleiros de Favonius.",
+    "RU": "Энергичная и весёлая Эмбер. Лучший и единственный скаут Ордо Фавониус.",
+    "TH": "เด็กสาวผู้เปี่ยมไปด้วยพลังและมีชีวิตชีวาอยู่เสมอ ยอดฝีมือแห่งกองอัศวินและเป็นอัศวินลาดตระเวนคนสุดท้าย",
+    "TR": "Her zaman enerjik ve hayat dolu olan Amber, Favonius Şövalyelerinin tek ve en iyi Kaşifidir.",
+    "VI": "Cô gái luôn tràn đầy sinh lực, là Kỵ Sĩ Trinh Thám cuối cùng, ưu tú nhất của đội Kỵ Sĩ."
+  },
+  "constellationName": {
+    "EN": "Lepus",
+    "CHS": "小兔座",
+    "CHT": "小兔座",
+    "DE": "Lepus",
+    "ES": "Lepus",
+    "FR": "Lepus",
+    "ID": "Lepus",
+    "IT": "Lepus",
+    "JP": "小兎座",
+    "KR": "토끼자리",
+    "PT": "Lepus",
+    "RU": "Озорной Кролик",
+    "TH": "Lepus",
+    "TR": "Tavşan",
+    "VI": "Cung Tiểu Thố"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kelly Baskin"
+    },
+    {
+      "lang": "CHS",
+      "va": "蔡书瑾"
+    },
+    {
+      "lang": "JP",
+      "va": "石見舞菜香"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Yeon-woo"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 793.2582,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.6984,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 50.358,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

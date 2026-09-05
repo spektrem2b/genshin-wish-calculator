@@ -1,0 +1,52 @@
+{
+  "id": 15425,
+  "name": {
+    "EN": "Song of Stillness",
+    "CHS": "静谧之曲",
+    "CHT": "靜謐之曲",
+    "DE": "Gesang der Stille",
+    "ES": "Serenata del Sosiego",
+    "FR": "Chant de quiétude",
+    "ID": "Song of Stillness",
+    "IT": "Canto del silenzio",
+    "JP": "静寂の唄",
+    "KR": "고요한 노래",
+    "PT": "Canção do Silêncio",
+    "RU": "Мелодия покоя",
+    "TH": "Song of Stillness",
+    "TR": "Durgunluğun Şarkısı",
+    "VI": "Khúc Ca Tĩnh Lặng"
+  },
+  "nameEn": "Song of Stillness",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A strange longbow that resembles a sea creature. Its string makes no sound at all.",
+    "CHS": "外观奇异如海中生物的长弓，弦振之时似乎毫无声音。",
+    "CHT": "外觀奇異有如海中生物的長弓，弦振之時似乎毫無聲音。",
+    "DE": "Dieser skurrile Langbogen erinnert an ein Meerestier und seine Sehne ist absolut lautlos.",
+    "ES": "Un arco cuyo aspecto se asemeja a una criaturina marina. Su cuerda no produce ningún sonido al tensarse.",
+    "FR": "Un arc long étrange qui ressemble à une créature marine. Ses cordes ne produisent aucun son.",
+    "ID": "Sebuah busur panjang aneh yang mirip dengan makhluk laut. Senarnya begitu sunyi dan tidak mengeluarkan suara apa pun.",
+    "IT": "Uno strano arco lungo dall'aspetto simile a una creatura marina. La corda non emette alcun suono.",
+    "JP": "海中の生き物のように不思議な形をした長弓。弦を打っても音がしないらしい。",
+    "KR": "수중 생물처럼 독특하게 생긴 장궁. 활시위는 그 어떤 소리도 내지 않는 듯하다",
+    "PT": "Um arco longo com uma aparência estranha, semelhante a uma criatura marinha, que parece não emitir som quando a corda é tensionada.",
+    "RU": "Диковинного вида лук, похожий на морское создание. Его тетива абсолютно беззвучна.",
+    "TH": "ธนูที่มีรูปลักษณ์แปลกพิศวงเหมือนสิ่งมีชีวิตใต้ทะเล ยามง้างศรนั้นแทบจะไม่มีเสียงให้ได้ยินเลยสักนิด",
+    "TR": "Deniz canlılarını andıran tuhaf bir uzun yay. Kirişinden hiç ses çıkmaz.",
+    "VI": "Chiếc cung có hình dáng kỳ lạ như sinh vật dưới biển, khi rung dây cung hình như không chút tiếng động."
+  },
+  "icon": "generated/weapon-profiles/15425/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 11414,
+  "name": {
+    "EN": "Amenoma Kageuchi",
+    "CHS": "天目影打刀",
+    "CHT": "天目影打刀",
+    "DE": "Amenoma Kageuchi",
+    "ES": "Espada Amenoma Gemela",
+    "FR": "Lame kageuchi d'Amenoma",
+    "ID": "Amenoma Kageuchi",
+    "IT": "Spada delle ombre",
+    "JP": "天目影打",
+    "KR": "아메노마 카게우치가타나",
+    "PT": "Lâmina Amenoma Kageuta",
+    "RU": "Амэнома Кагэути",
+    "TH": "Amenoma Kageuchi",
+    "TR": "Amenoma Kageuchi",
+    "VI": "Đoản Đao Amenoma"
+  },
+  "nameEn": "Amenoma Kageuchi",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair.",
+    "CHS": "传说中连以神速见长的天狗都能斩落的名士订制的刀。",
+    "CHT": "傳說中連以神速見長的天狗都能斬落的名士定製的刀。",
+    "DE": "Ein Schwert, das auf Bestellung von einem berühmten Samurai angefertigt wurde, der, den Legenden nach, sogar den schnellsten Tengu-Krieger mühelos niederschlagen konnte.",
+    "ES": "Una espada que, según la leyenda, fue forjada a medida bajo petición de un famoso samurái que podía incluso clavársela en el aire a un guerrero tengu, conocidos por ser extremadamente veloces.",
+    "FR": "Une lame qui aurait été fabriquée sur commande pour un célèbre samouraï capable de trancher même le plus robuste des guerriers tengu, célèbres pour leur habileté à utiliser leur incroyable vitesse pour fendre les airs.",
+    "ID": "Pedang yang konon dibuat sesuai permintaan samurai terkenal yang bahkan sanggup memotong prajurit tengu. Pedang ini termasyhur karena kecepatannya, menebas tajam dari udara.",
+    "IT": "Una spada forgiata su misura per un celebre samurai, in grado di abbattere perfino un guerriero tengu a mezz'aria.",
+    "JP": "神速で名を馳せる天狗をも斬り墜とすという伝説を持つ、名士が発注した刀。",
+    "KR": "하늘을 나는 텐구 마저 벨 수 있다는 전설의 명사가 주문한 검",
+    "PT": "Uma lâmina que dizem ter sido feita sob encomenda por um famoso samurai que poderia até mesmo cortar do ar um guerreiro tengu, famoso por sua habilidade em usar sua incrível velocidade.",
+    "RU": "Клинок, сделанный специально для знаменитого самурая, который мог сразить ловкого тэнгу прямо в воздухе.",
+    "TH": "ตามตำนานกล่าวกันว่า นี่คือดาบที่ถูกสั่งทำขึ้นเป็นพิเศษโดยซามูไรที่มีชื่อเสียง ซึ่งแม้แต่เท็งงุที่รวดเร็วดั่งสายฟ้า ก็ยังสามารถฟันให้ร่วงลงมาได้",
+    "TR": "Ünlü bir samuray için dövülmüş özel bir kılıç. Bu samuray, inanılmaz çeviklikleriyle bilinen tengu savaşçılarını bile yere serebiliyormuş.",
+    "VI": "Thanh kiếm chế tạo theo lệnh của một samurai nổi tiếng. Theo truyền thuyết có thể nhanh chóng hạ gục ngay cả chiến binh Tengu thần tốc."
+  },
+  "icon": "generated/weapon-profiles/11414/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

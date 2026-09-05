@@ -1,0 +1,137 @@
+{
+  "id": "10000020",
+  "name": {
+    "EN": "Razor",
+    "CHS": "雷泽",
+    "CHT": "雷澤",
+    "DE": "Razor",
+    "ES": "Razor",
+    "FR": "Razor",
+    "ID": "Razor",
+    "IT": "Razor",
+    "JP": "レザー",
+    "KR": "레이저",
+    "PT": "Razor",
+    "RU": "Рэйзор",
+    "TH": "Razor",
+    "TR": "Razor",
+    "VI": "Razor"
+  },
+  "nameEn": "Razor",
+  "element": "Electro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 9,
+    "day": 9
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000020/avatar.webp",
+  "fullWish": "generated/character-profiles/10000020/full_wish.webp",
+  "fullWishObjectPosition": "53.3% 27.1%",
+  "title": {
+    "EN": "Wolf Boy",
+    "CHS": "狼少年",
+    "CHT": "狼少年",
+    "DE": "Wolfsjunge",
+    "ES": "El Niño-lobo",
+    "FR": "Enfant-loup",
+    "ID": "Wolf Boy",
+    "IT": "Ragazzo lupo",
+    "JP": "狼少年",
+    "KR": "늑대소년",
+    "PT": "Lobo Jovem",
+    "RU": "Инстинкт стаи",
+    "TH": "หนุ่มน้อยหมาป่า",
+    "TR": "Kurt Çocuk",
+    "VI": "Thiếu Niên Sói"
+  },
+  "description": {
+    "EN": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+    "CHS": "住在蒙德地区奔狼领，远离城市与人群，和狼一同生活的少年。直觉锐利，身姿迅捷。",
+    "CHT": "住在蒙德地區奔狼領，遠離城市與人群，和狼一起生活的少年。直覺銳利，身姿迅捷。",
+    "DE": "Ein Junge, der zusammen mit Wölfen in Wolfenlauf bei Mondstadt weit ab von den Menschen lebt. Seine Instinkte sind scharf und seine Bewegungen schnell.",
+    "ES": "Un chico que vive entre los lobos en el Reino de los Lobos de Mondstadt, lejos de la civilización. Es ágil como un relámpago.",
+    "FR": "Un jeune garçon qui vit sur le Territoire des Loups situé aux environs de Mondstadt, loin de la ville et des foules. Il possède un instinct et une agilité surprenante.",
+    "ID": "Seorang anak laki-laki yang tinggal di daerah Mondstadt. Jauh dari peradaban manusia dan tinggal di kalangan antara serigala di Wolvendom. Firasatnya tajam, tubuhnya lincah bagai kilat.",
+    "IT": "Un ragazzo che vive con i lupi nel Regno dei Lupi di Mondstadt, lontano dalla civiltà umana. Rapido come il fulmine.",
+    "JP": "人間の町から離れた、モンド地域の奔狼領で狼と暮らす少年。勘が鋭く、動きが俊敏。",
+    "KR": "몬드 지역의 울프 영지에서 사람과 도시를 피해 늑대와 함께 생활하는 소년. 예리한 직감과 민첩한 몸놀림을 가지고 있다",
+    "PT": "Um garoto que vive entre os lobos no Reino dos Lobos em Mondstadt, longe da civilização. É ágil como um relâmpago.",
+    "RU": "Мальчик, живущий среди волков в Вольфендоме у Мондштадта, вдали от цивилизации. Ловок как молния.",
+    "TH": "เด็กหนุ่มผู้ใช้ชีวิตร่วมกับหมาป่า ใน Wolvendom ซึ่งเป็นพื้นที่หนึ่งใน Mondstadt ที่ห่างไกลจากผู้คน มีปฏิกิริยาที่เฉียบแหลมและคล่องแคล่วว่องไว",
+    "TR": "Mondstadt'ın Kurtlar Diyarı'nda, uygarlıktan uzakta, kurtlar arasında yaşayan bir çocuk. Şimşek gibi çevik.",
+    "VI": "Thiếu niên sống cùng sói trong Lang Lãnh thuộc Mondstadt, tránh xa thành phố và loài người. Có trực giác nhạy bén, hành động nhanh nhạy."
+  },
+  "constellationName": {
+    "EN": "Lupus Minor",
+    "CHS": "小狼座",
+    "CHT": "小狼座",
+    "DE": "Lupus Minor",
+    "ES": "Lupus Minor",
+    "FR": "Lupus Minor",
+    "ID": "Lupus Minor",
+    "IT": "Lupus Minor",
+    "JP": "狼座",
+    "KR": "이리자리",
+    "PT": "Lupus Minor",
+    "RU": "Проворный Волчонок",
+    "TH": "Lupus Minor",
+    "TR": "Küçük Kurt",
+    "VI": "Cung Tiểu Lang"
+  },
+  "native": {
+    "EN": "Wolvendom",
+    "CHS": "奔狼领",
+    "CHT": "奔狼領",
+    "DE": "Wolfenlauf",
+    "ES": "Reino de los Lobos",
+    "FR": "Territoire des Loups",
+    "ID": "Wolvendom",
+    "IT": "Regno dei Lupi",
+    "JP": "奔狼領",
+    "KR": "울프 영지",
+    "PT": "Reino dos Lobos",
+    "RU": "Вольфендом",
+    "TH": "Wolvendom",
+    "TR": "Kurtlar Diyarı",
+    "VI": "Lang Lãnh"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Todd Haberkorn"
+    },
+    {
+      "lang": "CHS",
+      "va": "周帅"
+    },
+    {
+      "lang": "JP",
+      "va": "内山昂輝"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Seo-young"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1002.9701,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.5888,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.9475,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000048",
+  "name": {
+    "EN": "Yanfei",
+    "CHS": "烟绯",
+    "CHT": "煙緋",
+    "DE": "Yanfei",
+    "ES": "Yanfei",
+    "FR": "Yanfei",
+    "ID": "Yanfei",
+    "IT": "Yanfei",
+    "JP": "煙緋",
+    "KR": "연비",
+    "PT": "Yanfei",
+    "RU": "Янь Фэй",
+    "TH": "Yanfei",
+    "TR": "Yanfei",
+    "VI": "Yanfei"
+  },
+  "nameEn": "Yanfei",
+  "element": "Pyro",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 7,
+    "day": 28
+  },
+  "release": "2021-04-26T21:00:00",
+  "icon": "generated/character-profiles/10000048/avatar.webp",
+  "fullWish": "generated/character-profiles/10000048/full_wish.webp",
+  "fullWishObjectPosition": "46.9% 24.4%",
+  "title": {
+    "EN": "Wise Innocence",
+    "CHS": "智明无邪",
+    "CHT": "智明無邪",
+    "DE": "Naive Weisheit",
+    "ES": "La Letrada Inocente",
+    "FR": "Sage innocence",
+    "ID": "Wise Innocence",
+    "IT": "Saggia innocenza",
+    "JP": "無邪気な知恵",
+    "KR": "순수한 지혜",
+    "PT": "Inocência Sábia",
+    "RU": "Непорочная мудрость",
+    "TH": "ความไร้เดียงสาอันแสนแยบยล",
+    "TR": "Masum Bilgelik",
+    "VI": "Cơ Trí Ngây Thơ"
+  },
+  "description": {
+    "EN": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
+    "CHS": "活跃在璃月港的知名律法咨询师，混有仙兽血脉的精明少女。",
+    "CHT": "活躍在璃月港的知名律法諮詢師，混有仙獸血脈的精明少女。",
+    "DE": "Eine sehr bekannte Rechtsberaterin in Liyue und ein gescheites Mädchen mit dem Blut einer göttlichen Bestie in ihren Adern.",
+    "ES": "Una reconocida asesora legal que vive en Liyue. Esta joven tan perspicaz tiene parte de sangre de bestia iluminada.",
+    "FR": "Une célèbre conseillère juridique du Port de Liyue. Du sang d'Adepte coule dans les veines de cette jeune femme ingénieuse.",
+    "ID": "Seorang konsultan hukum yang terkenal di Liyue. Darah Adeptus juga mengalir di tubuh gadis muda ini.",
+    "IT": "Una consulente legale rinomata del Porto di Liyue. Una fanciulla geniale nelle cui vene scorre il sangue di una bestia illuminata.",
+    "JP": "仙獣の血が流れる聡明な少女。璃月港で有名な法律家として活躍している。",
+    "KR": "리월항에서 활동하는 유명 법률 자문가. 신수의 피가 흐르는 영리한 소녀이다",
+    "PT": "Uma Consultora Jurídica animada que vive no Porto de Liyue, é uma garota esperta com sangue da Besta Iluminada.",
+    "RU": "Известный консультант по юридическим вопросам из Ли Юэ. Проницательная девушка, в чьих венах течёт кровь Божественного зверя.",
+    "TH": "ที่ปรึกษาด้านกฎหมายผู้โด่งดังที่ประจำอยู่ที่ท่าเรือ Liyue หญิงสาวผู้ปราดเปรื่องที่มีสายเลือดสัตว์เวทผสมอยู่",
+    "TR": "Liyue Limanı'nda faaliyet gösteren tanınmış bir hukuk danışmanı. Damarlarında aydınlanmış bir yaratığın kanı akan zeki ve genç bir kadın.",
+    "VI": "Nhà cố vấn luật nổi tiếng hoạt động tại Liyue, là một thiếu nữ thông minh hoạt bát mang trong người huyết thống tiên thú."
+  },
+  "constellationName": {
+    "EN": "Bestia Iustitia",
+    "CHS": "法兽座",
+    "CHT": "法獸座",
+    "DE": "Bestia Iustitia",
+    "ES": "Bestia Iustitia",
+    "FR": "Bestia Iustitia",
+    "ID": "Bestia Iustitia",
+    "IT": "Bestia Iustitia",
+    "JP": "法獣座",
+    "KR": "법수자리",
+    "PT": "Bestia Iustitia",
+    "RU": "Волшебный Зверь",
+    "TH": "Bestia Iustitia",
+    "TR": "Adalet Yaratığı",
+    "VI": "Cung Pháp Thú"
+  },
+  "native": {
+    "EN": "Yanfei Legal Consultancy",
+    "CHS": "烟绯律法咨询事务所",
+    "CHT": "煙緋律法諮詢事務所",
+    "DE": "Yanfeis Rechtsberatung",
+    "ES": "Oficina de Asesoría Jurídica de Yanfei",
+    "FR": "Cabinet juridique de Yanfei",
+    "ID": "Yanfei Legal Consultancy",
+    "IT": "Consulenza legale Yanfei",
+    "JP": "煙緋法律事務所",
+    "KR": "연비 법률 자문 사무소",
+    "PT": "Escritório de Advocacia de Yanfei",
+    "RU": "Юридическая консультация Янь Фэй",
+    "TH": "สำนักงานที่ปรึกษาด้านกฎหมาย Yanfei",
+    "TR": "Yanfei Hukuk Müşavirliği",
+    "VI": "Văn Phòng Tư Vấn Luật Yanfei"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Lizzie Freeman"
+    },
+    {
+      "lang": "CHS",
+      "va": "苏子芜"
+    },
+    {
+      "lang": "JP",
+      "va": "花守ゆみり"
+    },
+    {
+      "lang": "KR",
+      "va": "Jo Kyeong-i"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_FIRE_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 784.14026,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.12304,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 49.2135,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

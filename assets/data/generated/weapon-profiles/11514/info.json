@@ -1,0 +1,52 @@
+{
+  "id": 11514,
+  "name": {
+    "EN": "Uraku Misugiri",
+    "CHS": "有乐御簾切",
+    "CHT": "有樂御簾切",
+    "DE": "Uraku Misugiri",
+    "ES": "Cortatelones de Urakusai",
+    "FR": "Uraku Misugiri",
+    "ID": "Uraku Misugiri",
+    "IT": "Uraku Misugiri",
+    "JP": "有楽御簾切",
+    "KR": "우라쿠의 미스기리",
+    "PT": "Urakugo Rensai",
+    "RU": "Ураку мисугири",
+    "TH": "Uraku Misugiri",
+    "TR": "Uraku Misugiri",
+    "VI": "Uraku Misugiri"
+  },
+  "nameEn": "Uraku Misugiri",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "This famous blade was once created by the hand of Urakusai, the renowned literatus. Legend has it that it has never cut any living creature in all these hundreds of years.",
+    "CHS": "曾由著名的风雅之士有乐斋亲自监制的名剑，传说在过去数百年间不尝斩过活物。",
+    "CHT": "曾由著名的風雅之士有樂齋親自監製的名劍，傳說在過去數百年間不嘗斬過活物。",
+    "DE": "Dieses berühmte Schwert wurde einst von Urakusai, dem berühmten Literaten, persönlich geschaffen. Die Legende besagt, dass es in all den Jahrhunderten noch nie ein Lebewesen verletzt hat.",
+    "ES": "Una espada forjada bajo la supervisión del ilustre Urakusai. Cuenta la leyenda que no le ha quitado la vida a ningún ser vivo en los últimos siglos.",
+    "FR": "Cette lame célèbre a été créée par la main d'Urakusai, le lettré renommé. La légende raconte qu'elle n'a coupé aucune créature vivante depuis ces centaines d'années.",
+    "ID": "Pedang terkenal yang dibuat langsung oleh Urakusai — orang yang paling berseni dan berbudaya. Konon katanya, pedang ini tidak pernah menebas makhluk hidup sama sekali selama ratusan tahun.",
+    "IT": "Questa celeberrima lama è opera di Urakusai, il famoso intellettuale. Leggenda vuole che in questi secoli non abbia mai ferito alcuna creatura vivente.",
+    "JP": "かつて、風雅の名士である有楽斎が直々に監製した名剣。伝説によれば、数百年もの間、一度も生き物を斬ったことがないという。",
+    "KR": "유명한 풍류가 우라쿠사이가 직접 감독해 제작한 명검. 수백 년 동안 살아 있는 존재를 벤 적이 없다고 전해진다",
+    "PT": "Uma espada forjada sob a supervisão do ilustre Urakusai. Reza a lenda que ela nunca tirou a vida de nenhum ser vivo nos últimos séculos.",
+    "RU": "Знаменитый клинок, собственноручно выкованный прославленным литератором Уракусаем. Согласно легенде, за все эти столетия он не навредил ни единому живому существу.",
+    "TH": "ดาบอันโด่งดังที่ครั้งหนึ่งถูกสร้างขึ้นโดย Urakusai ผู้สง่างาม กล่าวกันว่าตลอดหลายร้อยปีที่ผ่านมา มันไม่เคยฟันสิ่งมีชีวิตใดเลย",
+    "TR": "Bu meşhur kılıcı ünlü bilgin Urakusai kendi elleriyle yapmıştır. Efsaneye göre asırlardır hiçbir canlıyı kesmemiştir.",
+    "VI": "Thanh kiếm nổi tiếng từng được tạo ra bởi bàn tay của Urakusai, một học giả trứ danh. Truyền thuyết kể rằng nó chưa bao giờ chém bất kỳ sinh vật sống nào trong suốt hàng trăm năm qua."
+  },
+  "icon": "generated/weapon-profiles/11514/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

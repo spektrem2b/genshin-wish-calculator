@@ -1,0 +1,52 @@
+{
+  "id": 15433,
+  "name": {
+    "EN": "Snare Hook",
+    "CHS": "罗网勾针",
+    "CHT": "羅網勾針",
+    "DE": "Netzhaken",
+    "ES": "Gancho Trampero",
+    "FR": "Crochet de capture",
+    "ID": "Snare Hook",
+    "IT": "Gancio trappola",
+    "JP": "羅網の針",
+    "KR": "그물을 뚫는 화살",
+    "PT": "Gancho da Armadilha",
+    "RU": "Крюк силка",
+    "TH": "Snare Hook",
+    "TR": "Kapan Kancası",
+    "VI": "Móc Cạm Bẫy"
+  },
+  "nameEn": "Snare Hook",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "The stave of this bow is comprised of metal alloy and yet remains surprisingly light. Even when faced with thick, heavy snares, the arrows it fires can pass through unhindered.",
+    "CHS": "弓身由合金构件所组成，却意外轻盈。即便面对重重罗网，所发的箭矢依然能灵巧穿梭，自由无碍。",
+    "CHT": "弓身由合金構件所組成，卻意外輕盈。即便面對重重羅網，所發的箭矢依然能靈巧穿梭，自由無礙。",
+    "DE": "Der Bogen besteht aus einer Metalllegierung und ist dennoch überraschend leicht. Selbst bei dicken, schweren Fallen können die abgeschossenen Pfeile ungehindert hindurchfliegen.",
+    "ES": "Un arco hecho de una aleación de metales, pero que no resulta nada pesado. Las flechas que dispara pueden atravesar cualquier obstáculo, incluso aunque se topen con trampas gruesas.",
+    "FR": "La tige de cet arc est composée d'un alliage métallique, tout en restant étonnamment légère. Même face à des pièges épais et lourds, les flèches qu'il tire passent sans encombre.",
+    "ID": "Busur yang terbuat dari komponen logam paduan, namun ternyata sangat ringan. Bahkan saat menghadapi jaring yang berat, anak panah yang ditembakkan darinya tetap dapat bergerak dengan lincah dan bebas.",
+    "IT": "Il corpo centrale e i flettenti di questo arco sono realizzati in lega metallica, ma ciononostante risulta sorprendentemente leggero. Le sue frecce sono in grado di trapassare ogni cosa senza alcun impedimento.",
+    "JP": "弓柄が合金で作られた弓。想像よりも軽く、幾重もの網に向かって矢を放っても、難なく突き抜ける。",
+    "KR": "합금 활대로 만든 활. 의외로 가볍고, 겹겹의 그물도 화살로 거침없이 꿰뚫는다",
+    "PT": "Esse arco é composto de ligas metálicas, e ainda assim é surpreendentemente leve. Mesmo quando é fortemente retesado, as flechas que dispara passam sem dificuldade.",
+    "RU": "Хотя древко сделано из металла, этот лук на удивление лёгкий. Даже если впереди толстые, тяжёлые силки, выпущенные из него стрелы проходят сквозь них легко и свободно.",
+    "TH": "คันธนูที่มีส่วนประกอบเป็นโลหะผสม แต่กลับมีน้ำหนักเบากว่าที่คิด แม้ต้องเผชิญหน้ากับอาวุธมากมาย ลูกธนูที่ยิงออกไปก็ยังคงพุ่งผ่านไปได้อย่างคล่องแคล่วไร้สิ่งใดกีดขวาง",
+    "TR": "Metal bir alaşımdan yapılmış olmasına rağmen gövdesi şaşırtıcı derecede hafif bir yay. Fırlattığı oklar, kalın ve ağır ağların bile rahatlıkla içinden geçebilir.",
+    "VI": "Thân cung được tạo nên từ các linh kiện hợp kim, nhưng lại cực kỳ nhẹ nhàng. Ngay cả khi đối mặt với nhiều mạng lưới cạm bẫy, thì mũi tên bắn ra vẫn có thể di chuyển linh hoạt mà không bị cản trở."
+  },
+  "icon": "generated/weapon-profiles/15433/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

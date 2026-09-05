@@ -1,0 +1,52 @@
+{
+  "id": 14515,
+  "name": {
+    "EN": "Crane's Echoing Call",
+    "CHS": "鹤鸣余音",
+    "CHT": "鶴鳴餘音",
+    "DE": "Widerhallender Ruf des Kranichs",
+    "ES": "Reverberación de la Grulla",
+    "FR": "Écho de la grue",
+    "ID": "Crane's Echoing Call",
+    "IT": "Canto della gru echeggiante",
+    "JP": "鶴鳴の余韻",
+    "KR": "학의 여음",
+    "PT": "Chamado Ecoante da Garça",
+    "RU": "Звонкий клич журавля",
+    "TH": "Crane's Echoing Call",
+    "TR": "Turnam Selam Götür",
+    "VI": "Dư Âm Tiếng Hạc"
+  },
+  "nameEn": "Crane's Echoing Call",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A fan carved from pure jade, around which swirls an ancient aura of adeptal energy.",
+    "CHS": "由纯净的翡玉琢刻而成的宝扇，萦绕着古老的仙力气息。",
+    "CHT": "由純淨的翡玉琢刻而成的寶扇，縈繞著古老的仙力氣息。",
+    "DE": "Ein kostbarer Fächer, der aus reiner Jade geschnitzt ist und die uralte Aura von Adeptenkraft ausstrahlt.",
+    "ES": "Un abanico hecho de jade esmeralda de gran pureza, y que aún parece contener un antiguo poder adéptico.",
+    "FR": "Un éventail sculpté dans du jade pur, autour duquel tourbillonne une ancienne aura d'énergie mystique.",
+    "ID": "Kipas pusaka yang dibentuk dari giok yang murni, dipenuhi dengan aura Kekuatan Adeptus kuno.",
+    "IT": "Un ventaglio fabbricato in pura giada, attorno a cui aleggia l'aura di un'antica energia adeptica.",
+    "JP": "純粋な翡翠で作られた扇子。古の仙力の気配を感じる。",
+    "KR": "순수한 비취옥으로 만든 부채. 오래된 선력 기운이 감돈다",
+    "PT": "Um leque esculpido em jade puro, ao redor do qual circula uma antiga aura de Força Adepti.",
+    "RU": "Изысканное оружие в форме веера, вырезанное из чистого нефрита. Окутано аурой древней силы Адептов.",
+    "TH": "พัดล้ำค่าที่แกะสลักจากหยกบริสุทธิ์ เปี่ยมไปด้วยกลิ่นอายของพลังเซียนโบราณ",
+    "TR": "Saf yeşimden yapılmış ve etrafında Adeptus enerjisinden kadim esintiler bulunan bir yelpaze.",
+    "VI": "Chiếc quạt được chạm khắc từ ngọc phỉ thuý tinh khiết, có hào quang của tiên lực cổ xưa."
+  },
+  "icon": "generated/weapon-profiles/14515/avatar.webp",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.036,
+  "substat_lvl90": 0.1654,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

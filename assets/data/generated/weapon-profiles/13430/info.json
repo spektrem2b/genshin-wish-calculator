@@ -1,0 +1,52 @@
+{
+  "id": 13430,
+  "name": {
+    "EN": "Mountain-Bracing Bolt",
+    "CHS": "镇山之钉",
+    "CHT": "鎮山之釘",
+    "DE": "Bergschützer-Bolzen",
+    "ES": "Púa Sustentamontañas",
+    "FR": "Clou soutenant les montagnes",
+    "ID": "Mountain-Bracing Bolt",
+    "IT": "Chiodo reggimonti",
+    "JP": "鎮山の釘",
+    "KR": "산을 고정하는 못",
+    "PT": "Prego Esmagador de Montanhas",
+    "RU": "Крепящий горы шип",
+    "TH": "Mountain-Bracing Bolt",
+    "TR": "Dağ Sürgüsü",
+    "VI": "Mũi Đinh Trấn Núi"
+  },
+  "nameEn": "Mountain-Bracing Bolt",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "This polearm was once jointly forged by the craftsmen in the mines as a sacrifice to the spirits of the mountains.",
+    "CHS": "矿山的工匠们合力锻造的长枪，在过去是献给群山之灵的贡物。",
+    "CHT": "礦山的工匠們合力鍛造的長槍，在過去是獻給群山之靈的貢物。",
+    "DE": "Ein Speer, der von den Handwerkern der Minen gemeinsam geschmiedet wurde. In der Vergangenheit wurde er den Geistern der Berge als Opfergabe dargebracht.",
+    "ES": "Una lanza forjada en conjunto por los artesanos de las minas. En el pasado, fue una ofrenda que se le entregó a las montañas.",
+    "FR": "Cette arme d'hast était autrefois fabriquée par des artisans dans les mines pour servir de sacrifice aux esprits des montagnes.",
+    "ID": "Tombak yang pernah dibuat oleh pengrajin di tambang. Pada zaman dulu, pernah dijadikan bahan persembahan kepada para peri di pegunungan.",
+    "IT": "Un'arma inastata forgiata collettivamente dagli artigiani delle miniere come sacrificio agli spiriti delle montagne.",
+    "JP": "鉱山の職人たちが力を合わせて鍛え上げた長槍。昔、山々の霊に献上されていた。",
+    "KR": "광산 장인들이 힘을 합쳐 단조한 장창. 뭇 산의 영혼에게 바치는 공물이었다고 한다",
+    "PT": "Esta arma de haste foi feita por artesãos nas minas como um sacrifício para os espíritos das montanhas.",
+    "RU": "Это копьё выковали мастера рудников, чтобы преподнести его духам гор.",
+    "TH": "หอกที่ช่างฝีมือในเหมือง ตีหลอมขึ้นมา ในอดีตนั้นถูกสร้างขึ้นมา เพื่ออุทิศให้กับวิญญาณแห่งขุนเขา",
+    "TR": "Bu mızrak, madenlerdeki zanaatkarlar tarafından dağın ruhlarına adak olarak dövülmüş.",
+    "VI": "Thương dài được các thợ mỏ hợp sức rèn ra, trước đây là cống phẩm hiến tế cho các linh hồn trong dãy núi."
+  },
+  "icon": "generated/weapon-profiles/13430/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

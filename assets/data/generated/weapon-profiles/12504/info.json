@@ -1,0 +1,52 @@
+{
+  "id": 12504,
+  "name": {
+    "EN": "The Unforged",
+    "CHS": "无工之剑",
+    "CHT": "無工之劍",
+    "DE": "Grobes Schwert",
+    "ES": "Espada de la Desidia",
+    "FR": "Lame brute",
+    "ID": "The Unforged",
+    "IT": "Spadone grezzo",
+    "JP": "無工の剣",
+    "KR": "무공의 검",
+    "PT": "Espada Áspera",
+    "RU": "Некованый",
+    "TH": "The Unforged",
+    "TR": "Kötülüksavar",
+    "VI": "Kiếm Vô Công"
+  },
+  "nameEn": "The Unforged",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.",
+    "CHS": "能靖祛妖魔奸佞，仿佛有神威的无锋大剑。",
+    "CHT": "能靖祛妖魔佞，彷彿有神威的無鋒大劍。",
+    "DE": "Ein Großschwert, das böse Geister und Menschen gleichsam vertreiben kann. Es scheint keine scharfe Kante zu haben und doch göttliche Kraft zu besitzen.",
+    "ES": "Espada sin filo capaz de acabar con demonios y villanos. ¿Tendrá poderes divinos?",
+    "FR": "Capable d'éloigner les esprits et les individus mal intentionnés, cette épée à deux mains dénuée de tranchant est habitée par une puissance divine.",
+    "ID": "Pedang tanpa ujung yang memiliki kekuatan hebat untuk mengusir iblis.",
+    "IT": "Capace di scacciare gli spiriti maligni e le persone malvagie, questa claymore sembra possedere una sorta di potere divino.",
+    "JP": "悪人を討ち、妖魔を退治する大剣。刃はないが、その力は神を彷彿させる。",
+    "KR": "요괴를 물리칠 수 있으며, 신의 힘이 깃든 듯한 날이 없는 대검",
+    "PT": "Capaz de afastar tanto os espíritos malignos quanto as pessoas maléficas, este Espadão sem fio parece possuir o poder divino.",
+    "RU": "Двуручный меч без острия, способный изгонять нечистую силу и карать предателей. Он будто наделён божественной силой.",
+    "TH": "ดาบใหญ่ที่สามารถกำจัดอสูร ได้ราวกับมีพลังเทพเจ้าอันน่าเกรงขาม",
+    "TR": "Kötü ruhları ve insanları kovabilen bu çift elli kılıç, ilahi bir güce sahip.",
+    "VI": "Thanh kiếm sắc bén có thể trừ yêu diệt ma, tựa như có uy lực của thần linh vậy."
+  },
+  "icon": "generated/weapon-profiles/12504/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

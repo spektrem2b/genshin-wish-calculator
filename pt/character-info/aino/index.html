@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="pt" data-active-tab="character-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aino Build, Talents &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="Aino talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:title" content="Aino Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="Aino talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/aino/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Aino Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Aino talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/aino/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/aino/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/character-info/aino/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/character-info/aino/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/character-info/aino/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/character-info/aino/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/character-info/aino/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/character-info/aino/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/character-info/aino/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/aino/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/character-info/aino/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/character-info/aino/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/character-info/aino/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/character-info/aino/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/character-info/aino/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/character-info/aino/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/aino/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br>Calculadora de Desejos</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Planejador de Desejos</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">Chances 4★</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Simulador</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Build</button>
+            <button type="button" id="tabInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Personagens</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Armas</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Outros</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">Configurações</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="ciCharacterSwitch" aria-label="Switch character" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="ciCharacterSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="ciContent">
+            
+          <div class="ci-hero">
+              <img class="ci-hero-portrait" src="assets/data/generated/character-profiles/10000121/full_wish.webp" alt="" data-gi-fallback="retry">
+              <div class="ci-hero-info">
+                  <div class="ci-hero-name">Aino</div>
+                  <div class="ci-hero-title">"Máquinas Milagrosas Trim-Trim-Bum"</div>
+                  <div class="ci-hero-stars">★★★★</div>
+                  <div class="ci-hero-facts">
+                      
+          <div class="ci-hero-fact">
+              <svg class="ci-hero-fact-icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1600 1600"><path d="M898.406 151.09c52.5 7.4 109.9 24.6 167.5 50.2 79 35.1 151.7 86.4 207.1 146.2 57.9 62.5 104.5 137.2 140.3 225.2 21.9 53.7 32.9 102.6 39.8 176.3 2.405 23.414 2.66 87.392-.5 113.5-4.1 42.1-17.6 106.2-30.7 145.5-23.1 69.5-57.9 133.2-109.8 200.8-12.9 16.7-41.7 47.2-65.6 69.4-88.1 81.8-188.1 135.6-299.8 161.2-55.8 12.9-86.025 16.584-149.325 16.584-41-.1-51.175-1.084-82.475-4.584-26.4-2.9-87.5-16.5-119.3-26.6-62.6-19.7-120.9-60.2-172.9-120.4-5.856-5.856-9.858-12.803-9.858-12.803s13.758 7.003 29.358 14.903c76.2 38.8 144 64 201.7 75 7.4 1.4 15.8 3 18.5 3.5 11.9 2.2 45 6.3 66 8 7.2.6 17.3 1.5 22.5 2 17.7 1.7 51.1 2.2 68.7 1.1 47.7-3.1 78.9-10.2 118.5-27 67-28.5 124-78.8 163.5-144.6 40.7-67.7 58.6-159.5 45.8-235.1-10.5-62.2-36.1-120.1-74.2-167.9-11.1-14-38.8-41.8-52-52.2-58.3-46.1-120-70.2-200.8-78.4-16.6-1.6-49.9-.6-67.9 2.1-16.5 2.5-21.1 3.5-47.1 10.5-23.1 6.2-27.8 7.2-39.8 8.4-10.5 1-22.6-.1-31.6-3-28.8-9.2-52.2-36.6-58.7-68.8-2.2-11.2-1.5-30.4 1.5-40.9 7.6-26.2 25.1-45.3 53.1-58.1 15.9-7.1 55.8-19.4 78.7-24 64.1-13.1 138.7-11.8 197.8 3.4 14.2 3.7 44.6 13.7 62 20.5 58.3 22.8 112.9 58.9 156.5 103.7 34.6 35.5 61.5 73.3 83.9 118 24.8 49.7 36.9 89 44.2 143.8 4.139 34.168 4.457 74.338 2 96-3.2 38-8.7 66.9-18.6 97-17.8 54.1-43.9 103.5-76.8 146-26 33.4-60.3 66.4-95.9 92.2-8.9 6.5-63.6 38.4-74.6 43.6-4.125 1.95-12.063 5.652-12.063 5.652s12.026-4.052 21.963-8.052c19.1-7.6 47.4-21.9 68.3-34.4 75-45.1 130.4-96.9 174.1-163 43.2-65.2 75.6-151.9 84.4-225.5 5.2-42.8 5.9-94.6 2-130.5-1.4-12.4-8.7-51.5-13.3-71.3-15.7-66.6-48.5-134.6-92-190.7-25.1-32.2-61.6-68.5-97.1-96.2-33.8-26.4-75.3-52.7-105.4-66.7-72.5-33.9-174.8-52.2-259.6-46.6-33.7 2.3-62.7 7.5-98.5 17.9-93 26.9-173.9 74.1-236 137.7-16.6 17-25.5 27.6-42 49.9-21.1 28.5-34.9 39.2-57.1 44.1-9.1 2-26.8 2.2-36.9.5-31.6-5.5-58.5-23.6-70.4-47.4-7.5-14.8-9.4-30-6-47.7 5.5-29.3 20.4-55.3 63.3-110.3 22.2-28.5 33-41 52.4-60.6 33.6-33.9 65.9-60.1 104.7-84.8 67.3-43 155.3-80.2 220.5-93.2 27.9-5.6 67.9-11.9 82.5-13.1 8-.6 19-1.5 24.5-1.9 34.4-2.7 93.7-.1 137 6m-677.5 571c-22 4.6-33.6 10.6-47.6 24.4-19.8 19.6-29.6 43.5-28.1 68.7 2.2 37.6 29.6 71.4 66.4 82 11.4 3.3 33.3 3.3 44.8 0 9.3-2.7 22.3-8.6 29.2-13.3 17.1-11.7 31.3-31.5 36.5-51.1 3.1-11.7 3.1-31.8-.1-43.3-8.2-30.3-32.3-56.1-61.1-65.3-14.5-4.7-25-5.2-40-2.1m549.5 161.5c-34 3.1-71.7 16.3-99.3 34.7-55.8 37.4-93.3 91.3-105.1 151.2-7.3 37.3-4.5 82.6 7.5 119 6.5 19.6 17.1 41.9 26.5 55.8 30.4 45 73.3 77.4 125.9 95.2 34.5 11.8 82.5 14 120.6 5.6 52.7-11.5 104.6-46 139.2-92.5 2.72-3.626 5.677-7.914 8.172-11.745 3.56-5.467 6.19-11.033 6.19-11.033s-5.179 3.228-11.097 8.216c-4.595 3.872-10.159 8.874-15.665 14.162-17.9 17.1-35.9 29.8-60.8 42.9-43.9 22.9-86.8 29.7-132.5 20.8-60.2-11.6-113.3-57.1-130.5-111.9-6.4-20.1-8.5-50.6-5.1-71.7 3.7-23.1 14.7-43.4 33.2-61.5 10.5-10.3 32.3-26.5 42.5-31.6 12.3-6.2 31-10.5 45.3-10.4 22 0 44.2 7.3 57.3 18.8 11 9.6 17.2 21 26.7 48.4 10.4 30 18.1 43.8 31.8 56.6 14.7 13.7 32.598 21.126 53.498 21.026 13.6 0 23.102-2.526 34.302-8.126 10.7-5.4 16.6-10.1 23.9-19.4 12.6-15.9 20.8-33.4 23.9-50.8 2.312-11.714 1.644-26.07-.4-39.8-4.4-25.3-17.7-58.8-31.3-79.1-30.5-45.2-90.1-82.8-143.2-90.4-28.6-4.1-46.4-4.7-71.5-2.4m-426 153.4c-12.5 1.5-23.8 6.4-32.8 14.1-10.7 9.2-19.5 25.9-21.6 40.9-4.9 35.6 25.8 69.9 62.9 70.4 16.9.2 31.5-5.9 44-18.4 8.7-8.6 13.1-16.2 16-27.6 6.3-24.4-1.9-51-20.4-66.3-12.1-9.9-31.3-15.2-48.1-13.1" style="fill:#00c0ff"></path></svg>
+              <span class="ci-hero-fact-value">Hydro</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/weapon_types_icons/Icon_Claymore_type.webp" alt="" data-gi-fallback="hide">
+              <span class="ci-hero-fact-value">Claymore</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/region_icons/nodkrai.webp" alt="" data-gi-fallback="swap" data-gi-fallback-src="assets/data/design/region_icons/unknown-region.webp">
+              <span class="ci-hero-fact-value">Nodkrai</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Birthday</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">September 21</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Released</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">September 8, 2025</span>
+          </div>
+                  </div>
+                  <p class="ci-hero-desc">Uma gênio mecânica de Nod-Krai, gosta muito de máquinas divertidas e doces.</p>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Constellation</span> Cistellula Mira &nbsp;•&nbsp; <span class="ci-hero-meta-label">Affiliation</span> Oficina de Rolinho de Ovo Trilimlim</div>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Voice Actors</span> EN: Annabel Brook   ·   CN: 葛子瑞   ·   JP: 高森奈津美   ·   KR: Jo Kyeong-i</div>
+                  
+          <div class="ci-hero-guides">
+              <div class="ci-hero-guides-label">Guides</div>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://genshin-impact-helper-team.github.io/genshin-builds/en/aino" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/genshin-builds-guide.webp" alt="">
+                  Genshin Builds
+              </a>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://www.prydwen.gg/genshin-impact/characters/aino#build" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/prydwen-guide.webp" alt="">
+                  Prydwen
+              </a>
+              <div class="ci-hero-guides-row">
+                  <a class="ci-hero-guide-btn" href="https://www.icy-veins.com/genshin-impact/aino-guide-best-builds" target="_blank" rel="noopener noreferrer" title="Icy Veins">
+                      <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/icy-veins-guide.webp" alt="">
+                      Icy Veins
+                  </a>
+              </div>
+          </div>
+                  
+          <div class="ci-hero-nav-label">Navigation</div>
+          <div class="ci-hero-nav">
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-talents">Talents</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-const">Constellations</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-passives">Passives</a>
+          </div>
+              </div>
+              <div class="ci-hero-side">
+                  <div class="ci-hero-stats">
+                      <div class="ci-hero-stats-head">
+                          <div class="ci-hero-stats-title">Base Stats</div>
+                          <div class="ci-stat-level-toggle" role="group" aria-label="Comparison level"><button type="button" class="ci-stat-level-btn active" data-stat-level="90">90</button><button type="button" class="ci-stat-level-btn" data-stat-level="95">95</button><button type="button" class="ci-stat-level-btn" data-stat-level="100">100</button></div>
+                      </div>
+                      <div id="ciBaseStatsBody"><div class="ci-stats">
+          <div class="ci-stats-row"><span>HP</span><span>939 → 7,841</span></div>
+          <div class="ci-stats-row"><span>ATK</span><span>20 → 169</span></div>
+          <div class="ci-stats-row"><span>DEF</span><span>51 → 425</span></div>
+          <div class="ci-stats-row"><span>Ascension Stat</span><span>Elemental Mastery +96</span></div></div></div>
+                  </div>
+                  <div class="ci-hero-materials">
+                      <div class="ci-hero-stats-title">Ascension Materials</div>
+                      <div class="ci-hero-mat-list">
+          <div class="ci-hero-mat-item" title="Rolamento Portátil">
+              <img src="assets/data/generated/shared-assets/materials/101257.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Rolamento Portátil</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Carimbo de Precisão de Kuuvahki">
+              <img src="assets/data/generated/shared-assets/materials/113077.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Carimbo de Precisão de Kuuvahki</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Gema de Lazurita Varunada">
+              <img src="assets/data/generated/shared-assets/materials/104124.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Gema de Lazurita Varunada</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Coroa da Sabedoria">
+              <img src="assets/data/generated/shared-assets/materials/104319.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Coroa da Sabedoria</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Eixo de Precisão">
+              <img src="assets/data/generated/shared-assets/materials/112124.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Eixo de Precisão</span>
+          </div></div>
+                  </div>
+              </div>
+          </div>
+            <div class="ci-layout">
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-layout">
+                        <div class="ci-talent-tabs">
+                            
+          <button type="button" class="ci-talent-tab active" data-talent-idx="0">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000016/skills/00_normal_attack.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Reparo Bang-Bang</span>
+                  <span class="ci-talent-summary-type">Normal Attack</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="1">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000121/skills/01_skill.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Captura de Ideias</span>
+                  <span class="ci-talent-summary-type">Elemental Skill</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="2">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000121/skills/02_burst.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Dispositivo Refrigerador Preciso</span>
+                  <span class="ci-talent-summary-type">Elemental Burst</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+                        </div>
+                        <div class="ci-talent-detail" id="ciTalentDetail">
+                            
+          <div class="ci-talent-detail-inner">
+              <div class="ci-talent-detail-flavor">
+                  <div class="ci-talent-flavor">Ataque Normal
+Realiza até 3 golpes consecutivos.
+
+Ataque Carregado
+Drena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.
+Ao final da sequência, realiza um corte poderoso.
+
+Ataque Imersivo
+Mergulha em pleno ar para golpear o chão, causando dano aos inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.</div>
+                  
+              </div>
+              <div class="ci-talent-detail-stats">
+                  <div class="ci-level-slider-row">
+                      <span class="ci-level-slider-label">Level</span>
+                      <span class="ci-level-slider-value">1</span>
+                      <span class="ci-level-slider-bound">1</span>
+                      <input type="range" class="ci-level-slider" id="ciTalentLevelSlider" aria-label="Talent level" min="1" max="15" step="1" value="1">
+                      <span class="ci-level-slider-bound">15</span>
+                  </div>
+                  <div class="ci-level-stats" id="ciTalentLevelStats">
+                      
+          <div class="ci-level-stats-title">Level 1</div>
+          <div class="ci-level-stats-rows">
+              <div class="ci-level-stats-row"><span>Dano do 1° Golpe</span><span>66.5%</span></div><div class="ci-level-stats-row"><span>Dano do 2° Golpe</span><span>66.2%</span></div><div class="ci-level-stats-row"><span>Dano do 3° Golpe</span><span>49.2%*2</span></div><div class="ci-level-stats-row"><span>Dano de Loop de Ataque Carregado</span><span>62.5%</span></div><div class="ci-level-stats-row"><span>Dano Final de Ataque Carregado</span><span>113.1%</span></div><div class="ci-level-stats-row"><span>Consumo de Stamina de Ataque Carregado</span><span>40.0/s</span></div><div class="ci-level-stats-row"><span>Duração Máxima</span><span>5.0s</span></div><div class="ci-level-stats-row"><span>Dano Durante a Queda</span><span>74.6%</span></div><div class="ci-level-stats-row"><span>Dano de Queda de Baixa/Alta Altitude</span><span>149.1%/186.3%</span></div>
+          </div>
+                  </div>
+              </div>
+          </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-const" class="ci-panel">
+                            <h2 class="ci-panel-title">Constellations</h2>
+                            <div class="ci-const-list">
+                                
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000121/constellations/00_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C1</span>Teoria do Equilíbrio do Campo de Cinzas</div>
+                  <div class="ci-const-desc">Depois que Aino lança sua Habilidade Elemental Captura de Ideias ou o Supremo Dispositivo Refrigerador Preciso, aumenta sua Proficiência Elemental em 80, e a Proficiência Elemental dos outros personagens ativos próximos em 80 por 15s.
+
+O efeito de aumento de Proficiência Elemental dessa Constelação não é acumulável.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000121/constellations/01_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C2</span>O Princípio da Transferência em Diferenciais de Engrenagens</div>
+                  <div class="ci-const-desc">Quando a Zona Focada Hydro do Supremo Dispositivo Refrigerador Preciso está em sua duração, se Aino não for a personagem ativa, e o personagem ativo da equipe atingir um ataque no inimigo próximo, Patinho Fica Frio dispara um Projétil Aquático adicional nesse inimigo, causando Dano Hydro em AdE equivalente a 100% da Proficiência Elemental e 25% do ATQ de Aino. Esse efeito pode ser desencadeado uma vez a cada 5s, e seu Dano é considerado Dano de Supremo.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000121/constellations/02_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C3</span>O Bolo e a Arte do Reparo Mecânico</div>
+                  <div class="ci-const-desc">Aumenta o nível do Supremo Dispositivo Refrigerador Preciso em 3.
+O nível máximo de elevação é 15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000121/constellations/03_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C4</span>Manteiga, Gatos e a Lei da Energia</div>
+                  <div class="ci-const-desc">Quando a Habilidade Elemental Captura de Ideias atinge um inimigo, regenera 10 de Energia para Aino. É possível regenerar Energia uma vez a cada 10s dessa forma.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000121/constellations/04_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C5</span>A Turbina Perpétua de Metal e Luz</div>
+                  <div class="ci-const-desc">Aumenta o nível da Habilidade Elemental Captura de Ideias em 3 níveis. 
+O nível máximo de elevação é 15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000121/constellations/05_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C6</span>A Responsabilidade de um Gênio Mecânico</div>
+                  <div class="ci-const-desc">Nos 15s depois de lançar o Supremo Dispositivo Refrigerador Preciso, se um personagem ativo próximo desencadear Eletricamente Carregado, Florescimento, Carga Lunar, Florescimento Lunar ou Cristalização Lunar aumenta o Dano causado em 15%.
+Presságio Lunar: Reluzir Cheio: aumenta o Dano da reação em mais 20%.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-passives" class="ci-panel">
+                            <h2 class="ci-panel-title">Passives</h2>
+                            <div class="ci-passive-list">
+                                
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000121/skills/03_passive_1.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Protocolo de Eficiência Modular</div>
+                  <div class="ci-passive-desc">Dependendo do Presságio Lunar da equipe, Aino obtém fortalecimentos correspondentes.
+
+Presságio Lunar: Reluzir Cheio: fortalece o Supremo Dispositivo Refrigerador Preciso: o intervalo de disparo de Projéteis Hydro do Patinho Fica Frio é reduzido, e aumenta a AdE do Dano Hydro em AdE.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000121/skills/04_passive_2.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Amplificador de Resultado Estruturado</div>
+                  <div class="ci-passive-desc">Aumenta o Dano causado pelo Supremo de Aino em 50% de sua Proficiência Elemental.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000121/skills/05_passive_3.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Bênção do Presságio Lunar: Cálculo Extremo</div>
+                  <div class="ci-passive-desc">Quando Aino está na equipe, aumenta o nível de Presságio Lunar da equipe em 1 nível.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000121/skills/06_passive_4.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Sensor Detector Miniaturizado</div>
+                  <div class="ci-passive-desc">Mostra a localização de Especialidades de Nod-Krai próximas no mapa.
+Além disso, Aino parece poder alterar a aparência de seu Patinho Fica Frio...</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div></div></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel"></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Ferramenta não oficial feita por fãs. Não afiliada nem endossada pela HoYoverse/miHoYo. Genshin Impact e todos os nomes, personagens e recursos relacionados são marcas registradas e direitos autorais da HoYoverse/miHoYo.</div>
+        <div class="site-footer-links"><a href="privacy.html">Política de Privacidade</a> • <a href="terms.html">Termos de Uso</a> • <a href="contact.html">Contato</a> • <a href="credits.html">Créditos</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

@@ -1,0 +1,52 @@
+{
+  "id": 14406,
+  "name": {
+    "EN": "Prototype Amber",
+    "CHS": "试作金珀",
+    "CHT": "試作金珀",
+    "DE": "Bernstein-Prototyp",
+    "ES": "Prototipo Ámbar",
+    "FR": "Malice (prototype)",
+    "ID": "Prototype Amber",
+    "IT": "Prototipo d'ambra",
+    "JP": "金珀·試作",
+    "KR": "황금 호박 프로토타입",
+    "PT": "Protótipo Âmbar",
+    "RU": "Прототип: Янтарь",
+    "TH": "Prototype Amber",
+    "TR": "Prototip: Kehribar",
+    "VI": "Mẫu Kim Phách"
+  },
+  "nameEn": "Prototype Amber",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A dully gilded catalyst secretly guarded in the Blackcliff Forge. It seems to glow with the very light from the sky.",
+    "CHS": "黑岩厂中秘藏的金珀法器。其中黯黯绽放着日月星光。",
+    "CHT": "黑岩廠中密藏的金珀法器。其中黯黯綻放著日月星光。",
+    "DE": "Ein magischer Katalysator versteckt in der Schwarzsteinschmiede. Aus ihm dringt das Licht von Sonne, Mond und Sternen.",
+    "ES": "Un catalizador recubierto de oro guardado en secreto en la Forja Peñasco Oscuro. Parece brillar con la misma luz del cielo.",
+    "FR": "Un catalyseur magique découvert à la Forge de Rochenoire. La lumière du soleil, de la lune et des étoiles semble s'en dégager.",
+    "ID": "Catalyst yang dilapisi dengan emas, tersembunyi dan dijaga di dalam Blackcliff Forge, sepertinya benda ini dapat menampung cahaya dari langit.",
+    "IT": "Un oggetto catalizzatore custodito segretamente nella Fucina di Rupenera. Sembra brillare della luce del cielo.",
+    "JP": "黒岩場の中に隠されていた金珀法器。微かに太陽と月と星の光を放っている。",
+    "KR": "흑암 공장에 은밀히 보관된 금색 호박 법구. 태양과 달, 그리고 별이 어두운 빛을 내뿜는다",
+    "PT": "Um catalisador dourado, guardado secretamente na Forja do Penhasco Obscuro. Parece brilhar com a própria luz do céu.",
+    "RU": "Древний катализатор, обнаруженный в кузнице Черногорья. От него исходит сияние звёзд, солнца и луны.",
+    "TH": "สื่อเวทอำพันที่ถูกซ่อนไว้ใน Blackcliff Forge ดูเหมือนมันส่องแสงประกายด้วยแสงจากฟากฟ้า",
+    "TR": "Kara Kaya Demirci Ocağında özenle saklanan mat kaplamalı bir katalizör. Gökyüzündeki ışığın parıltısına sahip.",
+    "VI": "Pháp khí kim phách của Hắc Nham Xưởng. Trong ánh đen phát ra tia sáng của nhật nguyệt sao."
+  },
+  "icon": "generated/weapon-profiles/14406/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

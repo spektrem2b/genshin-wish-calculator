@@ -1,0 +1,52 @@
+{
+  "id": 12416,
+  "name": {
+    "EN": "Akuoumaru",
+    "CHS": "恶王丸",
+    "CHT": "惡王丸",
+    "DE": "Akuoumaru",
+    "ES": "Rey del Mal",
+    "FR": "Akuoumaru",
+    "ID": "Akuoumaru",
+    "IT": "Spada di Akuou",
+    "JP": "惡王丸",
+    "KR": "아쿠오마루",
+    "PT": "Akuoumaru",
+    "RU": "Акуомару",
+    "TH": "Akuoumaru",
+    "TR": "Akuou'nun Kılıcı",
+    "VI": "Akuoumaru"
+  },
+  "nameEn": "Akuoumaru",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield.",
+    "CHS": "传说中「恶王」的爱刀，刀身庞大雄伟，但挥舞起来却出乎意料地轻便。",
+    "CHT": "傳說中「惡王」的愛刀，刀身龐大雄偉，但揮舞起來卻出乎意料地輕便。",
+    "DE": "Das geliebte Schwert des legendären „Akuou“. Die Klinge ist lang und majestätisch, aber überraschend einfach zu handhaben.",
+    "ES": "La espada más querida del Rey del Mal. Aunque es enorme e imponente, al blandirla es sorprendentemente ligera.",
+    "FR": "L'épée bien-aimée du légendaire « Akuou ». Sa lame est énorme et majestueuse, mais étonnamment facile à manier.",
+    "ID": "Pedang kesayangan \"Akuou\" yang legendaris. Pedang ini sangat besar dan agung, tapi ternyata cukup mudah digunakan.",
+    "IT": "L'adorata spada del leggendario Akuou. La lama è enorme e maestosa, ma è sorprendentemente facile da maneggiare.",
+    "JP": "伝説の「惡王」がかつて愛用していた刀。刀身が大きく威厳があるが、振るうと驚くほど軽い。",
+    "KR": "전설 속 「아쿠오」가 아끼던 검으로 검신이 거대하고 웅장하지만, 휘두르면 의외로 가볍다",
+    "PT": "A querida espada do lendário \"Akuou\". A lâmina é gigantesca e majestosa, mas é surpreendentemente fácil de brandi-la.",
+    "RU": "Любимый меч Акуо - «злого тирана». Лезвие его огромно и величественно, но вопреки ожиданиям, в руке меч очень лёгок.",
+    "TH": "ดาบสุดรักของ Akuou ในตำนาน ใบมีดมีขนาดใหญ่และสง่างาม แต่มันกลับกวัดแกว่งได้ง่ายดายจนคาดไม่ถึง",
+    "TR": "Efsanevi Akuou'nun sevgili kılıcı. Devasa boyutuna rağmen kullanımı oldukça kolaydır.",
+    "VI": "Từng là thanh đao yêu thích của \"Akuou\". Thân đao trông rất nặng và đồ sộ, nhưng khi sử dụng lại nhẹ ngoài sức tưởng tượng."
+  },
+  "icon": "generated/weapon-profiles/12416/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

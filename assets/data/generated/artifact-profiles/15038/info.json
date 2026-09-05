@@ -1,0 +1,69 @@
+{
+  "id": 15038,
+  "name": {
+    "EN": "Obsidian Codex",
+    "CHS": "黑曜秘典",
+    "CHT": "黑曜秘典",
+    "DE": "Obsidiankodex",
+    "ES": "Códice de Obsidiana",
+    "FR": "Codex d'obsidienne",
+    "ID": "Obsidian Codex",
+    "IT": "Codice d'ossidiana",
+    "JP": "黒曜の秘典",
+    "KR": "흑요석 비전",
+    "PT": "Códice de Obsidiana",
+    "RU": "Обсидиановый фолиант",
+    "TH": "Obsidian Codex",
+    "TR": "Obsidiyen Kodeks",
+    "VI": "Bí Điển Obsidian"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15038/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by 15%.",
+        "CHS": "装备者处于夜魂加持状态，并且在场上时，造成的伤害提高15%。",
+        "CHT": "裝備者處於夜魂加持狀態，並且在場上時，造成的傷害提高15%。",
+        "DE": "#Erhöht, wenn der Träger im Zustand „Nachtseelensegen“ und aktiv auf dem Feld ist, den verursachten Schaden um 15 %.",
+        "ES": "Cuando el portador de este conjunto está en uso y en el estado de bendición noctámbula, el daño que inflige aumenta en un 15%.",
+        "FR": "Lorsque le personnage équipé de l'artéfact bénéficie d'une bénédiction noctâme et est sur le terrain, les DGT qu'il inflige augmentent de 15 %.",
+        "ID": "Saat Karakter yang mengenakan berada dalam status Nightsoul's Blessing dan berada di medan pertempuran, DMG yang diakibatkan meningkat sebanyak 15%.",
+        "IT": "Mentre il personaggio equipaggiato con questo set è in stato di Grazia dell'Anima della Notte ed è in campo, i DAN che infligge aumentano di un 15%.",
+        "JP": "装備者が夜魂の加護状態にあり、かつフィールド上にいる時、与えるダメージ+15%。",
+        "KR": "밤혼 가호 상태의 장착 캐릭터가 필드 위에 있을 시, 주는 피해가 15% 증가한다",
+        "PT": "Enquanto o personagem que está com esse conjunto equipado estiver sob a Bênção do Espírito da Noite e estiver ativo, o Dano causado por ele é aumentado em 15%.",
+        "RU": "Урон экипированного персонажа на поле в состоянии Благословения Ночного духа увеличивается на 15%.",
+        "TH": "เมื่อผู้สวมใส่อยู่ในสถานะพรวิญญาณราตรี และอยู่ในสนาม จะสร้างความเสียหายเพิ่มขึ้น 15%",
+        "TR": "Kuşanan karakter Gece Ruhunun Lütfu durumundayken ve savaş alanındayken verdiği Hasar %15 artar.",
+        "VI": "Khi người trang bị ở trạng thái Dạ Hồn Chúc Phúc và đang ra trận, sát thương gây ra tăng 15%."
+      },
+      "affixId": "2150380"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After the equipping character consumes 1 Nightsoul point while on the field, CRIT Rate increases by 40% for 6s. This effect can trigger once every second.",
+        "CHS": "装备者在场上消耗1点夜魂值后，暴击率提高40%，持续6秒。该效果每1秒至多触发一次。",
+        "CHT": "裝備者在場上消耗1點夜魂值後，暴擊率提高40%，持續6秒。該效果每1秒至多觸發一次。",
+        "DE": "#Erhöht, nachdem der Träger aktiv auf dem Schlachtfeld 1 Nachtseelenpunkt verbraucht hat, die KT 6 s lang um 40 %. 1 s Abklingzeit.",
+        "ES": "#Cuando el portador de este conjunto consume 1 pt. de noctambulismo mientras está en uso, su Prob. CRIT aumenta en un 40% durante 6 s. Este efecto solo se puede activar una vez cada 1 s.",
+        "FR": "Lorsque le personnage équipé de l'artéfact a consommé 1 pt de noctâme sur le terrain, le taux CRIT augmente de 40 % pendant 6 s. Cet effet peut être déclenché une fois toutes les secondes.",
+        "ID": "Setelah Karakter yang mengenakan mengonsumsi 1 poin Nightsoul saat berada di medan pertempuran, akan meningkatkan CRIT Rate sebesar 40% selama 6 detik. Efek ini dapat terpicu sekali setiap 1 detik.",
+        "IT": "#Quando il personaggio equipaggiato con questo set consuma 1 punto Anima della Notte mentre si trova in campo, il suo tasso di CRIT aumenta di un 40% per 6 s. Quest'effetto può attivarsi una volta ogni secondo.",
+        "JP": "装備者がフィールド上で夜魂値を1消費すると、会心率+40%、継続時間6秒。この効果は1秒毎に1回のみ発動可能。",
+        "KR": "장착 캐릭터가 필드 위에서 밤혼을 1pt 소모한 후, 치명타 확률이 40% 증가한다. 지속 시간: 6초. 해당 효과는 1초마다 최대 1회 발동된다",
+        "PT": "Enquanto estiver ativo, após o personagem que está com esse conjunto equipado consumir 1 ponto de Espírito da Noite, a Taxa CRIT aumenta em 40% por 6s. Este efeito pode ser ativado no máximo uma vez a cada segundo.",
+        "RU": "После того как экипированный персонаж, будучи на поле боя, расходует 1 очко Ночного духа, шанс крит. попадания увеличивается на 40% на 6 сек. Этот эффект может возникнуть один раз в 1 сек.",
+        "TH": "หลังจากผู้สวมใส่ใช้ค่าวิญญาณราตรี 1 หน่วยในสนาม อัตราคริจะเพิ่มขึ้น 40% เป็นเวลา 6 วินาที โดยที่เอฟเฟกต์นี้ ในทุก 1 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+        "TR": "Kuşanan karakter savaş alanındayken 1 Gece Ruhu puanı tükettiğinde 6 saniyeliğine Kritik Oranı %40 artar. Bu etki her saniyede bir tetiklenebilir.",
+        "VI": "Người trang bị sau khi tiêu hao 1 điểm Dạ Hồn trong trận, Tỷ Lệ Bạo Kích tăng 40% trong 6s. Hiệu quả này mỗi 1s tối đa kích hoạt một lần."
+      },
+      "affixId": "2150381"
+    }
+  ]
+}

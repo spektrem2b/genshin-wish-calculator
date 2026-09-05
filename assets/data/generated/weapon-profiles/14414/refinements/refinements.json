@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Sakura Saiguu",
+    "CHS": "樱之斋宫",
+    "CHT": "櫻之齋宮",
+    "DE": "Sakura-Palast",
+    "ES": "Palacio del Cerezo",
+    "FR": "Palais des cerisiers",
+    "ID": "Sakura Palace",
+    "IT": "Palazzo dei sakura",
+    "JP": "櫻の斎宮",
+    "KR": "벚꽃 재궁",
+    "PT": "Palácio de Sakura",
+    "RU": "Дворец сакуры",
+    "TH": "Sakura Palace",
+    "TR": "Kiraz Çiçeği Tapınağı",
+    "VI": "Sakura Saiguu"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 10% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+        "CHS": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得10%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+        "CHT": "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得10%對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+        "DE": "Erhöht beim Auslösen von Elektro-Reaktionen durch die mit dieser Waffe ausgerüsteten Figur den Elementar-SCH von Truppenmitgliedern mit dem an der Elementarreaktion beteiligten Element in der Nähe 6 s lang um 10 %. Der auf diese Weise durch die Figur erhaltene Elementar-SCH-Bonus ist nicht stapelbar.",
+        "ES": "Cuando el personaje que lleva esta arma equipada causa una Reacción Elemental relacionada con Electro, los personajes del equipo cercanos cuyo tipo elemental coincida con los elementos implicados en la reacción obtienen un 10% de su respectivo Bono de Daño Elemental durante 6 s. Los bonos elementales obtenidos de esta manera no se pueden acumular.",
+        "FR": "Lorsqu'un personnage équipé de cette arme a déclenché une réaction liée à l'élément Électro, tous les personnages de l'équipe à proximité dont l'élément est impliqué dans cette réaction élémentaire obtiennent un bonus de DGT de leur élément de 10 % pendant 6 s. Les bonus de DGT élémentaires obtenus de cette manière ne se cumulent pas.",
+        "ID": "Setelah Karakter yang memakai senjata ini memicu reaksi elemental Electro, anggota party di sekitar dengan Tipe Elemen yang terlibat dalam reaksi elemental tersebut akan menerima 10% Elemental DMG Bonus untuk elemen mereka selama 6 detik. Bonus Elemental yang didapat dengan cara ini tidak dapat ditumpuk.",
+        "IT": "#Dopo che il personaggio equipaggiato con quest'arma attiva una reazione elementale di tipo Electro, i membri del gruppo vicini con un elemento correlato a quella reazione ricevono un 10% di bonus DAN elementali della durata di 6 s per il loro elemento. I bonus elementali ottenuti in questo modo non sono cumulabili.",
+        "JP": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+10%、継続時間6秒。この方法で獲得する元素ダメージアップ効果は重ね掛けできない。",
+        "KR": "해당 무기를 장착한 캐릭터가 번개 원소 관련 반응을 일으키면 근처에 해당 원소 반응과 관련 있는 원소 타입의 파티 내 캐릭터는 10%의 상응하는 원소 피해 보너스를 받는다. 지속 시간: 6초. 해당 방식으로 얻을 수 있는 원소 피해 보너스는 중첩되지 않는다",
+        "PT": "Depois de o personagem com essa arma equipada desencadear uma reação Electro, os membros da equipe ao redor com Tipo Elemental envolvidos na reação terão Dano Adicional do Elemento em 10%, por 6s. O Dano adicional obtido pelo personagem dessa forma não pode ser acumulado.",
+        "RU": "Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом Электро, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают 10% бонус урона к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются.",
+        "TH": "หลังจากตัวละครที่ใช้อาวุธนี้ ทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟฟ้าแล้ว ตัวละครในทีมที่อยู่ใกล้เคียงและเป็นธาตุชนิดเดียวกับที่ทำให้เกิดปฏิกิริยาในครั้งนี้ จะได้รับโบนัสความเสียหายธาตุของธาตุที่เกี่ยวข้อง 10% เป็นเวลา 6 วินาที โดยโบนัสความเสียหายธาตุที่เกิดด้วยวิธีนี้ไม่สามารถซ้อนทับได้",
+        "TR": "Bu silahı kuşanan karakter bir Elektrik tepkimesi tetiklediğinde, element tepkimesindeki Element Türüne ait yakındaki grup üyeleri, kendi elementleri için 6 saniyeliğine %10 Element Hasarı Bonusu kazanır. Bu yöntemle kazanılan Element Bonusları birbiri üzerine eklenmez.",
+        "VI": "Mỗi khi nhân vật trang bị vũ khí này kích hoạt phản ứng liên quan đến nguyên tố lôi, thì nhân vật lân cận trong đội có thuộc tính nguyên tố gây ra các phản ứng liên quan sẽ tăng 10% Sát Thương Nguyên Tố của nguyên tố tương ứng và kéo dài 6 giây. Nhân vật được tăng Sát Thương Nguyên Tố bằng hình thức này sẽ không được cộng dồn."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 12.5% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+        "CHS": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得12.5%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+        "CHT": "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得12.5%對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+        "DE": "Erhöht beim Auslösen von Elektro-Reaktionen durch die mit dieser Waffe ausgerüsteten Figur den Elementar-SCH von Truppenmitgliedern mit dem an der Elementarreaktion beteiligten Element in der Nähe 6 s lang um 12,5 %. Der auf diese Weise durch die Figur erhaltene Elementar-SCH-Bonus ist nicht stapelbar.",
+        "ES": "Cuando el personaje que lleva esta arma equipada causa una Reacción Elemental relacionada con Electro, los personajes del equipo cercanos cuyo tipo elemental coincida con los elementos implicados en la reacción obtienen un 12.5% de su respectivo Bono de Daño Elemental durante 6 s. Los bonos elementales obtenidos de esta manera no se pueden acumular.",
+        "FR": "Lorsqu'un personnage équipé de cette arme a déclenché une réaction liée à l'élément Électro, tous les personnages de l'équipe à proximité dont l'élément est impliqué dans cette réaction élémentaire obtiennent un bonus de DGT de leur élément de 12,5 % pendant 6 s. Les bonus de DGT élémentaires obtenus de cette manière ne se cumulent pas.",
+        "ID": "Setelah Karakter yang memakai senjata ini memicu reaksi elemental Electro, anggota party di sekitar dengan Tipe Elemen yang terlibat dalam reaksi elemental tersebut akan menerima 12,5% Elemental DMG Bonus untuk elemen mereka selama 6 detik. Bonus Elemental yang didapat dengan cara ini tidak dapat ditumpuk.",
+        "IT": "#Dopo che il personaggio equipaggiato con quest'arma attiva una reazione elementale di tipo Electro, i membri del gruppo vicini con un elemento correlato a quella reazione ricevono un 12,5% di bonus DAN elementali della durata di 6 s per il loro elemento. I bonus elementali ottenuti in questo modo non sono cumulabili.",
+        "JP": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+12.5%、継続時間6秒。この方法で獲得する元素ダメージアップ効果は重ね掛けできない。",
+        "KR": "해당 무기를 장착한 캐릭터가 번개 원소 관련 반응을 일으키면 근처에 해당 원소 반응과 관련 있는 원소 타입의 파티 내 캐릭터는 12.5%의 상응하는 원소 피해 보너스를 받는다. 지속 시간: 6초. 해당 방식으로 얻을 수 있는 원소 피해 보너스는 중첩되지 않는다",
+        "PT": "Depois de o personagem com essa arma equipada desencadear uma reação Electro, os membros da equipe ao redor com Tipo Elemental envolvidos na reação terão Dano Adicional do Elemento em 12.5%, por 6s. O Dano adicional obtido pelo personagem dessa forma não pode ser acumulado.",
+        "RU": "Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом Электро, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают 12,5% бонус урона к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются.",
+        "TH": "หลังจากตัวละครที่ใช้อาวุธนี้ ทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟฟ้าแล้ว ตัวละครในทีมที่อยู่ใกล้เคียงและเป็นธาตุชนิดเดียวกับที่ทำให้เกิดปฏิกิริยาในครั้งนี้ จะได้รับโบนัสความเสียหายธาตุของธาตุที่เกี่ยวข้อง 12.5% เป็นเวลา 6 วินาที โดยโบนัสความเสียหายธาตุที่เกิดด้วยวิธีนี้ไม่สามารถซ้อนทับได้",
+        "TR": "Bu silahı kuşanan karakter bir Elektrik tepkimesi tetiklediğinde, element tepkimesindeki Element Türüne ait yakındaki grup üyeleri, kendi elementleri için 6 saniyeliğine %12,5 Element Hasarı Bonusu kazanır. Bu yöntemle kazanılan Element Bonusları birbiri üzerine eklenmez.",
+        "VI": "Mỗi khi nhân vật trang bị vũ khí này kích hoạt phản ứng liên quan đến nguyên tố lôi, thì nhân vật lân cận trong đội có thuộc tính nguyên tố gây ra các phản ứng liên quan sẽ tăng 12.5% Sát Thương Nguyên Tố của nguyên tố tương ứng và kéo dài 6 giây. Nhân vật được tăng Sát Thương Nguyên Tố bằng hình thức này sẽ không được cộng dồn."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 15% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+        "CHS": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得15%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+        "CHT": "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得15%對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+        "DE": "Erhöht beim Auslösen von Elektro-Reaktionen durch die mit dieser Waffe ausgerüsteten Figur den Elementar-SCH von Truppenmitgliedern mit dem an der Elementarreaktion beteiligten Element in der Nähe 6 s lang um 15 %. Der auf diese Weise durch die Figur erhaltene Elementar-SCH-Bonus ist nicht stapelbar.",
+        "ES": "Cuando el personaje que lleva esta arma equipada causa una Reacción Elemental relacionada con Electro, los personajes del equipo cercanos cuyo tipo elemental coincida con los elementos implicados en la reacción obtienen un 15% de su respectivo Bono de Daño Elemental durante 6 s. Los bonos elementales obtenidos de esta manera no se pueden acumular.",
+        "FR": "Lorsqu'un personnage équipé de cette arme a déclenché une réaction liée à l'élément Électro, tous les personnages de l'équipe à proximité dont l'élément est impliqué dans cette réaction élémentaire obtiennent un bonus de DGT de leur élément de 15 % pendant 6 s. Les bonus de DGT élémentaires obtenus de cette manière ne se cumulent pas.",
+        "ID": "Setelah Karakter yang memakai senjata ini memicu reaksi elemental Electro, anggota party di sekitar dengan Tipe Elemen yang terlibat dalam reaksi elemental tersebut akan menerima 15% Elemental DMG Bonus untuk elemen mereka selama 6 detik. Bonus Elemental yang didapat dengan cara ini tidak dapat ditumpuk.",
+        "IT": "#Dopo che il personaggio equipaggiato con quest'arma attiva una reazione elementale di tipo Electro, i membri del gruppo vicini con un elemento correlato a quella reazione ricevono un 15% di bonus DAN elementali della durata di 6 s per il loro elemento. I bonus elementali ottenuti in questo modo non sono cumulabili.",
+        "JP": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+15%、継続時間6秒。この方法で獲得する元素ダメージアップ効果は重ね掛けできない。",
+        "KR": "해당 무기를 장착한 캐릭터가 번개 원소 관련 반응을 일으키면 근처에 해당 원소 반응과 관련 있는 원소 타입의 파티 내 캐릭터는 15%의 상응하는 원소 피해 보너스를 받는다. 지속 시간: 6초. 해당 방식으로 얻을 수 있는 원소 피해 보너스는 중첩되지 않는다",
+        "PT": "Depois de o personagem com essa arma equipada desencadear uma reação Electro, os membros da equipe ao redor com Tipo Elemental envolvidos na reação terão Dano Adicional do Elemento em 15%, por 6s. O Dano adicional obtido pelo personagem dessa forma não pode ser acumulado.",
+        "RU": "Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом Электро, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают 15% бонус урона к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются.",
+        "TH": "หลังจากตัวละครที่ใช้อาวุธนี้ ทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟฟ้าแล้ว ตัวละครในทีมที่อยู่ใกล้เคียงและเป็นธาตุชนิดเดียวกับที่ทำให้เกิดปฏิกิริยาในครั้งนี้ จะได้รับโบนัสความเสียหายธาตุของธาตุที่เกี่ยวข้อง 15% เป็นเวลา 6 วินาที โดยโบนัสความเสียหายธาตุที่เกิดด้วยวิธีนี้ไม่สามารถซ้อนทับได้",
+        "TR": "Bu silahı kuşanan karakter bir Elektrik tepkimesi tetiklediğinde, element tepkimesindeki Element Türüne ait yakındaki grup üyeleri, kendi elementleri için 6 saniyeliğine %15 Element Hasarı Bonusu kazanır. Bu yöntemle kazanılan Element Bonusları birbiri üzerine eklenmez.",
+        "VI": "Mỗi khi nhân vật trang bị vũ khí này kích hoạt phản ứng liên quan đến nguyên tố lôi, thì nhân vật lân cận trong đội có thuộc tính nguyên tố gây ra các phản ứng liên quan sẽ tăng 15% Sát Thương Nguyên Tố của nguyên tố tương ứng và kéo dài 6 giây. Nhân vật được tăng Sát Thương Nguyên Tố bằng hình thức này sẽ không được cộng dồn."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 17.5% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+        "CHS": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得17.5%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+        "CHT": "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得17.5%對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+        "DE": "Erhöht beim Auslösen von Elektro-Reaktionen durch die mit dieser Waffe ausgerüsteten Figur den Elementar-SCH von Truppenmitgliedern mit dem an der Elementarreaktion beteiligten Element in der Nähe 6 s lang um 17,5 %. Der auf diese Weise durch die Figur erhaltene Elementar-SCH-Bonus ist nicht stapelbar.",
+        "ES": "Cuando el personaje que lleva esta arma equipada causa una Reacción Elemental relacionada con Electro, los personajes del equipo cercanos cuyo tipo elemental coincida con los elementos implicados en la reacción obtienen un 17.5% de su respectivo Bono de Daño Elemental durante 6 s. Los bonos elementales obtenidos de esta manera no se pueden acumular.",
+        "FR": "Lorsqu'un personnage équipé de cette arme a déclenché une réaction liée à l'élément Électro, tous les personnages de l'équipe à proximité dont l'élément est impliqué dans cette réaction élémentaire obtiennent un bonus de DGT de leur élément de 17,5 % pendant 6 s. Les bonus de DGT élémentaires obtenus de cette manière ne se cumulent pas.",
+        "ID": "Setelah Karakter yang memakai senjata ini memicu reaksi elemental Electro, anggota party di sekitar dengan Tipe Elemen yang terlibat dalam reaksi elemental tersebut akan menerima 17,5% Elemental DMG Bonus untuk elemen mereka selama 6 detik. Bonus Elemental yang didapat dengan cara ini tidak dapat ditumpuk.",
+        "IT": "#Dopo che il personaggio equipaggiato con quest'arma attiva una reazione elementale di tipo Electro, i membri del gruppo vicini con un elemento correlato a quella reazione ricevono un 17,5% di bonus DAN elementali della durata di 6 s per il loro elemento. I bonus elementali ottenuti in questo modo non sono cumulabili.",
+        "JP": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+17.5%、継続時間6秒。この方法で獲得する元素ダメージアップ効果は重ね掛けできない。",
+        "KR": "해당 무기를 장착한 캐릭터가 번개 원소 관련 반응을 일으키면 근처에 해당 원소 반응과 관련 있는 원소 타입의 파티 내 캐릭터는 17.5%의 상응하는 원소 피해 보너스를 받는다. 지속 시간: 6초. 해당 방식으로 얻을 수 있는 원소 피해 보너스는 중첩되지 않는다",
+        "PT": "Depois de o personagem com essa arma equipada desencadear uma reação Electro, os membros da equipe ao redor com Tipo Elemental envolvidos na reação terão Dano Adicional do Elemento em 17.5%, por 6s. O Dano adicional obtido pelo personagem dessa forma não pode ser acumulado.",
+        "RU": "Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом Электро, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают 17,5% бонус урона к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются.",
+        "TH": "หลังจากตัวละครที่ใช้อาวุธนี้ ทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟฟ้าแล้ว ตัวละครในทีมที่อยู่ใกล้เคียงและเป็นธาตุชนิดเดียวกับที่ทำให้เกิดปฏิกิริยาในครั้งนี้ จะได้รับโบนัสความเสียหายธาตุของธาตุที่เกี่ยวข้อง 17.5% เป็นเวลา 6 วินาที โดยโบนัสความเสียหายธาตุที่เกิดด้วยวิธีนี้ไม่สามารถซ้อนทับได้",
+        "TR": "Bu silahı kuşanan karakter bir Elektrik tepkimesi tetiklediğinde, element tepkimesindeki Element Türüne ait yakındaki grup üyeleri, kendi elementleri için 6 saniyeliğine %17,5 Element Hasarı Bonusu kazanır. Bu yöntemle kazanılan Element Bonusları birbiri üzerine eklenmez.",
+        "VI": "Mỗi khi nhân vật trang bị vũ khí này kích hoạt phản ứng liên quan đến nguyên tố lôi, thì nhân vật lân cận trong đội có thuộc tính nguyên tố gây ra các phản ứng liên quan sẽ tăng 17.5% Sát Thương Nguyên Tố của nguyên tố tương ứng và kéo dài 6 giây. Nhân vật được tăng Sát Thương Nguyên Tố bằng hình thức này sẽ không được cộng dồn."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a 20% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+        "CHS": "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得20%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
+        "CHT": "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得20%對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+        "DE": "Erhöht beim Auslösen von Elektro-Reaktionen durch die mit dieser Waffe ausgerüsteten Figur den Elementar-SCH von Truppenmitgliedern mit dem an der Elementarreaktion beteiligten Element in der Nähe 6 s lang um 20 %. Der auf diese Weise durch die Figur erhaltene Elementar-SCH-Bonus ist nicht stapelbar.",
+        "ES": "Cuando el personaje que lleva esta arma equipada causa una Reacción Elemental relacionada con Electro, los personajes del equipo cercanos cuyo tipo elemental coincida con los elementos implicados en la reacción obtienen un 20% de su respectivo Bono de Daño Elemental durante 6 s. Los bonos elementales obtenidos de esta manera no se pueden acumular.",
+        "FR": "Lorsqu'un personnage équipé de cette arme a déclenché une réaction liée à l'élément Électro, tous les personnages de l'équipe à proximité dont l'élément est impliqué dans cette réaction élémentaire obtiennent un bonus de DGT de leur élément de 20 % pendant 6 s. Les bonus de DGT élémentaires obtenus de cette manière ne se cumulent pas.",
+        "ID": "Setelah Karakter yang memakai senjata ini memicu reaksi elemental Electro, anggota party di sekitar dengan Tipe Elemen yang terlibat dalam reaksi elemental tersebut akan menerima 20% Elemental DMG Bonus untuk elemen mereka selama 6 detik. Bonus Elemental yang didapat dengan cara ini tidak dapat ditumpuk.",
+        "IT": "#Dopo che il personaggio equipaggiato con quest'arma attiva una reazione elementale di tipo Electro, i membri del gruppo vicini con un elemento correlato a quella reazione ricevono un 20% di bonus DAN elementali della durata di 6 s per il loro elemento. I bonus elementali ottenuti in questo modo non sono cumulabili.",
+        "JP": "この武器を装備したキャラクターが雷元素に関連する反応を起こした時、周囲チーム内にてその反応に関わった元素タイプのキャラクターは強化効果を獲得する。強化効果：該当元素タイプの元素ダメージ+20%、継続時間6秒。この方法で獲得する元素ダメージアップ効果は重ね掛けできない。",
+        "KR": "해당 무기를 장착한 캐릭터가 번개 원소 관련 반응을 일으키면 근처에 해당 원소 반응과 관련 있는 원소 타입의 파티 내 캐릭터는 20%의 상응하는 원소 피해 보너스를 받는다. 지속 시간: 6초. 해당 방식으로 얻을 수 있는 원소 피해 보너스는 중첩되지 않는다",
+        "PT": "Depois de o personagem com essa arma equipada desencadear uma reação Electro, os membros da equipe ao redor com Tipo Elemental envolvidos na reação terão Dano Adicional do Elemento em 20%, por 6s. O Dano adicional obtido pelo personagem dessa forma não pode ser acumulado.",
+        "RU": "Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом Электро, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают 20% бонус урона к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются.",
+        "TH": "หลังจากตัวละครที่ใช้อาวุธนี้ ทำให้เกิดปฏิกิริยาที่เกี่ยวกับธาตุไฟฟ้าแล้ว ตัวละครในทีมที่อยู่ใกล้เคียงและเป็นธาตุชนิดเดียวกับที่ทำให้เกิดปฏิกิริยาในครั้งนี้ จะได้รับโบนัสความเสียหายธาตุของธาตุที่เกี่ยวข้อง 20% เป็นเวลา 6 วินาที โดยโบนัสความเสียหายธาตุที่เกิดด้วยวิธีนี้ไม่สามารถซ้อนทับได้",
+        "TR": "Bu silahı kuşanan karakter bir Elektrik tepkimesi tetiklediğinde, element tepkimesindeki Element Türüne ait yakındaki grup üyeleri, kendi elementleri için 6 saniyeliğine %20 Element Hasarı Bonusu kazanır. Bu yöntemle kazanılan Element Bonusları birbiri üzerine eklenmez.",
+        "VI": "Mỗi khi nhân vật trang bị vũ khí này kích hoạt phản ứng liên quan đến nguyên tố lôi, thì nhân vật lân cận trong đội có thuộc tính nguyên tố gây ra các phản ứng liên quan sẽ tăng 20% Sát Thương Nguyên Tố của nguyên tố tương ứng và kéo dài 6 giây. Nhân vật được tăng Sát Thương Nguyên Tố bằng hình thức này sẽ không được cộng dồn."
+      }
+    }
+  ]
+}

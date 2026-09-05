@@ -1,0 +1,137 @@
+{
+  "id": "10000092",
+  "name": {
+    "EN": "Gaming",
+    "CHS": "嘉明",
+    "CHT": "嘉明",
+    "DE": "Gaming",
+    "ES": "Gaming",
+    "FR": "Gaming",
+    "ID": "Gaming",
+    "IT": "Gaming",
+    "JP": "嘉明",
+    "KR": "가명",
+    "PT": "Gaming",
+    "RU": "Ка Мин",
+    "TH": "Gaming",
+    "TR": "Gaming",
+    "VI": "Gaming"
+  },
+  "nameEn": "Gaming",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 12,
+    "day": 22
+  },
+  "release": "2024-01-29T22:00:00",
+  "icon": "generated/character-profiles/10000092/avatar.webp",
+  "fullWish": "generated/character-profiles/10000092/full_wish.webp",
+  "fullWishObjectPosition": "54.0% 68.8%",
+  "title": {
+    "EN": "Leonine Vanguard",
+    "CHS": "骏猊頕首",
+    "CHT": "駿猊頕首",
+    "DE": "Fabellöwe im Vormarsch",
+    "ES": "El Vigía Leonino",
+    "FR": "Avant-garde léonine",
+    "ID": "Leonine Vanguard",
+    "IT": "Avanguardia leonina",
+    "JP": "頭角を現す駿猊",
+    "KR": "고개를 치켜든 산예",
+    "PT": "Olhar Leonino",
+    "RU": "Львиный авангард",
+    "TH": "ซวนหนีผงาด",
+    "TR": "Aslan Yürekli Öncü",
+    "VI": "Tuấn Nghê Ngẩng Đầu"
+  },
+  "description": {
+    "EN": "Guard of the Sword and Strongbox Secure Transport Agency, and the head of the \"Mighty Mythical Beasts\" Wushou troupe.",
+    "CHS": "剑匣镖局的镖师，威水舞兽队的话事人。",
+    "CHT": "劍匣鏢局的鏢師，威水舞獸隊的話事人。",
+    "DE": "Transportwache der Schwertschachtel, Leiter der renommierten Mächtigen Fabelbestien.",
+    "ES": "Escolta de la Agencia de Transporte Seguro Cofrespada y líder del grupo Bestias Místicas Poderosas.",
+    "FR": "Un mercenaire des Transporteurs des coffres-lames et le meneur de la troupe de wushou « Mythiques bêtes mystiques ».",
+    "ID": "Pengawal dari Kantor Pengawal Sword and Strongbox, sekaligus ketua grup Wushou \"Wahana Dewata Kencana\".",
+    "IT": "Una guardia dell'Agenzia di trasporti sicuri Cassa e spada, nonché capo del gruppo di Wushou \"Potenti creature mistiche\".",
+    "JP": "剣鞘鏢局の鏢師であり、威水獣舞隊の責任者。",
+    "KR": "검갑 호송국의 표사이자 열혈 짐승춤꾼단의 결정권자",
+    "PT": "Guarda de aluguel da Agência de Transporte Seguro Espada & Caixa, líder do grupo Bestas Místicas Poderosas.",
+    "RU": "Наёмник охранного предприятия «Меч и ножны» и руководитель танцевального коллектива «Великие мифические звери».",
+    "TH": "ผู้คุ้มกันแห่งสำนักงานผู้คุ้มกันกล่องดาบ และหัวหน้าของ \"คณะการแสดงวูซูจอมพลัง\"",
+    "TR": "Kılıç ve Kasa Güvenli Teslimat Bürosu muhafızı ve \"Kudretli Efsanevi Canavarlar\" Wushou dans ekibinin lideri.",
+    "VI": "Tiêu sư của Kiếm Hạp Tiêu Cục, người ra quyết định của Đội Múa Thú Uy Vũ."
+  },
+  "constellationName": {
+    "EN": "Leo Expergiscens",
+    "CHS": "醒狮座",
+    "CHT": "醒獅座",
+    "DE": "Leo Expergiscens",
+    "ES": "Leo Expergiscens",
+    "FR": "Leo Expergiscens",
+    "ID": "Leo Expergiscens",
+    "IT": "Leo Expergiscens",
+    "JP": "醒獅座",
+    "KR": "사자춤자리",
+    "PT": "Leo Expergiscens",
+    "RU": "Пробудившийся Лев",
+    "TH": "Leo Expergiscens",
+    "TR": "Aslanın Uyanışı",
+    "VI": "Cung Tỉnh Sư"
+  },
+  "native": {
+    "EN": "Sword and Strongbox Secure Transport Agency",
+    "CHS": "剑匣镖局",
+    "CHT": "劍匣鏢局",
+    "DE": "Schwertschachtel",
+    "ES": "Agencia de Transporte Seguro Cofrespada",
+    "FR": "Transporteurs des coffres-lames",
+    "ID": "Kantor Pengawal Sword and Strongbox",
+    "IT": "Agenzia di trasporti sicuri Cassa e spada",
+    "JP": "剣鞘鏢局",
+    "KR": "검갑 호송국",
+    "PT": "Agência de Transporte Seguro Espada & Caixa",
+    "RU": "Охранное предприятие «Меч и ножны»",
+    "TH": "สำนักงานผู้คุ้มกันกล่องดาบ",
+    "TR": "Kılıç ve Kasa Güvenli Teslimat Bürosu",
+    "VI": "Kiếm Hạp Tiêu Cục"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Caleb Yen"
+    },
+    {
+      "lang": "CHS",
+      "va": "谢莹"
+    },
+    {
+      "lang": "JP",
+      "va": "小松昌平"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Yoon-gi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 957.38055,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 25.28736,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 58.94175,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

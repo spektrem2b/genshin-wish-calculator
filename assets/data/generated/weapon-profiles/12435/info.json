@@ -1,0 +1,52 @@
+{
+  "id": 12435,
+  "name": {
+    "EN": "Forged by the Golden Melody",
+    "CHS": "金律铸影",
+    "CHT": "金律鑄影",
+    "DE": "Geschmiedet durch das goldene Gesetz",
+    "ES": "Sombra de la Melodía Dorada",
+    "FR": "Forgée par la loi d'or",
+    "ID": "Forged by the Golden Melody",
+    "IT": "Forgiata dalla Melodia dorata",
+    "JP": "シンフォニーの鋳影",
+    "KR": "황금빛 선율",
+    "PT": "Forjada pela Lei Dourada",
+    "RU": "Творение золотой мелодии",
+    "TH": "Forged by the Golden Melody",
+    "TR": "Altın Melodiyle Dövülen",
+    "VI": "Kim Luật Đúc Ảnh"
+  },
+  "nameEn": "Forged by the Golden Melody",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A greatsword decorated in gold. Legend has it that it was the favored weapon of a certain exalted Harmost back in the distant past.",
+    "CHS": "饰以黄金的重剑，传说在遥远的过去曾是某位大调律师爱用的兵器。",
+    "CHT": "飾以黃金的重劍，傳說在遙遠的過去曾是某位大調律師愛用的兵器。",
+    "DE": "Ein mit Gold verziertes Großschwert, das der Legende nach in ferner Vergangenheit die Lieblingswaffe eines großen Meisters der Harmonie gewesen sein soll.",
+    "ES": "Una espada pesada y ornamentada con oro. Cuenta la leyenda que, en un pasado remoto, fue el arma predilecta de un gran afinador.",
+    "FR": "Une grande épée ornée d'or. La légende raconte qu'il s'agissait de l'arme de prédilection d'un certain accordeur exalté, dans un passé lointain.",
+    "ID": "Pedang besar berhiaskan emas yang konon di masa lampau pernah menjadi senjata andalan seorang Harmost agung.",
+    "IT": "Uno spadone decorato in oro. La leggenda narra che fosse l'arma prediletta di un certo Armosta supremo in un lontano passato.",
+    "JP": "黄金の装飾を纏う重剣。遥かなる昔、ある大調律師が愛用した兵器であったと伝えられている。",
+    "KR": "황금으로 장식된 대검. 전설에 따르면 머나먼 과거에 어느 대조율사가 애용하던 무기라고 한다",
+    "PT": "Um espadão decorado com ouro. Diz a lenda que foi a arma preferida de um certo Harmosta ilustre em um passado distante.",
+    "RU": "Тяжёлый меч, украшенный золотом. Легенда гласит, что в далёком прошлом он был любимым оружием некоего великого гармоста.",
+    "TH": "ดาบใหญ่ที่ประดับด้วยทองคำ ตามตำนานเล่าว่าในอดีตอันแสนไกลนั้น มันเคยเป็นอาวุธที่ช่างจูนเสียงผู้ยิ่งใหญ่ท่านหนึ่งโปรดปราน",
+    "TR": "Altınla süslenmiş bir büyük kılıç. Efsaneye göre uzak geçmişte ulu bir Harmostun en sevdiği silahmış.",
+    "VI": "Trọng kiếm được trang trí bằng vàng, tương truyền trong quá khứ xa xôi từng là binh khí được một nhà chỉnh âm vĩ đại vô cùng yêu thích."
+  },
+  "icon": "generated/weapon-profiles/12435/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

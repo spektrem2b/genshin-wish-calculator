@@ -1,0 +1,52 @@
+{
+  "id": 13405,
+  "name": {
+    "EN": "Deathmatch",
+    "CHS": "决斗之枪",
+    "CHT": "決鬥之槍",
+    "DE": "Duelllanze",
+    "ES": "Lanza del Duelo",
+    "FR": "Scion de la victoire",
+    "ID": "Deathmatch",
+    "IT": "Lancia del duello",
+    "JP": "死闘の槍",
+    "KR": "결투의 창",
+    "PT": "Lança do Duelo",
+    "RU": "Смертельный бой",
+    "TH": "Deathmatch",
+    "TR": "Ölümsaçan",
+    "VI": "Thương Quyết Chiến"
+  },
+  "nameEn": "Deathmatch",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men.",
+    "CHS": "血红色的锋利长枪，过去是某位角斗士无比珍视的宝物。枪芒上曾沾染了无数野兽与人的鲜血。",
+    "CHT": "血紅色的鋒利長槍，過去是某位角鬥士無比珍視的寶物。槍芒上曾沾染了無數野獸與人的鮮血。",
+    "DE": "Eine lange Lanze mit scharfer, roter Spitze, in Ehren gehalten von einem Gladiator. Der Schaft wurde immer wieder in das Blut von Monstern und Menschen getaucht, bis er dessen Farbe annahm.",
+    "ES": "Una lanza afilada de color rojo sangre que fue un objeto de valor incalculable para un gladiador. Su punta está manchada con la sangre de innumerables bestias y personas.",
+    "FR": "Une lance rouge tranchante qui fut autrefois l'arme chérie d'un gladiateur. Le sang d'innombrables ennemis, hommes et bêtes, a teinté sa lame.",
+    "ID": "Tombak tajam berwarna merah darah yang sangat berharga bagi seorang gladiator di masa lalu. Ujungnya diwarnai dengan darah binatang buas dan manusia yang tak terhitung jumlahnya.",
+    "IT": "Una lancia purpurea e affilata, un tempo il tesoro inestimabile di un gladiatore. La sua punta è macchiata del sangue d'innumerevoli bestie e umani.",
+    "JP": "血のように赤くて鋭い長槍。かつてはある剣闘士が重宝したものである。槍先は無数の野獣と人の血で染められていた。",
+    "KR": "핏빛의 날카로운 창. 과거 어느 검투사가 애지중지하던 보물이었다. 예전엔 창끝에 무수히 많은 야수와 사람의 피로 가득했었다",
+    "PT": "Uma lança afiada vermelho-sangue que era inestimável para um gladiador no passado. Sua ponta está manchada com o sangue de inúmeras bestas e pessoas.",
+    "RU": "Один гладиатор очень дорожил этим копьём. Остриё его познало кровь бесчисленного множества людей и тварей.",
+    "TH": "หอกคมยาวสีแดงเลือดซึ่งเคยเป็นสมบัติของนักสู้ในสมัยก่อน ปลายหอกถูกย้อมไปด้วยเลือดของสัตว์ร้ายและผู้คนนับไม่ถ้วน",
+    "TR": "Bir zamanlar bir gladyatörün en değerli silahı olan keskin ve kızıl mızrak. Bıçağında sayısız insanın ve canavarın kanı var.",
+    "VI": "Thương dài sắc bén màu máu tươi, xưa kia là bảo vật trân quý của một đấu sĩ nào đó. Mũi thương đã nhuộm đầy máu tươi của vô số dã thú và sinh mệnh."
+  },
+  "icon": "generated/weapon-profiles/13405/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000049",
+  "name": {
+    "EN": "Yoimiya",
+    "CHS": "宵宫",
+    "CHT": "宵宮",
+    "DE": "Yoimiya",
+    "ES": "Yoimiya",
+    "FR": "Yoimiya",
+    "ID": "Yoimiya",
+    "IT": "Yoimiya",
+    "JP": "宵宮",
+    "KR": "요이미야",
+    "PT": "Yoimiya",
+    "RU": "Ёимия",
+    "TH": "Yoimiya",
+    "TR": "Yoimiya",
+    "VI": "Yoimiya"
+  },
+  "nameEn": "Yoimiya",
+  "element": "Pyro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 6,
+    "day": 21
+  },
+  "release": "2021-08-10T15:00:00",
+  "icon": "generated/character-profiles/10000049/avatar.webp",
+  "fullWish": "generated/character-profiles/10000049/full_wish.webp",
+  "fullWishObjectPosition": "46.9% 24.4%",
+  "title": {
+    "EN": "Frolicking Flames",
+    "CHS": "琉焰华舞",
+    "CHT": "琉焰華舞",
+    "DE": "Ausgelassene Flammen",
+    "ES": "La Maestra de las Llamas",
+    "FR": "Flamme gambadante",
+    "ID": "Frolicking Flames",
+    "IT": "Euforia di fuochi",
+    "JP": "琉焔に舞う大輪",
+    "KR": "유염화무",
+    "PT": "Dança das Chamas",
+    "RU": "Пляшущие огоньки",
+    "TH": "ประกายเพลิงเริงระบำ",
+    "TR": "Neşeli Alevler",
+    "VI": "Vũ Điệu Bão Lửa"
+  },
+  "description": {
+    "EN": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
+    "CHS": "「长野原烟花店」店长，「夏祭的女王」，将人们的愿望寄托于烟花中的能工巧匠。",
+    "CHT": "「長野原煙花店」店長，「夏祭的女王」，將人們的願望寄託於煙花中的能工巧匠。",
+    "DE": "Besitzerin von „Naganoharas Feuerwerksartikel“ und bekannt als die Königin des Sommerfests. Sie ist eine gelernte Handwerkerin, die die Wünsche der Menschen mit Feuerwerkskörpern ausdrückt.",
+    "ES": "La dueña de la tienda Pirotecnia Naganohara y Reina del Festival de Verano. Deposita los deseos de la gente en sus artesanales fuegos artificiales.",
+    "FR": "Propriétaire des « Feux de Naganohara ». Connue sous le nom de « Reine du festival d'été », elle excelle dans son art de créer des feux d'artifice qui symbolisent les espoirs et les rêves des gens.",
+    "ID": "Pemilik Naganohara Fireworks. Juga dikenal sebagai \"Ratu Festival Musim Panas\", dia mahir membuat kembang api yang melambangkan harapan dan impian semua orang.",
+    "IT": "Proprietaria della Bottega Naganohara. Conosciuta come la Regina del Festival d'estate, è particolarmente abile nella creazione di fuochi d'artificio che simboleggiano le speranze e i sogni della gente.",
+    "JP": "「長野原花火屋」の店主。才ある花火職人で、人々の願いを花火へと託す。「夏祭りの女王」と呼ばれている。",
+    "KR": "「나가노하라 폭죽가게」의 점장이자 「여름 축제의 여왕」. 사람들의 염원을 폭죽에 담을 수 있는 뛰어난 장인이다",
+    "PT": "Dona da Fogos de Artifício Naganohara. Conhecida como \"Rainha do Festival de Verão\", ela é excelente na criação de fogos de artifício que simbolizam a esperança e sonhos das pessoas.",
+    "RU": "Владелица «Фейерверков Наганохары», также известна как «Королева праздника лета». Будучи мастером своего дела, она воплощает надежды и мечты людей в своих фейерверках.",
+    "TH": "เจ้าของร้านดอกไม้ไฟ Naganohara \"ราชินีแห่งเทศกาลฤดูร้อน\" ช่างฝีมือมากความสามารถ ผู้ส่งความปรารถนาของผู้คนผ่านการทำดอกไม้ไฟ",
+    "TR": "Naganohara Havai Fişekleri'nin sahibi. \"Yaz Festivali Kraliçesi\" olarak bilinir, insanların umutlarını ve hayallerini simgeleyen havai fişekleri üretme konusunda ustadır.",
+    "VI": "Chủ tiệm Pháo Hoa Naganohara, Nữ Hoàng Lễ Hội Hè, là người thợ tài năng gửi gắm nguyện vọng của mọi người vào pháo hoa."
+  },
+  "constellationName": {
+    "EN": "Carassius Auratus",
+    "CHS": "琉金座",
+    "CHT": "琉金座",
+    "DE": "Carassius Auratus",
+    "ES": "Carassius Auratus",
+    "FR": "Carassius Auratus",
+    "ID": "Carassius Auratus",
+    "IT": "Carassius Auratus",
+    "JP": "琉金座",
+    "KR": "유금자리",
+    "PT": "Carassius Auratus",
+    "RU": "Золотая Рыбка",
+    "TH": "Carassius Auratus",
+    "TR": "Küçük Kırmızı Balık",
+    "VI": "Cung Lưu Kim"
+  },
+  "native": {
+    "EN": "Naganohara Fireworks",
+    "CHS": "长野原烟花店",
+    "CHT": "長野原煙花店",
+    "DE": "Naganoharas Feuerwerksartikel",
+    "ES": "Pirotecnia Naganohara",
+    "FR": "Feux de Naganohara",
+    "ID": "Naganohara Fireworks",
+    "IT": "Bottega Naganohara",
+    "JP": "長野原花火屋",
+    "KR": "나가노하라 폭죽가게",
+    "PT": "Fogos de Artifício Naganohara",
+    "RU": "Фейерверки Наганохары",
+    "TH": "ร้านดอกไม้ไฟ Naganohara",
+    "TR": "Naganohara Havai Fişekleri",
+    "VI": "Tiệm Pháo Hoa Naganohara"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Jenny Yokobori"
+    },
+    {
+      "lang": "CHS",
+      "va": "金娜"
+    },
+    {
+      "lang": "JP",
+      "va": "植田佳奈"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Shin-hee"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 791.2556,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 25.137,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 47.864,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

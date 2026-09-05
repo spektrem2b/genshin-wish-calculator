@@ -1,0 +1,52 @@
+{
+  "id": 14518,
+  "name": {
+    "EN": "Sunny Morning Sleep-In",
+    "CHS": "寝正月初晴",
+    "CHT": "寢正月初晴",
+    "DE": "Frühjahrsschlaf",
+    "ES": "Hibernación Matutina de Año Nuevo",
+    "FR": "Matinée flânée sous le soleil",
+    "ID": "Sunny Morning Sleep-In",
+    "IT": "Sonnellino mattutino",
+    "JP": "寝正月の初晴",
+    "KR": "나른한 새해",
+    "PT": "Hibernação Matinal do Ano Novo",
+    "RU": "Сон солнечным утром",
+    "TH": "Sunny Morning Sleep-In",
+    "TR": "Şafak Uykusu",
+    "VI": "Hòa Giấc Trong Nắng Mai"
+  },
+  "nameEn": "Sunny Morning Sleep-In",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A bell lantern forged from purple jade. They say it brings sweet dreams when placed beside one's pillow.",
+    "CHS": "由澄澈的紫玉锻造而成的铃灯，据说置于枕边便能唤来幸福的美梦。",
+    "CHT": "由澄澈的紫玉鍛造而成的鈴燈，據說置於枕邊便能喚來幸福的美夢。",
+    "DE": "Aus glasklarer lila Jade hergestelltes Glockenlicht, das einem neben das Kopfkissen gestellt liebliche Träume schenken soll.",
+    "ES": "Una lámpara con una campanilla hecha de jade púrpura. Dicen que, si se coloca al lado de la almohada, atrae sueños hermosos.",
+    "FR": "Une lanterne en forme de cloche forgée à partir de jade violet. On dit qu'elle fait rêver lorsqu'elle est placée à côté de l'oreiller.",
+    "ID": "Lentera lonceng yang terbuat dari batu giok ungu. Konon katanya, jika ditaruh di samping bantal, maka dapat memanggil mimpi indah.",
+    "IT": "Una lanterna con una campana a vento realizzata in giada viola. Pare che sia in grado di donare bei sogni se riposta sotto il proprio cuscino.",
+    "JP": "澄み切った紫の玉で作られた風鈴灯。枕元に飾ると幸せな夢を見ることができるらしい。",
+    "KR": "맑은 보랏빛 옥으로 만든 방울 등. 베개 옆에 두면 행복한 꿈을 불러온다",
+    "PT": "Um sino-lanterna forjado com puro jade púrpura, diz-se que, ao ser colocado ao lado do travesseiro, pode trazer sonhos felizes.",
+    "RU": "Фонарь-колокольчик, выкованный из прозрачного аметиста. Говорят, он принесёт сладкие сновидения, если повесить его у изголовья.",
+    "TH": "กระดิ่งลมที่หลอมจากหยกสีม่วงใส ว่ากันว่าเมื่อวางไว้ข้างหมอน จะช่วยเรียกนิทราอันแสนสุขออกมาได้",
+    "TR": "Mor yeşimden dövülerek yapılan bir çan feneri. Birinin yastığının kenarına konulduğunda o kişinin tatlı rüyalar görmesini sağladığı söylenir.",
+    "VI": "Ngọn đèn chuông được rèn từ ngọc bích tím trong trẻo. Nghe nói sẽ mang lại những giấc mơ tươi đẹp hạnh phúc khi đặt cạnh gối ngủ."
+  },
+  "icon": "generated/weapon-profiles/14518/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 57.6,
+  "substat_lvl90": 264.6144,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

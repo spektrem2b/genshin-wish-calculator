@@ -1,0 +1,52 @@
+{
+  "id": 12516,
+  "name": {
+    "EN": "A Teaspoon of Transcendence",
+    "CHS": "超越之匙",
+    "CHT": "超越之匙",
+    "DE": "Schlüssel der Überbietung",
+    "ES": "Llave de la Trascendencia",
+    "FR": "Une cuillerée de transcendance",
+    "ID": "A Teaspoon of Transcendence",
+    "IT": "Un cucchiaino di trascendenza",
+    "JP": "超越の鍵",
+    "KR": "초월의 열쇠",
+    "PT": "Chave da Transcendência",
+    "RU": "Чайная ложка трансцендентности",
+    "TH": "A Teaspoon of Transcendence",
+    "TR": "Bir Kaşık Üstünlük",
+    "VI": "Muỗng Trà Siêu Việt"
+  },
+  "nameEn": "A Teaspoon of Transcendence",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "An object of fantasy with countless definitions amidst an endless sea of stories. On the grand scale of the universe or the realm of dreams, there is no real difference between the holy sword of the brave warrior and the princess's teaspoon, or between the ice-cold clockspring and the key that will unlock the gates of transcendence...",
+    "CHS": "在数之不尽的故事中，拥有无数定义的幻想之物。于宇宙或梦的尺度上，勇者的圣剑与公主的茶匙，冰冷的发条与开启超越之扉的钥匙，本质其实并无区别。",
+    "CHT": "在數之不盡的故事中，擁有無數定義的幻想之物。於宇宙或夢的尺度上，勇者的聖劍與公主的茶匙，冰冷的發條與開啟超越之扉的鑰匙，本質其實並無區別。",
+    "DE": "Ein Gegenstand der Fantasie, für den sich in unzähligen Geschichten zahllose Definitionen finden lassen. Im Maßstab des Universums oder der Träume gibt es im Kern keinen Unterschied zwischen dem heiligen Schwert des Helden und dem Teelöffel der Prinzessin, oder zwischen einem eiskalten Uhrwerk und dem Schlüssel, der das Tor der Transzendenz zu öffnen vermag.",
+    "ES": "Un objeto fantástico con infinitas definiciones, presente en un sinfín de historias. A escala universal u onírica, en esencia, no hay diferencia entre la espada sagrada de un héroe y la cucharita de té de una princesa, o entre una fría máquina y la llave que abre la puerta de la trascendencia.",
+    "FR": "Un objet de fantaisie aux mille définitions, au sein d'un océan infini de récits. À l'échelle de l'univers ou du royaume des rêves, il n'y a guère de différence entre l'épée sacrée du brave guerrier et la cuillère à café de la princesse, ni entre le ressort glacé d'une horloge et la clé qui ouvrira les portes de la transcendance...",
+    "ID": "Dalam cerita yang tak terhitung jumlahnya, benda imajinasi yang memiliki definisi yang tak terhitung jumlahnya. Dari skala alam semesta dan mimpi, sebenarnya tidak ada perbedaan nyata antara pedang suci sang pahlawan dan sendok teh sang putri, roda gigi yang dingin, dan kunci untuk membuka gerbang yang melampaui batas.",
+    "IT": "Un oggetto di fantasia dotato d'innumerevoli definizioni in un mare di storie infinite. Nella vastità dell'universo o nel regno dei sogni, non c'è una vera differenza tra la spada sacra di un valoroso guerriero e il cucchiaino da tè di una principessa, né tra una gelida molla d'orologio e la chiave che apre le porte della trascendenza...",
+    "JP": "たくさんある物語の中で、数え切れないほどの定義を持つ空想のアイテム。壮大な宇宙や夢のスケールから見渡せば、勇者の聖剣も姫のティースプーンも、無機質なゼンマイも超越の扉を開く鍵も、本質的には同じようなものだ。",
+    "KR": "무수한 이야기 속에서 저마다 다른 의미로 정의되는 환상의 물건. 하지만 우주나 꿈의 차원에서 보면, 용자의 성검과 공주의 티스푼, 얼음처럼 차가운 태엽과 초월의 문을 여는 열쇠는 본질적으로 아무런 차이가 없다",
+    "PT": "Um objeto fantástico de incontáveis definições em um mar infinito de histórias. Seja na escala do universo ou dos sonhos, a espada sagrada do herói e a xícara de chá da princesa, a máquina gelada e a chave para abrir a porta da transcendência, no fundo, nada disso possui diferença.",
+    "RU": "Предмет фантазий, которому в бесчисленных историях давали бессчётное множество определений. В масштабах Вселенной или царства снов нет разницы между чудесным мечом героя и чайной ложкой принцессы, между холодным механическим ключом и ключом, открывающим врата трансцендентности...",
+    "TH": "ในเรื่องราวมากมายไม่รู้จบ สิ่งของในจินตนาการล้วนมีคำนิยามนับไม่ถ้วน ไม่ว่าจะในระดับจักรวาลหรืออาณาจักรในฝันก็ดี ดาบศักดิ์สิทธิ์ของผู้กล้ากับช้อนชาของเจ้าหญิง เครื่องลานที่เย็นเฉียบดุจน้ำแข็งกับกุญแจที่เปิดประตูแห่งการก้าวข้าม แท้จริงแล้วแก่นแท้ของพวกมันนั้นไม่ได้แตกต่างกันเลย",
+    "TR": "Sonsuz hikayeler denizinde sayısız farklı tanıma sahip fantastik bir nesne. Evrenin veya rüyalar aleminin devasa ölçeğinde, cesur savaşçının kutsal kılıcıyla prensesin çay kaşığı arasında veyahut buz gibi soğuk bir saat zembereğiyle üstünlük kapılarını açacak anahtar arasında gerçek anlamda bir fark yoktur...",
+    "VI": "Trong vô số câu chuyện, những đồ vật hư ảo có vô số định nghĩa. Ở quy mô vũ trụ hay giấc mơ, thánh kiếm của dũng sĩ và muỗng trà của công chúa, dây cót lạnh lẽo và chìa khóa mở ra cánh cửa siêu việt, bản chất thật ra cũng chẳng có gì khác biệt cả."
+  },
+  "icon": "generated/weapon-profiles/12516/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

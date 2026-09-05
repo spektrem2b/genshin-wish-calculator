@@ -1,0 +1,52 @@
+{
+  "id": 13424,
+  "name": {
+    "EN": "Ballad of the Fjords",
+    "CHS": "峡湾长歌",
+    "CHT": "峽灣長歌",
+    "DE": "Ballade der Fjorde",
+    "ES": "Balada de los Fiordos",
+    "FR": "Ballade des fjords",
+    "ID": "Ballad of the Fjords",
+    "IT": "Ballata dei fiordi",
+    "JP": "フィヨルドの歌",
+    "KR": "협만의 노래",
+    "PT": "Canção do Fiorde",
+    "RU": "Баллада фьордов",
+    "TH": "Ballad of the Fjords",
+    "TR": "Fiyortların Türküsü",
+    "VI": "Khúc Ca Vịnh Hẹp"
+  },
+  "nameEn": "Ballad of the Fjords",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A polearm used by those seeking to catch fish in the tundra. It lets none escape.",
+    "CHS": "在冰原捕鱼的人会使用的长枪，绝对不会放跑猎物。",
+    "CHT": "在冰原捕魚的人會使用的長槍，絕對不會放跑獵物。",
+    "DE": "Eine Lanze, die von Fischern auf den Eisfeldern verwendet wird. Für die Beute gibt es kein Entkommen.",
+    "ES": "Una lanza utilizada por las personas que pescan en las zonas de tundra. Ninguna presa se le puede escapar.",
+    "FR": "Une lance utilisée par ceux qui cherchent à attraper du poisson dans la toundra. Elle ne laisse personne s'échapper.",
+    "ID": "Tombak yang digunakan oleh mereka yang ingin menangkap ikan di kutub es. Tombak ini jelas tidak akan membiarkan mangsanya lolos.",
+    "IT": "Un'arma ad asta usata da chi vuole pescare nella tundra. Non lascia scampo a nessuno.",
+    "JP": "氷原で魚を捕る人が使用する長槍。これまでに獲物を逃がしたことは決してない。",
+    "KR": "얼음 벌판의 어부가 사용하는 장창. 절대 사냥감을 놓치지 않는다",
+    "PT": "Uma lança usada por aqueles que querem pegar peixes nas tundras. Não deixa ninguém escapar.",
+    "RU": "Древковое оружие рыбаков ледяной пустыни. Теперь от вас не уйдёт никакая добыча.",
+    "TH": "หอกที่ถูกใช้โดยผู้คนที่ต้องจับปลาบนผืนน้ำแข็ง ซึ่งไม่มีวันปล่อยเหยื่อให้หลุดเล็ดลอดไปได้แน่นอน",
+    "TR": "Buzların arasında balık tutmak isteyenlerin tercihi olan bir mızrak. Hiçbir balık ondan kaçamaz.",
+    "VI": "Ngọn thương mà người bắt cá ở vùng băng giá sử dụng, tuyệt đối không buông tha cho bất cứ con mồi nào."
+  },
+  "icon": "generated/weapon-profiles/13424/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

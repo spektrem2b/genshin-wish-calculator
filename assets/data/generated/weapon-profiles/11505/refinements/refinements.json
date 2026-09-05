@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Protector's Virtue",
+    "CHS": "护国的无垢之心",
+    "CHT": "護國的無垢之心",
+    "DE": "Reines Beschützerherz",
+    "ES": "Pureza del protector",
+    "FR": "Vertu du protecteur",
+    "ID": "Protector's Virtue",
+    "IT": "Virtù del protettore",
+    "JP": "護国の無垢なる心",
+    "KR": "수호자의 무구한 마음",
+    "PT": "Pureza do Protetor",
+    "RU": "Добродетель защитника",
+    "TH": "Protector's Virtue",
+    "TR": "Koruyucu Erdemi",
+    "VI": "Trái Tim Hộ Quốc"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "HP increased by 20%. Additionally, provides an ATK Bonus based on 1.2% of the wielder's Max HP.",
+        "CHS": "生命值提升20%。此外，基于装备该武器的角色生命值上限的1.2%，获得攻击力加成。",
+        "CHT": "生命值提升20%。此外，基於裝備此武器的角色生命值上限的1.2%，獲得攻擊力加成。",
+        "DE": "Erhöht die LP um 20 %. Erhöht den ANG um 1,2 % der max. LP der mit dieser Waffe ausgerüsteten Figur.",
+        "ES": "Aumenta la Vida en un 20%. Además, el personaje que lleve esta arma equipada obtendrá un 1.2% de Bono de ATQ en proporción a su Vida Máx.",
+        "FR": "Les PV sont augmentés de 20 %. Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à 1,2 % de ses PV max.",
+        "ID": "Meningkatkan 20% Max HP, dan memberikan Bonus ATK sebesar 1,2% dari Max HP pengguna.",
+        "IT": "I PS aumentano di un 20%. Inoltre, fornisce un bonus ATT pari a un 1,2% dei PS max del personaggio equipaggiato con quest'arma.",
+        "JP": "HP+20%。また、キャラクターのHP上限の1.2%分、攻撃力がアップする。",
+        "KR": "HP가 20% 증가하고, 이 무기를 장착한 캐릭터 HP 최대치의 1.2%에 해당하는 공격력 보너스를 획득한다",
+        "PT": "Aumenta a Vida em 20%. Além disso, o Personagem que equipar esta arma terá um Bônus de ATQ de 1.2% com base na Vida Máxima.",
+        "RU": "Увеличивает HP на 20%. Также даёт бонус атаки, равный 1,2% от макс. HP экипированного этим оружием персонажа.",
+        "TH": "เพิ่มพลังชีวิต 20% นอกจากนี้ จะได้รับโบนัสพลังโจมตีเป็น 1.2% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้",
+        "TR": "Canı %20 artırır. Ayrıca silahı kullanan karakterin Maks. Canının %1,2'si kadar bir Saldırı Bonusu sağlar.",
+        "VI": "HP tăng 20%. Ngoài ra, nhận được buff tấn công dựa trên 1.2% giới hạn HP của nhân vật trang bị vũ khí này."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "HP increased by 25%. Additionally, provides an ATK Bonus based on 1.5% of the wielder's Max HP.",
+        "CHS": "生命值提升25%。此外，基于装备该武器的角色生命值上限的1.5%，获得攻击力加成。",
+        "CHT": "生命值提升25%。此外，基於裝備該武器的角色生命值上限的1.5%，獲得攻擊力加成。",
+        "DE": "Erhöht die LP um 25 %. Erhöht den ANG um 1,5 % der max. LP der mit dieser Waffe ausgerüsteten Figur.",
+        "ES": "Aumenta la Vida en un 25%. Además, el personaje que lleve esta arma equipada obtendrá un 1.5% de Bono de ATQ en proporción a su Vida Máx.",
+        "FR": "Les PV sont augmentés de 25 %. Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à 1,5 % de ses PV max.",
+        "ID": "Meningkatkan 25% Max HP, dan memberikan Bonus ATK sebesar 1,5% dari Max HP pengguna.",
+        "IT": "I PS aumentano di un 25%. Inoltre, fornisce un bonus ATT pari a un 1,5% dei PS max del personaggio equipaggiato con quest'arma.",
+        "JP": "HP+25%。また、キャラクターのHP上限の1.5%分、攻撃力がアップする。",
+        "KR": "HP가 25% 증가하고, 이 무기를 장착한 캐릭터 HP 최대치의 1.5%에 해당하는 공격력 보너스를 획득한다",
+        "PT": "Aumenta a Vida em 25%. Além disso, o Personagem que equipar esta arma terá um Bônus de ATQ de 1.5% com base na Vida Máxima.",
+        "RU": "Увеличивает HP на 25%. Также даёт бонус атаки, равный 1,5% от макс. HP экипированного этим оружием персонажа.",
+        "TH": "เพิ่มพลังชีวิต 25% นอกจากนี้ จะได้รับโบนัสพลังโจมตีเป็น 1.5% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้",
+        "TR": "Canı %25 artırır. Ayrıca silahı kullanan karakterin Maks. Canının %1,5'i kadar bir Saldırı Bonusu sağlar.",
+        "VI": "HP tăng 25%. Ngoài ra, nhận được buff tấn công dựa trên 1.5% giới hạn HP của nhân vật trang bị vũ khí này."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "HP increased by 30%. Additionally, provides an ATK Bonus based on 1.8% of the wielder's Max HP.",
+        "CHS": "生命值提升30%。此外，基于装备该武器的角色生命值上限的1.8%，获得攻击力加成。",
+        "CHT": "生命值提升30%。此外，基於裝備該武器的角色生命值上限的1.8%，獲得攻擊力加成。",
+        "DE": "Erhöht die LP um 30 %. Erhöht den ANG um 1,8 % der max. LP der mit dieser Waffe ausgerüsteten Figur.",
+        "ES": "Aumenta la Vida en un 30%. Además, el personaje que lleve esta arma equipada obtendrá un 1.8% de Bono de ATQ en proporción a su Vida Máx.",
+        "FR": "Les PV sont augmentés de 30 %. Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à 1,8 % de ses PV max.",
+        "ID": "Meningkatkan 30% Max HP, dan memberikan Bonus ATK sebesar 1,8% dari Max HP pengguna.",
+        "IT": "I PS aumentano di un 30%. Inoltre, fornisce un bonus ATT pari a un 1,8% dei PS max del personaggio equipaggiato con quest'arma.",
+        "JP": "HP+30%。また、キャラクターのHP上限の1.8%分、攻撃力がアップする。",
+        "KR": "HP가 30% 증가하고, 이 무기를 장착한 캐릭터 HP 최대치의 1.8%에 해당하는 공격력 보너스를 획득한다",
+        "PT": "Aumenta a Vida em 30%. Além disso, o Personagem que equipar esta arma terá um Bônus de ATQ de 1.8% com base na Vida Máxima.",
+        "RU": "Увеличивает HP на 30%. Также даёт бонус атаки, равный 1,8% от макс. HP экипированного этим оружием персонажа.",
+        "TH": "เพิ่มพลังชีวิต 30% นอกจากนี้ จะได้รับโบนัสพลังโจมตีเป็น 1.8% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้",
+        "TR": "Canı %30 artırır. Ayrıca silahı kullanan karakterin Maks. Canının %1,8'i kadar bir Saldırı Bonusu sağlar.",
+        "VI": "HP tăng 30%. Ngoài ra, nhận được buff tấn công dựa trên 1.8% giới hạn HP của nhân vật trang bị vũ khí này."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "HP increased by 35%. Additionally, provides an ATK Bonus based on 2.1% of the wielder's Max HP.",
+        "CHS": "生命值提升35%。此外，基于装备该武器的角色生命值上限的2.1%，获得攻击力加成。",
+        "CHT": "生命值提升35%。此外，基於裝備該武器的角色生命值上限的2.1%，獲得攻擊力加成。",
+        "DE": "Erhöht die LP um 35 %. Erhöht den ANG um 2,1 % der max. LP der mit dieser Waffe ausgerüsteten Figur.",
+        "ES": "Aumenta la Vida en un 35%. Además, el personaje que lleve esta arma equipada obtendrá un 2.1% de Bono de ATQ en proporción a su Vida Máx.",
+        "FR": "Les PV sont augmentés de 35 %. Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à 2,1 % de ses PV max.",
+        "ID": "Meningkatkan 35% Max HP, dan memberikan Bonus ATK sebesar 2,1% dari Max HP pengguna.",
+        "IT": "I PS aumentano di un 35%. Inoltre, fornisce un bonus ATT pari a un 2,1% dei PS max del personaggio equipaggiato con quest'arma.",
+        "JP": "HP+35%。また、キャラクターのHP上限の2.1%分、攻撃力がアップする。",
+        "KR": "HP가 35% 증가하고, 이 무기를 장착한 캐릭터 HP 최대치의 2.1%에 해당하는 공격력 보너스를 획득한다",
+        "PT": "Aumenta a Vida em 35%. Além disso, o Personagem que equipar esta arma terá um Bônus de ATQ de 2.1% com base na Vida Máxima.",
+        "RU": "Увеличивает HP на 35%. Также даёт бонус атаки, равный 2,1% от макс. HP экипированного этим оружием персонажа.",
+        "TH": "เพิ่มพลังชีวิต 35% นอกจากนี้ จะได้รับโบนัสพลังโจมตีเป็น 2.1% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้",
+        "TR": "Canı %35 artırır. Ayrıca silahı kullanan karakterin Maks. Canının %2,1'i kadar bir Saldırı Bonusu sağlar.",
+        "VI": "HP tăng 35%. Ngoài ra, nhận được buff tấn công dựa trên 2.1% giới hạn HP của nhân vật trang bị vũ khí này."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "HP increased by 40%. Additionally, provides an ATK Bonus based on 2.4% of the wielder's Max HP.",
+        "CHS": "生命值提升40%。此外，基于装备该武器的角色生命值上限的2.4%，获得攻击力加成。",
+        "CHT": "生命值提升40%。此外，基於裝備該武器的角色生命值上限的2.4%，獲得攻擊力加成。",
+        "DE": "Erhöht die LP um 40 %. Erhöht den ANG um 2,4 % der max. LP der mit dieser Waffe ausgerüsteten Figur.",
+        "ES": "Aumenta la Vida en un 40%. Además, el personaje que lleve esta arma equipada obtendrá un 2.4% de Bono de ATQ en proporción a su Vida Máx.",
+        "FR": "Les PV sont augmentés de 40 %. Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à 2,4 % de ses PV max.",
+        "ID": "Meningkatkan 40% Max HP, dan memberikan Bonus ATK sebesar 2,4% dari Max HP pengguna.",
+        "IT": "I PS aumentano di un 40%. Inoltre, fornisce un bonus ATT pari a un 2,4% dei PS max del personaggio equipaggiato con quest'arma.",
+        "JP": "HP+40%。また、キャラクターのHP上限の2.4%分、攻撃力がアップする。",
+        "KR": "HP가 40% 증가하고, 이 무기를 장착한 캐릭터 HP 최대치의 2.4%에 해당하는 공격력 보너스를 획득한다",
+        "PT": "Aumenta a Vida em 40%. Além disso, o Personagem que equipar esta arma terá um Bônus de ATQ de 2.4% com base na Vida Máxima.",
+        "RU": "Увеличивает HP на 40%. Также даёт бонус атаки, равный 2,4% от макс. HP экипированного этим оружием персонажа.",
+        "TH": "เพิ่มพลังชีวิต 40% นอกจากนี้ จะได้รับโบนัสพลังโจมตีเป็น 2.4% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้",
+        "TR": "Canı %40 artırır. Ayrıca silahı kullanan karakterin Maks. Canının %2,4'ü kadar bir Saldırı Bonusu sağlar.",
+        "VI": "HP tăng 40%. Ngoài ra, nhận được buff tấn công dựa trên 2.4% giới hạn HP của nhân vật trang bị vũ khí này."
+      }
+    }
+  ]
+}

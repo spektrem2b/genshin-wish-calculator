@@ -1,0 +1,137 @@
+{
+  "id": "10000067",
+  "name": {
+    "EN": "Collei",
+    "CHS": "柯莱",
+    "CHT": "柯萊",
+    "DE": "Collei",
+    "ES": "Collei",
+    "FR": "Collei",
+    "ID": "Collei",
+    "IT": "Collei",
+    "JP": "コレイ",
+    "KR": "콜레이",
+    "PT": "Collei",
+    "RU": "Коллеи",
+    "TH": "Collei",
+    "TR": "Collei",
+    "VI": "Collei"
+  },
+  "nameEn": "Collei",
+  "element": "Dendro",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 5,
+    "day": 8
+  },
+  "release": "2022-08-23T21:00:00",
+  "icon": "generated/character-profiles/10000067/avatar.webp",
+  "fullWish": "generated/character-profiles/10000067/full_wish.webp",
+  "fullWishObjectPosition": "48.8% 27.6%",
+  "title": {
+    "EN": "Sprout of Rebirth",
+    "CHS": "萃念初蘖",
+    "CHT": "萃念初櫱",
+    "DE": "Taufrisches Keimblatt",
+    "ES": "La Promesa en Flor",
+    "FR": "Germe de renaissance",
+    "ID": "Sprout of Rebirth",
+    "IT": "Germoglio di rinascita",
+    "JP": "純真を抱く萌蘖",
+    "KR": "다시 움튼 새싹",
+    "PT": "Broto de Renascimento",
+    "RU": "Росток возрождения",
+    "TH": "ต้นกล้าเมื่อคราแรกแย้ม",
+    "TR": "Yeniden Doğuş Filizi",
+    "VI": "Mầm Non Tái Sinh"
+  },
+  "description": {
+    "EN": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
+    "CHS": "活跃于道成林的见习巡林员，热情的言行背后是一颗依旧稍显内向的心。",
+    "CHT": "活躍於道成林的見習巡林員，熱情的言行背後是一顆依舊稍顯內向的心。",
+    "DE": "Eine auszubildende Waldhüterin vom Avidya-Wald. Hinter ihren leidenschaftlichen Worten und Taten verbirgt sich eine eher introvertierte Persönlichkeit.",
+    "ES": "Una guardabosques en prácticas que suele rondar por el Bosque Avidya. Detrás de su apasionado carácter se esconde una personalidad más bien introvertida.",
+    "FR": "Une garde forestière en formation active dans la Forêt d'Avidya. Derrière ses paroles et ses actions enthousiastes se cache une personnalité légèrement introvertie.",
+    "ID": "Seorang Penjaga Hutan Pemula yang aktif di Hutan Avidya. Tutur kata dan perbuatannya sangat lembut, namun kepribadiannya sedikit tertutup.",
+    "IT": "Un'apprendista guardaboschi di servizio nella Selva di Avidya. Le sue parole e le sue azioni appassionate celano una personalità un po' introversa.",
+    "JP": "アビディアの森で活躍する見習いレンジャー。親切な言動の裏には、少し内向的な性格が隠されている。",
+    "KR": "아비디야 숲에서 활약하는 숲의 견습 순찰자. 열정적인 겉모습 뒤에 조금은 내성적인 성격이 숨겨져 있다",
+    "PT": "Uma Guarda-Florestal em Treinamento que patrulha a Floresta Avidya. Por trás de seu entusiasmo, encontra-se uma personalidade bastante introvertida.",
+    "RU": "Стажёр Лесного дозора в лесу Авидья. За её энергичной речью и действиями скрывается довольно закрытая личность.",
+    "TH": "เจ้าหน้าที่พิทักษ์ป่าฝึกหัดที่ทำงานอยู่ใน Avidya Forest เบื้องหลังคำพูด และการกระทำอันแสนใส่ใจ คือหัวใจที่ถูกเก็บงำซ่อนไว้",
+    "TR": "Avidya Ormanı'nda faaliyet gösteren acemi muhafız. Hevesli söz ve hareketlerinin ardında biraz içe dönük bir kişiliği vardır.",
+    "VI": "Kiểm lâm tập sự nhiệt tình của Rừng Avidya, nhưng đằng sau sự nhiệt tình đó là một trái tim hướng nội đau buồn."
+  },
+  "constellationName": {
+    "EN": "Leptailurus Cervarius",
+    "CHS": "薮猫座",
+    "CHT": "藪貓座",
+    "DE": "Leptailurus Cervarius",
+    "ES": "Leptailurus Cervarius",
+    "FR": "Leptailurus Cervarius",
+    "ID": "Leptailurus Cervarius",
+    "IT": "Leptailurus Cervarius",
+    "JP": "サーバル座",
+    "KR": "서발자리",
+    "PT": "Leptailurus Cervarius",
+    "RU": "Сервал",
+    "TH": "Leptailurus Cervarius",
+    "TR": "Nazlı Serval",
+    "VI": "Cung Tẩu Miêu"
+  },
+  "native": {
+    "EN": "Gandharva Ville",
+    "CHS": "化城郭",
+    "CHT": "化城郭",
+    "DE": "Gandharva",
+    "ES": "Villa Gandharva",
+    "FR": "Gandharva",
+    "ID": "Gandharva Ville",
+    "IT": "Borgo Gandharva",
+    "JP": "ガンダルヴァー村",
+    "KR": "간다르바 성곽",
+    "PT": "Vila Gandharva",
+    "RU": "Гандхарва",
+    "TH": "Gandharva Ville",
+    "TR": "Gandharva",
+    "VI": "Làng Gandharva"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Christina Costello"
+    },
+    {
+      "lang": "CHS",
+      "va": "秦文静"
+    },
+    {
+      "lang": "JP",
+      "va": "前川涼子"
+    },
+    {
+      "lang": "KR",
+      "va": "Bang Siu"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 820.6119,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.73952,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 50.358,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

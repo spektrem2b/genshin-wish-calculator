@@ -1,0 +1,137 @@
+{
+  "id": "10000085",
+  "name": {
+    "EN": "Freminet",
+    "CHS": "菲米尼",
+    "CHT": "菲米尼",
+    "DE": "Fréminet",
+    "ES": "Fréminet",
+    "FR": "Fréminet",
+    "ID": "Freminet",
+    "IT": "Freminet",
+    "JP": "フレミネ",
+    "KR": "프레미네",
+    "PT": "Freminet",
+    "RU": "Фремине",
+    "TH": "Freminet",
+    "TR": "Freminet",
+    "VI": "Freminet"
+  },
+  "nameEn": "Freminet",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 9,
+    "day": 24
+  },
+  "release": "2023-09-05T15:00:00",
+  "icon": "generated/character-profiles/10000085/avatar.webp",
+  "fullWish": "generated/character-profiles/10000085/full_wish.webp",
+  "fullWishObjectPosition": "51.3% 28.1%",
+  "title": {
+    "EN": "Yearning for Unseen Depths",
+    "CHS": "潜怀遐梦",
+    "CHT": "潛懷遐夢",
+    "DE": "Sehnsucht nach verborgenen Tiefen",
+    "ES": "El Buzo de lo Insondable",
+    "FR": "Aspirant à des profondeurs invisibles",
+    "ID": "Yearning for Unseen Depths",
+    "IT": "Brama di profondità invisibili",
+    "JP": "夢想の海を沈んで",
+    "KR": "심해에 잠긴 아득한 꿈",
+    "PT": "Ansioso por Sonhos Profundos",
+    "RU": "Тоска по невиданным глубинам",
+    "TH": "ดำดิ่งสู่ภวังค์ฝัน",
+    "TR": "Dipsiz Derinliklere Özlem",
+    "VI": "Khát Khao Chìm Đắm"
+  },
+  "description": {
+    "EN": "A reserved young man who is well-versed in diving. Beneath his distant, icy demeanor lies a pure heart bereft of all flaws.",
+    "CHS": "精于潜水的寡言少年，在如寒冰般拒人千里的外表下，藏有一颗无瑕的纯真之心。",
+    "CHT": "精於潛水的寡言少年，在如寒冰般拒人千里的外表下，藏有一顆無瑕的純真之心。",
+    "DE": "Ein schweigsamer Junge, der sich im Tauchen auskennt. Unter seiner eisigen Erscheinung verbirgt sich ein reines und makelloses Herz.",
+    "ES": "Un retraído joven experto en el arte del submarinismo. Bajo su gélido y distante talante, se oculta un corazón sin mácula alguna.",
+    "FR": "Un jeune homme réservé qui connaît bien la plongée. Sous son air lointain et glacial se cache un cœur pur dépourvu de tout défaut.",
+    "ID": "Anak muda pendiam yang jago menyelam. Di balik pembawaannya yang dingin dan tidak ramah, tersembunyi hati yang murni penuh ketulusan.",
+    "IT": "Un giovane riservato esperto di immersioni. Al di là del suo atteggiamento distante e algido si nasconde un cuore puro e immacolato.",
+    "JP": "潜水の道を極めた寡黙な少年。氷のように近づきがたい外見の下に、一点の瑕もない純粋な心を秘めている。",
+    "KR": "잠수에 능한 과묵한 소년. 얼음처럼 차가운 외모 아래 더없이 순수한 마음이 숨겨져 있다",
+    "PT": "Um jovem reservado muito habilidoso em mergulho. Sob seu comportamento distante e frio, há um coração puro isento de qualquer falha.",
+    "RU": "Сдержанный молодой человек, мастер подводного плавания. За его отстранённой, ледяной наружностью скрывается чистая душа без единого порока.",
+    "TH": "เด็กหนุ่มพูดน้อยผู้เชี่ยวชาญในการประดาน้ำ ใต้รูปลักษณ์ภายนอกเย็นยะเยือกห่างเหินนั้น มีหัวใจบริสุทธิ์ไร้มลทินดวงหนึ่งซ่อนอยู่",
+    "TR": "Dalış konusunda oldukça bilgili genç bir beyefendi. Mesafeli ve soğuk tavrının ardında kusursuz, saf bir kalbe sahiptir.",
+    "VI": "Thiếu niên ít nói rất giỏi bơi lặn, bên dưới vẻ ngoài lạnh lùng là một trái tim thuần khiết."
+  },
+  "constellationName": {
+    "EN": "Automaton",
+    "CHS": "机巧座",
+    "CHT": "機巧座",
+    "DE": "Automaton",
+    "ES": "Automaton",
+    "FR": "Automaton",
+    "ID": "Automaton",
+    "IT": "Automaton",
+    "JP": "オートマタ座",
+    "KR": "오토마톤자리",
+    "PT": "Automaton",
+    "RU": "Автоматон",
+    "TH": "Automaton",
+    "TR": "Canavar Makinası",
+    "VI": "Cung Cơ Xảo"
+  },
+  "native": {
+    "EN": "Hotel Bouffes d'ete",
+    "CHS": "布法蒂公馆",
+    "CHT": "布法蒂公館",
+    "DE": "Hotel Bouffes d’été",
+    "ES": "Hotel Bouffes d'Été",
+    "FR": "Hôtel Bouffes d'été",
+    "ID": "Hotel Bouffes d'ete",
+    "IT": "Hotel Bouffes d'Été",
+    "JP": "ブーフ·ド·エテの館",
+    "KR": "부프 데테 저택",
+    "PT": "Hotel Bouffes d'ete",
+    "RU": "Особняк «Буфф д'эте»",
+    "TH": "โรงแรม Bouffes d'ete",
+    "TR": "Bouffes d'Été Otel",
+    "VI": "Khách Sạn Bouffes d'ete"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Paul Castro Jr."
+    },
+    {
+      "lang": "CHS",
+      "va": "锦鲤"
+    },
+    {
+      "lang": "JP",
+      "va": "土岐隼一"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Ju-seung"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1012.088,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 21.3696,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.39955,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

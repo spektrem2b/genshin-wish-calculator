@@ -1,0 +1,52 @@
+{
+  "id": 11501,
+  "name": {
+    "EN": "Aquila Favonia",
+    "CHS": "风鹰剑",
+    "CHT": "風鷹劍",
+    "DE": "Windfalke",
+    "ES": "Aquila Favonia",
+    "FR": "Épée du faucon",
+    "ID": "Aquila Favonia",
+    "IT": "Aquila Favonia",
+    "JP": "風鷹剣",
+    "KR": "매의 검",
+    "PT": "Falcão",
+    "RU": "Меч Сокола",
+    "TH": "Aquila Favonia",
+    "TR": "Favonia Kartalı",
+    "VI": "Phong Ưng Kiếm"
+  },
+  "nameEn": "Aquila Favonia",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it.",
+    "CHS": "西风骑士团的灵魂。历经千年仍在呼唤你卷起正义之风，祓除奸邪，一如上一位挥舞此剑的女杰。",
+    "CHT": "#西風騎士團的靈魂。歷經千年仍在呼喚{F#妳}{M#你}捲起正義之風，拔除奸邪，一如上一位揮舞此劍的女傑。",
+    "DE": "Die Seele des Ordo Favonius. Selbst nach Jahrtausenden ruft es in dir den Wind der Gerechtigkeit hervor, um das Böse zu bekämpfen, ganz wie bei der letzten Heldin, die es trug.",
+    "ES": "El alma de los Caballeros de Favonius. Milenios más tarde, sigue llamando a los vientos de la justicia a desterrar todo mal, igual que la última heroína que la empuñó.",
+    "FR": "L'âme de l'Ordre de Favonius. Même après des millénaires, elle continue d'appeler le vent de la justice pour venir à bout du mal – tout comme la dernière héroïne à qui elle appartenait.",
+    "ID": "Lambang jiwa dan raga dari Knights of Favonius. Ribuan tahun berlalu pun, pedang ini masih akan menghembuskan angin keadilan, dan membasmi kejahatan, seperti pahlawan wanita yang terakhir menggenggamnya.",
+    "IT": "L'anima dei Cavalieri di Favonius. Millenni più tardi, evoca ancora i venti della giustizia per sconfiggere il male, proprio come l'ultima eroina che la impugnò.",
+    "JP": "西風騎士団の魂。この剣を振り回していた女傑と同じように、千年経っても未だ正義の風を巻き起こし、悪を排除しようとする。",
+    "KR": "페보니우스 기사단의 영혼은 천 년이 지난 지금도, 마치 예전에 이 검을 휘두르던 여걸처럼 정의의 바람으로 간악한 자들을 물리쳐주길 바라고 있다",
+    "PT": "A alma dos Cavaleiros de Favonius. Milênios depois, ainda chama pelos ventos para expulsar todo o mal - assim como a última heroína que a manejava.",
+    "RU": "Дух рыцарей Ордо Фавониус. Спустя века он всё ещё взывает к ветрам правосудия, чтобы наказать зло, словно героиня легенд, что была когда-то его владельцем.",
+    "TH": "จิตวิญญาณของเหล่าอัศวินแห่ง Favonius แม้พันปีผ่านไป มันก็ยังคงเป็นดั่งสายลมแห่ง ความยุติธรรมที่ขับไล่สิ่งชั่วร้าย เช่นเดียวกับวีรชนหญิง คนสุดท้ายที่กวัดแกว่งมัน",
+    "TR": "Favonius Şövalyelerinin ruhu. Bin yıl sonra bile, onu kullanan son kahraman gibi kötülüğü yenmek için adalet rüzgarlarını çağırabilir.",
+    "VI": "Linh hồn của Đội Kỵ Sĩ Tây Phong. Trải qua ngàn năm vẫn không ngừng gọi gió chính nghĩa, trừ gian diệt ác, giống như người nữ anh hùng từng dùng nó."
+  },
+  "icon": "generated/weapon-profiles/11501/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

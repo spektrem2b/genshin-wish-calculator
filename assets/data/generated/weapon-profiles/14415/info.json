@@ -1,0 +1,52 @@
+{
+  "id": 14415,
+  "name": {
+    "EN": "Oathsworn Eye",
+    "CHS": "证誓之明瞳",
+    "CHT": "證誓之明瞳",
+    "DE": "Auge des Gelöbnisses",
+    "ES": "Ojo del Juramento",
+    "FR": "Œil d'assermentation",
+    "ID": "Oathsworn Eye",
+    "IT": "Occhio del giuramento",
+    "JP": "誓いの明瞳",
+    "KR": "맹세의 눈동자",
+    "PT": "Olho do Juramento",
+    "RU": "Око клятвы",
+    "TH": "Oathsworn Eye",
+    "TR": "Yeminli Göz",
+    "VI": "Con Ngươi Tuyên Thệ"
+  },
+  "nameEn": "Oathsworn Eye",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.",
+    "CHS": "大日御舆收藏的白夜国之宝。蛇神到来后，渊下宫用以公证大誓与大愿的宝物。",
+    "CHT": "大日御輿收藏的白夜國之寶。蛇神到來後，淵下宮用以公證大誓與大願的寶物。",
+    "DE": "Ein Nationalschatz von Byakuyakoku, der im Dainichi Mikoshi aufbewahrt wird. Mit dem Erscheinen des Schlangengottes wurde dieser Gegenstand verwendet, um große Eide und Wünsche zu beglaubigen.",
+    "ES": "Un tesoro del reino de Byakuya guardado en el Dainichi Mikoshi. Tras la llegada del dios serpiente, se usó en Enkanomiya como testigo de grandes juramentos y deseos.",
+    "FR": "Un trésor national de Byakuyakoku conservé dans le Dainichi Mikoshi. Après la venue de la divinité serpent, cet objet a été utilisé pour certifier nombre de grands serments et souhaits.",
+    "ID": "Harta nasional Byakuyakoku yang disimpan di Dainichi Mikoshi. Setelah kedatangan Dewa Ular, benda berharga ini digunakan Enkanomiya untuk menyatakan sumpah dan harapan yang besar.",
+    "IT": "Un tesoro nazionale di Byakuyakoku conservato nel Dainichi Mikoshi. Con la venuta del Dio serpente, questo oggetto venne utilizzato per ufficializzare desideri e giuramenti.",
+    "JP": "大日御輿に収蔵されている白夜国の宝。蛇神が訪れた後、淵下宮の大いなる誓いと願いの公証として使われていた。",
+    "KR": "다이니치 미코시가 보관하고 있는 백야국의 보물. 뱀의 신이 강림한 이후로는 연하궁의 맹세와 염원을 공증하는 보물로 사용됐다",
+    "PT": "Um tesouro nacional do Reino de Byakuya guardado no Dainichi Mikoshi. Com a chegada do Deus Serpente, este item foi usado para autenticar grandes juramentos e desejos.",
+    "RU": "Реликвия Бякуякоку, которая хранилась в Дайнити Микоси. После прихода бога-змея она стала доказательством великой клятвы и чаяний Энканомии.",
+    "TH": "สมบัติของ Byakuyakoku ที่ถูกซ่อนอยู่ใน Dainichi Mikoshi ซึ่งหลังจากการมาถึงของเทพอสรพิษ ก็เป็นสมบัติที่ทาง Enkanomiya ใช้เพื่อยืนยันถึงความซื่อสัตย์และความปรารถนาอันยิ่งใหญ่",
+    "TR": "Byakuyakoku'nun Dainichi Mikoshi'de saklanan ulusal hazinelerinden biridir. Yılan Tanrısının gelişinden sonra bu eşya, edilen büyük yeminleri ve dilenen dilekleri onaylamak için kullanılırdı.",
+    "VI": "Báu vật của Vương Quốc Đêm Trắng được cất giữ ở Dainichi Mikoshi. Sau khi Thần Rắn đến, Enkanomiya dùng vật này để chứng nhận cho những lời hứa lớn lao và nguyện vọng to lớn."
+  },
+  "icon": "generated/weapon-profiles/14415/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

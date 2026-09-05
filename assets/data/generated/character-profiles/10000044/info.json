@@ -1,0 +1,137 @@
+{
+  "id": "10000044",
+  "name": {
+    "EN": "Xinyan",
+    "CHS": "辛焱",
+    "CHT": "辛焱",
+    "DE": "Xinyan",
+    "ES": "Xinyan",
+    "FR": "Xinyan",
+    "ID": "Xinyan",
+    "IT": "Xinyan",
+    "JP": "辛炎",
+    "KR": "신염",
+    "PT": "Xinyan",
+    "RU": "Синь Янь",
+    "TH": "Xinyan",
+    "TR": "Xinyan",
+    "VI": "Xinyan"
+  },
+  "nameEn": "Xinyan",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 10,
+    "day": 16
+  },
+  "release": "2020-12-02T02:00:00",
+  "icon": "generated/character-profiles/10000044/avatar.webp",
+  "fullWish": "generated/character-profiles/10000044/full_wish.webp",
+  "fullWishObjectPosition": "61.3% 46.6%",
+  "title": {
+    "EN": "Blazing Riff",
+    "CHS": "燥热旋律",
+    "CHT": "燥熱旋律",
+    "DE": "Glühend heiße Musik",
+    "ES": "La Melodía Incandescente",
+    "FR": "Mélodie ardente",
+    "ID": "Blazing Riff",
+    "IT": "Melodia incandescente",
+    "JP": "爆熱リズム",
+    "KR": "폭열 멜로디",
+    "PT": "Melodia Incandescente",
+    "RU": "Пламенная мелодия",
+    "TH": "เมโลดี้อันร้อนแรง",
+    "TR": "Parlayan Melodi",
+    "VI": "Giai Điệu Nóng Bỏng"
+  },
+  "description": {
+    "EN": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+    "CHS": "璃月港唯一的摇滚乐手，以音乐和热情歌颂着对「成见」的反抗。",
+    "CHT": "璃月港唯一的搖滾樂手，以音樂和熱情歌頌著對「成見」的反抗。",
+    "DE": "Das Mädchen mit dem stürmischsten Musikgeschmack in ganz Liyue. Mit ihrer Musik und ihrem leidenschaftlichen Gesang lehnt sie sich gegen die vorgefassten Meinungen auf.",
+    "ES": "La única rockera de Liyue. A través de la música y la pasión de sus canciones, hace una crítica de los prejuicios de la sociedad.",
+    "FR": "La seule et unique rockeuse de Liyue. Elle combat les préjugés avec sa musique et ses chansons passionnées.",
+    "ID": "Musisi rock 'n' roll satu-satunya di Liyue, kecintaannya yang unik terhadap musik dapat memutarbalikkan pemahaman-pemahaman masyarakat yang kaku.",
+    "IT": "L'unica musicista rock di tutta Liyue. Esprime la sua ribellione nei confronti dei pregiudizi con la sua musica e il canto appassionato.",
+    "JP": "璃月港唯一のロックミュージシャン。音楽と情熱で「先入観」への反抗を歌う。",
+    "KR": "리월의 유일한 로커(Rocker), 음악과 열정으로 「편견」에 대한 반항을 노래한다",
+    "PT": "A única roqueira do Porto de Liyue, ela usa sua música e canções apaixonadas para resistir aos preconceitos.",
+    "RU": "Единственный рок-музыкант Ли Юэ. Своей вдохновляющей музыкой и пением она выражает протест предубеждениям.",
+    "TH": "นักดนตรีร็อกแอนด์โรลเพียงหนึ่งเดียวของท่าเรือ Liyue ผู้ใช้เสียงดนตรีและความเร่าร้อนร้องเพลงเพื่อต่อต้าน \"อคติ\"",
+    "TR": "Liyue'nin tek rock müzisyeni. Tutkulu müziği ve sözleriyle tüm tabularla alay eder.",
+    "VI": "Nghệ sĩ rock duy nhất ở cảng Liyue, dùng âm nhạc và niềm đam mê hát lên chống lại những \"định kiến\"."
+  },
+  "constellationName": {
+    "EN": "Fila Ignium",
+    "CHS": "红檀四弦座",
+    "CHT": "紅檀四弦座",
+    "DE": "Fila Ignium",
+    "ES": "Fila Ignium",
+    "FR": "Fila Ignium",
+    "ID": "Fila Ignium",
+    "IT": "Fila Ignium",
+    "JP": "紅檀四弦座",
+    "KR": "홍단사현자리",
+    "PT": "Fila Ignium",
+    "RU": "Сандаловая Мандолина",
+    "TH": "Fila Ignium",
+    "TR": "Ateşli Çalgı",
+    "VI": "Hồng Đàn Tứ Huyền"
+  },
+  "native": {
+    "EN": "\"The Red Strings\"",
+    "CHS": "「红弦」",
+    "CHT": "「紅弦」",
+    "DE": "„Rote Saite“",
+    "ES": "Cuerdas Rojas",
+    "FR": "Les fils rouges",
+    "ID": "\"Benang Merah\"",
+    "IT": "Corde rosse",
+    "JP": "「赤弦」",
+    "KR": "「홍현」",
+    "PT": "Corda Vermelha",
+    "RU": "«Алая струна»",
+    "TH": "\"สายสีแดง\"",
+    "TR": "\"Kızıl Teller\"",
+    "VI": "\"Dây Đỏ\""
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Laura Stahl"
+    },
+    {
+      "lang": "CHS",
+      "va": "王雅欣"
+    },
+    {
+      "lang": "JP",
+      "va": "たかはし智秋"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Chae-ha"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 939.1447,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.83536,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 66.95325,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

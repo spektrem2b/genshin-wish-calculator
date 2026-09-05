@@ -1,0 +1,137 @@
+{
+  "id": "10000024",
+  "name": {
+    "EN": "Beidou",
+    "CHS": "北斗",
+    "CHT": "北斗",
+    "DE": "Beidou",
+    "ES": "Beidou",
+    "FR": "Beidou",
+    "ID": "Beidou",
+    "IT": "Beidou",
+    "JP": "北斗",
+    "KR": "북두",
+    "PT": "Beidou",
+    "RU": "Бэй Доу",
+    "TH": "Beidou",
+    "TR": "Beidou",
+    "VI": "Beidou"
+  },
+  "nameEn": "Beidou",
+  "element": "Electro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 2,
+    "day": 14
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000024/avatar.webp",
+  "fullWish": "generated/character-profiles/10000024/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 18.5%",
+  "title": {
+    "EN": "Uncrowned Lord of the Ocean",
+    "CHS": "无冕的龙王",
+    "CHT": "無冕的龍王",
+    "DE": "Ungekrönte Königin der Meere",
+    "ES": "La Reina del Océano sin Corona",
+    "FR": "Reine des mers sans couronne",
+    "ID": "Uncrowned Lord of Ocean",
+    "IT": "Regina dei mari senza corona",
+    "JP": "無冠の龍王",
+    "KR": "무관의 용왕",
+    "PT": "Rainha do Mar Sem Coroa",
+    "RU": "Владычица морей",
+    "TH": "ราชินีไร้บัลลังก์แห่งท้องทะเล",
+    "TR": "Okyanusun Taçsız Efendisi",
+    "VI": "Long Vương Không Vương Miện"
+  },
+  "description": {
+    "EN": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+    "CHS": "武装船队「南十字」的首领，豪快的大姐头。",
+    "CHT": "武裝船隊「南十字」的首領，豪快的大姊頭。",
+    "DE": "Die Anführerin der bewaffneten Flotte „Crux“, freimütig und draufgängerisch.",
+    "ES": "Líder de la Flota Crux Meridianam. Es una jefa bastante desenfadada y franca.",
+    "FR": "Capitaine de la Flotte du Crux, une femme de tête franche et directe.",
+    "ID": "Pemimpin dari armada laut Crux Fleet. Bos wanita yang tegas dan berpendirian teguh.",
+    "IT": "Capitana dell'equipaggio della Crux. Una tipa diretta e indipendente.",
+    "JP": "武装船隊「南十字」の頭領。豪快な姉貴。",
+    "KR": "무장 함대 「남십자」의 우두머리. 호탕한 여걸이다",
+    "PT": "Líder da frota armada Crux. Ela é uma chefe sem limites e franca.",
+    "RU": "Капитан флота Южного Креста. Она весьма рисковая и прямолинейная леди.",
+    "TH": "ผู้นำกองเรือติดอาวุธ \"Crux\" สตรีผู้ซื่อตรง และไร้ซึ่งพันธนาการ",
+    "TR": "Güneyhaçı mürettebatının kaptanı. Oldukça özgür ruhlu ve dobra bir kadın.",
+    "VI": "Thủ lĩnh đội thuyền vũ trang \"Nam Thập Tự\", là chị đại hào sảng."
+  },
+  "constellationName": {
+    "EN": "Victor Mare",
+    "CHS": "南天海山座",
+    "CHT": "南天海山座",
+    "DE": "Victor Mare",
+    "ES": "Victor Mare",
+    "FR": "Victor Mare",
+    "ID": "Victor Mare",
+    "IT": "Victor Mare",
+    "JP": "南天海山座",
+    "KR": "남천해산자리",
+    "PT": "Victor Mare",
+    "RU": "Дракон Морей",
+    "TH": "Victor Mare",
+    "TR": "Denizlerin Fatihi",
+    "VI": "Cung Nam Thiên Hải Sơn"
+  },
+  "native": {
+    "EN": "The Crux",
+    "CHS": "南十字船队",
+    "CHT": "南十字船隊",
+    "DE": "Crux-Flotte",
+    "ES": "Flota Crux Meridianam",
+    "FR": "Flotte du Crux",
+    "ID": "Crux Fleet",
+    "IT": "La Crux",
+    "JP": "南十字船隊",
+    "KR": "남십자함대",
+    "PT": "Frota Crux",
+    "RU": "Южный Крест",
+    "TH": "กองเรือ Crux",
+    "TR": "Güneyhaçı",
+    "VI": "Đội thuyền Nam Thập Tự"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Allegra Clark"
+    },
+    {
+      "lang": "CHS",
+      "va": "唐雅菁"
+    },
+    {
+      "lang": "JP",
+      "va": "小清水亜美"
+    },
+    {
+      "lang": "KR",
+      "va": "Jung Yoo-mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEC_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1094.1492,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.87648,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 54.36375,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

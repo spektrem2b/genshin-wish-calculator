@@ -1,0 +1,52 @@
+{
+  "id": 12515,
+  "name": {
+    "EN": "Gest of the Mighty Wolf",
+    "CHS": "狼的武功歌",
+    "CHT": "狼的武功歌",
+    "DE": "Kampflied des Wolfs",
+    "ES": "Cantar de Gesta del Lobo",
+    "FR": "Geste du loup puissant",
+    "ID": "Gest of the Mighty Wolf",
+    "IT": "Gesta del Lupo maestoso",
+    "JP": "狼の武勲詩",
+    "KR": "늑대의 무용담",
+    "PT": "Balada do Poderoso Lobo",
+    "RU": "Подвиг могучего волка",
+    "TH": "Gest of the Mighty Wolf",
+    "TR": "Kudretli Kurdun Destanı",
+    "VI": "Chiến Hùng Ca Của Sói"
+  },
+  "nameEn": "Gest of the Mighty Wolf",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "Legend has it that this greatsword was forged by the hand of Ravenwood, who inherited the name of Boreas, prior to his ascension to knighthood.",
+    "CHS": "传说中，是继承了「北风」之名的瑞文伍德，在成为骑士前亲手所铸的大剑。",
+    "CHT": "傳說中，是繼承了「北風」之名的瑞文伍德在成為騎士前親手鑄造的大劍。",
+    "DE": "In den Legenden heißt es, dass dieses Großschwert von Ravenwood höchstselbst, der den Titel des „Nordwinds“ geerbt hatte, noch bevor er zum Ritter aufgestiegen war, geschmiedet wurde.",
+    "ES": "Cuenta la leyenda que esta es la gran espada que forjó Ravenwood, aquel que heredó el título de “Boreas”, con sus propias manos antes de convertirse en caballero.",
+    "FR": "La légende raconte que cette grande épée a été forgée par la main de Ravenwood, qui hérita du nom de Borée, avant son accession à la chevalerie.",
+    "ID": "Konon pedang ini ditempa oleh tangan Ravenwood sendiri yang mewarisi nama Boreas, sebelum dia menjadi seorang knight.",
+    "IT": "La leggenda narra che questo spadone sia stato forgiato da Ravenwood, erede del nome di Boreas, prima della sua ascesa al cavalierato.",
+    "JP": "「北風」の名を受け継いだレイヴンウッドが、騎士になる前に自らの手で鍛え上げたとされる大剣。",
+    "KR": "「북풍」의 이름을 계승한 레이븐우드가 기사가 되기 전 직접 만든 대검이라고 전해진다",
+    "PT": "Lendas dizem que esse espadão foi forjado pelas mãos de Ravenwood, que herdou o nome de Boreas antes de virar um cavaleiro.",
+    "RU": "Легенда гласит, что этот меч был выкован самим Равенвудом до того, как он стал рыцарем и унаследовал имя Борей.",
+    "TH": "ตามตำนานเล่าว่า มันคือดาบใหญ่ที่ถูกตีขึ้น ด้วยฝีมือของ Ravenwood ผู้สืบทอดนามแห่ง Boreas ก่อนที่เขาจะเป็นอัศวิน",
+    "TR": "Efsaneye göre bu büyük kılıç, şövalyeliğe yükselmesinden önce Poyraz adını miras almış olan Ravenwood'un elleriyle dövülmüş.",
+    "VI": "Theo truyền thuyết, đây là thanh đại kiếm được người kế thừa danh hiệu \"Bắc Phong\" - Ravenwood đích thân rèn đúc trước khi trở thành kỵ sĩ."
+  },
+  "icon": "generated/weapon-profiles/12515/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

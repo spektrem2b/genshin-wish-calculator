@@ -1,0 +1,52 @@
+{
+  "id": 11424,
+  "name": {
+    "EN": "Wolf-Fang",
+    "CHS": "狼牙",
+    "CHT": "狼牙",
+    "DE": "Wolfszahn",
+    "ES": "Colmillo Lupino",
+    "FR": "Croc de loup",
+    "ID": "Wolf-Fang",
+    "IT": "Zanna di lupo",
+    "JP": "狼牙",
+    "KR": "늑대 송곳니",
+    "PT": "Farpa",
+    "RU": "Волчий клык",
+    "TH": "Wolf-Fang",
+    "TR": "Kurt Dişi",
+    "VI": "Nanh Sói"
+  },
+  "nameEn": "Wolf-Fang",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "Legend has it that this longsword was once used by a wandering knight in the distant past.",
+    "CHS": "传说中，遥远过去的流浪骑士所使用的长剑。",
+    "CHT": "傳說中，遙遠過去的流浪騎士所使用的長劍。",
+    "DE": "Ein legendäres Langschwert, das von einem wandernden Ritter einer längst vergessenen Zeit geführt wurde.",
+    "ES": "Cuenta la leyenda que esta era la espada que utilizaba el legendario caballero errante de un pasado muy remoto.",
+    "FR": "La légende raconte que cette longue épée était autrefois utilisée par un chevalier nomade d'un passé lointain.",
+    "ID": "Konon menurut legenda, pedang panjang ini pernah digunakan oleh seorang kesatria pengembara di masa lalu.",
+    "IT": "Alcune leggende affermano che, in un remoto passato, questo spadone sia appartenuto a un certo cavaliere errante.",
+    "JP": "伝説によると、遥か昔の流浪騎士が使っていた長剣。",
+    "KR": "전설에 따르면, 먼 옛날 한 방랑 기사가 이 장검을 사용했다고 한다",
+    "PT": "Lendas dizem que essa lâmina foi usada por um cavaleiro andarilho num passado distante.",
+    "RU": "Легендарный длинный меч странствующих рыцарей далёкого прошлого.",
+    "TH": "ตำนานเล่าว่าในอดีตอันยาวนาน นี่เคยเป็นดาบของอัศวินพเนจรท่านหนึ่ง",
+    "TR": "Efsaneye göre bu uzun kılıcı çok önceden gezgin bir şövalye kullanırmış.",
+    "VI": "Trong truyền thuyết, đây là thanh kiếm dài mà kỵ sĩ lang thang thời xa xưa đã sử dụng."
+  },
+  "icon": "generated/weapon-profiles/11424/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

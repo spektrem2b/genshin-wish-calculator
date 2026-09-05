@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Secret Wisdom's Favor",
+    "CHS": "秘智之眸的青睐",
+    "CHT": "秘智之眸的青睞",
+    "DE": "Wertschätzung der geheimen Weisheit",
+    "ES": "Gracia del ojo de la sabiduría",
+    "FR": "Faveur de la sagesse secrète",
+    "ID": "Secret Wisdom's Favor",
+    "IT": "Grazia della saggezza arcana",
+    "JP": "秘智の青眼",
+    "KR": "신비한 지혜의 은총",
+    "PT": "Favor da Sabedoria Secreta",
+    "RU": "Благоволение тайной мудрости",
+    "TH": "Secret Wisdom's Favor",
+    "TR": "Saklı Bilgeliğin Lütfu",
+    "VI": "Ân Huệ Của Con Ngươi Trí Tuệ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "The character's Elemental Mastery will increase by 40 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
+        "CHS": "重击命中敌人后的6秒内，角色元素精通提升40点。该效果至多叠加2层，每0.5秒至多触发一次。",
+        "CHT": "重擊命中敵人後的6秒內，角色元素精通提升40點。該效果至多疊加2層，每0.5秒至多觸發一次。",
+        "DE": "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen die Elementarkunde der Figur 6 s um 40 Punkte, 2-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental del personaje aumenta en 40 pts. durante 6 s. Este efecto puede acumularse hasta 2 veces y solo puede activarse una vez cada 0.5 s.",
+        "FR": "Lorsqu'une attaque chargée a touché un ennemi, la maîtrise élémentaire du personnage augmente de 40 pts pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Selama 6 detik setelah Charged Attack mengenai musuh, Elemental Mastery Karakter meningkat 40 poin. Efek ini dapat ditumpuk hingga 2 lapis dan dapat terpicu sekali setiap 0,5 detik.",
+        "IT": "#Dopo aver colpito gli avversari con un attacco caricato, la maestria elementale del personaggio aumenta di 40 nei 6 s successivi. Massimo 2 accumuli. Quest'effetto può attivarsi una volta ogni 0,5 s.",
+        "JP": "重撃が敵に命中した後の6秒間、キャラクターの元素熟知+40。この効果は最大2層まで、0.5秒毎に1回のみ発動可能。",
+        "KR": "강공격이 적에게 명중 후 6초 동안 캐릭터의 원소 마스터리가 40pt 증가한다. 최대 중첩수: 2스택. 해당 효과는 0.5초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental do personagem em 40. Esse efeito pode ser acumulado até 2 vezes e desencadeado uma vez a cada 0.5s.",
+        "RU": "Попадание заряженной атакой по противнику увеличивает мастерство стихий на 40 ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุของตัวละครจะเพิ่มขึ้น 40 หน่วย โดยเอฟเฟกต์นี้จะซ้อนทับมากสุด 2 ชั้น และในทุก 0.5 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+        "TR": "Yüklü Saldırılar düşmana isabet ettiğinde 6 saniyeliğine karakterin Element Ustalığı 40 artar. 2 kademeye kadar birikir. Bu etki 0,5 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi trọng kích trúng kẻ địch, Tinh Thông Nguyên Tố của nhân vật tăng 40 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, mỗi 0.5s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "The character's Elemental Mastery will increase by 50 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
+        "CHS": "重击命中敌人后的6秒内，角色元素精通提升50点。该效果至多叠加2层，每0.5秒至多触发一次。",
+        "CHT": "重擊命中敵人後的6秒內，角色元素精通提升50點。該效果至多疊加2層，每0.5秒至多觸發一次。",
+        "DE": "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen die Elementarkunde der Figur 6 s um 50 Punkte, 2-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental del personaje aumenta en 50 pts. durante 6 s. Este efecto puede acumularse hasta 2 veces y solo puede activarse una vez cada 0.5 s.",
+        "FR": "Lorsqu'une attaque chargée a touché un ennemi, la maîtrise élémentaire du personnage augmente de 50 pts pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Selama 6 detik setelah Charged Attack mengenai musuh, Elemental Mastery Karakter meningkat 50 poin. Efek ini dapat ditumpuk hingga 2 lapis dan dapat terpicu sekali setiap 0,5 detik.",
+        "IT": "#Dopo aver colpito gli avversari con un attacco caricato, la maestria elementale del personaggio aumenta di 50 nei 6 s successivi. Massimo 2 accumuli. Quest'effetto può attivarsi una volta ogni 0,5 s.",
+        "JP": "重撃が敵に命中した後の6秒間、キャラクターの元素熟知+50。この効果は最大2層まで、0.5秒毎に1回のみ発動可能。",
+        "KR": "강공격이 적에게 명중 후 6초 동안 캐릭터의 원소 마스터리가 50pt 증가한다. 최대 중첩수: 2스택. 해당 효과는 0.5초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental do personagem em 50. Esse efeito pode ser acumulado até 2 vezes e desencadeado uma vez a cada 0.5s.",
+        "RU": "Попадание заряженной атакой по противнику увеличивает мастерство стихий на 50 ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุของตัวละครจะเพิ่มขึ้น 50 หน่วย โดยเอฟเฟกต์นี้จะซ้อนทับมากสุด 2 ชั้น และในทุก 0.5 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+        "TR": "Yüklü Saldırılar düşmana isabet ettiğinde 6 saniyeliğine karakterin Element Ustalığı 50 artar. 2 kademeye kadar birikir. Bu etki 0,5 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi trọng kích trúng kẻ địch, Tinh Thông Nguyên Tố của nhân vật tăng 50 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, mỗi 0.5s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "The character's Elemental Mastery will increase by 60 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
+        "CHS": "重击命中敌人后的6秒内，角色元素精通提升60点。该效果至多叠加2层，每0.5秒至多触发一次。",
+        "CHT": "重擊命中敵人後的6秒內，角色元素精通提升60點。該效果至多疊加2層，每0.5秒至多觸發一次。",
+        "DE": "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen die Elementarkunde der Figur 6 s um 60 Punkte, 2-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental del personaje aumenta en 60 pts. durante 6 s. Este efecto puede acumularse hasta 2 veces y solo puede activarse una vez cada 0.5 s.",
+        "FR": "Lorsqu'une attaque chargée a touché un ennemi, la maîtrise élémentaire du personnage augmente de 60 pts pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Selama 6 detik setelah Charged Attack mengenai musuh, Elemental Mastery Karakter meningkat 60 poin. Efek ini dapat ditumpuk hingga 2 lapis dan dapat terpicu sekali setiap 0,5 detik.",
+        "IT": "#Dopo aver colpito gli avversari con un attacco caricato, la maestria elementale del personaggio aumenta di 60 nei 6 s successivi. Massimo 2 accumuli. Quest'effetto può attivarsi una volta ogni 0,5 s.",
+        "JP": "重撃が敵に命中した後の6秒間、キャラクターの元素熟知+60。この効果は最大2層まで、0.5秒毎に1回のみ発動可能。",
+        "KR": "강공격이 적에게 명중 후 6초 동안 캐릭터의 원소 마스터리가 60pt 증가한다. 최대 중첩수: 2스택. 해당 효과는 0.5초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental do personagem em 60. Esse efeito pode ser acumulado até 2 vezes e desencadeado uma vez a cada 0.5s.",
+        "RU": "Попадание заряженной атакой по противнику увеличивает мастерство стихий на 60 ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุของตัวละครจะเพิ่มขึ้น 60 หน่วย โดยเอฟเฟกต์นี้จะซ้อนทับมากสุด 2 ชั้น และในทุก 0.5 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+        "TR": "Yüklü Saldırılar düşmana isabet ettiğinde 6 saniyeliğine karakterin Element Ustalığı 60 artar. 2 kademeye kadar birikir. Bu etki 0,5 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi trọng kích trúng kẻ địch, Tinh Thông Nguyên Tố của nhân vật tăng 60 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, mỗi 0.5s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "The character's Elemental Mastery will increase by 70 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
+        "CHS": "重击命中敌人后的6秒内，角色元素精通提升70点。该效果至多叠加2层，每0.5秒至多触发一次。",
+        "CHT": "重擊命中敵人後的6秒內，角色元素精通提升70點。該效果至多疊加2層，每0.5秒至多觸發一次。",
+        "DE": "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen die Elementarkunde der Figur 6 s um 70 Punkte, 2-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental del personaje aumenta en 70 pts. durante 6 s. Este efecto puede acumularse hasta 2 veces y solo puede activarse una vez cada 0.5 s.",
+        "FR": "Lorsqu'une attaque chargée a touché un ennemi, la maîtrise élémentaire du personnage augmente de 70 pts pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Selama 6 detik setelah Charged Attack mengenai musuh, Elemental Mastery Karakter meningkat 70 poin. Efek ini dapat ditumpuk hingga 2 lapis dan dapat terpicu sekali setiap 0,5 detik.",
+        "IT": "#Dopo aver colpito gli avversari con un attacco caricato, la maestria elementale del personaggio aumenta di 70 nei 6 s successivi. Massimo 2 accumuli. Quest'effetto può attivarsi una volta ogni 0,5 s.",
+        "JP": "重撃が敵に命中した後の6秒間、キャラクターの元素熟知+70。この効果は最大2層まで、0.5秒毎に1回のみ発動可能。",
+        "KR": "강공격이 적에게 명중 후 6초 동안 캐릭터의 원소 마스터리가 70pt 증가한다. 최대 중첩수: 2스택. 해당 효과는 0.5초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental do personagem em 70. Esse efeito pode ser acumulado até 2 vezes e desencadeado uma vez a cada 0.5s.",
+        "RU": "Попадание заряженной атакой по противнику увеличивает мастерство стихий на 70 ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุของตัวละครจะเพิ่มขึ้น 70 หน่วย โดยเอฟเฟกต์นี้จะซ้อนทับมากสุด 2 ชั้น และในทุก 0.5 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+        "TR": "Yüklü Saldırılar düşmana isabet ettiğinde 6 saniyeliğine karakterin Element Ustalığı 70 artar. 2 kademeye kadar birikir. Bu etki 0,5 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi trọng kích trúng kẻ địch, Tinh Thông Nguyên Tố của nhân vật tăng 70 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, mỗi 0.5s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "The character's Elemental Mastery will increase by 80 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
+        "CHS": "重击命中敌人后的6秒内，角色元素精通提升80点。该效果至多叠加2层，每0.5秒至多触发一次。",
+        "CHT": "重擊命中敵人後的6秒內，角色元素精通提升80點。該效果至多疊加2層，每0.5秒至多觸發一次。",
+        "DE": "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen die Elementarkunde der Figur 6 s um 80 Punkte, 2-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Maestría Elemental del personaje aumenta en 80 pts. durante 6 s. Este efecto puede acumularse hasta 2 veces y solo puede activarse una vez cada 0.5 s.",
+        "FR": "Lorsqu'une attaque chargée a touché un ennemi, la maîtrise élémentaire du personnage augmente de 80 pts pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Selama 6 detik setelah Charged Attack mengenai musuh, Elemental Mastery Karakter meningkat 80 poin. Efek ini dapat ditumpuk hingga 2 lapis dan dapat terpicu sekali setiap 0,5 detik.",
+        "IT": "#Dopo aver colpito gli avversari con un attacco caricato, la maestria elementale del personaggio aumenta di 80 nei 6 s successivi. Massimo 2 accumuli. Quest'effetto può attivarsi una volta ogni 0,5 s.",
+        "JP": "重撃が敵に命中した後の6秒間、キャラクターの元素熟知+80。この効果は最大2層まで、0.5秒毎に1回のみ発動可能。",
+        "KR": "강공격이 적에게 명중 후 6초 동안 캐릭터의 원소 마스터리가 80pt 증가한다. 최대 중첩수: 2스택. 해당 효과는 0.5초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Carregado atingir um inimigo, aumenta a Proficiência Elemental do personagem em 80. Esse efeito pode ser acumulado até 2 vezes e desencadeado uma vez a cada 0.5s.",
+        "RU": "Попадание заряженной атакой по противнику увеличивает мастерство стихий на 80 ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุของตัวละครจะเพิ่มขึ้น 80 หน่วย โดยเอฟเฟกต์นี้จะซ้อนทับมากสุด 2 ชั้น และในทุก 0.5 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+        "TR": "Yüklü Saldırılar düşmana isabet ettiğinde 6 saniyeliğine karakterin Element Ustalığı 80 artar. 2 kademeye kadar birikir. Bu etki 0,5 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi trọng kích trúng kẻ địch, Tinh Thông Nguyên Tố của nhân vật tăng 80 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, mỗi 0.5s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

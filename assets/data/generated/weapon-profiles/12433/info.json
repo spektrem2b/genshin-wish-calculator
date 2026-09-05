@@ -1,0 +1,52 @@
+{
+  "id": 12433,
+  "name": {
+    "EN": "Master Key",
+    "CHS": "万能钥匙",
+    "CHT": "萬能鑰匙",
+    "DE": "Universalschlüssel",
+    "ES": "Llave Maestra",
+    "FR": "Clé universelle",
+    "ID": "Master Key",
+    "IT": "Chiave maestra",
+    "JP": "万能の鍵",
+    "KR": "만능 열쇠",
+    "PT": "Chave Mestra",
+    "RU": "Мастер-ключ",
+    "TH": "Master Key",
+    "TR": "Ana Anahtar",
+    "VI": "Chìa Khóa Vạn Năng"
+  },
+  "nameEn": "Master Key",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A heavy greatsword with a razor-sharp blade. Power is a key that can open almost any lock.",
+    "CHS": "沉重锋利的巨剑，凭借力量可以打开绝大多数的锁。",
+    "CHT": "沉重鋒利的巨劍，憑藉力量可以打開絕大多數的鎖。",
+    "DE": "Ein schweres, scharfes Großschwert, mit dessen Kraft die meisten Schlösser geöffnet werden können.",
+    "ES": "Una gran espada muy pesada y afilada. Con la suficiente fuerza, puede usarse para abrir la mayoría de las cerraduras.",
+    "FR": "Une grosse épée lourde, dotée d'une lame tranchante comme un rasoir. La puissance est une clé qui ouvre presque toutes les serrures.",
+    "ID": "Greatsword berat dan sangat tajam. Dapat membuka hampir semua kunci dengan meminjam kekuatannya.",
+    "IT": "Un pesante spadone con una lama affilata come un rasoio. Il potere è una chiave che può aprire quasi ogni serratura.",
+    "JP": "重く鋭い大剣。力を込めれば、どんな錠も大抵壊せる。",
+    "KR": "무겁고 예리한 대검. 거의 모든 자물쇠를 힘으로 열 수 있다",
+    "PT": "Um espadão afiado. O poder é a chave que pode abrir quase qualquer fechadura.",
+    "RU": "Тяжёлый и острый двуручный меч. Сила - ключ, способный открыть практически любой замок.",
+    "TH": "ดาบใหญ่ที่ทั้งหนักอึ้งและคมกริบ สามารถใช้พลังสะเดาะกุญแจได้มากมาย",
+    "TR": "Jilet gibi keskin bir ağzı olan ağır bir büyük kılıç. Güç, neredeyse her kilidi açabilen bir anahtardır.",
+    "VI": "Đại kiếm nặng nề sắc bén, dựa vào sức mạnh có thể mở hầu hết các ổ khóa."
+  },
+  "icon": "generated/weapon-profiles/12433/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

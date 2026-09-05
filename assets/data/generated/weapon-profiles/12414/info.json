@@ -1,0 +1,52 @@
+{
+  "id": 12414,
+  "name": {
+    "EN": "Katsuragikiri Nagamasa",
+    "CHS": "桂木斩长正",
+    "CHT": "桂木斬長正",
+    "DE": "Katsuragikiri Nagamasa",
+    "ES": "Asesinato de Katsuragi",
+    "FR": "Espadon de Nagamasa",
+    "ID": "Katsuragikiri Nagamasa",
+    "IT": "Katsuragikiri Nagamasa",
+    "JP": "桂木斬長正",
+    "KR": "카츠라기를 벤 나가마사",
+    "PT": "Espada Grande de Katsuragi",
+    "RU": "Кацурагикири Нагамаса",
+    "TH": "Katsuragikiri Nagamasa",
+    "TR": "Katsuragikiri Nagamasa",
+    "VI": "Trường Đao Katsuragi"
+  },
+  "nameEn": "Katsuragikiri Nagamasa",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A blade that was once made in Tatarasuna. Heavy and tough.",
+    "CHS": "过去在踏鞴砂打造的刀，沉重而坚韧。",
+    "CHT": "過去在踏鞴砂打造的刀，沉重而堅韌。",
+    "DE": "Ein Schwert, das in Tatarasuna hergestellt wurde. Schwer und zäh.",
+    "ES": "Una pesada y tenaz espada forjada en Tatarasuna.",
+    "FR": "Une lame qui était autrefois fabriquée à Tatarasuna. Lourde et résistante.",
+    "ID": "Pedang yang dibuat di Tatarasuna. Bobotnya berat dan bodinya kasar.",
+    "IT": "Una spada forgiata a Tatarasuna. Pesante e potente.",
+    "JP": "たたら砂で鍛えられた刀。重くて強靭である。",
+    "KR": "과거 타타라스나에서 만든 칼, 무겁고 단단하다",
+    "PT": "Uma espada forjada em Tatarasuna. Pesada e resistente.",
+    "RU": "Клинок, выкованный в Татарасуне. Тяжёлый и прочный.",
+    "TH": "ดาบที่ถูกทำขึ้นใน Tatarasuna เมื่อครั้งอดีต ทั้งหนักและแข็งแรงทนทาน",
+    "TR": "Bir zamanlar Tatarasuna'da dövülmüş bir kılıç. Ağır ve sağlamdır.",
+    "VI": "Thanh kiếm được Tatarasuna rèn, tuy nặng nề nhưng vô cùng sắc bén."
+  },
+  "icon": "generated/weapon-profiles/12414/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 15424,
+  "name": {
+    "EN": "Scion of the Blazing Sun",
+    "CHS": "烈阳之嗣",
+    "CHT": "烈陽之嗣",
+    "DE": "Spross der flammenden Sonne",
+    "ES": "Descendientes del Sol Abrasador",
+    "FR": "Descendant du soleil flamboyant",
+    "ID": "Scion of the Blazing Sun",
+    "IT": "Erede del sole ardente",
+    "JP": "烈日の後嗣",
+    "KR": "뜨거운 태양의 후손",
+    "PT": "Herdeiro do Sol",
+    "RU": "Наследник слепящего солнца",
+    "TH": "Scion of the Blazing Sun",
+    "TR": "Yakıcı Güneşin Veliahtı",
+    "VI": "Hậu Duệ Mặt Trời"
+  },
+  "nameEn": "Scion of the Blazing Sun",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "An ancient longbow that is a remnant of King Deshret's ancient era. An indecipherable ancient text and solemn patterns have been carved into it.",
+    "CHS": "赤王国度的古老时代所留下的古代长弓，其上雕刻着不可理解的古老文字与庄严图案。",
+    "CHT": "赤王國度的古老時代所留下的古代長弓，其上雕刻著不可理解的古老文字與莊嚴圖案。",
+    "DE": "Ein Langbogen. Stammt aus dem längst vergangenen Zeitalter König Deshrets und ist verziert mit unverständlichen alten Schriften und feierlichen Schnitzereien.",
+    "ES": "Un vetusto arco perteneciente a una antigua época del reino del Rey Deshret. Tiene grabadas unas incomprensibles inscripciones y unos solemnes patrones.",
+    "FR": "Un vieil arc long qui est un vestige de l'ancienne ère du roi Deshret. Un texte ancien indéchiffrable et des motifs solennels y ont été gravés.",
+    "ID": "Sebuah busur panjang kuno yang ditinggalkan sejak zaman Raja Deshret. Tulisan kuno dan pola yang megah terukir di atasnya.",
+    "IT": "Un antico arco lungo risalente all'antica era di Re Deshret. Su di esso sono stati incisi testi indecifrabili e motivi dall'aspetto solenne.",
+    "JP": "キングデシェレトの国、その古い時代に残された古代の長弓。解読不能な古代文字や荘厳な図案が刻まれている。",
+    "KR": "먼 옛날 적왕의 나라로부터 전해져 내려오는 고대 장궁. 장궁 위엔 해독할 수 없는 고대 문자와 장엄한 도안이 새겨져 있다",
+    "PT": "Um Arco Longo antigo que é um vestígio da era antiga do Rei Deshret. Um texto antigo indecifrável e padrões solenes foram entalhados nele.",
+    "RU": "Старинный длинный лук эпохи правления царя Дешрета. На нём выгравированы таинственные древние символы и величественные узоры.",
+    "TH": "ธนูโบราณที่หลงเหลือมาจากยุคสมัยที่ราชา Deshret ยังปกครองราชย์ บนนั้นสลักซึ่งตัวอักษรเก่าแก่ และภาพลวดลายโบราณที่ไม่อาจเข้าใจได้",
+    "TR": "Kral Deshret döneminden kalma kadim bir uzun yay. Üzerine anlaşılamayan metinler ve desenler oyulmuş.",
+    "VI": "Chiếc cung cổ đại được lưu truyền từ thời đại xa xưa của vương quốc Vua Deshret, trên đó khắc những hoa văn trang nghiêm và văn tự cổ xưa không thể hiểu được."
+  },
+  "icon": "generated/weapon-profiles/15424/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.04,
+  "substat_lvl90": 0.1838,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

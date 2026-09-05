@@ -1,0 +1,137 @@
+{
+  "id": "10000046",
+  "name": {
+    "EN": "Hu Tao",
+    "CHS": "胡桃",
+    "CHT": "胡桃",
+    "DE": "Hu Tao",
+    "ES": "Hu Tao",
+    "FR": "Hu Tao",
+    "ID": "Hu Tao",
+    "IT": "Hu Tao",
+    "JP": "胡桃",
+    "KR": "호두",
+    "PT": "Hutao",
+    "RU": "Ху Тао",
+    "TH": "Hu Tao",
+    "TR": "Hu Tao",
+    "VI": "Hu Tao"
+  },
+  "nameEn": "Hu Tao",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 7,
+    "day": 15
+  },
+  "release": "2021-03-02T16:00:00",
+  "icon": "generated/character-profiles/10000046/avatar.webp",
+  "fullWish": "generated/character-profiles/10000046/full_wish.webp",
+  "fullWishObjectPosition": "46.9% 24.4%",
+  "title": {
+    "EN": "Fragrance in Thaw",
+    "CHS": "雪霁梅香",
+    "CHT": "雪霽梅香",
+    "DE": "Pflaumenduft bei Tauwetter",
+    "ES": "La Guía del Más Allá",
+    "FR": "Fragrance nivale",
+    "ID": "Fragrance in Thaw",
+    "IT": "Fragranza del disgelo",
+    "JP": "雪晴梅香",
+    "KR": "눈 그친 뒤의 매화향",
+    "PT": "Fragrância de Ameixa Descongelada",
+    "RU": "Весенний аромат",
+    "TH": "กลิ่นหอมของลูกพลัม",
+    "TR": "Erik Çiçeği",
+    "VI": "Tuyết Tễ Mai Hương"
+  },
+  "description": {
+    "EN": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+    "CHS": "「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务。",
+    "CHT": "「往生堂」七十七代堂主，年紀輕輕就已主掌璃月的葬儀事務。",
+    "DE": "77. Direktorin des Bestattungsunternehmens Wangsheng in Liyue. Sie übernahm die Leitung bereits in sehr jungen Jahren.",
+    "ES": "77.ª directora de la Funeraria El Camino. Pese a su corta edad, ya es la principal encargada de todos los asuntos funerarios de Liyue.",
+    "FR": "La 77e directrice du Funérarium Wangsheng, qui redonne un coup de jeune à la gestion des affaires funéraires de Liyue.",
+    "ID": "Master ke-77 Wangsheng Funeral Parlor. Dia mengambil alih bisnis ini di umur yang cukup muda.",
+    "IT": "La 77ᵃ direttrice dei Servizi Funebri Wangsheng. Ha rilevato l'attività in giovane età.",
+    "JP": "「往生堂」七十七代目堂主。若くして璃月の葬儀を仕切り、責任を持ってそれを執り行っている。",
+    "KR": "「왕생당」의 77대 당주, 젊은 나이지만 리월의 장례를 주관하고 있다",
+    "PT": "A 77.ª diretora da Funerária de Wangsheng. Apesar de ser jovem, já está encarregada de todos os assuntos funerários de Liyue.",
+    "RU": "Хозяйка ритуального бюро «Ваншэн» в семьдесят седьмом поколении. Она унаследовала этот бизнес в достаточно юном возрасте.",
+    "TH": "หัวหน้า \"โถงแห่งการเกิดใหม่ Wangsheng\" รุ่นที่ 77 ผู้เข้ามาดูแลองค์กรจัดงานศพของ Liyue ตั้งแต่อายุยังน้อย",
+    "TR": "Wangsheng Cenaze Evinin 77. Müdürü. Bu görevi oldukça genç yaşta devraldı.",
+    "VI": "Đường chủ đời thứ 77 của Vãng Sinh Đường, tuổi còn trẻ nhưng đã phụ trách việc tang lễ của Liyue."
+  },
+  "constellationName": {
+    "EN": "Papilio Charontis",
+    "CHS": "引蝶座",
+    "CHT": "引蝶座",
+    "DE": "Papilio Charontis",
+    "ES": "Papilio Charontis",
+    "FR": "Papilio Charontis",
+    "ID": "Papilio Charontis",
+    "IT": "Papilio Charontis",
+    "JP": "彼岸蝶座",
+    "KR": "나비자리",
+    "PT": "Papilio Charontis",
+    "RU": "Бабочка Харона",
+    "TH": "Papilio Charontis",
+    "TR": "Ölüm Kelebeği",
+    "VI": "Cung Dẫn Điệp"
+  },
+  "native": {
+    "EN": "Wangsheng Funeral Parlor",
+    "CHS": "往生堂",
+    "CHT": "往生堂",
+    "DE": "Bestattungsunternehmen Wangsheng",
+    "ES": "Funeraria El Camino",
+    "FR": "Funérarium Wangsheng",
+    "ID": "Wangsheng Funeral Parlor",
+    "IT": "Servizi Funebri Wangsheng",
+    "JP": "往生堂",
+    "KR": "왕생당",
+    "PT": "Funerária de Wangsheng",
+    "RU": "Ритуальное бюро «Ваншэн»",
+    "TH": "โถงแห่งการเกิดใหม่ Wangsheng",
+    "TR": "Wangsheng Cenaze Evi",
+    "VI": "Vãng Sinh Đường"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Brianna Knickerbocker"
+    },
+    {
+      "lang": "CHS",
+      "va": "陶典"
+    },
+    {
+      "lang": "JP",
+      "va": "高橋李依"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Ha-ru"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1210.7164,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 8.2859,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 68.2062,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

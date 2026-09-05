@@ -1,0 +1,52 @@
+{
+  "id": 11402,
+  "name": {
+    "EN": "The Flute",
+    "CHS": "笛剑",
+    "CHT": "笛劍",
+    "DE": "Flöte",
+    "ES": "Flauta",
+    "FR": "Flûte",
+    "ID": "The Flute",
+    "IT": "Flauto",
+    "JP": "笛の剣",
+    "KR": "피리검",
+    "PT": "A Flauta",
+    "RU": "Меч-флейта",
+    "TH": "The Flute",
+    "TR": "Flüt",
+    "VI": "Kiếm Sáo"
+  },
+  "nameEn": "The Flute",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.",
+    "CHS": "细剑的锈迹下透露出原本华丽的装饰，挥舞时轻若无物。",
+    "CHT": "細劍的鏽跡下透露出原本華麗的裝飾，揮舞時輕若無物。",
+    "DE": "Dieses dünne Schwert verbirgt sich unter einer Schicht aus Rost. Die aufwendigen Verzierungen sind aber immer noch gut zu erkennen. Im Kampf bewegt man sich damit leicht wie eine Feder.",
+    "ES": "Tras la oxidada superficie de esta espada se esconde una hoja delgada y lujosamente decorada. Puede blandirse tan suavemente como la sensación de un soplo de viento.",
+    "FR": "En dessous de la rouille se cache une lame fine ornée de somptueuses décorations. Elle est aussi légère qu'une plume.",
+    "ID": "Di balik karatnya, terdapat pedang dengan dekorasi mewah. Dapat diayunkan cepat dengan sangat mudah.",
+    "IT": "Sotto la sua superficie arrugginita, si nasconde una sottile lama decorata. Colpisce rapidamente come il vento.",
+    "JP": "剣の錆跡から本来の華やかな装飾が透けて見える。風のように軽い。",
+    "KR": "가는 검의 녹슨 표면 아래에 화려한 장식이 은은히 드러난다. 너무 가벼워 휘두를 때 손에 아무런 느낌이 안 든다",
+    "PT": "Abaixo da poeira, há uma lâmina fina e luxuosamente decorada. Seus movimentos são suaves como o vento.",
+    "RU": "Под всей этой ржавчиной скрывается роскошно украшенный меч. Режет плоть так же легко, как воздух.",
+    "TH": "ภายใต้สนิมนั้นมีดาบบาง ๆ ที่ตกแต่งอย่างหรูหราอยู่ คุณสามารถกวัดแกว่งมันได้อย่างรวดเร็วดั่งสายลม",
+    "TR": "Paslı yüzeyinin ardında görkemli işlemelerle süslü ince bir kılıç var. Rüzgar kadar hızlı savrulur.",
+    "VI": "Trang sức hoa lệ trong suốt, khi vung lên cảm giác nhẹ nhàng như không khí."
+  },
+  "icon": "generated/weapon-profiles/11402/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

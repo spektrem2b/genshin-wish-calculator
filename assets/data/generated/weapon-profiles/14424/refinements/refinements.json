@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Jade Circulation",
+    "CHS": "碧玉流转",
+    "CHT": "碧玉流轉",
+    "DE": "Umlauf der grünen Jade",
+    "ES": "Jade fluctuante",
+    "FR": "Circulation du jade",
+    "ID": "Jade Circulation",
+    "IT": "Circolazione di giada",
+    "JP": "碧玉流転",
+    "KR": "흐르는 옥",
+    "PT": "Circulação de Jade",
+    "RU": "Нефритовый круговорот",
+    "TH": "Jade Circulation",
+    "TR": "Yeşim Döngüsü",
+    "VI": "Bích Ngọc Lưu Chuyển"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When not on the field for more than 5s, Max HP will be increased by 32% and Elemental Mastery will be increased by 40. These effects will be canceled after the wielder has been on the field for 10s.",
+        "CHS": "处于队伍后台超过5秒后，生命值上限提升32%，元素精通提升40点。装备者登场并留在场上10秒后，该效果将失效。",
+        "CHT": "處於隊伍後臺超過5秒後，生命值上限提升32%，元素精通提升40點。裝備者登場並留在場上10秒後，該效果將失效。",
+        "DE": "#Erhöht die max. LP um 32 % und die Elementarkunde um 40 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+        "ES": "#Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 32% y su Maestría Elemental aumenta en 40 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+        "FR": "Après avoir fait partie de l'équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 32 % et la maîtrise élémentaire de 40 pts. L'effet prend fin dès que le personnage équipé de l'arme est déployé et passe 10 s sur le terrain.",
+        "ID": "Jika Karakter ada di dalam party, namun tidak berada di medan pertempuran selama lebih dari 5 detik, Max HP meningkat 32%, Elemental Mastery meningkat 40 poin. Efek ini akan dihapus setelah Karakter yang mengenakan memasuki dan terus berada di medan pertempuran selama 10 detik.",
+        "IT": "#Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 32% e di 40. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+        "JP": "待機時間が5秒を超えている場合、HP上限+32%、元素熟知+40。装備者が登場し、10秒間フィールドに残った後、この効果は解除される。",
+        "KR": "대기 상태가 5초를 초과하면, HP 최대치가 32%, 원소 마스터리가 40pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
+        "PT": "Quando não estiver em campo por mais de 5s, aumenta a Vida Máxima em 32% e a Proficiência Elemental em 40 pontos. Quando o personagem com esta arma equipada entrar no campo de batalha, este efeito desaparecerá após 10s.",
+        "RU": "Если персонаж не на поле боя более 5 сек., макс. HP увеличивается на 32%, а мастерство стихий - на 40 ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает.",
+        "TH": "เมื่ออยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้เกิน 5 วินาที พลังชีวิตสูงสุดจะเพิ่มขึ้น 32% และความชำนาญธาตุจะเพิ่มขึ้น 40 หน่วย ซึ่งเอฟเฟกต์นี้จะหายไปหลังผู้สวมใส่เข้าร่วมการต่อสู้มากกว่า 10 วินาที",
+        "TR": "Kuşanan karakter 5 saniyeden uzun süre savaş alanı dışındayken Maks. Canı %32 ve Element Ustalığı 40 artar. Bu etkiler, karakter savaş alanında 10 saniye bulunduktan sonra kaybolur.",
+        "VI": "Khi không ra trận quá 5s, giới hạn HP tăng 32%, Tinh Thông Nguyên Tố tăng 40 điểm. Hiệu quả này sẽ bị hủy khi người trang bị đã ra trận 10s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When not on the field for more than 5s, Max HP will be increased by 40% and Elemental Mastery will be increased by 50. These effects will be canceled after the wielder has been on the field for 10s.",
+        "CHS": "处于队伍后台超过5秒后，生命值上限提升40%，元素精通提升50点。装备者登场并留在场上10秒后，该效果将失效。",
+        "CHT": "處於隊伍後臺超過5秒後，生命值上限提升40%，元素精通提升50點。裝備者登場並留在場上10秒後，該效果將失效。",
+        "DE": "#Erhöht die max. LP um 40 % und die Elementarkunde um 50 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+        "ES": "#Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 40% y su Maestría Elemental aumenta en 50 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+        "FR": "Après avoir fait partie de l'équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 40 % et la maîtrise élémentaire de 50 pts. L'effet prend fin dès que le personnage équipé de l'arme est déployé et passe 10 s sur le terrain.",
+        "ID": "Jika Karakter ada di dalam party, namun tidak berada di medan pertempuran selama lebih dari 5 detik, Max HP meningkat 40%, Elemental Mastery meningkat 50 poin. Efek ini akan dihapus setelah Karakter yang mengenakan memasuki dan terus berada di medan pertempuran selama 10 detik.",
+        "IT": "#Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 40% e di 50. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+        "JP": "待機時間が5秒を超えている場合、HP上限+40%、元素熟知+50。装備者が登場し、10秒間フィールドに残った後、この効果は解除される。",
+        "KR": "대기 상태가 5초를 초과하면, HP 최대치가 40%, 원소 마스터리가 50pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
+        "PT": "Quando não estiver em campo por mais de 5s, aumenta a Vida Máxima em 40% e a Proficiência Elemental em 50 pontos. Quando o personagem com esta arma equipada entrar no campo de batalha, este efeito desaparecerá após 10s.",
+        "RU": "Если персонаж не на поле боя более 5 сек., макс. HP увеличивается на 40%, а мастерство стихий - на 50 ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает.",
+        "TH": "เมื่ออยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้เกิน 5 วินาที พลังชีวิตสูงสุดจะเพิ่มขึ้น 40% และความชำนาญธาตุจะเพิ่มขึ้น 50 หน่วย ซึ่งเอฟเฟกต์นี้จะหายไปหลังผู้สวมใส่เข้าร่วมการต่อสู้มากกว่า 10 วินาที",
+        "TR": "Kuşanan karakter 5 saniyeden uzun süre savaş alanı dışındayken Maks. Canı %40 ve Element Ustalığı 50 artar. Bu etkiler, karakter savaş alanında 10 saniye bulunduktan sonra kaybolur.",
+        "VI": "Khi không ra trận quá 5s, giới hạn HP tăng 40%, Tinh Thông Nguyên Tố tăng 50 điểm. Hiệu quả này sẽ bị hủy khi người trang bị đã ra trận 10s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When not on the field for more than 5s, Max HP will be increased by 48% and Elemental Mastery will be increased by 60. These effects will be canceled after the wielder has been on the field for 10s.",
+        "CHS": "处于队伍后台超过5秒后，生命值上限提升48%，元素精通提升60点。装备者登场并留在场上10秒后，该效果将失效。",
+        "CHT": "處於隊伍後臺超過5秒後，生命值上限提升48%，元素精通提升60點。裝備者登場並留在場上10秒後，該效果將失效。",
+        "DE": "#Erhöht die max. LP um 48 % und die Elementarkunde um 60 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+        "ES": "#Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 48% y su Maestría Elemental aumenta en 60 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+        "FR": "Après avoir fait partie de l'équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 48 % et la maîtrise élémentaire de 60 pts. L'effet prend fin dès que le personnage équipé de l'arme est déployé et passe 10 s sur le terrain.",
+        "ID": "Jika Karakter ada di dalam party, namun tidak berada di medan pertempuran selama lebih dari 5 detik, Max HP meningkat 48%, Elemental Mastery meningkat 60 poin. Efek ini akan dihapus setelah Karakter yang mengenakan memasuki dan terus berada di medan pertempuran selama 10 detik.",
+        "IT": "#Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 48% e di 60. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+        "JP": "待機時間が5秒を超えている場合、HP上限+48%、元素熟知+60。装備者が登場し、10秒間フィールドに残った後、この効果は解除される。",
+        "KR": "대기 상태가 5초를 초과하면, HP 최대치가 48%, 원소 마스터리가 60pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
+        "PT": "Quando não estiver em campo por mais de 5s, aumenta a Vida Máxima em 48% e a Proficiência Elemental em 60 pontos. Quando o personagem com esta arma equipada entrar no campo de batalha, este efeito desaparecerá após 10s.",
+        "RU": "Если персонаж не на поле боя более 5 сек., макс. HP увеличивается на 48%, а мастерство стихий - на 60 ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает.",
+        "TH": "เมื่ออยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้เกิน 5 วินาที พลังชีวิตสูงสุดจะเพิ่มขึ้น 48% และความชำนาญธาตุจะเพิ่มขึ้น 60 หน่วย ซึ่งเอฟเฟกต์นี้จะหายไปหลังผู้สวมใส่เข้าร่วมการต่อสู้มากกว่า 10 วินาที",
+        "TR": "Kuşanan karakter 5 saniyeden uzun süre savaş alanı dışındayken Maks. Canı %48 ve Element Ustalığı 60 artar. Bu etkiler, karakter savaş alanında 10 saniye bulunduktan sonra kaybolur.",
+        "VI": "Khi không ra trận quá 5s, giới hạn HP tăng 48%, Tinh Thông Nguyên Tố tăng 60 điểm. Hiệu quả này sẽ bị hủy khi người trang bị đã ra trận 10s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When not on the field for more than 5s, Max HP will be increased by 56% and Elemental Mastery will be increased by 70. These effects will be canceled after the wielder has been on the field for 10s.",
+        "CHS": "处于队伍后台超过5秒后，生命值上限提升56%，元素精通提升70点。装备者登场并留在场上10秒后，该效果将失效。",
+        "CHT": "處於隊伍後臺超過5秒後，生命值上限提升56%，元素精通提升70點。裝備者登場並留在場上10秒後，該效果將失效。",
+        "DE": "#Erhöht die max. LP um 56 % und die Elementarkunde um 70 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+        "ES": "#Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 56% y su Maestría Elemental aumenta en 70 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+        "FR": "Après avoir fait partie de l'équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 56 % et la maîtrise élémentaire de 70 pts. L'effet prend fin dès que le personnage équipé de l'arme est déployé et passe 10 s sur le terrain.",
+        "ID": "Jika Karakter ada di dalam party, namun tidak berada di medan pertempuran selama lebih dari 5 detik, Max HP meningkat 56%, Elemental Mastery meningkat 70 poin. Efek ini akan dihapus setelah Karakter yang mengenakan memasuki dan terus berada di medan pertempuran selama 10 detik.",
+        "IT": "#Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 56% e di 70. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+        "JP": "待機時間が5秒を超えている場合、HP上限+56%、元素熟知+70。装備者が登場し、10秒間フィールドに残った後、この効果は解除される。",
+        "KR": "대기 상태가 5초를 초과하면, HP 최대치가 56%, 원소 마스터리가 70pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
+        "PT": "Quando não estiver em campo por mais de 5s, aumenta a Vida Máxima em 56% e a Proficiência Elemental em 70 pontos. Quando o personagem com esta arma equipada entrar no campo de batalha, este efeito desaparecerá após 10s.",
+        "RU": "Если персонаж не на поле боя более 5 сек., макс. HP увеличивается на 56%, а мастерство стихий - на 70 ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает.",
+        "TH": "เมื่ออยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้เกิน 5 วินาที พลังชีวิตสูงสุดจะเพิ่มขึ้น 56% และความชำนาญธาตุจะเพิ่มขึ้น 70 หน่วย ซึ่งเอฟเฟกต์นี้จะหายไปหลังผู้สวมใส่เข้าร่วมการต่อสู้มากกว่า 10 วินาที",
+        "TR": "Kuşanan karakter 5 saniyeden uzun süre savaş alanı dışındayken Maks. Canı %56 ve Element Ustalığı 70 artar. Bu etkiler, karakter savaş alanında 10 saniye bulunduktan sonra kaybolur.",
+        "VI": "Khi không ra trận quá 5s, giới hạn HP tăng 56%, Tinh Thông Nguyên Tố tăng 70 điểm. Hiệu quả này sẽ bị hủy khi người trang bị đã ra trận 10s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When not on the field for more than 5s, Max HP will be increased by 64% and Elemental Mastery will be increased by 80. These effects will be canceled after the wielder has been on the field for 10s.",
+        "CHS": "处于队伍后台超过5秒后，生命值上限提升64%，元素精通提升80点。装备者登场并留在场上10秒后，该效果将失效。",
+        "CHT": "處於隊伍後臺超過5秒後，生命值上限提升64%，元素精通提升80點。裝備者登場並留在場上10秒後，該效果將失效。",
+        "DE": "#Erhöht die max. LP um 64 % und die Elementarkunde um 80 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+        "ES": "#Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 64% y su Maestría Elemental aumenta en 80 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+        "FR": "Après avoir fait partie de l'équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 64 % et la maîtrise élémentaire de 80 pts. L'effet prend fin dès que le personnage équipé de l'arme est déployé et passe 10 s sur le terrain.",
+        "ID": "Jika Karakter ada di dalam party, namun tidak berada di medan pertempuran selama lebih dari 5 detik, Max HP meningkat 64%, Elemental Mastery meningkat 80 poin. Efek ini akan dihapus setelah Karakter yang mengenakan memasuki dan terus berada di medan pertempuran selama 10 detik.",
+        "IT": "#Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 64% e di 80. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+        "JP": "待機時間が5秒を超えている場合、HP上限+64%、元素熟知+80。装備者が登場し、10秒間フィールドに残った後、この効果は解除される。",
+        "KR": "대기 상태가 5초를 초과하면, HP 최대치가 64%, 원소 마스터리가 80pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 사라진다",
+        "PT": "Quando não estiver em campo por mais de 5s, aumenta a Vida Máxima em 64% e a Proficiência Elemental em 80 pontos. Quando o personagem com esta arma equipada entrar no campo de batalha, este efeito desaparecerá após 10s.",
+        "RU": "Если персонаж не на поле боя более 5 сек., макс. HP увеличивается на 64%, а мастерство стихий - на 80 ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает.",
+        "TH": "เมื่ออยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้เกิน 5 วินาที พลังชีวิตสูงสุดจะเพิ่มขึ้น 64% และความชำนาญธาตุจะเพิ่มขึ้น 80 หน่วย ซึ่งเอฟเฟกต์นี้จะหายไปหลังผู้สวมใส่เข้าร่วมการต่อสู้มากกว่า 10 วินาที",
+        "TR": "Kuşanan karakter 5 saniyeden uzun süre savaş alanı dışındayken Maks. Canı %64 ve Element Ustalığı 80 artar. Bu etkiler, karakter savaş alanında 10 saniye bulunduktan sonra kaybolur.",
+        "VI": "Khi không ra trận quá 5s, giới hạn HP tăng 64%, Tinh Thông Nguyên Tố tăng 80 điểm. Hiệu quả này sẽ bị hủy khi người trang bị đã ra trận 10s."
+      }
+    }
+  ]
+}

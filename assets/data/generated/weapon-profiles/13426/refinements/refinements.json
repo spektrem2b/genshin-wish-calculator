@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Principle of Equilibrium",
+    "CHS": "均衡的原理",
+    "CHT": "均衡的原理",
+    "DE": "Prinzip des Gleichgewichts",
+    "ES": "Ley del equilibrio",
+    "FR": "Principe de l'équilibre",
+    "ID": "Principle of Equilibrium",
+    "IT": "Principio dell'Equilibrio",
+    "JP": "均衡の原理",
+    "KR": "균형 원리",
+    "PT": "Princípio do Equilíbrio",
+    "RU": "Принцип равновесия",
+    "TH": "Principle of Equilibrium",
+    "TR": "Denge İlkesi",
+    "VI": "Nguyên Lý Cân Bằng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When the wielder performs healing, restore 8 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+        "CHS": "进行治疗时，恢复8点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+        "CHT": "進行治療時，恢復8點能量，該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "#Stellt bei aktiver Heilung durch den Träger 8 Punkte Energie wieder her, 10 s Abklingzeit. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Al realizar una curación, el personaje recupera 8 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 10 s y puede ocurrir incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Effectuer des soins restaure 8 pts d'énergie. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memberikan pemulihan, akan memulihkan 8 Energy, efek ini dapat terpicu sekali setiap 10 detik dan tetap bisa terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando il personaggio che equipaggia l'arma apporta effetti di guarigione, la sua energia si ripristina di 8. Quest'effetto può attivarsi una volta ogni 10 s, anche quando il personaggio non si trova in campo.",
+        "JP": "治療を行う時、元素エネルギーを8ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+        "KR": "치유 진행 시, 에너지를 8pt 회복한다. 해당 효과는 10초마다 최대 1회 발동하고, 캐릭터가 대기 상태 시에도 발동한다",
+        "PT": "Ao curar, restaura 8 de Energia. Este efeito pode ser ativado uma vez a cada 10s e pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Экипированный персонаж, исцеляя персонажей отряда, восстанавливает 8 ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "เมื่อทำการรักษา จะฟื้นฟูพลังงาน 8 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 8 Enerji yeniler. Bu etki her 10 saniyede bir ve karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Khi tiến hành trị liệu, hồi phục 8 điểm năng lượng. Hiệu quả này mỗi 10s tối đa kích hoạt một lần, nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When the wielder performs healing, restore 10 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+        "CHS": "进行治疗时，恢复10点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+        "CHT": "進行治療時，恢復10點能量，該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "#Stellt bei aktiver Heilung durch den Träger 10 Punkte Energie wieder her, 10 s Abklingzeit. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Al realizar una curación, el personaje recupera 10 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 10 s y puede ocurrir incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Effectuer des soins restaure 10 pts d'énergie. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memberikan pemulihan, akan memulihkan 10 Energy, efek ini dapat terpicu sekali setiap 10 detik dan tetap bisa terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando il personaggio che equipaggia l'arma apporta effetti di guarigione, la sua energia si ripristina di 10. Quest'effetto può attivarsi una volta ogni 10 s, anche quando il personaggio non si trova in campo.",
+        "JP": "治療を行う時、元素エネルギーを10ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+        "KR": "치유 진행 시, 에너지를 10pt 회복한다. 해당 효과는 10초마다 최대 1회 발동하고, 캐릭터가 대기 상태 시에도 발동한다",
+        "PT": "Ao curar, restaura 10 de Energia. Este efeito pode ser ativado uma vez a cada 10s e pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Экипированный персонаж, исцеляя персонажей отряда, восстанавливает 10 ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "เมื่อทำการรักษา จะฟื้นฟูพลังงาน 10 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 10 Enerji yeniler. Bu etki her 10 saniyede bir ve karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Khi tiến hành trị liệu, hồi phục 10 điểm năng lượng. Hiệu quả này mỗi 10s tối đa kích hoạt một lần, nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When the wielder performs healing, restore 12 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+        "CHS": "进行治疗时，恢复12点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+        "CHT": "進行治療時，恢復12點能量，該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "#Stellt bei aktiver Heilung durch den Träger 12 Punkte Energie wieder her, 10 s Abklingzeit. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Al realizar una curación, el personaje recupera 12 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 10 s y puede ocurrir incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Effectuer des soins restaure 12 pts d'énergie. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memberikan pemulihan, akan memulihkan 12 Energy, efek ini dapat terpicu sekali setiap 10 detik dan tetap bisa terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando il personaggio che equipaggia l'arma apporta effetti di guarigione, la sua energia si ripristina di 12. Quest'effetto può attivarsi una volta ogni 10 s, anche quando il personaggio non si trova in campo.",
+        "JP": "治療を行う時、元素エネルギーを12ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+        "KR": "치유 진행 시, 에너지를 12pt 회복한다. 해당 효과는 10초마다 최대 1회 발동하고, 캐릭터가 대기 상태 시에도 발동한다",
+        "PT": "Ao curar, restaura 12 de Energia. Este efeito pode ser ativado uma vez a cada 10s e pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Экипированный персонаж, исцеляя персонажей отряда, восстанавливает 12 ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "เมื่อทำการรักษา จะฟื้นฟูพลังงาน 12 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 12 Enerji yeniler. Bu etki her 10 saniyede bir ve karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Khi tiến hành trị liệu, hồi phục 12 điểm năng lượng. Hiệu quả này mỗi 10s tối đa kích hoạt một lần, nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When the wielder performs healing, restore 14 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+        "CHS": "进行治疗时，恢复14点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+        "CHT": "進行治療時，恢復14點能量，該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "#Stellt bei aktiver Heilung durch den Träger 14 Punkte Energie wieder her, 10 s Abklingzeit. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Al realizar una curación, el personaje recupera 14 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 10 s y puede ocurrir incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Effectuer des soins restaure 14 pts d'énergie. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memberikan pemulihan, akan memulihkan 14 Energy, efek ini dapat terpicu sekali setiap 10 detik dan tetap bisa terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando il personaggio che equipaggia l'arma apporta effetti di guarigione, la sua energia si ripristina di 14. Quest'effetto può attivarsi una volta ogni 10 s, anche quando il personaggio non si trova in campo.",
+        "JP": "治療を行う時、元素エネルギーを14ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+        "KR": "치유 진행 시, 에너지를 14pt 회복한다. 해당 효과는 10초마다 최대 1회 발동하고, 캐릭터가 대기 상태 시에도 발동한다",
+        "PT": "Ao curar, restaura 14 de Energia. Este efeito pode ser ativado uma vez a cada 10s e pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Экипированный персонаж, исцеляя персонажей отряда, восстанавливает 14 ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "เมื่อทำการรักษา จะฟื้นฟูพลังงาน 14 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 14 Enerji yeniler. Bu etki her 10 saniyede bir ve karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Khi tiến hành trị liệu, hồi phục 14 điểm năng lượng. Hiệu quả này mỗi 10s tối đa kích hoạt một lần, nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When the wielder performs healing, restore 16 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+        "CHS": "进行治疗时，恢复16点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
+        "CHT": "進行治療時，恢復16點能量，該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "#Stellt bei aktiver Heilung durch den Träger 16 Punkte Energie wieder her, 10 s Abklingzeit. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Al realizar una curación, el personaje recupera 16 pts. de Energía Elemental. Este efecto solo se puede activar una vez cada 10 s y puede ocurrir incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Effectuer des soins restaure 16 pts d'énergie. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat memberikan pemulihan, akan memulihkan 16 Energy, efek ini dapat terpicu sekali setiap 10 detik dan tetap bisa terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando il personaggio che equipaggia l'arma apporta effetti di guarigione, la sua energia si ripristina di 16. Quest'effetto può attivarsi una volta ogni 10 s, anche quando il personaggio non si trova in campo.",
+        "JP": "治療を行う時、元素エネルギーを16ポイント回復する。この効果は10秒毎に1回のみ発動可能。キャラクターが待機中でも発動できる。",
+        "KR": "치유 진행 시, 에너지를 16pt 회복한다. 해당 효과는 10초마다 최대 1회 발동하고, 캐릭터가 대기 상태 시에도 발동한다",
+        "PT": "Ao curar, restaura 16 de Energia. Este efeito pode ser ativado uma vez a cada 10s e pode ser ativado mesmo quando o personagem não estiver em campo.",
+        "RU": "Экипированный персонаж, исцеляя персонажей отряда, восстанавливает 16 ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "เมื่อทำการรักษา จะฟื้นฟูพลังงาน 16 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 16 Enerji yeniler. Bu etki her 10 saniyede bir ve karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Khi tiến hành trị liệu, hồi phục 16 điểm năng lượng. Hiệu quả này mỗi 10s tối đa kích hoạt một lần, nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    }
+  ]
+}

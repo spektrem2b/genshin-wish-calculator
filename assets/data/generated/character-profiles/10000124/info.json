@@ -1,0 +1,137 @@
+{
+  "id": "10000124",
+  "name": {
+    "EN": "Jahoda",
+    "CHS": "雅珂达",
+    "CHT": "雅珂達",
+    "DE": "Jahoda",
+    "ES": "Jahoda",
+    "FR": "Jahoda",
+    "ID": "Jahoda",
+    "IT": "Jahoda",
+    "JP": "ヤフォダ",
+    "KR": "야호다",
+    "PT": "Jahoda",
+    "RU": "Ягода",
+    "TH": "Jahoda",
+    "TR": "Jahoda",
+    "VI": "Jahoda"
+  },
+  "nameEn": "Jahoda",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 1,
+    "day": 5
+  },
+  "release": "2025-12-01T22:00:00",
+  "icon": "generated/character-profiles/10000124/avatar.webp",
+  "fullWish": "generated/character-profiles/10000124/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Windthreading Shadow",
+    "CHS": "系风攘影",
+    "CHT": "系風攘影",
+    "DE": "Den Wind zähmen, die Schatten bannen",
+    "ES": "La Sombra Dominavientos",
+    "FR": "Ombre tisse-vent",
+    "ID": "Windthreading Shadow",
+    "IT": "Ombra tessivento",
+    "JP": "風を繋ぎ、影を捕らえる",
+    "KR": "바람을 묶는 그림자",
+    "PT": "Sombras da Ventania",
+    "RU": "Охотница на ветер и тени",
+    "TH": "ร้อยเงากับสายลม",
+    "TR": "Rüzgar Ören Gölge",
+    "VI": "Bóng Hình Đan Gió"
+  },
+  "description": {
+    "EN": "The Curatorium of Secrets' extremely reliable, do-it-all super employee (or so she claims).",
+    "CHS": "十分可靠，无所不能（自称）的「秘闻馆」员工。",
+    "CHT": "十分可靠，無所不能（自稱）的「秘聞館」員工。",
+    "DE": "Die äußerst zuverlässige und – laut eigener Aussage – allmächtige Mitarbeiterin des „Kuratoriums der Geheimnisse“.",
+    "ES": "La empleada superfiable que todo lo puede hacer (o eso dice ella) de la Cámara de Secretos.",
+    "FR": "L'employée extrêmement fiable et polyvalente du Curatorium (du moins, c'est ce qu'elle prétend).",
+    "ID": "Karyawan Curatorium of Secrets yang sangat andal dan (mengaku) serba bisa!",
+    "IT": "La fantastica ed estremamente affidabile (a suo dire) dipendente tuttofare del Consiglio dei segreti.",
+    "JP": "「秘聞の館」のとても頼れる万能な従業員（自称）。",
+    "KR": "믿음직스럽고 뭐든지 할 수 있는(자칭) 「비밀의 집」 직원",
+    "PT": "A faz-tudo extremamente confiável (segundo ela) da Curadoria dos Segredos.",
+    "RU": "Чрезвычайно надёжная, всё знающая и умеющая сотрудница Куратория тайн (по крайней мере, так она утверждает).",
+    "TH": "พนักงานของ \"เคหาสน์แห่งความลับ\" ผู้ที่ (อ้างตนว่า) พึ่งพาได้อย่างยิ่ง และทำได้ทุกอย่าง",
+    "TR": "Kendi deyimiyle Sırlar Arşivi'nin \"son derece güvenilir\" ve \"elinden her iş gelen\" çalışanı.",
+    "VI": "Nhân viên toàn năng và rất đáng tin cậy (tự nhận) của Hội Đồng Bí Mật."
+  },
+  "constellationName": {
+    "EN": "Fragum",
+    "CHS": "莓果座",
+    "CHT": "莓果座",
+    "DE": "Fragum",
+    "ES": "Fragum",
+    "FR": "Fragum",
+    "ID": "Fragum",
+    "IT": "Fragum",
+    "JP": "ベリー座",
+    "KR": "딸기자리",
+    "PT": "Fragum",
+    "RU": "Земляника",
+    "TH": "Fragum",
+    "TR": "Dağ Çileği",
+    "VI": "Cung Môi Quả"
+  },
+  "native": {
+    "EN": "Curatorium of Secrets",
+    "CHS": "秘闻馆",
+    "CHT": "秘聞館",
+    "DE": "Kuratorium der Geheimnisse",
+    "ES": "Cámara de Secretos",
+    "FR": "Curatorium des secrets",
+    "ID": "Curatorium of Secrets",
+    "IT": "Consiglio dei segreti",
+    "JP": "秘聞の館",
+    "KR": "비밀의 집",
+    "PT": "Curadoria dos Segredos",
+    "RU": "Кураторий тайн",
+    "TH": "เคหาสน์แห่งความลับ",
+    "TR": "Sırlar Arşivi",
+    "VI": "Hội Đồng Bí Mật"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Sonya Krueger"
+    },
+    {
+      "lang": "CHS",
+      "va": "韩娇娇"
+    },
+    {
+      "lang": "JP",
+      "va": "稲垣好"
+    },
+    {
+      "lang": "KR",
+      "va": "Oh Ro-ah"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HEAL_ADD",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 808.7586,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.6984,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 48.64125,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 11512,
+  "name": {
+    "EN": "Light of Foliar Incision",
+    "CHS": "裁叶萃光",
+    "CHT": "裁葉萃光",
+    "DE": "Licht der schneidenden Blätter",
+    "ES": "Clorofilo Refulgente",
+    "FR": "Lumière d'incision foliaire",
+    "ID": "Light of Foliar Incision",
+    "IT": "Lume del Taglio frondoso",
+    "JP": "萃光の裁葉",
+    "KR": "잎을 가르는 빛",
+    "PT": "Luz das Folhas Cortadas",
+    "RU": "Свет лиственного разреза",
+    "TH": "Light of Foliar Incision",
+    "TR": "Yaprak Kesen Işık",
+    "VI": "Ánh Lá Phán Quyết"
+  },
+  "nameEn": "Light of Foliar Incision",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest.",
+    "CHS": "以珍贵的白枝制成的饰金之刃，曾经斩断无数浸染森林的黯毒。",
+    "CHT": "以珍貴的白枝製成的飾金之刃，曾經斬斷無數浸染森林的黯毒。",
+    "DE": "Eine aus edlen weißen Zweigen gefertigte und mit goldenen Motiven verzierte Klinge, die für zahllose den Waldboden befleckende Unheilsbringer das Ende bedeutete.",
+    "ES": "Una espada con ornamentación dorada fabricada a partir de unas valiosas ramas blancas. En el pasado su filo atravesó en innumerables ocasiones el veneno que emponzoñaba el bosque.",
+    "FR": "Cette lame agrémentée de dorures a été réalisée à l'aide de branches blanches précieuses. Elle a été autrefois utilisée pour détruire les innombrables poisons qui infestaient la forêt.",
+    "ID": "Pedang berburu berlapis emas terbuat dari ranting putih yang berharga, telah menebas jatuh begitu banyak racun kegelapan yang hendak memasuki hutan.",
+    "IT": "Una lama dorata fabbricata con preziosi rami bianchi. Un tempo veniva impiegata per estirpare gli innumerevoli veleni che infestavano le selve.",
+    "JP": "貴重な白き枝で作られた金メッキの刃。かつては、森を浸す無数の黒い毒を切り裂いていた。",
+    "KR": "진귀한 하얀 나뭇가지로 만들어진 도금된 검. 한때 숲을 침식한 암흑의 독을 수도 없이 베어냈다",
+    "PT": "Uma lâmina ornamentada feita de preciosos ramos brancos. No passado cortou incontáveis sujeiras que percorreram a floresta contaminada.",
+    "RU": "Этот позолоченный клинок, выполненный из драгоценных белых ветвей, когда-то рассекал бесчисленные ядовитые пары, которые отравляли лес.",
+    "TH": "ดาบที่ทำขึ้นจากกิ่งสีขาวที่แสนล้ำค่า และถูกตกแต่งด้วยทองคำ ซึ่งได้ฟาดฟันพิษแห่งความมืด ที่แพร่ระบาดไปทั่วทั้งป่า จนขาดสะบั้นมาแล้วนับไม่ถ้วน",
+    "TR": "Bu yaldızlı kılıç, değerli beyaz dallar kullanılarak yapıldı. Bir zamanlar ormana bela olmuş sayısız zehri yok etmek için kullanılmıştı.",
+    "VI": "Thanh kiếm được chế tạo từ cành trắng quý báu, từng chém gãy vô số độc dịch xâm chiếm khu rừng."
+  },
+  "icon": "generated/weapon-profiles/11512/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

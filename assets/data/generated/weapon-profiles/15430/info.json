@@ -1,0 +1,52 @@
+{
+  "id": 15430,
+  "name": {
+    "EN": "Flower-Wreathed Feathers",
+    "CHS": "缀花之翎",
+    "CHT": "綴花之翎",
+    "DE": "Mit Blumen gebundene Federn",
+    "ES": "Penacho Engalanado",
+    "FR": "Plumard de fleurs",
+    "ID": "Flower-Wreathed Feathers",
+    "IT": "Piume coronate di fiori",
+    "JP": "花飾りの羽",
+    "KR": "꽃장식 깃",
+    "PT": "Penas Cercadas de Flores",
+    "RU": "Украшенные цветами перья",
+    "TH": "Flower-Wreathed Feathers",
+    "TR": "Çiçek Bezeli Tüyler",
+    "VI": "Lông Vũ Thêu Hoa"
+  },
+  "nameEn": "Flower-Wreathed Feathers",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A longbow that burns like a flame. The feathers that adorn it are said to have come from the ancient tyrant Ngoubou.",
+    "CHS": "炽灼似火的长弓，其上装饰的绒羽据说来自古老的「暴君」恩古布。",
+    "CHT": "熾灼似火的長弓，其上裝飾的絨羽據說來自古老的「暴君」恩古布。",
+    "DE": "Ein Langbogen, der aussieht, als würde er brennen. Die Federn, die ihn schmücken, sollen von dem alten Tyrannen Ngoubou stammen.",
+    "ES": "Un arco largo que arde como el fuego. Dicen que las plumas que lo adornan pertenecían originalmente al antiguo tirano Ngoubou.",
+    "FR": "Un arc long qui brûle comme une flamme. Les plumes qui l'ornent proviendraient de l'ancien tyran Ngoubou.",
+    "ID": "Busur panjang yang membara bagai api. Bulu-bulu di atasnya berasal dari tiran di zaman kuno, yaitu Ngoubou.",
+    "IT": "Un arco lungo che brucia come una fiamma. Si dice che le piume che lo adornano appartenessero a Ngoubou, l'antico tiranno.",
+    "JP": "炎のような灼熱の長弓。その装飾の羽は、古代の「暴君」ンゴウボウのものだと言われている。",
+    "KR": "불처럼 뜨거운 장궁. 위에 장식된 깃털은 고대 「폭군」 응고보의 것이라고 한다",
+    "PT": "Um arco longo que queima como uma chama. Dizem que as penas que o decoram vieram do antigo tirano, Ngoubou.",
+    "RU": "Длинный лук, пылающий словно пламя. Говорят, перья, которыми он украшен, принадлежали древнему тирану Нгубу.",
+    "TH": "ธนูยาวที่ลุกโชนราวกับเปลวไฟ ว่ากันว่า ขนนกที่ประดับอยู่บนนั้นมาจาก \"Ngoubou\" ทรราชในสมัยโบราณ",
+    "TR": "Alev gibi yanan uzun bir yay. Onu süsleyen tüylerin zalim Ngoubou'dan geldiği söylenir.",
+    "VI": "Cung dài rực rỡ như lửa, lông vũ trang trí trên đó nghe nói đến từ bạo chúa Ngoubou cổ xưa."
+  },
+  "icon": "generated/weapon-profiles/15430/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

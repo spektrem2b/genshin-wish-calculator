@@ -1,0 +1,52 @@
+{
+  "id": 11304,
+  "name": {
+    "EN": "Dark Iron Sword",
+    "CHS": "暗铁剑",
+    "CHT": "暗鐵劍",
+    "DE": "Dunkles Eisenschwert",
+    "ES": "Espada de Hierro Oscuro",
+    "FR": "Épée en fer noir",
+    "ID": "Dark Iron Sword",
+    "IT": "Spada di ferro scuro",
+    "JP": "暗鉄剣",
+    "KR": "암철검",
+    "PT": "Espada de Ferro Negro",
+    "RU": "Тёмный железный меч",
+    "TH": "Dark Iron Sword",
+    "TR": "Kara Demir Kılıç",
+    "VI": "Kiếm Sắt Đen"
+  },
+  "nameEn": "Dark Iron Sword",
+  "type": "Kiếm Đơn",
+  "rarity": 3,
+  "description": {
+    "EN": "A perfectly ordinary iron sword, just slightly darker than most.",
+    "CHS": "其实就是稍微有些黑的铁剑。",
+    "CHT": "其實就是稍微有點黑的鐵劍。",
+    "DE": "Das ist einfach nur ein normales Eisenschwert, das etwas dunkler geraten ist.",
+    "ES": "Esta espada... es simplemente una espada de hierro de un tono oscuro.",
+    "FR": "Une épée en fer légèrement noirci.",
+    "ID": "Sebenarnya, hanya sebilah pedang yang sedikit lebih gelap dari Iron Sword.",
+    "IT": "Una spada estremamente ordinaria, ma leggermente più scura del normale.",
+    "JP": "実はただちょっと黒いだけの鉄剣。",
+    "KR": "그저 조금 검은 강철검일 뿐이다",
+    "PT": "Bem, na verdade é apenas uma espada de ferro um pouco escura.",
+    "RU": "На самом деле это просто немного тёмный железный меч.",
+    "TH": "ที่จริงแล้วมันก็เป็นแค่ดาบเหล็กที่สีเข้มเท่านั้นเอง",
+    "TR": "Biraz kararmış demir bir kılıç.",
+    "VI": "Kiếm sắt hơi bị đen một chút"
+  },
+  "icon": "generated/weapon-profiles/11304/avatar.webp",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 30.6,
+  "substat_lvl90": 140.5764,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

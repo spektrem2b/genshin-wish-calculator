@@ -1,0 +1,52 @@
+{
+  "id": 15507,
+  "name": {
+    "EN": "Polar Star",
+    "CHS": "冬极白星",
+    "CHT": "冬極白星",
+    "DE": "Polarstern",
+    "ES": "Estrella Invernal",
+    "FR": "Étoile polaire",
+    "ID": "Polar Star",
+    "IT": "Stella polare",
+    "JP": "冬極の白星",
+    "KR": "극지의 별",
+    "PT": "Estrela Invernal",
+    "RU": "Полярная звезда",
+    "TH": "Polar Star",
+    "TR": "Kutup Yıldızı",
+    "VI": "Ngôi Sao Cực Đông"
+  },
+  "nameEn": "Polar Star",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "A pristine bow that is as sharp as the glaciers of the far north.",
+    "CHS": "如同深冬坚冰一样尖锐的无垢之弓。",
+    "CHT": "如同深冬堅冰一樣尖銳的無垢之弓。",
+    "DE": "Ein makelloser Bogen, so scharf wie die Gletscher des hohen Nordens.",
+    "ES": "Un arco inmaculado y punzante como el gélido hielo del invierno.",
+    "FR": "Un arc immaculé aussi tranchant que les glaces éternelles des hivers les plus froids.",
+    "ID": "Busur murni nan tajam bagaikan es gletser di kutub utara yang dinginnya menusuk.",
+    "IT": "Un arco immacolato, pungente come i ghiacciai del lontano nord.",
+    "JP": "真冬の堅氷の如く、鋭き無垢なる弓。",
+    "KR": "한겨울의 얼음처럼 차갑고 날카로운 활",
+    "PT": "Um arco imaculado que é tão afiado quanto as geleiras do extremo norte.",
+    "RU": "Белоснежный лук, пронзительный, как льды суровой зимы.",
+    "TH": "ธนูไร้มลทินที่แหลมคม ราวกับแท่งน้ำแข็งในฤดูหนาวที่แสนยาวนาน",
+    "TR": "Kuzeyin buzulları kadar bakir ve tehlikeli bir yay.",
+    "VI": "Cánh cung hoàn mỹ như giá lạnh của băng tuyết cực Bắc."
+  },
+  "icon": "generated/weapon-profiles/15507/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

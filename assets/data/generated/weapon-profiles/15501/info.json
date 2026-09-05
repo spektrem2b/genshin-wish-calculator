@@ -1,0 +1,52 @@
+{
+  "id": 15501,
+  "name": {
+    "EN": "Skyward Harp",
+    "CHS": "天空之翼",
+    "CHT": "天空之翼",
+    "DE": "Himmelsflügel",
+    "ES": "Alas Celestiales",
+    "FR": "Ailes de la Voûte d'Azur",
+    "ID": "Skyward Harp",
+    "IT": "Arpa celeste",
+    "JP": "天空の翼",
+    "KR": "천공의 날개",
+    "PT": "Harpa Celestial",
+    "RU": "Небесное крыло",
+    "TH": "Skyward Harp",
+    "TR": "Göklerin Liri",
+    "VI": "Cánh Thiên Không"
+  },
+  "nameEn": "Skyward Harp",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within.",
+    "CHS": "象征风龙身为风之神眷属的大弓。释弦时的鸣声是风之神的偏爱，蕴含苍空与长风的力量。",
+    "CHT": "象徵風龍身為風之神眷屬的大弓。釋弦時的鳴聲是風之神的偏愛，蘊含蒼空與長風的力量。",
+    "DE": "Ein großer Bogen, der die Zusammengehörigkeit von Dvalin und dem Archon des Windes symbolisiert. Der Klang beim Loslassen der Sehne ist wie Musik in den Ohren des Archons und enthält die Kraft von Himmel und Wind.",
+    "ES": "Un gran arco que simboliza el vínculo entre Stormterror y Barbatos. El sonido del disparo del arco es música para los oídos del Dios del Viento. Contiene el poder del cielo y del viento en su interior.",
+    "FR": "Un grand arc qui symbolise l'affiliation de Dvalin à Barbatos. Fort de la puissance du ciel et du vent, le son qu'il produit lors de la libération de la flèche est une vraie musique aux oreilles de l'Archon Anémo.",
+    "ID": "Busur besar yang melambangkan hubungan erat antara Dvalin dan Archon Anemo. Suara yang ditimbulkan busur ini bagaikan musik di telinga Archon Anemo, di dalamnya terdapat kekuatan angin dan angkasa.",
+    "IT": "Un grande arco che simboleggia l'affiliazione di Dvalin con l'Archon di Anemo. Il suono delle frecce che scoccano da quest'arco è musica per le orecchie del dio del vento. Contiene i poteri del cielo e del vento.",
+    "JP": "風龍が風の神の眷属であることを象徴する大弓。矢を放つ音は風の神の偏愛であり、蒼空と長風の力が秘められている。",
+    "KR": "풍룡이 바르바토스의 권속임을 상징하는 큰 활. 바람의 신은 활시위를 놓을 때 울리는 소리를 아주 좋아한다. 푸른 하늘과 바람의 힘을 지니고 있다",
+    "PT": "Um grande arco que simboliza o vínculo entre Dvalin e o Arconte Anemo. O som do disparo das flechas é como música para os ouvidos do Arconte do Vento. Contém poderes dos céus e do vento.",
+    "RU": "Длинный лук, символ дружбы между Двалином и Анемо Архонтом. Звук спущенной тетивы исполнен любовью Анемо Архонта, питающей его силой небес и ветров.",
+    "TH": "ธนูใหญ่ที่เป็นเหมือนตัวแทนของ Dvalin และเทพแห่งลมผู้เป็นเจ้าของเดิม เสียงที่เกิดขึ้นเมื่อยิงศรเป็นดั่งเสียงเพลงเมื่อเทพแห่งลมได้ฟัง มันมีพลังของท้องฟ้าและสายลมอยู่ด้วย",
+    "TR": "Dvalin'in Rüzgar Hükümdarı ile ilişkisini simgeleyen bir büyük yay. Okun yaydan çıkma sesi Rüzgar Hükümdarı için hoş bir şarkı gibidir. Gökyüzünün ve rüzgarın gücünü içinde barındırır.",
+    "VI": "Cung tượng trưng cho Phong Long và Phong Thần. Âm thanh phát ra khi kéo dây cung giống như tình yêu của thần, ẩn chứa sức mạnh từ gió và bầu trời."
+  },
+  "icon": "generated/weapon-profiles/15501/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

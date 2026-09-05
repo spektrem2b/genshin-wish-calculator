@@ -1,0 +1,137 @@
+{
+  "id": "10000112",
+  "name": {
+    "EN": "Escoffier",
+    "CHS": "爱可菲",
+    "CHT": "愛可菲",
+    "DE": "Escoffier",
+    "ES": "Escoffier",
+    "FR": "Escoffier",
+    "ID": "Escoffier",
+    "IT": "Escoffier",
+    "JP": "エスコフィエ",
+    "KR": "에스코피에",
+    "PT": "Escoffier",
+    "RU": "Эскофье",
+    "TH": "Escoffier",
+    "TR": "Escoffier",
+    "VI": "Escoffier"
+  },
+  "nameEn": "Escoffier",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 6,
+    "day": 8
+  },
+  "release": "2025-05-05T21:00:00",
+  "icon": "generated/character-profiles/10000112/avatar.webp",
+  "fullWish": "generated/character-profiles/10000112/full_wish.webp",
+  "fullWishObjectPosition": "51.7% 23.7%",
+  "title": {
+    "EN": "Tasteful Excellence",
+    "CHS": "明绚千韵",
+    "CHT": "明絢千韻",
+    "DE": "Kulinarischer Glanz",
+    "ES": "La Guinda del Pastel",
+    "FR": "Exquise excellence",
+    "ID": "Tasteful Excellence",
+    "IT": "Eccellenza di sapori",
+    "JP": "絢爛のフレーバー",
+    "KR": "화려한 맛의 화음",
+    "PT": "Brilho de Mil Melodias",
+    "RU": "Изысканное великолепие",
+    "TH": "ท่วงทำนองเลิศรส",
+    "TR": "Lezzette Mükemmeliyet",
+    "VI": "Muôn Hương Hòa Quyện"
+  },
+  "description": {
+    "EN": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
+    "CHS": "闻名枫丹的前德波大饭店主厨，有着「甜点大校」荣誉的「技术料理」先驱，对烹饪的要求无比严格。",
+    "CHT": "聞名楓丹的前德波大飯店主廚，有著「甜點大校」榮譽的「技術料理」先驅，對烹飪的要求無比嚴格。",
+    "DE": "Die allseits bekannte, ehemalige Küchenchefin des Hotel Debord in Fontaine, eine Pionierin der „Präzisions-Kochkunst“, die den Titel „Pâtissière Suprême“ trägt und für ihre höchsten kulinarischen Anforderungen berühmt ist.",
+    "ES": "La exjefa de cocina del Bistró Debord, famosa en toda Fontaine, pionera de la cocina de precisión y condecorada con el título de “pâtissière suprême”. Lo estricta que es en la cocina no tiene parangón.",
+    "FR": "L'ancienne cheffe de l'Hôtel Debord, connue à Fontaine comme la suprême pâtissière et l'avant-garde de la gastronomie de précision, qui applique une exigence incomparable à sa cuisine.",
+    "ID": "Mantan Koki Kepala di Hotel Debord, pelopor \"Gastronomi Presisi\" yang terkenal dan memiliki gelar Patissiere Supreme di Fontaine, memiliki standar memasak yang sangat ketat.",
+    "IT": "L'ex chef de cuisine dell'Hotel Débord, la Pâtissière Suprême rinomata in tutta Fontaine e leader della gastronomia di precisione. Ha degli standard estremamente rigorosi quando si tratta di cucina.",
+    "JP": "フォンテーヌに名を馳せる「元ホテル・ドゥボールのシェフ」。「カーネル・デセール」の肩書きを持つ「科学料理」の先駆者でもある。料理に関する要求が非常に高い。",
+    "KR": "폰타인에서 명성이 자자한 드보르 호텔 전 주방장. 「디저트 대령」이라는 칭호를 가진 「과학 요리」의 선구자로, 요리에 대한 기준이 매우 엄격하다",
+    "PT": "Uma ex-chefe do Hotel Debord, renomada por Fontaine como a Pâtissière Suprema, vanguarda da gastronomia de precisão. Possui padrões incomparavelmente rígidos na cozinha.",
+    "RU": "Известный бывший шеф-повар «Дебор Отеля» в Фонтейне, удостоенный звания «главный кондитер», и первооткрывательница концепции «технологичной кулинарии», предъявляет невероятно высокие требования к процессу приготовления пищи.",
+    "TH": "อดีตหัวหน้าเชฟของโรงแรม Debord ผู้มีชื่อเสียงโด่งดังใน Fontaine และเป็นผู้บุกเบิก \"การทำอาหารเชิงเทคนิค\" ที่มีฉายาแห่งเกียรติยศว่า \"แม่ทัพขนมหวาน\" ผู้มีมาตรฐานในการทำอาหารที่เข้มงวดอย่างยิ่ง",
+    "TR": "Debord Otelin eski baş şefi, Fontaine'de Usta Pastacı ve hassas gastronominin önde gelen temsilcilerinden biri olarak tanınır. Konu yemek pişirmek olduğunda standartlarından asla taviz vermez.",
+    "VI": "Bếp trưởng tiền nhiệm của Khách Sạn Debord Fontaine, người tiên phong trong lĩnh vực \"ẩm thực kỹ thuật\", có danh hiệu Đại Tá Bánh Ngọt, yêu cầu cực kỳ nghiêm khắc trong việc nấu nướng."
+  },
+  "constellationName": {
+    "EN": "Dulciaria Structura",
+    "CHS": "香糕塔座",
+    "CHT": "香糕塔座",
+    "DE": "Dulciaria Structura",
+    "ES": "Dulciaria Structura",
+    "FR": "Dulciaria Structura",
+    "ID": "Dulciaria Structura",
+    "IT": "Dulciaria Structura",
+    "JP": "ピエス・モンテ座",
+    "KR": "케이크타워자리",
+    "PT": "Dulciaria Structura",
+    "RU": "Сладкое Творение",
+    "TH": "Dulciaria Structura",
+    "TR": "Pasta Kulesi",
+    "VI": "Cung Hương Cao Tháp"
+  },
+  "native": {
+    "EN": "Fontaine",
+    "CHS": "枫丹",
+    "CHT": "楓丹",
+    "DE": "Fontaine",
+    "ES": "Fontaine",
+    "FR": "Fontaine",
+    "ID": "Fontaine",
+    "IT": "Fontaine",
+    "JP": "フォンテーヌ",
+    "KR": "폰타인",
+    "PT": "Fontaine",
+    "RU": "Фонтейн",
+    "TH": "Fontaine",
+    "TR": "Fontaine",
+    "VI": "Fontaine"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Emily Cass"
+    },
+    {
+      "lang": "CHS",
+      "va": "蔡海婷"
+    },
+    {
+      "lang": "JP",
+      "va": "佐藤聡美"
+    },
+    {
+      "lang": "KR",
+      "va": "Son Jeong-min"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.1188,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.999,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 56.95816,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

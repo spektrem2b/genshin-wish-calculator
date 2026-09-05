@@ -1,0 +1,137 @@
+{
+  "id": "10000126",
+  "name": {
+    "EN": "Zibai",
+    "CHS": "兹白",
+    "CHT": "茲白",
+    "DE": "Zibai",
+    "ES": "Zibai",
+    "FR": "Zibai",
+    "ID": "Zibai",
+    "IT": "Zibai",
+    "JP": "兹白",
+    "KR": "자백",
+    "PT": "Zibai",
+    "RU": "Цзы Бай",
+    "TH": "Zibai",
+    "TR": "Zibai",
+    "VI": "Zibai"
+  },
+  "nameEn": "Zibai",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "NODKRAI_ZIBAI",
+  "birthday": {
+    "month": 5,
+    "day": 15
+  },
+  "release": "2026-02-03T16:00:00",
+  "icon": "generated/character-profiles/10000126/avatar.webp",
+  "fullWish": "generated/character-profiles/10000126/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "White Horse's Fleeting Spring",
+    "CHS": "驹隙隐泉",
+    "CHT": "駒隙隱泉",
+    "DE": "Weißes Pferd und die reine Quelle",
+    "ES": "La Yegua del Manantial Escondido",
+    "FR": "Cheval blanc de la source éphémère",
+    "ID": "White Horse's Fleeting Spring",
+    "IT": "Sorgente fugace del cavallo bianco",
+    "JP": "隙を過ぐ仙駒、幽隠の泉",
+    "KR": "샘물에 숨은 세월",
+    "PT": "Primavera Efêmera do Cavalo Branco",
+    "RU": "Быстротечные воды сокрытого ручья",
+    "TH": "อาชาขาวเร้นธารา",
+    "TR": "Beyaz Atın Gizli Pınarı",
+    "VI": "Ngựa Phi Suối Chảy"
+  },
+  "description": {
+    "EN": "The White Horse Adeptus from Liyue's legends, known as Zibai. The most mysterious figure in Liyue's myths.",
+    "CHS": "璃月传说中的白马仙人，其名为兹白，璃月仙话中最神秘的一位。",
+    "CHT": "璃月傳說中的白馬仙人，其名為茲白，璃月仙話中最神秘的一位。",
+    "DE": "Die Adeptin des weißen Pferdes aus den Legenden von Liyue, die den Namen Zibai trägt. Eine der geheimnisvollsten Figuren in den Mythen Liyues.",
+    "ES": "La Adeptus Yegua Blanca de las leyendas de Liyue, conocida como Zibai. Es la Adeptus más misteriosa de entre todos los mitos de la nación.",
+    "FR": "L'Adepte cheval blanc des légendes de Liyue du nom de Zibai est le personnage le plus mystérieux des mythes locaux.",
+    "ID": "Adeptus kuda putih dalam legenda Liyue yang dikenal dengan nama Zibai, sosok paling misterius di dalam mitologi Liyue.",
+    "IT": "L'Adepta cavallo bianco, conosciuta come Zibai. È la figura più misteriosa tra le leggende di Liyue.",
+    "JP": "璃月の伝説で語られる白馬の仙人——兹白。璃月の仙人に関する物語の中で、最も謎に包まれた存在とされている。",
+    "KR": "리월의 전설 속 백마 선인, 이름하여 자백. 리월의 선인 중에서도 특히 신비로운 인물이다",
+    "PT": "A Adeptus Cavalo Branco das lendas de Liyue, conhecida como Zibai, ela é a figura mais misteriosa da mitologia de Liyue.",
+    "RU": "В легендах Ли Юэ встречаются упоминания о Белой Лошади по имени Цзы Бай - самом загадочном из всех Адептов Ли Юэ.",
+    "TH": "เซียนม้าขาวในตำนานของ Liyue มีนามว่า Zibai เป็นเซียนที่ลึกลับที่สุด ในเรื่องเล่าเกี่ยวกับเซียนของ Liyue",
+    "TR": "Liyue efsanelerinde geçen Beyaz At Adeptus. Zibai adıyla bilinir ve Liyue mitolojisinin en gizemli figürüdür.",
+    "VI": "Bạch Mã Tiên Nhân trong truyền thuyết Liyue, tên là Zibai, nhân vật thần bí nhất trong những câu chuyện tiên nhân ở Liyue."
+  },
+  "constellationName": {
+    "EN": "Equa Alba",
+    "CHS": "白驹座",
+    "CHT": "白駒座",
+    "DE": "Equa Alba",
+    "ES": "Equa Alba",
+    "FR": "Equa Alba",
+    "ID": "Equa Alba",
+    "IT": "Equa Alba",
+    "JP": "白駒座",
+    "KR": "백마자리",
+    "PT": "Equa Alba",
+    "RU": "Белая Лошадь",
+    "TH": "Equa Alba",
+    "TR": "Beyaz At",
+    "VI": "Cung Bạch Câu"
+  },
+  "native": {
+    "EN": "Liyue Harbor",
+    "CHS": "璃月港",
+    "CHT": "璃月港",
+    "DE": "Liyue",
+    "ES": "Liyue",
+    "FR": "Port de Liyue",
+    "ID": "Liyue Harbor",
+    "IT": "Porto di Liyue",
+    "JP": "璃月港",
+    "KR": "리월항",
+    "PT": "Porto de Liyue",
+    "RU": "Гавань Ли Юэ",
+    "TH": "ท่าเรือ Liyue",
+    "TR": "Liyue Limanı",
+    "VI": "Cảng Liyue"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Laura Welsh"
+    },
+    {
+      "lang": "CHS",
+      "va": "Mace"
+    },
+    {
+      "lang": "JP",
+      "va": "福圓美里"
+    },
+    {
+      "lang": "KR",
+      "va": "Chun Song-e"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1005.7526,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.5028,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 74.48835,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

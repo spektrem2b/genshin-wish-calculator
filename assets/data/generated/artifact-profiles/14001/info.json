@@ -1,0 +1,69 @@
+{
+  "id": 14001,
+  "name": {
+    "EN": "Blizzard Strayer",
+    "CHS": "冰风迷途的勇士",
+    "CHT": "冰風迷途的勇士",
+    "DE": "Im Schnee irrender Recke",
+    "ES": "Nómada del Invierno",
+    "FR": "Briseur de glace",
+    "ID": "Blizzard Strayer",
+    "IT": "Nomade della tormenta",
+    "JP": "氷風を彷徨う勇士",
+    "KR": "얼음바람 속에서 길잃은 용사",
+    "PT": "Herói Invernal",
+    "RU": "Заблудший в метели",
+    "TH": "Blizzard Strayer",
+    "TR": "Kış Gezgini",
+    "VI": "Dũng Sĩ Trong Băng Giá"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/14001/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Cryo DMG Bonus +15%",
+        "CHS": "获得15%冰元素伤害加成。",
+        "CHT": "獲得15%冰元素傷害加成。",
+        "DE": "Erhöht den Kryo-Schaden um 15 %.",
+        "ES": "Bono de Daño Cryo +15%.",
+        "FR": "Confère un bonus de DGT Cryo de 15 %.",
+        "ID": "Cryo DMG Bonus +15%.",
+        "IT": "Bonus DAN da Cryo +15%.",
+        "JP": "氷元素ダメージ+15%。",
+        "KR": "얼음 원소 피해 보너스+15%",
+        "PT": "Bônus de Dano Cryo +15%",
+        "RU": "Даёт 15% бонус Крио урона.",
+        "TH": "ได้รับโบนัสความเสียหายน้ำแข็ง 15%",
+        "TR": "+%15 Buz Hasarı Bonusu.",
+        "VI": "Tăng sát thương nguyên tố Băng 15%"
+      },
+      "affixId": "2140010"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "CHS": "攻击处于冰元素影响下的敌人时，暴击率提高20%；若敌人处于冻结状态下，则暴击率额外提高20%。",
+        "CHT": "攻擊處於冰元素影響下的敵人時，暴擊率提高20%；若敵人處於凍結狀態下，則暴擊率額外提高20%。",
+        "DE": "Erhöht die KT beim Angreifen von Kryo-Effekten betroffener Gegner um 20 %. Erhöht die KT bei von Gefroren betroffenen Gegnern zusätzlich um 20 %.",
+        "ES": "Aumenta en un 20% la Prob. CRIT contra los enemigos afectados por Cryo. Si el enemigo está Congelado, la Prob. CRIT aumentará en un 20% adicional.",
+        "FR": "Augmente le taux CRIT de 20 % lorsque le personnage attaque un ennemi affecté par l'élément Cryo. Confère un bonus supplémentaire de 20 % de taux CRIT si l'ennemi est gelé.",
+        "ID": "Saat karakter memukul musuh yang terkena efek Cryo, CRIT Rate meningkat 20%. Jika musuh terkena Frozen, CRIT Rate meningkat lagi 20%.",
+        "IT": "Quando un personaggio attacca un avversario sotto l'effetto di Cryo, il suo tasso di CRIT aumenta di un 20%. Se l'avversario è affetto da Congelamento, il tasso di CRIT aumenta di un ulteriore 20%.",
+        "JP": "氷元素の影響を受けている敵を攻撃した場合、会心率+20%。敵が凍結状態の場合、会心率は更に+20%。",
+        "KR": "얼음 원소의 영향을 받은 적을 공격 시 치명타 확률이 20% 증가한다. 만약 적이 빙결 상태라면 치명타 확률이 추가로 20% 증가한다",
+        "PT": "Quando um personagem ataca um inimigo afetado por Cryo, a sua Taxa CRIT aumenta em 20%. Adicionalmente, se o inimigo estiver Congelado, a Taxa CRIT aumenta em mais 20%.",
+        "RU": "Атаки по противникам с эффектом Крио увеличивают шанс крит. попадания на 20%. Если противник имеет статус Заморозка, то дополнительно увеличивает шанс крит. попадания на 20%.",
+        "TH": "เมื่อโจมตีศัตรูที่ได้รับผลกระทบของธาตุน้ำแข็ง อัตราคริจะเพิ่มขึ้น 20%; หากศัตรูตกอยู่ในสภาวะแช่แข็ง อัตราคริจะเพิ่มขึ้นอีก 20%",
+        "TR": "Bir karakter, Buzdan etkilenen bir düşmana saldırdığında, karakterin Kritik Oranı %20 artar. Düşman Dondurulmuş durumdaysa Kritik Oranı %20 daha artar.",
+        "VI": "Khi tấn công kẻ địch đang bị Nguyên Tố Băng ảnh hưởng, sẽ tăng 20% tỷ lệ bạo kích, nếu địch ở trạng thái đóng băng, sẽ tăng thêm 20% tỷ lệ bạo kích."
+      },
+      "affixId": "2140011"
+    }
+  ]
+}

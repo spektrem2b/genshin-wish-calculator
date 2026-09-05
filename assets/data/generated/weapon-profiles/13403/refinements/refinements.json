@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Infusion Needle",
+    "CHS": "注能之针",
+    "CHT": "注能之針",
+    "DE": "Energieschubnadel",
+    "ES": "Aguja de infusión",
+    "FR": "Aiguille énergisante",
+    "ID": "Infusion Needle",
+    "IT": "Ago energizzante",
+    "JP": "注入の針",
+    "KR": "에너지 주입 바늘",
+    "PT": "Agulha Energética",
+    "RU": "Заряженная игла",
+    "TH": "Infusion Needle",
+    "TR": "Tesirli İğne",
+    "VI": "Trâm Năng Lượng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 20% of ATK for 5s.",
+        "CHS": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成20%攻击力伤害。",
+        "CHT": "獲得元素微粒或元素晶球後的5秒內，普通攻擊和重擊額外造成20%攻擊力傷害。",
+        "DE": "Verursacht nach dem Erhalten von Elementarteilchen oder Elementarkristallen 5 s lang zusätzlichen Schaden in Höhe von 20 % ANG mit Standardangriffen und heftigen Schlägen.",
+        "ES": "Después de obtener una partícula u orbe elemental, los Ataques Normales y Cargados infligen un 20% de daño de ATQ adicional durante 5 s.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus confèrent pendant 5 s un bonus de DGT équivalant à 20 % de l'ATQ.",
+        "ID": "Setelah mengambil Elemental Orb atau Particle, Normal dan Charged Attack mendapatkan 20% DMG tambahan selama 5 detik.",
+        "IT": "#Dopo aver raccolto una sfera o particella elementale, gli attacchi normali e caricati infliggono DAN extra pari a un 20% dell'ATT per 5 s.",
+        "JP": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の20%の追加ダメージを与える。",
+        "KR": "원소 입자 또는 원소 구슬 획득 후 5초 동안 일반 공격 혹은 강공격 시 적에게 추가로 공격력 20%의 피해를 준다",
+        "PT": "Após obter um Orbe Elemental/Partícula Elemental, os Ataques Normais e Ataques Carregados causam um adicional de 20% de Dano Físico por 5s.",
+        "RU": "В течение 5 сек. после поднятия элементальной сферы или частицы обычные и заряженные атаки наносят дополнительный урон, равный 20% от силы атаки.",
+        "TH": "ภายในเวลา 5 วินาที หลังจากเก็บอณูธาตุหรือลูกแก้วธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มเติม 20% ของพลังโจมตี",
+        "TR": "Bir Element Küresi veya Parçacığı aldıktan sonra, 5 saniyeliğine Normal ve Yüklü Saldırılar %20 Saldırı kadar ek Hasar verir.",
+        "VI": "Trong 5s sau khi nhận Nguyên Tố Hạt Nhân hoặc Nguyên Tố Tinh Cầu, tấn công thường và trọng kích sẽ tạo thêm sát thương bằng 20% tấn công."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 25% of ATK for 5s.",
+        "CHS": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成25%攻击力伤害。",
+        "CHT": "獲得元素微粒或元素晶球後的5秒內，普通攻擊和重擊額外造成25%攻擊力傷害。",
+        "DE": "Verursacht nach dem Erhalten von Elementarteilchen oder Elementarkristallen 5 s lang zusätzlichen Schaden in Höhe von 25 % ANG mit Standardangriffen und heftigen Schlägen.",
+        "ES": "Después de obtener una partícula u orbe elemental, los Ataques Normales y Cargados infligen un 25% de daño de ATQ adicional durante 5 s.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus confèrent pendant 5 s un bonus de DGT équivalant à 25 % de l'ATQ.",
+        "ID": "Setelah mengambil Elemental Orb atau Particle, Normal dan Charged Attack mendapatkan 25% DMG tambahan selama 5 detik.",
+        "IT": "#Dopo aver raccolto una sfera o particella elementale, gli attacchi normali e caricati infliggono DAN extra pari a un 25% dell'ATT per 5 s.",
+        "JP": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の25%の追加ダメージを与える。",
+        "KR": "원소 입자 또는 원소 구슬 획득 후 5초 동안 일반 공격 혹은 강공격 시 적에게 추가로 공격력 25%의 피해를 준다",
+        "PT": "Após obter um Orbe Elemental/Partícula Elemental, os Ataques Normais e Ataques Carregados causam um adicional de 25% de Dano Físico por 5s.",
+        "RU": "В течение 5 сек. после поднятия элементальной сферы или частицы обычные и заряженные атаки наносят дополнительный урон, равный 25% от силы атаки.",
+        "TH": "ภายในเวลา 5 วินาที หลังจากเก็บอณูธาตุหรือลูกแก้วธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มเติม 25% ของพลังโจมตี",
+        "TR": "Bir Element Küresi veya Parçacığı aldıktan sonra, 5 saniyeliğine Normal ve Yüklü Saldırılar %25 Saldırı kadar ek Hasar verir.",
+        "VI": "Trong 5s sau khi nhận Nguyên Tố Hạt Nhân hoặc Nguyên Tố Tinh Cầu, tấn công thường và trọng kích sẽ tạo thêm sát thương bằng 25% tấn công."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 30% of ATK for 5s.",
+        "CHS": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成30%攻击力伤害。",
+        "CHT": "獲得元素微粒或元素晶球後的5秒內，普通攻擊和重擊額外造成30%攻擊力傷害。",
+        "DE": "Verursacht nach dem Erhalten von Elementarteilchen oder Elementarkristallen 5 s lang zusätzlichen Schaden in Höhe von 30 % ANG mit Standardangriffen und heftigen Schlägen.",
+        "ES": "Después de obtener una partícula u orbe elemental, los Ataques Normales y Cargados infligen un 30% de daño de ATQ adicional durante 5 s.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus confèrent pendant 5 s un bonus de DGT équivalant à 30 % de l'ATQ.",
+        "ID": "Setelah mengambil Elemental Orb atau Particle, Normal dan Charged Attack mendapatkan 30% DMG tambahan selama 5 detik.",
+        "IT": "#Dopo aver raccolto una sfera o particella elementale, gli attacchi normali e caricati infliggono DAN extra pari a un 30% dell'ATT per 5 s.",
+        "JP": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の30%の追加ダメージを与える。",
+        "KR": "원소 입자 또는 원소 구슬 획득 후 5초 동안 일반 공격 혹은 강공격 시 적에게 추가로 공격력 30%의 피해를 준다",
+        "PT": "Após obter um Orbe Elemental/Partícula Elemental, os Ataques Normais e Ataques Carregados causam um adicional de 30% de Dano Físico por 5s.",
+        "RU": "В течение 5 сек. после поднятия элементальной сферы или частицы обычные и заряженные атаки наносят дополнительный урон, равный 30% от силы атаки.",
+        "TH": "ภายในเวลา 5 วินาที หลังจากเก็บอณูธาตุหรือลูกแก้วธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มเติม 30% ของพลังโจมตี",
+        "TR": "Bir Element Küresi veya Parçacığı aldıktan sonra, 5 saniyeliğine Normal ve Yüklü Saldırılar %30 Saldırı kadar ek Hasar verir.",
+        "VI": "Trong 5s sau khi nhận Nguyên Tố Hạt Nhân hoặc Nguyên Tố Tinh Cầu, tấn công thường và trọng kích sẽ tạo thêm sát thương bằng 30% tấn công."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 35% of ATK for 5s.",
+        "CHS": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成35%攻击力伤害。",
+        "CHT": "獲得元素微粒或元素晶球後的5秒內，普通攻擊和重擊額外造成35%攻擊力傷害。",
+        "DE": "Verursacht nach dem Erhalten von Elementarteilchen oder Elementarkristallen 5 s lang zusätzlichen Schaden in Höhe von 35 % ANG mit Standardangriffen und heftigen Schlägen.",
+        "ES": "Después de obtener una partícula u orbe elemental, los Ataques Normales y Cargados infligen un 35% de daño de ATQ adicional durante 5 s.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus confèrent pendant 5 s un bonus de DGT équivalant à 35 % de l'ATQ.",
+        "ID": "Setelah mengambil Elemental Orb atau Particle, Normal dan Charged Attack mendapatkan 35% DMG tambahan selama 5 detik.",
+        "IT": "#Dopo aver raccolto una sfera o particella elementale, gli attacchi normali e caricati infliggono DAN extra pari a un 35% dell'ATT per 5 s.",
+        "JP": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の35%の追加ダメージを与える。",
+        "KR": "원소 입자 또는 원소 구슬 획득 후 5초 동안 일반 공격 혹은 강공격 시 적에게 추가로 공격력 35%의 피해를 준다",
+        "PT": "Após obter um Orbe Elemental/Partícula Elemental, os Ataques Normais e Ataques Carregados causam um adicional de 35% de Dano Físico por 5s.",
+        "RU": "В течение 5 сек. после поднятия элементальной сферы или частицы обычные и заряженные атаки наносят дополнительный урон, равный 35% от силы атаки.",
+        "TH": "ภายในเวลา 5 วินาที หลังจากเก็บอณูธาตุหรือลูกแก้วธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มเติม 35% ของพลังโจมตี",
+        "TR": "Bir Element Küresi veya Parçacığı aldıktan sonra, 5 saniyeliğine Normal ve Yüklü Saldırılar %35 Saldırı kadar ek Hasar verir.",
+        "VI": "Trong 5s sau khi nhận Nguyên Tố Hạt Nhân hoặc Nguyên Tố Tinh Cầu, tấn công thường và trọng kích sẽ tạo thêm sát thương bằng 35% tấn công."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 40% of ATK for 5s.",
+        "CHS": "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成40%攻击力伤害。",
+        "CHT": "獲得元素微粒或元素晶球後的5秒內，普通攻擊和重擊額外造成40%攻擊力傷害。",
+        "DE": "Verursacht nach dem Erhalten von Elementarteilchen oder Elementarkristallen 5 s lang zusätzlichen Schaden in Höhe von 40 % ANG mit Standardangriffen und heftigen Schlägen.",
+        "ES": "Después de obtener una partícula u orbe elemental, los Ataques Normales y Cargados infligen un 40% de daño de ATQ adicional durante 5 s.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus confèrent pendant 5 s un bonus de DGT équivalant à 40 % de l'ATQ.",
+        "ID": "Setelah mengambil Elemental Orb atau Particle, Normal dan Charged Attack mendapatkan 40% DMG tambahan selama 5 detik.",
+        "IT": "#Dopo aver raccolto una sfera o particella elementale, gli attacchi normali e caricati infliggono DAN extra pari a un 40% dell'ATT per 5 s.",
+        "JP": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の40%の追加ダメージを与える。",
+        "KR": "원소 입자 또는 원소 구슬 획득 후 5초 동안 일반 공격 혹은 강공격 시 적에게 추가로 공격력 40%의 피해를 준다",
+        "PT": "Após obter um Orbe Elemental/Partícula Elemental, os Ataques Normais e Ataques Carregados causam um adicional de 40% de Dano Físico por 5s.",
+        "RU": "В течение 5 сек. после поднятия элементальной сферы или частицы обычные и заряженные атаки наносят дополнительный урон, равный 40% от силы атаки.",
+        "TH": "ภายในเวลา 5 วินาที หลังจากเก็บอณูธาตุหรือลูกแก้วธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มเติม 40% ของพลังโจมตี",
+        "TR": "Bir Element Küresi veya Parçacığı aldıktan sonra, 5 saniyeliğine Normal ve Yüklü Saldırılar %40 Saldırı kadar ek Hasar verir.",
+        "VI": "Trong 5s sau khi nhận Nguyên Tố Hạt Nhân hoặc Nguyên Tố Tinh Cầu, tấn công thường và trọng kích sẽ tạo thêm sát thương bằng 40% tấn công."
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 11422,
+  "name": {
+    "EN": "Toukabou Shigure",
+    "CHS": "东花坊时雨",
+    "CHT": "東花坊時雨",
+    "DE": "Toukabou Shigure",
+    "ES": "Diluvio Florífero",
+    "FR": "Pluie florale",
+    "ID": "Toukabou Shigure",
+    "IT": "Toukabou Shigure",
+    "JP": "東花坊時雨",
+    "KR": "꽃잎비",
+    "PT": "Chuva Floral",
+    "RU": "Токабо сигурэ",
+    "TH": "Toukabou Shigure",
+    "TR": "Toukabou Shigure",
+    "VI": "Toukabou Shigure"
+  },
+  "nameEn": "Toukabou Shigure",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol.",
+    "CHS": "稍微有些特别的油纸伞。尽管长久的旅行中已经习惯风雨，与之一同静赏雨景或许也有其中妙趣。",
+    "CHT": "稍微有點特別的油紙傘。儘管長久的旅行中已經習慣風雨，與之一同靜賞雨景或許也有其中妙趣。",
+    "DE": "Ein ungewöhnlicher Ölpapierschirm. Auch wenn man sich auf langen Reisen an Wind und Wetter gewöhnt, so kann es doch eine besondere Freude sein, den Regen unter diesem Schirm zu genießen.",
+    "ES": "#Un paraguas de papel-aceite un tanto particular. Aunque ya estás más que acostumbrad{F#a}{M#o} a soportar el viento y la lluvia de tus largos viajes, tal vez resulte agradable disfrutar de un paisaje lluvioso en su compañía.",
+    "FR": "Une ombrelle en papier huilé un peu spéciale. Bien que de longues errances puissent permettre de s'habituer au vent et à la pluie, il peut être amusant d'admirer une scène pluvieuse à l'abri sous cette ombrelle.",
+    "ID": "Payung kertas minyak yang agak istimewa. Meskipun sudah terbiasa dengan angin dan hujan dalam pengembaraan yang panjang, mungkin seseorang akan bisa memperoleh kebahagiaan saat mengagumi pemandangan hujan di bawah perlindungan payung ini.",
+    "IT": "Un ombrello piuttosto particolare, fatto di carta oleata. È vero che più uno si ritrova a vagabondare, più si abitua a vento e pioggia; tuttavia, l'ammirazione di un paesaggio piovoso sotto l'ombrello potrebbe perfino essere una fonte di svago.",
+    "JP": "些か特別な油紙傘。長旅の中で風雨とはとうに慣れ親しんできたが、この傘と共に雨景を静かに楽しむのは風情があるものだろう。",
+    "KR": "기름종이로 만든 약간 특별한 우산. 오랜 여행으로 비바람에는 익숙해졌지만, 이 우산을 쓴 채 조용히 비가 내리는 풍경을 감상하면 나름의 운치를 느낄 수 있다",
+    "PT": "Um guarda-chuva especial feito de papel e óleo. Apesar de longas viagens poderem fazer alguém se acostumar com o vento e a chuva, talvez ainda exista razão para admirar uma cena chuvosa sob esse guarda-chuva.",
+    "RU": "Несколько необычный зонт из промасленной бумаги. В странствиях привыкаешь к непогоде, но в любовании дождливым пейзажем из-под этого зонта есть своя прелесть.",
+    "TH": "ร่มกระดาษน้ำมันที่ค่อนข้างพิเศษ แม้ว่าจะคุ้นเคยกับลมและฝน ในระหว่างการเดินทางที่แสนยาวนานแล้ว แต่การชมทิวทัศน์ยามฝนตกไปพร้อมกันกับมัน ก็น่าจะเพลิดเพลินไม่น้อย",
+    "TR": "Oldukça özel olan ve yağlı kağıttan yapılma bir şemsiye. Uzun yolculuklar gezginleri yağmur ve rüzgara alıştırsa da bu şemsiye altında manzaranın keyfini çıkarmak eşsiz bir deneyimdir.",
+    "VI": "Chiếc dù giấy dầu có chút đặc biệt. Tuy đã quen với mưa gió trong chuyến hành trình, nhưng chiêm ngưỡng cảnh mưa rơi với nó cũng sẽ có chút cảm giác thú vị."
+  },
+  "icon": "generated/weapon-profiles/11422/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

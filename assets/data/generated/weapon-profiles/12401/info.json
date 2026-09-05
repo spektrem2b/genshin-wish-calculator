@@ -1,0 +1,52 @@
+{
+  "id": 12401,
+  "name": {
+    "EN": "Favonius Greatsword",
+    "CHS": "西风大剑",
+    "CHT": "西風大劍",
+    "DE": "Favonius-Großschwert",
+    "ES": "Gran Espada de Favonius",
+    "FR": "Espadon de Favonius",
+    "ID": "Favonius Greatsword",
+    "IT": "Spadone di Favonius",
+    "JP": "西風大剣",
+    "KR": "페보니우스 대검",
+    "PT": "Grande Espada de Favonius",
+    "RU": "Двуручный меч Фавония",
+    "TH": "Favonius Greatsword",
+    "TR": "Favonius Büyük Kılıcı",
+    "VI": "Đại Kiếm Tây Phong"
+  },
+  "nameEn": "Favonius Greatsword",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A heavy ceremonial sword of the Knights of Favonius. It channels elemental power easily and is highly destructive.",
+    "CHS": "西风骑士团的重型仪式剑。能轻易导出元素力量，具有卓越的破坏力。",
+    "CHT": "西風騎士團的重型儀式劍。能輕易導出元素力量，具有卓越的破壞力。",
+    "DE": "Ein zeremonielles Schwert des Ordo Favonius. Es vereinfacht das Bündeln elementarer Energie, während es eine enorme Zerstörungskraft mitbringt.",
+    "ES": "Una espada pesada ceremonial de los Caballeros de Favonius. Canaliza fácilmente los poderes elementales y es altamente destructiva.",
+    "FR": "Un espadon généralement manié par les chevaliers de l'Ordre de Favonius. Invoquer les éléments est un jeu d'enfant avec cette arme au pouvoir destructeur.",
+    "ID": "Pedang ritual milik Knights of Favonius. Dapat mengalirkan kekuatan elemen dengan mudah, dan memiliki daya hancur yang besar.",
+    "IT": "Una pesante spada cerimoniale dei Cavalieri di Favonius. Altamente distruttiva, è in grado d'incanalare facilmente il potere elementale.",
+    "JP": "西風騎士団でよく使われる重剣。元素の力を簡単に引き出すことができ、優れた破壊力を持つ。",
+    "KR": "페보니우스 기사단의 중형 의식검. 원소의 힘을 쉽게 끌어낼 수 있고 파괴력이 상당하다",
+    "PT": "Uma espada pesada cerimonial dos Cavaleiros de Favonius. Canaliza poderes elementais facilmente e é altamente destrutiva.",
+    "RU": "Тяжёлый церемониальный меч Ордо Фавониус. С лёгкостью направляет элементальную энергию и обладает высокой разрушительной силой.",
+    "TH": "ดาบใหญ่ที่ใช้สำหรับทำพิธีของอัศวินแห่ง Favonius มันสามารถรวบรวมพลังงานธาตุได้ง่าย และสร้างพลังทำลายได้สูง",
+    "TR": "Favonius Şövalyelerinin sağlam merasim kılıcı. Elementlerin gücünü kolaylıkla kullanmayı sağlar ve son derece yıkıcıdır.",
+    "VI": "Kiếm nghi thức loại lớn của Đội Kỵ Sĩ Tây Phong. Có thể dễ dàng tạo ra sức mạnh Nguyên Tố, có sức phá hoại cực mạnh."
+  },
+  "icon": "generated/weapon-profiles/12401/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 14502,
+  "name": {
+    "EN": "Lost Prayer to the Sacred Winds",
+    "CHS": "四风原典",
+    "CHT": "四風原典",
+    "DE": "Gebete der Vier Winde",
+    "ES": "Oración Perdida a los Vientos Sagrados",
+    "FR": "L'origine des Quatre Vents",
+    "ID": "Lost Prayer to the Sacred Winds",
+    "IT": "Origine dei venti sacri",
+    "JP": "四風原典",
+    "KR": "사풍 원서",
+    "PT": "Oração Perdida aos Ventos Sagrados",
+    "RU": "Молитва святым ветрам",
+    "TH": "Lost Prayer to the Sacred Winds",
+    "TR": "Kutsal Rüzgarların Kayıp Duası",
+    "VI": "Điển Tích Tây Phong"
+  },
+  "nameEn": "Lost Prayer to the Sacred Winds",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia.",
+    "CHS": "崇信风的无名先民所写的教典珍本。数千年流传的信仰之力得到了风的青睐，饱含祝福与力量。",
+    "CHT": "崇信風的無名先民所寫的教典珍本。數千年流傳的信仰之力得到了風的青睞，飽含祝福與力量。",
+    "DE": "Ein wertvolles Lehrbuch von einem Unbekannten über die Anbetung des Windes. Für das über die Jahrtausende überlieferte Vertrauen erhielt es das Wohlwollen des Windes und somit seinen Segen und seine Kraft.",
+    "ES": "Un libro educativo escrito por unos ancestros anónimos que adoraban al viento. Fue bendecido por el viento por su fidelidad e influencia acumulada a lo largo de milenios.",
+    "FR": "Un ouvrage religieux rédigé par les premiers serviteurs de l'Archon Anémo. L'œuvre, qui a porté le message de l'Archon et sa bienveillance à travers le millénaire, a reçu la bénédiction des vents.",
+    "ID": "Kitab pembelajaran yang ditulis oleh pemuja Anemo tanpa nama dari zaman dahulu. Diberkati oleh angin untuk kesetiaan dan pengaruh yang telah ditunjukkannya.",
+    "IT": "Un tomo educativo scritto dai primi abitanti che veneravano il vento, da cui è stato benedetto per la sua fedeltà e la sua influenza nel corso di millenni.",
+    "JP": "風を信仰する先民たちが書いた教典。数千年の歴史を経た信仰は風に恵まれ、祝福の力に満ちている。",
+    "KR": "바람을 신봉하던 무명의 신도가 작성한 교전의 진본. 몇 천년 전부터 전해져 오던 신앙의 힘이 바람의 총애를 받아 축복과 힘이 깃들었다",
+    "PT": "Um livro educacional escrito por habitantes anônimos que adoravam o vento. Foi abençoado pelo vento por sua fidelidade e influência ao longo dos milênios.",
+    "RU": "Сборник молитв, написанный коренными жителями континента, которые поклонялись ветру. В течение тысячелетий эта книга, наделённая благословением ветров, накопила необычайную магическую силу.",
+    "TH": "ตำราเพื่อการศึกษาที่เขียนขึ้นโดยบุคคลนิรนามผู้เลื่อมใสในเทพแห่งลม พลังแห่งความศรัทธาที่ไหลเวียนมานับพันปีได้รับการโปรดปรานจากสายลมที่เต็มไปด้วยพรและพลัง",
+    "TR": "Rüzgarın ilk hizmetkarları tarafından yazılmış kutsal bir eser. Bin yıl boyunca bu mesajı taşıyan eser rüzgar tarafından kutsandı.",
+    "VI": "Điển tích được người dân sùng bái gió viết nên. Qua ngàn năm, niềm tin được lưu truyền và nhận được sự ưu ái của gió, tràn đầy sức mạnh và sự chúc phúc."
+  },
+  "icon": "generated/weapon-profiles/14502/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

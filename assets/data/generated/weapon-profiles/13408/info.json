@@ -1,0 +1,52 @@
+{
+  "id": 13408,
+  "name": {
+    "EN": "Royal Spear",
+    "CHS": "宗室猎枪",
+    "CHT": "宗室獵槍",
+    "DE": "Königlicher Jagdspeer",
+    "ES": "Lanza de Caza Real",
+    "FR": "Lance de chasse royale",
+    "ID": "Royal Spear",
+    "IT": "Lancia reale",
+    "JP": "旧貴族猟槍",
+    "KR": "왕실의 장창",
+    "PT": "Lança de Caça Real",
+    "RU": "Королевское копьё",
+    "TH": "Royal Spear",
+    "TR": "Kraliyet Mızrağı",
+    "VI": "Thương Săn Tông Thất"
+  },
+  "nameEn": "Royal Spear",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp.",
+    "CHS": "某位曾支配蒙德的旧日贵族，曾经珍爱的长枪。过去不曾见过天日，但如今依然尖锐无比。",
+    "CHT": "某位曾支配蒙德的舊日貴族曾經珍愛的長槍。過去不曾見過天日，但如今依然尖銳無比。",
+    "DE": "Eine Lanze, die früher einer der alten Aristokraten von Mondstadt führte und von diesem gehegt und gepflegt wurde. Sie hat bisher nie das Tageslicht gesehen, ist aber trotzdem unvergleichlich spitz.",
+    "ES": "Una lanza atesorada por un antiguo aristócrata que gobernó Mondstadt. Aunque nunca ha visto la luz del día, su filo no tiene rival.",
+    "FR": "Cette arme d'hast était autrefois chérie par l'un des nobles gouvernant Mondstadt, il y a de cela longtemps. Elle n'a sans doute jamais vu la lumière du jour, et est toujours particulièrement aiguisée.",
+    "ID": "Tombak yang dulu dipuja-puja oleh bangsawan kuno yang pernah menjajah Mondstadt. Tombak ini sudah lama tidak digunakan, tetapi masih tajam tiada banding.",
+    "IT": "Un tempo, quest'arma apparteneva a un membro dell'antica nobiltà che governava Mondstadt. Sebbene non abbia mai visto la luce del giorno, è tuttora straordinariamente appuntita.",
+    "JP": "かつてモンドを支配していた旧貴族が愛用していた長槍。長く封印されていたが、槍先は未だ鋭い。",
+    "KR": "몬드를 지배했던 옛 귀족이 매우 아끼던 창. 과거엔 빛을 보지 못했지만, 여전히 뾰족하기 그지없다",
+    "PT": "Esta lança outrora valorizada por um membro da antiga nobreza que governou Mondstadt há muito tempo. Embora nunca tenha visto a luz do dia, ela ainda é incomparavelmente afiada.",
+    "RU": "Некогда это копьё было любимым оружием одного мондштадтского аристократа. Хотя оно никогда не видело солнечного света, это копьё и поныне остро.",
+    "TH": "หอกของชนชั้นสูงผู้ซึ่งครั้งหนึ่งเคยปกครอง Mondstadt แม้จะผ่านมานานหลายปี แต่ก็ยังเฉียบคมอย่างไม่อาจเทียบได้",
+    "TR": "Bu mızrak, bir zamanlar Mondstadt'ı yöneten soylulardan birinin en değerli hazinesiydi. Uzun süredir gün ışığına çıkmadığı halde son derece keskindir.",
+    "VI": "Thanh thương yêu thích của một nhà quý tộc cổ xưa trị vì Mondstadt. Tuy trải qua bao nhiêu năm tháng, đến nay nó vẫn sắc bén vô cùng."
+  },
+  "icon": "generated/weapon-profiles/13408/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

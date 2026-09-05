@@ -1,0 +1,52 @@
+{
+  "id": 11303,
+  "name": {
+    "EN": "Traveler's Handy Sword",
+    "CHS": "旅行剑",
+    "CHT": "旅行劍",
+    "DE": "Reiseschwert",
+    "ES": "Espada del Viajero",
+    "FR": "Épée du voyageur",
+    "ID": "Traveler's Handy Sword",
+    "IT": "Spada del viaggiatore",
+    "JP": "旅道の剣",
+    "KR": "여행자의 검",
+    "PT": "Espada do Viajante",
+    "RU": "Меч путешественника",
+    "TH": "Traveler's Handy Sword",
+    "TR": "Gezginin Mahir Kılıcı",
+    "VI": "Kiếm Lữ Hành"
+  },
+  "nameEn": "Traveler's Handy Sword",
+  "type": "Kiếm Đơn",
+  "rarity": 3,
+  "description": {
+    "EN": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+    "CHS": "趁手的钢剑，剑柄里藏着剪子、放大镜、火绒等方便旅行的小物件。",
+    "CHT": "稱手的鋼劍，劍柄裡藏著剪刀、放大鏡、火絨等方便旅行的小東西。",
+    "DE": "Ein praktisches Schwert aus Stahl, in dessen Scheide sich unter anderem Schere, Fernglas und Zunder für die Reise befinden.",
+    "ES": "Una práctica espada de acero que esconde en su empuñadura unas tijeras, una lupa y yesca, entre otras cosas...",
+    "FR": "Une épée en acier facile à manier. Une paire de ciseaux, une loupe et d'autres gadgets se trouvent dans son fourreau.",
+    "ID": "Pedang baja yang nyaman untuk digenggam, di dalamnya tersembunyi gunting, kaca pembesar, kayu bakar, dan berbagai kebutuhan bertualang lainnya.",
+    "IT": "Una pratica spada d'acciaio dotata di forbici, lente d'ingrandimento, acciarino e altri accessori utili.",
+    "JP": "使いやすい鋼剣。柄にはハサミ、虫眼鏡、点火具など旅の必須品が隠されている。",
+    "KR": "손에 딱 맞는 강철검. 칼자루에 가위, 돋보기, 부싯깃 등 여행에 필요한 용품들이 들어있다",
+    "PT": "Uma espada de aço que esconde tesouras, lupas, entre outros itens úteis de viagem em sua bainha.",
+    "RU": "Удобный стальной меч, в ножнах которого также можно найти ножницы, лупу, трутницу и много чего ещё.",
+    "TH": "ดาบเหล็กกล้าที่มีกรรไกร, แว่นขยาย, ที่จุดไฟ และอื่น ๆ เก็บไว้ในฝักดาบ",
+    "TR": "Çok amaçlı bir silah. Bu kılıcın kınında bir makas, bir büyüteç ve birçok kullanışlı alet var.",
+    "VI": "Kiếm làm bằng gang thép rất chắc tay, trên thanh kiếm có ẩn giấu kéo, kính lúp, dây dẫn lửa v.v, rất tiện lợi cho việc lữ hành."
+  },
+  "icon": "generated/weapon-profiles/11303/avatar.webp",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.063733,
+  "substat_lvl90": 0.2928,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

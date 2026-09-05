@@ -1,0 +1,52 @@
+{
+  "id": 13301,
+  "name": {
+    "EN": "White Tassel",
+    "CHS": "白缨枪",
+    "CHT": "白纓槍",
+    "DE": "Weiße Quaste",
+    "ES": "Borla Blanca",
+    "FR": "Pampille blanche",
+    "ID": "White Tassel",
+    "IT": "Pennacchio bianco",
+    "JP": "白纓槍",
+    "KR": "백술창",
+    "PT": "Borla Branca",
+    "RU": "Белая кисть",
+    "TH": "White Tassel",
+    "TR": "Beyaz Püskül",
+    "VI": "Thương Bạch Anh"
+  },
+  "nameEn": "White Tassel",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 3,
+  "description": {
+    "EN": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
+    "CHS": "千岩军士兵的制式装备，枪身牢靠，枪尖锋锐，是无比可靠的武器。",
+    "CHT": "千岩軍士兵的制式裝備，槍身牢靠，槍尖鋒銳，是無比可靠的武器。",
+    "DE": "Diese Lanze gehört zur Standardausrüstung eines Millelithen. Sie ist stabil und sehr spitz, weswegen man sich auf sie verlassen kann.",
+    "ES": "Un arma estándar de la Geoarmada. Tiene un eje firme y una punta de lanza afilada. Es un arma muy fiable.",
+    "FR": "Une lance dont les Millelithes sont souvent équipés. La hampe solide et la lame tranchante de cette arme en font une valeur sûre.",
+    "ID": "Senjata standar milik prajurit Millelith dengan poros yang kokoh dan ujung tombak yang tajam. Sebuah senjata yang dapat diandalkan.",
+    "IT": "Un'arma d'ordinanza dei soldati Milleliti. Dotata di un'asta resistente e di una punta acuminata. Un'arma affidabile.",
+    "JP": "千岩軍兵士の制式装備。槍身は丈夫で槍先が鋭い頼もしい武器。",
+    "KR": "천암군 병사의 제식 장비. 창신이 튼튼하고 창끝이 예리하여 아주 믿을 만한 무기다",
+    "PT": "Uma arma padrão dos soldados de Millelith. Tem uma ponta bastante afiada e resistente. É uma arma confiável.",
+    "RU": "Стандартное вооружение Миллелитов. Имеет крепкое древко и острый наконечник.",
+    "TH": "มาตรฐานการสวมใส่ของ Millelith Soldier ตัวหอกแข็งแรง ปลายหอกทนทาน ช่างเป็นอาวุธที่มิอาจเทียบได้",
+    "TR": "Taşordu askerlerinin beylik silahı. Sağlam ve sivri ucuyla güvenilir bir silah.",
+    "VI": "Trang bị cho binh sĩ của Thiên Nham Quân, thân thương chắc chắn, mũi sắc nhọn, là vũ khí vô cùng tốt."
+  },
+  "icon": "generated/weapon-profiles/13301/avatar.webp",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.051,
+  "substat_lvl90": 0.2343,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

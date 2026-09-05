@@ -1,0 +1,137 @@
+{
+  "id": "10000128",
+  "name": {
+    "EN": "Varka",
+    "CHS": "法尔伽",
+    "CHT": "法爾伽",
+    "DE": "Varka",
+    "ES": "Varka",
+    "FR": "Varka",
+    "ID": "Varka",
+    "IT": "Varka",
+    "JP": "ファルカ",
+    "KR": "바르카",
+    "PT": "Varka",
+    "RU": "Варка",
+    "TH": "Varka",
+    "TR": "Varka",
+    "VI": "Varka"
+  },
+  "nameEn": "Varka",
+  "element": "Anemo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 2,
+    "day": 17
+  },
+  "release": "2026-02-23T22:00:00",
+  "icon": "generated/character-profiles/10000128/avatar.webp",
+  "fullWish": "generated/character-profiles/10000128/full_wish.webp",
+  "fullWishObjectPosition": "49.9% 67.7%",
+  "title": {
+    "EN": "Knight of Boreas",
+    "CHS": "北风骑士",
+    "CHT": "北風騎士",
+    "DE": "Ritter des Nordwinds",
+    "ES": "El Caballero de Boreas",
+    "FR": "Chevalier de Borée",
+    "ID": "Knight of Boreas",
+    "IT": "Cavaliere di Boreas",
+    "JP": "北風騎士",
+    "KR": "북풍 기사",
+    "PT": "Cavaleiro de Boreas",
+    "RU": "Рыцарь Бореалис",
+    "TH": "อัศวินแห่ง Boreas",
+    "TR": "Poyraz Şövalyesi",
+    "VI": "Kỵ Sĩ Bắc Phong"
+  },
+  "description": {
+    "EN": "Grand Master of the Knights of Favonius. Knight of Boreas, protector of Mondstadt.",
+    "CHS": "西风骑士团大团长，守护蒙德的北风骑士。",
+    "CHT": "西風騎士團大團長，守護蒙德的北風騎士。",
+    "DE": "Der Großmeister des Ordo Favonius, der Ritter des Nordwinds, der Mondstadt beschützt.",
+    "ES": "El Gran Maestro de los Caballeros de Favonius, así como el Caballero de Boreas que protege Mondstadt.",
+    "FR": "Le Grand Maître de l'Ordre de Favonius, le Chevalier de Borée et le protecteur de Mondstadt.",
+    "ID": "Grandmaster Knights of Favonius, Sang Knight of Boreas pelindung Mondstadt.",
+    "IT": "Gran Maestro dei Cavalieri di Favonius, Cavaliere di Boreas e protettore di Mondstadt.",
+    "JP": "西風騎士団の大団長——モンドを守る北風騎士。",
+    "KR": "페보니우스 기사단의 대단장이자, 몬드를 수호하는 북풍 기사",
+    "PT": "Grande Mestre dos Cavaleiros de Favonius. Cavaleiro de Boreas, protetor de Mondstadt.",
+    "RU": "Магистр Ордо Фавониус, Рыцарь Бореалис, защитник Мондштадта.",
+    "TH": "แกรนด์มาสเตอร์ของกองอัศวินแห่ง Favonius, อัศวินแห่ง Boreas ผู้พิทักษ์ Mondstadt",
+    "TR": "Favonius Şövalyelerinin Büyük Kumandanı. Poyraz Şövalyesi, Mondstadt'ın koruyucusu.",
+    "VI": "Đại Đội Trưởng Đội Kỵ Sĩ Tây Phong, Kỵ Sĩ Bắc Phong bảo vệ Mondstadt."
+  },
+  "constellationName": {
+    "EN": "Lupus Majoris",
+    "CHS": "天狼座",
+    "CHT": "天狼座",
+    "DE": "Lupus Majoris",
+    "ES": "Lupus Majoris",
+    "FR": "Lupus Majoris",
+    "ID": "Lupus Majoris",
+    "IT": "Lupus Majoris",
+    "JP": "天狼座",
+    "KR": "천랑자리",
+    "PT": "Lupus Majoris",
+    "RU": "Волк",
+    "TH": "Lupus Majoris",
+    "TR": "Büyük Kurt",
+    "VI": "Cung Thiên Lang"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Joseph May"
+    },
+    {
+      "lang": "CHS",
+      "va": "郝祥海"
+    },
+    {
+      "lang": "JP",
+      "va": "杉田智和"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Sang-hoon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 981.9196,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 27.4645,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.92405,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

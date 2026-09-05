@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Echoes of the Plentiful Land",
+    "CHS": "丰沃之陆的回声",
+    "CHT": "豐沃之陸的回聲",
+    "DE": "Echos der fruchtbaren Lande",
+    "ES": "Eco de la tierra de la fertilidad",
+    "FR": "Échos des terres fertiles",
+    "ID": "Echoes of the Plentiful Land",
+    "IT": "Echi della Terra fertile",
+    "JP": "豊沃の地の残響",
+    "KR": "비옥한 땅의 메아리",
+    "PT": "Ecos da Terra Abundante",
+    "RU": "Эхо земли изобилия",
+    "TH": "Echoes of the Plentiful Land",
+    "TR": "Bereketli Toprakların Yankıları",
+    "VI": "Tiếng Vọng Của Vùng Đất Màu Mỡ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.6% for 10s. Normal Attack DMG can be increased this way by a maximum of 16%.",
+        "CHS": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升0.6%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升16%。",
+        "CHT": "施放元素戰技時，獲得「玉鍛之冕」效果：每1000點生命值上限都會使普通攻擊造成的傷害提升0.6%，持續10秒。依此方式至多使普通攻擊造成的傷害提升16%。",
+        "DE": "#Verleiht beim Auslösen der Elementarfähigkeit den Effekt „Jadenes Haupt“: Erhöht für je 1.000 Punkte der max. LP den mit Standardangriffen verursachten Schaden 10 s lang um 0,6 %. Auf diese Weise kann der mit Standardangriffen verursachte Schaden um bis zu 16 % erhöht werden.",
+        "ES": "#Al usar la Habilidad Elemental, otorga el efecto de “corona de jade”, el cual aumenta durante 10 s el daño del Ataque Normal en un 0.6% por cada 1000 pts. de Vida Máx. que tenga el portador de esta arma. Como máximo, el daño del Ataque Normal puede aumentar en un 16% de esta manera.",
+        "FR": "Utiliser une compétence élémentaire accorde l'effet Couronne de Jade : chaque tranche de 1 000 PV max augmente les DGT infligés par les attaques normales de 0,6 % pendant 10 s. Les DGT des attaques normales peuvent être augmentés d'un maximum de 16 % de cette manière.",
+        "ID": "Saat melancarkan Elemental Skill, akan mendapatkan efek Jade-Forged Crown: Setiap 1.000 Max HP akan meningkatkan DMG Normal Attack Karakter yang mengenakan sebesar 0,6% selama 10 detik. DMG Normal Attack yang bisa ditingkatkan dengan cara ini maksimum adalah 16%.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Corona di Giada: per ogni 1.000 di PS max, i DAN da attacco normale del personaggio aumentano di uno 0,6% per 10 s. I DAN da attacco normale possono aumentare in questo modo fino a un 16% massimo.",
+        "JP": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+0.6%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大16%まで。",
+        "KR": "원소전투 스킬 발동 시, 「옥 왕관」 효과를 획득한다: HP 최대치의 1000pt마다 일반 공격이 주는 피해가 0.6% 증가한다. 지속 시간: 10초. 해당 방식으로 일반 공격이 주는 피해가 최대 16% 증가한다",
+        "PT": "Ganha o efeito Coroa Forjada em Jade ao usar uma Habilidade Elemental: Cada 1.000 de Vida Máxima aumentará o Dano causado do Ataque Normal em 0.6% por 10s. O Dano do Ataque Normal pode ser aumentado dessa forma em um máximo de 16%.",
+        "RU": "Использование элементального навыка наделяет эффектом Нефритовой короны: наносимый урон обычной атаки повышается на 0,6% за каждую 1000 ед. макс. HP на 10 сек. Урон обычной атаки таким образом можно повысить максимум на 16%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ จะได้รับเอฟเฟกต์ \"Jade-Forged Crown\": ค่าพลังชีวิตสูงสุดทุก 1,000 หน่วย จะทำให้ความเสียหายของการโจมตีปกติเพิ่มขึ้น 0.6% เป็นเวลา 10 วินาที ซึ่งจะสามารถเพิ่มความเสียหายของการโจมตีปกติด้วยวิธีนี้ได้มากสุด 16%",
+        "TR": "Bir Element Becerisi kullanmak Yeşim Taç etkisi kazandırır: Her 1.000 Maks. Can, 10 saniyeliğine kuşanan karakterin Normal Saldırı Hasarını %0,6 artırır. Normal Saldırı Hasarı bu şekilde en fazla %16 artabilir.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, sẽ nhận được hiệu quả \"Vương Miện Ngọc\": Mỗi 1000 Giới Hạn HP sẽ khiến sát thương Tấn Công Thường gây ra tăng 0.6% trong 10s. Tối đa có thể tăng 16% sát thương Tấn Công Thường bằng cách thức này."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.7% for 10s. Normal Attack DMG can be increased this way by a maximum of 20%.",
+        "CHS": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升0.7%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升20%。",
+        "CHT": "施放元素戰技時，獲得「玉鍛之冕」效果：每1000點生命值上限都會使普通攻擊造成的傷害提升0.7%，持續10秒。依此方式至多使普通攻擊造成的傷害提升20%。",
+        "DE": "#Verleiht beim Auslösen der Elementarfähigkeit den Effekt „Jadenes Haupt“: Erhöht für je 1.000 Punkte der max. LP den mit Standardangriffen verursachten Schaden 10 s lang um 0,7 %. Auf diese Weise kann der mit Standardangriffen verursachte Schaden um bis zu 20 % erhöht werden.",
+        "ES": "#Al usar la Habilidad Elemental, otorga el efecto de “corona de jade”, el cual aumenta durante 10 s el daño del Ataque Normal en un 0.7% por cada 1000 pts. de Vida Máx. que tenga el portador de esta arma. Como máximo, el daño del Ataque Normal puede aumentar en un 20% de esta manera.",
+        "FR": "Utiliser une compétence élémentaire accorde l'effet Couronne de Jade : chaque tranche de 1 000 PV max augmente les DGT infligés par les attaques normales de 0,7 % pendant 10 s. Les DGT des attaques normales peuvent être augmentés d'un maximum de 20 % de cette manière.",
+        "ID": "Saat melancarkan Elemental Skill, akan mendapatkan efek Jade-Forged Crown: Setiap 1.000 Max HP akan meningkatkan DMG Normal Attack Karakter yang mengenakan sebesar 0,7% selama 10 detik. DMG Normal Attack yang bisa ditingkatkan dengan cara ini maksimum adalah 20%.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Corona di Giada: per ogni 1.000 di PS max, i DAN da attacco normale del personaggio aumentano di uno 0,7% per 10 s. I DAN da attacco normale possono aumentare in questo modo fino a un 20% massimo.",
+        "JP": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+0.7%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大20%まで。",
+        "KR": "원소전투 스킬 발동 시, 「옥 왕관」 효과를 획득한다: HP 최대치의 1000pt마다 일반 공격이 주는 피해가 0.7% 증가한다. 지속 시간: 10초. 해당 방식으로 일반 공격이 주는 피해가 최대 20% 증가한다",
+        "PT": "Ganha o efeito Coroa Forjada em Jade ao usar uma Habilidade Elemental: Cada 1.000 de Vida Máxima aumentará o Dano causado do Ataque Normal em 0.7% por 10s. O Dano do Ataque Normal pode ser aumentado dessa forma em um máximo de 20%.",
+        "RU": "Использование элементального навыка наделяет эффектом Нефритовой короны: наносимый урон обычной атаки повышается на 0,7% за каждую 1000 ед. макс. HP на 10 сек. Урон обычной атаки таким образом можно повысить максимум на 20%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ จะได้รับเอฟเฟกต์ \"Jade-Forged Crown\": ค่าพลังชีวิตสูงสุดทุก 1,000 หน่วย จะทำให้ความเสียหายของการโจมตีปกติเพิ่มขึ้น 0.7% เป็นเวลา 10 วินาที ซึ่งจะสามารถเพิ่มความเสียหายของการโจมตีปกติด้วยวิธีนี้ได้มากสุด 20%",
+        "TR": "Bir Element Becerisi kullanmak Yeşim Taç etkisi kazandırır: Her 1.000 Maks. Can, 10 saniyeliğine kuşanan karakterin Normal Saldırı Hasarını %0,7 artırır. Normal Saldırı Hasarı bu şekilde en fazla %20 artabilir.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, sẽ nhận được hiệu quả \"Vương Miện Ngọc\": Mỗi 1000 Giới Hạn HP sẽ khiến sát thương Tấn Công Thường gây ra tăng 0.7% trong 10s. Tối đa có thể tăng 20% sát thương Tấn Công Thường bằng cách thức này."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.8% for 10s. Normal Attack DMG can be increased this way by a maximum of 24%.",
+        "CHS": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升0.8%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升24%。",
+        "CHT": "施放元素戰技時，獲得「玉鍛之冕」效果：每1000點生命值上限都會使普通攻擊造成的傷害提升0.8%，持續10秒。依此方式至多使普通攻擊造成的傷害提升24%。",
+        "DE": "#Verleiht beim Auslösen der Elementarfähigkeit den Effekt „Jadenes Haupt“: Erhöht für je 1.000 Punkte der max. LP den mit Standardangriffen verursachten Schaden 10 s lang um 0,8 %. Auf diese Weise kann der mit Standardangriffen verursachte Schaden um bis zu 24 % erhöht werden.",
+        "ES": "#Al usar la Habilidad Elemental, otorga el efecto de “corona de jade”, el cual aumenta durante 10 s el daño del Ataque Normal en un 0.8% por cada 1000 pts. de Vida Máx. que tenga el portador de esta arma. Como máximo, el daño del Ataque Normal puede aumentar en un 24% de esta manera.",
+        "FR": "Utiliser une compétence élémentaire accorde l'effet Couronne de Jade : chaque tranche de 1 000 PV max augmente les DGT infligés par les attaques normales de 0,8 % pendant 10 s. Les DGT des attaques normales peuvent être augmentés d'un maximum de 24 % de cette manière.",
+        "ID": "Saat melancarkan Elemental Skill, akan mendapatkan efek Jade-Forged Crown: Setiap 1.000 Max HP akan meningkatkan DMG Normal Attack Karakter yang mengenakan sebesar 0,8% selama 10 detik. DMG Normal Attack yang bisa ditingkatkan dengan cara ini maksimum adalah 24%.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Corona di Giada: per ogni 1.000 di PS max, i DAN da attacco normale del personaggio aumentano di uno 0,8% per 10 s. I DAN da attacco normale possono aumentare in questo modo fino a un 24% massimo.",
+        "JP": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+0.8%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大24%まで。",
+        "KR": "원소전투 스킬 발동 시, 「옥 왕관」 효과를 획득한다: HP 최대치의 1000pt마다 일반 공격이 주는 피해가 0.8% 증가한다. 지속 시간: 10초. 해당 방식으로 일반 공격이 주는 피해가 최대 24% 증가한다",
+        "PT": "Ganha o efeito Coroa Forjada em Jade ao usar uma Habilidade Elemental: Cada 1.000 de Vida Máxima aumentará o Dano causado do Ataque Normal em 0.8% por 10s. O Dano do Ataque Normal pode ser aumentado dessa forma em um máximo de 24%.",
+        "RU": "Использование элементального навыка наделяет эффектом Нефритовой короны: наносимый урон обычной атаки повышается на 0,8% за каждую 1000 ед. макс. HP на 10 сек. Урон обычной атаки таким образом можно повысить максимум на 24%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ จะได้รับเอฟเฟกต์ \"Jade-Forged Crown\": ค่าพลังชีวิตสูงสุดทุก 1,000 หน่วย จะทำให้ความเสียหายของการโจมตีปกติเพิ่มขึ้น 0.8% เป็นเวลา 10 วินาที ซึ่งจะสามารถเพิ่มความเสียหายของการโจมตีปกติด้วยวิธีนี้ได้มากสุด 24%",
+        "TR": "Bir Element Becerisi kullanmak Yeşim Taç etkisi kazandırır: Her 1.000 Maks. Can, 10 saniyeliğine kuşanan karakterin Normal Saldırı Hasarını %0,8 artırır. Normal Saldırı Hasarı bu şekilde en fazla %24 artabilir.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, sẽ nhận được hiệu quả \"Vương Miện Ngọc\": Mỗi 1000 Giới Hạn HP sẽ khiến sát thương Tấn Công Thường gây ra tăng 0.8% trong 10s. Tối đa có thể tăng 24% sát thương Tấn Công Thường bằng cách thức này."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.9% for 10s. Normal Attack DMG can be increased this way by a maximum of 28%.",
+        "CHS": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升0.9%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升28%。",
+        "CHT": "施放元素戰技時，獲得「玉鍛之冕」效果：每1000點生命值上限都會使普通攻擊造成的傷害提升0.9%，持續10秒。依此方式至多使普通攻擊造成的傷害提升28%。",
+        "DE": "#Verleiht beim Auslösen der Elementarfähigkeit den Effekt „Jadenes Haupt“: Erhöht für je 1.000 Punkte der max. LP den mit Standardangriffen verursachten Schaden 10 s lang um 0,9 %. Auf diese Weise kann der mit Standardangriffen verursachte Schaden um bis zu 28 % erhöht werden.",
+        "ES": "#Al usar la Habilidad Elemental, otorga el efecto de “corona de jade”, el cual aumenta durante 10 s el daño del Ataque Normal en un 0.9% por cada 1000 pts. de Vida Máx. que tenga el portador de esta arma. Como máximo, el daño del Ataque Normal puede aumentar en un 28% de esta manera.",
+        "FR": "Utiliser une compétence élémentaire accorde l'effet Couronne de Jade : chaque tranche de 1 000 PV max augmente les DGT infligés par les attaques normales de 0,9 % pendant 10 s. Les DGT des attaques normales peuvent être augmentés d'un maximum de 28 % de cette manière.",
+        "ID": "Saat melancarkan Elemental Skill, akan mendapatkan efek Jade-Forged Crown: Setiap 1.000 Max HP akan meningkatkan DMG Normal Attack Karakter yang mengenakan sebesar 0,9% selama 10 detik. DMG Normal Attack yang bisa ditingkatkan dengan cara ini maksimum adalah 28%.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Corona di Giada: per ogni 1.000 di PS max, i DAN da attacco normale del personaggio aumentano di uno 0,9% per 10 s. I DAN da attacco normale possono aumentare in questo modo fino a un 28% massimo.",
+        "JP": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+0.9%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大28%まで。",
+        "KR": "원소전투 스킬 발동 시, 「옥 왕관」 효과를 획득한다: HP 최대치의 1000pt마다 일반 공격이 주는 피해가 0.9% 증가한다. 지속 시간: 10초. 해당 방식으로 일반 공격이 주는 피해가 최대 28% 증가한다",
+        "PT": "Ganha o efeito Coroa Forjada em Jade ao usar uma Habilidade Elemental: Cada 1.000 de Vida Máxima aumentará o Dano causado do Ataque Normal em 0.9% por 10s. O Dano do Ataque Normal pode ser aumentado dessa forma em um máximo de 28%.",
+        "RU": "Использование элементального навыка наделяет эффектом Нефритовой короны: наносимый урон обычной атаки повышается на 0,9% за каждую 1000 ед. макс. HP на 10 сек. Урон обычной атаки таким образом можно повысить максимум на 28%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ จะได้รับเอฟเฟกต์ \"Jade-Forged Crown\": ค่าพลังชีวิตสูงสุดทุก 1,000 หน่วย จะทำให้ความเสียหายของการโจมตีปกติเพิ่มขึ้น 0.9% เป็นเวลา 10 วินาที ซึ่งจะสามารถเพิ่มความเสียหายของการโจมตีปกติด้วยวิธีนี้ได้มากสุด 28%",
+        "TR": "Bir Element Becerisi kullanmak Yeşim Taç etkisi kazandırır: Her 1.000 Maks. Can, 10 saniyeliğine kuşanan karakterin Normal Saldırı Hasarını %0,9 artırır. Normal Saldırı Hasarı bu şekilde en fazla %28 artabilir.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, sẽ nhận được hiệu quả \"Vương Miện Ngọc\": Mỗi 1000 Giới Hạn HP sẽ khiến sát thương Tấn Công Thường gây ra tăng 0.9% trong 10s. Tối đa có thể tăng 28% sát thương Tấn Công Thường bằng cách thức này."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 1% for 10s. Normal Attack DMG can be increased this way by a maximum of 32%.",
+        "CHS": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升1%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升32%。",
+        "CHT": "施放元素戰技時，獲得「玉鍛之冕」效果：每1000點生命值上限都會使普通攻擊造成的傷害提升1%，持續10秒。依此方式至多使普通攻擊造成的傷害提升32%。",
+        "DE": "#Verleiht beim Auslösen der Elementarfähigkeit den Effekt „Jadenes Haupt“: Erhöht für je 1.000 Punkte der max. LP den mit Standardangriffen verursachten Schaden 10 s lang um 1 %. Auf diese Weise kann der mit Standardangriffen verursachte Schaden um bis zu 32 % erhöht werden.",
+        "ES": "#Al usar la Habilidad Elemental, otorga el efecto de “corona de jade”, el cual aumenta durante 10 s el daño del Ataque Normal en un 1% por cada 1000 pts. de Vida Máx. que tenga el portador de esta arma. Como máximo, el daño del Ataque Normal puede aumentar en un 32% de esta manera.",
+        "FR": "Utiliser une compétence élémentaire accorde l'effet Couronne de Jade : chaque tranche de 1 000 PV max augmente les DGT infligés par les attaques normales de 1 % pendant 10 s. Les DGT des attaques normales peuvent être augmentés d'un maximum de 32 % de cette manière.",
+        "ID": "Saat melancarkan Elemental Skill, akan mendapatkan efek Jade-Forged Crown: Setiap 1.000 Max HP akan meningkatkan DMG Normal Attack Karakter yang mengenakan sebesar 1% selama 10 detik. DMG Normal Attack yang bisa ditingkatkan dengan cara ini maksimum adalah 32%.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Corona di Giada: per ogni 1.000 di PS max, i DAN da attacco normale del personaggio aumentano di uno 1% per 10 s. I DAN da attacco normale possono aumentare in questo modo fino a un 32% massimo.",
+        "JP": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+1%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大32%まで。",
+        "KR": "원소전투 스킬 발동 시, 「옥 왕관」 효과를 획득한다: HP 최대치의 1000pt마다 일반 공격이 주는 피해가 1% 증가한다. 지속 시간: 10초. 해당 방식으로 일반 공격이 주는 피해가 최대 32% 증가한다",
+        "PT": "Ganha o efeito Coroa Forjada em Jade ao usar uma Habilidade Elemental: Cada 1.000 de Vida Máxima aumentará o Dano causado do Ataque Normal em 1% por 10s. O Dano do Ataque Normal pode ser aumentado dessa forma em um máximo de 32%.",
+        "RU": "Использование элементального навыка наделяет эффектом Нефритовой короны: наносимый урон обычной атаки повышается на 1% за каждую 1000 ед. макс. HP на 10 сек. Урон обычной атаки таким образом можно повысить максимум на 32%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ จะได้รับเอฟเฟกต์ \"Jade-Forged Crown\": ค่าพลังชีวิตสูงสุดทุก 1,000 หน่วย จะทำให้ความเสียหายของการโจมตีปกติเพิ่มขึ้น 1% เป็นเวลา 10 วินาที ซึ่งจะสามารถเพิ่มความเสียหายของการโจมตีปกติด้วยวิธีนี้ได้มากสุด 32%",
+        "TR": "Bir Element Becerisi kullanmak Yeşim Taç etkisi kazandırır: Her 1.000 Maks. Can, 10 saniyeliğine kuşanan karakterin Normal Saldırı Hasarını %1 artırır. Normal Saldırı Hasarı bu şekilde en fazla %32 artabilir.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, sẽ nhận được hiệu quả \"Vương Miện Ngọc\": Mỗi 1000 Giới Hạn HP sẽ khiến sát thương Tấn Công Thường gây ra tăng 1% trong 10s. Tối đa có thể tăng 32% sát thương Tấn Công Thường bằng cách thức này."
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000057",
+  "name": {
+    "EN": "Arataki Itto",
+    "CHS": "荒泷一斗",
+    "CHT": "荒瀧一斗",
+    "DE": "Arataki Itto",
+    "ES": "Arataki Itto",
+    "FR": "Arataki Itto",
+    "ID": "Arataki Itto",
+    "IT": "Arataki Itto",
+    "JP": "荒瀧一斗",
+    "KR": "아라타키 이토",
+    "PT": "Arataki Itto",
+    "RU": "Итто",
+    "TH": "Arataki Itto",
+    "TR": "Arataki Itto",
+    "VI": "Arataki Itto"
+  },
+  "nameEn": "Arataki Itto",
+  "element": "Geo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 6,
+    "day": 1
+  },
+  "release": "2021-12-14T16:00:00",
+  "icon": "generated/character-profiles/10000057/avatar.webp",
+  "fullWish": "generated/character-profiles/10000057/full_wish.webp",
+  "fullWishObjectPosition": "50.2% 20.0%",
+  "title": {
+    "EN": "Hanamizaka Heroics",
+    "CHS": "花坂豪快",
+    "CHT": "花坂豪快",
+    "DE": "Held von Hanamizaka",
+    "ES": "El Héroe de Hanamizaka",
+    "FR": "Héros de Hanamizaka",
+    "ID": "Hanamizaka Heroics",
+    "IT": "Eroe di Hanamizaka",
+    "JP": "花坂豪快",
+    "KR": "하나미자카 쾌걸",
+    "PT": "Heroísmo de Hanamizaka",
+    "RU": "Герой Ханамидзаки",
+    "TH": "ขาใหญ่ประจำ Hanamizaka",
+    "TR": "Hanamizaka Kahramanlığı",
+    "VI": "Quái Kiệt Hanamizaka"
+  },
+  "description": {
+    "EN": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+    "CHS": "活跃在稻妻城花见坂的「荒泷派」初代目头领。什么，从没听说过荒泷派？你是想找茬吗？",
+    "CHT": "活躍在稻妻城花見坂的「荒瀧派」初代目頭領。什麼，從沒聽說過荒瀧派？你是想找碴嗎？",
+    "DE": "Der erste und größte Anführer der Arataki-Bande, berühmt in ganz Hanamizaka im Gebiet von Inazuma ... Wie bitte? Du hast noch nie von der Arataki-Bande gehört? Ernsthaft?",
+    "ES": "El primer gran líder de la Banda de Arataki, muy activo en la zona de Hanamizaka de la Ciudad de Inazuma. ¿Nunca habías oído hablar de la Banda de Arataki? ¿En serio?",
+    "FR": "Le premier et plus grand chef du gang Arataki, célèbre dans tout Hanamizaka, à la Cité d'Inazuma... Hein, quoi ? Jamais entendu parler d'eux ? Sérieux ?",
+    "ID": "Ketua Geng Arataki yang Pertama dan yang Terhebat, dan terkenal di Hanamizaka, Kota Inazuma ... Apa katamu? Belum pernah dengar? Mau cari ribut ya?",
+    "IT": "Primo e sommo capo della Banda di Arataki, famoso in tutta la zona di Hanamizaka della Città d'Inazuma. Aspetta... Cosa?? Non ne hai mai sentito parlare? Mi prendi in giro?",
+    "JP": "稲妻城の花見坂で活動する「荒瀧派」の初代親分。なにっ！？荒瀧派なんて聞いたこともないだと？喧嘩売ってんのか、コラァ！？",
+    "KR": "이나즈마성 하나미자카에서 활동하는 「아라타키파」의 초대 두목이다. 뭐라고, 아라타키파를 처음 들어본다고? 시비 거는 거냐?",
+    "PT": "O primeiro e maior chefe da Gangue Arataki, famosa em Hanamizaka, na cidade de Inazuma... Espere, o quê? Nunca ouviu falar deles? Sério?",
+    "RU": "Первый и величайший предводитель банды Аратаки, прославленной по всей Ханамидзаке города Инадзумы. Что, вы никогда о ней не слышали? Нарываетесь?",
+    "TH": "ผู้นำรุ่นแรกของแก๊ง Arataki ผู้โด่งดังไปทั่วทั้ง Hanamizaka แห่ง Inazuma... หืม ว่ายังไงนะ? ไม่เคยได้ยินชื่อแก๊ง Arataki? อยากมีเรื่องรึไง?",
+    "TR": "Inazuma'daki Hanamizaka'da ünlü Arataki Çetesinin ilk ve en büyük lideri... Bir dakika, ne? Onları hiç duymadın mı? Şaka yapıyor olmalısın!",
+    "VI": "Thủ lĩnh đời đầu của \"Bang Arataki\" địa bàn Hanamizaka. Sao, chưa nghe qua Bang Arataki à, đùa ta sao?"
+  },
+  "constellationName": {
+    "EN": "Taurus Iracundus",
+    "CHS": "天牛座",
+    "CHT": "天牛座",
+    "DE": "Taurus Iracundus",
+    "ES": "Taurus Iracundus",
+    "FR": "Taurus Iracundus",
+    "ID": "Taurus Iracundus",
+    "IT": "Taurus Iracundus",
+    "JP": "天ノ牛座",
+    "KR": "하늘소자리",
+    "PT": "Taurus Iracundus",
+    "RU": "Небесный Бык",
+    "TH": "Taurus Iracundus",
+    "TR": "Kızgın Boğa",
+    "VI": "Cung Thiên Ngưu"
+  },
+  "native": {
+    "EN": "Arataki Gang",
+    "CHS": "荒泷派",
+    "CHT": "荒瀧派",
+    "DE": "Arataki-Bande",
+    "ES": "Banda de Arataki",
+    "FR": "Gang Arataki",
+    "ID": "Arataki Gang",
+    "IT": "Banda di Arataki",
+    "JP": "荒瀧派",
+    "KR": "아라타키파",
+    "PT": "Gangue Arataki",
+    "RU": "Банда Аратаки",
+    "TH": "แก๊ง Arataki",
+    "TR": "Arataki Çetesi",
+    "VI": "Bang Arataki"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Max Mittelman"
+    },
+    {
+      "lang": "CHS",
+      "va": "刘照坤"
+    },
+    {
+      "lang": "JP",
+      "va": "西川貴教"
+    },
+    {
+      "lang": "KR",
+      "va": "Song Jun-seok"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1000.986,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.689,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 74.66784,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 15431,
+  "name": {
+    "EN": "Chain Breaker",
+    "CHS": "碎链",
+    "CHT": "碎鏈",
+    "DE": "Zersprungene Ketten",
+    "ES": "Rompecadenas",
+    "FR": "Brise-chaîne",
+    "ID": "Chain Breaker",
+    "IT": "Spezzacatene",
+    "JP": "チェーンブレイカー",
+    "KR": "사슬 파괴자",
+    "PT": "Quebrador de Correntes",
+    "RU": "Разбивающий цепи",
+    "TH": "Chain Breaker",
+    "TR": "Zincirkıran",
+    "VI": "Phá Xích"
+  },
+  "nameEn": "Chain Breaker",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A jade-adorned longbow. The gentle winds always seem to swirl gently about its string. Legends claim that this weapon was made in a far more ancient era by a dragon artisan.",
+    "CHS": "装饰着玉石的长弓，弦上似乎总是缠卷着轻柔的风。传说是在更古老的时代中由龙的工匠所锻。",
+    "CHT": "裝飾著玉石的長弓，弦上似乎總是纏捲著輕柔的風。傳說是在更古老的時代中由龍的工匠所鍛。",
+    "DE": "Ein langer Bogen, verziert mit Jade. Die sanfte Brise scheint auf seiner Bogensehne zu verweilen. Die Legende besagt, dass er in noch älteren Zeiten von einem Drachenhandwerker geschmiedet wurde.",
+    "ES": "Un arco adornado con jade cuya cuerda parece estar siempre envuelta por un suave viento. Según una leyenda, fue forjado por un herrero dragón de una época muy antigua.",
+    "FR": "Un arc long orné de jade. Les vents doux semblent toujours tourbillonner doucement autour de sa corde. Les légendes prétendent que cette arme a été fabriquée à une époque bien plus ancienne par un artisan dragon.",
+    "ID": "Busur panjang yang dihiasi dengan batu giok. Senar busurnya sepertinya selalu diselimuti oleh angin lembut. Konon katanya ditempa oleh pengrajin naga pada zaman dulu.",
+    "IT": "Un arco lungo decorato con giada. Intorno alla sua corda sembra spirare continuamente una brezza gentile. Secondo la leggenda, quest'arma venne fabbricata in un'era assai antica da un artigiano della specie dei draghi.",
+    "JP": "玉石をあしらった長弓。弦にいつも柔らかな風を巻き付けているようだ。伝説によると、もっと古い時代に龍の職人によって鍛え上げられたという。",
+    "KR": "옥으로 장식된 장궁. 현 주위로 부드러운 바람이 맴돌고 있는 것 같다. 전설에 따르면 더 머나먼 옛날, 어떤 용의 장인이 만들었다고 한다",
+    "PT": "Um arco longo adornado com jade, cujas cordas parecem estar sempre envoltas por uma brisa suave. Reza a lenda que foi forjado por artesãos Saurianos em tempos muito antigos.",
+    "RU": "Длинный лук, украшенный нефритом. Его тетиву всегда будто обвивает лёгкий ветер. Легенда гласит, что он был выкован в куда более древние времена драконьим мастером.",
+    "TH": "ธนูยาวที่ประดับด้วยหินหยก ดูเหมือนว่าสายธนูจะถูกโอบล้อมด้วยสายลมอันแผ่วเบาอยู่เสมอ ตำนานเล่าว่า มันถูกหลอมขึ้นโดยช่างฝีมือมังกรในยุคโบราณ",
+    "TR": "Yeşimle bezeli bir uzun yay. Kirişinin etrafında sürekli hafif esintiler dolanır. Efsanelere göre bu silah, kadim bir çağda ejderha bir zanaatkar tarafından yapılmış.",
+    "VI": "Cung dài được trang trí bằng ngọc thạch, dây cung dường như luôn bị gió nhẹ bao bọc. Truyền thuyết kể rằng nó được rèn bởi thợ thủ công của rồng trong thời đại xa xưa."
+  },
+  "icon": "generated/weapon-profiles/15431/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

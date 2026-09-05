@@ -1,0 +1,52 @@
+{
+  "id": 11509,
+  "name": {
+    "EN": "Mistsplitter Reforged",
+    "CHS": "雾切之回光",
+    "CHT": "霧切之回光",
+    "DE": "Widerschein des Nebelsplitters",
+    "ES": "Reflejo de las Tinieblas",
+    "FR": "Reflet de tranche-brume",
+    "ID": "Mistsplitter Reforged",
+    "IT": "Squarcianebbia riforgiata",
+    "JP": "霧切の廻光",
+    "KR": "안개를 가르는 회광",
+    "PT": "Cortadora da Neblina Reforjada",
+    "RU": "Рассекающий туман",
+    "TH": "Mistsplitter Reforged",
+    "TR": "Yeniden Dövülmüş Siskesen",
+    "VI": "Ánh Sáng Đêm Sương Mù"
+  },
+  "nameEn": "Mistsplitter Reforged",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before.",
+    "CHS": "闪烁着凄烈紫光的太刀。名之为「回光」是因为一度破碎的过去。",
+    "CHT": "閃爍著淒烈紫光的太刀。名之為「回光」是因為一度破碎的過去。",
+    "DE": "Ein Katana, das in einem traurigen violetten Licht leuchtet. Weil es einmal zerbrochen wurde, wurde es „Widerschein“ genannt.",
+    "ES": "Una espada que centellea con una fría e intensa luz violeta. La palabra “reflejo” de su nombre se debe a los fragmentos del pasado que se reflejan en ella.",
+    "FR": "#Une épée qui flamboie d'une vive lumière violacée. Son nom de « Reflet » lui vient des étincelles qu'elle a une fois projetées dans les airs lorsqu'un malheureux choc la brisa autrefois.",
+    "ID": "Pedang yang menyala dengan cahaya ungu yang dahsyat. Ia dinamakan \"Reforged\" karena pernah patah di masa lalu.",
+    "IT": "Una spada che risplende di un'intensa luce violacea. Riforgiata a seguito di un brutto incidente.",
+    "JP": "烈々たる紫の光に輝く太刀。「廻光」という名は、かつて砕かれた過去に由来している。",
+    "KR": "차가운 자색으로 반짝이는 태도, 이름에 「회광」이 들어간 것은 한때 산산이 부서져버렸던 과거 때문이다",
+    "PT": "Uma espada que emite uma luz violeta forte. O nome \"reforjada\" é devido a outrora ela estar quebrada.",
+    "RU": "Меч, пылающий зловещим фиолетовым светом. Однажды он уже был сломан, но затем его выковали заново.",
+    "TH": "ดาบที่เปล่งประกายแสงสีม่วงออกมาอย่างรุนแรง ชื่อ \"Reforged\" ของมันนั้น ได้มาจากการที่ครั้งหนึ่งมันเคยหักไป",
+    "TR": "Mor ışıltısıyla göz kamaştıran bir kılıç. Daha önce kırıldığı ve onarıldığı için \"Yeniden Dövülmüş\" ismini aldı.",
+    "VI": "Một thanh kiếm rực lên với ánh sáng tím. Cái tên \"Ánh Sáng\" gợi nhớ quá khứ từng tan vỡ."
+  },
+  "icon": "generated/weapon-profiles/11509/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

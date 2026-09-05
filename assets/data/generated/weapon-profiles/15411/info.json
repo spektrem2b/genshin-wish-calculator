@@ -1,0 +1,52 @@
+{
+  "id": 15411,
+  "name": {
+    "EN": "Fading Twilight",
+    "CHS": "落霞",
+    "CHT": "落霞",
+    "DE": "Ausklingende Dämmerung",
+    "ES": "Desvanecimiento del Crepúsculo",
+    "FR": "Crépuscule couchant",
+    "ID": "Fading Twilight",
+    "IT": "Crepuscolo tenue",
+    "JP": "落霞",
+    "KR": "노을",
+    "PT": "Crepúsculo Desvanecido",
+    "RU": "Гаснущие сумерки",
+    "TH": "Fading Twilight",
+    "TR": "Solan Alacakaranlık",
+    "VI": "Lạc Hà"
+  },
+  "nameEn": "Fading Twilight",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide.",
+    "CHS": "以白金精制而成的宝弓，其上镶嵌着霞光闪烁的宝珠。",
+    "CHT": "以白金精製而成的寶弓，其上鑲嵌著霞光閃爍的寶珠。",
+    "DE": "Ein kostbarer Bogen aus Platin, der mit Kugeln verziert ist, die im Licht der Abenddämmerung schimmern.",
+    "ES": "Un preciado arco de plata con una centelleante gema arrebol incrustada.",
+    "FR": "Un arc précieux en platine, incrusté d'un orbe qui scintille à la lumière du soir.",
+    "ID": "Busur berharga yang dibuat dari platinum, bertatahkan bola-bola yang terang berkilauan dengan cahaya senja yang indah.",
+    "IT": "Un arco prezioso fatto di platino, con incastonata una sfera che brilla della luce della sera.",
+    "JP": "白金から作られた無二の弓。輝く霞光を放つ宝珠が嵌め込まれている。",
+    "KR": "백금을 정제해 만든 귀한 활. 노을빛으로 반짝이는 보석이 박혀 있다",
+    "PT": "Um arco precioso feito de platina, com uma gema incrustada que cintila com o brilho do crepúsculo.",
+    "RU": "Драгоценный лук из платины, инкрустированный мерцающей сферой цвета зари.",
+    "TH": "คันธนูแสนล้ำค่าที่ทำขึ้นจากทองคำขาว ถูกฝังด้วยไข่มุกที่ส่องประกายแสงระยิบระยับ",
+    "TR": "Akşam ışığında parıldayan bir küre işlenmiş ve platinden yapılmış değerli bir yay.",
+    "VI": "Cung quý được đúc từ bạch kim, trên đó có khảm bảo ngọc lấp lánh."
+  },
+  "icon": "generated/weapon-profiles/15411/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

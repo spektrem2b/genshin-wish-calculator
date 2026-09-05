@@ -1,0 +1,52 @@
+{
+  "id": 13513,
+  "name": {
+    "EN": "Lumidouce Elegy",
+    "CHS": "柔灯挽歌",
+    "CHT": "柔燈輓歌",
+    "DE": "Lumidouce-Elegie",
+    "ES": "Elegía Lumidulce",
+    "FR": "Élégie de Lumidouce",
+    "ID": "Lumidouce Elegy",
+    "IT": "Elegia di Lumidouce",
+    "JP": "ルミドゥースの挽歌",
+    "KR": "등방울꽃의 애가",
+    "PT": "Elegia Lumidouce",
+    "RU": "Элегия Люмидус",
+    "TH": "Lumidouce Elegy",
+    "TR": "Lumidouce Ağıdı",
+    "VI": "Bi Ca Lumidouce"
+  },
+  "nameEn": "Lumidouce Elegy",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A magnificent polearm adorned with azure crystal. It is said to have been a certain legendary Champion Duelist's treasure — and yet, not once was it ever used.",
+    "CHS": "装饰着苍水晶的华美长枪，据说曾是某位传奇决斗代理人终生珍藏却从未使用过的武器。",
+    "CHT": "裝飾著蒼水晶的華美長槍，據說曾是某位傳奇決鬥代理人終生珍藏卻從未使用過的武器。",
+    "DE": "Ein prächtiger, mit himmelblauem Kristall geschmückter Speer. Es heißt, er sei der Schatz eines gewissen legendären Meisterduellrepräsentanten gewesen, und doch wurde er nicht ein einziges Mal benutzt.",
+    "ES": "Una magnífica lanza decorada con cristales azulados. Dicen que era el arma más preciada de cierta verduga del justiciazgo legendaria, aunque ella nunca llegó a usarla.",
+    "FR": "Une magnifique lance ornée de cristal azur. Il paraît qu'il s'agissait du trésor d'une certaine duelliste mandatée légendaire. Et pourtant, elle n'a jamais été utilisée une seule fois...",
+    "ID": "Tombak indah yang dihiasi dengan kristal berwarna biru. Konon katanya senjata ini pernah menjadi koleksi seumur hidup seorang Petarung Juara legendaris, namun tidak pernah digunakan olehnya.",
+    "IT": "Una splendida arma ad asta decorata con cristalli azzurri. Si dice che fosse il tesoro di una leggendaria campionessa duellante, tuttavia nessuno l'ha mai impugnata.",
+    "JP": "青い水晶があしらわれた華麗な長槍。とある伝説の決闘代理人が生涯大切にしていたが、一度も使ったことがない武器だと言われている。",
+    "KR": "푸른 수정으로 장식된 우아한 창. 어느 전설적인 결투 대리인이 평생 동안 소중히 간직했으나 단 한 번도 사용한 적이 없는 무기라고 한다",
+    "PT": "Uma lança magnífica adornada com cristal azul. Dizem que foi o tesouro de um certo lendário Duelista Representante — no entanto, nunca foi usada nem uma vez sequer.",
+    "RU": "Великолепное копьё, украшенное лазоревыми кристаллами. Говорят, его до конца жизни бережно хранил легендарный судебный дуэлянт, ни разу так и не использовав.",
+    "TH": "หอกอันงดงาม ที่ประดับด้วยคริสตัลสีฟ้า ว่ากันว่าเป็นอาวุธ ที่ตัวแทนประลองในตำนาน เก็บสะสมมาตลอดชีวิต แต่ไม่เคยใช้งานมาก่อน",
+    "TR": "Koyu mavi kristallerle süslenmiş muhteşem bir mızrak. Efsanevi bir Düello Şampiyonunun hazinesi olduğu söylenir, fakat bugüne kadar bir kez dahi kullanılmamış.",
+    "VI": "Ngọn thương hoa lệ được trang trí bằng pha lê xanh. Nghe nói từng là món vũ khí mà Đấu Sĩ Đại Diện huyền thoại cất giữ cả đời nhưng chưa từng sử dụng."
+  },
+  "icon": "generated/weapon-profiles/13513/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

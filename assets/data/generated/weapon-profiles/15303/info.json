@@ -1,0 +1,52 @@
+{
+  "id": 15303,
+  "name": {
+    "EN": "Recurve Bow",
+    "CHS": "反曲弓",
+    "CHT": "反曲弓",
+    "DE": "Reflexbogen",
+    "ES": "Arco Recurvo",
+    "FR": "Arc courbé",
+    "ID": "Recurve Bow",
+    "IT": "Arco ricurvo",
+    "JP": "リカーブボウ",
+    "KR": "곡궁",
+    "PT": "Arco Recurvado",
+    "RU": "Изогнутый лук",
+    "TH": "Recurve Bow",
+    "TR": "Eğri Yay",
+    "VI": "Cung Phản Khúc"
+  },
+  "nameEn": "Recurve Bow",
+  "type": "Cung",
+  "rarity": 3,
+  "description": {
+    "EN": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
+    "CHS": "据说能射下苍鹰的猎弓，但能不能做到主要还得看弓手的技术。",
+    "CHT": "據說能射下蒼鷹的獵弓，但能不能做到主要還得看弓手的技術。",
+    "DE": "Mit diesem Jagdbogen soll man selbst einen Adler im Flug aus dem Himmel holen können. Das hängt aber doch sehr stark von der Kunst des Schützen ab.",
+    "ES": "Se dice que este arco podría derribar águilas en vuelo, pero mucho de eso depende de la habilidad del arquero.",
+    "FR": "Avec cet arc de chasse, vous devriez pouvoir abattre un aigle en plein vol. Bien évidemment, le résultat dépend entièrement de la technique de l'archer.",
+    "ID": "Konon busur ini dapat mengenai burung elang yang sedang terbang, tetapi tentunya juga harus mengandalkan kemahiran dari sang pemburu.",
+    "IT": "Si dice che quest'arco possa abbattere aquile in volo, ma in verità questo dipende dalla bravura dell'arciere.",
+    "JP": "蒼鷹を射る狩弓だが、本当に射られるかどうかは弓使いの腕次第である。",
+    "KR": "창공을 가르는 매도 쏘아 떨어트릴 수 있다는 활. 성공 여부는 누가 사용하냐에 달려 있다",
+    "PT": "Dizem que é possível caçar águias em pleno voo com este arco, mas, na verdade, depende muito das habilidades do arqueiro também.",
+    "RU": "Говорят, этот лук может сбить орла в полёте, но всё же многое зависит и от навыка самого лучника.",
+    "TH": "ว่ากันว่าธนูคันนี้สามารถ ยิงอินทรีย์ที่กำลังบินร่อนอยู่ได้ แต่ที่จริงแล้วมันขึ้นอยู่กับ ฝีมือของผู้ใช้งานมากกว่า",
+    "TR": "Söylentilere göre uçan bir kartalı bile indirebilecek kadar güçlü bir yay, tabii bu biraz da onu kimin kullandığına bağlı.",
+    "VI": "Là cây cung có thể bắn được đại bàng, nhưng chủ yếu vẫn còn phải phụ thuộc vào kỹ thuật người cầm cung."
+  },
+  "icon": "generated/weapon-profiles/15303/avatar.webp",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.102133,
+  "substat_lvl90": 0.4692,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

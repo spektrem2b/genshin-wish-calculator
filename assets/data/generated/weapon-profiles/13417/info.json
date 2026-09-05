@@ -1,0 +1,52 @@
+{
+  "id": 13417,
+  "name": {
+    "EN": "Moonpiercer",
+    "CHS": "贯月矢",
+    "CHT": "貫月矢",
+    "DE": "Monddurchbohrer",
+    "ES": "Perforalunas",
+    "FR": "Perce-lune",
+    "ID": "Moonpiercer",
+    "IT": "Trafiggiluna",
+    "JP": "ムーンピアサー",
+    "KR": "달을 꿰뚫는 화살",
+    "PT": "Perfurador de Luas",
+    "RU": "Пронзающий луну",
+    "TH": "Moonpiercer",
+    "TR": "Mehtap Delen",
+    "VI": "Quán Nguyệt Thương"
+  },
+  "nameEn": "Moonpiercer",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear.",
+    "CHS": "从兰那罗的故事中得到的武器。形制如同巨大的箭矢，能够作为枪矛使用。",
+    "CHT": "從蘭那羅的故事中得到的武器。形制如同巨大的箭矢，能夠作為槍矛使用。",
+    "DE": "Eine Waffe, die du aus einer Geschichte über die Aranara erhalten hast. Sie hat die Form eines Riesenpfeils angenommen und kann als Speer verwendet werden.",
+    "ES": "Un arma obtenida a través de una de las historias de los aranara. Al tener la forma de una punta de flecha gigante, se puede usar como lanza.",
+    "FR": "Une arme que vous avez obtenue dans un conte d'aranara. Elle a la forme d'une flèche géante et peut être utilisée comme lance.",
+    "ID": "Senjata yang didapat dari cerita Aranara. Bentuknya seperti panah raksasa, dan bisa digunakan sebagai tombak.",
+    "IT": "Un'arma che hai ottenuto da una storia degli Aranara. Ha la forma di una grande freccia e può essere usata come fosse una lancia.",
+    "JP": "アランナラの物語で手に入る武器。巨大な矢のような形をしており、槍として使える。",
+    "KR": "아란나라의 이야기에서 획득한 무기. 거대한 화살의 형태를 지니고 있으며 창으로 사용할 수 있다",
+    "PT": "Uma arma obtida através de uma das histórias dos Aranara. Ela tomou a forma de uma flecha gigantesca e pode ser usada como uma lança.",
+    "RU": "Оружие, полученное из истории аранар. Оно приняло форму гигантской стрелы и может использоваться в качестве копья.",
+    "TH": "อาวุธที่ได้รับมาจากเรื่องเล่าของ Aranara ซึ่งมีรูปร่างเหมือนลูกธนูขนาดใหญ่ สามารถใช้เป็นหอกได้",
+    "TR": "Bir Aranara hikayesinden elde ettiğin silah. Mızrak olarak kullanabilecek derecede devasa bir ok şeklinde.",
+    "VI": "Vũ khí nhận được từ câu chuyện của Aranara. Có tạo hình của mũi tên khổng lồ, được dùng như mũi thương sắc bén."
+  },
+  "icon": "generated/weapon-profiles/13417/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

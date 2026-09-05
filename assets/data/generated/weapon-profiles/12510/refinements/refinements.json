@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Gokadaiou Otogibanashi",
+    "CHS": "御伽大王御伽话",
+    "CHT": "御伽大王御伽話",
+    "DE": "Gokadaiou Otogibanashi",
+    "ES": "Cuentos del rey Otogi",
+    "FR": "Gokadaiou du Roi Otogi",
+    "ID": "Gokadaiou Otogibanashi",
+    "IT": "Gokadaiou Otogibanashi",
+    "JP": "御伽大王の御伽話",
+    "KR": "오토기 대왕의 동화",
+    "PT": "Gokadaiou Otogibanashi",
+    "RU": "Гокадайо Отогибанаси",
+    "TH": "Gokadaiou Otogibanashi",
+    "TR": "Gokadaiou Otogibanashi",
+    "VI": "Gokadaiou Otogibanashi"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "DEF is increased by 28%. Normal and Charged Attack DMG is increased by 40% of DEF.",
+        "CHS": "防御力提高28%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的40%。",
+        "CHT": "防禦力提高28%；普通攻擊與重擊造成的傷害值提高，提高數值相當於防禦力的40%。",
+        "DE": "Erhöht die VTD um 28 %. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 40 % VTD.",
+        "ES": "La DEF aumenta en un 28%. El daño de los Ataques Normales y Cargados aumenta en una cantidad equivalente al 40% de la DEF.",
+        "FR": "#Augmente la DÉF de 28 %, et augmente les DGT des attaques normales et chargées d'une valeur équivalant à 40 % de la DÉF.",
+        "ID": "Meningkatkan 28% DEF. DMG dari Normal dan Charged Attack akan meningkat sebesar 40% DEF.",
+        "IT": "La DIF aumenta di un 28%. I DAN da attacchi normali e caricati aumentano di un 40% della DIF.",
+        "JP": "防御力+28%。通常攻撃と重撃ダメージが防御力40%分アップする。",
+        "KR": "방어력이 28% 증가한다. 일반 공격과 강공격의 피해량이 방어력의 40%만큼 증가한다",
+        "PT": "DEF é aumentada em 28%. Dano do Ataque Normal e Carregado é aumentado em 40% da DEF.",
+        "RU": "Защита повышается на 28%, урон обычных и заряженных атак повышается на 40% защиты.",
+        "TH": "เพิ่มพลังป้องกัน 28%; การโจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 40% ของพลังป้องกัน",
+        "TR": "Savunmayı %28 artırır. Normal ve Yüklü Saldırı Hasarı %40 Savunma kadar artar.",
+        "VI": "Phòng ngự tăng 28%; Tăng sát thương tấn công thường và trọng kích, lượng tăng thêm tương đương 40% phòng ngự."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "DEF is increased by 35%. Normal and Charged Attack DMG is increased by 50% of DEF.",
+        "CHS": "防御力提高35%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的50%。",
+        "CHT": "防禦力提高35%；普通攻擊與重擊造成的傷害值提高，提高數值相當於防禦力的50%。",
+        "DE": "Erhöht die VTD um 35 %. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 50 % VTD.",
+        "ES": "La DEF aumenta en un 35%. El daño de los Ataques Normales y Cargados aumenta en una cantidad equivalente al 50% de la DEF.",
+        "FR": "#Augmente la DÉF de 35 %, et augmente les DGT des attaques normales et chargées d'une valeur équivalant à 50 % de la DÉF.",
+        "ID": "Meningkatkan 35% DEF. DMG dari Normal dan Charged Attack akan meningkat sebesar 50% DEF.",
+        "IT": "La DIF aumenta di un 35%. I DAN da attacchi normali e caricati aumentano di un 50% della DIF.",
+        "JP": "防御力+35%。通常攻撃と重撃ダメージが防御力50%分アップする。",
+        "KR": "방어력이 35% 증가한다. 일반 공격과 강공격의 피해량이 방어력의 50%만큼 증가한다",
+        "PT": "DEF é aumentada em 35%. Dano do Ataque Normal e Carregado é aumentado em 50% da DEF.",
+        "RU": "Защита повышается на 35%, урон обычных и заряженных атак повышается на 50% защиты.",
+        "TH": "เพิ่มพลังป้องกัน 35%; การโจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 50% ของพลังป้องกัน",
+        "TR": "Savunmayı %35 artırır. Normal ve Yüklü Saldırı Hasarı %50 Savunma kadar artar.",
+        "VI": "Phòng ngự tăng 35%; Tăng sát thương tấn công thường và trọng kích, lượng tăng thêm tương đương 50% phòng ngự."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "DEF is increased by 42%. Normal and Charged Attack DMG is increased by 60% of DEF.",
+        "CHS": "防御力提高42%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的60%。",
+        "CHT": "防禦力提高42%；普通攻擊與重擊造成的傷害值提高，提高數值相當於防禦力的60%。",
+        "DE": "Erhöht die VTD um 42 %. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 60 % VTD.",
+        "ES": "La DEF aumenta en un 42%. El daño de los Ataques Normales y Cargados aumenta en una cantidad equivalente al 60% de la DEF.",
+        "FR": "#Augmente la DÉF de 42 %, et augmente les DGT des attaques normales et chargées d'une valeur équivalant à 60 % de la DÉF.",
+        "ID": "Meningkatkan 42% DEF. DMG dari Normal dan Charged Attack akan meningkat sebesar 60% DEF.",
+        "IT": "La DIF aumenta di un 42%. I DAN da attacchi normali e caricati aumentano di un 60% della DIF.",
+        "JP": "防御力+42%。通常攻撃と重撃ダメージが防御力60%分アップする。",
+        "KR": "방어력이 42% 증가한다. 일반 공격과 강공격의 피해량이 방어력의 60%만큼 증가한다",
+        "PT": "DEF é aumentada em 42%. Dano do Ataque Normal e Carregado é aumentado em 60% da DEF.",
+        "RU": "Защита повышается на 42%, урон обычных и заряженных атак повышается на 60% защиты.",
+        "TH": "เพิ่มพลังป้องกัน 42%; การโจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 60% ของพลังป้องกัน",
+        "TR": "Savunmayı %42 artırır. Normal ve Yüklü Saldırı Hasarı %60 Savunma kadar artar.",
+        "VI": "Phòng ngự tăng 42%; Tăng sát thương tấn công thường và trọng kích, lượng tăng thêm tương đương 60% phòng ngự."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "DEF is increased by 49%. Normal and Charged Attack DMG is increased by 70% of DEF.",
+        "CHS": "防御力提高49%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的70%。",
+        "CHT": "防禦力提高49%；普通攻擊與重擊造成的傷害值提高，提高數值相當於防禦力的70%。",
+        "DE": "Erhöht die VTD um 49 %. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 70 % VTD.",
+        "ES": "La DEF aumenta en un 49%. El daño de los Ataques Normales y Cargados aumenta en una cantidad equivalente al 70% de la DEF.",
+        "FR": "#Augmente la DÉF de 49 %, et augmente les DGT des attaques normales et chargées d'une valeur équivalant à 70 % de la DÉF.",
+        "ID": "Meningkatkan 49% DEF. DMG dari Normal dan Charged Attack akan meningkat sebesar 70% DEF.",
+        "IT": "La DIF aumenta di un 49%. I DAN da attacchi normali e caricati aumentano di un 70% della DIF.",
+        "JP": "防御力+49%。通常攻撃と重撃ダメージが防御力70%分アップする。",
+        "KR": "방어력이 49% 증가한다. 일반 공격과 강공격의 피해량이 방어력의 70%만큼 증가한다",
+        "PT": "DEF é aumentada em 49%. Dano do Ataque Normal e Carregado é aumentado em 70% da DEF.",
+        "RU": "Защита повышается на 49%, урон обычных и заряженных атак повышается на 70% защиты.",
+        "TH": "เพิ่มพลังป้องกัน 49%; การโจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 70% ของพลังป้องกัน",
+        "TR": "Savunmayı %49 artırır. Normal ve Yüklü Saldırı Hasarı %70 Savunma kadar artar.",
+        "VI": "Phòng ngự tăng 49%; Tăng sát thương tấn công thường và trọng kích, lượng tăng thêm tương đương 70% phòng ngự."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "DEF is increased by 56%. Normal and Charged Attack DMG is increased by 80% of DEF.",
+        "CHS": "防御力提高56%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的80%。",
+        "CHT": "防禦力提高56%；普通攻擊與重擊造成的傷害值提高，提高數值相當於防禦力的80%。",
+        "DE": "Erhöht die VTD um 56 %. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 80 % VTD.",
+        "ES": "La DEF aumenta en un 56%. El daño de los Ataques Normales y Cargados aumenta en una cantidad equivalente al 80% de la DEF.",
+        "FR": "#Augmente la DÉF de 56 %, et augmente les DGT des attaques normales et chargées d'une valeur équivalant à 80 % de la DÉF.",
+        "ID": "Meningkatkan 56% DEF. DMG dari Normal dan Charged Attack akan meningkat sebesar 80% DEF.",
+        "IT": "La DIF aumenta di un 56%. I DAN da attacchi normali e caricati aumentano di un 80% della DIF.",
+        "JP": "防御力+56%。通常攻撃と重撃ダメージが防御力80%分アップする。",
+        "KR": "방어력이 56% 증가한다. 일반 공격과 강공격의 피해량이 방어력의 80%만큼 증가한다",
+        "PT": "DEF é aumentada em 56%. Dano do Ataque Normal e Carregado é aumentado em 80% da DEF.",
+        "RU": "Защита повышается на 56%, урон обычных и заряженных атак повышается на 80% защиты.",
+        "TH": "เพิ่มพลังป้องกัน 56%; การโจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 80% ของพลังป้องกัน",
+        "TR": "Savunmayı %56 artırır. Normal ve Yüklü Saldırı Hasarı %80 Savunma kadar artar.",
+        "VI": "Phòng ngự tăng 56%; Tăng sát thương tấn công thường và trọng kích, lượng tăng thêm tương đương 80% phòng ngự."
+      }
+    }
+  ]
+}

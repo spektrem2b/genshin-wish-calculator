@@ -1,0 +1,52 @@
+{
+  "id": 12436,
+  "name": {
+    "EN": "Blade of Atonement",
+    "CHS": "救赎之斩",
+    "CHT": "救贖之斬",
+    "DE": "Klinge der Erlösung",
+    "ES": "Tajo Redentor",
+    "FR": "Lame de rédemption",
+    "ID": "Blade of Atonement",
+    "IT": "Lama dell'espiazione",
+    "JP": "救済の剣",
+    "KR": "구원의 대검",
+    "PT": "Lâmina da Redenção",
+    "RU": "Клинок искупления",
+    "TH": "Blade of Atonement",
+    "TR": "Kefaret Kılıcı",
+    "VI": "Nhát Chém Cứu Rỗi"
+  },
+  "nameEn": "Blade of Atonement",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A greatsword passed down by the Luchkin. It is said that only the bravest warrior is qualified to wield it.",
+    "CHS": "卢契烬传承的大剑，据闻唯有最勇武的战士才有资格拿起它。",
+    "CHT": "盧契燼傳承的大劍，據聞唯有最勇武的戰士才有資格拿起它。",
+    "DE": "Ein Großschwert aus Luchkins Legende. Es heißt, nur die mutigsten Krieger haben die Berechtigung, es aufzuheben.",
+    "ES": "Una gran espada legada por los Luchkin. Se dice que solo los guerreros más valientes son dignos de empuñarla.",
+    "FR": "Une épée à deux mains transmise par les Luchkin. On dit que seul le guerrier le plus brave est digne de la manier.",
+    "ID": "Pedang besar warisan Luchkin, konon hanya pejuang paling pemberani yang berhak mengangkatnya.",
+    "IT": "Uno spadone tramandato dai Luchkin. Si dice che solo il guerriero più coraggioso sia degno di brandirlo.",
+    "JP": "ルチーキンから受け継がれた大剣。最も勇猛な戦士のみが、それを手にする資格を持つと言われている。",
+    "KR": "루치킨에게 물려 받은 대검. 가장 용맹한 전사만이 이 검을 쥘 자격이 있다",
+    "PT": "Um Espadão passado de geração em geração dos Luchkins. Dizem que só um guerreiro corajoso é capaz de empunhá-lo.",
+    "RU": "Двуручный меч, передаваемый из поколения в поколение в роду Лучкиных. Говорят, что только самый отважный воин достоин владеть им.",
+    "TH": "ดาบใหญ่ที่ตกทอดมาจาก Luchkin ว่ากันว่ามีเพียงนักรบที่กล้าหาญที่สุดเท่านั้น ที่คู่ควรจะถือมัน",
+    "TR": "Luchkinler tarafından nesilden nesile aktarılan bir büyük kılıç. Yalnızca en cesur savaşçının bu kılıcı kullanmaya layık olduğu söylenir.",
+    "VI": "Thanh đại kiếm do Luchkin truyền lại, nghe nói chỉ những chiến binh dũng mãnh nhất mới có tư cách cầm nó lên."
+  },
+  "icon": "generated/weapon-profiles/12436/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

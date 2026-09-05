@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Heavy",
+    "CHS": "沉重",
+    "CHT": "沉重",
+    "DE": "Schwergewicht",
+    "ES": "Pesado",
+    "FR": "Écrasement",
+    "ID": "Heavy",
+    "IT": "Ponderosità",
+    "JP": "過重",
+    "KR": "무게",
+    "PT": "Pesado",
+    "RU": "Сокрушающий удар",
+    "TH": "Heavy",
+    "TR": "Ezici",
+    "VI": "Trầm Trọng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Normal Attacks deal an additional 160% ATK as DMG. Can only occur once every 10s.",
+        "CHS": "对普通攻击命中的敌人造成160%攻击力的额外伤害。该效果每10秒只能触发一次。",
+        "CHT": "對普通攻擊所命中的敵人造成160%攻擊力的額外傷害。該效果每10秒只能觸發一次。",
+        "DE": "Fügt mit Standardangriffen getroffenen Gegnern zusätzlichen Schaden in Höhe von 160 % ANG zu. 10 s Abklingzeit.",
+        "ES": "Los Ataques Normales infligen un 160% de daño adicional a los enemigos. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales infligent 160 % de DGT d'ATQ supplémentaires lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Normal Attack mengakibatkan serangan tambahan sebesar 160% ATK pada musuh. Hanya dapat terpicu setiap 10 detik.",
+        "IT": "#Gli attacchi normali infliggono DAN extra pari a un 160% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃が命中した敵1体に攻撃力の160%の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격으로 명중한 적에게 추가로 공격력 160%의 피해를 준다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ataques Normais causam um adicional de 160% de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "Обычные атаки наносят дополнительные 160% урона. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรูจะสร้างความเสียหายเพิ่มเติมเป็น 160% ของพลังการโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Normal Saldırılar ek olarak %160 Saldırı kadar Hasar verir. 10 saniyede bir uygulanabilir.",
+        "VI": "Gây thêm sát thương bằng 160% Tấn Công cho kẻ địch bị Tấn Công Thường đánh trúng. Mỗi 10s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Normal Attacks deal an additional 200% ATK as DMG. This effect can only occur once every 10s.",
+        "CHS": "对普通攻击命中的敌人造成200%攻击力的额外伤害。该效果每10秒只能触发一次。",
+        "CHT": "對普通攻擊所命中的敵人造成200%攻擊力的額外傷害。該效果每10秒只能觸發一次。",
+        "DE": "Fügt mit Standardangriffen getroffenen Gegnern zusätzlichen Schaden in Höhe von 200 % ANG zu. 10 s Abklingzeit.",
+        "ES": "Los Ataques Normales infligen un 200% de daño adicional a los enemigos. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales infligent 200 % de DGT d'ATQ supplémentaires lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Normal Attack mengakibatkan serangan tambahan sebesar 200% ATK pada musuh. Hanya dapat terpicu setiap 10 detik.",
+        "IT": "#Gli attacchi normali infliggono DAN extra pari a un 200% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃が命中した敵に対して攻撃力の200%の追加ダメージを与える。10秒に1回のみ発動可能。",
+        "KR": "일반 공격으로 명중한 적에게 추가로 공격력 200%의 피해를 준다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ataques Normais causam um adicional de 200% de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "Обычные атаки наносят дополнительные 200% урона. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรูจะสร้างความเสียหายเพิ่มเติมเป็น 200% ของพลังการโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Normal Saldırılar ek olarak %200 Saldırı kadar Hasar verir. Bu etki 10 saniyede bir uygulanabilir.",
+        "VI": "Gây thêm sát thương bằng 200% Tấn Công cho kẻ địch bị Tấn Công Thường đánh trúng. Mỗi 10s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Normal Attacks deal an additional 240% ATK as DMG. This effect can only occur once every 10s.",
+        "CHS": "对普通攻击命中的敌人造成240%攻击力的额外伤害。该效果每10秒只能触发一次。",
+        "CHT": "對普通攻擊所命中的敵人造成240%攻擊力的額外傷害。該效果每10秒只能觸發一次。",
+        "DE": "Fügt mit Standardangriffen getroffenen Gegnern zusätzlichen Schaden in Höhe von 240 % ANG zu. 10 s Abklingzeit.",
+        "ES": "Los Ataques Normales infligen un 240% de daño adicional a los enemigos. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales infligent 240 % de DGT d'ATQ supplémentaires lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Normal Attack mengakibatkan serangan tambahan sebesar 240% ATK pada musuh. Hanya dapat terpicu setiap 10 detik.",
+        "IT": "#Gli attacchi normali infliggono DAN extra pari a un 240% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃が命中した敵1体に攻撃力の240%の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격으로 명중한 적에게 추가로 공격력 240%의 피해를 준다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ataques Normais causam um adicional de 240% de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "Обычные атаки наносят дополнительные 240% урона. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรูจะสร้างความเสียหายเพิ่มเติมเป็น 240% ของพลังการโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Normal Saldırılar ek olarak %240 Saldırı kadar Hasar verir. Bu etki 10 saniyede bir uygulanabilir.",
+        "VI": "Gây thêm sát thương bằng 240% Tấn Công cho kẻ địch bị Tấn Công Thường đánh trúng. Mỗi 10s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Normal Attacks deal an additional 280% ATK as DMG. This effect can only occur once every 10s.",
+        "CHS": "对普通攻击命中的敌人造成280%攻击力的额外伤害。该效果每10秒只能触发一次。",
+        "CHT": "對普通攻擊所命中的敵人造成280%攻擊力的額外傷害。該效果每10秒只能觸發一次。",
+        "DE": "Fügt mit Standardangriffen getroffenen Gegnern zusätzlichen Schaden in Höhe von 280 % ANG zu. 10 s Abklingzeit.",
+        "ES": "Los Ataques Normales causan un 280% adicional de daño a los oponentes. Este efecto puede activarse una vez cada 10 s.",
+        "FR": "Les attaques normales infligent 280 % de DGT d'ATQ supplémentaires lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Normal Attack mengakibatkan serangan tambahan sebesar 280% ATK pada musuh. Hanya dapat terpicu setiap 10 detik.",
+        "IT": "#Gli attacchi normali infliggono DAN extra pari a un 280% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃が命中した敵1体に攻撃力の280%の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격으로 명중한 적에게 추가로 공격력 280%의 피해를 준다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ataques Normais causam um adicional de 280% de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "Обычные атаки наносят дополнительные 280% урона. Может возникнуть не чаще 1 раза за 10 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรูจะสร้างความเสียหายเพิ่มเติมเป็น 280% ของพลังการโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Normal Saldırılar ek olarak %280 Saldırı kadar Hasar verir. Bu etki 10 saniyede bir uygulanabilir.",
+        "VI": "Gây thêm sát thương bằng 280% Tấn Công cho kẻ địch bị Tấn Công Thường đánh trúng. Mỗi 10s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Normal Attacks deal an additional 320% ATK as DMG. This effect can only occur once every 10s.",
+        "CHS": "对普通攻击命中的敌人造成320%攻击力的额外伤害。该效果每10秒只能触发一次。",
+        "CHT": "對普通攻擊所命中的敵人造成320%攻擊力的額外傷害。該效果每10秒只能觸發一次。",
+        "DE": "Fügt mit Standardangriffen getroffenen Gegnern zusätzlichen Schaden in Höhe von 320 % ANG zu. 10 s Abklingzeit.",
+        "ES": "Los Ataques Normales infligen un 320% de daño adicional a los enemigos. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales infligent 320 % de DGT d'ATQ supplémentaires lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Normal Attack mengakibatkan serangan tambahan sebesar 320% ATK pada musuh. Hanya dapat terpicu setiap 10 detik.",
+        "IT": "#Gli attacchi normali infliggono DAN extra pari a un 320% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃が命中した敵1体に攻撃力の320%の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격으로 명중한 적에게 추가로 공격력 320%의 피해를 준다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ataques Normais causam um adicional de 320% de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "Обычные атаки наносят дополнительные 320% урона. Может возникнуть не чаще 1 раза за 10 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรูจะสร้างความเสียหายเพิ่มเติมเป็น 320% ของพลังการโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Normal Saldırılar ek olarak %320 Saldırı kadar Hasar verir. Bu etki 10 saniyede bir uygulanabilir.",
+        "VI": "Gây thêm sát thương bằng 320% Tấn Công cho kẻ địch bị Tấn Công Thường đánh trúng. Mỗi 10s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

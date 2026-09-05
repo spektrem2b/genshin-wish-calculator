@@ -1,0 +1,52 @@
+{
+  "id": 12407,
+  "name": {
+    "EN": "Whiteblind",
+    "CHS": "白影剑",
+    "CHT": "白影劍",
+    "DE": "Weißer Schatten",
+    "ES": "Sombra Blanca",
+    "FR": "Ombre immaculée",
+    "ID": "Whiteblind",
+    "IT": "Ombracandida",
+    "JP": "白影の剣",
+    "KR": "백영검",
+    "PT": "Sombra Branca",
+    "RU": "Белая тень",
+    "TH": "Whiteblind",
+    "TR": "Akkörelten",
+    "VI": "Kiếm Bạch Ảnh"
+  },
+  "nameEn": "Whiteblind",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it.",
+    "CHS": "剑身上有一面未开刃的异国大剑，经商路流落到璃月。在了解它的人手里，破坏力极可观。",
+    "CHT": "劍身上有一面未開刃的異國大劍，經商路流落到璃月。在瞭解它的人手裡，破壞力極為可觀。",
+    "DE": "Ein fremdländisches Großschwert mit einer stumpfen Seite, das über Handelsrouten nach Liyue gelangt ist. Wer weiß, wie man damit umgeht, kann seine ungemeine Zerstörungskraft entfesseln.",
+    "ES": "Una espada exótica con una parte roma en el filo. Llegó a Liyue en manos de comerciantes extranjeros. Increíblemente poderosa en las manos de aquellos que saben cómo usarla.",
+    "FR": "Une épée d'origine étrangère avec une section émoussée. Elle fut introduite par les voies commerciales à Liyue, et est un instrument de destruction puissant entre de bonnes mains.",
+    "ID": "Pedang indah yang memiliki bagian tumpul di mata pedangnya. Mencapai Liyue setelah melewati tangan beberapa pedagang. Dapat menjadi senjata mematikan di tangan orang yang dapat menggunakannya.",
+    "IT": "Una spada esotica con una sezione della lama smussata. Trasportata a Liyue da mercanti stranieri. Incredibilmente potente nelle mani di chi sa usarla.",
+    "JP": "剣身に鈍い刃がある異国の大剣。貿易ルートを経て璃月に渡った。剣を理解する者が使うと、その破壊力は凄まじい。",
+    "KR": "한쪽의 날이 세워져 있지 않은 이국적인 대검. 상로를 거쳐 리월로 전해져왔다. 이 검을 능수능란하게 다루는 사람의 손에 들어가면 파괴력이 한층 더 강력해진다",
+    "PT": "Uma espada exótica com uma lâmina que ficou sem corte. Chegou a Liyue pelas mãos de comerciantes estrangeiros. Incrivelmente poderosa nas mãos de alguém que sabe usá-la.",
+    "RU": "Экзотичный меч с тупой секцией на лезвии, который оказался в Ли Юэ благодаря иностранным торговцам. Невероятно мощный в руках того, кто знает, как им пользоваться.",
+    "TH": "ดาบใหญ่ที่ด้านหนึ่งของตัวดาบยังไม่ถูกลับเพื่อเปิดคมมีดซึ่งมาพร้อมกับผู้ทำการค้าจากต่างถิ่นที่เดินทางมาถึง Liyue มีพลังที่เหลือเชื่อเมื่ออยู่ในมือของคนที่รู้วิธีใช้มัน",
+    "TR": "Bir tarafı bilenmemiş egzotik bir kılıç. Liyue'ye yabancı tüccarlar tarafından getirilmiş. Onu kullanmayı bilenlerin elinde korkulacak bir silaha dönüşür.",
+    "VI": "Đại kiếm đến từ dị quốc, theo tay thương nhân lưu lạc vào Liyue. Nằm trong tay người hiểu kiếm sẽ có sức mạnh khôn lường."
+  },
+  "icon": "generated/weapon-profiles/12407/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.1126,
+  "substat_lvl90": 0.5173,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000150",
+  "name": {
+    "EN": "Odette",
+    "CHS": "奥黛塔",
+    "CHT": "奧黛塔",
+    "DE": "Odette",
+    "ES": "Odette",
+    "FR": "Odette",
+    "ID": "Odette",
+    "IT": "Odette",
+    "JP": "オデット",
+    "KR": "오데트",
+    "PT": "Odette",
+    "RU": "Одетта",
+    "TH": "Odette",
+    "TR": "Odette",
+    "VI": "Odette"
+  },
+  "nameEn": "Odette",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "SNEZHNAYA_STAR",
+  "birthday": {
+    "month": 2,
+    "day": 20
+  },
+  "release": "2026-08-10T21:00:00",
+  "icon": "generated/character-profiles/10000150/avatar.webp",
+  "fullWish": "generated/character-profiles/10000150/full_wish.webp",
+  "fullWishObjectPosition": "49.4% 29.3%",
+  "title": {
+    "EN": "Swirling Snow",
+    "CHS": "翾风回雪",
+    "CHT": "翾風迴雪",
+    "DE": "Schneewirbelnde Anmut",
+    "ES": "La Danzarina Nívea",
+    "FR": "Neige tourbillonnante",
+    "ID": "Swirling Snow",
+    "IT": "Neve volteggiante",
+    "JP": "凛風とともに舞い戻る雪",
+    "KR": "백조의 춤",
+    "PT": "Graça Girante na Neve",
+    "RU": "Грация кружащих снежинок",
+    "TH": "วายุร่ายหิมะระบำ",
+    "TR": "Süzülen Kar",
+    "VI": "Vòng Xoay Tuyết Trắng"
+  },
+  "description": {
+    "EN": "A famed Snezhnayan ballerina who blossoms against the frozen landscape with a beauty as sharp as frost.",
+    "CHS": "至冬知名芭蕾舞者，于冰雪中绽放的凛冽之花。",
+    "CHT": "至冬知名芭蕾舞者，於冰雪中綻放的凜冽之花。",
+    "DE": "Eine berühmte Balletttänzerin aus Snezhnaya – eine kühle Blume, inmitten von Eis und Schnee erblühend.",
+    "ES": "Una célebre bailarina de ballet de Snezhnaya que florece en las nieves con una belleza tan nítida como la escarcha.",
+    "FR": "Célèbre ballerine de Snezhnaya, elle s'épanouit sur le paysage gelé avec une beauté aussi tranchante que le givre.",
+    "ID": "Penari balet ternama dari Snezhnaya, bunga dingin yang mekar di tengah salju dan es.",
+    "IT": "Celebre ballerina di Snezhnaya, sboccia nel paesaggio ghiacciato con una bellezza tagliente come il gelo.",
+    "JP": "スネージナヤの有名なバレリーナ。雪の中で凛と咲き誇る花。",
+    "KR": "스네즈나야의 유명 발레리나이자, 눈얼음 속에서 피어난 차디찬 꽃",
+    "PT": "Uma renomada bailarina de Snezhnaya, ela desabrocha em meio à paisagem congelada com uma beleza tão cortante quanto a geada.",
+    "RU": "Прославленная балерина из Снежной. Холодный цветок, расцветающий среди льда и снега.",
+    "TH": "นักเต้นบัลเลต์ชื่อดังแห่ง Snezhnaya ดอกไม้อันเหน็บหนาวที่เบ่งบานท่ามกลางน้ำแข็งและหิมะ",
+    "TR": "Donuk topraklarda açan buzdan bir çiçek kadar etkileyici güzellikteki Snezhnayalı meşhur balerin.",
+    "VI": "Vũ công ba lê nổi tiếng của Snezhnaya, đóa hoa giá lạnh nở rộ trong băng tuyết."
+  },
+  "constellationName": {
+    "EN": "Cygnus Olor",
+    "CHS": "雪鹄座",
+    "CHT": "雪鵠座",
+    "DE": "Cygnus Olor",
+    "ES": "Cygnus Olor",
+    "FR": "Cygnus Olor",
+    "ID": "Cygnus Olor",
+    "IT": "Cygnus Olor",
+    "JP": "雪鳥座",
+    "KR": "백조자리",
+    "PT": "Cygnus Olor",
+    "RU": "Снежный Лебедь",
+    "TH": "Cygnus Olor",
+    "TR": "Kar Kuğusu",
+    "VI": "Cung Tuyết Hộc"
+  },
+  "native": {
+    "EN": "Korolevskiy Troupe",
+    "CHS": "科洛列夫茨基剧团",
+    "CHT": "科洛列夫茨基劇團",
+    "DE": "Korolevskiy-Theaterkompanie",
+    "ES": "Compañía Korolevski",
+    "FR": "Troupe Korolevskiy",
+    "ID": "Rombongan Teater Korolevskiy",
+    "IT": "Compagnia Korolevskiy",
+    "JP": "コロレフスキー劇団",
+    "KR": "코롤료프스키 극단",
+    "PT": "Companhia Korolevskiy",
+    "RU": "Королевская труппа",
+    "TH": "คณะละคร Korolevskiy",
+    "TR": "Korolevskiy Topluluğu",
+    "VI": "Đoàn Kịch Korolevskiy"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Alexis Tipton"
+    },
+    {
+      "lang": "CHS",
+      "va": "潘丹妮"
+    },
+    {
+      "lang": "JP",
+      "va": "上坂堇"
+    },
+    {
+      "lang": "KR",
+      "va": "Choi Hyun-ji"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1010.5192,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.068,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.26592,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

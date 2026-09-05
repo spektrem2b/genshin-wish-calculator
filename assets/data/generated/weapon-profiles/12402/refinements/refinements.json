@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Rebellious Guardian",
+    "CHS": "叛逆的守护者",
+    "CHT": "叛逆的守護者",
+    "DE": "Beschützer der Rebellen",
+    "ES": "Protector de la rebelión",
+    "FR": "Protecteur rebelle",
+    "ID": "Guardian of the Rebellion",
+    "IT": "Guardiano ribelle",
+    "JP": "反逆の守護者",
+    "KR": "반역의 수호자",
+    "PT": "Guarda da Rebelião",
+    "RU": "Бунтарский защитник",
+    "TH": "Rebellious Guardian",
+    "TR": "Asi Muhafız",
+    "VI": "Kẻ Bảo Vệ Phản Nghịch"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Taking DMG generates a shield which absorbs DMG up to 20% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 12% increased DMG.",
+        "CHS": "受到伤害时，生成一个伤害吸收量等同于生命值上限20%的护盾，持续10秒或直到护盾失效,每45秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升12%。",
+        "CHT": "受到傷害時，產生一個傷害吸收量等同於生命值上限20%的護盾，持續10秒或直到護盾失效,每45秒只能觸發一次。角色處於護盾庇護下時，造成的傷害提升12%。",
+        "DE": "Erstellt beim Erleiden von Schaden einen Schutzschild mit einer Stärke von 20 % der max. LP. Hält solange, bis die Schadensmenge erreicht ist, aber max. 10 s. 45 s Abklingzeit. Erhöht den verursachten Schaden der Figur während der Wirkungsdauer um 12 %.",
+        "ES": "Al recibir daño, genera un escudo que absorbe daño equivalente al 20% de la Vida Máx. Este escudo dura 10 s o hasta que se rompe, y solo puede ser activado una vez cada 45 s. Mientras un personaje esté protegido por el escudo, el daño que inflige aumenta en un 12%.",
+        "FR": "Subir des DGT génère un bouclier qui absorbe jusqu'à 20 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 12 %.",
+        "ID": "Saat menerima DMG, menciptakan sebuah Perisai yang dapat menahan DMG sebesar 20% dari Max HP. Perisai ini bertahan selama 10 detik, atau sampai terhancurkan. Perisai dapat terpicu setiap 45 detik. Saat terlindungi oleh Perisai, karakter memperoleh peningkatan 12% DMG.",
+        "IT": "#Subire DAN genera uno scudo che li assorbe fino a un 20% dei PS max. Lo scudo dura per 10 s o finché non viene infranto, e può essere attivato una sola volta ogni 45 s. Mentre è protetto dallo scudo, il personaggio ottiene un 12% di aumento dei DAN.",
+        "JP": "ダメージを受けた時、HP上限の20%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+12%。",
+        "KR": "피격 시 HP 최대치의 20% 피해를 흡수하는 보호막이 생성된다. 보호막은 10초간 지속하거나 보호막이 파괴될 때까지 유지된다. 45초마다 1회 발동한다. 보호막이 존재 시 캐릭터가 주는 피해가 12% 증가한다",
+        "PT": "Ao receber dano, cria um escudo que absorve o equivalente a 20% da Vida Máxima por 10s ou até o escudo desaparecer. Pode ser ativado uma vez a cada 45s. Quando o personagem estiver com o escudo, o Dano causado aumenta 12%.",
+        "RU": "При получении урона генерируется щит, который в течение 10 сек. поглощает урон, равный 20% от макс. HP. Может возникнуть раз в 45 сек. Под защитой щита увеличивает урон персонажа на 12%.",
+        "TH": "เมื่อได้รับความเสียหายจะสร้างโล่ที่สามารถดูดซับความเสียหายได้ถึง 20% ของพลังชีวิตสูงสุดเป็นเวลา 10 วินาที หรือจนกว่าโล่จะเสื่อมสภาพ โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 45 วินาที ในขณะที่ตัวละครได้รับการป้องกันจากโล่จะสร้างความเสียหายเพิ่มขึ้น 12%",
+        "TR": "Hasar alındığında Maksimum Canın %20'sine kadar Hasarı emen bir kalkan devreye girer. Bu kalkan 10 saniye veya kırılana kadar kullanılır ve 45 saniyede bir kullanılabilir. Bir kalkan korumasındayken karakter %12 Hasar artışı kazanır.",
+        "VI": "Khi nhận sát thương sẽ tạo ra khiên có lượng hấp thụ sát thương bằng 20% giới hạn HP, kéo dài 10s hoặc đến khi khiên mất hiệu lực, mỗi 45s chỉ thi triển 1 lần. Khi nhân vật được khiên bảo vệ, sát thương tạo thành tăng 12%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Taking DMG generates a shield which absorbs DMG up to 23% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 15% increased DMG.",
+        "CHS": "受到伤害时，生成一个伤害吸收量等同于生命值上限23%的护盾，持续10秒或直到护盾失效,每45秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升15%。",
+        "CHT": "受到傷害時，產生一個傷害吸收量等同於生命值上限23%的護盾，持續10秒或直到護盾失效,每45秒只能觸發一次。角色處於護盾庇護下時，造成的傷害提升15%。",
+        "DE": "Erstellt beim Erleiden von Schaden einen Schutzschild mit einer Stärke von 23 % der max. LP. Hält solange, bis die Schadensmenge erreicht ist, aber max. 10 s. 45 s Abklingzeit. Erhöht den verursachten Schaden der Figur während der Wirkungsdauer um 15 %.",
+        "ES": "Al recibir daño, genera un escudo que absorbe daño equivalente al 23% de la Vida Máx. Este escudo dura 10 s o hasta que se rompe, y solo puede ser activado una vez cada 45 s. Mientras un personaje esté protegido por el escudo, el daño que inflige aumenta en un 15%.",
+        "FR": "Subir des DGT génère un bouclier qui absorbe jusqu'à 23 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 15 %.",
+        "ID": "Saat menerima DMG, menciptakan sebuah Perisai yang dapat menahan DMG sebesar 23% dari Max HP. Perisai ini bertahan selama 10 detik, atau sampai terhancurkan. Perisai dapat terpicu setiap 45 detik. Saat terlindungi oleh Perisai, karakter memperoleh peningkatan 15% DMG.",
+        "IT": "#Subire DAN genera uno scudo che li assorbe fino a un 23% dei PS max. Lo scudo dura per 10 s o finché non viene infranto, e può essere attivato una sola volta ogni 45 s. Mentre è protetto dallo scudo, il personaggio ottiene un 15% di aumento dei DAN.",
+        "JP": "ダメージを受けた時、HP上限の23%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+15%。",
+        "KR": "피격 시 HP 최대치의 23% 피해를 흡수하는 보호막이 생성된다. 보호막은 10초간 지속하거나 보호막이 파괴될 때까지 유지된다. 45초마다 1회 발동한다. 보호막이 존재 시 캐릭터가 주는 피해가 15% 증가한다",
+        "PT": "Ao receber dano, cria um escudo que absorve o equivalente a 23% da Vida Máxima por 10s ou até o escudo desaparecer. Pode ser ativado uma vez a cada 45s. Quando o personagem estiver com o escudo, o Dano causado aumenta 15%.",
+        "RU": "При получении урона генерируется щит, который в течение 10 сек. поглощает урон, равный 23% от макс. HP. Может возникнуть раз в 45 сек. Под защитой щита увеличивает урон персонажа на 15%.",
+        "TH": "เมื่อได้รับความเสียหายจะสร้างโล่ที่สามารถดูดซับความเสียหายได้ถึง 23% ของพลังชีวิตสูงสุดเป็นเวลา 10 วินาที หรือจนกว่าโล่จะเสื่อมสภาพ โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 45 วินาที ในขณะที่ตัวละครได้รับการป้องกันจากโล่จะสร้างความเสียหายเพิ่มขึ้น 15%",
+        "TR": "Hasar alındığında Maksimum Canın %23'üne kadar Hasarı emen bir kalkan devreye girer. Bu kalkan 10 saniye veya kırılana kadar kullanılır ve 45 saniyede bir kullanılabilir. Bir kalkan korumasındayken karakter %15 Hasar artışı kazanır.",
+        "VI": "Khi nhận sát thương sẽ tạo ra khiên có lượng hấp thụ sát thương bằng 23% giới hạn HP, kéo dài 10s hoặc đến khi khiên mất hiệu lực, mỗi 45s chỉ thi triển 1 lần. Khi nhân vật được khiên bảo vệ, sát thương tạo thành tăng 15%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Taking DMG generates a shield which absorbs DMG up to 26% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 18% increased DMG.",
+        "CHS": "受到伤害时，生成一个伤害吸收量等同于生命值上限26%的护盾，持续10秒或直到护盾失效,每45秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升18%。",
+        "CHT": "受到傷害時，產生一個傷害吸收量等同於生命值上限26%的護盾，持續10秒或直到護盾失效,每45秒只能觸發一次。角色處於護盾庇護下時，造成的傷害提升18%。",
+        "DE": "Erstellt beim Erleiden von Schaden einen Schutzschild mit einer Stärke von 26 % der max. LP. Hält solange, bis die Schadensmenge erreicht ist, aber max. 10 s. 45 s Abklingzeit. Erhöht den verursachten Schaden der Figur während der Wirkungsdauer um 18 %.",
+        "ES": "Al recibir daño, genera un escudo que absorbe daño equivalente al 26% de la Vida Máx. Este escudo dura 10 s o hasta que se rompe, y solo puede ser activado una vez cada 45 s. Mientras un personaje esté protegido por el escudo, el daño que inflige aumenta en un 18%.",
+        "FR": "Subir des DGT génère un bouclier qui absorbe jusqu'à 26 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 18 %.",
+        "ID": "Saat menerima DMG, menciptakan sebuah Perisai yang dapat menahan DMG sebesar 26% dari Max HP. Perisai ini bertahan selama 10 detik, atau sampai terhancurkan. Perisai dapat terpicu setiap 45 detik. Saat terlindungi oleh Perisai, karakter memperoleh peningkatan 18% DMG.",
+        "IT": "#Subire DAN genera uno scudo che li assorbe fino a un 26% dei PS max. Lo scudo dura per 10 s o finché non viene infranto, e può essere attivato una sola volta ogni 45 s. Mentre è protetto dallo scudo, il personaggio ottiene un 18% di aumento dei DAN.",
+        "JP": "ダメージを受けた時、HP上限の26%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+18%。",
+        "KR": "피격 시 HP 최대치의 26% 피해를 흡수하는 보호막이 생성된다. 보호막은 10초간 지속하거나 보호막이 파괴될 때까지 유지된다. 45초마다 1회 발동한다. 보호막이 존재 시 캐릭터가 주는 피해가 18% 증가한다",
+        "PT": "Ao receber dano, cria um escudo que absorve o equivalente a 26% da Vida Máxima por 10s ou até o escudo desaparecer. Pode ser ativado uma vez a cada 45s. Quando o personagem estiver com o escudo, o Dano causado aumenta 18%.",
+        "RU": "При получении урона генерируется щит, который в течение 10 сек. поглощает урон, равный 26% от макс. HP. Может возникнуть раз в 45 сек. Под защитой щита увеличивает урон персонажа на 18%.",
+        "TH": "เมื่อได้รับความเสียหายจะสร้างโล่ที่สามารถดูดซับความเสียหายได้ถึง 26% ของพลังชีวิตสูงสุดเป็นเวลา 10 วินาที หรือจนกว่าโล่จะเสื่อมสภาพ โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 45 วินาที ในขณะที่ตัวละครได้รับการป้องกันจากโล่จะสร้างความเสียหายเพิ่มขึ้น 18%",
+        "TR": "Hasar alındığında Maksimum Canın %26'sına kadar Hasarı emen bir kalkan devreye girer. Bu kalkan 10 saniye veya kırılana kadar kullanılır ve 45 saniyede bir kullanılabilir. Bir kalkan korumasındayken karakter %18 Hasar artışı kazanır.",
+        "VI": "Khi nhận sát thương sẽ tạo ra khiên có lượng hấp thụ sát thương bằng 26% giới hạn HP, kéo dài 10s hoặc đến khi khiên mất hiệu lực, mỗi 45s chỉ thi triển 1 lần. Khi nhân vật được khiên bảo vệ, sát thương tạo thành tăng 18%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Taking DMG generates a shield which absorbs DMG up to 29% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 21% increased DMG.",
+        "CHS": "受到伤害时，生成一个伤害吸收量等同于生命值上限29%的护盾，持续10秒或直到护盾失效,每45秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升21%。",
+        "CHT": "受到傷害時，產生一個傷害吸收量等同於生命值上限29%的護盾，持續10秒或直到護盾失效,每45秒只能觸發一次。角色處於護盾庇護下時，造成的傷害提升21%。",
+        "DE": "Erstellt beim Erleiden von Schaden einen Schutzschild mit einer Stärke von 29 % der max. LP. Hält solange, bis die Schadensmenge erreicht ist, aber max. 10 s. 45 s Abklingzeit. Erhöht den verursachten Schaden der Figur während der Wirkungsdauer um 21 %.",
+        "ES": "Al recibir daño, genera un escudo que absorbe daño equivalente al 29% de la Vida Máx. Este escudo dura 10 s o hasta que se rompe, y solo puede ser activado una vez cada 45 s. Mientras un personaje esté protegido por el escudo, el daño que inflige aumenta en un 21%.",
+        "FR": "Subir des DGT génère un bouclier qui absorbe jusqu'à 29 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 21 %.",
+        "ID": "Saat menerima DMG, menciptakan sebuah Perisai yang dapat menahan DMG sebesar 29% dari Max HP. Perisai ini bertahan selama 10 detik, atau sampai terhancurkan. Perisai dapat terpicu setiap 45 detik. Saat terlindungi oleh Perisai, karakter memperoleh peningkatan 21% DMG.",
+        "IT": "#Subire DAN genera uno scudo che li assorbe fino a un 29% dei PS max. Lo scudo dura per 10 s o finché non viene infranto, e può essere attivato una sola volta ogni 45 s. Mentre è protetto dallo scudo, il personaggio ottiene un 21% di aumento dei DAN.",
+        "JP": "ダメージを受けた時、HP上限の29%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+21%。",
+        "KR": "피격 시 HP 최대치의 29% 피해를 흡수하는 보호막이 생성된다. 보호막은 10초간 지속하거나 보호막이 파괴될 때까지 유지된다. 45초마다 1회 발동한다. 보호막이 존재 시 캐릭터가 주는 피해가 21% 증가한다",
+        "PT": "Ao receber dano, cria um escudo que absorve o equivalente a 29% da Vida Máxima por 10s ou até o escudo desaparecer. Pode ser ativado uma vez a cada 45s. Quando o personagem estiver com o escudo, o Dano causado aumenta 21%.",
+        "RU": "При получении урона генерируется щит, который в течение 10 сек. поглощает урон, равный 29% от макс. HP. Может возникнуть раз в 45 сек. Под защитой щита увеличивает урон персонажа на 21%.",
+        "TH": "เมื่อได้รับความเสียหายจะสร้างโล่ที่สามารถดูดซับความเสียหายได้ถึง 29% ของพลังชีวิตสูงสุดเป็นเวลา 10 วินาที หรือจนกว่าโล่จะเสื่อมสภาพ โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 45 วินาที ในขณะที่ตัวละครได้รับการป้องกันจากโล่จะสร้างความเสียหายเพิ่มขึ้น 21%",
+        "TR": "Hasar alındığında Maksimum Canın %29'una kadar Hasarı emen bir kalkan devreye girer. Bu kalkan 10 saniye veya kırılana kadar kullanılır ve 45 saniyede bir kullanılabilir. Bir kalkan korumasındayken karakter %21 Hasar artışı kazanır.",
+        "VI": "Khi nhận sát thương sẽ tạo ra khiên có lượng hấp thụ sát thương bằng 29% giới hạn HP, kéo dài 10s hoặc đến khi khiên mất hiệu lực, mỗi 45s chỉ thi triển 1 lần. Khi nhân vật được khiên bảo vệ, sát thương tạo thành tăng 21%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Taking DMG generates a shield which absorbs DMG up to 32% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains 24% increased DMG.",
+        "CHS": "受到伤害时，生成一个伤害吸收量等同于生命值上限32%的护盾，持续10秒或直到护盾失效,每45秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升24%。",
+        "CHT": "受到傷害時，產生一個傷害吸收量等同於生命值上限32%的護盾，持續10秒或直到護盾失效,每45秒只能觸發一次。角色處於護盾庇護下時，造成的傷害提升24%。",
+        "DE": "Erstellt beim Erleiden von Schaden einen Schutzschild mit einer Stärke von 32 % der max. LP. Hält solange, bis die Schadensmenge erreicht ist, aber max. 10 s. 45 s Abklingzeit. Erhöht den verursachten Schaden der Figur während der Wirkungsdauer um 24 %.",
+        "ES": "Al recibir daño, genera un escudo que absorbe daño equivalente al 32% de la Vida Máx. Este escudo dura 10 s o hasta que se rompe, y solo puede ser activado una vez cada 45 s. Mientras un personaje esté protegido por el escudo, el daño que inflige aumenta en un 24%.",
+        "FR": "Subir des DGT génère un bouclier qui absorbe jusqu'à 32 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 24 %.",
+        "ID": "Saat menerima DMG, menciptakan sebuah Perisai yang dapat menahan DMG sebesar 32% dari Max HP. Perisai ini bertahan selama 10 detik, atau sampai terhancurkan. Perisai dapat terpicu setiap 45 detik. Saat terlindungi oleh Perisai, karakter memperoleh peningkatan 24% DMG.",
+        "IT": "#Subire DAN genera uno scudo che li assorbe fino a un 32% dei PS max. Lo scudo dura per 10 s o finché non viene infranto, e può essere attivato una sola volta ogni 45 s. Mentre è protetto dallo scudo, il personaggio ottiene un 24% di aumento dei DAN.",
+        "JP": "ダメージを受けた時、HP上限の32%に相当するダメージを吸収できるシールドを生成する。継続時間は最大10秒まで。45秒毎に1回のみ発動可能。シールドが存在する時、キャラクターの与えるダメージ+24%。",
+        "KR": "피격 시 HP 최대치의 32% 피해를 흡수하는 보호막이 생성된다. 보호막은 10초간 지속하거나 보호막이 파괴될 때까지 유지된다. 45초마다 1회 발동한다. 보호막이 존재 시 캐릭터가 주는 피해가 24% 증가한다",
+        "PT": "Ao receber dano, cria um escudo que absorve o equivalente a 32% da Vida Máxima por 10s ou até o escudo desaparecer. Pode ser ativado uma vez a cada 45s. Quando o personagem estiver com o escudo, o Dano causado aumenta 24%.",
+        "RU": "При получении урона генерируется щит, который в течение 10 сек. поглощает урон, равный 32% от макс. HP. Может возникнуть раз в 45 сек. Под защитой щита увеличивает урон персонажа на 24%.",
+        "TH": "เมื่อได้รับความเสียหายจะสร้างโล่ที่สามารถดูดซับความเสียหายได้ถึง 32% ของพลังชีวิตสูงสุดเป็นเวลา 10 วินาที หรือจนกว่าโล่จะเสื่อมสภาพ โดยจะเกิดขึ้นได้หนึ่งครั้งในทุก 45 วินาที ในขณะที่ตัวละครได้รับการป้องกันจากโล่จะสร้างความเสียหายเพิ่มขึ้น 24%",
+        "TR": "Hasar alındığında Maksimum Canın %32'sine kadar Hasarı emen bir kalkan devreye girer. Bu kalkan 10 saniye veya kırılana kadar kullanılır ve 45 saniyede bir kullanılabilir. Bir kalkan korumasındayken karakter %24 Hasar artışı kazanır.",
+        "VI": "Khi nhận sát thương sẽ tạo ra khiên có lượng hấp thụ sát thương bằng 32% giới hạn HP, kéo dài 10s hoặc đến khi khiên mất hiệu lực, mỗi 45s chỉ thi triển 1 lần. Khi nhân vật được khiên bảo vệ, sát thương tạo thành tăng 24%."
+      }
+    }
+  ]
+}

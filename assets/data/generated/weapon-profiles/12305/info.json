@@ -1,0 +1,52 @@
+{
+  "id": 12305,
+  "name": {
+    "EN": "Debate Club",
+    "CHS": "以理服人",
+    "CHT": "以理服人",
+    "DE": "Schlagfestes Argument",
+    "ES": "Garrote del Debate",
+    "FR": "Épée de la raison",
+    "ID": "Debate Club",
+    "IT": "Mazza della persuasione",
+    "JP": "理屈責め",
+    "KR": "훌륭한 대화수단",
+    "PT": "Pacifista",
+    "RU": "Дубина переговоров",
+    "TH": "Debate Club",
+    "TR": "İkna Sopası",
+    "VI": "Gậy Thu Phục"
+  },
+  "nameEn": "Debate Club",
+  "type": "Trọng Kiếm",
+  "rarity": 3,
+  "description": {
+    "EN": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.",
+    "CHS": "精钢打造的趁手大铁棒子。最好的理论依据。",
+    "CHT": "精鋼打造的稱手大鐵棒子。最好的理論依據。",
+    "DE": "Ein großer, aus robustem Stahl gefertigter Stab, mit dem man seinen Standpunkt vernünftig und doch mit großer Überzeugungskraft vertreten kann.",
+    "ES": "Una práctica vara hecha de acero fino. Es la base de la “convicción racional”.",
+    "FR": "Une grande massue en acier fin qui répond bien ; le meilleur recours lors d'une argumentation agitée.",
+    "ID": "Tongkat praktis yang terbuat dari baja berkualitas. Ini adalah perlengkapan dasar yang diperlukan untuk memiliki debat yang rasional.",
+    "IT": "Una mazza d'acciaio. L'arma più persuasiva in caso di controversie eccessivamente animate.",
+    "JP": "精密な鋼鉄で作った棒、最高な理屈となるだろう。",
+    "KR": "파인 스틸로 만들어진 쇠몽둥이. 시시비비를 따질 때 가장 훌륭한 대화 수단이다",
+    "PT": "Um porrete feito de aço. É a base do \"convencimento racional\".",
+    "RU": "Удобная дубина, сделанная из качественной стали. Фундамент «рационального убеждения».",
+    "TH": "กระบองที่ทำจากเหล็กกล้าชั้นดี นี่คือรากฐานของ \"เหตุผลที่น่าเชื่อถือ\"",
+    "TR": "Kaliteli çelikten yapılmış kullanışlı bir sopa. Bir münazaracının en ikna edici argümanı.",
+    "VI": "Gậy lớn được làm từ tinh thiết. Là căn cứ lý luận tốt nhất."
+  },
+  "icon": "generated/weapon-profiles/12305/avatar.webp",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.0766,
+  "substat_lvl90": 0.3519,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 14523,
+  "name": {
+    "EN": "Angelos' Heptades",
+    "CHS": "尘光七谕",
+    "CHT": "塵光七諭",
+    "DE": "Sieben Gebote von Staub und Licht",
+    "ES": "Heptadas de los Ángeles",
+    "FR": "Heptades des anges",
+    "ID": "Angelos' Heptades",
+    "IT": "Eptadi dell'angelo",
+    "JP": "塵と光の七つの誓約",
+    "KR": "일곱빛 계시",
+    "PT": "Os Sete Éditos da Poeira e Luz",
+    "RU": "Гептада ангела",
+    "TH": "Angelos' Heptades",
+    "TR": "Meleğin Yedi Fermanı",
+    "VI": "Trần Quang Thất Dụ"
+  },
+  "nameEn": "Angelos' Heptades",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A golden box as splendid as the light of the heavens. According to legend, it once belonged to a divine envoy of the Eternal Court.",
+    "CHS": "如天光般瑰美的金匣，传说在遥远的过去曾经属于永恒之庭的御使。",
+    "CHT": "如天光般瑰美的金匣，傳說在遙遠的過去曾經屬於永恆之庭的御使。",
+    "DE": "Ein goldenes Kästchen, so schön wie das Licht des Himmels, das der Legende nach in ferner Vergangenheit einem Gesandten des Ewigen Hofes gehörte.",
+    "ES": "Un relicario dorado tan hermoso como la luz celestial. Cuenta la leyenda que, en un pasado remoto, perteneció a una emisaria de la corte eterna.",
+    "FR": "Une boîte dorée, aussi splendide que la lumière des cieux. Selon la légende, elle appartenait jadis à un envoyé divin de la cour éternelle.",
+    "ID": "Kotak emas secantik cahaya langit. Konon katanya di masa lalu, pernah menjadi milik utusan Pengadilan Abadi.",
+    "IT": "Uno scrigno dorato, splendido come la luce dei cieli. Secondo la leggenda, un tempo apparteneva a un'emissaria divina della Corte Eterna.",
+    "JP": "天光のように美しい黄金の匣。伝説によると、遥か昔に永遠の庭の御使が所有していたという。",
+    "KR": "천상의 빛처럼 눈부시게 아름다운 황금 상자. 머나먼 옛 전설에 따르면 영원의 궁전에 있던 천사의 물건이라고 한다",
+    "PT": "Uma caixa dourada tão esplêndida quanto a luz dos céus. Segundo a lenda, ela já pertenceu a um enviado divino da Corte da Eternidade.",
+    "RU": "Золотой ларец, прекрасный, точно небесный свет. Легенда гласит, что в далёком прошлом он принадлежал посланнику Двора вечности.",
+    "TH": "กล่องทองคำที่งดงามดุจแสงนภา ตำนานกล่าวไว้ว่าในอดีตอันแสนไกล มันเคยเป็นของทูตแห่งโถงนิรันดร",
+    "TR": "Göklerin ışığı kadar ihtişamlı altın bir kutu. Efsaneye göre bir zamanlar Ebedi Saray'ın kutsal bir elçisine aitmiş.",
+    "VI": "Chiếc hộp vàng lộng lẫy tựa ánh dương. Truyền thuyết kể rằng trong quá khứ xa xôi, nó từng thuộc về sứ giả của đại sảnh vĩnh hằng."
+  },
+  "icon": "generated/weapon-profiles/14523/avatar.webp",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.036,
+  "substat_lvl90": 0.1654,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

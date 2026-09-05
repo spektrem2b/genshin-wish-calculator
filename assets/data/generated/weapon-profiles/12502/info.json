@@ -1,0 +1,52 @@
+{
+  "id": 12502,
+  "name": {
+    "EN": "Wolf's Gravestone",
+    "CHS": "狼的末路",
+    "CHT": "狼的末路",
+    "DE": "Wolfsgrab",
+    "ES": "Lápida del Lobo",
+    "FR": "Mort-du-loup",
+    "ID": "Wolf's Gravestone",
+    "IT": "Trapasso ululante",
+    "JP": "狼の末路",
+    "KR": "늑대의 말로",
+    "PT": "Túmulo do Lobo",
+    "RU": "Волчья погибель",
+    "TH": "Wolf's Gravestone",
+    "TR": "Kurdun Mezar Taşı",
+    "VI": "Đường Cùng Của Sói"
+  },
+  "nameEn": "Wolf's Gravestone",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.",
+    "CHS": "狼的骑士所使的大剑。原本只是城中铁匠赠予的厚重的铁片，却在他与狼的情谊中，获得神话般的力量。",
+    "CHT": "狼的騎士所使的大劍。原本只是城中鐵匠贈予的厚重的鐵片，卻在他與狼的情誼中，獲得神話般的力量。",
+    "DE": "Das vom Wolfsritter geführte Großschwert. Ursprünglich war es nicht mehr als eine grobe Eisenplatte, ein Geschenk des Schmieds in der Stadt. Durch seine Freundschaft mit den Wölfen erhielt es aber seine heute legendäre Kraft.",
+    "ES": "Una gran espada que fue usada por el Lobo de los Caballeros de Favonius. Originalmente, era solo una pesada lámina de hierro que le regaló el herrero de la ciudad. Sin embargo, se convirtió en una gran espada al serle otorgados poderes legendarios por su amistad con los lobos.",
+    "FR": "Une épée longue appartenant au chevalier aux loups. Il ne s'agissait au départ que d'une épaisse plaque de fer offerte par le forgeron de la ville, mais elle a acquis un pouvoir légendaire au côté des loups.",
+    "ID": "Pedang panjang yang digunakan oleh Wolf Knight. Dibentuk menggunakan selempeng besi yang biasa saja oleh seorang pandai besi kota. Tetapi persahabatannya dengan para serigala memberikan kekuatan yang spesial di dalam karya ini.",
+    "IT": "Una spada lunga usata dal Cavaliere dei lupi. Originariamente, un mero pezzo di ferro pesante donato al cavaliere da un fabbro della città, adesso è infusa del potere leggendario dell'alleanza con i lupi.",
+    "JP": "狼の騎士が使っていた大剣。本来は鉄工房の職人に贈られた鉄の塊だったが、狼との絆によって神話のような力を得た。",
+    "KR": "늑대 기사가 사용하던 대검. 원래는 성안의 대장장이가 증여한 두터운 철조각이었지만 기사와 늑대의 우정 속에서 신화적인 힘이 탄생했다",
+    "PT": "Uma grande espada que foi usada pelo Cavaleiro Lobo. Originalmente era apenas uma lâmina de ferro pesada que foi dado por um ferreiro da cidade. No entanto, recebeu poderes lendários por sua amizade com os lobos.",
+    "RU": "Двуручный меч рыцаря Ордо Бореалис. Изначально это был просто лист металла из лавки кузнеца. Однако он был наделён легендарной силой в знак дружбы между кузнецом и волками.",
+    "TH": "ดาบยาวที่ใช้โดยอัศวินหมาป่า แต่เดิมแล้วมันเป็นเพียงแผ่นเหล็กที่ทำขึ้นโดยช่างเหล็กในเมือง แต่กระนั้นมันก็ให้พลังแห่งตำนานให้กับมิตรภาพที่มีต่อเหล่าหมาป่า",
+    "TR": "Kurt Şövalye tarafından kullanılmış bir uzun kılıç. Aslında şehrin demircisi tarafından şövalyeye verilen kalın bir demir levhaydı ama kurtların elinde efsanevi bir güç kazandı.",
+    "VI": "Kiếm được kỵ sĩ của sói dùng. Vốn chỉ là miếng sắt của lò rèn trong thành, nhưng do tình bạn với sói mà nhận được sức mạnh thần thánh."
+  },
+  "icon": "generated/weapon-profiles/12502/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

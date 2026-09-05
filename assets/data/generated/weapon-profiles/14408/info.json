@@ -1,0 +1,52 @@
+{
+  "id": 14408,
+  "name": {
+    "EN": "Blackcliff Agate",
+    "CHS": "黑岩绯玉",
+    "CHT": "黑岩緋玉",
+    "DE": "Schwarzstein-Achat",
+    "ES": "Ágata del Peñasco Oscuro",
+    "FR": "Agate de Rochenoire",
+    "ID": "Blackcliff Amulet",
+    "IT": "Agata di Rupenera",
+    "JP": "黒岩の緋玉",
+    "KR": "흑암 홍옥",
+    "PT": "Ágata do Penhasco Obscuro",
+    "RU": "Черногорский агат",
+    "TH": "Blackcliff Agate",
+    "TR": "Kara Kaya Akiği",
+    "VI": "Hắc Nham Phỉ Ngọc"
+  },
+  "nameEn": "Blackcliff Agate",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth.",
+    "CHS": "由黑岩制成的神秘法器，无常的赤色闪光仿佛大地深处的悸动同调。",
+    "CHT": "由黑岩製成的神秘法器，無常的赤色閃光彷彿與大地深處的悸動同調。",
+    "DE": "Ein geheimnisvoller Katalysator gefertigt aus Schwarzstein. Der merkwürdige rote Schein kommt einem vor, als würde er eindringlich pulsieren.",
+    "ES": "Un misterioso catalizador hecho de piedra negra. Tiene un brillo carmesí siniestro que parece latir en sincronía con los temblores de las profundidades de la tierra.",
+    "FR": "Un mystérieux catalyseur en roche noire. La lueur rouge qui en émane résonne en harmonie avec les entrailles de la terre.",
+    "ID": "Catalyst misterius yang terbuat dari material Blackstone. Memiliki cahaya merah tua yang berpendar bagaikan getaran inti bumi.",
+    "IT": "Un catalizzatore misterioso realizzato in un materiale noto come Rupenera. Brilla di un'inquietante luce purpurea che sembra pulsare in sincronia con i tremori delle profondità terrestri.",
+    "JP": "黒岩でできた不思議な法器。赤い光はまるで大地の奥にある動きと同調しているみたいだ。",
+    "KR": "흑암으로 만들어진 신비한 법구, 무규칙적으로 반짝이는 붉은빛은 마치 대지 깊은 곳의 요동도 같다",
+    "PT": "Um misterioso catalisador feito de pedra preta. Tem um brilho carrancudo ameaçador que parece pulsar em sincronia com os tremores das profundezas da terra.",
+    "RU": "Загадочный катализатор, сделанный из черногорского камня. Его зловещее малиновое сияние пульсирует в такт подземным толчкам.",
+    "TH": "สื่อเวทลึกลับนี้ทำมาจากหิน blackstone มันมีสีแดงเข้มเป็นลางที่ดูเหมือนว่าจะเต้นเป็นจังหวะประสานกับแรงสั่นสะเทือนจากส่วนลึกของโลก",
+    "TR": "\"Kara kaya\" olarak bilinen malzemeden yapılmış gizemli bir katalizör. Yeryüzünün derinliklerinden gelen sarsıntılarla eş zamanlı bir nabız gibi yanıp sönen uğursuz bir kızıl parıltıya sahip.",
+    "VI": "Là pháp khí thần kì được Hắc Nham Xưởng tạo ra, sắc đỏ khác thường dường như là sự hòa quyện của sự khiếp sợ nơi vực sâu."
+  },
+  "icon": "generated/weapon-profiles/14408/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

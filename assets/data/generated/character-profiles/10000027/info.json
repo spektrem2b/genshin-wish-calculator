@@ -1,0 +1,137 @@
+{
+  "id": "10000027",
+  "name": {
+    "EN": "Ningguang",
+    "CHS": "凝光",
+    "CHT": "凝光",
+    "DE": "Ningguang",
+    "ES": "Ninguang",
+    "FR": "Ningguang",
+    "ID": "Ningguang",
+    "IT": "Ningguang",
+    "JP": "凝光",
+    "KR": "응광",
+    "PT": "Ningguang",
+    "RU": "Нин Гуан",
+    "TH": "Ningguang",
+    "TR": "Ningguang",
+    "VI": "Ningguang"
+  },
+  "nameEn": "Ningguang",
+  "element": "Geo",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 8,
+    "day": 26
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000027/avatar.webp",
+  "fullWish": "generated/character-profiles/10000027/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 18.5%",
+  "title": {
+    "EN": "Eclipsing Star",
+    "CHS": "掩月天权",
+    "CHT": "掩月天權",
+    "DE": "Verdeckter Mond",
+    "ES": "La Estrella en Eclipse",
+    "FR": "Megrez de l'éclipse",
+    "ID": "Eclipsing Star",
+    "IT": "Stella dell'eclissi",
+    "JP": "月を覆う天権",
+    "KR": "엄월천권",
+    "PT": "Estrela em Eclipse",
+    "RU": "Лунное затмение",
+    "TH": "Tianquan ผู้บดบังดวงเดือน",
+    "TR": "Örten Yıldız",
+    "VI": "Yểm Nguyệt Thiên Quyền"
+  },
+  "description": {
+    "EN": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+    "CHS": "「璃月七星」中的「天权」，其名下财富之多，全大陆鲜有人能望其项背。",
+    "CHT": "「璃月七星」中的「天權」，其名下財富之多，全大陸鮮有人能望其項背。",
+    "DE": "Der „Tianquan“ unter den „Qixing von Liyue“. Ihr Reichtum ist enorm und nur wenige können es auf dem ganzen Kontinent mit ihr aufnehmen.",
+    "ES": "Ninguang, conocida como el “Equilibrio Celestial”, es miembro de las “Siete Estrellas de Liyue”. Su riqueza es insuperable en todo Teyvat.",
+    "FR": "La Megrez des Sept Étoiles de Liyue. Peu de personnes peuvent se vanter d'être aussi riches à travers Teyvat.",
+    "ID": "Seorang \"Tianquan\" dari \"Liyue Qixing\", kekayaannya tidak tertandingi di seluruh Teyvat.",
+    "IT": "La Tianquan delle Sette Stelle di Liyue. La sua ricchezza è ineguagliabile in tutta Teyvat.",
+    "JP": "「璃月七星」の一人、「天権」。富の多さで有名であり、全大陸で彼女に匹敵する者はまずいない。",
+    "KR": "「리월 칠성」 중 「천권」, 엄청난 부자로 대륙 전체에서 그녀보다 부유한 사람은 찾기 어렵다",
+    "PT": "\"Tianquan\" dos \"Qixing de Liyue\". Sua fortuna é insuperável em todo Teyvat.",
+    "RU": "Воля Небес группировки Цисин. Её богатство не сравнимо ни с чьим в Тейвате.",
+    "TH": "Tianquan แห่ง Liyue Qixing ความมั่งคั่งของเธอนั้นไม่มีผู้ใดใน Teyvat เทียบได้",
+    "TR": "Liyue'nin Yedi Yıldızından biri olan Tianquan. Zenginliği tüm Teyvat'ta benzersizdir.",
+    "VI": "\"Thiên Quyền\" trong Thất Tinh Liyue, giàu có nổi tiếng, khắp đại lục khó ai sánh bằng."
+  },
+  "constellationName": {
+    "EN": "Opus Aequilibrium",
+    "CHS": "玑衡仪座",
+    "CHT": "璣衡儀座",
+    "DE": "Opus Aequilibrium",
+    "ES": "Opus Aequilibrium",
+    "FR": "Opus Aequilibrium",
+    "ID": "Opus Aequilibrium",
+    "IT": "Opus Aequilibrium",
+    "JP": "璣衡儀座",
+    "KR": "기형의자리",
+    "PT": "Opus Aequilibrium",
+    "RU": "Небесная Сфера",
+    "TH": "Opus Aequilibrium",
+    "TR": "Denge İşi",
+    "VI": "Cung Cơ Hoành Nghi"
+  },
+  "native": {
+    "EN": "Liyue Qixing",
+    "CHS": "璃月七星",
+    "CHT": "璃月七星",
+    "DE": "Qixing von Liyue",
+    "ES": "Siete Estrellas de Liyue",
+    "FR": "Sept Étoiles de Liyue",
+    "ID": "Liyue Qixing",
+    "IT": "Sette Stelle di Liyue",
+    "JP": "璃月七星",
+    "KR": "리월 칠성",
+    "PT": "Qixing de Liyue",
+    "RU": "Цисин",
+    "TH": "Liyue Qixing",
+    "TR": "Liyue'nin Yedi Yıldızı",
+    "VI": "Thất Tinh Liyue"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Erin Ebers"
+    },
+    {
+      "lang": "CHS",
+      "va": "杜冥鸦"
+    },
+    {
+      "lang": "JP",
+      "va": "大原さやか"
+    },
+    {
+      "lang": "KR",
+      "va": "Kwak Kyu-mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ROCK_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 820.6119,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.808,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 48.069,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

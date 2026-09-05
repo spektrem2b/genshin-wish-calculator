@@ -1,0 +1,52 @@
+{
+  "id": 13505,
+  "name": {
+    "EN": "Primordial Jade Winged-Spear",
+    "CHS": "和璞鸢",
+    "CHT": "和璞鳶",
+    "DE": "Urzeitlicher Jadespeer",
+    "ES": "Halcón de Jade",
+    "FR": "Lance de jade ailée",
+    "ID": "Primordial Jade Winged-Spear",
+    "IT": "Lancia di giada primordiale",
+    "JP": "和璞鳶",
+    "KR": "화박연",
+    "PT": "Lança de Jade Primitiva",
+    "RU": "Нефритовый коршун",
+    "TH": "Primordial Jade Winged-Spear",
+    "TR": "Ezeli Yeşim Kanatlı Mızrak",
+    "VI": "Hòa Phác Diên"
+  },
+  "nameEn": "Primordial Jade Winged-Spear",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A jade polearm made by the archons, capable of slaying ancient beasts.",
+    "CHS": "魔神翡玉化作的长枪，拥有刺杀远古海兽的沉重与锋利。",
+    "CHT": "魔神翡玉化作的長槍，擁有刺殺遠古海獸的沉重與鋒利。",
+    "DE": "Ein schwerer und spitzer Speer aus magischer Jade, mit dem man selbst die gewaltigen Meeresungeheuer der Urzeit überwältigen kann.",
+    "ES": "Una pesada y afilada lanza de jade capaz de derrotar a los poderosos monstruos marinos de la antigüedad.",
+    "FR": "Une lance longue et pointue en jade ensorcelé, avec laquelle vous pourriez vaincre les puissants monstres marins des temps préhistoriques.",
+    "ID": "Sebuah polearm giok yang diciptakan oleh para Archon, memiliki kekuatan untuk membunuh monster laut legenda.",
+    "IT": "Una lancia di giada creata dagli Archon, in grado di uccidere bestie antiche.",
+    "JP": "魔神の美玉で作った長槍、遠昔の海獣を倒せる重さと鋭さがある。",
+    "KR": "마신의 비취옥이 변화한 장창. 고대 바다 괴수를 무찌를 정도의 무게와 예리함을 가지고 있다",
+    "PT": "Uma lança pesada e afiada feita de jade. Usada para derrotar monstros marinhos poderosos e pré-históricos.",
+    "RU": "Это копьё создали Архонты для борьбы с чудовищами доисторических морей.",
+    "TH": "หอกที่แปลงมาจากหยกจ้าวปีศาจ สามารถใช้กำจัดสัตว์ร้ายโบราณได้",
+    "TR": "Hükümdarlar tarafından dövülmüş yeşim bir mızrak, kadim canavarların korkulu rüyası.",
+    "VI": "Thương hóa thân từ ma thần, có độ sắc bén và sức mạnh từ thời viễn cổ."
+  },
+  "icon": "generated/weapon-profiles/13505/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

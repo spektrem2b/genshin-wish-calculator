@@ -1,0 +1,52 @@
+{
+  "id": 15434,
+  "name": {
+    "EN": "Rainbow Serpent's Rain Bow",
+    "CHS": "虹蛇的雨弦",
+    "CHT": "虹蛇的雨弦",
+    "DE": "Regenakkorde der Regenbogenschlange",
+    "ES": "Pluvioarco de la Serpiente Arcoíris",
+    "FR": "Arc pluvial du serpent arc-en-ciel",
+    "ID": "Rainbow Serpent's Rain Bow",
+    "IT": "Arco pluviale del serpente arcobaleno",
+    "JP": "虹蛇の雨弦",
+    "KR": "무지개뱀의 현",
+    "PT": "Cordas da Chuva da Serpente Arco-Íris",
+    "RU": "Струны дождя радужного змея",
+    "TH": "Rainbow Serpent's Rain Bow",
+    "TR": "Gökkuşağı Yılanının Yağmur Yayı",
+    "VI": "Dây Mưa Của Cầu Vồng"
+  },
+  "nameEn": "Rainbow Serpent's Rain Bow",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "An ancient ceremonial weapon passed down by the Masters of the Night-Wind. This dark bow is forever wreathed in an unshakable chill.",
+    "CHS": "「烟谜主」亘古传承的仪式礼器，幽色的弓身上总是萦绕着一阵挥之不去的阴冷。",
+    "CHT": "「煙謎主」亙古傳承的儀式禮器，幽色的弓身上總是縈繞著一陣揮之不去的陰冷。",
+    "DE": "Eine rituelle Waffe des „Meisters des Nachtwinds“, über die Jahrhunderte weitergegeben. Der düstere Bogen ist stets von einer unauslöschlichen Kälte umhüllt.",
+    "ES": "Un objeto ritual de los Augures Vientonocturno heredado desde tiempos inmemoriales. Un frío imposible de quitar envuelve el cuerpo de este arco de color oscuro.",
+    "FR": "Une arme cérémonielle ancestrale transmise par les Maîtres du vent nocturne. Cet arc ténébreux est à jamais imprégné d'un froid inébranlable.",
+    "ID": "Alat upacara yang diturunkan dari generasi ke generasi oleh Penguasa Angin Malam, busurnya yang berwarna biru tua selalu diselimuti hawa dingin yang menyengat.",
+    "IT": "Un'antica arma cerimoniale tramandata dai Maestri del Vento della Notte. Questo arco oscuro è perennemente avvolto da un gelo inestinguibile.",
+    "JP": "「謎煙の主」が受け継いできた儀式の祭器。ほの暗い色の弓には、常に不気味な冷たさがつきまとう。",
+    "KR": "「연기 주인」에서 예로부터 전승되어 온 의식용 도구. 어두운 빛을 띠는 활대에는 언제나 떨쳐낼 수 없는 음산한 기운이 감돈다",
+    "PT": "Uma arma cerimonial antiga passada de geração em geração pelos Mestres do Vento Noturno. Esse arco escuro estará para sempre envolto por um frio indelével.",
+    "RU": "Церемониальное оружие, издревле передававшееся по наследству в племени Повелителей Ночного Ветра. Его древко всегда окутано неотступающим холодом.",
+    "TH": "เครื่องมือประกอบพิธีกรรมที่สืบทอดมาแต่โบราณกาลของ \"จ้าวแห่งลมราตรี\" บนตัวธนูสีมืดนี้มักรายล้อมไปด้วยไอเย็นยะเยือกที่ไม่อาจสลัดทิ้งไปได้",
+    "TR": "Gece Rüzgarının Ustalarının nesilden nesile aktardığı kadim bir tören silahı. Bu karanlık yay, sonsuza dek sarsılmaz bir soğukla sarılıdır.",
+    "VI": "Dụng cụ nghi thức của Chủ Nhân Gió Đêm được truyền lại từ thời viễn cổ, thân cung mang màu sắc u ám, luôn mang đến một cảm giác lạnh lẽo không thể xua tan."
+  },
+  "icon": "generated/weapon-profiles/15434/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

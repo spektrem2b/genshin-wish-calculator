@@ -1,0 +1,52 @@
+{
+  "id": 11511,
+  "name": {
+    "EN": "Key of Khaj-Nisut",
+    "CHS": "圣显之钥",
+    "CHT": "聖顯之鑰",
+    "DE": "Khaj-Nisut-Schlüssel",
+    "ES": "Llave de la Coronación",
+    "FR": "Clé de Khaj-Nisut",
+    "ID": "Key of Khaj-Nisut",
+    "IT": "Chiave del Khaj-Nisut",
+    "JP": "聖顕の鍵",
+    "KR": "성현의 열쇠",
+    "PT": "Chave de Hierofania",
+    "RU": "Ключ Хадж-нисут",
+    "TH": "Key of Khaj-Nisut",
+    "TR": "Khaj-Nisut Anahtarı",
+    "VI": "Chìa Khóa Khaj-Nisut"
+  },
+  "nameEn": "Key of Khaj-Nisut",
+  "type": "Kiếm Đơn",
+  "rarity": 5,
+  "description": {
+    "EN": "One of a paired set of scepters fashioned from obsidian. They say that this can be used as a key to open the gate to a paradise that lies at the end of the ocean of sand.",
+    "CHS": "黑曜石塑造的一对的权杖中的一件。在传说中，隐藏在沙海尽头的乐园门扉是由这柄密钥开启的。",
+    "CHT": "成對黑曜石權杖中的一件。傳說中，隱藏在沙海盡頭的樂園門扉就是用這柄金鑰開啟。",
+    "DE": "Eines der zwei Szepter, die aus Obsidian gefertigt wurden. In der Legende kann es als Schlüssel verwendet werden, um das Tor zu einem Paradies zu öffnen, das am Ende des Sandmeeres liegt.",
+    "ES": "Un cetro que venía junto a un báculo y que está hecho de obsidiana. Cuenta la leyenda que la puerta del paraíso oculto en los confines del desierto se abre con esta misteriosa llave.",
+    "FR": "L'un des sceptres d'une paire fabriquée à partir d'obsidiennes. On raconte qu'elle peut être utilisée comme clé pour ouvrir la porte d'un paradis qui se trouve tout au bout de l'océan de sable.",
+    "ID": "Salah satu dari sepasang tongkat yang dibuat dari obsidian. Legenda mengatakan, tongkat ini bisa digunakan sebagai kunci untuk membuka pintu tanah kebahagiaan yang tersembunyi di ujung lautan pasir.",
+    "IT": "Uno degli esemplari di una coppia di scettri forgiati in ossidiana. Si dice sia la chiave che spalancherà i cancelli di un paradiso giacente ai confini dell'oceano di sabbia.",
+    "JP": "黒曜石で形作られた一対の杖の片方。伝説によると、砂海の果てに隠された楽園への扉がこの秘密の鍵によって開かれたという。",
+    "KR": "흑요석으로 만든 한 쌍의 세크헴 중 하나. 모래바다 끝에 숨겨진 낙원의 문을 열 수 있는 열쇠라고 한다",
+    "PT": "Um dos pares de cetros feitos com obsidiana. Dizem que pode ser usado como chave para abrir a porta do paraíso escondido sob o mar de areia.",
+    "RU": "Один из пары обсидиановых скипетров. Согласно легенде, он открывает врата в рай, который сокрыт на краю песчаного моря.",
+    "TH": "หนึ่งในคู่คทาที่ทำจากออบซิเดียน ตามตำนานเล่าว่า ประตูสู่สรวงสวรรค์ที่ซ่อนอยู่ ณ จุดสิ้นสุดของทะเลทรายถูกเปิดออกโดยกุญแจดอกนี้",
+    "TR": "Obsidiyenden yapılma bir çift asanın teki. Söylenene göre kum denizinin ardındaki cennetin kapısını açmak için kullanılabilirmiş.",
+    "VI": "Một món trong bộ đôi quyền trượng tạo nên từ Hắc Diệu Thạch. Trong truyền thuyết, đây chính là chìa khóa để mở cánh cửa dẫn đến thiên đường trong tận cùng biển cát."
+  },
+  "icon": "generated/weapon-profiles/11511/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

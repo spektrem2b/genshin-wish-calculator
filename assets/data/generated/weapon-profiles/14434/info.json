@@ -1,0 +1,52 @@
+{
+  "id": 14434,
+  "name": {
+    "EN": "Dawning Frost",
+    "CHS": "霜辰",
+    "CHT": "霜辰",
+    "DE": "Froststern",
+    "ES": "Escarcha del Albor",
+    "FR": "Frimas d'aube",
+    "ID": "Dawning Frost",
+    "IT": "Brina mattutina",
+    "JP": "霜辰",
+    "KR": "서릿빛 새벽",
+    "PT": "Estrela Gelada",
+    "RU": "Рассветный иней",
+    "TH": "Dawning Frost",
+    "TR": "Sabah Ayazı",
+    "VI": "Sương Mai"
+  },
+  "nameEn": "Dawning Frost",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A silver-forged ritual vessel, pure and completely without blemish. It is said to be a sacred relic passed down for generations among the priestesses of the far north.",
+    "CHS": "纯净无垢的银锻礼器，据说曾是终北的圣女们世代传承的圣物。",
+    "CHT": "純淨無垢的銀鍛禮器，據說曾是終北的聖女們世代傳承的聖物。",
+    "DE": "Ein makelloses, aus Silber geschmiedetes Ritualgefäß, das angeblich ein Heiligtum war, welches von den Jungfern des Nordens Generation um Generation weitergegeben wurde.",
+    "ES": "Un objeto ritual plateado, puro e impoluto. Dicen que se trataba de una reliquia heredada de generación en generación entre las damas del Lejano Norte.",
+    "FR": "Un objet rituel en argent forgé, pur et sans défaut. On dit qu'il s'agissait d'une relique sacrée transmise de génération en génération parmi les prêtresses du grand nord.",
+    "ID": "Wadah upacara yang ditempa dari perak, sempurna tanpa cela. Konon di masa lalu, benda ini adalah pusaka suci yang diwariskan dari generasi ke generasi oleh para penghulu ujung utara.",
+    "IT": "Un recipiente rituale forgiato in argento, puro e immacolato. Si dice essere una reliquia sacra tramandata per generazioni dalle sacerdotesse dell'Estremo Nord.",
+    "JP": "銀を鍛えて作った、清らかな祭器。遥か北の果てに住まう聖女たちに代々、受け継がれていた聖物と伝えられている。",
+    "KR": "은으로 만든 순결한 의식용 기물. 극북의 성녀들 사이에서 대대로 전해 내려오는 성물이다",
+    "PT": "Um recipiente de ritual forjado em prata, puro e completamente imaculado. Dizem que foi uma Relíquia Sagrada passada por gerações entre sacerdotisas do norte distante.",
+    "RU": "Безупречный ритуальный сосуд, выкованный из чистого серебра. Говорят, что некогда это была священная реликвия, которую девы крайнего севера передавали друг другу из поколения в поколение.",
+    "TH": "เครื่องประกอบพิธีกรรม ที่หลอมขึ้นจากเงิน อันบริสุทธิ์ไร้มลทิน กล่าวกันว่าเคยเป็นรีลิกส์ ที่สืบทอดจากรุ่นสู่รุ่น โดยเหล่านักบุญหญิง แห่งสุดเขตแดนเหนือ",
+    "TR": "Gümüşten dövülmüş bir ayin kabı, tamamen saf ve lekesizdir. Uzak kuzeyin rahibeleri arasında nesilden nesile aktarılmış kutsal bir yadigar olduğu söylenir.",
+    "VI": "Vật nghi lễ bằng bạc thuần khiết, nghe nói từng là thánh vật được các thánh nữ phương bắc kế thừa nhiều đời."
+  },
+  "icon": "generated/weapon-profiles/14434/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

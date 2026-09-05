@@ -1,0 +1,137 @@
+{
+  "id": "10000073",
+  "name": {
+    "EN": "Nahida",
+    "CHS": "纳西妲",
+    "CHT": "納西妲",
+    "DE": "Nahida",
+    "ES": "Nahida",
+    "FR": "Nahida",
+    "ID": "Nahida",
+    "IT": "Nahida",
+    "JP": "ナヒーダ",
+    "KR": "나히다",
+    "PT": "Nahida",
+    "RU": "Нахида",
+    "TH": "Nahida",
+    "TR": "Nahida",
+    "VI": "Nahida"
+  },
+  "nameEn": "Nahida",
+  "element": "Dendro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 10,
+    "day": 27
+  },
+  "release": "2022-10-31T22:00:00",
+  "icon": "generated/character-profiles/10000073/avatar.webp",
+  "fullWish": "generated/character-profiles/10000073/full_wish.webp",
+  "fullWishObjectPosition": "52.4% 67.5%",
+  "title": {
+    "EN": "Physic of Purity",
+    "CHS": "白草净华",
+    "CHT": "白草淨華",
+    "DE": "Natürliche Reinheit",
+    "ES": "La Purificadora de las Plantas",
+    "FR": "Physique de pureté",
+    "ID": "Physic of Purity",
+    "IT": "Fisica della purezza",
+    "JP": "白草浄華",
+    "KR": "정화의 하얀 풀",
+    "PT": "Pureza Restauradora",
+    "RU": "Средоточие чистоты",
+    "TH": "พฤกษาช้อยวิสุทธิ์",
+    "TR": "Saflık Abidesi",
+    "VI": "Kết Tinh Bạch Thảo"
+  },
+  "description": {
+    "EN": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
+    "CHS": "深居净善宫的笼中之鸟，只能在梦中将世界尽收眼底。",
+    "CHT": "深居淨善宮的籠中之鳥，只能在夢中將世界盡收眼底。",
+    "DE": "Ein Vogel, der in einem Käfig im Heiligtum von Surasthana eingesperrt ist, kann die Welt nur in seinen Träumen sehen.",
+    "ES": "Un pajarito enjaulado en el Santuario Surasthana que solo puede contemplar el mundo desde sus sueños.",
+    "FR": "Une oiselle en cage isolée dans les profondeurs du Sanctuaire de Surasthana qui ne peut voir le monde que dans ses rêves.",
+    "ID": "Seorang gadis yang dikurung bak burung di dalam sangkar Sanctuary of Surasthana, hanya bisa melihat dunia dari dalam mimpi.",
+    "IT": "Un uccello rinchiuso tra le mura del Santuario di Surasthana che può vedere il mondo solo attraverso i suoi sogni.",
+    "JP": "スラサタンナ聖処に幽棲する籠の中の鳥。夢の中でしか世界を眺めることができない。",
+    "KR": "정선궁에 사는 '새장 속의 새'. 꿈속에서만 세상을 자유롭게 바라볼 수 있다",
+    "PT": "Um pássaro enjaulado no Santuário de Surasthana, que só pode contemplar o mundo através de seus sonhos.",
+    "RU": "Узница глубин Храма Сурастаны, которая созерцает мир только в сновидениях.",
+    "TH": "นกน้อยในกรงทองของวิหารแห่ง Surasthana ทำได้เพียงจ้องมองโลกใบนี้ผ่านทางความฝัน",
+    "TR": "Surasthana Mabedi içinde hapsedilmiş ve dış dünyayı yalnızca rüyalarında görebilen bir kuş.",
+    "VI": "Chim nhỏ trong lồng ở sâu trong Thánh Địa Surasthana, chỉ có thể ngắm nhìn thế giới từ trong giấc mơ."
+  },
+  "constellationName": {
+    "EN": "Sapientia Oromasdis",
+    "CHS": "智慧主座",
+    "CHT": "智慧主座",
+    "DE": "Sapientia Oromasdis",
+    "ES": "Sapientia Oromasdis",
+    "FR": "Sapientia Oromasdis",
+    "ID": "Sapientia Oromasdis",
+    "IT": "Sapientia Oromasdis",
+    "JP": "知恵の主座",
+    "KR": "지혜의 주인자리",
+    "PT": "Sapientia Oromasdis",
+    "RU": "Госпожа Мудрости",
+    "TH": "Sapientia Oromasdis",
+    "TR": "Hürmüz'ün Bilgeliği",
+    "VI": "Cung Chủ Trí Tuệ"
+  },
+  "native": {
+    "EN": "Sumeru City",
+    "CHS": "须弥城",
+    "CHT": "須彌城",
+    "DE": "Sumeru",
+    "ES": "Ciudad de Sumeru",
+    "FR": "Ville de Sumeru",
+    "ID": "Sumeru City",
+    "IT": "Città di Sumeru",
+    "JP": "スメールシティ",
+    "KR": "수메르성",
+    "PT": "Cidade de Sumeru",
+    "RU": "Сумеру",
+    "TH": "เมือง Sumeru",
+    "TR": "Sumeru Şehri",
+    "VI": "Thành Sumeru"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kimberley Anne Campbell"
+    },
+    {
+      "lang": "CHS",
+      "va": "花玲"
+    },
+    {
+      "lang": "JP",
+      "va": "田村ゆかり"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Shi-yoon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 806.5087,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 23.275,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 49.0606,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

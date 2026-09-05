@@ -1,0 +1,137 @@
+{
+  "id": "10000110",
+  "name": {
+    "EN": "Iansan",
+    "CHS": "伊安珊",
+    "CHT": "伊安珊",
+    "DE": "Iansan",
+    "ES": "Iansán",
+    "FR": "Iansan",
+    "ID": "Iansan",
+    "IT": "Iansan",
+    "JP": "イアンサ",
+    "KR": "얀사",
+    "PT": "Iansan",
+    "RU": "Иансан",
+    "TH": "Iansan",
+    "TR": "Iansan",
+    "VI": "Iansan"
+  },
+  "nameEn": "Iansan",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 8,
+    "day": 8
+  },
+  "release": "2025-03-24T22:00:00",
+  "icon": "generated/character-profiles/10000110/avatar.webp",
+  "fullWish": "generated/character-profiles/10000110/full_wish.webp",
+  "fullWishObjectPosition": "51.7% 23.7%",
+  "title": {
+    "EN": "Tempered in Molten Stone",
+    "CHS": "熔石百炼",
+    "CHT": "熔石百煉",
+    "DE": "Von geschmolzenem Gestein gehärtet",
+    "ES": "La Entrenadora Funderrocas",
+    "FR": "Forgée dans la roche volcanique",
+    "ID": "Tempered in Molten Stone",
+    "IT": "Temprata nella roccia lavica",
+    "JP": "百折不撓の熔岩",
+    "KR": "불굴의 용암",
+    "PT": "Forjada na Pedra Ardente",
+    "RU": "Непрерывная закалка",
+    "TH": "ร้อยหลอมศิลาแกร่ง",
+    "TR": "Kızgın Kayalarda Dövülmüş",
+    "VI": "Phôi Đá Bách Luyện"
+  },
+  "description": {
+    "EN": "Head coach of the fitness club at the Collective of Plenty, and a renowned Natlanese nutritionist.",
+    "CHS": "沃陆之邦健身俱乐部的总教练，闻名纳塔的营养师。",
+    "CHT": "沃陸之邦健身俱樂部的總教練，聞名納塔的營養師。",
+    "DE": "Trainingsleiterin des Fitnessklubs des Kollektivs der Fülle und berühmte Ernährungsexpertin Natlans.",
+    "ES": "La entrenadora jefa del Club de Entrenamiento de la Comunidad de la Feracidad, así como una conocida nutricionista de Natlan.",
+    "FR": "Entraîneuse principale du club de fitness du Collectif de l'abondance et nutritionniste réputée de Natlan.",
+    "ID": "Kepala pelatih di klub fitnes suku Berlimpah Jaya, merupakan seorang ahli gizi yang terkenal di Natlan.",
+    "IT": "Capoallenatrice del Club di fitness della Comunità dell'Abbondanza, nonché famosa nutrizionista di Natlan.",
+    "JP": "「豊穣の邦」トレーニングジムのトレーナー。ナタの有名な栄養士。",
+    "KR": "비옥한 터전 헬스장의 대표 코치. 나타에서 명성이 자자한 영양사이기도 하다",
+    "PT": "Treinadora-chefe do Clube de Condicionamento Físico, nutricionista renomada em Natlan.",
+    "RU": "Главный тренер спортивного клуба Удела Благодатных Земель, известный нутрициолог Натлана.",
+    "TH": "หัวหน้าโค้ชคลับออกกำลังกายแห่งเผ่าผองสรรพสิ่ง และนักโภชนาการชื่อดังของ Natlan",
+    "TR": "Bereket Kolektifindeki spor kulübünün başantrenörü ve Natlan'ın ünlü beslenme uzmanı.",
+    "VI": "Chuyên gia dinh dưỡng nổi tiếng ở Natlan, huấn luyện viên trưởng của câu lạc bộ thể hình tại Cộng Đồng Trù Phú."
+  },
+  "constellationName": {
+    "EN": "Carnotaurus",
+    "CHS": "牨龙座",
+    "CHT": "牨龍座",
+    "DE": "Carnotaurus",
+    "ES": "Carnotaurus",
+    "FR": "Carnotaurus",
+    "ID": "Carnotaurus",
+    "IT": "Carnotaurus",
+    "JP": "カルノタウルス座",
+    "KR": "카르노타우루스자리",
+    "PT": "Carnotaurus",
+    "RU": "Карнотавр",
+    "TH": "Carnotaurus",
+    "TR": "Yırtıcı Boğa",
+    "VI": "Cung Cương Long"
+  },
+  "native": {
+    "EN": "Teteocan",
+    "CHS": "特特奥坎",
+    "CHT": "特特奧坎",
+    "DE": "Teteocan",
+    "ES": "Teteocán",
+    "FR": "Teteocans",
+    "ID": "Teteocan",
+    "IT": "Teteocan",
+    "JP": "テテオカン",
+    "KR": "테테오칸",
+    "PT": "Teteocan",
+    "RU": "Тетеокан",
+    "TH": "Teteocan",
+    "TR": "Teteocan",
+    "VI": "Teteocan"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Katrina Salisbury"
+    },
+    {
+      "lang": "CHS",
+      "va": "真理"
+    },
+    {
+      "lang": "JP",
+      "va": "大橋彩香"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Jae-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 893.5552,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 21.54768,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 53.505375,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000070",
+  "name": {
+    "EN": "Nilou",
+    "CHS": "妮露",
+    "CHT": "妮露",
+    "DE": "Nilou",
+    "ES": "Nilou",
+    "FR": "Nilou",
+    "ID": "Nilou",
+    "IT": "Nilou",
+    "JP": "ニィロウ",
+    "KR": "닐루",
+    "PT": "Nilou",
+    "RU": "Нилу",
+    "TH": "Nilou",
+    "TR": "Nilou",
+    "VI": "Nilou"
+  },
+  "nameEn": "Nilou",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 12,
+    "day": 3
+  },
+  "release": "2022-10-14T15:00:00",
+  "icon": "generated/character-profiles/10000070/avatar.webp",
+  "fullWish": "generated/character-profiles/10000070/full_wish.webp",
+  "fullWishObjectPosition": "48.8% 27.6%",
+  "title": {
+    "EN": "Dance of Lotuslight",
+    "CHS": "莲光落舞筵",
+    "CHT": "蓮光落舞筵",
+    "DE": "Lotoslicht auf der Tanzbühne",
+    "ES": "La Bailarina de los Lotos",
+    "FR": "Danseuse du lotus lumineux",
+    "ID": "Dance of Lotuslight",
+    "IT": "Danza della luce di loto",
+    "JP": "絨毯に舞い落ちる蓮光",
+    "KR": "무대에 내려앉은 연꽃",
+    "PT": "Dança da Luz de Lótus",
+    "RU": "Танец лотоса",
+    "TH": "ระบำนิโลตบลพรายแสง",
+    "TR": "Nilüfer Işığı Dansı",
+    "VI": "Vũ Điệu Ánh Sen"
+  },
+  "description": {
+    "EN": "The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.",
+    "CHS": "祖拜尔剧场的知名舞者，舞姿灵动优美，为人纯真亲善。",
+    "CHT": "祖拜爾劇場的知名舞者，舞姿靈動優美，為人純真親善。",
+    "DE": "Die berühmte Tänzerin des Theaters Zubayr. Sie hat ein reines Herz und ist voller Wärme. Ihre Tänze sind elegant und anmutig.",
+    "ES": "La famosa bailarina del Teatro Zubayr. Su estilo de danza es elegante y agraciado, y posee un carácter puro y bondadoso.",
+    "FR": "La star du théâtre Zubayr. Pleines de chaleur et d'innocence, ses danses sont vives et élégantes.",
+    "ID": "Penari terkenal di Teater Zubayr. Tariannya elegan dan gemulai, pembawaannya ramah dan polos.",
+    "IT": "La stella del Teatro Zubayr. Una fanciulla piena di calore e innocenza, che si esibisce in danze vivaci ed eleganti.",
+    "JP": "「ズバイルシアター」の噂に名高い踊り子。そのダンスはしなやかで美しく、彼女自身も優しく純粋な心で人と接する。",
+    "KR": "주바이르 극장의 유명한 무용수. 아름답고 부드러운 움직임을 지녔고, 순수하고도 상냥한 마음으로 사람들을 대한다",
+    "PT": "A Estrela do Teatro Zubayr, ela é bondosa e inocente. Seu estilo de dança é alegre e elegante.",
+    "RU": "Знаменитая танцовщица Театра Зубаира. Изящная красавица с чистой и открытой душой.",
+    "TH": "นักเต้นรำผู้แสนโด่งดังของโรงละคร Zubayr มีท่วงท่าที่คล่องแคล่วและสง่างาม ให้ความรู้สึกที่ทั้งบริสุทธิ์และเป็นมิตร",
+    "TR": "Zubayr Tiyatrosunun yıldızı. Oldukça samimi ve saf olmakla birlikte dansı da hareketli ve zariftir.",
+    "VI": "Vũ công nổi danh của Nhà Hát Zubayr, điệu nhảy sống động và tính cách hồn nhiên ấm áp."
+  },
+  "constellationName": {
+    "EN": "Lotos Somno",
+    "CHS": "睡莲座",
+    "CHT": "睡蓮座",
+    "DE": "Lotos Somno",
+    "ES": "Lotos Somno",
+    "FR": "Lotos Somno",
+    "ID": "Lotos Somno",
+    "IT": "Lotos Somno",
+    "JP": "睡蓮座",
+    "KR": "수련자리",
+    "PT": "Lotos Somno",
+    "RU": "Водяная Лилия",
+    "TH": "Lotos Somno",
+    "TR": "Nilüferin Uykusu",
+    "VI": "Cung Thụy Liên"
+  },
+  "native": {
+    "EN": "Zubayr Theater",
+    "CHS": "祖拜尔剧场",
+    "CHT": "祖拜爾劇場",
+    "DE": "Theater Zubayr",
+    "ES": "Teatro Zubayr",
+    "FR": "Théatre Zubayr",
+    "ID": "Zubayr Theater",
+    "IT": "Teatro Zubayr",
+    "JP": "ズバイルシアター",
+    "KR": "주바이르 극장",
+    "PT": "Teatro Zubayr",
+    "RU": "Театр Зубаира",
+    "TH": "Zubayr Theater",
+    "TR": "Zubayr Tiyatrosu",
+    "VI": "Nhà Hát Zubayr"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Dani Chambers"
+    },
+    {
+      "lang": "CHS",
+      "va": "紫苏九月"
+    },
+    {
+      "lang": "JP",
+      "va": "金元寿子"
+    },
+    {
+      "lang": "KR",
+      "va": "Chae Rim"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1182.1168,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.8752,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 56.71884,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

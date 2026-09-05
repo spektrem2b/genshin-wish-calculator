@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://spektrem2b.goatcounter.com; base-uri 'self'; form-action 'self'; object-src 'none';">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - Genshin Wish Calculator</title>
+<meta name="description" content="Privacy policy for the Genshin Wish Calculator. No account system, no personal data collection. Everything you enter stays on your device.">
+<link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/privacy.html">
+<link rel="stylesheet" href="css/styles.883eb2ec.css">
+<style>
+  .legal-page { max-width: 700px; margin: 0 auto; padding: 40px 20px; line-height: 1.6; }
+  .legal-page h1 { margin-bottom: 4px; }
+  .legal-page .updated { opacity: 0.6; font-size: 0.9em; margin-bottom: 24px; }
+  .legal-page h2 { margin-top: 28px; }
+  .legal-page a { text-decoration: underline; color: #8ab4f8; }
+  .legal-page .back { display: inline-block; margin-top: 32px; }
+  .legal-page .links { margin-top: 12px; opacity: 0.75; font-size: 0.9em; }
+</style>
+</head>
+<body>
+<div class="legal-page">
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated: September 2026 (removed Teams tab clauses, feature discontinued)</p>
+
+  <p>Genshin Wish Calculator does not require an account, and does not collect or store any personal data on any server. Calculation inputs are sent to a backend script only to compute results (see below) and are not retained.</p>
+
+  <h2>What stays on your device</h2>
+  <p>Any information you enter (pity counts, inventory, build data, saved settings) is stored using your browser's <code>localStorage</code>. This data never leaves your device and is never sent to any server, except where this page says otherwise (Forecast calculations, below). Clearing your browser data or using a different browser/device will remove it.</p>
+
+  <h2>Forecast calculations</h2>
+  <p>When you click "Calculate" on a wish forecast, the inputs behind that calculation (pity counts, target list, income settings, and similar) are sent to a small backend script (a Cloudflare Worker) run by this site's owner, which performs the math and returns the result. This happens only when you click Calculate, not continuously and not in the background.</p>
+  <p>The Worker does not store these inputs; each request is processed and discarded. To prevent abuse (e.g. automated scripts hammering the calculator), the Worker briefly and temporarily records the requesting IP address to enforce a rate limit; this is not linked to any profile or identity and is not retained beyond that short window.</p>
+  <p>To avoid re-sending the same calculation repeatedly, recent results are cached locally in your browser via <code>localStorage</code> (see above); this cache never leaves your device.</p>
+
+  <h2>Google Drive Sync</h2>
+  <p>The Settings tab lets you optionally back up your local calculator data (pity, inventory, and similar) to your own Google Drive, so it can be restored on another device.</p>
+  <p>Sync is off by default and only activates if you explicitly sign in and press Connect/Sync — it never runs automatically, including on page load. Your data goes directly from your browser to your Google Drive account using Google's own APIs; this site's servers/Worker never see or store a copy of it. The connection also isn't remembered between visits: closing the tab or reloading the page requires signing in again, since no token is ever saved to your device.</p>
+  <p>The app requests the narrow <code>drive.appdata</code> Google permission, which is even more restricted than a normal app folder: it can only read/write one hidden file in a special app-data area that isn't visible in your regular Google Drive at all, and isn't reachable by any other app. It cannot see, list, or touch anything else in your Drive. Disconnecting the app from your Google account does not automatically delete that hidden file; you'd need to remove it via your <a href="https://myaccount.google.com/permissions" target="_blank" rel="noopener">Google Account's connected-apps settings</a>.</p>
+
+  <h2>Third-party data sources</h2>
+  <p>To show up-to-date game data, this site pulls publicly available information from:</p>
+  <ul>
+    <li><a href="https://github.com/seriaati/ambr" target="_blank" rel="noopener">ambr-py</a>: character, weapon, and banner data</li>
+    <li><a href="https://ennead.cc" target="_blank" rel="noopener">Ennead.cc</a>: event calendar data</li>
+    <li><a href="https://hashblen.com" target="_blank" rel="noopener">Hashblen</a>: redeem code data</li>
+  </ul>
+  <p>These requests happen from your browser directly to those services to display data on the page; no personal information is sent as part of them beyond standard, anonymous HTTP request info (which is normal for any web request and outside this site's control).</p>
+
+  <h2>Analytics</h2>
+  <p>This site uses <a href="https://www.goatcounter.com/" target="_blank" rel="noopener">GoatCounter</a> to see basic, anonymous visit counts (e.g. how many people visit, and roughly which pages). It does not use cookies, does not store your IP address, and does not build any profile of you across visits or sites. This is only used to see whether the site is being used at all; it plays no role in the calculator's functionality.</p>
+
+  <h2>Hosting</h2>
+  <p>This site is hosted on GitHub Pages, which may log basic, anonymized request data (e.g. IP address, timestamp) for infrastructure and security purposes, as is standard for any web host. This site's owner does not have access to personally identifying analytics.</p>
+
+  <h2>Changes</h2>
+  <p>If this policy ever changes, this page will be updated to reflect that.</p>
+
+  <h2>Discord</h2>
+  <p><strong>Spektrem2b</strong></p>
+
+  <p style="opacity:0.6; font-size:0.85em; margin-top:8px;">Unofficial fan-made tool. Not affiliated with or endorsed by HoYoverse/miHoYo. Genshin Impact and all related names, characters, and assets are trademarks and copyrights of HoYoverse/miHoYo.</p>
+  <a class="back" href="index.html">← Back to calculator</a>
+  <div class="links">
+    <a href="privacy.html">Privacy Policy</a> • <a href="terms.html">Terms of Use</a> • <a href="contact.html">Contact</a> • <a href="credits.html">Credits</a>
+  </div>
+</div>
+  <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body>
+</html>

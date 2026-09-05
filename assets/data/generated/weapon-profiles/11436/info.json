@@ -1,0 +1,52 @@
+{
+  "id": 11436,
+  "name": {
+    "EN": "Emberwell",
+    "CHS": "引火之源",
+    "CHT": "引火之源",
+    "DE": "Flammenquelle",
+    "ES": "Fuente de Ignición",
+    "FR": "Puits-de-braises",
+    "ID": "Emberwell",
+    "IT": "Fonte ignea",
+    "JP": "導炎の源",
+    "KR": "불꽃의 인도자",
+    "PT": "Fonte da Ignição",
+    "RU": "Источник пламени",
+    "TH": "Emberwell",
+    "TR": "Kor Pınarı",
+    "VI": "Ngọn Nguồn Dẫn Lửa"
+  },
+  "nameEn": "Emberwell",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A longsword that is entirely gemstone, said to be crafted for the path of righteousness. When unsheathed, it glows with the luster of blue flame.",
+    "CHS": "以宝石为身的长剑，据闻是为了正义的道途而打造，出鞘时会流溢蓝色火焰的光泽。",
+    "CHT": "以寶石為身的長劍，據聞是為了正義的道途而打造，出鞘時會流溢藍色火焰的光澤。",
+    "DE": "Ein Langschwert aus Edelstein, das angeblich für den Weg der Gerechtigkeit geschmiedet wurde. Beim Ziehen aus der Scheide leuchtet es in blauen Flammen.",
+    "ES": "Una espada larga cuyo filo es una gema y que, según dicen, fue forjada en pos de la justicia. Al desenvainarla, emite el resplandor de unas llamas azules.",
+    "FR": "Une épée longue entièrement faite de pierres précieuses, forgée, dit-on, pour la voie de la droiture. Dégainée, elle resplendit d'un éclat de flamme bleue.",
+    "ID": "Pedang yang bilahnya terbuat dari permata. Konon ditempa demi jalan kebenaran. Saat dihunuskan, cahaya nyala api biru akan memancar darinya.",
+    "IT": "Una spada lunga interamente forgiata con pietre preziose, si dice che sia stata forgiata per il sentiero della rettitudine. Una volta sguainata, risplende del bagliore di una fiamma blu.",
+    "JP": "宝石を刀身とする長剣。正義のために作られたとされ、鞘から抜くと青い炎の輝きが溢れ出す。",
+    "KR": "보석으로 만든 장검. 정의로운 길을 걷는 자를 위해 만들어졌다고 전해지며, 검을 뽑으면 푸른 불꽃이 흐른다",
+    "PT": "Uma espada longa feita de gemas, dizem que foi feita para o caminho da justiça. Quando desembainhada, brilha como uma chama azul.",
+    "RU": "Длинный меч, целиком сделанный из самоцвета. Говорят, он был выкован для пути справедливости. Когда его вынимают из ножен, он сияет синим пламенем.",
+    "TH": "ดาบยาวที่ตัวดาบทำจากอัญมณี ว่ากันว่าถูกสร้างขึ้นเพื่อวิถีแห่งความยุติธรรม เมื่อชักดาบออกจากฝัก จะเปล่งประกายไปด้วยเปลวไฟสีฟ้า",
+    "TR": "Doğruluk yolu için dövüldüğü söylenen, tamamen değerli taştan yapılma uzun kılıç. Kınından çıkarıldığında mavi alevin ışıltısıyla parlar.",
+    "VI": "Thanh kiếm dài có thân làm từ đá quý, tương truyền được rèn ra vì con đường chính nghĩa, khi rút khỏi vỏ sẽ tỏa ra ánh sáng của ngọn lửa màu xanh lam."
+  },
+  "icon": "generated/weapon-profiles/11436/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

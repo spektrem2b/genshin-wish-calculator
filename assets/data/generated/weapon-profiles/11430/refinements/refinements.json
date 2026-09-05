@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Trapper's Pride",
+    "CHS": "陷阵者的自矜",
+    "CHT": "陷陣者的自矜",
+    "DE": "Stolz des Stürmers",
+    "ES": "Orgullo del trampero",
+    "FR": "Orgueil du trappeur",
+    "ID": "Trapper's Pride",
+    "IT": "Orgoglio del capocaccia",
+    "JP": "陣を落とした者の自矜",
+    "KR": "돌격자의 자부심",
+    "PT": "Orgulho do Armador",
+    "RU": "Бахвальство ловчего",
+    "TH": "Trapper's Pride",
+    "TR": "Öncü Gururu",
+    "VI": "Niềm Kiêu Hãnh Của Kẻ Đặt Bẫy"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 16% of ATK. This effect expires after triggering 18 times or 7s.",
+        "CHS": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的16%，该效果在生效18次或7秒后消失。",
+        "CHT": "衝刺或替代衝刺的能力消耗的體力降低15%；此外，使用衝刺或替代衝刺的能力後，普通攻擊造成的傷害提高，提高數值相當於攻擊力的16%，該效果在生效18次或7秒後消失。",
+        "DE": "#Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 16 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+        "ES": "#El Coste de Aguante de esprintar o de otras habilidades que sustituyen a esprintar se reduce en un 15%. Además, al esprintar o usar una habilidad que lo sustituya, el daño del Ataque Normal aumenta en una cantidad equivalente al 16% del ATQ. Este efecto se anula tras activarse 18 veces o después de 7 s.",
+        "FR": "La consommation d'endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d'une valeur équivalant à 16 % de l'ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+        "ID": "Konsumsi Stamina Sprint atau Alternate Sprint berkurang 15%. Selain itu, setelah menggunakan Sprint atau Alternate Sprint, DMG Normal Attack meningkat sebesar 16% ATK, efek ini akan hilang setelah efektif 18 kali atau setelah 7 detik kemudian.",
+        "IT": "#Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 16% dell'ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+        "JP": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の16%分アップする。この効果は18回発動または7秒後にクリアされる。",
+        "KR": "대시 또는 대시를 대체한 능력이 소모하는 스태미나가 15% 감소한다. 또한 대시 또는 대시를 대체한 능력 사용 후, 일반 공격으로 주는 피해가 공격력의 16%만큼 증가한다. 해당 효과는 18회 발동 또는 7초 후 사라진다",
+        "PT": "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 16% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+        "RU": "Спринт или заменяющие его навыки расходуют на 15% выносливости меньше. Кроме того, после использования спринта или заменяющего его навыка урон обычной атаки повышается на 16% от силы атаки. Эффект исчезает после 18 активаций или через 7 сек.",
+        "TH": "การใช้พลังกายของการวิ่งหรือใช้สกิลเคลื่อนที่ ลดลง 15%; นอกจากนี้หลังจากที่วิ่งหรือใช้สกิลเคลื่อนที่แล้ว การโจมตีปกติจะสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มขึ้นจะเท่ากับ 16% ของพลังโจมตี เอฟเฟกต์นี้จะหายไปหลังจากมีผล 18 ครั้ง หรือผ่านไป 7 วินาที",
+        "TR": "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %16'sı kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+        "VI": "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 16% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 20% of ATK. This effect expires after triggering 18 times or 7s.",
+        "CHS": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的20%，该效果在生效18次或7秒后消失。",
+        "CHT": "衝刺或替代衝刺的能力消耗的體力降低15%；此外，使用衝刺或替代衝刺的能力後，普通攻擊造成的傷害提高，提高數值相當於攻擊力的20%，該效果在生效18次或7秒後消失。",
+        "DE": "#Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 20 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+        "ES": "#El Coste de Aguante de esprintar o de otras habilidades que sustituyen a esprintar se reduce en un 15%. Además, al esprintar o usar una habilidad que lo sustituya, el daño del Ataque Normal aumenta en una cantidad equivalente al 20% del ATQ. Este efecto se anula tras activarse 18 veces o después de 7 s.",
+        "FR": "La consommation d'endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d'une valeur équivalant à 20 % de l'ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+        "ID": "Konsumsi Stamina Sprint atau Alternate Sprint berkurang 15%. Selain itu, setelah menggunakan Sprint atau Alternate Sprint, DMG Normal Attack meningkat sebesar 20% ATK, efek ini akan hilang setelah efektif 18 kali atau setelah 7 detik kemudian.",
+        "IT": "#Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 20% dell'ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+        "JP": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の20%分アップする。この効果は18回発動または7秒後にクリアされる。",
+        "KR": "대시 또는 대시를 대체한 능력이 소모하는 스태미나가 15% 감소한다. 또한 대시 또는 대시를 대체한 능력 사용 후, 일반 공격으로 주는 피해가 공격력의 20%만큼 증가한다. 해당 효과는 18회 발동 또는 7초 후 사라진다",
+        "PT": "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 20% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+        "RU": "Спринт или заменяющие его навыки расходуют на 15% выносливости меньше. Кроме того, после использования спринта или заменяющего его навыка урон обычной атаки повышается на 20% от силы атаки. Эффект исчезает после 18 активаций или через 7 сек.",
+        "TH": "การใช้พลังกายของการวิ่งหรือใช้สกิลเคลื่อนที่ ลดลง 15%; นอกจากนี้หลังจากที่วิ่งหรือใช้สกิลเคลื่อนที่ แล้ว การโจมตีปกติจะสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มขึ้นจะเท่ากับ 20% ของพลังโจมตี เอฟเฟกต์นี้จะหายไปหลังจากมีผล 18 ครั้ง หรือผ่านไป 7 วินาที",
+        "TR": "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %20'si kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+        "VI": "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 20% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 24% of ATK. This effect expires after triggering 18 times or 7s.",
+        "CHS": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的24%，该效果在生效18次或7秒后消失。",
+        "CHT": "衝刺或替代衝刺的能力消耗的體力降低15%；此外，使用衝刺或替代衝刺的能力後，普通攻擊造成的傷害提高，提高數值相當於攻擊力的24%，該效果在生效18次或7秒後消失。",
+        "DE": "#Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 24 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+        "ES": "#El Coste de Aguante de esprintar o de otras habilidades que sustituyen a esprintar se reduce en un 15%. Además, al esprintar o usar una habilidad que lo sustituya, el daño del Ataque Normal aumenta en una cantidad equivalente al 24% del ATQ. Este efecto se anula tras activarse 18 veces o después de 7 s.",
+        "FR": "La consommation d'endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d'une valeur équivalant à 24 % de l'ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+        "ID": "Konsumsi Stamina Sprint atau Alternate Sprint berkurang 15%. Selain itu, setelah menggunakan Sprint atau Alternate Sprint, DMG Normal Attack meningkat sebesar 24% ATK, efek ini akan hilang setelah efektif 18 kali atau setelah 7 detik kemudian.",
+        "IT": "#Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 24% dell'ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+        "JP": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の24%分アップする。この効果は18回発動または7秒後にクリアされる。",
+        "KR": "대시 또는 대시를 대체한 능력이 소모하는 스태미나가 15% 감소한다. 또한 대시 또는 대시를 대체한 능력 사용 후, 일반 공격으로 주는 피해가 공격력의 24%만큼 증가한다. 해당 효과는 18회 발동 또는 7초 후 사라진다",
+        "PT": "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 24% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+        "RU": "Спринт или заменяющие его навыки расходуют на 15% выносливости меньше. Кроме того, после использования спринта или заменяющего его навыка урон обычной атаки повышается на 24% от силы атаки. Эффект исчезает после 18 активаций или через 7 сек.",
+        "TH": "การใช้พลังกายของการวิ่งหรือใช้สกิลเคลื่อนที่ ลดลง 15%; นอกจากนี้หลังจากที่วิ่งหรือใช้สกิลเคลื่อนที่ แล้ว การโจมตีปกติจะสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มขึ้นจะเท่ากับ 24% ของพลังโจมตี เอฟเฟกต์นี้จะหายไปหลังจากมีผล 18 ครั้ง หรือผ่านไป 7 วินาที",
+        "TR": "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %24'ü kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+        "VI": "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 24% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 28% of ATK. This effect expires after triggering 18 times or 7s.",
+        "CHS": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的28%，该效果在生效18次或7秒后消失。",
+        "CHT": "衝刺或替代衝刺的能力消耗的體力降低15%；此外，使用衝刺或替代衝刺的能力後，普通攻擊造成的傷害提高，提高數值相當於攻擊力的28%，該效果在生效18次或7秒後消失。",
+        "DE": "#Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 28 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+        "ES": "#El Coste de Aguante de esprintar o de otras habilidades que sustituyen a esprintar se reduce en un 15%. Además, al esprintar o usar una habilidad que lo sustituya, el daño del Ataque Normal aumenta en una cantidad equivalente al 28% del ATQ. Este efecto se anula tras activarse 18 veces o después de 7 s.",
+        "FR": "La consommation d'endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d'une valeur équivalant à 28 % de l'ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+        "ID": "Konsumsi Stamina Sprint atau Alternate Sprint berkurang 15%. Selain itu, setelah menggunakan Sprint atau Alternate Sprint, DMG Normal Attack meningkat sebesar 28% ATK, efek ini akan hilang setelah efektif 18 kali atau setelah 7 detik kemudian.",
+        "IT": "#Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 28% dell'ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+        "JP": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の28%分アップする。この効果は18回発動または7秒後にクリアされる。",
+        "KR": "대시 또는 대시를 대체한 능력이 소모하는 스태미나가 15% 감소한다. 또한 대시 또는 대시를 대체한 능력 사용 후, 일반 공격으로 주는 피해가 공격력의 28%만큼 증가한다. 해당 효과는 18회 발동 또는 7초 후 사라진다",
+        "PT": "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 28% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+        "RU": "Спринт или заменяющие его навыки расходуют на 15% выносливости меньше. Кроме того, после использования спринта или заменяющего его навыка урон обычной атаки повышается на 28% от силы атаки. Эффект исчезает после 18 активаций или через 7 сек.",
+        "TH": "การใช้พลังกายของการวิ่งหรือใช้สกิลเคลื่อนที่ ลดลง 15%; นอกจากนี้หลังจากที่วิ่งหรือใช้สกิลเคลื่อนที่ แล้ว การโจมตีปกติจะสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มขึ้นจะเท่ากับ 28% ของพลังโจมตี เอฟเฟกต์นี้จะหายไปหลังจากมีผล 18 ครั้ง หรือผ่านไป 7 วินาที",
+        "TR": "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %28'i kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+        "VI": "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 28% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 32% of ATK. This effect expires after triggering 18 times or 7s.",
+        "CHS": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的32%，该效果在生效18次或7秒后消失。",
+        "CHT": "衝刺或替代衝刺的能力消耗的體力降低15%；此外，使用衝刺或替代衝刺的能力後，普通攻擊造成的傷害提高，提高數值相當於攻擊力的32%，該效果在生效18次或7秒後消失。",
+        "DE": "#Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 32 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+        "ES": "#El Coste de Aguante de esprintar o de otras habilidades que sustituyen a esprintar se reduce en un 15%. Además, al esprintar o usar una habilidad que lo sustituya, el daño del Ataque Normal aumenta en una cantidad equivalente al 32% del ATQ. Este efecto se anula tras activarse 18 veces o después de 7 s.",
+        "FR": "La consommation d'endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d'une valeur équivalant à 32 % de l'ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+        "ID": "Konsumsi Stamina Sprint atau Alternate Sprint berkurang 15%. Selain itu, setelah menggunakan Sprint atau Alternate Sprint, DMG Normal Attack meningkat sebesar 32% ATK, efek ini akan hilang setelah efektif 18 kali atau setelah 7 detik kemudian.",
+        "IT": "#Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 32% dell'ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+        "JP": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の32%分アップする。この効果は18回発動または7秒後にクリアされる。",
+        "KR": "대시 또는 대시를 대체한 능력이 소모하는 스태미나가 15% 감소한다. 또한 대시 또는 대시를 대체한 능력 사용 후, 일반 공격으로 주는 피해가 공격력의 32%만큼 증가한다. 해당 효과는 18회 발동 또는 7초 후 사라진다",
+        "PT": "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 32% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+        "RU": "Спринт или заменяющие его навыки расходуют на 15% выносливости меньше. Кроме того, после использования спринта или заменяющего его навыка урон обычной атаки повышается на 32% от силы атаки. Эффект исчезает после 18 активаций или через 7 сек.",
+        "TH": "การใช้พลังกายของการวิ่งหรือใช้สกิลเคลื่อนที่ ลดลง 15%; นอกจากนี้หลังจากที่วิ่งหรือใช้สกิลเคลื่อนที่ แล้ว การโจมตีปกติจะสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มขึ้นจะเท่ากับ 32% ของพลังโจมตี เอฟเฟกต์นี้จะหายไปหลังจากมีผล 18 ครั้ง หรือผ่านไป 7 วินาที",
+        "TR": "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %32'si kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+        "VI": "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 32% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s."
+      }
+    }
+  ]
+}

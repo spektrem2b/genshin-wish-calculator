@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Journey",
+    "CHS": "旅程",
+    "CHT": "旅程",
+    "DE": "Reise",
+    "ES": "Viaje",
+    "FR": "Voyage",
+    "ID": "Journey",
+    "IT": "Viaggio",
+    "JP": "旅路",
+    "KR": "여정",
+    "PT": "Jornada",
+    "RU": "Путешествие",
+    "TH": "Journey",
+    "TR": "Yolculuk",
+    "VI": "Hành Trình"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Each Elemental Orb or Particle collected restores 1% HP.",
+        "CHS": "获得元素晶球或元素微粒时，恢复1%生命值。",
+        "CHT": "獲得元素晶球或元素微粒時，恢復1%生命值。",
+        "DE": "Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen 1 % LP wieder her.",
+        "ES": "Restaura un 1% de Vida al obtener un orbe o partícula elemental.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus restaurent 1 % des PV.",
+        "ID": "Mengambil Elemental Energy Orb/Particle memulihkan 1% HP.",
+        "IT": "Ogni sfera elementale o particella raccolta ripristina un 1% di PS.",
+        "JP": "元素オーブまたは元素粒子を獲得した時、HPを1%回復する。",
+        "KR": "원소 구슬 또는 원소 입자를 획득 시 HP를 1% 회복한다",
+        "PT": "Cada Orbe ou Partícula Elemental coletada restaura 1% da Vida.",
+        "RU": "Подобранные элементальные сферы и частицы восстанавливают 1% HP.",
+        "TH": "เมื่อเก็บลูกแก้ว/อณูธาตุ จะฟื้นฟู HP 1%",
+        "TR": "Toplanan her Element Küresi veya Parçacığı %1 Can yeniler.",
+        "VI": "Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục 1%HP"
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Each Elemental Orb or Particle collected restores 1.25% HP.",
+        "CHS": "获得元素晶球或元素微粒时，恢复1.25%生命值。",
+        "CHT": "獲得元素晶球或元素微粒時，恢復1.25%生命值。",
+        "DE": "Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen 1,25 % LP wieder her.",
+        "ES": "Restaura un 1.25% de Vida al obtener un orbe o partícula elemental.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus restaurent 1,25 % des PV.",
+        "ID": "Mengambil Elemental Energy Orb/Particle memulihkan 1.25% HP.",
+        "IT": "Ogni sfera elementale o particella raccolta ripristina un 1,25% di PS.",
+        "JP": "元素オーブまたは元素粒子を獲得した時、HPを1.25%回復する。",
+        "KR": "원소 구슬 또는 원소 입자를 획득 시 HP를 1.25% 회복한다",
+        "PT": "Cada Orbe ou Partícula Elemental coletada restaura 1.25% da Vida.",
+        "RU": "Подобранные элементальные сферы и частицы восстанавливают 1,25% HP.",
+        "TH": "เมื่อเก็บลูกแก้ว/อณูธาตุ จะฟื้นฟู HP 1.25%",
+        "TR": "Toplanan her Element Küresi veya Parçacığı %1,25 Can yeniler.",
+        "VI": "Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục 1.25%HP"
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Each Elemental Orb or Particle collected restores 1.5% HP.",
+        "CHS": "获得元素晶球或元素微粒时，恢复1.5%生命值。",
+        "CHT": "獲得元素晶球或元素微粒時，恢復1.5%生命值。",
+        "DE": "Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen 1,5 % LP wieder her.",
+        "ES": "Restaura un 1.5% de Vida al obtener un orbe o partícula elemental.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus restaurent 1,5 % des PV.",
+        "ID": "Mengambil Elemental Energy Orb/Particle memulihkan 1.5% HP.",
+        "IT": "Ogni sfera elementale o particella raccolta ripristina un 1,5% di PS.",
+        "JP": "元素オーブまたは元素粒子を獲得した時、HPを1.5%回復する。",
+        "KR": "원소 구슬 또는 원소 입자를 획득 시 HP를 1.5% 회복한다",
+        "PT": "Cada Orbe ou Partícula Elemental coletada restaura 1.5% da Vida.",
+        "RU": "Подобранные элементальные сферы и частицы восстанавливают 1,5% HP.",
+        "TH": "เมื่อเก็บลูกแก้ว/อณูธาตุ จะฟื้นฟู HP 1.5%",
+        "TR": "Toplanan her Element Küresi veya Parçacığı %1,5 Can yeniler.",
+        "VI": "Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục 1.5%HP"
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Each Elemental Orb or Particle collected restores 1.75% HP.",
+        "CHS": "获得元素晶球或元素微粒时，恢复1.75%生命值。",
+        "CHT": "獲得元素晶球或元素微粒時，恢復1.75%生命值。",
+        "DE": "Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen 1,75 % LP wieder her.",
+        "ES": "Restaura un 1.75% de Vida al obtener un orbe o partícula elemental.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus restaurent 1,75 % des PV.",
+        "ID": "Mengambil Elemental Energy Orb/Particle memulihkan 1.75% HP.",
+        "IT": "Ogni sfera elementale o particella raccolta ripristina un 1,75% di PS.",
+        "JP": "元素オーブまたは元素粒子を獲得した時、HPを1.75%回復する。",
+        "KR": "원소 구슬 또는 원소 입자를 획득 시 HP를 1.75% 회복한다",
+        "PT": "Cada Orbe ou Partícula Elemental coletada restaura 1.75% da Vida.",
+        "RU": "Подобранные элементальные сферы и частицы восстанавливают 1,75% HP.",
+        "TH": "เมื่อเก็บลูกแก้ว/อณูธาตุ จะฟื้นฟู HP 1.75%",
+        "TR": "Toplanan her Element Küresi veya Parçacığı %1,75 Can yeniler.",
+        "VI": "Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục 1.75%HP"
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Each Elemental Orb or Particle collected restores 2% HP.",
+        "CHS": "获得元素晶球或元素微粒时，恢复2%生命值。",
+        "CHT": "獲得元素晶球或元素微粒時，恢復2%生命值。",
+        "DE": "Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen 2 % LP wieder her.",
+        "ES": "Restaura un 2% de Vida al obtener un orbe o partícula elemental.",
+        "FR": "Chaque particule ou orbe élémentaires obtenus restaurent 2 % des PV.",
+        "ID": "Mengambil Elemental Energy Orb/Particle memulihkan 2% HP.",
+        "IT": "Ogni sfera elementale o particella raccolta ripristina un 2% di PS.",
+        "JP": "元素オーブまたは元素粒子を獲得した時、HPを2%回復する。",
+        "KR": "원소 구슬 또는 원소 입자를 획득 시 HP를 2% 회복한다",
+        "PT": "Cada Orbe ou Partícula Elemental coletada restaura 2% da Vida.",
+        "RU": "Подобранные элементальные сферы и частицы восстанавливают 2% HP.",
+        "TH": "เมื่อเก็บลูกแก้ว/อณูธาตุ จะฟื้นฟู HP 2%",
+        "TR": "Toplanan her Element Küresi veya Parçacığı %2 Can yeniler.",
+        "VI": "Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục 2%HP"
+      }
+    }
+  ]
+}

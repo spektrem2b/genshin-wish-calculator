@@ -1,0 +1,52 @@
+{
+  "id": 13517,
+  "name": {
+    "EN": "Disaster and Remorse",
+    "CHS": "灾悔",
+    "CHT": "災悔",
+    "DE": "Katastrophe und Reue",
+    "ES": "Desastre y Arrepentimiento",
+    "FR": "Désastre et remords",
+    "ID": "Disaster and Remorse",
+    "IT": "Disastro e rimorso",
+    "JP": "災憾",
+    "KR": "재앙",
+    "PT": "Desastre e Remorso",
+    "RU": "Бедствие и раскаяние",
+    "TH": "Disaster and Remorse",
+    "TR": "Felaket ve Pişmanlık",
+    "VI": "Tai Họa Và Hối Hận"
+  },
+  "nameEn": "Disaster and Remorse",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A polearm forged from Whitestone and Starsilver. Its keen point is constantly enveloped in a bone-piercing chill.",
+    "CHS": "白石与星银铸成的长枪，锋锐的尖刃上总是萦缠着刺骨的寒意。",
+    "CHT": "白石與星銀鑄成的長槍，鋒銳的尖刃上總是縈纏著刺骨的寒意。",
+    "DE": "Ein aus Marmor und Sternsilber geschmiedeter Speer, dessen scharfe Klinge stets von beißender Kälte umhüllt ist.",
+    "ES": "Una lanza forjada con roca blanca y argento estelar. Su afilada punta está envuelta por un perpetuo frío punzante.",
+    "FR": "Une arme d'hast forgée à partir d'argétoile et de pierre blanche. Sa pointe acérée est constamment enveloppée d'un froid perçant.",
+    "ID": "Tombak panjang yang ditempa dari batu putih dan Starsilver. Ujungnya yang tajam selalu diliputi hawa dingin yang menusuk tulang.",
+    "IT": "Una lancia forgiata in Pietrabianca e Argento astrale. La sua punta affilata è costantemente avvolta da un gelo pungente.",
+    "JP": "白石と星銀で造られた長槍。その鋭利な穂先は、常に骨を刺すような冷気をまとっている。",
+    "KR": "대리석과 성은 광석으로 벼려낸 창. 예리한 창끝에는 늘 뼛속까지 파고드는 한기가 서려 있다",
+    "PT": "Uma lança forjada com Pedra Branca e Estrelas de Prata. Sua ponta afiada é constantemente envolta por um frio que penetra os ossos.",
+    "RU": "Копьё из белого камня и звёздного серебра. Его остриё всегда окутано пронизывающим холодом.",
+    "TH": "หอกที่หลอมขึ้นจากหินสีขาวและ Starsilver บนปลายหอกอันแหลมคมนั้น มักอบอวลไปด้วยไอเย็นเยียบเสียดกระดูกเสมอ",
+    "TR": "Beyaz Taş ve Gümüş Yıldızdan dövülen bir mızrak. Sivri ucu her daim kemiği delebilen bir soğukla çevrilidir.",
+    "VI": "Cây thương dài được đúc từ đá trắng và sao bạc, trên mũi nhọn sắc bén luôn phảng phất hàn ý lạnh thấu xương."
+  },
+  "icon": "generated/weapon-profiles/13517/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.048,
+  "substat_lvl90": 0.2205,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

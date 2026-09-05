@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en" data-active-tab="character-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yumemizuki Mizuki Build, Talents &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="Yumemizuki Mizuki talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:title" content="Yumemizuki Mizuki Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="Yumemizuki Mizuki talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/character-info/yumemizuki-mizuki/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Yumemizuki Mizuki Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Yumemizuki Mizuki talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/yumemizuki-mizuki/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/character-info/yumemizuki-mizuki/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/yumemizuki-mizuki/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Genshin<br>Wish Calculator</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Wish Planner</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">4★ Odds</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Simulator</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Build</button>
+            <button type="button" id="tabInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Characters</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Weapons</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Other</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">Settings</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="ciCharacterSwitch" aria-label="Switch character" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="ciCharacterSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="ciContent">
+            
+          <div class="ci-hero">
+              <img class="ci-hero-portrait" src="assets/data/generated/character-profiles/10000109/full_wish.webp" alt="" data-gi-fallback="retry">
+              <div class="ci-hero-info">
+                  <div class="ci-hero-name">Yumemizuki Mizuki</div>
+                  <div class="ci-hero-title">"Embrace of Enchanting Dreams"</div>
+                  <div class="ci-hero-stars">★★★★★</div>
+                  <div class="ci-hero-facts">
+                      
+          <div class="ci-hero-fact">
+              <svg class="ci-hero-fact-icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1600 1600"><path d="M574.125 114.148s-1.76 4.129-3.66 7.229c-6.2 10.2-21.2 41.4-27.4 56.6-3.3 8.2-7.9 21.1-10.2 28.5-4 13-12.5 53.3-15.5 73-8.6 57.4.5 127.8 27.6 214 18.2 57.8 46.3 113.5 78.9 156.5 24.4 32.2 51.7 59.6 92 92.1 21.804 17.365 22.186 19.593 22.186 19.593s-12.35-1.75-54.685-15.793c-144.9-46.2-223-93.3-275.2-166-37.5-52.2-54.3-106.6-54.3-176 0-33.6 2.8-53.2 11.6-81.2 14-44.4 25.5-67.2 48.6-96.4 10.7-13.6 34.4-37.1 49.3-49 15.701-12.682 48.006-38.763 83-51.4 23.8-10.8 27.76-11.73 27.76-11.73m452.61.207s5.73 11.622 12.53 24.722c6.9 13.2 14.3 28.5 16.5 34.1 10.2 25.8 21.1 67.3 26.2 100.3 3 19.3 3.8 65.1 1.5 91.4-6.2 71.8-25.5 138.9-58.7 204.7-31 61.5-72.1 114-125.9 161-11 9.6-27.9 23.2-32.9 26.5-2.4 1.5-4.19 3.639-4.19 3.639s15.438-1.306 38.09-9.74c12.4-4.1 37.4-12.2 55.5-18 56.5-18.3 86.8-31.4 124.5-53.8 72.2-42.9 125.6-102.2 151.4-168 5.9-14.9 12.6-47.1 14.6-69.7 2.4-28.2-.1-78.3-5-99.3-16.6-71.1-54-128-113.3-172.5-22.6-17-65.5-41.2-91.3-51.6-9.2-3.8-9.53-3.721-9.53-3.721M271.38 312.068s.685 6.909 1.386 13.609c1.5 14.5 7 48.3 10.6 65.9 15.1 72 44.8 137.6 90.3 199.3 34 46.2 49.2 60.5 100.6 95.1 36 24.2 68.5 42.9 122.1 69.8 67.3 33.9 105.1 57.8 138.5 87.3 18.4 16.3 25 23.7 38.7 43 13.4 18.9 21.2 34.8 24.3 49.6.6 3.2 2.198 7.92 2.198 7.92s1.202-5.42 2.102-9.52c6.5-30.2 32.8-65.4 75.7-101.2 29.2-24.4 54.5-39.9 120.5-73.7 92.8-47.5 125.3-66.5 156.5-91.4 28.2-22.6 59.2-58 89.2-101.8 28.5-41.5 51.1-90.2 64.8-139 2.3-8.3 15.9-76.8 18.6-93.8 1.6-9.7 3.296-18.371 3.296-18.371s5.703 10.597 11.504 22.84c9.028 19.056 20.638 44.777 23.5 52.63 23.2 64.7 33.4 133.8 27.1 184.2-4.9 39.3-19.4 72.7-47.3 109.3-13.5 17.8-37.9 38.9-63.7 55.2-14.2 9-47.4 25.2-64.5 31.5-31.1 11.5-43.7 14.6-91 22.5-85.5 14.3-134.1 26.5-165.5 41.6-36.3 17.5-54.4 29.7-77.9 52.4-20 19.4-34.5 39.1-45.6 62-12.7 25.9-16 40-16 67 .1 16.6.4 20.2 2.4 28.5 5.8 23.1 14.9 40.5 30.3 57.6 23.1 25.6 51.8 42.9 87.2 52.5 7.692 2.07 14.854 3.389 14.854 3.389s9.217-5.477 17.245-10.688c8.3-5.3 16.7-10.4 18.7-11.2 6.8-2.9 15.938-3.998 25.583-3.011 6.215.82 12.954 2.182 18.56 3.618 7.383 1.892 13.875 4.371 13.875 4.371s-3.494 2.835-7.021 6.442c-8.4 8.593-25.358 25.77-44.796 45.28-39.3 39.4-52.7 53.5-62.5 65.8-26.3 33.1-49.9 68.6-75.1 113.4-10.8 19.1-45.9 85.8-54.9 104.3-2.4 5.1-5.343 9.575-5.343 9.575s-3.957-6.575-26.257-49.375c-46.6-89.5-84.7-149.8-121.2-192-3.5-4.1-27.8-28.7-53.9-54.7-26.8-26.6-48.034-48.706-48.034-48.706s6.634-2.594 12.934-4.494c8.9-2.6 12.501-3.843 21.101-4.244 10.1-.5 12.899.144 19.298 2.544 8.3 3.2 15.7 7.2 28.5 15.6l9.4 6.2 7.1-1.2c11-1.9 36.1-9.7 45.5-14.1 11-5.2 28.3-16.7 39-26.1 14.6-12.8 25-26.6 33.6-44.3 9.4-19.6 13.2-38.2 12.1-60.5-1-21.3-6.4-41.2-17.1-63.5-15-31-33.2-53.3-61.2-74.6-39.4-30-70.9-45.3-122.4-59.3-29.5-8-43.2-10.7-98.5-19.1-42.6-6.6-62.4-10.8-84.3-18.1-40.8-13.6-79.2-34.3-106.2-57.2-20-17-39-39.1-50.6-58.9-23.9-40.6-36.7-87.6-35.1-129.2.5-14.5 6.3-56.6 10.8-78.5 4.9-24.2 14.3-53.4 26-81 6.4-15 23.7-50.2 27-54.8 1.1-1.5 3.415-4.209 3.415-4.209m528.581 798.764s-1.895 4.445-3.095 7.845c-5.7 15.8-13.9 27.9-28.9 42.8-6.6 6.6-15.6 14.3-20.8 17.8-11.9 8.1-30.6 17.1-42.8 20.7-5.2 1.6-11.036 3.736-11.036 3.736s20.236 3.864 32.336 3.964c28.7 0 46.9-7.1 68.1-26.8l6.2-5.7 7.7 7.5c12.7 12.2 28.5 20.7 45.4 24.4 8.8 1.9 29.5 2.2 38.8.5 8.2-1.5 15.375-4.15 15.375-4.15s-4.175-1.45-7.575-2.45c-32.7-9.8-63.4-30.5-81.5-55.1-6-8.2-14.1-22.9-16.3-29.7-.6-2-1.905-5.345-1.905-5.345m-.598 113.14s-4.897 3.905-9.497 8.105c-11.1 9.8-26.4 20-38.4 25.4-5.3 2.4-10.375 5.472-10.375 5.472s4.475 6.628 8.875 13.528c17.4 26.7 28 44.3 38.3 64 6 11.3 12.204 22.403 12.204 22.403s4.296-8.303 9.396-18.103c18.9-36.4 31-56.9 42.8-72.6 4.1-5.4 7.677-9.992 7.677-9.992s-4.877-2.008-9.577-3.908c-11-4.4-22.7-11.7-38.2-24-6.7-5.4-13.203-10.304-13.203-10.304M122.866 597.078c-5.1 13.2-13.7 48-16.7 66.9-2.7 17.2-2.4 54.1.6 75 8.3 58.8 22.4 99.8 47.5 137.9 25 38 63.1 69.5 103.6 85.6 28.9 11.5 54.1 16.4 84.5 16.3 22.7 0 40-3.2 77.5-14.5 31.7-9.5 93.1-33.6 125-49.1 31.1-15.1 44.6-19.1 64.5-19.2 9.8 0 13.4.5 19.5 2.4 14.1 4.4 25.5 11.5 35.7 22.5 23.1 24.7 27.9 60.2 12.1 89.9-11 20.5-49.9 37-93.3 39.6l-11 .6-1.3 4c-2.2 6.5-1.1 19.8 2.1 26.5 12.6 26.4 61.6 38.3 95.1 23.1 27.5-12.4 49-42.3 57.1-79.4 3.136-13.353 3.582-32.737 1.1-47.2-5.4-32.5-25.6-64.7-56.1-89.2-23.9-19.2-56.4-34.6-94.9-45.2-30.8-8.5-45.903-9.041-72.067-8.87-26.165.173-55.63 1.813-66.319 1.08s-19.214-3.21-19.214-3.21c-26.6-5.5-54.4-13.1-74.5-20.6-31.8-11.8-72.2-40.5-111.9-79.4-26.2-25.8-40.9-43.1-60.8-71.6-5.7-8.3-15.1-21.8-20.9-30-5.8-8.3-13.1-19.1-16.2-24.1s-6.6-9.9-7.7-10.9c-.833-.866-1.848-1.674-1.848-1.674s-.578 1.166-1.152 2.774m1335.9 21.6c-33.9 48.4-48.9 68.4-69.2 92.1q-79.65 92.85-179.7 116.1c-5.8 1.3-16.8 3.7-24.5 5.3-15.3 3.1-83.05 1.414-83.05 1.414-28.647.19-39.55 1.386-66.25 7.486-43.6 10.1-82 27.6-111 50.7-22.7 18-42.8 52.6-49.9 85.7-3.15 14.342-3.46 40.395.4 54.1 6.6 26.3 20 47.2 40.8 63.8 7.6 6.1 12.3 8.5 22.8 11.5 29.8 8.7 61.2 3.3 77.7-13.3 6.1-6.1 10.1-13.5 11.9-21.9.655-3.184 1.004-7.53 1.045-11.343.048-4.332-1.045-8.457-1.045-8.457s-8.4-1.4-17.2-2.4c-34.5-3.8-60.5-11.8-74.6-23-14.3-11.3-24-36.2-22.8-58.5 1.5-27.8 17.1-50.8 43.2-63.5 26.8-13 52.5-11.5 87.5 5.2 24.4 11.7 95.7 42.3 108.5 46.6 20.5 6.9 43.3 13.1 68 18.4 24 5.1 53.3 5 79.5-.3 34.3-7 65.6-20.3 88.4-37.6 23.5-17.9 50.2-48.4 64.8-74.3 23.2-40.9 37.1-86.5 40.9-133.5 1.4-17.9.7-48.9-1.6-65.5-1.7-12.3-8.5-44.2-11.2-52.5-3.1-9.8-6.314-16.113-6.314-16.113s-8.186 11.113-17.086 23.813" style="fill:#32d7a0"></path></svg>
+              <span class="ci-hero-fact-value">Anemo</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/weapon_types_icons/Icon_Catalyst_type.webp" alt="" data-gi-fallback="hide">
+              <span class="ci-hero-fact-value">Catalyst</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/region_icons/inazuma.webp" alt="" data-gi-fallback="swap" data-gi-fallback-src="assets/data/design/region_icons/unknown-region.webp">
+              <span class="ci-hero-fact-value">Inazuma</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Birthday</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">March 16</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Released</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">February 10, 2025</span>
+          </div>
+                  </div>
+                  <p class="ci-hero-desc">A shareholder of Aisa Bathhouse, a baku, and a clinical psychologist. Dedicated to the dispersal of nightmares, and to bringing people peace of mind.</p>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Constellation</span> Tapirus Somniator &nbsp;•&nbsp; <span class="ci-hero-meta-label">Affiliation</span> Inazuma</div>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Voice Actors</span> EN: Naomi McDonald   ·   CN: 浮梦若薇   ·   JP: 会沢紗弥   ·   KR: Kim Seo-hyun</div>
+                  
+          <div class="ci-hero-guides">
+              <div class="ci-hero-guides-label">Guides</div>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://genshin-impact-helper-team.github.io/genshin-builds/en/yumemizuki-mizuki" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/genshin-builds-guide.webp" alt="">
+                  Genshin Builds
+              </a>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://www.prydwen.gg/genshin-impact/characters/yumemizuki-mizuki#build" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/prydwen-guide.webp" alt="">
+                  Prydwen
+              </a>
+              <div class="ci-hero-guides-row">
+                  <a class="ci-hero-guide-btn" href="https://www.icy-veins.com/genshin-impact/yumemizuki-mizuki-guide-best-builds" target="_blank" rel="noopener noreferrer" title="Icy Veins">
+                      <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/icy-veins-guide.webp" alt="">
+                      Icy Veins
+                  </a>
+              </div>
+          </div>
+                  
+          <div class="ci-hero-nav-label">Navigation</div>
+          <div class="ci-hero-nav">
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-talents">Talents</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-const">Constellations</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-passives">Passives</a>
+          </div>
+              </div>
+              <div class="ci-hero-side">
+                  <div class="ci-hero-stats">
+                      <div class="ci-hero-stats-head">
+                          <div class="ci-hero-stats-title">Base Stats</div>
+                          <div class="ci-stat-level-toggle" role="group" aria-label="Comparison level"><button type="button" class="ci-stat-level-btn active" data-stat-level="90">90</button><button type="button" class="ci-stat-level-btn" data-stat-level="95">95</button><button type="button" class="ci-stat-level-btn" data-stat-level="100">100</button></div>
+                      </div>
+                      <div id="ciBaseStatsBody"><div class="ci-stats">
+          <div class="ci-stats-row"><span>HP</span><span>991 → 8,664</span></div>
+          <div class="ci-stats-row"><span>ATK</span><span>17 → 146</span></div>
+          <div class="ci-stats-row"><span>DEF</span><span>59 → 515</span></div>
+          <div class="ci-stats-row"><span>Ascension Stat</span><span>Elemental Mastery +115</span></div></div></div>
+                  </div>
+                  <div class="ci-hero-materials">
+                      <div class="ci-hero-stats-title">Ascension Materials</div>
+                      <div class="ci-hero-mat-list">
+          <div class="ci-hero-mat-item" title="Sea Ganoderma">
+              <img src="assets/data/generated/shared-assets/materials/101206.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Sea Ganoderma</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Talisman of the Enigmatic Land">
+              <img src="assets/data/generated/shared-assets/materials/113071.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Talisman of the Enigmatic Land</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Vayuda Turquoise Gemstone">
+              <img src="assets/data/generated/shared-assets/materials/104154.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Vayuda Turquoise Gemstone</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Crown of Insight">
+              <img src="assets/data/generated/shared-assets/materials/104319.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Crown of Insight</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Famed Handguard">
+              <img src="assets/data/generated/shared-assets/materials/112046.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Famed Handguard</span>
+          </div></div>
+                  </div>
+              </div>
+          </div>
+            <div class="ci-layout">
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-layout">
+                        <div class="ci-talent-tabs">
+                            
+          <button type="button" class="ci-talent-tab active" data-talent-idx="0">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000014/skills/00_normal_attack.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Pure Heart, Pure Dreams</span>
+                  <span class="ci-talent-summary-type">Normal Attack</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="1">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000109/skills/01_skill.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Aisa Utamakura Pilgrimage</span>
+                  <span class="ci-talent-summary-type">Elemental Skill</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="2">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000109/skills/02_burst.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Anraku Secret Spring Therapy</span>
+                  <span class="ci-talent-summary-type">Elemental Burst</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+                        </div>
+                        <div class="ci-talent-detail" id="ciTalentDetail">
+                            
+          <div class="ci-talent-detail-inner">
+              <div class="ci-talent-detail-flavor">
+                  <div class="ci-talent-flavor">Normal Attack
+Performs up to 3 attacks, dealing Anemo DMG.
+
+Charged Attack
+Consumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.
+
+Plunging Attack
+Calling upon the power of Anemo, she plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Anemo DMG upon impact with the ground.</div>
+                  
+              </div>
+              <div class="ci-talent-detail-stats">
+                  <div class="ci-level-slider-row">
+                      <span class="ci-level-slider-label">Level</span>
+                      <span class="ci-level-slider-value">1</span>
+                      <span class="ci-level-slider-bound">1</span>
+                      <input type="range" class="ci-level-slider" id="ciTalentLevelSlider" aria-label="Talent level" min="1" max="15" step="1" value="1">
+                      <span class="ci-level-slider-bound">15</span>
+                  </div>
+                  <div class="ci-level-stats" id="ciTalentLevelStats">
+                      
+          <div class="ci-level-stats-title">Level 1</div>
+          <div class="ci-level-stats-rows">
+              <div class="ci-level-stats-row"><span>1-Hit DMG</span><span>52.3%</span></div><div class="ci-level-stats-row"><span>2-Hit DMG</span><span>46.9%</span></div><div class="ci-level-stats-row"><span>3-Hit DMG</span><span>71.4%</span></div><div class="ci-level-stats-row"><span>Charged Attack DMG</span><span>130.0%</span></div><div class="ci-level-stats-row"><span>Charged Attack Stamina Cost</span><span>50.0</span></div><div class="ci-level-stats-row"><span>Plunge DMG</span><span>56.8%</span></div><div class="ci-level-stats-row"><span>Low/High Plunge DMG</span><span>113.6%/141.9%</span></div>
+          </div>
+                  </div>
+              </div>
+          </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-const" class="ci-panel">
+                            <h2 class="ci-panel-title">Constellations</h2>
+                            <div class="ci-const-list">
+                                
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000109/constellations/00_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C1</span>In Mist-Like Waters</div>
+                  <div class="ci-const-desc">When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the "Twenty-Three Nights' Awaiting" effect to nearby opponents for 3s every 3.5s. When an opponent has a Swirl or Stellar Swirl reaction triggered against them by Anemo DMG while the aforementioned effect is active, the effect will be canceled, and this Swirl or Stellar Swirl instance deals DMG against this opponent increased by 1,100% and 550% of Mizuki's Elemental Mastery, respectively.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000109/constellations/01_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C2</span>Your Echo I Meet in Dreams</div>
+                  <div class="ci-const-desc">When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members' Pyro, Hydro, Cryo, and Electro DMG Bonuses by 0.04% until the Dreamdrifter state ends.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000109/constellations/02_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C3</span>Till Dawn's Moon Ends Night</div>
+                  <div class="ci-const-desc">Increases the Level of Aisa Utamakura Pilgrimage by 3.
+Maximum upgrade level is 15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000109/constellations/03_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C4</span>Buds Warm Lucid Springs</div>
+                  <div class="ci-const-desc">Picking up a Yumemi Style Special Snack from the Elemental Burst Anraku Secret Spring Therapy will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per Anraku Secret Spring Therapy duration.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000109/constellations/04_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C5</span>As Setting Moon Brings Year's End</div>
+                  <div class="ci-const-desc">Increases the Level of Anraku Secret Spring Therapy by 3.
+Maximum upgrade level is 15.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000109/constellations/05_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C6</span>The Heart Lingers Long</div>
+                  <div class="ci-const-desc">While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl reaction DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%. Any Stellar Swirl reaction DMG dealt by these characters will also have its CRIT Rate and CRIT DMG increased by 10% and 20%, respectively.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-passives" class="ci-panel">
+                            <h2 class="ci-panel-title">Passives</h2>
+                            <div class="ci-passive-list">
+                                
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000109/skills/03_passive_1.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Bright Moon's Restless Voice</div>
+                  <div class="ci-passive-desc">When Yumemizuki Mizuki triggers a Swirl or Stellar Swirl reaction while in her Dreamdrifter state, Dreamdrifter's duration increases by 2.5s. This effect can trigger once every 0.3s for a maximum of 2 times per Dreamdrifter state.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000109/skills/04_passive_2.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Thoughts by Day Bring Dreams by Night</div>
+                  <div class="ci-passive-desc">While Yumemizuki Mizuki is in the Dreamdrifter state, when other nearby party members hit opponents with Pyro, Hydro, Cryo, or Electro attacks, her Elemental Mastery will increase by 100 for 4s.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000109/skills/05_passive_3.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">All Ailments Banished</div>
+                  <div class="ci-passive-desc">When Yumemizuki Mizuki is in the party, party members have a chance to recover 30% additional HP when using healing foods that do not have reviving properties. The trigger chance for this effect increases with the corresponding character's Friendship Level. (This effect will always trigger if the Traveler is the character consuming healing food.)</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000109/skills/06_passive_4.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Vast Be the Dream</div>
+                  <div class="ci-passive-desc">When Yumemizuki Mizuki triggers a Swirl or Stellar Swirl reaction while in the Dreamdrifter state, the next instance of periodic AoE Anemo DMG she deals to nearby enemies during that same state will be increased by 1,000% of her Elemental Mastery. The aforementioned effect can trigger once every 2.5s.
+Radiance: Stellar Swirl: When Yumemizuki Mizuki deals to an opponent the above enhanced AoE Anemo DMG, she will also deal an additional instance of Anemo DMG at 1,000% of her Elemental Mastery. This DMG is considered Stellar Swirl reaction DMG.
+
+Additionally, while Yumemizuki Mizuki is in the Dreamdrifter state, the Elemental Mastery of nearby party characters is also increased by 10% of her Elemental Mastery.
+Yumemizuki Mizuki will also enter the Radiance: Stellar Swirl state for 8s when a nearby party member triggers a Stellar Swirl reaction.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div></div></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel"></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Unofficial fan-made tool. Not affiliated with or endorsed by HoYoverse/miHoYo. Genshin Impact and all related names, characters, and assets are trademarks and copyrights of HoYoverse/miHoYo.</div>
+        <div class="site-footer-links"><a href="privacy.html">Privacy Policy</a> • <a href="terms.html">Terms of Use</a> • <a href="contact.html">Contact</a> • <a href="credits.html">Credits</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

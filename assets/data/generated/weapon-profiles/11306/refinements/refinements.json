@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Determination",
+    "CHS": "决心",
+    "CHT": "決心",
+    "DE": "Zielstrebigkeit",
+    "ES": "Resolución",
+    "FR": "Détermination",
+    "ID": "Determination",
+    "IT": "Determinazione",
+    "JP": "決心",
+    "KR": "결심",
+    "PT": "Determinação",
+    "RU": "Решительность",
+    "TH": "Determination",
+    "TR": "Kararlılık",
+    "VI": "Quyết Tâm"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Using an Elemental Burst grants a 12% increase in ATK and Movement SPD for 15s.",
+        "CHS": "施放元素爆发后，提高12%攻击力和移动速度，持续15秒。",
+        "CHT": "施放元素爆發後，提高12%攻擊力和移動速度，持續15秒。",
+        "DE": "Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um 12 %.",
+        "ES": "Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un 12% durante 15 s.",
+        "FR": "Augmente l'ATQ et la VIT de déplacement de 12 % pendant 15 s après un déchaînement élémentaire.",
+        "ID": "Menggunakan Elemental Burst meningkatkan 12% ATK dan Movement SPD selama 15 detik.",
+        "IT": "#L'uso di un Tripudio elementale garantisce un 12% di aumento di ATT e VEL di movimento per 15 s.",
+        "JP": "元素爆発を発動した後、攻撃力と移動速度+12%、継続時間15秒。",
+        "KR": "원소폭발 발동 후 공격력과 이동 속도가 12% 증가한다. 지속 시간: 15초",
+        "PT": "Ao usar o Supremo, concede um aumento de 12% no ATQ e Veloc. Mov. por 15s.",
+        "RU": "Активация взрыва стихии увеличивает силу атаки и скорость передвижения на 12% в течение 15 сек.",
+        "TH": "การใช้ท่าไม้ตายจะเพิ่มพลังโจมตีและความเร็วในการเคลื่อนที่ 12% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Patlaması kullanmak, 15 saniyeliğine Saldırı ve Hareket Hızını %12 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nộ, tăng 12% tấn công và tốc độ di chuyển, kéo dài 15s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Using an Elemental Burst grants a 15% increase in ATK and Movement SPD for 15s.",
+        "CHS": "施放元素爆发后，提高15%攻击力和移动速度，持续15秒。",
+        "CHT": "施放元素爆發後，提高15%攻擊力和移動速度，持續15秒。",
+        "DE": "Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um 15 %.",
+        "ES": "Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un 15% durante 15 s.",
+        "FR": "Augmente l'ATQ et la VIT de déplacement de 15 % pendant 15 s après un déchaînement élémentaire.",
+        "ID": "Menggunakan Elemental Burst meningkatkan 15% ATK dan Movement SPD selama 15 detik.",
+        "IT": "#L'uso di un Tripudio elementale garantisce un 15% di aumento di ATT e VEL di movimento per 15 s.",
+        "JP": "元素爆発を発動した後、攻撃力と移動速度+15%、継続時間15秒。",
+        "KR": "원소폭발 발동 후 공격력과 이동 속도가 15% 증가한다. 지속 시간: 15초",
+        "PT": "Ao usar o Supremo, concede um aumento de 15% no ATQ e Veloc. Mov. por 15s.",
+        "RU": "Активация взрыва стихии увеличивает силу атаки и скорость передвижения на 15% в течение 15 сек.",
+        "TH": "การใช้ท่าไม้ตายจะเพิ่มพลังโจมตีและความเร็วในการเคลื่อนที่ 15% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Patlaması kullanmak, 15 saniyeliğine Saldırı ve Hareket Hızını %15 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nộ, tăng 15% tấn công và tốc độ di chuyển, kéo dài 15s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Using an Elemental Burst grants a 18% increase in ATK and Movement SPD for 15s.",
+        "CHS": "施放元素爆发后，提高18%攻击力和移动速度，持续15秒。",
+        "CHT": "施放元素爆發後，提高18%攻擊力和移動速度，持續15秒。",
+        "DE": "Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um 18 %.",
+        "ES": "Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un 18% durante 15 s.",
+        "FR": "Augmente l'ATQ et la VIT de déplacement de 18 % pendant 15 s après un déchaînement élémentaire.",
+        "ID": "Menggunakan Elemental Burst meningkatkan 18% ATK dan Movement SPD selama 15 detik.",
+        "IT": "#L'uso di un Tripudio elementale garantisce un 18% di aumento di ATT e VEL di movimento per 15 s.",
+        "JP": "元素爆発を発動した後、攻撃力と移動速度+18%、継続時間15秒。",
+        "KR": "원소폭발 발동 후 공격력과 이동 속도가 18% 증가한다. 지속 시간: 15초",
+        "PT": "Ao usar o Supremo, concede um aumento de 18% no ATQ e Veloc. Mov. por 15s.",
+        "RU": "Активация взрыва стихии увеличивает силу атаки и скорость передвижения на 18% в течение 15 сек.",
+        "TH": "การใช้ท่าไม้ตายจะเพิ่มพลังโจมตีและความเร็วในการเคลื่อนที่ 18% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Patlaması kullanmak, 15 saniyeliğine Saldırı ve Hareket Hızını %18 artırır.",
+        "VI": "Sau khi thi triển kỹ năng nộ, tăng 18% tấn công và tốc độ di chuyển, kéo dài 15s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Using an Elemental Burst grants a 21% increase in ATK and Movement SPD for 15s.",
+        "CHS": "施放元素爆发后，提高21%攻击力和移动速度，持续15秒。",
+        "CHT": "施放元素爆發後，提高21%攻擊力和移動速度，持續15秒。",
+        "DE": "Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um 21 %.",
+        "ES": "Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un 21% durante 15 s.",
+        "FR": "Augmente l'ATQ et la VIT de déplacement de 21 % pendant 15 s après un déchaînement élémentaire.",
+        "ID": "Menggunakan Elemental Burst meningkatkan 21% ATK dan Movement SPD selama 15 detik.",
+        "IT": "#L'uso di un Tripudio elementale garantisce un 21% di aumento di ATT e VEL di movimento per 15 s.",
+        "JP": "元素爆発を発動した後、攻撃力と移動速度+21%、継続時間15秒。",
+        "KR": "원소폭발 발동 후 공격력과 이동 속도가 21% 증가한다. 지속 시간: 15초",
+        "PT": "Ao usar o Supremo, concede um aumento de 21% no ATQ e Veloc. Mov. por 15s.",
+        "RU": "Активация взрыва стихии увеличивает силу атаки и скорость передвижения на 21% в течение 15 сек.",
+        "TH": "การใช้ท่าไม้ตายจะเพิ่มพลังโจมตีและความเร็วในการเคลื่อนที่ 21% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Patlaması kullanmak, 15 saniyeliğine Saldırı ve Hareket Hızını %21 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nộ, tăng 21% tấn công và tốc độ di chuyển, kéo dài 15s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Using an Elemental Burst grants a 24% increase in ATK and Movement SPD for 15s.",
+        "CHS": "施放元素爆发后，提高24%攻击力和移动速度，持续15秒。",
+        "CHT": "施放元素爆發後，提高24%攻擊力和移動速度，持續15秒。",
+        "DE": "Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um 24 %.",
+        "ES": "Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un 24% durante 15 s.",
+        "FR": "Augmente l'ATQ et la VIT de déplacement de 24 % pendant 15 s après un déchaînement élémentaire.",
+        "ID": "Menggunakan Elemental Burst meningkatkan 24% ATK dan Movement SPD selama 15 detik.",
+        "IT": "#L'uso di un Tripudio elementale garantisce un 24% di aumento di ATT e VEL di movimento per 15 s.",
+        "JP": "元素爆発を発動した後、攻撃力と移動速度+24%、継続時間15秒。",
+        "KR": "원소폭발 발동 후 공격력과 이동 속도가 24% 증가한다. 지속 시간: 15초",
+        "PT": "Ao usar o Supremo, concede um aumento de 24% no ATQ e Veloc. Mov. por 15s.",
+        "RU": "Активация взрыва стихии увеличивает силу атаки и скорость передвижения на 24% в течение 15 сек.",
+        "TH": "การใช้ท่าไม้ตายจะเพิ่มพลังโจมตีและความเร็วในการเคลื่อนที่ 24% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Patlaması kullanmak, 15 saniyeliğine Saldırı ve Hareket Hızını %24 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nộ, tăng 24% tấn công và tốc độ di chuyển, kéo dài 15s."
+      }
+    }
+  ]
+}

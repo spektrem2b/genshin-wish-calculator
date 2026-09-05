@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Cadence of Days Gone By",
+    "CHS": "旧日和弦",
+    "CHT": "舊日和弦",
+    "DE": "Akkorde vergangener Tage",
+    "ES": "Acorde de antaño",
+    "FR": "Cadence des jours passés",
+    "ID": "Cadence of Days Gone By",
+    "IT": "Ritmo di giorni che furono",
+    "JP": "往日のコード",
+    "KR": "과거의 화음",
+    "PT": "Cadência dos Dias Passados",
+    "RU": "Аккорд былых дней",
+    "TH": "Cadence of Days Gone By",
+    "TR": "Geçmiş Günlerin Ahengi",
+    "VI": "Hợp Âm Ngày Cũ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Triggering an Elemental Reaction regenerates 4 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 20% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应后，为装备者恢复4点元素能量，该效果每9秒至多触发一次；触发星烁反应的12秒内，装备者的攻击力提升20%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後，為裝備者恢復4點元素能量，該效果每9秒至多觸發一次。觸發星爍反應的12秒內，裝備者的攻擊力提升20%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt dem Träger nach dem Auslösen einer Elementarreaktion 4 Punkte Elementarenergie wieder her, 9 s Abklingzeit. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 20 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el portador de esta arma recupera 4 pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 9 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 20% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire restaure 4 pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de 20 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, memulihkan 4 poin Energy untuk Karakter yang mengenakan, efek ini dapat terpicu sekali setiap 9 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +20% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meskipun ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale ripristina di 4 l'energia elementale del personaggio che equipaggia l'arma. Quest'effetto può attivarsi una volta ogni 9 s. Quando si innesca una reazione di Barlume astrale, invece, l'ATT aumenta di un 20% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後、装備者の元素エネルギーを4回復する。この効果は9秒ごとに1回のみ発動可能。星反応を起こしてからの12秒間、装備者の攻撃力+20%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 장착 캐릭터의 원소 에너지를 4pt 회복한다. 해당 효과는 9초마다 최대 1회 발동된다. 별빛 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 20% 증가한다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다",
+        "PT": "Depois de desencadear uma reação Elemental, regenera 4 de Energia Elemental para o portador. Esse efeito pode ser desencadeado uma vez a cada 9s. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 20%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo.",
+        "RU": "Активация элементальной реакции восстанавливает экипированному персонажу 4 ед. энергии. Эффект может возникнуть один раз в 9 сек. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 20%. Перечисленные эффекты срабатывают, даже если экипированный персонаж не на поле боя.",
+        "TH": "หลังจากทำให้เกิดปฏิกิริยาธาตุ จะฟื้นฟูพลังงานธาตุ 4 หน่วยให้กับผู้สวมใส่ เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 9 วินาที; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 20% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde kuşanan karakter için 4 Element Enerjisi yenilenir. Bu etki her 9 saniyede bir tetiklenebilir. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %20 artar. Bu etkiler karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục 4 điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng 20% Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Triggering an Elemental Reaction regenerates 5 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 25% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应后，为装备者恢复5点元素能量，该效果每9秒至多触发一次；触发星烁反应的12秒内，装备者的攻击力提升25%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後，為裝備者恢復5點元素能量，該效果每9秒至多觸發一次。觸發星爍反應的12秒內，裝備者的攻擊力提升25%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt dem Träger nach dem Auslösen einer Elementarreaktion 5 Punkte Elementarenergie wieder her, 9 s Abklingzeit. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 25 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el portador de esta arma recupera 5 pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 9 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 25% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire restaure 5 pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de 25 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, memulihkan 5 poin Energy untuk Karakter yang mengenakan, efek ini dapat terpicu sekali setiap 9 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +25% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meskipun ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale ripristina di 5 l'energia elementale del personaggio che equipaggia l'arma. Quest'effetto può attivarsi una volta ogni 9 s. Quando si innesca una reazione di Barlume astrale, invece, l'ATT aumenta di un 25% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後、装備者の元素エネルギーを5回復する。この効果は9秒ごとに1回のみ発動可能。星反応を起こしてからの12秒間、装備者の攻撃力+25%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 장착 캐릭터의 원소 에너지를 5pt 회복한다. 해당 효과는 9초마다 최대 1회 발동된다. 별빛 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 25% 증가한다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다",
+        "PT": "Depois de desencadear uma reação Elemental, regenera 5 de Energia Elemental para o portador. Esse efeito pode ser desencadeado uma vez a cada 9s. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 25%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo.",
+        "RU": "Активация элементальной реакции восстанавливает экипированному персонажу 5 ед. энергии. Эффект может возникнуть один раз в 9 сек. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 25%. Перечисленные эффекты срабатывают, даже если экипированный персонаж не на поле боя.",
+        "TH": "หลังจากทำให้เกิดปฏิกิริยาธาตุ จะฟื้นฟูพลังงานธาตุ 5 หน่วยให้กับผู้สวมใส่ เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 9 วินาที; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 25% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde kuşanan karakter için 5 Element Enerjisi yenilenir. Bu etki her 9 saniyede bir tetiklenebilir. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %25 artar. Bu etkiler karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục 5 điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng 25% Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Triggering an Elemental Reaction regenerates 6 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 30% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应后，为装备者恢复6点元素能量，该效果每9秒至多触发一次；触发星烁反应的12秒内，装备者的攻击力提升30%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後，為裝備者恢復6點元素能量，該效果每9秒至多觸發一次。觸發星爍反應的12秒內，裝備者的攻擊力提升30%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt dem Träger nach dem Auslösen einer Elementarreaktion 6 Punkte Elementarenergie wieder her, 9 s Abklingzeit. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 30 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el portador de esta arma recupera 6 pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 9 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 30% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire restaure 6 pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de 30 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, memulihkan 6 poin Energy untuk Karakter yang mengenakan, efek ini dapat terpicu sekali setiap 9 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +30% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meskipun ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale ripristina di 6 l'energia elementale del personaggio che equipaggia l'arma. Quest'effetto può attivarsi una volta ogni 9 s. Quando si innesca una reazione di Barlume astrale, invece, l'ATT aumenta di un 30% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後、装備者の元素エネルギーを6回復する。この効果は9秒ごとに1回のみ発動可能。星反応を起こしてからの12秒間、装備者の攻撃力+30%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 장착 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 9초마다 최대 1회 발동된다. 별빛 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 30% 증가한다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다",
+        "PT": "Depois de desencadear uma reação Elemental, regenera 6 de Energia Elemental para o portador. Esse efeito pode ser desencadeado uma vez a cada 9s. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 30%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo.",
+        "RU": "Активация элементальной реакции восстанавливает экипированному персонажу 6 ед. энергии. Эффект может возникнуть один раз в 9 сек. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 30%. Перечисленные эффекты срабатывают, даже если экипированный персонаж не на поле боя.",
+        "TH": "หลังจากทำให้เกิดปฏิกิริยาธาตุ จะฟื้นฟูพลังงานธาตุ 6 หน่วยให้กับผู้สวมใส่ เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 9 วินาที; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 30% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde kuşanan karakter için 6 Element Enerjisi yenilenir. Bu etki her 9 saniyede bir tetiklenebilir. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %30 artar. Bu etkiler karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục 6 điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng 30% Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Triggering an Elemental Reaction regenerates 7 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 35% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应后，为装备者恢复7点元素能量，该效果每9秒至多触发一次；触发星烁反应的12秒内，装备者的攻击力提升35%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後，為裝備者恢復7點元素能量，該效果每9秒至多觸發一次。觸發星爍反應的12秒內，裝備者的攻擊力提升35%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt dem Träger nach dem Auslösen einer Elementarreaktion 7 Punkte Elementarenergie wieder her, 9 s Abklingzeit. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 35 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el portador de esta arma recupera 7 pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 9 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 35% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire restaure 7 pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de 35 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, memulihkan 7 poin Energy untuk Karakter yang mengenakan, efek ini dapat terpicu sekali setiap 9 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +35% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meskipun ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale ripristina di 7 l'energia elementale del personaggio che equipaggia l'arma. Quest'effetto può attivarsi una volta ogni 9 s. Quando si innesca una reazione di Barlume astrale, invece, l'ATT aumenta di un 35% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後、装備者の元素エネルギーを7回復する。この効果は9秒ごとに1回のみ発動可能。星反応を起こしてからの12秒間、装備者の攻撃力+35%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 장착 캐릭터의 원소 에너지를 7pt 회복한다. 해당 효과는 9초마다 최대 1회 발동된다. 별빛 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 35% 증가한다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다",
+        "PT": "Depois de desencadear uma reação Elemental, regenera 7 de Energia Elemental para o portador. Esse efeito pode ser desencadeado uma vez a cada 9s. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 35%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo.",
+        "RU": "Активация элементальной реакции восстанавливает экипированному персонажу 7 ед. энергии. Эффект может возникнуть один раз в 9 сек. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 35%. Перечисленные эффекты срабатывают, даже если экипированный персонаж не на поле боя.",
+        "TH": "หลังจากทำให้เกิดปฏิกิริยาธาตุ จะฟื้นฟูพลังงานธาตุ 7 หน่วยให้กับผู้สวมใส่ เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 9 วินาที; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 35% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde kuşanan karakter için 7 Element Enerjisi yenilenir. Bu etki her 9 saniyede bir tetiklenebilir. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %35 artar. Bu etkiler karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục 7 điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng 35% Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Triggering an Elemental Reaction regenerates 8 Elemental Energy for the equipping character. This effect can trigger once every 9s. On the other hand, triggering a Stellar Glimmer reaction increases their ATK by 40% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应后，为装备者恢复8点元素能量，该效果每9秒至多触发一次；触发星烁反应的12秒内，装备者的攻击力提升40%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後，為裝備者恢復8點元素能量，該效果每9秒至多觸發一次。觸發星爍反應的12秒內，裝備者的攻擊力提升40%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Stellt dem Träger nach dem Auslösen einer Elementarreaktion 8 Punkte Elementarenergie wieder her, 9 s Abklingzeit. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 40 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, el portador de esta arma recupera 8 pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 9 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 40% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire restaure 8 pts d'énergie élémentaire au personnage équipé de l'arme, cet effet pouvant être déclenché une fois toutes les 9 s. De plus, déclencher une réaction astrale augmente l'ATQ du personnage équipé de l'arme de 40 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, memulihkan 8 poin Energy untuk Karakter yang mengenakan, efek ini dapat terpicu sekali setiap 9 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +40% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meskipun ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale ripristina di 8 l'energia elementale del personaggio che equipaggia l'arma. Quest'effetto può attivarsi una volta ogni 9 s. Quando si innesca una reazione di Barlume astrale, invece, l'ATT aumenta di un 40% per 12 s. Gli effetti sopracitati possono attivarsi anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後、装備者の元素エネルギーを8回復する。この効果は9秒ごとに1回のみ発動可能。星反応を起こしてからの12秒間、装備者の攻撃力+40%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 장착 캐릭터의 원소 에너지를 8pt 회복한다. 해당 효과는 9초마다 최대 1회 발동된다. 별빛 반응 발동 후 12초 동안 장착 캐릭터의 공격력이 40% 증가한다. 장착 캐릭터가 대기 상태일 때도 상술한 효과가 발동된다",
+        "PT": "Depois de desencadear uma reação Elemental, regenera 8 de Energia Elemental para o portador. Esse efeito pode ser desencadeado uma vez a cada 9s. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 40%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo.",
+        "RU": "Активация элементальной реакции восстанавливает экипированному персонажу 8 ед. энергии. Эффект может возникнуть один раз в 9 сек. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 40%. Перечисленные эффекты срабатывают, даже если экипированный персонаж не на поле боя.",
+        "TH": "หลังจากทำให้เกิดปฏิกิริยาธาตุ จะฟื้นฟูพลังงานธาตุ 8 หน่วยให้กับผู้สวมใส่ เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 9 วินาที; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 40% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde kuşanan karakter için 8 Element Enerjisi yenilenir. Bu etki her 9 saniyede bir tetiklenebilir. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %40 artar. Bu etkiler karakter alanda olmasa da tetiklenebilir.",
+        "VI": "Sau khi kích hoạt phản ứng nguyên tố, người trang bị sẽ hồi phục 8 điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 9s tối đa kích hoạt một lần; Kích hoạt phản ứng Tinh Tú Lấp Lánh sẽ tăng 40% Tấn Công cho người trang bị trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    }
+  ]
+}

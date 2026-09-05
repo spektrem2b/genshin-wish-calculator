@@ -1,0 +1,52 @@
+{
+  "id": 14511,
+  "name": {
+    "EN": "A Thousand Floating Dreams",
+    "CHS": "千夜浮梦",
+    "CHT": "千夜浮夢",
+    "DE": "Fließende Träume von tausend Nächten",
+    "ES": "Sueños de las Mil Noches",
+    "FR": "Mille rêves flottants",
+    "ID": "A Thousand Floating Dreams",
+    "IT": "Mille sogni fluttuanti",
+    "JP": "千夜に浮かぶ夢",
+    "KR": "떠오르는 천일 밤의 꿈",
+    "PT": "Sonhos Flutuantes das Mil Noites",
+    "RU": "Сновидения тысячи ночей",
+    "TH": "A Thousand Floating Dreams",
+    "TR": "Binbir Gece Süzülen Rüyalar",
+    "VI": "Cõi Mộng Ngàn Đêm"
+  },
+  "nameEn": "A Thousand Floating Dreams",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days.",
+    "CHS": "浮映千夜之梦的灯盏，苍翠的光中流溢着遥世的歌。",
+    "CHT": "浮映千夜之夢的燈盞，蒼翠的光中流溢著遙世的歌。",
+    "DE": "Eine die fließenden Träume von tausend Nächten erhellende Lampe, in deren smaragdgrünen Licht das Lied der einstigen Welt treibt.",
+    "ES": "Una lámpara que ilumina los sueños de mil noches. De su resplandor esmeralda emana una canción de antaño.",
+    "FR": "Cette lampe illumine les rêves qui flottent sur mille nuits, et dans sa lumière vert émeraude s'écoule un chant des jours anciens.",
+    "ID": "Lampu ini telah menerangi mimpi-mimpi yang melayang lebih dari seribu malam, dan dalam cahaya hijau zamrudnya mengalir lagu yang berasal dari zaman kuno.",
+    "IT": "Questa lampada illumina i sogni che fluttuano per mille notti, e la sua luce verde smeraldo riproduce una canzone di tempi antichi.",
+    "JP": "千夜の夢を映して浮かぶランプ。蒼翠の光から遥かなる世の歌が溢れ出す。",
+    "KR": "천일 밤의 꿈을 비추는 등잔. 푸른빛 속에 먼 곳의 노래가 흐르고 있다",
+    "PT": "Essa lanterna ilumina os sonhos que flutuam sobre as mil noites, e a sua luz esmeralda flui de dias antigos.",
+    "RU": "Эта лампа освещает сновидения тысячи ночей, а в её изумрудном сиянии льётся песнь древности.",
+    "TH": "ตะเกียงที่สะท้อนความฝันของค่ำคืนนับพัน แสงสีเขียวเอ่อล้นไปด้วยบทเพลงแห่งโลกอันไกลโพ้น",
+    "TR": "Bu lamba binbir geceyi aşkındır süzülen rüyaları aydınlatır ve zümrüt yeşili ışığında kadim günlerin bir şarkısı yankılanır.",
+    "VI": "Ngọn đèn ánh lên cõi mộng ngàn đêm, trong ánh sáng xanh lục ấy ẩn chứa khúc ca của ngày trước."
+  },
+  "icon": "generated/weapon-profiles/14511/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 57.6,
+  "substat_lvl90": 264.6144,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

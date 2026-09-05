@@ -1,0 +1,52 @@
+{
+  "id": 14402,
+  "name": {
+    "EN": "The Widsith",
+    "CHS": "流浪乐章",
+    "CHT": "流浪樂章",
+    "DE": "Landstreichernoten",
+    "ES": "Sinfonía de los Merodeadores",
+    "FR": "Mouvement vagabond",
+    "ID": "The Widsith",
+    "IT": "Sinfonia errante",
+    "JP": "流浪楽章",
+    "KR": "음유시인의 악장",
+    "PT": "Sinfonia dos Indolentes",
+    "RU": "Песнь странника",
+    "TH": "The Widsith",
+    "TR": "Göçebenin Nota Kitabı",
+    "VI": "Chương Nhạc Lang Thang"
+  },
+  "nameEn": "The Widsith",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+    "CHS": "记载着歌谱的厚重记事簿。尽管遭受了虫蛀和风化，残留的手迹仍透露出力量。",
+    "CHT": "記載著歌譜的厚重記事簿。儘管遭受了蟲蛀和風化，殘留的手跡仍透露出力量。",
+    "DE": "Ein dickes Notizheft voller Noten. Obgleich halb verwittert, ist die Kraft der Handschrift noch deutlich spürbar.",
+    "ES": "Un pesado cuaderno lleno de partituras. A pesar de que está consumido por las polillas, la escritura sigue mostrando su poder.",
+    "FR": "Un épais carnet couvert de notes. Bien qu'il soit abîmé et rongé par les vers, un grand pouvoir existe dans les mots couchés à la main.",
+    "ID": "Sebuah buku catatan tebal yang berisi beragam tulisan lagu. Meskipun sudah tua dan dimakan ngengat, di dalam tulisannya masih tersimpan kekuatan yang besar.",
+    "IT": "Un grosso taccuino che contiene spartiti musicali. Sebbene danneggiato dalle tarme e da un'usura avanzata, le parole al suo interno racchiudono ancora un grande potere.",
+    "JP": "楽譜が記されているノート。風化と虫の侵食はあるが、それでも筆跡から力を感じられる。",
+    "KR": "노래 악보가 적혀있는 두꺼운 노트. 벌레가 갉아먹고 풍화되긴 했지만 남아있는 필적에서 힘이 느껴진다",
+    "PT": "Um caderno pesado cheio de partituras. Apesar de já estar bastante danificado, ainda há muito poder que pode ser encontrado nas palavras escritas.",
+    "RU": "Эта тяжёлая книга содержит огромное количество песен. Рукописный текст внушает уважение, хоть книга и была поедена молью.",
+    "TH": "หนังสือบันทึกเนื้อเพลงเล่มหนา ๆ ซึ่งถึงแม้จะถูกแมลงและสายลมทำให้ผุกร่อนไปบ้าง แต่ลายมือที่เหลืออยู่ก็ยังคงเผยพลังงานให้เห็นอยู่ดี",
+    "TR": "Notalarla dolu, büyük bir müzik defteri. Güveler ve zaman bu deftere çok acımasız davranmış olsa da, satırlarında bulunabilecek gücün eşi benzeri yok.",
+    "VI": "Quyển sổ dày ghi chép nhiều bản nhạc. Tuy rằng bị mọt gặm nhấm, nhưng bút tích còn sót lại vẫn phát ra sức mạnh."
+  },
+  "icon": "generated/weapon-profiles/14402/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

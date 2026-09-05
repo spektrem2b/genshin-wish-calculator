@@ -1,0 +1,52 @@
+{
+  "id": 14506,
+  "name": {
+    "EN": "Everlasting Moonglow",
+    "CHS": "不灭月华",
+    "CHT": "不滅月華",
+    "DE": "Ewiger Mondschein",
+    "ES": "Luna Inalterable",
+    "FR": "Lueur de la lune éternelle",
+    "ID": "Everlasting Moonglow",
+    "IT": "Luna perenne",
+    "JP": "不滅の月華",
+    "KR": "불멸의 달빛",
+    "PT": "Fumetsu Gekka",
+    "RU": "Вечное лунное сияние",
+    "TH": "Everlasting Moonglow",
+    "TR": "Ebedi Mehtap",
+    "VI": "Vầng Trăng Bất Diệt"
+  },
+  "nameEn": "Everlasting Moonglow",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant.",
+    "CHS": "出自深海的美玉之环，闪烁着清澈如月的光泽，一如遥远往昔。",
+    "CHT": "出自深海的美玉之環，閃爍著清澈如月的光澤，一如遙遠往昔。",
+    "DE": "Ein Ring aus lieblichem Jaspis der Tiefsee. Er glänzt mit einem reinen Glanz wie der des Mondes und genauso unendlich weit.",
+    "ES": "Un anillo de jade procedente de las profundidades del océano. Reluce con un brillo puro y distante como el de la luna.",
+    "FR": "Un joli anneau en jaspe provenant des profondeurs de la mer. Il brille d'un éclat aussi pur que celui de la lune... Et également aussi lointain...",
+    "ID": "Serangkaian cincin giok indah yang berasal dari laut dalam. Mereka memancarkan sinar yang murni seperti rembulan, dan selalu terasa sulit untuk dijangkau.",
+    "IT": "Un'arma di diaspro proveniente dalle profondità marine. Brilla di una luminosità pura e distante come quella della luna.",
+    "JP": "深海から訪れし玉石の輪。今でも遠い過去と変わらぬ、月のように純粋な輝きを見せる。",
+    "KR": "깊은 바다에서 온 옥의 고리. 먼 지난날과 다름없이 달처럼 맑은 광택을 낸다",
+    "PT": "Um lindo cordão de jaspe das profundezas do mar. Ele brilha com um brilho puro, e igualmente distante quanto o da lua.",
+    "RU": "Яшма из морских глубин. Камень сияет прозрачным светом, подобно луне. И подобно луне, ведёт свою историю с давних времён.",
+    "TH": "วงแหวนหยกอันงดงามจากท้องทะเลลึก ยังคงส่องประกายระยิบระยับดุจดวงจันทร์ เฉกเช่นอดีตอันไกลโพ้น",
+    "TR": "Denizin derinliklerinden gelen zarif bir yeşim yüzük. Ay kadar parlak ve bir o kadar ulaşılmaz.",
+    "VI": "Vòng ngọc biển sâu, tỏa ra ánh hào quang thuần khiết như mặt trăng."
+  },
+  "icon": "generated/weapon-profiles/14506/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

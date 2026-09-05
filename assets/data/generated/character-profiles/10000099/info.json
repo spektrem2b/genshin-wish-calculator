@@ -1,0 +1,137 @@
+{
+  "id": "10000099",
+  "name": {
+    "EN": "Emilie",
+    "CHS": "艾梅莉埃",
+    "CHT": "艾梅莉埃",
+    "DE": "Émilie",
+    "ES": "Émilie",
+    "FR": "Émilie",
+    "ID": "Emilie",
+    "IT": "Émilie",
+    "JP": "エミリエ",
+    "KR": "에밀리",
+    "PT": "Emilie",
+    "RU": "Эмилия",
+    "TH": "Emilie",
+    "TR": "Emilie",
+    "VI": "Emilie"
+  },
+  "nameEn": "Emilie",
+  "element": "Dendro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 9,
+    "day": 22
+  },
+  "release": "2024-08-06T15:00:00",
+  "icon": "generated/character-profiles/10000099/avatar.webp",
+  "fullWish": "generated/character-profiles/10000099/full_wish.webp",
+  "fullWishObjectPosition": "64.1% 79.9%",
+  "title": {
+    "EN": "A Thousand Scents Traced",
+    "CHS": "千缕之踪",
+    "CHT": "千縷之蹤",
+    "DE": "Spur der tausend Düfte",
+    "ES": "La Estela de Mil Aromas",
+    "FR": "Tracé de mille parfums",
+    "ID": "A Thousand Scents Traced",
+    "IT": "Scie di mille profumi",
+    "JP": "千の跡を辿って",
+    "KR": "천 갈래 향기의 자취",
+    "PT": "Vislumbres de Mil Aromas",
+    "RU": "След тысячи ароматов",
+    "TH": "รอยกลิ่นหอมนับพัน",
+    "TR": "Binlerce Kokunun Peşinde",
+    "VI": "Muôn Ngàn Hương Thơm"
+  },
+  "description": {
+    "EN": "A Fontainian perfumer, one who bottles secrets.",
+    "CHS": "枫丹香水设计师，将秘密藏于瓶中之人。",
+    "CHT": "楓丹香水設計師，將秘密藏於瓶中之人。",
+    "DE": "Eine Parfümeurin aus Fontaine, die gerne Geheimnisse in Fläschchen abfüllt.",
+    "ES": "Una perfumista de Fontaine que guarda sus secretos en sus frascos.",
+    "FR": "Une parfumeuse fontainoise, celle qui embouteille les secrets.",
+    "ID": "Pembuat parfum dari Fontaine yang menyembunyikan rahasia di dalam botol parfumnya.",
+    "IT": "Una profumiera di Fontaine, che in ogni boccetta racchiude fragranze e segreti.",
+    "JP": "秘密を瓶の中に隠す、フォンテーヌの調香師。",
+    "KR": "폰타인의 조향사. 병 안에 비밀을 숨기고 있다",
+    "PT": "Uma perfumista de Fontaine que engarrafa segredos.",
+    "RU": "Создательница парфюмерии, которая хранит во флаконах секреты.",
+    "TH": "นักปรุงน้ำหอมแห่ง Fontaine ผู้ซ่อนความลับไว้ภายในขวด",
+    "TR": "Sır şişeleyen Fontaineli bir parfümcü.",
+    "VI": "Nhà điều chế nước hoa Fontaine, người cất giấu bí mật trong bình."
+  },
+  "constellationName": {
+    "EN": "Pomum de Ambra",
+    "CHS": "香氛瓶座",
+    "CHT": "香氛瓶座",
+    "DE": "Pomum de Ambra",
+    "ES": "Pomum de Ambra",
+    "FR": "Pomum de Ambra",
+    "ID": "Pomum de Ambra",
+    "IT": "Pomum de Ambra",
+    "JP": "ポムム·ドゥ·アンブラ座",
+    "KR": "향료병자리",
+    "PT": "Pomum de Ambra",
+    "RU": "Флакон Благовоний",
+    "TH": "Pomum de Ambra",
+    "TR": "Misk Şişesi",
+    "VI": "Cung Hương Phấn Bình"
+  },
+  "native": {
+    "EN": "Court of Fontaine",
+    "CHS": "枫丹廷",
+    "CHT": "楓丹廷",
+    "DE": "Hof von Fontaine",
+    "ES": "Corte de Fontaine",
+    "FR": "Cour de Fontaine",
+    "ID": "Court of Fontaine",
+    "IT": "Corte di Fontaine",
+    "JP": "フォンテーヌ廷",
+    "KR": "폰타인성",
+    "PT": "Corte de Fontaine",
+    "RU": "Кур-де-Фонтейн",
+    "TH": "นครว่าการ Fontaine",
+    "TR": "Fontaine Şehri",
+    "VI": "Đại Sảnh Fontaine"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Amber Aviles"
+    },
+    {
+      "lang": "CHS",
+      "va": "木子橙"
+    },
+    {
+      "lang": "JP",
+      "va": "日笠陽子"
+    },
+    {
+      "lang": "KR",
+      "va": "Kwon Da-ye"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1056.2786,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.068,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 56.8385,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

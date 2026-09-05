@@ -1,0 +1,52 @@
+{
+  "id": 11427,
+  "name": {
+    "EN": "The Dockhand's Assistant",
+    "CHS": "船坞长剑",
+    "CHT": "船塢長劍",
+    "DE": "Werftklinge",
+    "ES": "Sable de la Dársena",
+    "FR": "L'assistant du docker",
+    "ID": "The Dockhand's Assistant",
+    "IT": "Aiutante del porto",
+    "JP": "船渠剣",
+    "KR": "뱃도랑 장검",
+    "PT": "A Doca",
+    "RU": "Верфь",
+    "TH": "The Dockhand's Assistant",
+    "TR": "Rıhtım Kılıcı",
+    "VI": "Kiếm Bến Tàu"
+  },
+  "nameEn": "The Dockhand's Assistant",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A convenient cutting tool that you can rarely find nowadays. You can replace the blades as they are dulled by usage.",
+    "CHS": "如今几乎绝迹的便利切割工具，能够随着使用将钝化的刀片换掉。",
+    "CHT": "如今幾乎絕跡的便利切割工具，能夠隨著使用將鈍化的刀片換掉。",
+    "DE": "Ein praktisches Schneidewerkzeug, das heutzutage fast nirgends mehr zu finden ist. Stumpfe Klingen können bei Gebrauch ersetzt werden.",
+    "ES": "Una práctica herramienta de cortar que ya no se puede encontrar en prácticamente ningún sitio. Sus desafiladas cuchillas se pueden ir cambiando conforme se usan.",
+    "FR": "Un outil pratique pour découper que l'on trouve rarement de nos jours. Vous pouvez remplacer les lames émoussées au fur et à mesure que vous les utilisez.",
+    "ID": "Alat pemotong praktis yang sudah hampir punah saat ini. Kamu bisa mengganti mata pisaunya jika sudah tumpul seiring penggunaan.",
+    "IT": "Un comodo strumento da taglio che al giorno d'oggi risulta particolarmente raro. Permette di sostituire facilmente le lame smussate dall'usura.",
+    "JP": "今では、ほとんど見かけなくなった便利な切断ツール。使い込むことで切れ味が鈍くなると、自然と刃が置き換わる。",
+    "KR": "지금은 거의 사라진 편리한 절단 도구. 잦은 사용으로 무뎌져버린 칼날을 교체할 수 있다",
+    "PT": "Uma ferramenta de corte conveniente que raramente é vista hoje em dia. Você pode substituir as lâminas cegas quando usa elas.",
+    "RU": "Удобный режущий инструмент, который в наше время нигде не найти. Затупившиеся лезвия можно заменить.",
+    "TH": "เครื่องมือตัดแบบพกพาสะดวกที่หายากในปัจจุบัน สามารถเปลี่ยนใบมีดที่ทื่อแล้วได้ตามการใช้งาน",
+    "TR": "Bugünlerde nadir bulunan, kullanışlı bir kesici alet. Kullandıkça körelen bıçakları değiştirebilirsin.",
+    "VI": "Công cụ cắt gọt tiện lợi, ngày nay gần như tuyệt tích. Có thể thay thế lưỡi dao bị cùn trong quá trình sử dụng."
+  },
+  "icon": "generated/weapon-profiles/11427/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

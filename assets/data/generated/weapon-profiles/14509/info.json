@@ -1,0 +1,52 @@
+{
+  "id": 14509,
+  "name": {
+    "EN": "Kagura's Verity",
+    "CHS": "神乐之真意",
+    "CHT": "神樂之真意",
+    "DE": "Kaguras Wahrheit",
+    "ES": "Axioma de la Kagura",
+    "FR": "Vérité de Kagura",
+    "ID": "Kagura's Verity",
+    "IT": "Verità della Kagura",
+    "JP": "神楽の真意",
+    "KR": "카구라의 진의",
+    "PT": "Prova de Kagura",
+    "RU": "Истина кагура",
+    "TH": "Kagura's Verity",
+    "TR": "Kagura'nın Hakikati",
+    "VI": "Chân Ý Của Kagura"
+  },
+  "nameEn": "Kagura's Verity",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it.",
+    "CHS": "表演神乐之舞时所用的神铃，为宫司所赐福。神樱之香萦绕其上。",
+    "CHT": "表演神樂之舞時所用的神鈴，為宮司所賜福。神櫻之香縈繞其上。",
+    "DE": "Die Glocke, die bei der Aufführung des Kagura-Tanzes verwendet wird, wurde von der Guuji selbst gesegnet. Der Duft der heiligen Sakura hält noch immer an.",
+    "ES": "Una campana divina bendecida por la Suma Sacerdotisa y usada en las actuaciones de danza kagura. De ella emana la fragancia del Cerezo Sagrado.",
+    "FR": "Les cloches utilisées lors de l'exécution de la danse Kagura, bénies par la guuji elle-même. L'odeur du cerisier sacré s'en dégage.",
+    "ID": "Lonceng yang digunakan saat melakukan Kagura Dance dan diberkati oleh Guuji sendiri. Aroma pohon Sacred Sakura masih ada di atasnya.",
+    "IT": "Le campane usate durante la danza Kagura, benedette dalla Guuji in persona. Il profumo del Sakura sacro vi aleggia incontrastato.",
+    "JP": "神楽舞を披露する際に使われ、宮司の祝福を受けた神鈴。神櫻の香りが漂っている。",
+    "KR": "카구라의 춤을 출 때 사용하는 신의 방울, 궁사의 축복을 받았다. 신성한 벚나무의 향기가 느껴진다",
+    "PT": "Sino usado para a execução da Dança Kagura, abençoado pela própria Guuji. O cheiro da Sakura Sagrada ainda permanece nele.",
+    "RU": "Божественные колокольчики, используемые в ритуальном танце кагура, благословлены самой Гудзи. Вокруг них витает аромат цветков Священной сакуры.",
+    "TH": "กระดิ่งศักดิ์สิทธิ์ที่ถูกใช้ระหว่างการแสดงการรำคางุระ ได้รับพรจาก Guuji โดยตรง และยังคงอบอวลไปด้วยกลิ่นหอมของต้น Sacred Sakura",
+    "TR": "Kagura Dansı sırasında kullanılan bu çanlar bizzat Guuji tarafından kutsanmış ve Kutsal Kiraz Ağacının kokusu üzerlerine sinmiştir.",
+    "VI": "Chuông thần được dùng khi biểu diễn Vũ Điệu Kagura, đã được Guuji chúc phúc. Hương thơm của Anh Đào Thần thoang thoảng trên đó."
+  },
+  "icon": "generated/weapon-profiles/14509/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

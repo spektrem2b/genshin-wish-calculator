@@ -1,0 +1,52 @@
+{
+  "id": 11407,
+  "name": {
+    "EN": "Iron Sting",
+    "CHS": "铁蜂刺",
+    "CHT": "鐵蜂刺",
+    "DE": "Eisenstich",
+    "ES": "Espina de Hierro",
+    "FR": "Piqûre de fer",
+    "ID": "Iron Sting",
+    "IT": "Spina di ferro",
+    "JP": "鉄蜂の刺し",
+    "KR": "강철 벌침",
+    "PT": "Espinho de Ferro",
+    "RU": "Стальное жало",
+    "TH": "Iron Sting",
+    "TR": "Demir Kılıç",
+    "VI": "Thiết Phong Kích"
+  },
+  "nameEn": "Iron Sting",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
+    "CHS": "外形流利的细长刺剑，是从异国经由商路流落到璃月的奇异兵器。轻快无比，剑芒极其锐利。",
+    "CHT": "外形流利的細長刺劍，是從異國經由商路流落到璃月的奇異兵器。輕快無比，劍芒極其銳利。",
+    "DE": "Ein dünner, glatter Degen aus fremden Landen, der auf Handelsrouten seinen Weg nach Liyue gefunden hat. Er ist äußerst leicht und spitz.",
+    "ES": "Una exótica espada que de alguna forma acabó en manos de comerciantes de Liyue. Es ligera, ágil y afilada.",
+    "FR": "Une longue rapière exotique qui a été introduite à Liyue par des commerçants étrangers. Légère et tranchante.",
+    "ID": "Pedang panjang eksotis yang mencapai Liyue melalui perdagangan antar bangsa. Beratnya ringan, mudah diayunkan, dan sangat tajam.",
+    "IT": "Una lunga spada esotica arrivata a Liyue per mezzo di mercanti stranieri. Leggera, agile e affilata.",
+    "JP": "外形が細長い剣、異国から貿易ルートを経て璃月に渡った変わった兵器。とても軽く、刃先が鋭い。",
+    "KR": "외형이 유려하고 가늘고 긴 레이피어. 이국에서 상로를 거쳐 리월로 전해져 온 기이한 병기이다. 가볍기 그지없고 검날이 매우 날카롭다",
+    "PT": "Espada exótica que de alguma forma acabou nas mãos dos comerciantes de Liyue. É leve, ágil e afiada.",
+    "RU": "Экзотическая рапира, каким-то образом попавшая в Ли Юэ. Скорее всего, её привёз какой-то торговец. Она лёгкая и очень острая.",
+    "TH": "ดาบสำหรับแทงรูปร่างเรียวบางที่หาได้ยาก ซึ่งจะพบได้จากเหล่าผู้ค้าจากต่างแดนที่เดินทางมาถึง Liyue มันทั้งเบา คล่องแคล่ว และคม",
+    "TR": "Liyue'ye yabancı tüccarlar tarafından getirilen egzotik bir meç. Hafif, kıvrak ve keskin.",
+    "VI": "Kiếm có ngoại hình thon nhọn, là thần binh lợi khí từ dị quốc theo thương nhân lưu lạc đến Liyue. Nhanh nhẹn hiếm thấy, cực kỳ sắc bén."
+  },
+  "icon": "generated/weapon-profiles/11407/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

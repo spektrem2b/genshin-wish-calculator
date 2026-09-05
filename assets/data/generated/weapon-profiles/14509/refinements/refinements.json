@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Kagura Dance of the Sacred Sakura",
+    "CHS": "神樱神游神乐舞",
+    "CHT": "神櫻神遊神樂舞",
+    "DE": "Kagura-Tanz der heiligen Sakura",
+    "ES": "Danza kagura del Cerezo Sagrado",
+    "FR": "Danse Kagura du cerisier sacré",
+    "ID": "Kagura Dance of the Sacred Sakura",
+    "IT": "Danza Kagura del Sakura sacro",
+    "JP": "神櫻神遊神楽舞",
+    "KR": "신성한 벚나무의 카미아소비 카구라의 춤",
+    "PT": "Dança Kagura da Sakura Sagrada",
+    "RU": "Кагура Священной сакуры",
+    "TH": "Kagura Dance of the Sacred Sakura",
+    "TR": "Kutsal Kiraz Ağacının Kagura Dansı",
+    "VI": "Vũ Điệu Kagura Của Anh Đào Thần"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by 12% as well as their Stellar-Conduct DMG by 12% for 24s. Max 3 stacks. This character will gain a 12% All Elemental DMG Bonus when they possess 3 stacks.",
+        "CHS": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高12%，造成的星超导反应伤害提升12%，该效果持续24秒，至多叠加3层。持有3层时，该角色获得12%所有元素伤害加成。",
+        "CHT": "施放元素戰技時，將獲得「神樂舞」的效果，使裝備該武器的角色的元素戰技造成的傷害提高12%，造成的星超導反應傷害提升12%，該效果持續24秒，至多疊加3層。持有3層時，該角色獲得12%所有元素傷害加成。",
+        "DE": "#Verleiht bei Anwendung von Elementarfähigkeiten den Effekt „Kagura-Tanz“, der den mit Elementarfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden 24 s lang um 12 % sowie den mit der Reaktion Stellar-Supraleiter verursachten Schaden um 12 % erhöht, 3-fach stapelbar. Erhöht bei 3 Stapelungen den Schaden aller Elemente dieser Figur um 12 %.",
+        "ES": "#Al usar la Habilidad Elemental, se obtiene el efecto de “danza kagura”, el cual aumenta en un 12% el daño de la Habilidad Elemental y de la reacción de Superconductor Estelar del personaje que lleva esta arma equipada. Este efecto dura 24 s y puede acumularse hasta 3 veces. Al tener 3 acumulaciones, todos los Bonos de Daño Elemental de dicho personaje aumentan en un 12%.",
+        "FR": "#Libérer une compétence élémentaire confère l'effet Danse Kagura, permettant d'augmenter les DGT infligés par les compétences élémentaires du personnage équipé de l'arme de 12 % et ses DGT de réaction d'Astroconduction de 12 %, le tout pendant 24 s. Cet effet peut être cumulé 3 fois maximum. Avec 3 cumuls, le personnage bénéficie d'un bonus de DGT élémentaires de 12 %.",
+        "ID": "Saat melancarkan Elemental Skill, akan memperoleh efek Kagura Dance yang akan meningkatkan DMG Elemental Skill sebesar 12% dan DMG reaksi Stellar-Conduct yang diakibatkan Karakter pengguna Senjata ini sebesar 12% selama 24 detik. Dapat ditumpuk sampai 3 lapis. Saat memiliki 3 lapis, Karakter yang mengenakan akan memperoleh 12% Elemental DMG Bonus seluruh elemen.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Danza Kagura, che aumenta di un 12% per 24 s i DAN da abilità elementale e i DAN da Astroconduzione del personaggio che equipaggia l'arma. Cumulabile fino a 3 volte. Quando possiede 3 accumuli, il personaggio ottiene un 12% di bonus DAN per tutti gli elementi.",
+        "JP": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+12%、与える星電導反応のダメージ+12%、継続時間24秒、最大3層まで。3層の効果を持つ時、このキャラクターの全元素ダメージ+12%。",
+        "KR": "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬 피해가 12% 증가하고, 별 초전도 반응 피해가 12% 증가한다. 해당 효과 지속 시간: 24초, 최대 중첩수: 3스택. 3스택 보유 시 해당 캐릭터가 모든 원소 피해 보너스를 12% 획득한다",
+        "PT": "Ao lançar a Habilidade Elemental, obtém o efeito Dança Kagura, aumentando o Dano da Habilidade Elemental do portador em 12%, e aumentando o Dano de Supercondutor Estelar em 12% por 24s. Acumulável até 3 vezes. Ao possuir 3 acúmulos, esse personagem obtém 12% de bônus de todos os Danos Elementais.",
+        "RU": "Использование элементального навыка наделяет экипированного персонажа эффектом Танец кагура, который увеличивает урон его элементального навыка и реакции Звёздный проводник на 12%. Эффект длится 24 сек. и может складываться до 3 раз. При наличии 3 уровней эффекта персонаж получает 12% бонус урона всеми элементами.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับเอฟเฟกต์ Kagura Dance โดยจะทำให้สกิลธาตุของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 12% และสร้างความเสียหายจากปฏิกิริยานำไฟฟ้าดาราเพิ่มขึ้น 12% ซึ่งเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 24 วินาที ซ้อนทับได้มากสุด 3 ชั้น และเมื่อครบ 3 ชั้น ตัวละครดังกล่าวจะได้รับโบนัสความเสียหายธาตุทั้งหมด 12%",
+        "TR": "Element Becerisi kullanmak, Kagura Dansı etkisi sağlayarak kuşanan karakterin Element Becerisi Hasarını %12 ve Yıldız İletimi Hasarını %12 artırır. Bu etki 24 saniye sürer. 3 kademeye kadar birikebilir. Bu karakter 3 kademeye sahip olduğunda %12 Tüm Element Hasarları Bonusu kazanır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng 12% sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng 12%. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được 12% buff sát thương tất cả nguyên tố."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by 15% as well as their Stellar-Conduct DMG by 15% for 24s. Max 3 stacks. This character will gain a 15% All Elemental DMG Bonus when they possess 3 stacks.",
+        "CHS": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高15%，造成的星超导反应伤害提升15%，该效果持续24秒，至多叠加3层。持有3层时，该角色获得15%所有元素伤害加成。",
+        "CHT": "施放元素戰技時，將獲得「神樂舞」的效果，使裝備該武器的角色的元素戰技造成的傷害提高15%，造成的星超導反應傷害提升15%，該效果持續24秒，至多疊加3層。持有3層時，該角色獲得15%所有元素傷害加成。",
+        "DE": "#Verleiht bei Anwendung von Elementarfähigkeiten den Effekt „Kagura-Tanz“, der den mit Elementarfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden 24 s lang um 15 % sowie den mit der Reaktion Stellar-Supraleiter verursachten Schaden um 15 % erhöht, 3-fach stapelbar. Erhöht bei 3 Stapelungen den Schaden aller Elemente dieser Figur um 15 %.",
+        "ES": "#Al usar la Habilidad Elemental, se obtiene el efecto de “danza kagura”, el cual aumenta en un 15% el daño de la Habilidad Elemental y de la reacción de Superconductor Estelar del personaje que lleva esta arma equipada. Este efecto dura 24 s y puede acumularse hasta 3 veces. Al tener 3 acumulaciones, todos los Bonos de Daño Elemental de dicho personaje aumentan en un 15%.",
+        "FR": "#Libérer une compétence élémentaire confère l'effet Danse Kagura, permettant d'augmenter les DGT infligés par les compétences élémentaires du personnage équipé de l'arme de 15 % et ses DGT de réaction d'Astroconduction de 15 %, le tout pendant 24 s. Cet effet peut être cumulé 3 fois maximum. Avec 3 cumuls, le personnage bénéficie d'un bonus de DGT élémentaires de 15 %.",
+        "ID": "Saat melancarkan Elemental Skill, akan memperoleh efek Kagura Dance yang akan meningkatkan DMG Elemental Skill sebesar 15% dan DMG reaksi Stellar-Conduct yang diakibatkan Karakter pengguna Senjata ini sebesar 15% selama 24 detik. Dapat ditumpuk sampai 3 lapis. Saat memiliki 3 lapis, Karakter yang mengenakan akan memperoleh 15% Elemental DMG Bonus seluruh elemen.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Danza Kagura, che aumenta di un 15% per 24 s i DAN da abilità elementale e i DAN da Astroconduzione del personaggio che equipaggia l'arma. Cumulabile fino a 3 volte. Quando possiede 3 accumuli, il personaggio ottiene un 15% di bonus DAN per tutti gli elementi.",
+        "JP": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+15%、与える星電導反応のダメージ+15%、継続時間24秒、最大3層まで。3層の効果を持つ時、このキャラクターの全元素ダメージ+15%。",
+        "KR": "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬 피해가 15% 증가하고, 별 초전도 반응 피해가 15% 증가한다. 해당 효과 지속 시간: 24초, 최대 중첩수: 3스택. 3스택 보유 시 해당 캐릭터가 모든 원소 피해 보너스를 15% 획득한다",
+        "PT": "Ao lançar a Habilidade Elemental, obtém o efeito Dança Kagura, aumentando o Dano da Habilidade Elemental do portador em 15%, e aumentando o Dano de Supercondutor Estelar em 15% por 24s. Acumulável até 3 vezes. Ao possuir 3 acúmulos, esse personagem obtém 15% de bônus de todos os Danos Elementais.",
+        "RU": "Использование элементального навыка наделяет экипированного персонажа эффектом Танец кагура, который увеличивает урон его элементального навыка и реакции Звёздный проводник на 15%. Эффект длится 24 сек. и может складываться до 3 раз. При наличии 3 уровней эффекта персонаж получает 15% бонус урона всеми элементами.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับเอฟเฟกต์ Kagura Dance โดยจะทำให้สกิลธาตุของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 15% และสร้างความเสียหายจากปฏิกิริยานำไฟฟ้าดาราเพิ่มขึ้น 15% ซึ่งเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 24 วินาที ซ้อนทับได้มากสุด 3 ชั้น และเมื่อครบ 3 ชั้น ตัวละครดังกล่าวจะได้รับโบนัสความเสียหายธาตุทั้งหมด 15%",
+        "TR": "Element Becerisi kullanmak, Kagura Dansı etkisi sağlayarak kuşanan karakterin Element Becerisi Hasarını %15 ve Yıldız İletimi Hasarını %15 artırır. Bu etki 24 saniye sürer. 3 kademeye kadar birikebilir. Bu karakter 3 kademeye sahip olduğunda %15 Tüm Element Hasarları Bonusu kazanır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng 15% sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng 15%. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được 15% buff sát thương tất cả nguyên tố."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by 18% as well as their Stellar-Conduct DMG by 18% for 24s. Max 3 stacks. This character will gain a 18% All Elemental DMG Bonus when they possess 3 stacks.",
+        "CHS": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高18%，造成的星超导反应伤害提升18%，该效果持续24秒，至多叠加3层。持有3层时，该角色获得18%所有元素伤害加成。",
+        "CHT": "施放元素戰技時，將獲得「神樂舞」的效果，使裝備該武器的角色的元素戰技造成的傷害提高18%，造成的星超導反應傷害提升18%，該效果持續24秒，至多疊加3層。持有3層時，該角色獲得18%所有元素傷害加成。",
+        "DE": "#Verleiht bei Anwendung von Elementarfähigkeiten den Effekt „Kagura-Tanz“, der den mit Elementarfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden 24 s lang um 18 % sowie den mit der Reaktion Stellar-Supraleiter verursachten Schaden um 18 % erhöht, 3-fach stapelbar. Erhöht bei 3 Stapelungen den Schaden aller Elemente dieser Figur um 18 %.",
+        "ES": "#Al usar la Habilidad Elemental, se obtiene el efecto de “danza kagura”, el cual aumenta en un 18% el daño de la Habilidad Elemental y de la reacción de Superconductor Estelar del personaje que lleva esta arma equipada. Este efecto dura 24 s y puede acumularse hasta 3 veces. Al tener 3 acumulaciones, todos los Bonos de Daño Elemental de dicho personaje aumentan en un 18%.",
+        "FR": "#Libérer une compétence élémentaire confère l'effet Danse Kagura, permettant d'augmenter les DGT infligés par les compétences élémentaires du personnage équipé de l'arme de 18 % et ses DGT de réaction d'Astroconduction de 18 %, le tout pendant 24 s. Cet effet peut être cumulé 3 fois maximum. Avec 3 cumuls, le personnage bénéficie d'un bonus de DGT élémentaires de 18 %.",
+        "ID": "Saat melancarkan Elemental Skill, akan memperoleh efek Kagura Dance yang akan meningkatkan DMG Elemental Skill sebesar 18% dan DMG reaksi Stellar-Conduct yang diakibatkan Karakter pengguna Senjata ini sebesar 18% selama 24 detik. Dapat ditumpuk sampai 3 lapis. Saat memiliki 3 lapis, Karakter yang mengenakan akan memperoleh 18% Elemental DMG Bonus seluruh elemen.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Danza Kagura, che aumenta di un 18% per 24 s i DAN da abilità elementale e i DAN da Astroconduzione del personaggio che equipaggia l'arma. Cumulabile fino a 3 volte. Quando possiede 3 accumuli, il personaggio ottiene un 18% di bonus DAN per tutti gli elementi.",
+        "JP": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+18%、与える星電導反応のダメージ+18%、継続時間24秒、最大3層まで。3層の効果を持つ時、このキャラクターの全元素ダメージ+18%。",
+        "KR": "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬 피해가 18% 증가하고, 별 초전도 반응 피해가 18% 증가한다. 해당 효과 지속 시간: 24초, 최대 중첩수: 3스택. 3스택 보유 시 해당 캐릭터가 모든 원소 피해 보너스를 18% 획득한다",
+        "PT": "Ao lançar a Habilidade Elemental, obtém o efeito Dança Kagura, aumentando o Dano da Habilidade Elemental do portador em 18%, e aumentando o Dano de Supercondutor Estelar em 18% por 24s. Acumulável até 3 vezes. Ao possuir 3 acúmulos, esse personagem obtém 18% de bônus de todos os Danos Elementais.",
+        "RU": "Использование элементального навыка наделяет экипированного персонажа эффектом Танец кагура, который увеличивает урон его элементального навыка и реакции Звёздный проводник на 18%. Эффект длится 24 сек. и может складываться до 3 раз. При наличии 3 уровней эффекта персонаж получает 18% бонус урона всеми элементами.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับเอฟเฟกต์ Kagura Dance โดยจะทำให้สกิลธาตุของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 18% และสร้างความเสียหายจากปฏิกิริยานำไฟฟ้าดาราเพิ่มขึ้น 18% ซึ่งเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 24 วินาที ซ้อนทับได้มากสุด 3 ชั้น และเมื่อครบ 3 ชั้น ตัวละครดังกล่าวจะได้รับโบนัสความเสียหายธาตุทั้งหมด 18%",
+        "TR": "Element Becerisi kullanmak, Kagura Dansı etkisi sağlayarak kuşanan karakterin Element Becerisi Hasarını %18 ve Yıldız İletimi Hasarını %18 artırır. Bu etki 24 saniye sürer. 3 kademeye kadar birikebilir. Bu karakter 3 kademeye sahip olduğunda %18 Tüm Element Hasarları Bonusu kazanır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng 18% sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng 18%. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được 18% buff sát thương tất cả nguyên tố."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by 21% as well as their Stellar-Conduct DMG by 21% for 24s. Max 3 stacks. This character will gain a 21% All Elemental DMG Bonus when they possess 3 stacks.",
+        "CHS": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高21%，造成的星超导反应伤害提升21%，该效果持续24秒，至多叠加3层。持有3层时，该角色获得21%所有元素伤害加成。",
+        "CHT": "施放元素戰技時，將獲得「神樂舞」的效果，使裝備該武器的角色的元素戰技造成的傷害提高21%，造成的星超導反應傷害提升21%，該效果持續24秒，至多疊加3層。持有3層時，該角色獲得21%所有元素傷害加成。",
+        "DE": "#Verleiht bei Anwendung von Elementarfähigkeiten den Effekt „Kagura-Tanz“, der den mit Elementarfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden 24 s lang um 21 % sowie den mit der Reaktion Stellar-Supraleiter verursachten Schaden um 21 % erhöht, 3-fach stapelbar. Erhöht bei 3 Stapelungen den Schaden aller Elemente dieser Figur um 21 %.",
+        "ES": "#Al usar la Habilidad Elemental, se obtiene el efecto de “danza kagura”, el cual aumenta en un 21% el daño de la Habilidad Elemental y de la reacción de Superconductor Estelar del personaje que lleva esta arma equipada. Este efecto dura 24 s y puede acumularse hasta 3 veces. Al tener 3 acumulaciones, todos los Bonos de Daño Elemental de dicho personaje aumentan en un 21%.",
+        "FR": "#Libérer une compétence élémentaire confère l'effet Danse Kagura, permettant d'augmenter les DGT infligés par les compétences élémentaires du personnage équipé de l'arme de 21 % et ses DGT de réaction d'Astroconduction de 21 %, le tout pendant 24 s. Cet effet peut être cumulé 3 fois maximum. Avec 3 cumuls, le personnage bénéficie d'un bonus de DGT élémentaires de 21 %.",
+        "ID": "Saat melancarkan Elemental Skill, akan memperoleh efek Kagura Dance yang akan meningkatkan DMG Elemental Skill sebesar 21% dan DMG reaksi Stellar-Conduct yang diakibatkan Karakter pengguna Senjata ini sebesar 21% selama 24 detik. Dapat ditumpuk sampai 3 lapis. Saat memiliki 3 lapis, Karakter yang mengenakan akan memperoleh 21% Elemental DMG Bonus seluruh elemen.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Danza Kagura, che aumenta di un 21% per 24 s i DAN da abilità elementale e i DAN da Astroconduzione del personaggio che equipaggia l'arma. Cumulabile fino a 3 volte. Quando possiede 3 accumuli, il personaggio ottiene un 21% di bonus DAN per tutti gli elementi.",
+        "JP": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+21%、与える星電導反応のダメージ+21%、継続時間24秒、最大3層まで。3層の効果を持つ時、このキャラクターの全元素ダメージ+21%。",
+        "KR": "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬 피해가 21% 증가하고, 별 초전도 반응 피해가 21% 증가한다. 해당 효과 지속 시간: 24초, 최대 중첩수: 3스택. 3스택 보유 시 해당 캐릭터가 모든 원소 피해 보너스를 21% 획득한다",
+        "PT": "Ao lançar a Habilidade Elemental, obtém o efeito Dança Kagura, aumentando o Dano da Habilidade Elemental do portador em 21%, e aumentando o Dano de Supercondutor Estelar em 21% por 24s. Acumulável até 3 vezes. Ao possuir 3 acúmulos, esse personagem obtém 21% de bônus de todos os Danos Elementais.",
+        "RU": "Использование элементального навыка наделяет экипированного персонажа эффектом Танец кагура, который увеличивает урон его элементального навыка и реакции Звёздный проводник на 21%. Эффект длится 24 сек. и может складываться до 3 раз. При наличии 3 уровней эффекта персонаж получает 21% бонус урона всеми элементами.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับเอฟเฟกต์ Kagura Dance โดยจะทำให้สกิลธาตุของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 21% และสร้างความเสียหายจากปฏิกิริยานำไฟฟ้าดาราเพิ่มขึ้น 21% ซึ่งเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 24 วินาที ซ้อนทับได้มากสุด 3 ชั้น และเมื่อครบ 3 ชั้น ตัวละครดังกล่าวจะได้รับโบนัสความเสียหายธาตุทั้งหมด 21%",
+        "TR": "Element Becerisi kullanmak, Kagura Dansı etkisi sağlayarak kuşanan karakterin Element Becerisi Hasarını %21 ve Yıldız İletimi Hasarını %21 artırır. Bu etki 24 saniye sürer. 3 kademeye kadar birikebilir. Bu karakter 3 kademeye sahip olduğunda %21 Tüm Element Hasarları Bonusu kazanır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng 21% sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng 21%. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được 21% buff sát thương tất cả nguyên tố."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by 24% as well as their Stellar-Conduct DMG by 24% for 24s. Max 3 stacks. This character will gain a 24% All Elemental DMG Bonus when they possess 3 stacks.",
+        "CHS": "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高24%，造成的星超导反应伤害提升24%，该效果持续24秒，至多叠加3层。持有3层时，该角色获得24%所有元素伤害加成。",
+        "CHT": "施放元素戰技時，將獲得「神樂舞」的效果，使裝備該武器的角色的元素戰技造成的傷害提高24%，造成的星超導反應傷害提升24%，該效果持續24秒，至多疊加3層。持有3層時，該角色獲得24%所有元素傷害加成。",
+        "DE": "#Verleiht bei Anwendung von Elementarfähigkeiten den Effekt „Kagura-Tanz“, der den mit Elementarfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden 24 s lang um 24 % sowie den mit der Reaktion Stellar-Supraleiter verursachten Schaden um 24 % erhöht, 3-fach stapelbar. Erhöht bei 3 Stapelungen den Schaden aller Elemente dieser Figur um 24 %.",
+        "ES": "#Al usar la Habilidad Elemental, se obtiene el efecto de “danza kagura”, el cual aumenta en un 24% el daño de la Habilidad Elemental y de la reacción de Superconductor Estelar del personaje que lleva esta arma equipada. Este efecto dura 24 s y puede acumularse hasta 3 veces. Al tener 3 acumulaciones, todos los Bonos de Daño Elemental de dicho personaje aumentan en un 24%.",
+        "FR": "#Libérer une compétence élémentaire confère l'effet Danse Kagura, permettant d'augmenter les DGT infligés par les compétences élémentaires du personnage équipé de l'arme de 24 % et ses DGT de réaction d'Astroconduction de 24 %, le tout pendant 24 s. Cet effet peut être cumulé 3 fois maximum. Avec 3 cumuls, le personnage bénéficie d'un bonus de DGT élémentaires de 24 %.",
+        "ID": "Saat melancarkan Elemental Skill, akan memperoleh efek Kagura Dance yang akan meningkatkan DMG Elemental Skill sebesar 24% dan DMG reaksi Stellar-Conduct yang diakibatkan Karakter pengguna Senjata ini sebesar 24% selama 24 detik. Dapat ditumpuk sampai 3 lapis. Saat memiliki 3 lapis, Karakter yang mengenakan akan memperoleh 24% Elemental DMG Bonus seluruh elemen.",
+        "IT": "#Usare un'abilità elementale conferisce l'effetto Danza Kagura, che aumenta di un 24% per 24 s i DAN da abilità elementale e i DAN da Astroconduzione del personaggio che equipaggia l'arma. Cumulabile fino a 3 volte. Quando possiede 3 accumuli, il personaggio ottiene un 24% di bonus DAN per tutti gli elementi.",
+        "JP": "元素スキルを発動すると、「神楽舞」の効果を獲得する。この武器を装備したキャラクターの元素スキルによるダメージ+24%、与える星電導反応のダメージ+24%、継続時間24秒、最大3層まで。3層の効果を持つ時、このキャラクターの全元素ダメージ+24%。",
+        "KR": "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬 피해가 24% 증가하고, 별 초전도 반응 피해가 24% 증가한다. 해당 효과 지속 시간: 24초, 최대 중첩수: 3스택. 3스택 보유 시 해당 캐릭터가 모든 원소 피해 보너스를 24% 획득한다",
+        "PT": "Ao lançar a Habilidade Elemental, obtém o efeito Dança Kagura, que aumenta o Dano da Habilidade Elemental do portador em 24% e o Dano de Supercondutor Estelar em 24% por 24s. Acumulável até 3 vezes. Ao possuir 3 acúmulos, esse personagem obtém 24% de bônus de todos os Danos Elementais.",
+        "RU": "Использование элементального навыка наделяет экипированного персонажа эффектом Танец кагура, который увеличивает урон его элементального навыка и реакции Звёздный проводник на 24%. Эффект длится 24 сек. и может складываться до 3 раз. При наличии 3 уровней эффекта персонаж получает 24% бонус урона всеми элементами.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับเอฟเฟกต์ Kagura Dance โดยจะทำให้สกิลธาตุของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 24% และสร้างความเสียหายจากปฏิกิริยานำไฟฟ้าดาราเพิ่มขึ้น 24% ซึ่งเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 24 วินาที ซ้อนทับได้มากสุด 3 ชั้น และเมื่อครบ 3 ชั้น ตัวละครดังกล่าวจะได้รับโบนัสความเสียหายธาตุทั้งหมด 24%",
+        "TR": "Element Becerisi kullanmak, Kagura Dansı etkisi sağlayarak kuşanan karakterin Element Becerisi Hasarını %24 ve Yıldız İletimi Hasarını %24 artırır. Bu etki 24 saniye sürer. 3 kademeye kadar birikebilir. Bu karakter 3 kademeye sahip olduğunda %24 Tüm Element Hasarları Bonusu kazanır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng 24% sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng 24%. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được 24% buff sát thương tất cả nguyên tố."
+      }
+    }
+  ]
+}

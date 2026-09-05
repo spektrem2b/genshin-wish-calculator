@@ -1,0 +1,52 @@
+{
+  "id": 13426,
+  "name": {
+    "EN": "Dialogues of the Desert Sages",
+    "CHS": "沙中伟贤的对答",
+    "CHT": "沙中偉賢的對答",
+    "DE": "Dialoge der Weisen der Wüste",
+    "ES": "Discusión de los Sabios del Desierto",
+    "FR": "Dialogues des sages du désert",
+    "ID": "Dialogues of the Desert Sages",
+    "IT": "Dialoghi dei saggi del deserto",
+    "JP": "砂中の賢者達の問答",
+    "KR": "위대한 사막 현자의 대답",
+    "PT": "Conversas dos Sábios do Deserto",
+    "RU": "Диалог пустынных мудрецов",
+    "TH": "Dialogues of the Desert Sages",
+    "TR": "Çöl Alimleriyle Sohbet",
+    "VI": "Đối Thoại Của Hiền Giả Sa Mạc"
+  },
+  "nameEn": "Dialogues of the Desert Sages",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A caduceus symbolizing the glory of alchemy, made from special alloys to match its special status. It is exceedingly rigid and heavy, and would probably hurt pretty bad if used as a cudgel.",
+    "CHS": "象征炼金术荣耀的双蛇杖，因其地位特殊使用了特殊合金。刚度很高，重量很重，拿来打人也一定很疼。",
+    "CHT": "象徵煉金術榮耀的雙蛇杖，因其地位特殊使用了特殊合金。剛度很高、重量很重，拿來打人也一定很痛。",
+    "DE": "Ein Caduceus, der den Ruhm der Alchimie symbolisiert und aus einer besonderen Legierung hergestellt wurde, um seinem besonderen Status gerecht zu werden. Er ist äußerst fest und schwer, sodass er wahrscheinlich ziemlich wehtun würde, wenn man ihn als Knüppel verwenden würde.",
+    "ES": "Un caduceo que simboliza la gloria de la alquimia y que, debido a su estatus, se ha empleado una aleación especial para su elaboración. Es extremadamente firme y pesado, lo que hace que con él se puedan propinar buenos golpes.",
+    "FR": "Un caducée symbolisant la gloire de l'alchimie, fabriqué à partir d'alliages spéciaux qui correspondent à son statut particulier. Il est extrêmement rigide et lourd, et ferait probablement très mal s'il était utilisé comme un gourdin.",
+    "ID": "Tongkat dua ular yang melambangkan kejayaan alkimia. Benda ini menggunakan perpaduan khusus sehingga sangatlah keras dan berat. Pasti sakit sekali kalau dipakai untuk memukul orang.",
+    "IT": "Un caduceo simbolo della gloria alchemica, creato con speciali leghe che ne valorizzano il prestigio. È estremamente rigido e pesante, e usato come randello potrebbe causare ferite piuttosto gravi.",
+    "JP": "錬金術の栄光を象徴するケーリュケイオン。その特殊な位置づけから特別な合金が使われている。非常に剛性が高く重いため、これを使って人を殴ったらかなり痛そうだ。",
+    "KR": "연금술의 명예를 상징하는 쌍뱀 지팡이. 지위에 걸맞게 특수한 합금을 사용했다. 튼튼하고 무거워 사람을 때릴 경우 큰 고통을 줄 수 있을 것 같다",
+    "PT": "Um caduceu simbolizando a glória da alquimia, feito de ligas especiais para combinar com seu status especial. É extremamente rígido e pesado e provavelmente causaria bastante dor se usado como um porrete.",
+    "RU": "Символизирующий славу алхимии кадуцей, который ввиду своего особого статуса был изготовлен из особого сплава. Удары этим чрезвычайно жёстким и неимоверно тяжёлым жезлом несомненно очень болезненны.",
+    "TH": "คทาอสรพิษคู่ซึ่งเป็นสัญลักษณ์แห่งความรุ่งโรจน์ของการเล่นแร่แปรธาตุ เนื่องจากสถานะที่พิเศษจึงสร้างจากโลหะผสมชนิดพิเศษ ซึ่งมีความแข็งแกร่งสูง และหนักมาก หากนำไปทุบตีคงจะเจ็บไม่น้อย",
+    "TR": "Simyanın şanını temsil eden bir asa. İtibarına yakışacak şekilde özel bir alaşımdan yapılmıştır. Son derece sağlam ve ağır olduğundan bir silah olarak kullanıldığında epey can yakar.",
+    "VI": "Quyền trượng vinh quang của thuật giả kim, được làm từ hợp kim đặc biệt để phù hợp với địa vị của nó. Quyền trượng rất cứng và nặng, dùng để đánh người cũng sẽ rất đau."
+  },
+  "icon": "generated/weapon-profiles/13426/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

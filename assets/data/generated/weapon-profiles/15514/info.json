@@ -1,0 +1,52 @@
+{
+  "id": 15514,
+  "name": {
+    "EN": "Astral Vulture's Crimson Plumage",
+    "CHS": "星鹫赤羽",
+    "CHT": "星鷲赤羽",
+    "DE": "Karmesinrotes Federkleid des Astralgeiers",
+    "ES": "Pluma Carmesí Buitreastral",
+    "FR": "Plumage cramoisi du vautour astral",
+    "ID": "Astral Vulture's Crimson Plumage",
+    "IT": "Piuma cremisi dell'avvoltoio astrale",
+    "JP": "星鷲の紅き羽",
+    "KR": "붉은 깃 별독수리",
+    "PT": "Plumagem Escarlate do Abutre Astral",
+    "RU": "Алое перо звёздного грифа",
+    "TH": "Astral Vulture's Crimson Plumage",
+    "TR": "Astral Akbabanın Kızıl Tüyü",
+    "VI": "Xích Vũ Tinh Tựu"
+  },
+  "nameEn": "Astral Vulture's Crimson Plumage",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "An ancient longbow crested with red feathers, a sacred relic of the Flower-Feather Clan that has been passed down from generation to generation.",
+    "CHS": "饰以赤色翎羽的古老长弓，花羽会世代传承的圣物之一。",
+    "CHT": "飾以赤色翎羽的古老長弓，花羽會世代傳承的聖物之一。",
+    "DE": "Ein uralter, mit roten Federn geschmückter Langbogen, eines der Heiligtümer des Blumenfeder-Klans, die von Generation zu Generation weitergegeben wurden.",
+    "ES": "Un antiguo arco largo adornado con plumas de color carmesí que ha pasado de generación en generación en la Tribu Plumaflora.",
+    "FR": "Ancien arc long surmonté de plumes rouges, cette relique sacrée du Clan des fleurplumes a été transmise de génération en génération.",
+    "ID": "Busur panjang kuno dengan dekorasi bulu berwarna merah, relik suci yang sudah diturunkan oleh Bunga Bersayap selama generasi demi generasi.",
+    "IT": "Un antico arco lungo decorato con piume rosse, una reliquia sacra del Clan Piumafiore tramandata di generazione in generazione.",
+    "JP": "紅い羽根で飾られた古い長弓。花翼の集に代々受け継がれるレリックの一つ。",
+    "KR": "붉은 깃을 닮은 고대 장궁. 꽃깃회에서 대대로 계승된 성물중 하나다",
+    "PT": "Um arco antigo com penas vermelhas. É uma relíquia sagrada do Clã das Plumas de Flores que passou de geração em geração.",
+    "RU": "Древний длинный лук, украшенный красными перьями. Это священная реликвия, которая передавалась из поколения в поколение в клане Цветочного Пера.",
+    "TH": "ธนูยาวโบราณ ที่ประดับด้วยขนนกสีแดง ถือเป็นหนึ่งในวัตถุศักดิ์สิทธิ์ ที่สืบทอดมาจากรุ่นสู่รุ่น ของวงศ์ปีกบุปผา",
+    "TR": "Kırmızı tüylerle süslenen eski bir uzun yay. Çiçek Tüyü Klanında nesilden nesile aktarılan kutsal bir yadigardır.",
+    "VI": "Cây cung cổ xưa được trang trí bằng lông vũ màu đỏ, là một trong những thánh vật được Hội Hoa Vũ lưu truyền từ thế hệ này sang thế hệ khác."
+  },
+  "icon": "generated/weapon-profiles/15514/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.144,
+  "substat_lvl90": 0.6615,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 15009,
+  "name": {
+    "EN": "Prayers for Illumination",
+    "CHS": "祭火之人",
+    "CHT": "祭火之人",
+    "DE": "Feueropfer",
+    "ES": "Ritual de la Iluminación",
+    "FR": "Sacrifieur Pyro",
+    "ID": "Prayers for Illumination",
+    "IT": "Sacrificio di Pyro",
+    "JP": "火祭りの人",
+    "KR": "불을 모시는 자",
+    "PT": "Xamã do Ritual Pyro",
+    "RU": "Шаман огня",
+    "TH": "Prayers for Illumination",
+    "TR": "Aydınlanma Duası",
+    "VI": "Người Tế Hỏa"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/15009/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Affected by Pyro for 40% less time.",
+        "CHS": "受到的火元素附着效果的持续时间减少40%。",
+        "CHT": "受到的火元素附著效果的持續時間減少40%。",
+        "DE": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Pyro-Attribut um 40 %.",
+        "ES": "Los efectos de Pyro causados sobre ti duran un 40% menos.",
+        "FR": "Diminue la durée des effets Pyro subis de 40 %.",
+        "ID": "Mengurangi 40% durasi efek Pyro yang diterima.",
+        "IT": "Riduce la durata dell'effetto di Pyro di un 40%.",
+        "JP": "受けた炎元素付着の効果継続時間-40%。",
+        "KR": "받는 불 원소 부착 효과 지속 시간이 40% 감소한다",
+        "PT": "Reduz a duração dos efeitos causados por Pyro em 40%.",
+        "RU": "Уменьшает длительность полученного Пиро эффекта на 40%.",
+        "TH": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุไฟลง 40%",
+        "TR": "Ateş etkisinde kalma süresini %40 kısaltır.",
+        "VI": "Thời gian duy trì hiệu quả ấn nguyên tố Hỏa giảm 40%."
+      },
+      "affixId": "2150090"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 15401,
+  "name": {
+    "EN": "Favonius Warbow",
+    "CHS": "西风猎弓",
+    "CHT": "西風獵弓",
+    "DE": "Favonius-Jagdbogen",
+    "ES": "Arco de Favonius",
+    "FR": "Arc de chasse de Favonius",
+    "ID": "Favonius Warbow",
+    "IT": "Arco da guerra di Favonius",
+    "JP": "西風猟弓",
+    "KR": "페보니우스 활",
+    "PT": "Arco de Favonius",
+    "RU": "Боевой лук Фавония",
+    "TH": "Favonius Warbow",
+    "TR": "Favonius Savaş Yayı",
+    "VI": "Cung Tây Phong"
+  },
+  "nameEn": "Favonius Warbow",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+    "CHS": "西风骑士团的制式反曲弓，只有杰出的弓手能与它的杰出性能相衬。",
+    "CHT": "西風騎士團的制式反曲弓，只有傑出的弓手能與它的傑出性能相襯。",
+    "DE": "Der Standardreflexbogen des Ordo Favonius, den nur die besten Schützen bedienen und seine Leistung voll ausnutzen können.",
+    "ES": "Un arco recurvo estándar de los Caballeros de Favonius. Solo los mejores arqueros pueden aprovechar todo su potencial.",
+    "FR": "Un arc manié par les chevaliers de l'Ordre de Favonius. Seuls les meilleurs archers pourront tirer le maximum de son potentiel.",
+    "ID": "Recurve Bow sederhana yang digunakan oleh Knights of Favonius. Hanya pemanah terhandal yang dapat menggunakan busur ini sampai ke potensi terbesarnya.",
+    "IT": "Un arco ricurvo d'ordinanza dei Cavalieri di Favonius. Solo gli arcieri migliori possono sprigionarne appieno il potenziale.",
+    "JP": "西風騎士団でよく使われる弓。優れた弓使いだけがその優れた性能を発揮できる。",
+    "KR": "페보니우스 기사단의 제식 리커브드 보우. 뛰어난 궁수들만이 그 뛰어난 성능에 어울린다",
+    "PT": "Um arco recurvo usado pelos Cavaleiros de Favonius. Apenas os melhores arqueiros conseguem tirar todo o seu potencial.",
+    "RU": "Лук, входящий в стандартную экипировку рыцарей Ордо Фавониус, но только самые опытные лучники могут использовать весь его потенциал.",
+    "TH": "ธนูปลายโค้งกลับแบบทั่วไปที่ใช้งานโดยกองอัศวินแห่ง Favonius มีเพียงยอดนักธนูเท่านั้นที่จะดึงพลังสูงสุดของมันออกมาได้",
+    "TR": "Favonius Okçuları tarafından kullanılan bir yay. Bu silahın hakkını sadece en usta okçular verebilir.",
+    "VI": "Cung Phản Khúc của đội Đội Kỵ Sĩ Tây Phong, chỉ có cung thủ kiệt xuất mới có thể sử dụng được tính năng kiệt xuất của nó."
+  },
+  "icon": "generated/weapon-profiles/15401/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 13432,
+  "name": {
+    "EN": "Tamayuratei no Ohanashi",
+    "CHS": "且住亭御咄",
+    "CHT": "且住亭御咄",
+    "DE": "Tamayuratei no Ohanashi",
+    "ES": "Charla en el Pabellón",
+    "FR": "Tamayuratei no Ohanashi",
+    "ID": "Tamayuratei no Ohanashi",
+    "IT": "Tamayuratei no Ohanashi",
+    "JP": "玉響停の御噺",
+    "KR": "쉼터의 이야기꾼",
+    "PT": "Fofocas Breves do Pavilhão",
+    "RU": "Тамаюратэй но оханаси",
+    "TH": "Tamayuratei no Ohanashi",
+    "TR": "Tamayuratei no Ohanashi",
+    "VI": "Tamayuratei no Ohanashi"
+  },
+  "nameEn": "Tamayuratei no Ohanashi",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "Once upon a time, there was a youkai that roamed Inazuma in the form of a lantern's flame. This must once have been one of its vessels.",
+    "CHS": "过去曾有以行灯焰火为形于稻妻四处奔行的妖怪，这也是其曾经寄身的一处灯盏吧。",
+    "CHT": "過去曾有以行燈焰火為形於稻妻四處奔行的妖怪，這也是其曾經寄身的一處燈盞吧。",
+    "DE": "Früher gab es einen Youkai, der überall im Einflussgebiet von Inazuma als laufende Laterne erschien. Auch dies ist wohl eines der Leuchtmittel, von denen der Youkai Besitz ergriffen hatte.",
+    "ES": "En el pasado, hubo una vez un youkai que recorría Inazuma en forma de una lámpara flameante. Esta lámpara debe haber sido uno de sus recipientes.",
+    "FR": "Il était une fois, un démon qui parcourait Inazuma sous la forme d'une flamme de lanterne en papier. Cela devait être l'un de ses vaisseaux.",
+    "ID": "Dahulu kala, ada youkai yang berkeliaran di seluruh Inazuma dalam bentuk api lentera. Ini adalah salah satu lentera tempat dia menitipkan wujudnya.",
+    "IT": "Tanto tempo fa, esisteva uno youkai che vagava per Inazuma assumendo la forma della fiamma di una lanterna. Questa dev'essere stata una delle sue dimore.",
+    "JP": "かつて、提灯の炎を模して稲妻各地を駆け回る妖怪がいた。これも、それが宿っていた灯の一つなのだろう。",
+    "KR": "등불의 형상을 한 채로 이나즈마를 떠돌던 요괴가 잠시 머물렀던 등잔",
+    "PT": "No passado, existiu um Youkai que percorria Inazuma em forma de uma lanterna de fogos de artifício. Esta deve ter sido uma das lanternas em que ele habitou.",
+    "RU": "Давным-давно по Инадзуме блуждал ёкай, принявший форму огонька фонаря. Возможно, когда-то это было его пристанищем.",
+    "TH": "ในอดีตมีโยไกที่รูปร่างคล้ายเปลวไฟเคยเดินทางไปทั่ว Inazuma นี่คงจะเป็นตะเกียงที่มันเคยอาศัยอยู่",
+    "TR": "Bir zamanlar bir fenerin alevi şeklinde Inazuma'da dolaşan bir youkai varmış. Bu da onun meskenlerinden biri olmalı.",
+    "VI": "Trong quá khứ, từng có youkai lang thang khắp Inazuma trong dáng vẻ của ngọn đèn rực cháy. Đây cũng là ngọn đèn nơi mà youkai từng nương náu."
+  },
+  "icon": "generated/weapon-profiles/13432/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

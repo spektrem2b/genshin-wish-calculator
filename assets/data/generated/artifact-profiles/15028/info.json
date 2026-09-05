@@ -1,0 +1,69 @@
+{
+  "id": 15028,
+  "name": {
+    "EN": "Flower of Paradise Lost",
+    "CHS": "乐园遗落之花",
+    "CHT": "樂園遺落之花",
+    "DE": "Blumen des verlorenen Paradieses",
+    "ES": "Flor Olvidada del Paraíso",
+    "FR": "Fleur du paradis perdu",
+    "ID": "Flower of Paradise Lost",
+    "IT": "Fiore del paradiso perduto",
+    "JP": "楽園の絶花",
+    "KR": "잃어버린 낙원의 꽃",
+    "PT": "Flor do Paraíso Perdido",
+    "RU": "Цветок потерянного рая",
+    "TH": "Flower of Paradise Lost",
+    "TR": "Kayıp Cennet Çiçeği",
+    "VI": "Đóa Hoa Trang Viên Thất Lạc"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15028/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Elemental Mastery by 80.",
+        "CHS": "元素精通提高80点。",
+        "CHT": "元素精通提高80點。",
+        "DE": "Erhöht Elementarkunde um 80 Punkte.",
+        "ES": "Maestría Elemental +80 pts.",
+        "FR": "Augmente la maîtrise élémentaire de 80 pts.",
+        "ID": "Elemental Mastery +80.",
+        "IT": "Maestria elementale +80.",
+        "JP": "元素熟知+80。",
+        "KR": "원소 마스터리+80pt",
+        "PT": "Aumenta a Proficiência Elemental em 80.",
+        "RU": "Увеличивает мастерство стихий на 80 ед.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย",
+        "TR": "Element Ustalığını 80 artırır.",
+        "VI": "Tăng 80 điểm Tinh Thông Nguyên Tố."
+      },
+      "affixId": "2150280"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%, and their Lunar-Bloom reaction DMG is increased by 10%. Additionally, after the equipping character triggers Bloom, Hyperbloom, Lunar-Bloom, or Burgeon, they will gain another 25% bonus to the effects mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.",
+        "CHS": "装备者绽放、超绽放、烈绽放反应造成的伤害提升40%，造成的月绽放反应伤害提升10%。此外，装备者触发绽放、超绽放、烈绽放、月绽放后，上述效果带来的加成提升25%，该效果持续10秒，至多叠加4次，每1秒至多触发一次。装备者处于队伍后台时依然能触发该效果。",
+        "CHT": "裝備者綻放、超綻放、烈綻放反應造成的傷害提升40%，造成的月綻放反應傷害提升10%。此外，裝備者觸發綻放、超綻放、烈綻放、月綻放後，上述效果帶來的加成提升25%，該效果持續10秒，至多疊加4次，每1秒至多觸發一次。裝備者處於隊伍後臺時依然能觸發該效果。",
+        "DE": "#Erhöht den durch den Träger mit den Reaktionen „Sprießen“, „Supraspross“ und „Flammenspross“ verursachten Schaden um 40 % und den durch den Träger mit der Reaktion „Mondspross“ verursachten Schaden um 10 %. Erhöht den Bonus von obigem Effekt zusätzlich um 25 %, nachdem der Träger die Reaktionen „Sprießen“, „Supraspross“, „Flammenspross“ oder „Mondspross“ ausgelöst hat, hält 10 s, 4-fach stapelbar, 1 s Abklingzeit. Dieser Effekt kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet.",
+        "ES": "#Aumenta en un 40% el daño que inflige el portador de este conjunto con las reacciones de Florecimiento, Sobreflorecimiento y Crepitar, y en un 10% el daño que inflige con la reacción de Florecimiento Lunar. Además, cuando el portador de este conjunto causa alguna de estas reacciones, el bono anterior aumenta en un 25%. Este efecto dura 10 s, puede acumularse hasta 4 veces y ocurrir una vez por segundo. Puede activarse incluso cuando el portador del conjunto está en tu equipo pero no en uso.",
+        "FR": "Augmente les DGT infligés par les réactions de Fleurissement, d'Exubérance et de Bourgeonnement du personnage équipé de l'artéfact de 40 % et les DGT de ses réactions de Sélénofleurissement de 10 %. De plus, lorsque le personnage équipé de l'artéfact a déclenché une réaction de Fleurissement, de Sélénofleurissement, d'Exubérance ou de Bourgeonnement, le bonus mentionné précédemment augmente de 25 % pendant 10 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les secondes. Cet effet peut être déclenché même si le personnage équipé de l'artéfact fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "DMG reaksi Bloom, Hyperbloom, dan Burgeon dari Karakter yang mengenakan +40%, DMG reaksi Karakter yang mengenakan Lunar-Bloom +10%. Selain itu, setelah Karakter yang mengenakan memicu reaksi Bloom, Hyperbloom, Burgeon, atau Lunar-Bloom, ia akan mendapatkan bonus 25% untuk peningkatan yang disebutkan di atas selama 10 detik. Efek ini dapat ditumpuk sampai 4 lapis dan hanya dapat terpicu sekali setiap 1 detik. Efek tetap aktif saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#I DAN da reazioni di Fioritura, Iperfioritura e Germinazione del personaggio equipaggiato aumentano di un 40%, inoltre i DAN della reazione di Fioritura lunare aumentano di un 10%. In più, se il personaggio innesca Fioritura, Iperfioritura o Germinazione, ottiene un ulteriore 25% di bonus per gli effetti sopracitati. Ogni accumulo dura 10 s. Massimo 4 accumuli contemporaneamente. Quest'effetto può attivarsi solo una volta al secondo. Il personaggio equipaggiato può attivare l'effetto anche se non è presente sul campo.",
+        "JP": "開花、超開花、烈開花反応によるダメージ+40%、月開花反応によるダメージ+10%。また、装備者自身が開花、超開花、烈開花、または月開花を起こした後、上記強化効果が25%アップする。継続時間10秒、最大4層まで重ねられ、1秒毎に最大1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "장착 캐릭터가 개화, 만개, 발화 반응으로 주는 피해가 40%, 달 개화 반응으로 주는 피해가 10% 증가한다. 또한 장착 캐릭터가 개화, 만개, 발화, 달 개화 발동 후 상술한 효과로 증가한 보너스가 25% 증가한다. 지속 시간: 10초. 최대 중첩수: 4회. 해당 효과는 1초마다 최대 1회 발동되며, 장착 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Aumenta em 40% o Dano infligido pelas reações de Florescimento, Superflorescimento e Germinação de seu portador; aumenta o Dano de Florescimento Lunar em 10%. Além disto, após o personagem que está com isso equipado desencadear as reações de Florescimento, Superflorescimento, Germinação e Florescimento Lunar o bônus descrito acima é aumentado em 25%. Este efeito dura 10s e pode ser acumulado até 4 vezes, podendo ser desencadeado 1 vez por segundo. Este efeito pode ser desencadeado também quando o seu portador está na equipe, porém fora do campo de batalha.",
+        "RU": "Увеличивает урон реакций Бутонизация, Вегетация и Цветение экипированного персонажа на 40%, а урон Лунной бутонизации - на 10%. Кроме того, после того как экипированный персонаж активирует реакции Бутонизация, Вегетация, Цветение и Лунная бутонизация, этот эффект усиливается на 25%. Эффект длится 10 сек., складывается до 4 раз, может возникнуть один раз в 1 сек. и активируется, даже если экипированный персонаж не на поле боя.",
+        "TH": "ปฏิกิริยางอกเงย, ไฮเปอร์บลูม และเบ่งบานของผู้สวมใส่ จะสร้างความเสียหายเพิ่มขึ้น 40% และปฏิกิริยางอกเงยจันทรา จะสร้างความเสียหายเพิ่มขึ้น 10% นอกจากนี้ หลังจากที่ผู้สวมใส่ทำให้เกิดปฏิกิริยางอกเงย, ไฮเปอร์บลูม, เบ่งบาน หรืองอกเงยจันทรา โบนัสความเสียหายที่เกิดจากเอฟเฟกต์ที่กล่าวข้างต้น จะเพิ่มขึ้น 25% โดยที่เอฟเฟกต์นี้จะคงอยู่ 10 วินาที ซ้อนทับได้สูงสุด 4 ครั้ง และในทุก 1 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ซึ่งเอฟเฟกต์นี้ จะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakterin Çiçeklenme, Aşırı Çiçeklenme ve Filizlenme tepkimelerinin Hasarı %40 artar, ayrıca Ay Çiçeklenmesi tepkimesi Hasarı %10 artar. Buna ek olarak kuşanan karakter Çiçeklenme, Aşırı Çiçeklenme, Ay Çiçeklenmesi veya Filizlenme tepkimelerini tetiklerse yukarıdaki etkilere ek olarak %25 artış daha kazanır. Bu etkinin her bir kademesi 10 saniye sürer. Aynı anda 4 kademeye kadar birikebilir. Bu etki her bir saniyede bir defa tetiklenebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Người trang bị tăng 40% sát thương gây ra từ phản ứng Sum Suê, Nở Rộ, Bung Tỏa, tăng 10% sát thương gây ra từ phản ứng Nguyệt-Sum Suê. Ngoài ra, người trang bị sau khi kích hoạt phản ứng Sum Suê, Nở Rộ, Bung Tỏa, Nguyệt-Sum Suê sẽ tăng 25% hiệu ứng nêu trên, duy trì 10s, tối đa cộng dồn 4 lần, mỗi 1s tối đa kích hoạt một lần. Người trang bị khi không ra trận vẫn có thể kích hoạt hiệu quả này."
+      },
+      "affixId": "2150281"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 14430,
+  "name": {
+    "EN": "Waveriding Whirl",
+    "CHS": "乘浪的回旋",
+    "CHT": "乘浪的迴旋",
+    "DE": "Wellenreitender Wirbel",
+    "ES": "Volver de las Olas",
+    "FR": "Tourbillon sur les vagues",
+    "ID": "Waveriding Whirl",
+    "IT": "Vortice del Cavalcaonde",
+    "JP": "波乗りの旋回",
+    "KR": "돌아오는 파도",
+    "PT": "Redemoinho das Ondas",
+    "RU": "Вихрь на волнах",
+    "TH": "Waveriding Whirl",
+    "TR": "Dalgaların Girdabı",
+    "VI": "Vòng Xoáy Cưỡi Sóng"
+  },
+  "nameEn": "Waveriding Whirl",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A boomerang made from the fangs of a giant sea serpent. It was a rare weapon indeed that the giant Tupac would call \"trusty.\"",
+    "CHS": "用海中巨蟒的长牙制成的回旋镖，对巨人图帕克来说是难得称手的兵器。",
+    "CHT": "用海中巨蟒的長牙製成的迴旋鏢，對巨人圖帕克來說是難得順手的兵器。",
+    "DE": "Ein Bumerang, der aus den Reißzähnen einer riesigen Seeschlange hergestellt wurde. Für den Riesen Tupac war diese Waffe ein treuer Wegbegleiter.",
+    "ES": "Un búmeran hecho con los colmillos de una pitón marina gigante. Fue una de las pocas armas de confianza del gigante Túpac.",
+    "FR": "#Un boomerang fabriqué à partir des crocs d'un serpent de mer géant. C'est une arme rare que le géant Tupac qualifierait de « fidèle ».",
+    "ID": "Bumerang yang terbuat dari taring ular laut raksasa. Memang benar-benar senjata yang langka, sehingga Tupac raksasa menyebutnya senjata favorit.",
+    "IT": "Un boomerang ottenuto dalle zanne di un enorme serpente marino. Un'arma davvero rara, che il gigante Tupac definiva \"affidabile\".",
+    "JP": "海中の巨蛇の牙で作られたブーメラン。巨人のトゥパックにとって、珍しく使い勝手の良い武器である。",
+    "KR": "바다 구렁이의 송곳니로 만든 부메랑. 거인 투팍의 손에 맞는 몇 안 되는 무기라고 한다",
+    "PT": "Um bumerangue feito das presas de uma gigantesca serpente do mar. Era uma arma rara que o gigante Tupac se referia como confiável.",
+    "RU": "Бумеранг из клыков гигантского морского змея. Оно было тем редким оружием, которое великан Тупак считал надёжным.",
+    "TH": "บูมเมอแรงที่ทำจากเขี้ยวอสรพิษยักษ์ในทะเล สำหรับ Tupac แล้ว มันนับว่าเป็นอาวุธชิ้นโปรดที่หาได้ยากทีเดียว",
+    "TR": "Devasa bir deniz yılanının dişlerinden yapılmış bir bumerang. Dev Tupac'ın \"güvenilir\" olarak adlandırdığı, gerçekten nadir bir silahtır.",
+    "VI": "Boomerang được làm từ răng nanh của loài mãng xà biển khổng lồ, là binh khí đáng tin cậy của người khổng lồ Tupac."
+  },
+  "icon": "generated/weapon-profiles/14430/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.133333,
+  "substat_lvl90": 0.6125,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

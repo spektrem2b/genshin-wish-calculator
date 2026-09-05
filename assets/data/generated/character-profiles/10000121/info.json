@@ -1,0 +1,137 @@
+{
+  "id": "10000121",
+  "name": {
+    "EN": "Aino",
+    "CHS": "爱诺",
+    "CHT": "愛諾",
+    "DE": "Aino",
+    "ES": "Aino",
+    "FR": "Aino",
+    "ID": "Aino",
+    "IT": "Aino",
+    "JP": "アイノ",
+    "KR": "아이노",
+    "PT": "Aino",
+    "RU": "Айно",
+    "TH": "Aino",
+    "TR": "Aino",
+    "VI": "Aino"
+  },
+  "nameEn": "Aino",
+  "element": "Hydro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 9,
+    "day": 21
+  },
+  "release": "2025-09-08T21:00:00",
+  "icon": "generated/character-profiles/10000121/avatar.webp",
+  "fullWish": "generated/character-profiles/10000121/full_wish.webp",
+  "fullWishObjectPosition": "48.3% 32.5%",
+  "title": {
+    "EN": "Clinky-Clank Gadgets-A-Gogo",
+    "CHS": "妙械咣咣铛",
+    "CHT": "妙械咣咣鐺",
+    "DE": "Scheppernde Wundermaschinen",
+    "ES": "La Mecánica Cling-clang",
+    "FR": "Mécano aux gadgets à gogo",
+    "ID": "Clinky-Clank Gadgets-A-Gogo",
+    "IT": "Magico tintinnio",
+    "JP": "ドンドンワンダフルマシーン",
+    "KR": "쾅쾅 발명가",
+    "PT": "Máquinas Milagrosas Trim-Trim-Bum",
+    "RU": "Грохочущие чудо-машины",
+    "TH": "กลไกมหัศจรรย์กรุ๊งกริ๊ง",
+    "TR": "Çın Çın Aletler Cümbüşü",
+    "VI": "Clinky-Clank Diệu Kỳ"
+  },
+  "description": {
+    "EN": "A genius mechanic and inventor from Nod-Krai who loves interesting machines and sweet treats.",
+    "CHS": "挪德卡莱的天才机械发明家，喜欢有趣的机械和甜食。",
+    "CHT": "挪德卡萊的天才機械發明家，喜歡有趣的機械和甜食。",
+    "DE": "Die geniale Maschinenerfinderin aus Nod-Krai. Sie liebt interessante Maschinen und Süßigkeiten.",
+    "ES": "Una inventora y genio de la mecánica de Nod Krai. Le encantan las máquinas interesantes y el dulce.",
+    "FR": "Une inventeuse et mécanicienne de génie de Nod-Krai qui aime les machines intéressantes et les friandises.",
+    "ID": "Mekanik Jenius Nod-Krai yang suka makanan manis dan mesin-mesin menarik.",
+    "IT": "Una geniale meccanica e inventrice di Nod-Krai. Ama le macchine interessanti e i dolci.",
+    "JP": "ナド・クライの天才機械技師。面白い機械とお菓子が大好き。",
+    "KR": "노드크라이의 천재 기계 발명가, 재밌는 기계와 달콤한 음식을 좋아한다",
+    "PT": "Uma gênio mecânica de Nod-Krai, gosta muito de máquinas divertidas e doces.",
+    "RU": "Механик-вундеркинд Нод-Края. Любит интересные механизмы и сладости.",
+    "TH": "นักประดิษฐ์จักรกลอัจฉริยะแห่ง Nod-Krai ชื่นชอบจักรกลที่น่าสนใจ และของหวาน",
+    "TR": "Makinalara ve tatlı abur cuburlara düşkün, Nod-Krailı dahi bir mekanikçi ve mucit.",
+    "VI": "Nhà phát minh thiên tài của Nod-Krai, thích những loại máy móc thú vị và đồ ngọt."
+  },
+  "constellationName": {
+    "EN": "Cistellula Mira",
+    "CHS": "砰砰盒座",
+    "CHT": "砰砰盒座",
+    "DE": "Cistellula Mira",
+    "ES": "Cistellula Mira",
+    "FR": "Cistellula Mira",
+    "ID": "Cistellula Mira",
+    "IT": "Cistellula Mira",
+    "JP": "ビョンビョン・ボックス座",
+    "KR": "깜짝상자자리",
+    "PT": "Cistellula Mira",
+    "RU": "Грохочущий Ларец",
+    "TH": "Cistellula Mira",
+    "TR": "Mucizeler Kutusu",
+    "VI": "Cung Phanh Phanh Hạp"
+  },
+  "native": {
+    "EN": "Clink-Clank Krumkake Craftshop",
+    "CHS": "叮铃哐啷蛋卷工坊",
+    "CHT": "叮鈴哐啷蛋捲工坊",
+    "DE": "Krumkake-Werkstatt Kling-Klang",
+    "ES": "Taller de Krumkake Cling-clang",
+    "FR": "Knieperterie Cling-clang",
+    "ID": "Clink-Clank Krumkake Craftshop",
+    "IT": "Laboratorio di Krumkake Tin-Tin",
+    "JP": "カチャカチャ・クルムカケ工房",
+    "KR": "뚝딱뚝딱 크룸카케 공방",
+    "PT": "Oficina de Rolinho de Ovo Trilimlim",
+    "RU": "Мастерская крумкаке «Дзынь-Клац»",
+    "TH": "เวิร์กชอป Krumkake กรุ๊งกริ๊ง",
+    "TR": "Çın Çın Krumkake Atölyesi",
+    "VI": "Xưởng Krumkake Clink-Clank"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Annabel Brook"
+    },
+    {
+      "lang": "CHS",
+      "va": "葛子瑞"
+    },
+    {
+      "lang": "JP",
+      "va": "高森奈津美"
+    },
+    {
+      "lang": "KR",
+      "va": "Jo Kyeong-i"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 939.1447,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.30112,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 50.93025,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

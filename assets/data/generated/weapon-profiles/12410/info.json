@@ -1,0 +1,52 @@
+{
+  "id": 12410,
+  "name": {
+    "EN": "Lithic Blade",
+    "CHS": "千岩古剑",
+    "CHT": "千岩古劍",
+    "DE": "Antikes Millelithenschwert",
+    "ES": "Espada Lítica",
+    "FR": "Épée antique des Millelithes",
+    "ID": "Lithic Blade",
+    "IT": "Lama litica",
+    "JP": "千岩古剣",
+    "KR": "천암고검",
+    "PT": "Espada Antiga de Millelith",
+    "RU": "Каменный меч",
+    "TH": "Lithic Blade",
+    "TR": "Taş Kılıç",
+    "VI": "Thiên Nham Cổ Kiếm"
+  },
+  "nameEn": "Lithic Blade",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A greatsword carved and chiseled from the very bedrock of Liyue.",
+    "CHS": "以璃月的基岩为原料削凿成的厚重大剑。",
+    "CHT": "以璃月的基岩為原料削鑿成的厚重大劍。",
+    "DE": "Ein wuchtiges Schwert gemeißelt aus dem Gestein, auf dem Liyue gebaut ist.",
+    "ES": "Un pesado mandoble forjado a partir de rocas primigenias de Liyue.",
+    "FR": "Une grande épée qui a été taillée à partir du substrat rocheux de Liyue.",
+    "ID": "Pedang tebal dan berat, terbuat dari batu Liyue.",
+    "IT": "Uno spadone scolpito e cesellato usando il substrato roccioso di Liyue.",
+    "JP": "璃月の基盤岩を原材料として作った重厚な大剣。",
+    "KR": "리월의 기암을 깎아 만든 대검",
+    "PT": "Uma espada grande esculpida e cinzelada na própria base de Liyue.",
+    "RU": "Массивный двуручный меч, вырубленный из каменного основания Ли Юэ.",
+    "TH": "ดาบหนาและหนักซึ่งถูกทำขึ้นจากแผ่นหินของ Liyue",
+    "TR": "Liyue'nin üzerine inşa edildiği kayadan oyulmuş nadide bir kılıç.",
+    "VI": "Đại kiếm được mài giũa từ đá ở Liyue."
+  },
+  "icon": "generated/weapon-profiles/12410/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

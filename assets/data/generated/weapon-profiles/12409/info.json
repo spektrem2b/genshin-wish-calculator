@@ -1,0 +1,52 @@
+{
+  "id": 12409,
+  "name": {
+    "EN": "Serpent Spine",
+    "CHS": "螭骨剑",
+    "CHT": "螭骨劍",
+    "DE": "Knochenschwert",
+    "ES": "Médula de la Serpiente Marina",
+    "FR": "Ossature du dragon",
+    "ID": "Serpent Spine",
+    "IT": "Spada d'osso di serpente",
+    "JP": "螭龍の剣",
+    "KR": "이무기 검",
+    "PT": "Espinha Dorsal da Serpente",
+    "RU": "Меч драконьей кости",
+    "TH": "Serpent Spine",
+    "TR": "Yılansırt",
+    "VI": "Kiếm Li Cốt"
+  },
+  "nameEn": "Serpent Spine",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
+    "CHS": "来自古代大海的稀有兵器，舞剑猎猎宛如太古的涛声。",
+    "CHT": "來自古代大海的稀有兵器，舞劍獵獵宛如太古的濤聲。",
+    "DE": "Eine seltene Waffe aus dem Ozean alter Zeiten. Schwingt man es durch die Luft, so hört man das Rauschen der Wellen.",
+    "ES": "Un arma muy poco común procedente del océano. Al blandirla, emite un silbido que recuerda al romper de las olas.",
+    "FR": "Une épée rare venue des mers anciennes. Celui qui la manie peut presque entendre les vagues déferler.",
+    "ID": "Senjata kuno langka yang berasal dari laut, suaranya bagaikan suara ombak di masa lampau.",
+    "IT": "Un'arma rara, originaria dell'oceano. Brandendola, puoi quasi sentire il suono delle onde eterne.",
+    "JP": "古代の海から発見された希少な武器。剣を振るうと、太古の波音が響く。",
+    "KR": "고대의 바다에서 만들어진 희귀 병기로 검을 휘두르면 마치 태고의 파도 소리가 나는 것 같다",
+    "PT": "Uma arma rara cuja origem são os oceanos antigos. Ao brandi-la, é possível ouvir as ondas do mar.",
+    "RU": "Редкое оружие, произошедшее из древнего океана. Взмахните им, чтобы услышать шум вечных волн.",
+    "TH": "อาวุธหายากจากทะเลโบราณ เสียงของระบำดาบนั้นเป็นเหมือนดั่งเสียงของคลื่นยักษ์ในอดีตกาล",
+    "TR": "Kadim denizlerin nadir kılıcı. Savrulurken ebedi dalgaların sesi duyulabilir.",
+    "VI": "Binh khí hiếm đến từ biển cổ đại, múa kiếm vùn vụt như sóng dữ."
+  },
+  "icon": "generated/weapon-profiles/12409/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

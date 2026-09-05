@@ -1,0 +1,137 @@
+{
+  "id": "10000119",
+  "name": {
+    "EN": "Lauma",
+    "CHS": "菈乌玛",
+    "CHT": "菈烏瑪",
+    "DE": "Lauma",
+    "ES": "Lauma",
+    "FR": "Lauma",
+    "ID": "Lauma",
+    "IT": "Lauma",
+    "JP": "ラウマ",
+    "KR": "라우마",
+    "PT": "Lauma",
+    "RU": "Лаума",
+    "TH": "Lauma",
+    "TR": "Lauma",
+    "VI": "Lauma"
+  },
+  "nameEn": "Lauma",
+  "element": "Dendro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 3,
+    "day": 1
+  },
+  "release": "2025-09-08T21:00:00",
+  "icon": "generated/character-profiles/10000119/avatar.webp",
+  "fullWish": "generated/character-profiles/10000119/full_wish.webp",
+  "fullWishObjectPosition": "48.3% 32.5%",
+  "title": {
+    "EN": "Evermoon's Sacrament Song",
+    "CHS": "永月的祀歌",
+    "CHT": "永月的祀歌",
+    "DE": "Sakrallied des Ewigmonds",
+    "ES": "La Cantora Lunaperpetua",
+    "FR": "Ode sacrée à la lune éternelle",
+    "ID": "Evermoon's Sacrament Song",
+    "IT": "Ode alla Luna imperitura",
+    "JP": "永月の祀り歌",
+    "KR": "달에게 바치는 찬가",
+    "PT": "Eterna Canção Lunar",
+    "RU": "Жертвенная песнь вечной Луне",
+    "TH": "เพลงสดุดีจันทรานิรันดร์",
+    "TR": "Ebedi Ayın Mukaddes Şarkısı",
+    "VI": "Tế Ca Vĩnh Nguyệt"
+  },
+  "description": {
+    "EN": "A Maiden blessed by moonlight and the grove alike, hope born to the Frostmoon Scions.",
+    "CHS": "被月光与森林祝福的圣女，一个诞生在「霜月之子」中的希望。",
+    "CHT": "被月光與森林祝福的聖女，一個誕生在「霜月之子」中的希望。",
+    "DE": "Die vom Mondlicht und Wald gesegnete hehre Jungfer, die inmitten der Nachkommen des Frostmonds geborene Hoffnung.",
+    "ES": "Una dama bendecida por la luz de la luna y el bosque, la esperanza que nació en los Descendientes Lunaescarcha.",
+    "FR": "Dame bénie par le clair de lune et la forêt. Une lueur d'espoir née parmi les Descendants de givrelune.",
+    "ID": "Seorang gadis suci yang diberkati oleh cahaya bulan dan hutan rimbun. Harapan yang lahir di antara Bani Bulan Embun.",
+    "IT": "Una Signora benedetta sia dal chiaro di luna che dalla foresta, la speranza nata dagli Eredi della Luna gelata.",
+    "JP": "月光と森の祝福を受けて、「霜月の子」に生まれた聖女。民にとっての希望である。",
+    "KR": "달빛과 숲의 축복을 받은 성녀이자, 「서리달 아이」에서 탄생한 희망",
+    "PT": "A santa que recebeu a bênção da luz do luar e da floresta, a esperança nascida dos Filhos da Lua Gelada.",
+    "RU": "Святая, благословлённая лунным светом и лесом, надежда, рождённая среди Детей Морозной Луны.",
+    "TH": "นักบุญหญิงผู้ได้รับพร จากแสงจันทร์และผืนป่า ความหวังหนึ่งเดียว ที่ถือกำเนิดขึ้นในหมู่ \"ลูกหลานจันทราน้ำค้างแข็ง\"",
+    "TR": "Ay ışığı ve ormanın kutsamasıyla halkına umut olmuş, Donuk Ayın Çocuklarının Hanımı.",
+    "VI": "Thánh nữ được ánh trăng và rừng sâu chúc phúc, một hi vọng sinh ra trong \"Dòng Dõi Sương Nguyệt\"."
+  },
+  "constellationName": {
+    "EN": "Cerva Nivea",
+    "CHS": "银鹿座",
+    "CHT": "銀鹿座",
+    "DE": "Cerva Nivea",
+    "ES": "Cerva Nivea",
+    "FR": "Cerva Nivea",
+    "ID": "Cerva Nivea",
+    "IT": "Cerva Nivea",
+    "JP": "白銀の鹿座",
+    "KR": "은사슴자리",
+    "PT": "Cerva Nivea",
+    "RU": "Серебряный Олень",
+    "TH": "Cerva Nivea",
+    "TR": "Gümüş Geyik",
+    "VI": "Cung Ngân Lộc"
+  },
+  "native": {
+    "EN": "Frostmoon Scions",
+    "CHS": "霜月之子",
+    "CHT": "霜月之子",
+    "DE": "Nachkommen des Frostmonds",
+    "ES": "Descendientes Lunaescarcha",
+    "FR": "Descendants de givrelune",
+    "ID": "Bani Bulan Embun",
+    "IT": "Eredi della Luna gelata",
+    "JP": "霜月の子",
+    "KR": "서리달 아이",
+    "PT": "Filhos da Lua Gelada",
+    "RU": "Дети Морозной Луны",
+    "TH": "ลูกหลานจันทราน้ำค้างแข็ง",
+    "TR": "Donuk Ayın Çocukları",
+    "VI": "Dòng Dõi Sương Nguyệt"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Alexandra Guelff"
+    },
+    {
+      "lang": "CHS",
+      "va": "张安琪"
+    },
+    {
+      "lang": "JP",
+      "va": "桑島法子"
+    },
+    {
+      "lang": "KR",
+      "va": "Jang Chae-yeon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 829.3884,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.84892,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 52.0521,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 14436,
+  "name": {
+    "EN": "Echoes of the Heart",
+    "CHS": "寸心余响",
+    "CHT": "寸心餘響",
+    "DE": "Echo des Herzens",
+    "ES": "Eco del Corazón",
+    "FR": "Écho du cœur",
+    "ID": "Echoes of the Heart",
+    "IT": "Echi del cuore",
+    "JP": "胸中の谺",
+    "KR": "충성의 메아리",
+    "PT": "Ecos do Coração",
+    "RU": "Отголоски сердца",
+    "TH": "Echoes of the Heart",
+    "TR": "Kalbin Yankıları",
+    "VI": "Dư Âm Tấm Lòng"
+  },
+  "nameEn": "Echoes of the Heart",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A Catalyst said to crystallize voice. Within it lies a sealed oath of loyalty, as well as a heart long since forgotten by mankind.",
+    "CHS": "用以凝定声音的法器，似乎还封存了一段关乎忠诚的誓言，以及一颗被人遗忘的心。",
+    "CHT": "用以凝定聲音的法器，似乎還封存了一段關乎忠誠的誓言，以及一顆被人遺忘的心。",
+    "DE": "Ein Katalysator, der Klänge einzufangen vermag, scheint auch einen Schwur der Treue zu versiegeln – sowie ein Herz, das von allen vergessen wurde.",
+    "ES": "Un catalizador que se usa para congelar el sonido. Parece que aún conserva un juramento de lealtad, así como un corazón olvidado por la gente.",
+    "FR": "Un catalyseur censé cristalliser la voix. Il renferme un serment de loyauté scellé, ainsi qu'un cœur oublié depuis longtemps par l'humanité.",
+    "ID": "Catalyst yang digunakan untuk mengabadikan suara ini tampaknya juga menyegel sumpah kesetiaan dan hati yang telah terlupakan.",
+    "IT": "Un catalizzatore che si dice possa cristallizzare la voce. Al suo interno è custodito un giuramento di lealtà sigillato, insieme a un cuore da tempo dimenticato dall'umanità.",
+    "JP": "声を留めておくための法器。忠誠に関わる誓いと、人々に忘れ去られた心をも封じているようだ。",
+    "KR": "소리를 응결하는 법구. 충성의 맹세와 잊힌 마음이 함께 봉인되어 있는 것 같다",
+    "PT": "Um Catalisador que dizem ser capaz de cristalizar vozes. Dentro dele está selado um juramento, bem como um coração há muito esquecido pela humanidade.",
+    "RU": "Катализатор, кристаллизующий звук. В нём заключены клятва верности и забытое сердце.",
+    "TH": "สื่อเวทที่ใช้สะกดเสียง ดูเหมือนว่าจะยังผนึกคำสาบานเกี่ยวกับความภักดีเอาไว้ รวมถึงหัวใจที่ถูกผู้คนหลงลืมไปแล้วดวงหนึ่ง",
+    "TR": "Sesi kristalleştirdiği söylenen bir katalizör. İçinde mühürlü bir sadakat yemini ve insanlık tarafından çoktan unutulmuş bir kalp yatıyor.",
+    "VI": "Pháp khí dùng để ngưng đọng âm thanh, dường như vẫn đang lưu giữ một lời thề về lòng trung thành, cùng một trái tim đã bị người đời lãng quên."
+  },
+  "icon": "generated/weapon-profiles/14436/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

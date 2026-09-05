@@ -1,0 +1,137 @@
+{
+  "id": "10000088",
+  "name": {
+    "EN": "Charlotte",
+    "CHS": "夏洛蒂",
+    "CHT": "夏洛蒂",
+    "DE": "Charlotte",
+    "ES": "Charlotte",
+    "FR": "Charlotte",
+    "ID": "Charlotte",
+    "IT": "Charlotte",
+    "JP": "シャルロット",
+    "KR": "샤를로트",
+    "PT": "Charlotte",
+    "RU": "Шарлотта",
+    "TH": "Charlotte",
+    "TR": "Charlotte",
+    "VI": "Charlotte"
+  },
+  "nameEn": "Charlotte",
+  "element": "Cryo",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 4,
+    "day": 10
+  },
+  "release": "2023-11-06T22:00:00",
+  "icon": "generated/character-profiles/10000088/avatar.webp",
+  "fullWish": "generated/character-profiles/10000088/full_wish.webp",
+  "fullWishObjectPosition": "57.3% 39.6%",
+  "title": {
+    "EN": "Lens of Verity",
+    "CHS": "朗镜索真",
+    "CHT": "朗鏡索真",
+    "DE": "Linse der Wahrheit",
+    "ES": "La Rastreadora de la Verdad",
+    "FR": "Œil pour la vérité",
+    "ID": "Lens of Verity",
+    "IT": "Occhio per la verità",
+    "JP": "真実を求める曇りなきモノクル",
+    "KR": "진실을 쫓는 렌즈",
+    "PT": "Lentes em Busca da Verdade",
+    "RU": "Объективная реальность",
+    "TH": "เลนส์สะท้อนความจริง",
+    "TR": "Hakikatin Merceği",
+    "VI": "Ống Kính Sự Thật"
+  },
+  "description": {
+    "EN": "Indefatigable reporter of The Steambird, constantly on the hunt for the \"truth.\"",
+    "CHS": "充满活力的蒸汽鸟报记者，每时每刻都在为「真相」而奔走。",
+    "CHT": "充滿活力的《蒸汽鳥報》記者，時時刻刻都在為「真相」而奔走。",
+    "DE": "Die tüchtige Reporterin vom Dampfvogel ist stets auf der Suche nach der „Wahrheit“.",
+    "ES": "La vivaracha reportera de «El Pájaro de Vapor», siempre en busca de la verdad.",
+    "FR": "Une infatigable journaliste de L'Oiseau de vapeur, en constante recherche de la « vérité ».",
+    "ID": "Seorang reporter dari The Steambird yang selalu terlihat sangat bersemangat. Ia tidak pernah berhenti berlari ke sana kemari untuk mencari \"kebenaran\".",
+    "IT": "Instancabile giornalista dell'Uccello a vapore, sempre a caccia della \"verità\".",
+    "JP": "元気に満ち溢れるスチームバード新聞の記者。いつも「真相」を求めて駆け回っている。",
+    "KR": "활력이 넘치는 스팀버드 기자. 언제나 「진실」을 찾아 바쁘게 돌아다닌다",
+    "PT": "A jornalista cheia de energia do Pássaro a Vapor, sempre correndo atrás da \"verdade\".",
+    "RU": "Исполненная энергии журналистка «Паровой птицы», проводящая всё своё время в поисках правды.",
+    "TH": "นักข่าวของหนังสือพิมพ์ The Steambird ผู้เปี่ยมไปด้วยพลังและมีชีวิตชีวาอยู่เสมอ กำลังวิ่งตามหา \"ความจริง\" อยู่ทุกวินาที",
+    "TR": "Buğukuş'un her zaman \"gerçeğin\" peşinde koşan ve asla yorulmak bilmeyen muhabiri.",
+    "VI": "Phóng viên đầy năng lượng của tờ báo Chim Hơi Nước, mỗi giây phút đều hướng về \"chân tướng\"."
+  },
+  "constellationName": {
+    "EN": "Hualina Veritas",
+    "CHS": "真视镜座",
+    "CHT": "真視鏡座",
+    "DE": "Hualina Veritas",
+    "ES": "Hualina Veritas",
+    "FR": "Hualina Veritas",
+    "ID": "Hualina Veritas",
+    "IT": "Hualina Veritas",
+    "JP": "真実明鏡座",
+    "KR": "진실의 렌즈자리",
+    "PT": "Hualina Veritas",
+    "RU": "Отражение Истины",
+    "TH": "Hualina Veritas",
+    "TR": "Gerçeklerin Aynası",
+    "VI": "Cung Chân Thị Kính"
+  },
+  "native": {
+    "EN": "The Steambird",
+    "CHS": "蒸汽鸟报社",
+    "CHT": "蒸汽鳥報社",
+    "DE": "Dampfvogel",
+    "ES": "«El Pájaro de Vapor»",
+    "FR": "L'Oiseau de vapeur",
+    "ID": "The Steambird",
+    "IT": "L'Uccello a vapore",
+    "JP": "スチームバード新聞社",
+    "KR": "스팀버드사",
+    "PT": "Pássaro a Vapor",
+    "RU": "«Паровая птица»",
+    "TH": "สำนักข่าว The Steambird",
+    "TR": "Buğukuş",
+    "VI": "Tòa Soạn Chim Hơi Nước"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Rebecca Wang & Maya Aoki Tuttle"
+    },
+    {
+      "lang": "CHS",
+      "va": "阮从青"
+    },
+    {
+      "lang": "JP",
+      "va": "和氣あず未"
+    },
+    {
+      "lang": "KR",
+      "va": "Shin On-yu"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 902.6731,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 14.51352,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 45.78,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

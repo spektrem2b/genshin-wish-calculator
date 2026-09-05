@@ -1,0 +1,52 @@
+{
+  "id": 11432,
+  "name": {
+    "EN": "Calamity of Eshu",
+    "CHS": "厄水之祸",
+    "CHT": "厄水之禍",
+    "DE": "Unheil von Eshu",
+    "ES": "Calamidad de Eshu",
+    "FR": "La calamité d'Eshu",
+    "ID": "Calamity of Eshu",
+    "IT": "Calamità di Eshu",
+    "JP": "厄水の災い",
+    "KR": "에슈의 재앙",
+    "PT": "Calamidade de Eshu",
+    "RU": "Бедствие Эшу",
+    "TH": "Calamity of Eshu",
+    "TR": "Eshu'nun Felaketi",
+    "VI": "Tai Họa Eshu"
+  },
+  "nameEn": "Calamity of Eshu",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A ceremonial blade forged by Sanhaj, the great high priest of the Masters of the Night-Wind. In tales of bygone days, Sanhaj could use this curved blade to perform rituals, blurring the boundary between the Night Kingdom and the present world.",
+    "CHS": "「烟谜主」伟大祭司桑哈杰打造的仪式之刃，在过往的故事中，桑哈杰能够用这弯曲的长刃举行仪式，模糊夜神之国与现世的边界。",
+    "CHT": "「煙謎主」偉大祭司桑哈傑打造的儀式之刃，在過往的故事中，桑哈傑能夠用這把彎曲的長刃舉行儀式，模糊夜神之國與現世的邊界。",
+    "DE": "Eine Ritualklinge, geschmiedet von Sanhaj, dem großen Hohepriester der Meister des Nachtwinds. In den Erzählungen aus alter Zeit konnte Sanhaj mit dieser gebogenen Klinge Rituale durchführen und die Grenze zwischen dem Königreich der Nacht und dieser Welt verwischen.",
+    "ES": "Un filo ceremonial forjado por el gran sacerdote Sanhaj de los Augures Vientonocturno. Según las historias del pasado, Sanhaj podía usar esta espada curva para celebrar un ritual con el que difuminar la frontera entre el Reino de la Noche y nuestro mundo.",
+    "FR": "Une lame cérémonielle forgée par Sanhaj, le grand prêtre des Maîtres du vent nocturne. Dans les contes d'autrefois, Sanhaj pouvait utiliser cette lame courbée pour accomplir des rituels, brouillant ainsi la frontière entre le Fief nocturne et le monde actuel.",
+    "ID": "Pedang ritual yang ditempa oleh imam besar Penguasa Angin Malam, Sanhaj. Di dalam kisah masa lalu, Sanhaj bisa menggunakan pedang melengkung ini untuk mengadakan ritual, mengaburkan batasan antara Kerajaan Malam dan realitas.",
+    "IT": "Una spada cerimoniale forgiata da Sanhaj, il grande e sommo sacerdote dei Maestri del Vento della Notte. Secondo i racconti di un tempo passato, Sanhaj poteva usare questa lama ricurva per dei rituali, offuscando i confini tra il Regno della Notte e questo mondo.",
+    "JP": "「謎煙の主」の偉大なる祭司サンハジが作った儀式用の刃。昔話によると、サンハジはこの曲がった長い刃で儀式を行い、夜神の国と現世の境界をぼかすことができたそうだ。",
+    "KR": "「연기 주인」의 위대한 제사장 산하자가 제작한 의식용 검. 과거의 이야기에 따르면 산하자는 이런 곡검으로 의식을 진행해 밤의 신의 나라와 현실의 경계를 모호하게 만들었다고 한다",
+    "PT": "Uma lâmina cerimonial forjada por Sanhaj, o sumo-sacerdote dos Mestres do Vento Noturno. Nas histórias do passado, Sanhaj podia usar essa lâmina curva para realizar rituais, apagando a linha entre o Reino da Noite e o mundo.",
+    "RU": "Церемониальный клинок, выкованный великим жрецом Повелителей Ночного Ветра Санхаджем. В сказаниях прошлого он проводил этим изогнутым клинком ритуалы, стирая границу между Царством Ночи и настоящим миром.",
+    "TH": "ดาบพิธีกรรมที่สร้างขึ้นโดย Sanhaj นักบวชใหญ่ของเผ่า \"จ้าวแห่งลมราตรี\" ในเรื่องราวในอดีตนั้น Sanhaj สามารถใช้ดาบที่โค้งยาวนี้ในการทำพิธีกรรม และทำให้ขอบเขตระหว่าง ดินแดนอาณาจักรราตรี และโลกปัจจุบันเลือนราง",
+    "TR": "Gece Rüzgarının Ustalarının büyük başrahibi Sanhaj'ın dövdüğü bir seremoni kılıcı. Eski çağlara ait hikayelerde Sanhaj bu kıvrımlı kılıcı kullanarak ayinler gerçekleştirir, Gece Krallığı ile günümüz dünyası arasındaki sınırları ortadan kaldırmaya çalışırdı.",
+    "VI": "Thanh đao nghi thức chế tác bởi tư tế vĩ đại Sanhaj của Chủ Nhân Gió Đêm. Trong câu chuyện quá khứ, Sanhaj có thể dùng thanh đao cong này để cử hành nghi thức, xóa nhòa ranh giới giữa Vương Quốc Dạ Thần và thế giới thực tại."
+  },
+  "icon": "generated/weapon-profiles/11432/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

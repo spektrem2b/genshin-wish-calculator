@@ -1,0 +1,52 @@
+{
+  "id": 13419,
+  "name": {
+    "EN": "Missive Windspear",
+    "CHS": "风信之锋",
+    "CHT": "風信之鋒",
+    "DE": "Spitze der klingenden Winde",
+    "ES": "Alabarda del Viento Epistolar",
+    "FR": "Lance du vent saisonnier",
+    "ID": "Missive Windspear",
+    "IT": "Missiva del vento",
+    "JP": "風信の矛",
+    "KR": "날카로운 바람의 서신",
+    "PT": "Lâmina do Vento Mensageiro",
+    "RU": "Копьё послания ветров",
+    "TH": "Missive Windspear",
+    "TR": "Habercinin Rüzgar Mızrağı",
+    "VI": "Mũi Nhọn Của Gió"
+  },
+  "nameEn": "Missive Windspear",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing...",
+    "CHS": "导示长风的标鹄。风的牧歌并不总是轻柔如初…",
+    "CHT": "導示長風的標鵠。風的牧歌並不總是輕柔如初…",
+    "DE": "Eine Wetterfahne, die die Windrichtung anzeigt. Die Idylle der Winde bleibt nicht immer sanft ...",
+    "ES": "Un estandarte que puede guiar hacia el viento. Los vientos que soplan por lugares idílicos no siempre son gentiles.",
+    "FR": "Une girouette qui peut guider le vent. Les idylles portées par la brise ne restent pas forcément douces...",
+    "ID": "Sebuah mercusuar yang menunjukkan arah angin. Tidak setiap syair yang terbawa angin akan menjadi sesuatu yang lembut ....",
+    "IT": "Uno strumento che indica la direzione delle correnti d'aria. Non tutti gli idilli sospinti dalla brezza del vento rimangono tali...",
+    "JP": "長風を導くことができる「しるべ」。風の牧歌すべてが最初のように優しいものとは限らない…",
+    "KR": "강풍을 알리는 표식. 바람의 목가는 부드럽게만 다가오는 것이 아니다…",
+    "PT": "Um estandarte que pode guiar os ventos. Os ventos que sopram por lugares idílicos nem sempre são suaves.",
+    "RU": "Штандарт, указующий путь ветру. Не всегда идиллия ветров остаётся такой же нежной, как и в начале...",
+    "TH": "หลักที่ชี้ทิศทางของสายลม เพลงกล่อมแห่งสายลมใช่ว่าจะอ่อนโยนดั่งแรกเริ่ม...",
+    "TR": "Rüzgarın yönünü gösteren bir işaretçi. Rüzgar ile yazılan her şiir tatlı dilli değildir.",
+    "VI": "Tín hiệu dẫn đường cho gió. Bài ca du mục của gió không phải lúc nào cũng dịu dàng như thuở ban đầu..."
+  },
+  "icon": "generated/weapon-profiles/13419/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

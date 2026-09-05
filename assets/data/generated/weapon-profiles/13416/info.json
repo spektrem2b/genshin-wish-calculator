@@ -1,0 +1,52 @@
+{
+  "id": 13416,
+  "name": {
+    "EN": "Wavebreaker's Fin",
+    "CHS": "断浪长鳍",
+    "CHT": "斷浪長鰭",
+    "DE": "Wellenbrecherflosse",
+    "ES": "Aleta Cortaolas",
+    "FR": "Aileron de brise-vagues",
+    "ID": "Wavebreaker's Fin",
+    "IT": "Pinna del Frangionde",
+    "JP": "斬波のひれ長",
+    "KR": "파도 베는 지느러미",
+    "PT": "Barbatana do Quebra Ondas",
+    "RU": "Режущий волны плавник",
+    "TH": "Wavebreaker's Fin",
+    "TR": "Dalgakesen Yüzgeci",
+    "VI": "Vây Cá Chẻ Sóng"
+  },
+  "nameEn": "Wavebreaker's Fin",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A naginata forged from luminescent material deep in the ocean depths. It was once the possession of the tengu race.",
+    "CHS": "以海渊之下的闪亮材质打造而成的薙刀，一度曾为天狗一族所有。",
+    "CHT": "以海淵之下的閃亮材質打造而成的薙刀，一度曾為天狗一族所有。",
+    "DE": "Ein Naginata, das aus leuchtendem Material aus den Tiefen des Meeres geschmiedet wurde. Es gehörte einst den Tengu.",
+    "ES": "Una naginata fabricada a partir de un brillante material de las profundidades del océano. En el pasado, perteneció a la raza de los tengu.",
+    "FR": "Une naginata forgée à partir d'un matériau luminescent provenant du fond des océans. Elle était autrefois la possession des Tengu.",
+    "ID": "Sebuah naginata yang ditempa dari material bercahaya yang berasal dari dasar laut. Dulunya naginata ini dimiliki oleh para tengu.",
+    "IT": "Una naginata di un materiale luminescente originario delle profondità marine. Un tempo, era di proprietà della razza tengu.",
+    "JP": "海淵の底にある光り輝く素材によって作り上げられた薙刀。かつては天狗一族が所有していた。",
+    "KR": "바닷속 반짝이는 재료로 만든 치도. 한때 텐구 일족이 소유했던 무기다",
+    "PT": "Uma naginata forjada a partir de um material luminescente das profundezas do oceano. No passado pertenceu ao povo tengu.",
+    "RU": "Нагината из сверкающего материала с морского дна. Когда-то принадлежала народу тэнгу.",
+    "TH": "นางินาตะที่ทำจากวัสดุแวววาวที่มาจากห้วงลึกใต้ท้องทะเล ครั้งหนึ่งมันเคยเป็นสมบัติของเผ่าเท็งงุ",
+    "TR": "Okyanusun derinliklerinden gelen ve ışıldayan bir malzemeden dövülen bir naginata. Bir zamanlar tengu halkına aitti.",
+    "VI": "Trường đao làm từ những chất liệu lấp lánh sâu dưới đáy biển, từng được sở hữu bởi tộc Tengu."
+  },
+  "icon": "generated/weapon-profiles/13416/avatar.webp",
+  "base_atk_lvl1": 45.0687,
+  "base_atk_lvl90": 620.0,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.03,
+  "substat_lvl90": 0.1378,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

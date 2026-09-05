@@ -1,0 +1,137 @@
+{
+  "id": "10000127",
+  "name": {
+    "EN": "Illuga",
+    "CHS": "叶洛亚",
+    "CHT": "葉洛亞",
+    "DE": "Illuga",
+    "ES": "Illuga",
+    "FR": "Illuga",
+    "ID": "Illuga",
+    "IT": "Illuga",
+    "JP": "イルーガ",
+    "KR": "일루가",
+    "PT": "Illuga",
+    "RU": "Иллуги",
+    "TH": "Illuga",
+    "TR": "Illuga",
+    "VI": "Illuga"
+  },
+  "nameEn": "Illuga",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 12,
+    "day": 23
+  },
+  "release": "2026-02-03T16:00:00",
+  "icon": "generated/character-profiles/10000127/avatar.webp",
+  "fullWish": "generated/character-profiles/10000127/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Nightmare's Burning Heart",
+    "CHS": "魇夜燃芯",
+    "CHT": "魘夜燃芯",
+    "DE": "Im Albtraum loderndes Herz",
+    "ES": "El Corazón Ardiente de la Pesadilla",
+    "FR": "Cœur ardent des nuits terrifiantes",
+    "ID": "Nightmare's Burning Heart",
+    "IT": "Cuore ardente dell'incubo",
+    "JP": "闇夜の燃芯",
+    "KR": "악몽을 불태우는 심지",
+    "PT": "Coração em Chamas do Pesadelo",
+    "RU": "Пылающее сердце ночного кошмара",
+    "TH": "หัวใจเพลิงผลาญฝันร้าย",
+    "TR": "Kabusun Alevli Kalbi",
+    "VI": "Đốm Lửa Đêm Ác Mộng"
+  },
+  "description": {
+    "EN": "Member of the investigation squad, the Nightmare Orioles. The youngest squad leader among the Lightkeepers.",
+    "CHS": "调查分队「魇夜之莺」成员，执灯人最年轻的分队长。",
+    "CHT": "調查分隊「魘夜之鶯」成員，執燈人最年輕的分隊長。",
+    "DE": "Mitglied des Ermittlungstrupps „Albtraum-Pirol“. Der jüngste unter allen Truppführern der Lichthüter.",
+    "ES": "Miembro del escuadrón de investigación “Orioles de la Pesadilla” y el capitán más joven de los Lampareros.",
+    "FR": "Membre de l'escouade d'enquête appelée « Orioles des nuits terrifiantes », et le plus jeune chef d'escouade des Gardiens de lumière.",
+    "ID": "Anggota tim penyelidik \"Nightmare Orioles\", kapten paling muda di satuan Lightkeeper.",
+    "IT": "Membro della squadra investigativa Orioli dell'incubo e il più giovane capitano tra i Guardaluce.",
+    "JP": "調査分隊「闇夜の鶯」メンバー。ライトキーパー最年少の分隊長。",
+    "KR": "「악몽의 밤꾀꼬리」 조사 분대 대원. 등지기의 최연소 분대장이기도 하다",
+    "PT": "Membro da Divisão de Investigação \"Pássaro da Noite Assombrada\". É o mais jovem capitão dos Portadores da Lâmpada.",
+    "RU": "Член разведывательного отряда «Соловьи Ночного Кошмара», самый молодой командир отряда.",
+    "TH": "สมาชิกหน่วยสืบสวน \"นกขมิ้นแห่งราตรีฝันร้าย\" และหัวหน้าหน่วย ที่อายุน้อยที่สุดของผู้เฝ้าประภาคาร",
+    "TR": "Kabus Sarıasmaları araştırma ekibinin bir üyesi ve Işık Muhafızlarının en genç ekip komutanı.",
+    "VI": "Thành viên đội điều tra Chim Đêm Ác Mộng, là phân đội trưởng trẻ nhất trong số Người Giữ Đèn."
+  },
+  "constellationName": {
+    "EN": "Oriolus",
+    "CHS": "金莺座",
+    "CHT": "金鶯座",
+    "DE": "Oriolus",
+    "ES": "Oriolus",
+    "FR": "Oriolus",
+    "ID": "Oriolus",
+    "IT": "Oriolus",
+    "JP": "オリオルス座",
+    "KR": "황금꾀꼬리자리",
+    "PT": "Oriolus",
+    "RU": "Золотой Соловей",
+    "TH": "Oriolus",
+    "TR": "Sarıasma",
+    "VI": "Cung Kim Oanh"
+  },
+  "native": {
+    "EN": "Lightkeepers",
+    "CHS": "执灯人",
+    "CHT": "執燈人",
+    "DE": "Lichthüter",
+    "ES": "Lampareros",
+    "FR": "Gardiens de lumière",
+    "ID": "Lightkeeper",
+    "IT": "Guardaluce",
+    "JP": "ライトキーパー",
+    "KR": "등지기",
+    "PT": "Portadores da Lâmpada",
+    "RU": "Светоносцы",
+    "TH": "ผู้เฝ้าประภาคาร",
+    "TR": "Işık Muhafızları",
+    "VI": "Người Giữ Đèn"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Jonathon Ha"
+    },
+    {
+      "lang": "CHS",
+      "va": "昱头"
+    },
+    {
+      "lang": "JP",
+      "va": "梅田修一朗"
+    },
+    {
+      "lang": "KR",
+      "va": "Hwang Dong-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1002.9701,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.0272,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 68.2122,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

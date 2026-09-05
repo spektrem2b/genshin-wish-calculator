@@ -1,0 +1,52 @@
+{
+  "id": 12514,
+  "name": {
+    "EN": "A Thousand Blazing Suns",
+    "CHS": "焚曜千阳",
+    "CHT": "焚曜千陽",
+    "DE": "Die tausend flammenden Sonnen",
+    "ES": "Mil Soles Abrasadores",
+    "FR": "Mille soleils brûlants",
+    "ID": "A Thousand Blazing Suns",
+    "IT": "Mille soli ardenti",
+    "JP": "千烈の日輪",
+    "KR": "타오르는 천 개의 태양",
+    "PT": "Mil Sóis Ardentes",
+    "RU": "Тысяча ослепительных солнц",
+    "TH": "A Thousand Blazing Suns",
+    "TR": "Alevli Bin Güneş",
+    "VI": "Thiên Dương Rực Lửa"
+  },
+  "nameEn": "A Thousand Blazing Suns",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "A greatsword that dazzles like the rising sun. It has witnessed the extinguishing and rekindling of innumerable suns.",
+    "CHS": "如同冉冉升起的初阳般耀眼的重剑，曾见证过无数太阳的熄灭与重燃。",
+    "CHT": "如同冉冉升起的初陽般耀眼的重劍，曾見證過無數太陽的熄滅與重燃。",
+    "DE": "Ein Zweihänder, der wie die aufgehende Sonne leuchtet. Er hat das Ende und das Wiederaufflammen unzähliger Sonnen miterlebt.",
+    "ES": "Una gran espada deslumbrante como el sol naciente. Ha sido testigo de la extinción y el resurgimiento de innumerables soles.",
+    "FR": "Une épée à deux mains qui brille comme le soleil levant. Elle a été témoin de l'extinction et du retour d'innombrables soleils.",
+    "ID": "Pedang berat yang bersinar layaknya matahari terbit. Telah menyaksikan kematian dan kehidupan dari matahari yang tak terhitung jumlahnya.",
+    "IT": "Uno spadone che risplende come il sole che sorge. È stato testimone dello spegnersi e del rinfocolarsi di innumerevoli soli.",
+    "JP": "悠然と昇る朝日のように眩しい重剣。無数の太陽が沈み、再び輝くのを見届けてきた。",
+    "KR": "떠오르는 태양처럼 눈 부신 대검. 무수히 많은 태양이 꺼지고 또다시 타오르는 것을 목격했다",
+    "PT": "Uma espada grande que brilha como o sol nascente. Ela testemunhou o apagar e o reacender de inúmeros sóis.",
+    "RU": "Этот слепящий подобно восходящему солнцу двуручный меч был свидетелем того, как гаснут и вновь загораются бесчисленные светила.",
+    "TH": "ดาบใหญ่ที่เปล่งประกาย เจิดจ้าราวกับตะวันฉายโชติช่วง เคยเป็นสักขีพยานในการมอดดับ และลุกโชนขึ้นใหม่ ของดวงอาทิตย์มากมายนับไม่ถ้วน",
+    "TR": "Söken şafak gibi göz kamaştıran bir çift elli kılıç. Sayısız güneşin sönüp yeniden alevlendiğine şahitlik etmiştir.",
+    "VI": "Thanh trọng kiếm lấp lánh như mặt trời mới mọc, từng chứng kiến vô số mặt trời tắt lụi và bùng cháy trở lại."
+  },
+  "icon": "generated/weapon-profiles/12514/avatar.webp",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.024,
+  "substat_lvl90": 0.1103,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 14305,
+  "name": {
+    "EN": "Twin Nephrite",
+    "CHS": "甲级宝珏",
+    "CHT": "甲級寶玨",
+    "DE": "Zwillingsnephrit",
+    "ES": "Nefrita Gemela",
+    "FR": "Néphrite jumelle",
+    "ID": "Twin Nephrite",
+    "IT": "Nefrite gemella",
+    "JP": "特級の宝玉",
+    "KR": "1급 보옥",
+    "PT": "Nefrita Gêmea",
+    "RU": "Парный нефрит",
+    "TH": "Twin Nephrite",
+    "TR": "İkiz Yeşimtaşı",
+    "VI": "Ngọc Sinh Đôi"
+  },
+  "nameEn": "Twin Nephrite",
+  "type": "Pháp Khí",
+  "rarity": 3,
+  "description": {
+    "EN": "A jade pendant formed by piecing together two jade stones.",
+    "CHS": "两块玉石拼成的精致玉佩。",
+    "CHT": "兩塊玉石拼成的精緻玉珮。",
+    "DE": "Ein feiner, aus zwei Edelsteinen zusammengesetzter Anhänger.",
+    "ES": "Un colgante de nefrita colocado entre dos piedras de jade.",
+    "FR": "Un pendentif exquis composé de deux pièces de jade assemblées.",
+    "ID": "Sebuah kalung giok yang disatukan oleh dua potong giok.",
+    "IT": "Un pendente formato dall'unione di due pietre di giada.",
+    "JP": "二つの玉石でできた精巧な玉佩。",
+    "KR": "두 개의 옥을 합쳐 만든 정교한 옥패",
+    "PT": "Um pingente de jade colocado junto entre duas pedras de jade.",
+    "RU": "Ожерелье с замочком из двух кусочков нефрита.",
+    "TH": "จี้หยกที่นำเอาหยกทั่วไปสองชิ้นมาประกอบเข้าด้วยกัน",
+    "TR": "İki parça yeşimden yapılmış zarif bir madalyon.",
+    "VI": "Ngọc bội tinh xảo được ghép từ hai miếng ngọc."
+  },
+  "icon": "generated/weapon-profiles/14305/avatar.webp",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.034,
+  "substat_lvl90": 0.1562,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

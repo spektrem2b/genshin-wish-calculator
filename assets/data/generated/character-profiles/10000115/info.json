@@ -1,0 +1,137 @@
+{
+  "id": "10000115",
+  "name": {
+    "EN": "Dahlia",
+    "CHS": "塔利雅",
+    "CHT": "塔利雅",
+    "DE": "Dahlia",
+    "ES": "Dahlia",
+    "FR": "Dahlia",
+    "ID": "Dahlia",
+    "IT": "Dahlia",
+    "JP": "ダリア",
+    "KR": "달리아",
+    "PT": "Dahlia",
+    "RU": "Далия",
+    "TH": "Dahlia",
+    "TR": "Dahlia",
+    "VI": "Dahlia"
+  },
+  "nameEn": "Dahlia",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 5,
+    "day": 25
+  },
+  "release": "2025-06-16T21:00:00",
+  "icon": "generated/character-profiles/10000115/avatar.webp",
+  "fullWish": "generated/character-profiles/10000115/full_wish.webp",
+  "fullWishObjectPosition": "48.3% 32.5%",
+  "title": {
+    "EN": "Ode and Oblation",
+    "CHS": "颂礼祝祭",
+    "CHT": "頌禮祝祭",
+    "DE": "Ode und Oblation",
+    "ES": "El Diácono de las Oblaciones",
+    "FR": "Ode et oblation",
+    "ID": "Ode and Oblation",
+    "IT": "Ode e oblazione",
+    "JP": "礼賛の祝祭",
+    "KR": "찬송의 기도",
+    "PT": "Diácono da Ode Divina",
+    "RU": "Хвала и подношение",
+    "TH": "ขับขานน้อมสรรเสริญ",
+    "TR": "Ağıt ve Adak",
+    "VI": "Hoan Ca Tế Lễ"
+  },
+  "description": {
+    "EN": "Deacon of the Church of Favonius and the Anemo Archon's representative in the church.",
+    "CHS": "西风教会的助祭，风神在教会的代行人。",
+    "CHT": "西風教會的助祭，風神在教會的代行人。",
+    "DE": "Diakon der Favonius-Kathedrale und Vertreter des Anemo-Archons in der Kirche.",
+    "ES": "El Diácono de la Iglesia de Favonius, así como el representante del Arconte Anemo en la Iglesia.",
+    "FR": "Ce diacre de l'Église de Favonius est le représentant de l'Archon Anémo au sein de l'Église.",
+    "ID": "Diakon Church of Favonius dan perwakilan Archon Anemo di Gereja.",
+    "IT": "Il diacono della Chiesa di Favonius e rappresentante dell'Archon di Anemo.",
+    "JP": "西風教会の助祭にして、教会における風神の代理人。",
+    "KR": "페보니우스 성당의 부제이자 바람 신의 대행자",
+    "PT": "Diácono da Igreja Favonius e representante do Arconte Anemo na igreja.",
+    "RU": "Дьякон церкви Фавония и представитель Анемо Архонта.",
+    "TH": "ผู้ช่วยของโบสถ์ Favonius และตัวแทนในโบสถ์ของเทพแห่งลม",
+    "TR": "Favonius Kilisesinin rahibi ve Rüzgar Hükümdarı'nın kilisedeki temsilcisi.",
+    "VI": "Phó tế của Giáo Hội Tây Phong, người đại diện của Phong Thần trong giáo hội."
+  },
+  "constellationName": {
+    "EN": "Cantus Choralis",
+    "CHS": "礼赞歌座",
+    "CHT": "禮讚歌座",
+    "DE": "Cantus Choralis",
+    "ES": "Cantus Choralis",
+    "FR": "Cantus Choralis",
+    "ID": "Cantus Choralis",
+    "IT": "Cantus Choralis",
+    "JP": "礼賛歌座",
+    "KR": "찬송가자리",
+    "PT": "Cantus Choralis",
+    "RU": "Песнь Прославления",
+    "TH": "Cantus Choralis",
+    "TR": "İlahi Armoni",
+    "VI": "Cung Lễ Tán Ca"
+  },
+  "native": {
+    "EN": "Church of Favonius",
+    "CHS": "西风教会",
+    "CHT": "西風教會",
+    "DE": "Favonius-Kathedrale",
+    "ES": "Iglesia de Favonius",
+    "FR": "Église de Favonius",
+    "ID": "Church of Favonius",
+    "IT": "Chiesa di Favonius",
+    "JP": "西風教会",
+    "KR": "페보니우스 성당",
+    "PT": "Igreja Favonius",
+    "RU": "Церковь Фавония",
+    "TH": "โบสถ์ Favonius",
+    "TR": "Favonius Kilisesi",
+    "VI": "Giáo Hội Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Aileen Mythen"
+    },
+    {
+      "lang": "CHS",
+      "va": "风袖"
+    },
+    {
+      "lang": "JP",
+      "va": "山本和臣"
+    },
+    {
+      "lang": "KR",
+      "va": "Seok Seung-hoon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1048.5597,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 15.84912,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 46.9245,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

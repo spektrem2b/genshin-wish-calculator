@@ -1,0 +1,69 @@
+{
+  "id": 15017,
+  "name": {
+    "EN": "Tenacity of the Millelith",
+    "CHS": "千岩牢固",
+    "CHT": "千岩牢固",
+    "DE": "Zähigkeit der Millelithen",
+    "ES": "Tenacidad de la Geoarmada",
+    "FR": "Ténacité du Millelithe",
+    "ID": "Tenacity of the Millelith",
+    "IT": "Perseveranza dei Milleliti",
+    "JP": "千岩牢固",
+    "KR": "견고한 천암",
+    "PT": "Millelith Firmes",
+    "RU": "Стойкость Миллелита",
+    "TH": "Tenacity of the Millelith",
+    "TR": "Taşordu'nun Azmi",
+    "VI": "Thiên Nham Vững Chắc"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15017/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "HP +20%",
+        "CHS": "生命值提升20%。",
+        "CHT": "生命值提升20%。",
+        "DE": "Erhöht die LP um 20 %.",
+        "ES": "Vida +20%.",
+        "FR": "Les PV sont augmentés de 20 %.",
+        "ID": "HP +20%.",
+        "IT": "PS +20%.",
+        "JP": "HP+20%。",
+        "KR": "HP+20%",
+        "PT": "Aumenta a vida em 20%.",
+        "RU": "Увеличивает НР на 20%.",
+        "TH": "พลังชีวิตเพิ่มขึ้น 20%",
+        "TR": "+%20 Can.",
+        "VI": "HP tăng 20%"
+      },
+      "affixId": "2150170"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "CHS": "元素战技命中敌人后，使队伍中附近的所有角色攻击力提升20%，护盾强效提升30%，持续3秒。该效果每0.5秒至多触发一次。装备此圣遗物套装的角色处于队伍后台时，依然能触发该效果。",
+        "CHT": "元素戰技命中敵人後，使隊伍中附近的所有角色攻擊力提升20%，護盾強效提升30%，持續3秒。該效果每0.5秒至多觸發一次。裝備此聖遺物套裝的角色處於隊伍後台時，依然能觸發該效果。",
+        "DE": "Erhöht beim Treffen von Gegnern mit Elementarfähigkeiten den ANG aller Truppenmitglieder in der Nähe um 20 % sowie die Schildeffizienz um 30 %, hält 3 s, 0,5 s Abklingzeit. Die Figur mit diesem Artefaktset kann diesen Effekt auch auslösen, wenn sie inaktiv in der Truppe ist.",
+        "ES": "Cuando una Habilidad Elemental golpea a un enemigo, el ATQ de todos los personajes del equipo cercanos aumenta en un 20% y su Protección de Escudo aumenta en un 30% durante 3 s. Este efecto puede tener lugar cada 0.5 s y se activa incluso cuando el personaje que lleva equipado este conjunto de artefactos está en tu equipo pero no en uso.",
+        "FR": "Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ de tous les personnages de l'équipe à proximité augmente de 20 % et la force de leur bouclier augmente de 30 % pendant 3 s. Cet effet peut être déclenché une fois toutes les 0,5 s, même lorsque le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat Elemental Skill mengenai musuh, meningkatkan 20% ATK dan 30% kekuatan Perisai seluruh anggota party di sekitar selama 3 detik. Efek ini hanya dapat terpicu setiap 0,5 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan set Artefak ini tidak berada di medan pertempuran.",
+        "IT": "#Quando un'abilità elementale colpisce un avversario, l'ATT e l'efficacia dello scudo di tutti i membri del gruppo vicini aumentano rispettivamente di un 20% e di un 30% per 3 s. Quest'effetto può attivarsi una volta ogni 0,5 s, anche se il personaggio che sta usando questo set di manufatti non è sul campo.",
+        "JP": "元素スキルが敵に命中すると、周囲のチーム全員の攻撃力+20%、シールド強化+30%、持続時間3秒。この効果は0.5秒毎に1回のみ発動可能。この聖遺物セットを装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소전투 스킬이 적을 명중하면 파티 내 주변 모든 캐릭터의 공격력이 20% 증가하고, 보호막 강화 효과가 30% 증가한다. 지속 시간: 3초. 해당 효과는 0.5초마다 최대 1회 발동되며, 해당 성유물을 장착한 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Quando a Habilidade Elemental atinge um oponente, o ATQ de todos os membros da equipe próximos aumenta em 20% e sua Força do Escudo aumenta em 30% por 3s. Esse efeito pode ser ativado uma vez a cada 0,5s. Esse efeito ainda pode ser ativado mesmo quando o personagem que está usando esse conjunto de artefatos não está em campo.",
+        "RU": "Когда элементальный навык попадает по врагам, атака всех находящихся поблизости персонажей в отряде, увеличивается на 20%, а прочность их щита увеличивается на 30%. Эффект длится 3 сек. и может возникнуть 1 раз в 0,5 сек. Этот эффект может быть активирован, даже если персонаж, экипированный этим набором артефактов, не находится на поле боя.",
+        "TH": "เมื่อสกิลธาตุโจมตีโดนศัตรู จะเพิ่มโบนัสพลังโจมตีของตัวละครในทีมที่อยู่ใกล้เคียงขึ้น 20% และเพิ่มประสิทธิภาพโล่ป้องกันขึ้น 30% ต่อเนื่อง 3 วินาที เอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 0.5 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้แล้ว",
+        "TR": "Bir Element Becerisi bir düşmana isabet ettiğinde, 3 saniye boyunca çevredeki tüm grup üyelerinin Saldırısı %20 ve Kalkan Güçleri %30 artar. Bu etki 0,5 saniyede bir uygulanabilir. Bu yadigar setini kuşanan karakter savaş alanında olmasa bile bu etki tetiklenir.",
+        "VI": "Sau khi Kỹ Năng Nguyên Tố đánh trúng địch, sẽ tăng 20% tấn công cho tất cả nhân vật trong đội ở gần, tăng 30% hiệu quả Khiên, kéo dài 3s. Hiệu quả này mỗi 0.5s tối đa kích hoạt 1 lần. Khi nhân vật trang bị bộ Thánh Di Vật này ở trong đội nhưng không ra trận, vẫn có thể kích hoạt hiệu quả này."
+      },
+      "affixId": "2150171"
+    }
+  ]
+}

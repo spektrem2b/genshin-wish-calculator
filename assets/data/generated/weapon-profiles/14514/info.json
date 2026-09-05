@@ -1,0 +1,52 @@
+{
+  "id": 14514,
+  "name": {
+    "EN": "Tome of the Eternal Flow",
+    "CHS": "万世流涌大典",
+    "CHT": "萬世流湧大典",
+    "DE": "Lehre des ewigen Flusses",
+    "ES": "Escrituras del Fluir Sempiterno",
+    "FR": "Tome du flux éternel",
+    "ID": "Tome of the Eternal Flow",
+    "IT": "Tomo del flusso perenne",
+    "JP": "久遠流転の大典",
+    "KR": "영원히 샘솟는 법전",
+    "PT": "Rito do Fluxo Eterno",
+    "RU": "Обряд вечного течения",
+    "TH": "Tome of the Eternal Flow",
+    "TR": "Sonsuz Akış Kitabı",
+    "VI": "Nghi Thức Dòng Chảy Vĩnh Hằng"
+  },
+  "nameEn": "Tome of the Eternal Flow",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A manual that was once passed down from generation to generation within an underwater priory. Today, none know of its existence.",
+    "CHS": "曾在水下的隐修会中代代流传的教谕书，如今已经无人知晓其存在。",
+    "CHT": "曾在水下的隱修會中代代流傳的教諭書，如今已經無人知曉其存在。",
+    "DE": "Ein Lehrwerk, das in einem geheimen Unterwasserkloster von Generation zu Generation weitergereicht wurde. Heute weiß niemand mehr von dessen Existenz.",
+    "ES": "Un libro de enseñanzas que durante un tiempo pasó de generación en generación en un monasterio. Ya nadie sabe de su existencia.",
+    "FR": "Un manuel qui se transmettait autrefois de génération en génération au sein d'un centre de formation sous-marin. Aujourd'hui, personne ne connaît son existence.",
+    "ID": "Buku manual yang diturunkan dari generasi ke generasi di pusat pelatihan bawah air. Keberadaannya sudah tidak diketahui oleh orang saat ini.",
+    "IT": "Un manuale che un tempo veniva tramandato all'interno di un priorato subacqueo. Al giorno d'oggi, la sua esistenza è ignota a chiunque.",
+    "JP": "かつて、水中の隠修会に代々伝わっていた教諭書。今やその存在を存じる者は誰もいない。",
+    "KR": "과거 물속 수도회에서 대대로 전해져 내려오던 가르침의 책. 지금은 그 존재를 아는 이가 없다",
+    "PT": "Um manual passado de geração em geração num centro de treinamento submarino. Hoje, ninguém sabe da sua existência.",
+    "RU": "Книга наставлений, когда-то передававшаяся из поколения в поколение в подводной обители. Сегодня о ней никому не известно.",
+    "TH": "หนังสือคำสอนที่สืบทอดกันมาจากรุ่นสู่รุ่นภายในศูนย์ฝึกฝนใต้น้ำ แต่ตอนนี้ไม่มีใครรู้ถึงการมีอยู่ของมัน",
+    "TR": "Su altındaki bir manastırda nesilden nesile aktarılan bir rehber. Bugün ise varlığından kimse haberdar değil.",
+    "VI": "Sách răn dạy từng được lưu truyền nhiều đời của hội ẩn tu dưới nước. Ngày nay đã không còn ai biết về sự tồn tại của nó."
+  },
+  "icon": "generated/weapon-profiles/14514/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

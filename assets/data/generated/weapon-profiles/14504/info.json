@@ -1,0 +1,52 @@
+{
+  "id": 14504,
+  "name": {
+    "EN": "Memory of Dust",
+    "CHS": "尘世之锁",
+    "CHT": "塵世之鎖",
+    "DE": "Ketten des Diesseits",
+    "ES": "Candado Terrenal",
+    "FR": "Chaînes mortelles",
+    "ID": "Memory of Dust",
+    "IT": "Memorie terrene",
+    "JP": "浮世の錠",
+    "KR": "속세의 자물쇠",
+    "PT": "Memória da Poeira",
+    "RU": "Память о пыли",
+    "TH": "Memory of Dust",
+    "TR": "Tozlu Hatıra",
+    "VI": "Khóa Trần Thế"
+  },
+  "nameEn": "Memory of Dust",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
+    "CHS": "蕴含着某种悠远记忆的石锁，随着无穷的变换透露出其中的力量。",
+    "CHT": "蘊含著某種悠遠記憶的石鎖，隨著無窮的變換透露出其中的力量。",
+    "DE": "Ein steinernes Schloss, das längst vergangene Erinnerungen verschlossen hält. Nach unendlichen Umwandlungen zeigt es seine wahre Kraft.",
+    "ES": "Un candado de piedra que contiene algún tipo de recuerdo ancestral y revela su poder con infinitas transformaciones.",
+    "FR": "Une arme en pierre lourde et porteuse de souvenirs lointains. Ses transformations incessantes révèlent la puissance qui l'habite.",
+    "ID": "Kunci batu yang berisi memori dari masa lalu, dapat mengeluarkan kekuatan seiring dengan perubahannya yang tidak terbatas.",
+    "IT": "Quest'arma di pietra contiene memorie lontane. Le sue infinite mutazioni rivelano il suo potere interiore.",
+    "JP": "ある遠い昔の記憶が秘められている石の錠。窮まりない変化の中からその力が伺える。",
+    "KR": "어느 오래된 기억을 품고 있는 돌 자물쇠. 끝없는 변화 속에서 그 힘을 엿볼 수 있다",
+    "PT": "Uma fechadura de pedra contendo memórias distantes. Suas infinitas transformações revelam seu poder interior.",
+    "RU": "Камень, содержащий далёкие воспоминания. Нескончаемые изменения обнажили его внутреннюю силу.",
+    "TH": "ทุ่นหินที่เต็มไปด้วยความทรงจำอันแสนยาวนาน การเปลี่ยนแปลงที่ไม่มีที่สิ้นสุด ได้เผยให้เห็นถึงพลังของมัน",
+    "TR": "Kadim hatıralar barındıran ve gücünü içindeki dönüşümlerden alan taş bir kilit.",
+    "VI": "Chiếc khóa bằng đá dường như ẩn chứa những dòng lịch sử cổ xưa nào đó, sự thay đổi của thời gian khiến nó để lộ ra sức mạnh trong đó."
+  },
+  "icon": "generated/weapon-profiles/14504/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

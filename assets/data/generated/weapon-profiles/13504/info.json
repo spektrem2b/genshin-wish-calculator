@@ -1,0 +1,52 @@
+{
+  "id": 13504,
+  "name": {
+    "EN": "Vortex Vanquisher",
+    "CHS": "贯虹之槊",
+    "CHT": "貫虹之槊",
+    "DE": "Regenbogenstecher",
+    "ES": "Lanza Perforanubes",
+    "FR": "Perceur prismatique",
+    "ID": "Vortex Vanquisher",
+    "IT": "Squarciavortice",
+    "JP": "破天の槍",
+    "KR": "관홍의 창",
+    "PT": "Perfuradora Prismática",
+    "RU": "Покоритель вихря",
+    "TH": "Vortex Vanquisher",
+    "TR": "Girdap Söndüren",
+    "VI": "Giáo Nịnh Thần"
+  },
+  "nameEn": "Vortex Vanquisher",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air.",
+    "CHS": "或许能贯穿一切的锋利长枪。挥舞当中，仿佛能见到空气被枪尖划破的裂痕。",
+    "CHT": "或許能貫穿一切的鋒利長槍。揮舞當中，彷彿能見到空氣被槍尖劃破的裂痕。",
+    "DE": "Eine Stangenwaffe, die womöglich alles und jeden aufspießen kann. In der Luft geschwungen meint man, Spuren ihrer Schnitte sehen zu können.",
+    "ES": "Una afilada lanza que puede atravesar cualquier cosa. Al blandirla, casi se pueden ver las grietas creadas por su punta en el aire.",
+    "FR": "Cette lance aiguisée semble pouvoir tout transpercer. Puissante et rapide, on dit qu'elle est capable de fendre l'arc-en-ciel.",
+    "ID": "Tombak tajam yang seakan-akan bisa menusuk segalanya. Saat tombak ini diayunkan, ujung tombak seakan-akan membuat retakan di udara.",
+    "IT": "Quest'arma lunga e appuntita può penetrare attraverso qualsiasi cosa. Quando colpisce, squarcia letteralmente l'aria.",
+    "JP": "あらゆるものを貫く鋭い長槍。空気に裂け目を開けるほど、その一振りは凄まじい。",
+    "KR": "모든 걸 관통할 수 있을 것만 같은 날카로운 장창. 휘두를 때, 마치 창끝으로 공기를 가르는듯한 착각마저 든다",
+    "PT": "Esta lança afiada pode aparentemente perfurar qualquer coisa. Quando balançada, quase se pode ver a fenda que ela rasga no ar.",
+    "RU": "Острое копьё, которое, похоже, может пронзить что угодно. При взмахе можно увидеть, будто в месте, где наконечник касается воздуха, появляется брешь.",
+    "TH": "หอกยาวอันแหลมคมที่สามารถทะลวงทุกอย่างได้ เมื่อหอกกวัดแกว่งมัน ราวกับสามารถเห็นรอยแยกในอากาศได้",
+    "TR": "Bu keskin mızrağın delip geçemeyeceği hiçbir şey yok. Gücü ve hızıyla gökleri bile yarabilecek gibi görünüyor.",
+    "VI": "Thanh thương sắc bén có thể chọc thủng mọi thứ. Khi sử dụng, dường như thấy được vệt rách mà thanh thương cứa vào không khí."
+  },
+  "icon": "generated/weapon-profiles/13504/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

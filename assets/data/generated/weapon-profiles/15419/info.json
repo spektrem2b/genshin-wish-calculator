@@ -1,0 +1,52 @@
+{
+  "id": 15419,
+  "name": {
+    "EN": "Ibis Piercer",
+    "CHS": "鹮穿之喙",
+    "CHT": "䴉穿之喙",
+    "DE": "Durchdringer der Ibisse",
+    "ES": "Perforaibis",
+    "FR": "Perceur d'ibis",
+    "ID": "Ibis Piercer",
+    "IT": "Becco d'ibis",
+    "JP": "トキの嘴",
+    "KR": "꿰뚫는 따오기 부리",
+    "PT": "Bico de Íbis",
+    "RU": "Клюв ибиса",
+    "TH": "Ibis Piercer",
+    "TR": "Telli Turna",
+    "VI": "Mỏ Cò Xuyên Thấu"
+  },
+  "nameEn": "Ibis Piercer",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A golden bow forged from the description in the story. If you use it as a normal weapon, you can also view it as a part of a fictional world that has made it off the pages.",
+    "CHS": "以故事中的描述铸就的黄金之弓。若将它作为寻常武具使用，也可视为让纸上故事的一角在纸外的世界得到显现了吧。",
+    "CHT": "以故事中的描述鑄就的黃金之弓。若將它作為尋常武具使用，也可視為讓紙上故事的一角在紙外的世界得到顯現了吧。",
+    "DE": "Ein aus Gold geschmiedeter Bogen. Er entspricht der Beschreibung aus der Geschichte. Eingesetzt als gewöhnliche Waffe könnte der Eindruck entstehen, dass sich die Erzählung ihren Weg vom Papier hinaus in die wirkliche Welt gebahnt hat.",
+    "ES": "Un arco dorado forjado a partir de la descripción de una historia. Si se utiliza como un arma normal, será como un fragmento de ficción que ha escapado de las páginas de un libro para materializarse en el mundo.",
+    "FR": "Un arc en or forgé à partir de la description d'une histoire. Si vous l'utilisez comme une arme normale, vous pouvez également le considérer comme faisant partie d'un monde fictif sorti de ses pages.",
+    "ID": "Busur emas yang ditempa berdasarkan deskripsi di dalam legenda. Kalau digunakan sebagai senjata biasa, senjata ini juga bisa dianggap sebagai bagian dari dunia fiksi yang telah keluar dari halaman ceritanya ke dunia nyata.",
+    "IT": "Un arco d'oro forgiato come descritto nella storia. Se usato come arma comune, è possibile considerarlo la materializzazione di un oggetto appartenente a un mondo fittizio.",
+    "JP": "物語の描写になぞらえて鍛え上げられた黄金の弓。これを普通の武器として扱えば、紙に描かれた物語の一角を、その外の世界に具現化したと言えるだろう。",
+    "KR": "이야기 속 묘사를 따라 만든 황금 활. 평범한 무기로 사용한다면, 종이 위에 적힌 이야기의 일각을 세상 밖으로 꺼냈다고 볼 수 있을 것이다",
+    "PT": "Um arco dourado forjado a partir da descrição de uma história. Se você usá-lo como uma arma comum, também pode pensar nele como parte de um mundo fictício extraído de suas páginas.",
+    "RU": "Золотой лук, выкованный по описанию из истории. Если использовать его как обычное оружие, он словно становится частичкой вымышленного мира, сошедшей со страниц книги.",
+    "TH": "คันธนูทองคำที่ถูกหลอมขึ้นมาตามเรื่องเล่า หากใช้มันเฉกเช่นอาวุธธรรมดาทั่วไป ก็น่าจะถือว่าเป็นการทำให้มุมหนึ่งของเรื่องราวบนหน้ากระดาษ ได้ปรากฏขึ้นในโลกของความเป็นจริงที่อยู่ภายนอกหน้ากระดาษล่ะนะ",
+    "TR": "Hikayede yer verilen betimlemelere göre dövülmüş altın bir yay. Normal bir silah gibi kullanırsan kitap sayfalarındaki kurgusal dünyanın gerçeğe dönüşen bir parçası olduğunu hayal edebilirsin.",
+    "VI": "Chiếc cung vàng được rèn theo mô tả trong truyện. Nếu sử dụng nó như một món vũ khí, chắc sẽ cảm nhận thấy những trang truyện được tái hiện ra bên ngoài nhỉ."
+  },
+  "icon": "generated/weapon-profiles/15419/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

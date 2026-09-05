@@ -1,0 +1,52 @@
+{
+  "id": 14417,
+  "name": {
+    "EN": "Fruit of Fulfillment",
+    "CHS": "盈满之实",
+    "CHT": "盈滿之實",
+    "DE": "Vollmondfrucht",
+    "ES": "Fruto de la Culminación",
+    "FR": "Le fruit de l'accomplissement",
+    "ID": "Fruit of Fulfillment",
+    "IT": "Frutto della sazietà",
+    "JP": "満悦の実",
+    "KR": "충만의 열매",
+    "PT": "Fruto da Abundância",
+    "RU": "Плод восполнения",
+    "TH": "Fruit of Fulfillment",
+    "TR": "Doygunluk Meyvesi",
+    "VI": "Quả Mọng"
+  },
+  "nameEn": "Fruit of Fulfillment",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A fruit you obtained from an Aranara tale. It holds the potential to conquer any crisis.",
+    "CHS": "从兰那罗的故事中得到的果实。其中蕴含着战胜任何危机的潜能。",
+    "CHT": "從蘭那羅的故事中得到的果實。其中蘊含著戰勝任何危機的潛能。",
+    "DE": "Eine Frucht, die du aus einer Geschichte über die Aranara erhalten hast. Sie hat das Potenzial, jede Krise zu überwinden.",
+    "ES": "Un fruto obtenido a través de una de las historias de los aranara. Tiene la capacidad de salir airoso de cualquier crisis.",
+    "FR": "Un fruit que vous avez obtenu dans un conte d'aranara. Il a le potentiel de vaincre n'importe quelle crise.",
+    "ID": "Buah yang didapat dari cerita Aranara. Darinyalah terdapat potensi untuk mengatasi krisis apa pun.",
+    "IT": "Un frutto che hai ottenuto da una storia degli Aranara. Serba il potenziale per scongiurare ogni crisi.",
+    "JP": "アランナラの物語で手に入る果実。どんな危機も克服できる可能性を秘めている。",
+    "KR": "아란나라의 이야기에서 획득한 열매. 어떠한 위기라도 이겨낼 수 있는 잠재적인 능력을 지니고 있다",
+    "PT": "Uma fruta obtida através de uma das histórias dos Aranara. Ela tem o poder de conquistar qualquer crise.",
+    "RU": "Плод, полученный из истории аранар. В нём заключены силы для преодоления любого бедствия.",
+    "TH": "ผลไม้ที่ได้รับมาจากเรื่องเล่าของ Aranara มีศักยภาพที่จะเอาชนะวิกฤติใด ๆ ก็ตามอยู่ในนั้น",
+    "TR": "Aranara hikayesinden elde ettiğin bir meyve. Her sorunu çözebilecek bir potansiyele sahip.",
+    "VI": "Quả mọng nhận được từ câu chuyện của Aranara. Bên trong ẩn chứa tiềm năng chiến thắng mọi nguy hiểm."
+  },
+  "icon": "generated/weapon-profiles/14417/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

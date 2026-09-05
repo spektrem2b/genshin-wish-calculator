@@ -1,0 +1,52 @@
+{
+  "id": 12432,
+  "name": {
+    "EN": "Flame-Forged Insight",
+    "CHS": "拾慧铸熔",
+    "CHT": "拾慧鑄熔",
+    "DE": "Geschmiedete Weisheit",
+    "ES": "Sabiduría Fraguada",
+    "FR": "Perception forgée par les flammes",
+    "ID": "Flame-Forged Insight",
+    "IT": "Intuizione pirogenita",
+    "JP": "知恵の溶炎",
+    "KR": "불로 벼린 지혜",
+    "PT": "Forja da Sabedoria",
+    "RU": "Выкованное пламенем озарение",
+    "TH": "Flame-Forged Insight",
+    "TR": "Ateşte Dövülen Bilgelik",
+    "VI": "Trí Tuệ Dung Luyện"
+  },
+  "nameEn": "Flame-Forged Insight",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "Tribal tales tell of a great blade forged by the People of the Springs to protect a child who would embark on a distant journey. This particular weapon appears to be a replica of that legendary sword.",
+    "CHS": "在部族流传的故事中，是由流泉之众的工匠为远游的孩子定做的防身之刃。这把似乎是仿照故事中的巨剑而制作的复刻品。",
+    "CHT": "在部族流傳的故事中，是由流泉之眾的工匠為遠遊的孩子訂做的防身之刃。這把似乎是仿照故事中的巨劍而製作的復刻品。",
+    "DE": "In den innerhalb des Stammes überlieferten Geschichten ist von einer Selbstverteidigungswaffe die Rede, die von den Handwerkern der Menschen der Quellen für ein weit reisendes Kind angefertigt wurde. Diese Waffe scheint eine Nachbildung des Riesenschwerts aus der Geschichte zu sein.",
+    "ES": "Según las leyendas de cierta tribu, esta es una espada de defensa propia que los herreros del Pueblo de los Manantiales hicieron a medida para un niño que iba a emprender un viaje muy lejano. Este ejemplar parece ser una réplica de la gran espada de esa historia.",
+    "FR": "Les légendes tribales parlent d'une grande lame forgée par le Peuple des sources pour protéger un enfant qui s'apprêtait à entreprendre un voyage lointain. Cette arme semble être une réplique de cette épée légendaire.",
+    "ID": "Dalam cerita suku, pedang ini ditempa oleh pengrajin Warga Mata Air untuk melindungi seorang anak yang sedang berkelana jauh. Sepertinya, ini adalah replika dari pedang legendaris raksasa tertentu yang ada dalam legenda.",
+    "IT": "Nei racconti tribali si narra di una spada forgiata dal Popolo delle Sorgenti per proteggere un bambino nel lungo viaggio che stava per intraprendere. Quest'arma in particolare sembra una replica di quella leggendaria lama.",
+    "JP": "部族の言い伝えによると、流泉の衆の職人が遠出する子供のために作った護身用の剣。物語に登場する巨大な剣を模して作られたレプリカのようだ。",
+    "KR": "부족 전승에 따르면, 샘물 무리 여행가가 먼 곳으로 떠나는 아이를 위해 호신용 대검을 선물했다고 한다. 이 대검은 그 전설을 바탕으로 만든 복제품이다",
+    "PT": "Histórias da tribo contam sobre uma grande lâmina forjada pelo Povo das Termas para proteger uma criança que embarcaria numa jornada para uma terra distante. Essa arma parece ser uma réplica da espada lendária.",
+    "RU": "В преданиях племён говорится о великом клинке, выкованном представителями Народа Родников для защиты ребёнка, который отправлялся в далёкое путешествие. Судя по всему, данный клинок - копия этого легендарного меча.",
+    "TH": "ตามเรื่องเล่าที่สืบทอดกันมาในชนเผ่า ดาบนี้เป็นดาบป้องกันตัวที่ช่างฝีมือของเหล่าวารี สร้างให้กับเด็กที่ออกเดินทางไกล ดูเหมือนว่าดาบเล่มนี้จะเป็นของเลียนแบบที่สร้างขึ้น ตามดาบใหญ่ในเรื่องเล่า",
+    "TR": "Kabile hikayelerinde Kaplıca Halkının uzun bir yolculuğa çıkan bir çocuğu korumak için dövdüğü yüce bir kılıçtan bahsedilir. Bu silah da o efsanevi kılıcın bir replikası.",
+    "VI": "Trong câu chuyện lưu truyền của bộ tộc, thợ thủ công của Cư Dân Suối Nước đã chế tạo một thanh kiếm phòng thân cho đứa trẻ sắp đi xa. Đây có lẽ là bản sao mô phỏng theo thanh kiếm huyền thoại trong câu chuyện đó."
+  },
+  "icon": "generated/weapon-profiles/12432/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

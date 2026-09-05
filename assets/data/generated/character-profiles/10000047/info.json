@@ -1,0 +1,137 @@
+{
+  "id": "10000047",
+  "name": {
+    "EN": "Kaedehara Kazuha",
+    "CHS": "枫原万叶",
+    "CHT": "楓原萬葉",
+    "DE": "Kaedehara Kazuha",
+    "ES": "Kaedehara Kazuha",
+    "FR": "Kaedehara Kazuha",
+    "ID": "Kaedehara Kazuha",
+    "IT": "Kaedehara Kazuha",
+    "JP": "楓原万葉",
+    "KR": "카에데하라 카즈하",
+    "PT": "Kaedehara Kazuha",
+    "RU": "Кадзуха",
+    "TH": "Kaedehara Kazuha",
+    "TR": "Kaedehara Kazuha",
+    "VI": "Kaedehara Kazuha"
+  },
+  "nameEn": "Kaedehara Kazuha",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 10,
+    "day": 29
+  },
+  "release": "2021-06-29T15:00:00",
+  "icon": "generated/character-profiles/10000047/avatar.webp",
+  "fullWish": "generated/character-profiles/10000047/full_wish.webp",
+  "fullWishObjectPosition": "46.9% 24.4%",
+  "title": {
+    "EN": "Scarlet Leaves Pursue Wild Waves",
+    "CHS": "红叶逐荒波",
+    "CHT": "紅葉逐荒波",
+    "DE": "Tiefrote Blätter jagen wilde Wellen",
+    "ES": "El Mensajero del Viento",
+    "FR": "Tourbillon de feuilles écarlates",
+    "ID": "Scarlet Leaves Pursue Wild Waves",
+    "IT": "Vortice delle foglie scarlatte",
+    "JP": "風波流浪の紅葉",
+    "KR": "파도를 쫓는 단풍",
+    "PT": "Folhas Escarlates Procuram Ondas Selvagens",
+    "RU": "Багряные листья и неистовые волны",
+    "TH": "ใบไม้แดงแห่งกระแสคลื่น",
+    "TR": "Hırçın Dalgaları Kovalayan Kızıl Yapraklar",
+    "VI": "Lá Đỏ Đuổi Sóng"
+  },
+  "description": {
+    "EN": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
+    "CHS": "来自稻妻的浪人武士，如今栖身于璃月船队「南十字」中。性情温和而洒脱，心中埋藏着许多往事。",
+    "CHT": "來自稻妻的浪人武士，如今棲身於璃月船隊「南十字」中。性情溫和而灑脫，心中埋藏著許多往事。",
+    "DE": "Ein wandernder Samurai aus Inazuma, der momentan mit der Crux von Liyue unterwegs ist. Eine sanfte und sorglose Seele, deren Herz schwer wiegt, von vielen großen Bürden aus der Vergangenheit.",
+    "ES": "Un samurái errante de Inazuma que actualmente se hospeda en la Flota Crux Meridianam de Liyue. El corazón de este amable y libre joven encierra sus muchas cargas del pasado.",
+    "FR": "Un samouraï errant d'Inazuma qui fait actuellement partie de la Flotte du Crux. Une âme douce et insouciante dont le cœur cache de nombreuses blessures.",
+    "ID": "Seorang samurai pengembara dari Inazuma yang saat ini bergabung bersama dengan armada Crux Fleet Liyue. Di dalam jiwanya yang lembut dan riang, terdapat hati yang menyembunyikan banyak beban.",
+    "IT": "Un samurai errante di Inazuma attualmente imbarcato sulla flotta della Crux di Liyue. Un'anima gentile e spensierata il cui cuore nasconde troppi fardelli del passato.",
+    "JP": "稲妻より訪れし浪人。今は璃月の「南十字」武装船隊と行動を共にしている。穏やかで浮世離れした性格だが、過去に経験した様々な出来事を心の内に秘めている。",
+    "KR": "이나즈마에서 온 떠돌이 무사. 현재 리월의 「남십자」 함대에 머물고 있다. 온화하고 소탈한 성격으로 마음속에 수많은 과거를 숨기고 있다",
+    "PT": "Um samurai errante de Inazuma que atualmente está com a Frota Crux de Liyue. Uma alma gentil e livre cujo coração esconde muitas feridas.",
+    "RU": "Ронин-самурай из Инадзумы, который нашёл приют на флоте Южного Креста в Ли Юэ. Этот добрый и беззаботный молодой человек многое пережил в прошлом.",
+    "TH": "ซามูไรพเนจรจาก Inazuma ตอนนี้อาศัยอยู่กับกองเรือ \"Crux\" ของ Liyue มีนิสัยอ่อนโยนและรักอิสระ เก็บงำเหตุการณ์ในอดีตมากมายไว้ในใจ",
+    "TR": "Şu anda Liyue'nin Güneyhaçı Mürettebatında olan Inazumalı gezgin bir samuray. Nazik ve dizginlenemez bir doğası var ve kalbinde geçmişin yaralarını taşıyor.",
+    "VI": "Ronin Samurai đến từ Inazuma, nay đã gia nhập đội thuyền \"Nam Thập Tự\" Liyue. Tính tình ôn hòa, hào sảng, trong lòng chất chứa nhiều chuyện xưa."
+  },
+  "constellationName": {
+    "EN": "Acer Palmatum",
+    "CHS": "枫红座",
+    "CHT": "楓紅座",
+    "DE": "Acer Palmatum",
+    "ES": "Acer Palmatum",
+    "FR": "Acer Palmatum",
+    "ID": "Acer Palmatum",
+    "IT": "Acer Palmatum",
+    "JP": "紅葉座",
+    "KR": "붉은 단풍자리",
+    "PT": "Acer Palmatum",
+    "RU": "Рыжий Клён",
+    "TH": "Acer Palmatum",
+    "TR": "Akçaağaç",
+    "VI": "Cung Phong Đỏ"
+  },
+  "native": {
+    "EN": "The Crux",
+    "CHS": "南十字船队",
+    "CHT": "南十字船隊",
+    "DE": "Crux-Flotte",
+    "ES": "Flota Crux Meridianam",
+    "FR": "Flotte du Crux",
+    "ID": "Crux Fleet",
+    "IT": "La Crux",
+    "JP": "南十字船隊",
+    "KR": "남십자함대",
+    "PT": "Frota Crux",
+    "RU": "Южный Крест",
+    "TH": "กองเรือ Crux",
+    "TR": "Güneyhaçı",
+    "VI": "Đội thuyền Nam Thập Tự"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Mark Whitten"
+    },
+    {
+      "lang": "CHS",
+      "va": "斑马"
+    },
+    {
+      "lang": "JP",
+      "va": "島﨑信長"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Shin-woo"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.1188,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 23.0888,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.8215,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

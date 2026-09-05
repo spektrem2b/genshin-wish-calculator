@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "The Moonring Sighted",
+    "CHS": "眸中的月珥",
+    "CHT": "眸中的月珥",
+    "DE": "Der gesichtete Mondhalo",
+    "ES": "Aro lunar",
+    "FR": "Halo lunaire aperçu",
+    "ID": "The Moonring Sighted",
+    "IT": "Anello lunare",
+    "JP": "瞳に映る月華",
+    "KR": "동공 속 달무리",
+    "PT": "Vista do Brinco da Lua",
+    "RU": "Глаза с лунным ореолом",
+    "TH": "The Moonring Sighted",
+    "TR": "Ay Halkası",
+    "VI": "Ngọc Mặt Trăng Trong Mắt"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by 24%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 20%/48%, and Elemental Burst DMG dealt is increased by 10%/24%.",
+        "CHS": "触发扩散或星扩散反应后的12秒内，攻击力提高24%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高20%/48%，元素爆发造成的伤害提高10%/24%。",
+        "CHT": "觸發擴散或星擴散反應後的12秒內，攻擊力提高24%。此外，隊伍中存在至少1/2名與裝備者元素類型不同的角色時，裝備者重擊造成的傷害提高20%/48%，元素爆發造成的傷害提高10%/24%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um 24 %. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um 20/48 % und den mit Spezialfähigkeiten des Trägers verursachten Schaden um 10/24 %.",
+        "ES": "#Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un 24% durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un 20/48%, y el daño de su Habilidad Definitiva aumenta en un 10/24%.",
+        "FR": "#Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de 24 % pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de 20 %/48 % et ceux infligés par ses déchaînements élémentaires de 10 %/24 %.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat 24% selama 12 detik. Selain itu, saat di dalam party terdapat setidaknya 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat 20%/48% dan DMG Elemental Burst meningkat 10%/24%.",
+        "IT": "#Dopo aver innescato una reazione di Turbinio o di Turbinio astrale, l'ATT aumenta di un 24% per 12 s. Inoltre, se nel gruppo ci sono 1/2 o più personaggi con un tipo elementale diverso rispetto al personaggio che equipaggia l'arma, i DAN da attacco caricato e da Tripudio elementale di quest'ultimo aumentano rispettivamente di un 20%/48% e di un 10%/24%.",
+        "JP": "拡散または星拡散反応を起こした後の12秒間、攻撃力+24%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+20%/48%、元素爆発ダメージがそれぞれ+10%/24%。",
+        "KR": "확산 또는 별 확산 반응 발동 후 12초 동안, 공격력이 24% 증가한다. 또한 파티 내에 장착 캐릭터와 원소 타입이 다른 캐릭터가 최소 1/2명 있을 시, 장착 캐릭터가 강공격으로 주는 피해가 20%/48% 증가하고 원소폭발로 주는 피해가 10%/24% 증가한다",
+        "PT": "Após desencadear uma reação de Redemoinho ou Redemoinho Estelar, o ATQ aumenta em 24% por 12s. Além disso, se houver pelo menos 1/2 personagens na equipe com um Tipo Elemental diferente do personagem que está com essa arma equipada, o Dano causado por Ataques Carregados do personagem que está com essa arma equipada aumenta em 20%/48%, e o Dano causado pelo Supremo aumenta em 10%/24%.",
+        "RU": "Повышает силу атаки на 24% на 12 сек. после активации Рассеивания или Звёздного рассеивания. Кроме того, если в отряде 1/2 или более персонажей с элементом, отличным от элемента экипированного персонажа, то урон заряженной атаки экипированного персонажа увеличивается на 20%/48%, а урон взрыва стихии - на 10%/24%.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา พลังโจมตีจะเพิ่มขึ้น 24% นอกจากนี้ เมื่อในทีมมีตัวละครที่มีประเภทของธาตุต่างจากผู้สวมใส่อย่างน้อย 1/2 ตัว ความเสียหายชาร์จโจมตีของผู้สวมใส่จะเพิ่มขึ้น 20%/48% และความเสียหายของท่าไม้ตายจะเพิ่มขึ้น 10%/24%",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %24 artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı %20/%48, Element Patlaması Hasarı ise %10/%24 artar.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng 24%. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng 20%/48% sát thương Trọng Kích gây ra, tăng 10%/24% sát thương Kỹ Năng Nộ gây ra."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by 30%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 25%/60%, and Elemental Burst DMG dealt is increased by 12.5%/30%.",
+        "CHS": "触发扩散或星扩散反应后的12秒内，攻击力提高30%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高25%/60%，元素爆发造成的伤害提高12.5%/30%。",
+        "CHT": "觸發擴散或星擴散反應後的12秒內，攻擊力提高30%。此外，隊伍中存在至少1/2名與裝備者元素類型不同的角色時，裝備者重擊造成的傷害提高25%/60%，元素爆發造成的傷害提高12.5%/30%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um 30 %. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um 25/60 % und den mit Spezialfähigkeiten des Trägers verursachten Schaden um 12,5/30 %.",
+        "ES": "#Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un 30% durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un 25/60%, y el daño de su Habilidad Definitiva aumenta en un 12.5/30%.",
+        "FR": "#Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de 30 % pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de 25 %/60 % et ceux infligés par ses déchaînements élémentaires de 12,5 %/30 %.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat 30% selama 12 detik. Selain itu, saat di dalam party terdapat setidaknya 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat 25%/60% dan DMG Elemental Burst meningkat 12,5%/30%.",
+        "IT": "#Dopo aver innescato una reazione di Turbinio o di Turbinio astrale, l'ATT aumenta di un 30% per 12 s. Inoltre, se nel gruppo ci sono 1/2 o più personaggi con un tipo elementale diverso rispetto al personaggio che equipaggia l'arma, i DAN da attacco caricato e da Tripudio elementale di quest'ultimo aumentano rispettivamente di un 25%/60% e di un 12,5%/30%.",
+        "JP": "拡散または星拡散反応を起こした後の12秒間、攻撃力+30%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+25%/60%、元素爆発ダメージがそれぞれ+12.5%/30%。",
+        "KR": "확산 또는 별 확산 반응 발동 후 12초 동안, 공격력이 30% 증가한다. 또한 파티 내에 장착 캐릭터와 원소 타입이 다른 캐릭터가 최소 1/2명 있을 시, 장착 캐릭터가 강공격으로 주는 피해가 25%/60% 증가하고 원소폭발로 주는 피해가 12.5%/30% 증가한다",
+        "PT": "Após desencadear uma reação de Redemoinho ou Redemoinho Estelar, o ATQ aumenta em 30% por 12s. Além disso, se houver pelo menos 1/2 personagens na equipe com um Tipo Elemental diferente do personagem que está com essa arma equipada, o Dano causado por Ataques Carregados do personagem que está com essa arma equipada aumenta em 25%/60%, e o Dano causado pelo Supremo aumenta em 12.5%/30%.",
+        "RU": "Повышает силу атаки на 30% на 12 сек. после активации Рассеивания или Звёздного рассеивания. Кроме того, если в отряде 1/2 или более персонажей с элементом, отличным от элемента экипированного персонажа, то урон заряженной атаки экипированного персонажа увеличивается на 25%/60%, а урон взрыва стихии - на 12,5%/30%.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา พลังโจมตีจะเพิ่มขึ้น 30% นอกจากนี้ เมื่อในทีมมีตัวละครที่มีประเภทของธาตุต่างจากผู้สวมใส่อย่างน้อย 1/2 ตัว ความเสียหายชาร์จโจมตีของผู้สวมใส่จะเพิ่มขึ้น 25%/60% ความเสียหายของท่าไม้ตายจะเพิ่มขึ้น 12.5%/30%",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %30 artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı %25/%60, Element Patlaması Hasarı ise %12,5/%30 artar.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng 30%. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng 25%/60% sát thương Trọng Kích gây ra, tăng 12.5%/30% sát thương Kỹ Năng Nộ gây ra."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by 36%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 30%/72%, and Elemental Burst DMG dealt is increased by 15%/36%.",
+        "CHS": "触发扩散或星扩散反应后的12秒内，攻击力提高36%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高30%/72%，元素爆发造成的伤害提高15%/36%。",
+        "CHT": "觸發擴散或星擴散反應後的12秒內，攻擊力提高36%。此外，隊伍中存在至少1/2名與裝備者元素類型不同的角色時，裝備者重擊造成的傷害提高30%/72%，元素爆發造成的傷害提高15%/36%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um 36 %. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um 30/72 % und den mit Spezialfähigkeiten des Trägers verursachten Schaden um 15/36 %.",
+        "ES": "#Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un 36% durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un 30/72%, y el daño de su Habilidad Definitiva aumenta en un 15/36%.",
+        "FR": "#Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de 36 % pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de 30 %/72 % et ceux infligés par ses déchaînements élémentaires de 15 %/36 %.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat 36% selama 12 detik. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat 30%/72% dan DMG Elemental Burst meningkat 15%/36%.",
+        "IT": "#Dopo aver innescato una reazione di Turbinio o di Turbinio astrale, l'ATT aumenta di un 36% per 12 s. Inoltre, se nel gruppo ci sono 1/2 o più personaggi con un tipo elementale diverso rispetto al personaggio che equipaggia l'arma, i DAN da attacco caricato e da Tripudio elementale di quest'ultimo aumentano rispettivamente di un 30%/72% e di un 15%/36%.",
+        "JP": "拡散または星拡散反応を起こした後の12秒間、攻撃力+36%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+30%/72%、元素爆発ダメージがそれぞれ+15%/36%。",
+        "KR": "확산 또는 별 확산 반응 발동 후 12초 동안, 공격력이 36% 증가한다. 또한 파티 내에 장착 캐릭터와 원소 타입이 다른 캐릭터가 최소 1/2명 있을 시, 장착 캐릭터가 강공격으로 주는 피해가 30%/72% 증가하고 원소폭발로 주는 피해가 15%/36% 증가한다",
+        "PT": "Após desencadear uma reação de Redemoinho ou Redemoinho Estelar, o ATQ aumenta em 36% por 12s. Além disso, se houver pelo menos 1/2 personagens na equipe com um Tipo Elemental diferente do personagem que está com essa arma equipada, o Dano causado por Ataques Carregados do personagem que está com essa arma equipada aumenta em 30%/72%, e o Dano causado pelo Supremo aumenta em 15%/36%.",
+        "RU": "Повышает силу атаки на 36% на 12 сек. после активации Рассеивания или Звёздного рассеивания. Кроме того, если в отряде 1/2 или более персонажей с элементом, отличным от элемента экипированного персонажа, то урон заряженной атаки экипированного персонажа увеличивается на 30%/72%, а урон взрыва стихии - на 15%/36%.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา พลังโจมตีจะเพิ่มขึ้น 36% นอกจากนี้ เมื่อในทีมมีตัวละครที่มีประเภทของธาตุต่างจากผู้สวมใส่อย่างน้อย 1/2 ตัว ความเสียหายชาร์จโจมตีของผู้สวมใส่จะเพิ่มขึ้น 30%/72% ความเสียหายของท่าไม้ตายจะเพิ่มขึ้น 15%/36%",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %36 artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı %30/%72, Element Patlaması Hasarı ise %15/%36 artar.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng 36%. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng 30%/72% sát thương Trọng Kích gây ra, tăng 15%/36% sát thương Kỹ Năng Nộ gây ra."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by 42%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 35%/84%, and Elemental Burst DMG dealt is increased by 17.5%/42%.",
+        "CHS": "触发扩散或星扩散反应后的12秒内，攻击力提高42%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高35%/84%，元素爆发造成的伤害提高17.5%/42%。",
+        "CHT": "觸發擴散或星擴散反應後的12秒內，攻擊力提高42%。此外，隊伍中存在至少1/2名與裝備者元素類型不同的角色時，裝備者重擊造成的傷害提高35%/84%，元素爆發造成的傷害提高17.5%/42%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um 42 %. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um 35/84 % und den mit Spezialfähigkeiten des Trägers verursachten Schaden um 17,5/42 %.",
+        "ES": "#Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un 42% durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un 35/84%, y el daño de su Habilidad Definitiva aumenta en un 17.5/42%.",
+        "FR": "#Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de 42 % pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de 35 %/84 % et ceux infligés par ses déchaînements élémentaires de 17,5 %/42 %.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat 42% selama 12 detik. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat 35%/84% dan DMG Elemental Burst meningkat 17,5%/42%.",
+        "IT": "#Dopo aver innescato una reazione di Turbinio o di Turbinio astrale, l'ATT aumenta di un 42% per 12 s. Inoltre, se nel gruppo ci sono 1/2 o più personaggi con un tipo elementale diverso rispetto al personaggio che equipaggia l'arma, i DAN da attacco caricato e da Tripudio elementale di quest'ultimo aumentano rispettivamente di un 35%/84% e di un 17,5%/42%.",
+        "JP": "拡散または星拡散反応を起こした後の12秒間、攻撃力+42%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+35%/84%、元素爆発ダメージがそれぞれ+17.5%/42%。",
+        "KR": "확산 또는 별 확산 반응 발동 후 12초 동안, 공격력이 42% 증가한다. 또한 파티 내에 장착 캐릭터와 원소 타입이 다른 캐릭터가 최소 1/2명 있을 시, 장착 캐릭터가 강공격으로 주는 피해가 35%/84% 증가하고 원소폭발로 주는 피해가 17.5%/42% 증가한다",
+        "PT": "Após desencadear uma reação de Redemoinho ou Redemoinho Estelar, o ATQ aumenta em 42% por 12s. Além disso, se houver pelo menos 1/2 personagens na equipe com um Tipo Elemental diferente do personagem que está com essa arma equipada, o Dano causado por Ataques Carregados do personagem que está com essa arma equipada aumenta em 35%/84%, e o Dano causado pelo Supremo aumenta em 17.5%/42%.",
+        "RU": "Повышает силу атаки на 42% на 12 сек. после активации Рассеивания или Звёздного рассеивания. Кроме того, если в отряде 1/2 или более персонажей с элементом, отличным от элемента экипированного персонажа, то урон заряженной атаки экипированного персонажа увеличивается на 35%/84%, а урон взрыва стихии - на 17,5%/42%.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา พลังโจมตีจะเพิ่มขึ้น 42% นอกจากนี้ เมื่อในทีมมีตัวละครที่มีประเภทของธาตุต่างจากผู้สวมใส่อย่างน้อย 1/2 ตัว ความเสียหายชาร์จโจมตีของผู้สวมใส่จะเพิ่มขึ้น 35%/84% ความเสียหายของท่าไม้ตายจะเพิ่มขึ้น 17.5%/42%",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %42 artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı %35/%84, Element Patlaması Hasarı ise %17,5/%42 artar.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng 42%. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng 35%/84% sát thương Trọng Kích gây ra, tăng 17.5%/42% sát thương Kỹ Năng Nộ gây ra."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by 48%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 40%/96%, and Elemental Burst DMG dealt is increased by 20%/48%.",
+        "CHS": "触发扩散或星扩散反应后的12秒内，攻击力提高48%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高40%/96%，元素爆发造成的伤害提高20%/48%。",
+        "CHT": "觸發擴散或星擴散反應後的12秒內，攻擊力提高48%。此外，隊伍中存在至少1/2名與裝備者元素類型不同的角色時，裝備者重擊造成的傷害提高40%/96%，元素爆發造成的傷害提高20%/48%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktion Verwirbelung oder Stellar-Verwirbelung 12 s lang um 48 %. Erhöht, wenn sich mindestens 1/2 Figur(en) in der Truppe befinden, deren Elementartypen sich von dem des Trägers unterscheiden, den mit heftigen Schlägen des Trägers verursachten Schaden um 40/96 % und den mit Spezialfähigkeiten des Trägers verursachten Schaden um 20/48 %.",
+        "ES": "#Tras causar una reacción de Torbellino o Torbellino Estelar, el ATQ aumenta en un 48% durante 12 s. Además, si en el equipo hay al menos 1/2 personajes de tipo elemental distinto al del portador de esta arma, el daño que dicho portador inflige con su Ataque Cargado aumenta en un 40/96%, y el daño de su Habilidad Definitiva aumenta en un 20/48%.",
+        "FR": "#Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, l'ATQ augmente de 48 % pendant 12 s. De plus, lorsque l'équipe contient 1/2+ personnages d'un type élémentaire différent de celui du personnage équipé de l'arme, les DGT infligés par les attaques chargées de ce dernier augmentent de 40 %/96 % et ceux infligés par ses déchaînements élémentaires de 20 %/48 %.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, ATK meningkat 48% selama 12 detik. Selain itu, saat di dalam party terdapat minimum 1/2 Karakter dengan jenis elemen yang berbeda dari Karakter yang mengenakan, maka DMG Charged Attack Karakter yang mengenakan meningkat 40%/96% dan DMG Elemental Burst meningkat 20%/48%.",
+        "IT": "#Dopo aver innescato una reazione di Turbinio o di Turbinio astrale, l'ATT aumenta di un 48% per 12 s. Inoltre, se nel gruppo ci sono 1/2 o più personaggi con un tipo elementale diverso rispetto al personaggio che equipaggia l'arma, i DAN da attacco caricato e da Tripudio elementale di quest'ultimo aumentano rispettivamente di un 40%/96% e di un 20%/48%.",
+        "JP": "拡散または星拡散反応を起こした後の12秒間、攻撃力+48%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+40%/96%、元素爆発ダメージがそれぞれ+20%/48%。",
+        "KR": "확산 또는 별 확산 반응 발동 후 12초 동안, 공격력이 48% 증가한다. 또한 파티 내에 장착 캐릭터와 원소 타입이 다른 캐릭터가 최소 1/2명 있을 시, 장착 캐릭터가 강공격으로 주는 피해가 40%/96% 증가하고 원소폭발로 주는 피해가 20%/48% 증가한다",
+        "PT": "Após desencadear uma reação de Redemoinho ou Redemoinho Estelar, o ATQ aumenta em 48% por 12s. Além disso, se houver pelo menos 1/2 personagens na equipe com um Tipo Elemental diferente do personagem que está com essa arma equipada, o Dano causado por Ataques Carregados do personagem que está com essa arma equipada aumenta em 40%/96%, e o Dano causado pelo Supremo aumenta em 20%/48%.",
+        "RU": "Повышает силу атаки на 48% на 12 сек. после активации Рассеивания или Звёздного рассеивания. Кроме того, если в отряде 1/2 или более персонажей с элементом, отличным от элемента экипированного персонажа, то урон заряженной атаки экипированного персонажа увеличивается на 40%/96%, а урон взрыва стихии - на 20%/48%.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา พลังโจมตีจะเพิ่มขึ้น 48% นอกจากนี้ เมื่อในทีมมีตัวละครที่มีประเภทของธาตุต่างจากผู้สวมใส่อย่างน้อย 1/2 ตัว ความเสียหายชาร์จโจมตีของผู้สวมใส่จะเพิ่มขึ้น 40%/96% ความเสียหายของท่าไม้ตายจะเพิ่มขึ้น 20%/48%",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %48 artar. Ayrıca grupta bunu kuşanan karakterden farklı bir Element Türünde 1/2 veya daha fazla karakter varsa kuşanan karakterin Yüklü Saldırı Hasarı %40/%96, Element Patlaması Hasarı ise %20/%48 artar.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Tấn Công tăng 48%. Ngoài ra, khi trong đội tồn tại ít nhất 1/2 nhân vật không cùng loại nguyên tố với người trang bị, thì sẽ khiến người trang bị tăng 40%/96% sát thương Trọng Kích gây ra, tăng 20%/48% sát thương Kỹ Năng Nộ gây ra."
+      }
+    }
+  ]
+}

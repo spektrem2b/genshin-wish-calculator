@@ -1,0 +1,137 @@
+{
+  "id": "10000104",
+  "name": {
+    "EN": "Chasca",
+    "CHS": "恰斯卡",
+    "CHT": "恰斯卡",
+    "DE": "Chasca",
+    "ES": "Chasca",
+    "FR": "Chasca",
+    "ID": "Chasca",
+    "IT": "Chasca",
+    "JP": "チャスカ",
+    "KR": "차스카",
+    "PT": "Chasca",
+    "RU": "Часка",
+    "TH": "Chasca",
+    "TR": "Chasca",
+    "VI": "Chasca"
+  },
+  "nameEn": "Chasca",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 12,
+    "day": 10
+  },
+  "release": "2024-11-18T22:00:00",
+  "icon": "generated/character-profiles/10000104/avatar.webp",
+  "fullWish": "generated/character-profiles/10000104/full_wish.webp",
+  "fullWishObjectPosition": "50.3% 19.5%",
+  "title": {
+    "EN": "Skyborne Arbiter",
+    "CHS": "巡宇翦定",
+    "CHT": "巡宇翦定",
+    "DE": "Himmelsvermittlerin",
+    "ES": "La Pacificadora del Firmamento",
+    "FR": "Arbitre du ciel",
+    "ID": "Skyborne Arbiter",
+    "IT": "Mediatrice celeste",
+    "JP": "巡空の裁翼",
+    "KR": "하늘을 누비는 중재자",
+    "PT": "Exploradora Celestial",
+    "RU": "Небесный примиритель",
+    "TH": "ผู้คืนสันติเหนือนภา",
+    "TR": "Göklerin Hakemi",
+    "VI": "Phán Quyết Trên Cao"
+  },
+  "description": {
+    "EN": "The Peacemaker of the Tlalocan, the ender of all disputes.",
+    "CHS": "特拉洛坎的「调停人」，万千争端的终结者。",
+    "CHT": "特拉洛坎的「調停人」，萬千爭端的終結者。",
+    "DE": "Die „Friedensstifterin“ Tlalocans, Schlichterin aller Zwistigkeiten.",
+    "ES": "La mediadora de Tlalocán, pacificadora de mil conflictos.",
+    "FR": "La médiatrice des Tlalocans, celle qui met fin à toutes les querelles.",
+    "ID": "\"Penengah\" Tlalocan yang sudah berhasil mengakhiri perselisihan yang tak terhitung jumlahnya.",
+    "IT": "La Pacificatrice di Tlalocan, conciliatrice di ogni controversia.",
+    "JP": "トラロカンの「調停者」。幾千万の争いを終結させる者。",
+    "KR": "틀라로칸의 「중재자」이자 수많은 분쟁의 종결자",
+    "PT": "A Pacificadora de Tlalocan, a finalizadora de todas as disputas.",
+    "RU": "Миротворец Тлалокана, разрешающий все споры.",
+    "TH": "\"ผู้ไกล่เกลี่ย\" แห่ง Tlalocan ผู้ยุติความขัดแย้งทั้งปวง",
+    "TR": "Tüm anlaşmazlıkları sonlandıran, Tlalocan'ın Ara Bulucusu.",
+    "VI": "\"Người hòa giải\" của Tlalocan, người kết thúc ngàn vạn tranh chấp."
+  },
+  "constellationName": {
+    "EN": "Vultur Gryphus",
+    "CHS": "神鹫座",
+    "CHT": "神鷲座",
+    "DE": "Vultur Gryphus",
+    "ES": "Vultur Gryphus",
+    "FR": "Vultur Gryphus",
+    "ID": "Vultur Gryphus",
+    "IT": "Vultur Gryphus",
+    "JP": "ヴァルチャー・グリフィス座",
+    "KR": "콘도르자리",
+    "PT": "Vultur Gryphus",
+    "RU": "Кондор",
+    "TH": "Vultur Gryphus",
+    "TR": "Dağ Kondoru",
+    "VI": "Cung Thần Tựu"
+  },
+  "native": {
+    "EN": "Tlalocan",
+    "CHS": "特拉洛坎",
+    "CHT": "特拉洛坎",
+    "DE": "Tlalocan",
+    "ES": "Tlalocán",
+    "FR": "Tlalocans",
+    "ID": "Tlalocan",
+    "IT": "Tlalocan",
+    "JP": "トラロカン",
+    "KR": "틀라로칸",
+    "PT": "Tlalocan",
+    "RU": "Тлалокан",
+    "TH": "Tlalocan",
+    "TR": "Tlalocan",
+    "VI": "Tlalocan"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Lauren Amante"
+    },
+    {
+      "lang": "CHS",
+      "va": "张若瑜"
+    },
+    {
+      "lang": "JP",
+      "va": "甲斐田裕子"
+    },
+    {
+      "lang": "KR",
+      "va": "Soo-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 762.656,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.999,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 47.864,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

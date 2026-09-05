@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Gilding",
+    "CHS": "炊金",
+    "CHT": "炊金",
+    "DE": "Goldüberzug",
+    "ES": "Dorado",
+    "FR": "Blindage d'or",
+    "ID": "Golden Plating",
+    "IT": "Doratura",
+    "JP": "炊金",
+    "KR": "도금",
+    "PT": "Chapeamento de Ouro",
+    "RU": "Позолота",
+    "TH": "Golden Plating",
+    "TR": "Yaldızlama",
+    "VI": "Xuy Kim"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Using an Elemental Burst regenerates 4 Energy every 2s for 6s. All party members will regenerate 4% HP every 2s for this duration.",
+        "CHS": "施放元素爆发后6秒内，每2秒恢复4点元素能量，队伍中的所有角色每2秒恢复4%生命值。",
+        "CHT": "施放元素爆發後6秒內，每2秒恢復4點元素能量，隊伍中的所有角色每2秒恢復4%生命值。",
+        "DE": "Stellt nach Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 4 Punkte Elementarenergie und allen Truppenmitgliedern alle 2 s 4 % LP wieder her.",
+        "ES": "Tras lanzar una Habilidad Definitiva, regenera 4 pts. de Energía Elemental cada 2 s durante 6 s. Además, todos los miembros del equipo recuperarán un 4% de Vida cada 2 s.",
+        "FR": "Restaure 4 pts d'énergie élémentaire toutes les 2 s pendant 6 s après l'utilisation d'un déchaînement élémentaire. Tous les personnages de l'équipe récupèrent 4 % de leurs PV toutes les 2 s pendant cette durée.",
+        "ID": "Setelah melancarkan Elemental Burst, memulihkan 4 Energy setiap 2 detik selama 6 detik dan memulihkan 4% HP kepada seluruh anggota party setiap 2 detik dalam durasi tersebut.",
+        "IT": "#L'uso di un Tripudio elementale rigenera 4 di energia ogni 2 s per 6 s. I PS di tutti i membri del gruppo si rigenerano di un 4% ogni 2 s.",
+        "JP": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを4回復し、チーム全員のHPを2秒毎に4%回復する。",
+        "KR": "원소폭발 발동 후 6초 동안 2초마다 원소 에너지를 4pt 회복한다. 파티 내 모든 캐릭터의 HP를 2초마다 4% 회복한다",
+        "PT": "Ao usar o Supremo, regenera 4 de Energia a cada 2s por 6s. Todos os membros da Equipe regenerarão 4% de Vida a cada 2s.",
+        "RU": "В течение 6 сек. после использования взрыва стихий восстанавливается 4 ед. энергии каждые 2 сек., а все члены отряда восстанавливают по 4% HP каждые 2 сек.",
+        "TH": "ภายใน 6 วินาที หลังใช้ท่าไม้ตาย จะทำการฟื้นฟูพลังงานธาตุ 4 หน่วย ในทุก 2 วินาที และตัวละครทั้งหมดในทีมจะฟื้นฟูพลังชีวิต 4% ในทุก 2 วินาที",
+        "TR": "Bir Element Patlaması kullanıldığında 6 saniye boyunca 2 saniyede bir 4 Enerji yenilenir. Bu süre boyunca tüm grup üyeleri 2 saniyede bir %4 Can yeniler.",
+        "VI": "6s sau khi thi triển kỹ năng nộ, mỗi 2s hồi 4 điểm năng lượng nguyên tố; Tất cả nhân vật trong đội mỗi 2s hồi 4% HP."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Using an Elemental Burst regenerates 4.5 Energy every 2s for 6s. All party members will regenerate 4.5% HP every 2s for this duration.",
+        "CHS": "施放元素爆发后6秒内，每2秒恢复4.5点元素能量，队伍中的所有角色每2秒恢复4.5%生命值。",
+        "CHT": "施放元素爆發後6秒內，每2秒恢復4.5點元素能量，隊伍中的所有角色每2秒恢復4.5%生命值。",
+        "DE": "Stellt nach Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 4,5 Punkte Elementarenergie und allen Truppenmitgliedern alle 2 s 4,5 % LP wieder her.",
+        "ES": "Tras lanzar una Habilidad Definitiva, regenera 4.5 pts. de Energía Elemental cada 2 s durante 6 s. Además, todos los miembros del equipo recuperarán un 4.5% de Vida cada 2 s.",
+        "FR": "Restaure 4,5 pts d'énergie élémentaire toutes les 2 s pendant 6 s après l'utilisation d'un déchaînement élémentaire. Tous les personnages de l'équipe récupèrent 4,5 % de leurs PV toutes les 2 s pendant cette durée.",
+        "ID": "Setelah melancarkan Elemental Burst, memulihkan 4,5 Energy setiap 2 detik selama 6 detik dan memulihkan 4,5% HP kepada seluruh anggota party setiap 2 detik dalam durasi tersebut.",
+        "IT": "#L'uso di un Tripudio elementale rigenera 4,5 di energia ogni 2 s per 6 s. I PS di tutti i membri del gruppo si rigenerano di un 4,5% ogni 2 s.",
+        "JP": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを4.5回復し、チーム全員のHPを2秒毎に4.5%回復する。",
+        "KR": "원소폭발 발동 후 6초 동안 2초마다 원소 에너지를 4.5pt 회복한다. 파티 내 모든 캐릭터의 HP를 2초마다 4.5% 회복한다",
+        "PT": "Ao usar o Supremo, regenera 4.5 de Energia a cada 2s por 6s. Todos os membros da Equipe regenerarão 4.5% de Vida a cada 2s.",
+        "RU": "В течение 6 сек. после использования взрыва стихий восстанавливается 4,5 ед. энергии каждые 2 сек., а все члены отряда восстанавливают по 4,5% HP каждые 2 сек.",
+        "TH": "ภายใน 6 วินาที หลังใช้ท่าไม้ตาย จะทำการฟื้นฟูพลังงานธาตุ 4.5 หน่วย ในทุก 2 วินาที และตัวละครทั้งหมดในทีมจะฟื้นฟูพลังชีวิต 4.5% ในทุก 2 วินาที",
+        "TR": "Bir Element Patlaması kullanıldığında 6 saniye boyunca 2 saniyede bir 4,5 Enerji yenilenir. Bu süre boyunca tüm grup üyeleri 2 saniyede bir %4,5 Can yeniler.",
+        "VI": "6s sau khi thi triển kỹ năng nộ, mỗi 2s hồi 4.5 điểm năng lượng nguyên tố; Tất cả nhân vật trong đội mỗi 2s hồi 4.5% HP."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Using an Elemental Burst regenerates 5 Energy every 2s for 6s. All party members will regenerate 5% HP every 2s for this duration.",
+        "CHS": "施放元素爆发后6秒内，每2秒恢复5点元素能量，队伍中的所有角色每2秒恢复5%生命值。",
+        "CHT": "施放元素爆發後6秒內，每2秒恢復5點元素能量，隊伍中的所有角色每2秒恢復5%生命值。",
+        "DE": "Stellt nach Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 5 Punkte Elementarenergie und allen Truppenmitgliedern alle 2 s 5 % LP wieder her.",
+        "ES": "Tras lanzar una Habilidad Definitiva, regenera 5 pts. de Energía Elemental cada 2 s durante 6 s. Además, todos los miembros del equipo recuperarán un 5% de Vida cada 2 s.",
+        "FR": "Restaure 5 pts d'énergie élémentaire toutes les 2 s pendant 6 s après l'utilisation d'un déchaînement élémentaire. Tous les personnages de l'équipe récupèrent 5 % de leurs PV toutes les 2 s pendant cette durée.",
+        "ID": "Setelah melancarkan Elemental Burst, memulihkan 5 Energy setiap 2 detik selama 6 detik dan memulihkan 5% HP kepada seluruh anggota party setiap 2 detik dalam durasi tersebut.",
+        "IT": "#L'uso di un Tripudio elementale rigenera 5 di energia ogni 2 s per 6 s. I PS di tutti i membri del gruppo si rigenerano di un 5% ogni 2 s.",
+        "JP": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを5回復し、チーム全員のHPを2秒毎に5%回復する。",
+        "KR": "원소폭발 발동 후 6초 동안 2초마다 원소 에너지를 5pt 회복한다. 파티 내 모든 캐릭터의 HP를 2초마다 5% 회복한다",
+        "PT": "Ao usar o Supremo, regenera 5 de Energia a cada 2s por 6s. Todos os membros da Equipe regenerarão 5% de Vida a cada 2s.",
+        "RU": "В течение 6 сек. после использования взрыва стихий восстанавливается 5 ед. энергии каждые 2 сек., а все члены отряда восстанавливают по 5% HP каждые 2 сек.",
+        "TH": "ภายใน 6 วินาที หลังใช้ท่าไม้ตาย จะทำการฟื้นฟูพลังงานธาตุ 5 หน่วย ในทุก 2 วินาที และตัวละครทั้งหมดในทีมจะฟื้นฟูพลังชีวิต 5% ในทุก 2 วินาที",
+        "TR": "Bir Element Patlaması kullanıldığında 6 saniye boyunca 2 saniyede bir 5 Enerji yenilenir. Bu süre boyunca tüm grup üyeleri 2 saniyede bir %5 Can yeniler.",
+        "VI": "6s sau khi thi triển kỹ năng nộ, mỗi 2s hồi 5 điểm năng lượng nguyên tố; Tất cả nhân vật trong đội mỗi 2s hồi 5% HP."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Using an Elemental Burst regenerates 5.5 Energy every 2s for 6s. All party members will regenerate 5.5% HP every 2s for this duration.",
+        "CHS": "施放元素爆发后6秒内，每2秒恢复5.5点元素能量，队伍中的所有角色每2秒恢复5.5%生命值。",
+        "CHT": "施放元素爆發後6秒內，每2秒恢復5.5點元素能量，隊伍中的所有角色每2秒恢復5.5%生命值。",
+        "DE": "Stellt nach Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 5,5 Punkte Elementarenergie und allen Truppenmitgliedern alle 2 s 5,5 % LP wieder her.",
+        "ES": "Tras lanzar una Habilidad Definitiva, regenera 5.5 pts. de Energía Elemental cada 2 s durante 6 s. Además, todos los miembros del equipo recuperarán un 5.5% de Vida cada 2 s.",
+        "FR": "Restaure 5,5 pts d'énergie élémentaire toutes les 2 s pendant 6 s après l'utilisation d'un déchaînement élémentaire. Tous les personnages de l'équipe récupèrent 5,5 % de leurs PV toutes les 2 s pendant cette durée.",
+        "ID": "Setelah melancarkan Elemental Burst, memulihkan 5,5 Energy setiap 2 detik selama 6 detik dan memulihkan 5,5% HP kepada seluruh anggota party setiap 2 detik dalam durasi tersebut.",
+        "IT": "#L'uso di un Tripudio elementale rigenera 5,5 di energia ogni 2 s per 6 s. I PS di tutti i membri del gruppo si rigenerano di un 5,5% ogni 2 s.",
+        "JP": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを5.5回復し、チーム全員のHPを2秒毎に5.5%回復する。",
+        "KR": "원소폭발 발동 후 6초 동안 2초마다 원소 에너지를 5.5pt 회복한다. 파티 내 모든 캐릭터의 HP를 2초마다 5.5% 회복한다",
+        "PT": "Ao usar o Supremo, regenera 5.5 de Energia a cada 2s por 6s. Todos os membros da Equipe regenerarão 5.5% de Vida a cada 2s.",
+        "RU": "В течение 6 сек. после использования взрыва стихий восстанавливается 5,5 ед. энергии каждые 2 сек., а все члены отряда восстанавливают по 5,5% HP каждые 2 сек.",
+        "TH": "ภายใน 6 วินาที หลังใช้ท่าไม้ตาย จะทำการฟื้นฟูพลังงานธาตุ 5.5 หน่วย ในทุก 2 วินาที และตัวละครทั้งหมดในทีมจะฟื้นฟูพลังชีวิต 5.5% ในทุก 2 วินาที",
+        "TR": "Bir Element Patlaması kullanıldığında 6 saniye boyunca 2 saniyede bir 5,5 Enerji yenilenir. Bu süre boyunca tüm grup üyeleri 2 saniyede bir %5,5 Can yeniler.",
+        "VI": "6s sau khi thi triển kỹ năng nộ, mỗi 2s hồi 5.5 điểm năng lượng nguyên tố; Tất cả nhân vật trong đội mỗi 2s hồi 5.5% HP."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Using an Elemental Burst regenerates 6 Energy every 2s for 6s. All party members will regenerate 6% HP every 2s for this duration.",
+        "CHS": "施放元素爆发后6秒内，每2秒恢复6点元素能量，队伍中的所有角色每2秒恢复6%生命值。",
+        "CHT": "施放元素爆發後6秒內，每2秒恢復6點元素能量，隊伍中的所有角色每2秒恢復6%生命值。",
+        "DE": "Stellt nach Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 6 Punkte Elementarenergie und allen Truppenmitgliedern alle 2 s 6 % LP wieder her.",
+        "ES": "Tras lanzar una Habilidad Definitiva, regenera 6 pts. de Energía Elemental cada 2 s durante 6 s. Además, todos los miembros del equipo recuperarán un 6% de Vida cada 2 s.",
+        "FR": "Restaure 6 pts d'énergie élémentaire toutes les 2 s pendant 6 s après l'utilisation d'un déchaînement élémentaire. Tous les personnages de l'équipe récupèrent 6 % de leurs PV toutes les 2 s pendant cette durée.",
+        "ID": "Setelah melancarkan Elemental Burst, memulihkan 6 Energy setiap 2 detik selama 6 detik dan memulihkan 6% HP kepada seluruh anggota party setiap 2 detik dalam durasi tersebut.",
+        "IT": "#L'uso di un Tripudio elementale rigenera 6 di energia ogni 2 s per 6 s. I PS di tutti i membri del gruppo si rigenerano di un 6% ogni 2 s.",
+        "JP": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを6回復し、チーム全員のHPを2秒毎に6%回復する。",
+        "KR": "원소폭발 발동 후 6초 동안 2초마다 원소 에너지를 6pt 회복한다. 파티 내 모든 캐릭터의 HP를 2초마다 6% 회복한다",
+        "PT": "Ao usar o Supremo, regenera 6 de Energia a cada 2s por 6s. Todos os membros da Equipe regenerarão 6% de Vida a cada 2s.",
+        "RU": "В течение 6 сек. после использования взрыва стихий восстанавливается 6 ед. энергии каждые 2 сек., а все члены отряда восстанавливают по 6% HP каждые 2 сек.",
+        "TH": "ภายใน 6 วินาที หลังใช้ท่าไม้ตาย จะทำการฟื้นฟูพลังงานธาตุ 6 หน่วย ในทุก 2 วินาที และตัวละครทั้งหมดในทีมจะฟื้นฟูพลังชีวิต 6% ในทุก 2 วินาที",
+        "TR": "Bir Element Patlaması kullanıldığında 6 saniye boyunca 2 saniyede bir 6 Enerji yenilenir. Bu süre boyunca tüm grup üyeleri 2 saniyede bir %6 Can yeniler.",
+        "VI": "6s sau khi thi triển kỹ năng nộ, mỗi 2s hồi 6 điểm năng lượng nguyên tố; Tất cả nhân vật trong đội mỗi 2s hồi 6% HP."
+      }
+    }
+  ]
+}

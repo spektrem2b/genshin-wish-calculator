@@ -1,0 +1,52 @@
+{
+  "id": 12404,
+  "name": {
+    "EN": "Royal Greatsword",
+    "CHS": "宗室大剑",
+    "CHT": "宗室大劍",
+    "DE": "Königliches Großschwert",
+    "ES": "Gran Espada Real",
+    "FR": "Espadon royal",
+    "ID": "Royal Greatsword",
+    "IT": "Spadone reale",
+    "JP": "旧貴族大剣",
+    "KR": "왕실의 대검",
+    "PT": "Espadão Real",
+    "RU": "Королевский двуручный меч",
+    "TH": "Royal Greatsword",
+    "TR": "Kraliyet Büyük Kılıcı",
+    "VI": "Đại Kiếm Tông Thất"
+  },
+  "nameEn": "Royal Greatsword",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "An old greatsword that belonged to the erstwhile rulers of Mondstadt. It is made from the finest-quality materials and has stood the test of time. A weapon for use by the nobility only.",
+    "CHS": "曾支配蒙德的旧日贵族的大剑。用料极佳，历久犹弥新。是贵族的战斗兵器。",
+    "CHT": "曾支配蒙德的舊日貴族的大劍。用料極佳，歷久猶彌新。是貴族的戰鬥兵器。",
+    "DE": "Dieses Großschwert wurde einst vom alten Adel Mondstadts geführt. Sein Material ist erlesen und hat all die Zeit gut überstanden. Diese Waffe ist für Aristokraten vorgesehen.",
+    "ES": "Una vieja gran espada que perteneció a la antigua aristocracia gobernante de Mondstadt. Está hecha con materiales de primera calidad que han resistido el paso del tiempo. Un arma de batalla exclusiva para la realeza.",
+    "FR": "Un espadon assez ancien qui appartenait jadis aux dirigeants de Mondstadt. Il a été fabriqué à partir d'un matériau de qualité qui a su résister à l'épreuve du temps. Cette arme a été conçue pour la noblesse.",
+    "ID": "Pedang panjang tua milik bangsawan Mondstadt di masa lampau. Terbuat dari bahan dengan kualitas terbaik, dan telah melalui ujian waktu. Pedang yang digunakan oleh keluarga kerajaan.",
+    "IT": "Un vecchio spadone appartenuto agli antichi governanti di Mondstadt. Forgiato con materiali di qualità superiore, ha resistito al passare del tempo. Un'arma destinata ai nobili.",
+    "JP": "かつてモンドを支配した旧貴族の大剣。高級素材が使われているため、長い年月が経っても新しいまま。貴族が戦闘時に使う武器である。",
+    "KR": "몬드를 지배했던 옛 귀족의 대검. 재료가 아주 훌륭하고, 오랜 세월이 지나도 여전히 새롭다. 귀족의 전투 병기이다",
+    "PT": "Uma velha espada grande que pertencia aos antigos governantes de Mondstadt. É fabricado com materiais da melhor qualidade e resistiu a prova do tempo. Uma arma para ser usada apenas pela realeza.",
+    "RU": "Старинный меч, который носили с собой древние правители Мондштадта. Выкован из материалов высочайшего качества, которые позволили ему выстоять испытание временем. Боевой меч знати, и никого больше.",
+    "TH": "ดาบใหญ่สภาพเก่าแก่ของชนชั้นสูงผู้ที่ครั้งหนึ่งเคยปกครอง Mondstadt มาก่อน มันทำจากวัสดุระดับสูงที่ทนทานต่อความโหดร้ายของกาลเวลา เป็นอาวุธสำหรับต่อสู้ของชนชั้นสูง",
+    "TR": "Bir zamanlar Mondstadt'ın kadim yöneticilerine ait olan eski bir kılıç. En kaliteli malzemelerden üretilmiş ve geçen yıllar kalitesinden hiçbir şey götürmemiş. Soylulara özel bir silah.",
+    "VI": "Kiếm quý tộc từng chi phối Mondstadt. Nguyên liệu cực phẩm, là binh khí chiến đấu của giới quý tộc."
+  },
+  "icon": "generated/weapon-profiles/12404/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 15435,
+  "name": {
+    "EN": "Jade Vista",
+    "CHS": "悬黎千钧",
+    "CHT": "懸黎千鈞",
+    "DE": "Urzeitlicher Jadebogen",
+    "ES": "Visión de Jade",
+    "FR": "Vue de jade",
+    "ID": "Jade Vista",
+    "IT": "Visione di giada",
+    "JP": "千鈞懸黎",
+    "KR": "옥빛 장궁",
+    "PT": "Vista da Jade Primordial",
+    "RU": "Поникшая артемизия",
+    "TH": "Jade Vista",
+    "TR": "Yeşim Ufuklar",
+    "VI": "Cung Huyền Lê"
+  },
+  "nameEn": "Jade Vista",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A longbow of immense strength. It shines with the radiance of dreams even in the darkest of nights.",
+    "CHS": "力夺千钧的长弓，即便是在至深至暗的夜中，也放射着梦色的光华。",
+    "CHT": "力奪千鈞的長弓，即便是在至深至暗的夜中，也放射著夢色的光華。",
+    "DE": "Ein kraftvoller Langbogen, der selbst in der tiefsten, dunkelsten Nacht einen traumhaften Glanz ausstrahlt.",
+    "ES": "Un arco largo y fuerte capaz de emitir un brillo onírico incluso en la más profunda de las oscuridades.",
+    "FR": "Un arc long d'une puissance immense. Il brille de l'éclat des rêves, même au cœur des nuits les plus sombres.",
+    "ID": "Busur besar yang sangat kuat, bahkan di malam yang paling gelap dan kelam sekalipun akan tetap memancarkan cahaya berwarna mimpi.",
+    "IT": "Un arco lungo di immensa potenza. Risplende della luce dei sogni anche nelle notti più buie.",
+    "JP": "千鈞の力を秘めた長弓。深く暗い夜の中でもなお、夢色の輝きを放つ。",
+    "KR": "장력이 매우 강한 장궁. 가장 깊고 어두운 밤에도 몽환적인 빛을 낸다",
+    "PT": "Um arco longo de imensa força. Ele brilha com o esplendor dos sonhos mesmo nas noites mais escuras.",
+    "RU": "Длинный мощный лук, излучающий переливчатое сияние грёз даже в самой глубокой и непроглядной ночной тьме.",
+    "TH": "ธนูยาวอันทรงพลังมหาศาล แม้ในค่ำคืนที่มืดมิดที่สุด ก็ยังคงเปล่งประกายแสงสีแห่งความฝันออกมา",
+    "TR": "Muazzam kuvvete sahip bir uzun yay. En karanlık gecelerde bile rüyaların ışığıyla parlar.",
+    "VI": "Cây cung dài mang sức mạnh ngàn cân, dù trong đêm đen sâu thẳm nhất, vẫn tỏa ra ánh hào quang huyền ảo."
+  },
+  "icon": "generated/weapon-profiles/15435/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

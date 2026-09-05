@@ -1,0 +1,137 @@
+{
+  "id": "10000132",
+  "name": {
+    "EN": "Prune",
+    "CHS": "布伦妮",
+    "CHT": "布倫妮",
+    "DE": "Prune",
+    "ES": "Prune",
+    "FR": "Prune",
+    "ID": "Prune",
+    "IT": "Prune",
+    "JP": "プルーネ",
+    "KR": "프루네",
+    "PT": "Prune",
+    "RU": "Прюн",
+    "TH": "Prune",
+    "TR": "Prune",
+    "VI": "Prune"
+  },
+  "nameEn": "Prune",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 11,
+    "day": 20
+  },
+  "release": "2026-05-18T21:00:00",
+  "icon": "generated/character-profiles/10000132/avatar.webp",
+  "fullWish": "generated/character-profiles/10000132/full_wish.webp",
+  "fullWishObjectPosition": "49.4% 29.3%",
+  "title": {
+    "EN": "Childlike Dreams Cherished",
+    "CHS": "稚梦归心",
+    "CHT": "稚夢歸心",
+    "DE": "Geschätzte kindliche Träume",
+    "ES": "La Niña Soñadora",
+    "FR": "Précieux rêves d'enfance",
+    "ID": "Childlike Dreams Cherished",
+    "IT": "Preziosi sogni d'infanzia",
+    "JP": "拙き夢を心に秘めて",
+    "KR": "돌아온 동심",
+    "PT": "Sonhos Infantis Queridos",
+    "RU": "Лелеемые детские мечты",
+    "TH": "คืนใจฝันวัยเยาว์",
+    "TR": "Özlenen Çocuksu Hayaller",
+    "VI": "Giấc Mơ Trẻ Thơ"
+  },
+  "description": {
+    "EN": "A diminutive Witch Hunter who has journeyed all the way from Nod-Krai with the singular purpose of rooting out a witch who, to hear her tell it, has committed every sin imaginable — including bullying little kids!",
+    "CHS": "小小的「魔女猎人」。从挪德卡莱跋涉而来，只为了讨伐那位在她口中以大欺小、无恶不作的魔女。",
+    "CHT": "小小的「魔女獵人」。從挪德卡萊跋涉而來，只為了討伐那位在她口中以大欺小、無惡不作的魔女。",
+    "DE": "Eine kleine „Hexenjägerin“. Sie ist den ganzen Weg von Nod-Krai hergereist, nur um die Hexe zu besiegen, die ihrer Meinung nach die Schwachen schikaniert und nichts als Böses tut.",
+    "ES": "Una pequeña cazadora de brujas. Llegó desde Nod Krai con el único propósito de derrotar a cierta bruja que, según ella, abusa de los débiles y posee una maldad que no conoce límites.",
+    "FR": "Une minuscule chasseuse de sorcières, venue de Nod-Krai avec pour unique dessein de débusquer une sorcière qui, à l'en croire, a commis tous les péchés imaginables : y compris s'en prendre aux petits enfants !",
+    "ID": "\"Pemburu Penyihir\" cilik. Dia menempuh perjalanan jauh dari Nod-Krai hanya untuk menaklukkan penyihir yang, menurutnya, gemar menindas yang lemah dan melakukan segala macam kejahatan.",
+    "IT": "Una minuta Cacciastreghe che ha viaggiato fin da Nod-Krai con l'unico scopo di stanare una strega che, stando alle sue parole, ha commesso ogni peccato immaginabile: incluso fare la prepotente con i bambini!",
+    "JP": "小さな「魔女ハンター」。「弱い者いじめばかりして、悪行の限りを尽くす」魔女を討伐するため、はるばるナド・クライからやってきた。",
+    "KR": "꼬마 「마녀 사냥꾼」. 약자를 괴롭히고 온갖 악행을 일삼는 그 마녀를 토벌하기 위해, 노드크라이에서 먼 길을 걸어왔다고 주장한다",
+    "PT": "Uma pequena \"Caçadora de Bruxas\" que se aventurou desde Nod-Krai com o único intuito de perseguir uma bruxa, que, segundo ela, cometeu todos os pecados imagináveis — incluindo o de perturbar criancinhas inocentes!",
+    "RU": "Маленькая «охотница на ведьм». Прибыла из далёкого Нод-Края одолеть ведьму, которая, по её словам, обижает маленьких и творит всякое зло.",
+    "TH": "\"นักล่าแม่มด\" ตัวน้อย เดินทางรอนแรมมาจาก Nod-Krai เพียงเพื่อปราบแม่มดที่เธอบอกว่าชอบรังแกคนที่อ่อนแอกว่า และก่อความชั่วร้ายสารพัด",
+    "TR": "Dediğine göre küçük çocuklara zorbalık yapmak da dahil akla gelebilecek her türlü günahı işlemiş bir cadının kökünü kazıma niyetiyle ta Nod-Krai'dan onca yolu tepip gelmiş minik bir Cadı Avcısı.",
+    "VI": "\"Thợ Săn Ma Nữ\" nhỏ bé. Từ Nod-Krai vượt ngàn dặm đến đây, chỉ để thảo phạt một ma nữ mà theo lời cô ấy, đó là kẻ \"ỷ mạnh hiếp yếu, tội ác tày trời\"."
+  },
+  "constellationName": {
+    "EN": "Turris Venefica",
+    "CHS": "魔塔座",
+    "CHT": "魔塔座",
+    "DE": "Turris Venefica",
+    "ES": "Turris Venefica",
+    "FR": "Turris Venefica",
+    "ID": "Turris Venefica",
+    "IT": "Turris Venefica",
+    "JP": "魔塔座",
+    "KR": "마탑자리",
+    "PT": "Turris Venefica",
+    "RU": "Магическая Башня",
+    "TH": "Turris Venefica",
+    "TR": "Büyü Kulesi",
+    "VI": "Cung Ma Tháp"
+  },
+  "native": {
+    "EN": "Mondstadt",
+    "CHS": "蒙德城",
+    "CHT": "蒙德城",
+    "DE": "Mondstadt",
+    "ES": "Mondstadt",
+    "FR": "Cité de Mondstadt",
+    "ID": "Mondstadt",
+    "IT": "Mondstadt",
+    "JP": "モンド城",
+    "KR": "몬드성",
+    "PT": "Mondstadt",
+    "RU": "Мондштадт",
+    "TH": "เมือง Mondstadt",
+    "TR": "Mondstadt",
+    "VI": "Thành Mondstadt"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Alice Himora"
+    },
+    {
+      "lang": "CHS",
+      "va": "宴宁"
+    },
+    {
+      "lang": "JP",
+      "va": "長月あおい"
+    },
+    {
+      "lang": "KR",
+      "va": "Jang Ye-na"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 811.494,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.52032,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 48.64125,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

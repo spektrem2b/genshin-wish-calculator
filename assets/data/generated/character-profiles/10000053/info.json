@@ -1,0 +1,137 @@
+{
+  "id": "10000053",
+  "name": {
+    "EN": "Sayu",
+    "CHS": "早柚",
+    "CHT": "早柚",
+    "DE": "Sayu",
+    "ES": "Sayu",
+    "FR": "Sayu",
+    "ID": "Sayu",
+    "IT": "Sayu",
+    "JP": "早柚",
+    "KR": "사유",
+    "PT": "Sayu",
+    "RU": "Саю",
+    "TH": "Sayu",
+    "TR": "Sayu",
+    "VI": "Sayu"
+  },
+  "nameEn": "Sayu",
+  "element": "Anemo",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 10,
+    "day": 19
+  },
+  "release": "2021-08-10T15:00:00",
+  "icon": "generated/character-profiles/10000053/avatar.webp",
+  "fullWish": "generated/character-profiles/10000053/full_wish.webp",
+  "fullWishObjectPosition": "50.5% 42.9%",
+  "title": {
+    "EN": "Mujina Ninja",
+    "CHS": "忍里之貉",
+    "CHT": "忍里之貉",
+    "DE": "Mujina-Ninja",
+    "ES": "La Tejón Ninja",
+    "FR": "Mujina shinobi",
+    "ID": "Mujina Ninja",
+    "IT": "Ninja mujina",
+    "JP": "忍びの里の貉",
+    "KR": "닌자 너구리",
+    "PT": "Mujina Ninja",
+    "RU": "Мудзина-ниндзя",
+    "TH": "นินจามูจิน่า",
+    "TR": "Mujina Ninja",
+    "VI": "Ninja Mujina"
+  },
+  "description": {
+    "EN": "A pint-sized ninja attached to the Shuumatsuban, who always seems to be lacking sleep.",
+    "CHS": "隶属于「终末番」的忍者。身形小巧，总像没睡饱一样。",
+    "CHT": "隸屬於「終末番」的忍者。身形小巧，總像沒睡飽一樣。",
+    "DE": "Ein winziger Ninja, der zum Shuumatsuban gehört und immer unter Schlafmangel zu leiden scheint.",
+    "ES": "Una ninja perteneciente a Los Ocelos. Muy bajita y siempre con aspecto de no haber dormido lo suficiente.",
+    "FR": "Une très petite ninja rattachée au Shuumatsuban, qui semble toujours manquer de sommeil.",
+    "ID": "Ninja kecil dari Shuumatsuban yang selalu terlihat kurang tidur.",
+    "IT": "Una ninja in miniatura legata alla Shuumatsuban. Ha l'aria perennemente stanca.",
+    "JP": "「終末番」に所属する忍。小柄で、いつも眠たそうにしている。",
+    "KR": "「종말번대」 소속 닌자. 체구가 작고 앙증맞으며 항상 졸려 보인다",
+    "PT": "Uma ninja pertencente ao Shiyuumatsu-Ban que parece sempre não ter dormido o suficiente.",
+    "RU": "Вечно сонный миниатюрный ниндзя из тайной организации Сюмацубан.",
+    "TH": "นินจารูปร่างบอบบางแห่ง Shuumatsuban มักจะมีท่าทางเหมือนคนนอนหลับไม่เพียงพออยู่เสมอ",
+    "TR": "Shuumatsuban'a bağlı küçük bir ninja, her zaman uykusuz görünür.",
+    "VI": "Ninja thuộc \"Shuumatsuban\". Thân hình nhỏ nhắn, lúc nào trông cũng như không ngủ đủ giấc."
+  },
+  "constellationName": {
+    "EN": "Nyctereutes Minor",
+    "CHS": "小貉座",
+    "CHT": "小貉座",
+    "DE": "Nyctereutes Minor",
+    "ES": "Nyctereutes Minor",
+    "FR": "Nyctereutes Minor",
+    "ID": "Nyctereutes Minor",
+    "IT": "Nyctereutes Minor",
+    "JP": "子貉座",
+    "KR": "너구리자리",
+    "PT": "Nyctereutes Minor",
+    "RU": "Малый Мудзина",
+    "TH": "Nyctereutes Minor",
+    "TR": "Küçük Tanuki",
+    "VI": "Cung Tiểu Lạc"
+  },
+  "native": {
+    "EN": "Shuumatsuban",
+    "CHS": "终末番",
+    "CHT": "終末番",
+    "DE": "Shuumatsuban",
+    "ES": "Los Ocelos",
+    "FR": "Shuumatsuban",
+    "ID": "Shuumatsuban",
+    "IT": "Shuumatsuban",
+    "JP": "終末番",
+    "KR": "종말번대",
+    "PT": "Shiyuumatsu-Ban",
+    "RU": "Сюмацубан",
+    "TH": "Shuumatsuban",
+    "TR": "Shuumatsuban",
+    "VI": "Shuumatsuban"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Lilypichu (Lily Ki)"
+    },
+    {
+      "lang": "CHS",
+      "va": "Sakula小舞"
+    },
+    {
+      "lang": "JP",
+      "va": "洲崎綾"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Ji-hyeon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 993.8522,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.4792,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.432476,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

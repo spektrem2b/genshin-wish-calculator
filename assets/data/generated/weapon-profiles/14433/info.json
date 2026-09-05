@@ -1,0 +1,52 @@
+{
+  "id": 14433,
+  "name": {
+    "EN": "Blackmarrow Lantern",
+    "CHS": "乌髓孑灯",
+    "CHT": "烏髓孑燈",
+    "DE": "Laterne des schwarzen Marks",
+    "ES": "Lámpara Medulaoscura",
+    "FR": "Lanterne à moelle sombre",
+    "ID": "Blackmarrow Lantern",
+    "IT": "Lanterna del midollo nero",
+    "JP": "烏髄の孤灯",
+    "KR": "검은 골수의 등불",
+    "PT": "Lanterna do Tutano Preto",
+    "RU": "Фонарь чёрной сердцевины",
+    "TH": "Blackmarrow Lantern",
+    "TR": "Kara İlik Feneri",
+    "VI": "Đèn Tủy Đen"
+  },
+  "nameEn": "Blackmarrow Lantern",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A lantern that emits a faint, ghostly glow, contained by a midnight-black alloy that resembles interlocking bones. It is said to have once been revered as a precious treasure by a certain secret organization.",
+    "CHS": "散发着莹莹幽光的一盏提灯，以宛如骨节状的乌黑合金包裹。相传，它曾被某个秘密组织奉为至宝。",
+    "CHT": "散發著瑩瑩幽光的一盞提燈，以宛如骨節狀的烏黑合金包裹。相傳，它曾被某個秘密組織奉為至寶。",
+    "DE": "Eine Laterne, die ein schwaches, gespenstisches Leuchten ausstrahlt und von einer mitternachtsschwarzen Legierung umhüllt ist, die an ineinandergreifende Knochen erinnert. Es heißt, dass sie einst von einer bestimmten Geheimorganisation als kostbarer Schatz verehrt wurde.",
+    "ES": "Una lámpara portátil con un brillo tenue y tenebroso, y envuelta en una aleación de color oscuro que recuerda a las articulaciones del cuerpo. Dicen que había una organización secreta que la consideraba su mayor tesoro.",
+    "FR": "Une lanterne émettant une faible lueur fantomatique, contenue dans un alliage noir de minuit ressemblant à des os entrelacés. On raconte qu'elle était autrefois vénérée comme un précieux trésor par une organisation secrète.",
+    "ID": "Lentera yang memancarkan cahaya redup, terbungkus logam paduan hitam yang berbentuk seperti rangkaian tulang. Menurut legenda, lentera ini pernah dianggap sebagai harta karun oleh sebuah organisasi rahasia.",
+    "IT": "Una lanterna che emette un tenue bagliore spettrale, racchiuso in una lega nera come la notte simile a ossa intrecciate. Si dice che un tempo fosse venerata come un tesoro prezioso da una certa organizzazione segreta.",
+    "JP": "仄暗く光るランタン。骨の関節を象った黒い合金に包まれている。ある秘密組織は、これを至宝として崇めていたらしい…",
+    "KR": "은은히 빛나는 등불. 뼈마디를 닮은 검은 합금으로 제작되었으며, 어느 비밀 조직이 최고의 보물로 여겼다고 한다",
+    "PT": "Uma lanterna que emite um brilho sutil fantasmagórico, contida por uma liga metálica que lembra ossos interligados. Dizem ter sido venerada como um tesouro precioso por uma certa organização secreta.",
+    "RU": "Фонарь, источающий тусклый, призрачный свет. Его чёрный как ночь корпус напоминает сцепленные друг с другом кости. Считается, что он был сокровищем некой тайной организации.",
+    "TH": "ตะเกียงที่เปล่งแสงสลัวรำไร หุ้มด้วยโลหะผสมสีดำสนิท ที่ดูคล้ายข้อต่อกระดูก ว่ากันว่าตะเกียงดวงนี้ เคยถูกองค์กรลับแห่งหนึ่ง ยกย่องให้เป็นสมบัติล้ำค่าเลยทีเดียว",
+    "TR": "Gece gibi karanlık bir alaşımdan yapılma, birbirine geçmiş kemikleri andıran çerçevesi içinde hayalet misali soğuk bir ışık parıldayan bir fener. Bir zamanlar gizli bir örgüte ait olduğu ve değerli bir hazine olarak görüldüğü söylenir.",
+    "VI": "Một chiếc đèn lồng tỏa ra ánh sáng lấp lánh, được bao bọc bởi hợp kim đen kịt như màn đêm, trông giống như những khúc xương đan xen vào nhau. Tương truyền, nó từng được tổ chức bí mật nào đó coi là báu vật."
+  },
+  "icon": "generated/weapon-profiles/14433/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 48.0,
+  "substat_lvl90": 220.512,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

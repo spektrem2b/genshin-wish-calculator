@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Sky-ripping Dragon Spine",
+    "CHS": "斩裂晴空的龙脊",
+    "CHT": "斬裂晴空的龍脊",
+    "DE": "Himmel spaltende Drachenwirbel",
+    "ES": "Espina de dragón rompecielos",
+    "FR": "Échine du dragon briseur de ciel",
+    "ID": "Sky-ripping Dragon Spine",
+    "IT": "Spada del drago strappacielo",
+    "JP": "晴れ空を裂く龍の骨",
+    "KR": "맑은 하늘을 가르는 용의 척추",
+    "PT": "Espinha do Dragão - Quebrador do Céu",
+    "RU": "Дракон, пронзивший небо",
+    "TH": "Sky-ripping Dragon Spine",
+    "TR": "Gökyırtan Ejder Ağzı",
+    "VI": "Long Tích Chém Đứt Thanh Không"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases all DMG by 8%. After using an Elemental Burst, a vacuum blade that does 80% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+        "CHS": "造成的伤害提高8%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成80%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+        "CHT": "造成的傷害提高8%；施放元素爆發後：普通攻擊和重擊命中時會發出真空刃，對路徑上的敵人造成80%攻擊力的傷害，持續20秒或直至發出8次真空刃。",
+        "DE": "Erhöht den verursachten Schaden um 8 %. Nach Anwendung der Spezialfähigkeit: Erschafft nach Treffern mit Standardangriffen und heftigen Schlägen eine Vakuumklinge, die Gegnern in der Bahn Schaden in Höhe von 80 % ANG zufügt. Hält 20 s oder 8 Vakuumklingen lang.",
+        "ES": "Aumenta el daño infligido en un 8%. Al realizar Ataques Normales o Cargados después de usar la Habilidad Definitiva, se crea una hoja de vacío que inflige un 80% de daño a todos los enemigos a los que atraviesa. Tiene una duración de 20 s u 8 ataques de hoja de vacío.",
+        "FR": "Augmente tous les DGT infligés de 8 %. Après un déchaînement élémentaire, les attaques normales et chargées génèrent une lame de vide qui inflige 80 % de DGT d'ATQ aux ennemis sur sa route. Cet effet dure 20 s ou 8 lames.",
+        "ID": "Meningkatkan 8% DMG. Setelah menggunakan Elemental Burst: Normal atau Charged Attack yang mengenai musuh akan menciptakan tebasan vakum yang mengakibatkan DMG sebesar 80% ATK kepada musuh di jalurnya. Bertahan selama 20 detik, atau 8 tebasan vakum.",
+        "IT": "#Aumenta tutti i DAN di un 8%. Dopo l'uso di un Tripudio elementale, gli attacchi normali e caricati andati a segno generano una lama aspirante che infligge DAN pari a un 80% dell'ATT agli avversari lungo il suo percorso. Dura per 20 s o per 8 lame aspiranti.",
+        "JP": "与えるダメージ+8%。元素爆発を発動した後、通常攻撃または重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の80%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+        "KR": "주는 피해가 8% 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 80%의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날을 8번 발사할 때까지",
+        "PT": "Aumenta o Dano em 8%; Depois de usar o Supremo, se os Ataques Normais ou Carregados atingirem os inimigos, será criada uma lâmina de vácuo que causará 80% do Ataque como Dano aos oponentes ao longo do caminho. Dura 20s ou 8 lâminas de vácuo.",
+        "RU": "Увеличивает наносимый урон на 8%. После активации взрыва стихий попадания обычными или заряженными атаками запускают неосязаемое лезвие, которое наносит 80% урона всем врагам на своём пути. Длится 20 сек. или 8 неосязаемых лезвий.",
+        "TH": "เพิ่มความเสียหายที่สร้างขึ้น 8%; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย 80% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+        "TR": "Tüm Hasarları %8 artırır. Bir Element Patlaması, Normal Saldırı veya Yüklü Saldırı düşmana isabet ettiğinde bir vakum kılıcı oluşturarak yoluna çıkan düşmanlara %80 Saldırı kadar Hasar verir. 20 saniyeye kadar veya 8 vakum kılıcı oluşturulana kadar devam eder.",
+        "VI": "Sát thương tạo thành tăng 8%; Sau khi thi triển kỹ năng nộ: Khi tấn công thường và trọng kích đánh trúng địch sẽ phóng ra lưỡi dao chân không, tạo thành 80% sát thương cho kẻ địch trên đường đi, kéo dài 20s hoặc đến khi phóng ra 8 lần dao chân không."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases all DMG by 10%. After using an Elemental Burst, a vacuum blade that does 100% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+        "CHS": "造成的伤害提高10%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成100%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+        "CHT": "造成的傷害提高10%；施放元素爆發後：普通攻擊和重擊命中時會發出真空刃，對路徑上的敵人造成100%攻擊力的傷害，持續20秒或直至發出8次真空刃。",
+        "DE": "Erhöht den verursachten Schaden um 10 %. Nach Anwendung der Spezialfähigkeit: Erschafft nach Treffern mit Standardangriffen und heftigen Schlägen eine Vakuumklinge, die Gegnern in der Bahn Schaden in Höhe von 100 % ANG zufügt. Hält 20 s oder 8 Vakuumklingen lang.",
+        "ES": "Aumenta el daño infligido en un 10%. Al realizar Ataques Normales o Cargados después de usar la Habilidad Definitiva, se crea una hoja de vacío que inflige un 100% de daño a todos los enemigos a los que atraviesa. Tiene una duración de 20 s u 8 ataques de hoja de vacío.",
+        "FR": "Augmente tous les DGT infligés de 10 %. Après un déchaînement élémentaire, les attaques normales et chargées génèrent lorsqu'elles touchent une lame de vide qui inflige 100 % de DGT d'ATQ aux ennemis sur sa route. Cet effet dure 20 s ou 8 lames.",
+        "ID": "Meningkatkan 10% DMG. Setelah menggunakan Elemental Burst: Normal atau Charged Attack yang mengenai musuh akan menciptakan tebasan vakum yang mengakibatkan DMG sebesar 100% ATK kepada musuh di jalurnya. Bertahan selama 20 detik, atau 8 tebasan vakum.",
+        "IT": "#Aumenta tutti i DAN di un 10%. Dopo l'uso di un Tripudio elementale, gli attacchi normali e caricati andati a segno generano una lama aspirante che infligge DAN pari a un 100% dell'ATT agli avversari lungo il suo percorso. Dura per 20 s o per 8 lame aspiranti.",
+        "JP": "与えるダメージ+10%。元素爆発を発動した後、通常攻撃または重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の100%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+        "KR": "주는 피해가 10% 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 100%의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날을 8번 발사할 때까지",
+        "PT": "Aumenta o Dano em 10%. Depois de usar o Supremo, Ataque Normal ou Ataque Carregado, cria uma lâmina de vácuo que causa 100% de Dano Físico aos oponentes ao longo do caminho. Dura 20s ou 8 lâminas de vácuo.",
+        "RU": "Увеличивает наносимый урон на 10%. После активации взрыва стихий попадания обычными или заряженными атаками запускают неосязаемое лезвие, которое наносит 100% урона всем врагам на своём пути. Длится 20 сек. или 8 неосязаемых лезвий.",
+        "TH": "เพิ่มความเสียหายที่สร้างขึ้น 10%; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย 100% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+        "TR": "Tüm Hasarları %10 artırır. Bir Element Patlaması, Normal Saldırı veya Yüklü Saldırı düşmana isabet ettiğinde bir vakum kılıcı oluşturarak yoluna çıkan düşmanlara %100 Saldırı kadar Hasar verir. 20 saniyeye kadar veya 8 vakum kılıcı oluşturulana kadar devam eder.",
+        "VI": "Sát thương tạo thành tăng 10%; Sau khi thi triển kỹ năng nộ: Khi tấn công thường và trọng kích đánh trúng địch sẽ phóng ra lưỡi dao chân không, tạo thành 100% sát thương cho kẻ địch trên đường đi, kéo dài 20s hoặc đến khi phóng ra 8 lần dao chân không."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases all DMG by 12%. After using an Elemental Burst, a vacuum blade that does 120% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+        "CHS": "造成的伤害提高12%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成120%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+        "CHT": "造成的傷害提高12%；施放元素爆發後：普通攻擊和重擊命中時會發出真空刃，對路徑上的敵人造成120%攻擊力的傷害，持續20秒或直至發出8次真空刃。",
+        "DE": "Erhöht den verursachten Schaden um 12 %. Nach Anwendung der Spezialfähigkeit: Erschafft nach Treffern mit Standardangriffen und heftigen Schlägen eine Vakuumklinge, die Gegnern in der Bahn Schaden in Höhe von 120 % ANG zufügt. Hält 20 s oder 8 Vakuumklingen lang.",
+        "ES": "Aumenta el daño infligido en un 12%. Al realizar Ataques Normales o Cargados después de usar la Habilidad Definitiva, se crea una hoja de vacío que inflige un 120% de daño a todos los enemigos a los que atraviesa. Tiene una duración de 20 s u 8 ataques de hoja de vacío.",
+        "FR": "Augmente tous les DGT infligés de 12 %. Après un déchaînement élémentaire, les attaques normales et chargées génèrent une lame de vide qui inflige 120 % de DGT d'ATQ aux ennemis sur sa route. Cet effet dure 20 s ou 8 lames.",
+        "ID": "Meningkatkan 12% DMG. Setelah menggunakan Elemental Burst: Normal atau Charged Attack yang mengenai musuh akan menciptakan tebasan vakum yang mengakibatkan DMG sebesar 120% ATK kepada musuh di jalurnya. Bertahan selama 20 detik, atau 8 tebasan vakum.",
+        "IT": "#Aumenta tutti i DAN di un 12%. Dopo l'uso di un Tripudio elementale, gli attacchi normali e caricati andati a segno generano una lama aspirante che infligge DAN pari a un 120% dell'ATT agli avversari lungo il suo percorso. Dura per 20 s o per 8 lame aspiranti.",
+        "JP": "与えるダメージ+12%。元素爆発を発動した後、通常攻撃または重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の120%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+        "KR": "주는 피해가 12% 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 120%의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날을 8번 발사할 때까지",
+        "PT": "Aumenta o Dano em 12%. Depois de usar o Supremo, Ataque Normal ou Ataque Carregado, cria uma lâmina de vácuo que causa 120% de Dano Físico aos oponentes ao longo do caminho. Dura 20s ou 8 lâminas de vácuo.",
+        "RU": "Увеличивает наносимый урон на 12%. После активации взрыва стихий попадания обычными или заряженными атаками запускают неосязаемое лезвие, которое наносит 120% урона всем врагам на своём пути. Длится 20 сек. или 8 неосязаемых лезвий.",
+        "TH": "เพิ่มความเสียหายที่สร้างขึ้น 12%; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย 120% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+        "TR": "Tüm Hasarları %12 artırır. Bir Element Patlaması, Normal Saldırı veya Yüklü Saldırı düşmana isabet ettiğinde bir vakum kılıcı oluşturarak yoluna çıkan düşmanlara %120 Saldırı kadar Hasar verir. 20 saniyeye kadar veya 8 vakum kılıcı oluşturulana kadar devam eder.",
+        "VI": "Sát thương tạo thành tăng 12%; Sau khi thi triển kỹ năng nộ: Khi tấn công thường và trọng kích đánh trúng địch sẽ phóng ra lưỡi dao chân không, tạo thành 120% sát thương cho kẻ địch trên đường đi, kéo dài 20s hoặc đến khi phóng ra 8 lần dao chân không."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases all DMG by 14%. After using an Elemental Burst, a vacuum blade that does 140% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+        "CHS": "造成的伤害提高14%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成140%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+        "CHT": "造成的傷害提高14%；施放元素爆發後：普通攻擊和重擊命中時會發出真空刃，對路徑上的敵人造成140%攻擊力的傷害，持續20秒或直至發出8次真空刃。",
+        "DE": "Erhöht den verursachten Schaden um 14 %. Nach Anwendung der Spezialfähigkeit: Erschafft nach Treffern mit Standardangriffen und heftigen Schlägen eine Vakuumklinge, die Gegnern in der Bahn Schaden in Höhe von 140 % ANG zufügt. Hält 20 s oder 8 Vakuumklingen lang.",
+        "ES": "Aumenta el daño infligido en un 14%. Al realizar Ataques Normales o Cargados después de usar la Habilidad Definitiva, se crea una hoja de vacío que inflige un 140% de daño a todos los enemigos a los que atraviesa. Tiene una duración de 20 s u 8 ataques de hoja de vacío.",
+        "FR": "Augmente tous les DGT infligés de 14 %. Après un déchaînement élémentaire, les attaques normales et chargées génèrent une lame de vide qui inflige 140 % de DGT d'ATQ aux ennemis sur sa route. Cet effet dure 20 s ou 8 lames.",
+        "ID": "Meningkatkan 14% DMG. Setelah menggunakan Elemental Burst: Normal atau Charged Attack yang mengenai musuh akan menciptakan tebasan vakum yang mengakibatkan DMG sebesar 140% ATK kepada musuh di jalurnya. Bertahan selama 20 detik, atau 8 tebasan vakum.",
+        "IT": "#Aumenta tutti i DAN di un 14%. Dopo l'uso di un Tripudio elementale, gli attacchi normali e caricati andati a segno generano una lama aspirante che infligge DAN pari a un 140% dell'ATT agli avversari lungo il suo percorso. Dura per 20 s o per 8 lame aspiranti.",
+        "JP": "与えるダメージ+14%。元素爆発を発動した後、通常攻撃または重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の140%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+        "KR": "주는 피해가 14% 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 140%의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날을 8번 발사할 때까지",
+        "PT": "Aumenta o Dano em 14%. Depois de usar o Supremo, Ataque Normal ou Ataque Carregado, cria uma lâmina de vácuo que causa 140% de Dano Físico aos oponentes ao longo do caminho. Dura 20s ou 8 lâminas de vácuo.",
+        "RU": "Увеличивает наносимый урон на 14%. После активации взрыва стихий попадания обычными или заряженными атаками запускают неосязаемое лезвие, которое наносит 140% урона всем врагам на своём пути. Длится 20 сек. или 8 неосязаемых лезвий.",
+        "TH": "เพิ่มความเสียหายที่สร้างขึ้น 14%; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย 140% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+        "TR": "Tüm Hasarları %14 artırır. Bir Element Patlaması, Normal Saldırı veya Yüklü Saldırı düşmana isabet ettiğinde bir vakum kılıcı oluşturarak yoluna çıkan düşmanlara %140 Saldırı kadar Hasar verir. 20 saniyeye kadar veya 8 vakum kılıcı oluşturulana kadar devam eder.",
+        "VI": "Sát thương tạo thành tăng 14%; Sau khi thi triển kỹ năng nộ: Khi tấn công thường và trọng kích đánh trúng địch sẽ phóng ra lưỡi dao chân không, tạo thành 140% sát thương cho kẻ địch trên đường đi, kéo dài 20s hoặc đến khi phóng ra 8 lần dao chân không."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases all DMG by 16%. After using an Elemental Burst, a vacuum blade that does 160% of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
+        "CHS": "造成的伤害提高16%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成160%攻击力的伤害，持续20秒或直至发出8次真空刃。",
+        "CHT": "造成的傷害提高16%；施放元素爆發後：普通攻擊和重擊命中時會發出真空刃，對路徑上的敵人造成160%攻擊力的傷害，持續20秒或直至發出8次真空刃。",
+        "DE": "Erhöht den verursachten Schaden um 16 %. Nach Anwendung der Spezialfähigkeit: Erschafft nach Treffern mit Standardangriffen und heftigen Schlägen eine Vakuumklinge, die Gegnern in der Bahn Schaden in Höhe von 160 % ANG zufügt. Hält 20 s oder 8 Vakuumklingen lang.",
+        "ES": "Aumenta el daño infligido en un 16%. Al realizar Ataques Normales o Cargados después de usar la Habilidad Definitiva, se crea una hoja de vacío que inflige un 160% de daño a todos los enemigos a los que atraviesa. Tiene una duración de 20 s u 8 ataques de hoja de vacío.",
+        "FR": "Augmente tous les DGT infligés de 16 %. Après un déchaînement élémentaire, les attaques normales et chargées génèrent une lame de vide qui inflige 160 % de DGT d'ATQ aux ennemis sur sa route. Cet effet dure 20 s ou 8 lames.",
+        "ID": "Meningkatkan 16% DMG. Setelah menggunakan Elemental Burst: Normal atau Charged Attack yang mengenai musuh akan menciptakan tebasan vakum yang mengakibatkan DMG sebesar 160% ATK kepada musuh di jalurnya. Bertahan selama 20 detik, atau 8 tebasan vakum.",
+        "IT": "#Aumenta tutti i DAN di un 16%. Dopo l'uso di un Tripudio elementale, gli attacchi normali e caricati andati a segno generano una lama aspirante che infligge DAN pari a un 160% dell'ATT agli avversari lungo il suo percorso. Dura per 20 s o per 8 lame aspiranti.",
+        "JP": "与えるダメージ+16%。元素爆発を発動した後、通常攻撃または重撃が命中すると真空の刃を放ち、経路上の敵に攻撃力の160%のダメージを与える、継続時間20秒または真空の刃を8回発動するまで。",
+        "KR": "주는 피해가 16% 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 160%의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날을 8번 발사할 때까지",
+        "PT": "Aumenta o Dano em 16%. Depois de usar o Supremo, Ataque Normal ou Ataque Carregado, cria uma lâmina de vácuo que causa 160% de Dano Físico aos oponentes ao longo do caminho. Dura 20s ou 8 lâminas de vácuo.",
+        "RU": "Увеличивает наносимый урон на 16%. После активации взрыва стихий попадания обычными или заряженными атаками запускают неосязаемое лезвие, которое наносит 160% урона всем врагам на своём пути. Длится 20 сек. или 8 неосязаемых лезвий.",
+        "TH": "เพิ่มความเสียหายที่สร้างขึ้น 16%; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย 160% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+        "TR": "Tüm Hasarları %16 artırır. Bir Element Patlaması, Normal Saldırı veya Yüklü Saldırı düşmana isabet ettiğinde bir vakum kılıcı oluşturarak yoluna çıkan düşmanlara %160 Saldırı kadar Hasar verir. 20 saniyeye kadar veya 8 vakum kılıcı oluşturulana kadar devam eder.",
+        "VI": "Sát thương tạo thành tăng 16%; Sau khi thi triển kỹ năng nộ: Khi tấn công thường và trọng kích đánh trúng địch sẽ phóng ra lưỡi dao chân không, tạo thành 160% sát thương cho kẻ địch trên đường đi, kéo dài 20s hoặc đến khi phóng ra 8 lần dao chân không."
+      }
+    }
+  ]
+}

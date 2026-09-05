@@ -1,0 +1,137 @@
+{
+  "id": "10000091",
+  "name": {
+    "EN": "Navia",
+    "CHS": "娜维娅",
+    "CHT": "娜維婭",
+    "DE": "Navia",
+    "ES": "Navia",
+    "FR": "Navia",
+    "ID": "Navia",
+    "IT": "Navia",
+    "JP": "ナヴィア",
+    "KR": "나비아",
+    "PT": "Navia",
+    "RU": "Навия",
+    "TH": "Navia",
+    "TR": "Navia",
+    "VI": "Navia"
+  },
+  "nameEn": "Navia",
+  "element": "Geo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 8,
+    "day": 16
+  },
+  "release": "2023-12-18T22:00:00",
+  "icon": "generated/character-profiles/10000091/avatar.webp",
+  "fullWish": "generated/character-profiles/10000091/full_wish.webp",
+  "fullWishObjectPosition": "57.3% 39.6%",
+  "title": {
+    "EN": "Helm of the Radiant Rose",
+    "CHS": "明花蔓舵",
+    "CHT": "明花蔓舵",
+    "DE": "Leiterin der leuchtenden Rose",
+    "ES": "La Líder de las Rosas",
+    "FR": "Nautonière de la rose radieuse",
+    "ID": "Helm of the Radiant Rose",
+    "IT": "Timoniere della rosa splendente",
+    "JP": "舵を這うラディアントローズ",
+    "KR": "빛나는 장미의 타륜",
+    "PT": "Leme da Rosa Radiante",
+    "RU": "Штурвал цветущей розы",
+    "TH": "หางเสือแห่งมวลกุหลาบ",
+    "TR": "Parlak Gülün Önderi",
+    "VI": "Bánh Lái Hoa Lệ"
+  },
+  "description": {
+    "EN": "The current President of Spina di Rosula, who is lovely, dutiful, and a great boss.",
+    "CHS": "刺玫会现任会长，一位可爱、尽责的好老板。",
+    "CHT": "刺玫會現任會長，一位可愛、盡責的好老闆。",
+    "DE": "Die amtierende Präsidentin der Spina di Rosula, eine liebenswerte, pflichtbewusste und großartige Chefin.",
+    "ES": "La actual presidenta de Spina di Rosula, una jefa adorable con un profundo sentido de la responsabilidad.",
+    "FR": "L'actuelle présidente de la Spina di Rosula, qui est une patronne adorable, dévouée et formidable.",
+    "ID": "Ketua Spina di Rosula, bos yang cantik, baik, dan bertanggung jawab.",
+    "IT": "L'attuale Presidentessa della Spina di Rosula: amabile, diligente e una leader eccezionale.",
+    "JP": "棘薔薇の会の現会長。愛らしく、強い責任感を持った素晴らしいボス。",
+    "KR": "가시 장미회의 현임 회장. 귀여우면서도 책임감이 강한 훌륭한 보스다",
+    "PT": "A atual Presidente da Spina di Rosula, é a patroa adorável e responsável.",
+    "RU": "Действующая глава Спина-ди-Росула, лучший и самый ответственный босс.",
+    "TH": "ประธานองค์กรกุหลาบหนามคนปัจจุบัน เป็นเจ้านายที่น่ารัก และมีความรับผิดชอบสูง",
+    "TR": "Spina di Rosula'nın şu anki Başkanı. Cana yakın, görevine bağlı ve takdire şayan bir patron.",
+    "VI": "Hội trưởng hiện tại của Spina di Rosula, là một cô chủ dễ thương và rất có trách nhiệm."
+  },
+  "constellationName": {
+    "EN": "Rosa Multiflora",
+    "CHS": "野蔷薇座",
+    "CHT": "野薔薇座",
+    "DE": "Rosa Multiflora",
+    "ES": "Rosa Multiflora",
+    "FR": "Rosa Multiflora",
+    "ID": "Rosa Multiflora",
+    "IT": "Rosa Multiflora",
+    "JP": "野薔薇座",
+    "KR": "들장미자리",
+    "PT": "Rosa Multiflora",
+    "RU": "Дикая Роза",
+    "TH": "Rosa Multiflora",
+    "TR": "Sarmaşık Gül",
+    "VI": "Cung Dã Tường Vi"
+  },
+  "native": {
+    "EN": "Spina di Rosula",
+    "CHS": "刺玫会",
+    "CHT": "刺玫會",
+    "DE": "Spina di Rosula",
+    "ES": "Spina di Rosula",
+    "FR": "Spina di Rosula",
+    "ID": "Spina di Rosula",
+    "IT": "Spina di Rosula",
+    "JP": "棘薔薇の会",
+    "KR": "가시 장미회",
+    "PT": "Spina di Rosula",
+    "RU": "Спина-ди-Росула",
+    "TH": "องค์กรกุหลาบหนาม",
+    "TR": "Spina di Rosula",
+    "VI": "Spina di Rosula"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Brenna Larsen"
+    },
+    {
+      "lang": "CHS",
+      "va": "小敢"
+    },
+    {
+      "lang": "JP",
+      "va": "豊崎愛生"
+    },
+    {
+      "lang": "KR",
+      "va": "Jeong Hae-eun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 984.77954,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 27.3714,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.74456,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

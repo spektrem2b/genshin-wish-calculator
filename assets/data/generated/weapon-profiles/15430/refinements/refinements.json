@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Inflorescence Unattainable",
+    "CHS": "未至的花序",
+    "CHT": "未至的花序",
+    "DE": "Unerreichbarer Blütenstand",
+    "ES": "Inflorescencia del Porvenir",
+    "FR": "Inflorescence inachevée",
+    "ID": "Inflorescence Unattainable",
+    "IT": "Inflorescenza irraggiungibile",
+    "JP": "まだ見ぬ花序",
+    "KR": "오지 않은 꽃차례",
+    "PT": "Inflorescência Inatingível",
+    "RU": "Недостижимое цветение",
+    "TH": "Inflorescence Unattainable",
+    "TR": "Erişilmez Gelişim",
+    "VI": "Cụm Hoa Chưa Đến"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by 6% every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
+        "CHS": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害6%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+        "CHT": "滑翔消耗的體力降低15%。進行瞄準射擊時，每0.5秒提升重擊造成的傷害6%，該效果最多疊加6層，並將在不處於瞄準狀態下10秒後移除。",
+        "DE": "#Verringert die beim Gleiten verbrauchte Ausdauer um 15 %. Erhöht den mit heftigen Schlägen verursachten Schaden beim gezielten Schuss alle 0,5 s um 6 %, 6-fach stapelbar. Dieser Effekt wird 10 s, nachdem die Figur nicht mehr im Zielmodus ist, entfernt.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al planear. Cuando se realiza un Disparo Preciso, el daño del Ataque Cargado aumenta en un 6% cada 0.5 s. Este efecto puede acumularse hasta 6 veces y se anula 10 s después de dejar de apuntar.",
+        "FR": "#La consommation d'endurance lors du planage diminue de 15 %. Lors d'un tir visé, les DGT infligés par les attaques chargées augmentent de 6 % toutes les 0,5 s. Cet effet peut être cumulé 6 fois maximum et prend fin 10 s après avoir quitté le mode visée.",
+        "ID": "Mengurangi Stamina Meluncur sebesar 15%. Saat menggunakan Serangan Membidik, DMG Charged Attack meningkat 6% setiap 0,5 detik. Dapat ditumpuk hingga maksimum 6 lapis dan akan dihapus 10 detik setelah tidak berada dalam Status Membidik.",
+        "IT": "#Il consumo di vigore durante la planata diminuisce di un 15%. Durante la mira con l'arco, i DAN inflitti degli attacchi caricati aumentano di un 6% ogni 0,5 s. Quest'effetto è cumulabile fino a 6 volte e termina 10 s dopo aver abbandonato la modalità di mira.",
+        "JP": "滑翔に消費するスタミナ-15%。狙い撃ち時、0.5秒毎に重撃ダメージ+6%。この効果は最大6層まで重ね掛けでき、照準モードでない状態を10秒維持した後に解除される。",
+        "KR": "활강에 소모되는 스태미나가 15% 감소한다. 조준 사격 진행 시, 0.5초마다 강공격으로 주는 피해가 6% 증가한다, 최대 중첩수: 6스택. 해당 효과는 조준 상태에서 벗어나면 10초 후에 사라진다",
+        "PT": "Diminui o consumo de Stamina ao Planar em 15%. Ao usar Disparo com Mira, o Dano causado por Ataques Carregados aumenta em 6% a cada 0.5s. Esse efeito pode acumular até 6 vezes e será removido 10s após sair do Modo de Mira.",
+        "RU": "Уменьшает потребление выносливости во время полёта на 15%. Урон заряженных атак при выполнении прицельных выстрелов увеличивается на 6% каждые 0,5 сек. Этот эффект может складываться до 6 раз и исчезает через 10 сек. после выхода из режима прицеливания.",
+        "TH": "ลดการใช้พลังกายในการร่อนเวหาลง 15% และเมื่อเล็งโจมตี ความเสียหายชาร์จโจมตีจะเพิ่มขึ้น 6% ในทุก 0.5 วินาที เอฟเฟกต์นี้ซ้อนทับกันได้มากสุด 6 ชั้น และจะหายไปหลังออกจากสถานะเล็ง 10 วินาที",
+        "TR": "Uçuş sırasındaki Dayanıklılık Tüketimi %15 azalır. Hedefli Atış kullanılırken her 0,5 saniyede Yüklü Saldırı Hasarı %6 artar. Bu etki 6 kademeye kadar birikebilir ve Nişan Alma Modundan çıktıktan 10sn sonra kaldırılır.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bay. Khi tiến hành ngắm chuẩn, mỗi 0.5s sẽ tăng 6% sát thương Trọng Kích gây ra. Hiệu quả này tối đa cộng dồn 6 tầng và sẽ xóa sau 10s kể từ khi thoát trạng thái ngắm chuẩn."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by 7.5% every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
+        "CHS": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害7.5%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+        "CHT": "滑翔消耗的體力降低15%。進行瞄準射擊時，每0.5秒提升重擊造成的傷害7.5%，該效果最多疊加6層，並將在不處於瞄準狀態下10秒後移除。",
+        "DE": "#Verringert die beim Gleiten verbrauchte Ausdauer um 15 %. Erhöht den mit heftigen Schlägen verursachten Schaden beim gezielten Schuss alle 0,5 s um 7,5 %, 6-fach stapelbar. Dieser Effekt wird 10 s, nachdem die Figur nicht mehr im Zielmodus ist, entfernt.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al planear. Cuando se realiza un Disparo Preciso, el daño del Ataque Cargado aumenta en un 7.5% cada 0.5 s. Este efecto puede acumularse hasta 6 veces y se anula 10 s después de dejar de apuntar.",
+        "FR": "#La consommation d'endurance lors du planage diminue de 15 %. Lors d'un tir visé, les DGT infligés par les attaques chargées augmentent de 7,5 % toutes les 0,5 s. Cet effet peut être cumulé 6 fois maximum et prend fin 10 s après avoir quitté le mode visée.",
+        "ID": "Mengurangi Stamina Meluncur sebesar 15%. Saat menggunakan Serangan Membidik, DMG Charged Attack meningkat 7,5% setiap 0,5 detik. Dapat ditumpuk hingga maksimum 6 lapis dan akan dihapus 10 detik setelah tidak berada dalam Status Membidik.",
+        "IT": "#Il consumo di vigore durante la planata diminuisce di un 15%. Durante la mira con l'arco, i DAN inflitti degli attacchi caricati aumentano di un 7,5% ogni 0,5 s. Quest'effetto è cumulabile fino a 6 volte e termina 10 s dopo aver abbandonato la modalità di mira.",
+        "JP": "滑翔に消費するスタミナ-15%。狙い撃ち時、0.5秒毎に重撃ダメージ+7.5%。この効果は最大6層まで重ね掛けでき、照準モードでない状態を10秒維持した後に解除される。",
+        "KR": "활강에 소모되는 스태미나가 15% 감소한다. 조준 사격 진행 시, 0.5초마다 강공격으로 주는 피해가 7.5% 증가한다, 최대 중첩수: 6스택. 해당 효과는 조준 상태에서 벗어나면 10초 후에 사라진다",
+        "PT": "Diminui o consumo de Stamina ao Planar em 15%. Ao usar Disparo com Mira, o Dano causado por Ataques Carregados aumenta em 7.5% a cada 0.5s. Esse efeito pode acumular até 6 vezes e será removido 10s após sair do Modo de Mira.",
+        "RU": "Уменьшает потребление выносливости во время полёта на 15%. Урон заряженных атак при выполнении прицельных выстрелов увеличивается на 7,5% каждые 0,5 сек. Этот эффект может складываться до 6 раз и исчезает через 10 сек. после выхода из режима прицеливания.",
+        "TH": "ลดการใช้พลังกายในการร่อนเวหาลง 15% และเมื่อเล็งโจมตี ความเสียหายชาร์จโจมตีจะเพิ่มขึ้น 7.5% ในทุก 0.5 วินาที เอฟเฟกต์นี้ซ้อนทับกันได้มากสุด 6 ชั้น และจะหายไปหลังออกจากสถานะเล็ง 10 วินาที",
+        "TR": "Uçuş sırasındaki Dayanıklılık Tüketimi %15 azalır. Hedefli Atış kullanılırken her 0,5 saniyede Yüklü Saldırı Hasarı %7,5 artar. Bu etki 6 kademeye kadar birikebilir ve Nişan Alma Modundan çıktıktan 10sn sonra kaldırılır.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bay. Khi tiến hành ngắm chuẩn, mỗi 0.5s sẽ tăng 7.5% sát thương Trọng Kích gây ra. Hiệu quả này tối đa cộng dồn 6 tầng và sẽ xóa sau 10s kể từ khi thoát trạng thái ngắm chuẩn."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by 9% every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
+        "CHS": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害9%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+        "CHT": "滑翔消耗的體力降低15%。進行瞄準射擊時，每0.5秒提升重擊造成的傷害9%，該效果最多疊加6層，並將在不處於瞄準狀態下10秒後移除。",
+        "DE": "#Verringert die beim Gleiten verbrauchte Ausdauer um 15 %. Erhöht den mit heftigen Schlägen verursachten Schaden beim gezielten Schuss alle 0,5 s um 9 %, 6-fach stapelbar. Dieser Effekt wird 10 s, nachdem die Figur nicht mehr im Zielmodus ist, entfernt.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al planear. Cuando se realiza un Disparo Preciso, el daño del Ataque Cargado aumenta en un 9% cada 0.5 s. Este efecto puede acumularse hasta 6 veces y se anula 10 s después de dejar de apuntar.",
+        "FR": "#La consommation d'endurance lors du planage diminue de 15 %. Lors d'un tir visé, les DGT infligés par les attaques chargées augmentent de 9 % toutes les 0,5 s. Cet effet peut être cumulé 6 fois maximum et prend fin 10 s après avoir quitté le mode visée.",
+        "ID": "Mengurangi Stamina Meluncur sebesar 15%. Saat menggunakan Serangan Membidik, DMG Charged Attack meningkat 9% setiap 0,5 detik. Dapat ditumpuk hingga maksimum 6 lapis dan akan dihapus 10 detik setelah tidak berada dalam Status Membidik.",
+        "IT": "#Il consumo di vigore durante la planata diminuisce di un 15%. Durante la mira con l'arco, i DAN inflitti degli attacchi caricati aumentano di un 9% ogni 0,5 s. Quest'effetto è cumulabile fino a 6 volte e termina 10 s dopo aver abbandonato la modalità di mira.",
+        "JP": "滑翔に消費するスタミナ-15%。狙い撃ち時、0.5秒毎に重撃ダメージ+9%。この効果は最大6層まで重ね掛けでき、照準モードでない状態を10秒維持した後に解除される。",
+        "KR": "활강에 소모되는 스태미나가 15% 감소한다. 조준 사격 진행 시, 0.5초마다 강공격으로 주는 피해가 9% 증가한다, 최대 중첩수: 6스택. 해당 효과는 조준 상태에서 벗어나면 10초 후에 사라진다",
+        "PT": "Diminui o consumo de Stamina ao Planar em 15%. Ao usar Disparo com Mira, o Dano causado por Ataques Carregados aumenta em 9% a cada 0.5s. Esse efeito pode acumular até 6 vezes e será removido 10s após sair do Modo de Mira.",
+        "RU": "Уменьшает потребление выносливости во время полёта на 15%. Урон заряженных атак при выполнении прицельных выстрелов увеличивается на 9% каждые 0,5 сек. Этот эффект может складываться до 6 раз и исчезает через 10 сек. после выхода из режима прицеливания.",
+        "TH": "ลดการใช้พลังกายในการร่อนเวหาลง 15% และเมื่อเล็งโจมตี ความเสียหายชาร์จโจมตีจะเพิ่มขึ้น 9% ในทุก 0.5 วินาที เอฟเฟกต์นี้ซ้อนทับกันได้มากสุด 6 ชั้น และจะหายไปหลังออกจากสถานะเล็ง 10 วินาที",
+        "TR": "Uçuş sırasındaki Dayanıklılık Tüketimi %15 azalır. Hedefli Atış kullanılırken her 0,5 saniyede Yüklü Saldırı Hasarı %9 artar. Bu etki 6 kademeye kadar birikebilir ve Nişan Alma Modundan çıktıktan 10sn sonra kaldırılır.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bay. Khi tiến hành ngắm chuẩn, mỗi 0.5s sẽ tăng 9% sát thương Trọng Kích gây ra. Hiệu quả này tối đa cộng dồn 6 tầng và sẽ xóa sau 10s kể từ khi thoát trạng thái ngắm chuẩn."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by 10.5% every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
+        "CHS": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害10.5%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+        "CHT": "滑翔消耗的體力降低15%。進行瞄準射擊時，每0.5秒提升重擊造成的傷害10.5%，該效果最多疊加6層，並將在不處於瞄準狀態下10秒後移除。",
+        "DE": "#Verringert die beim Gleiten verbrauchte Ausdauer um 15 %. Erhöht den mit heftigen Schlägen verursachten Schaden beim gezielten Schuss alle 0,5 s um 10,5 %, 6-fach stapelbar. Dieser Effekt wird 10 s, nachdem die Figur nicht mehr im Zielmodus ist, entfernt.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al planear. Cuando se realiza un Disparo Preciso, el daño del Ataque Cargado aumenta en un 10.5% cada 0.5 s. Este efecto puede acumularse hasta 6 veces y se anula 10 s después de dejar de apuntar.",
+        "FR": "#La consommation d'endurance lors du planage diminue de 15 %. Lors d'un tir visé, les DGT infligés par les attaques chargées augmentent de 10,5 % toutes les 0,5 s. Cet effet peut être cumulé 6 fois maximum et prend fin 10 s après avoir quitté le mode visée.",
+        "ID": "Mengurangi Stamina Meluncur sebesar 15%. Saat menggunakan Serangan Membidik, DMG Charged Attack meningkat 10,5% setiap 0,5 detik. Dapat ditumpuk hingga maksimum 6 lapis dan akan dihapus 10 detik setelah tidak berada dalam Status Membidik.",
+        "IT": "#Il consumo di vigore durante la planata diminuisce di un 15%. Durante la mira con l'arco, i DAN inflitti degli attacchi caricati aumentano di un 10,5% ogni 0,5 s. Quest'effetto è cumulabile fino a 6 volte e termina 10 s dopo aver abbandonato la modalità di mira.",
+        "JP": "滑翔に消費するスタミナ-15%。狙い撃ち時、0.5秒毎に重撃ダメージ+10.5%。この効果は最大6層まで重ね掛けでき、照準モードでない状態を10秒維持した後に解除される。",
+        "KR": "활강에 소모되는 스태미나가 15% 감소한다. 조준 사격 진행 시, 0.5초마다 강공격으로 주는 피해가 10.5% 증가한다, 최대 중첩수: 6스택. 해당 효과는 조준 상태에서 벗어나면 10초 후에 사라진다",
+        "PT": "Diminui o consumo de Stamina ao Planar em 15%. Ao usar Disparo com Mira, o Dano causado por Ataques Carregados aumenta em 10.5% a cada 0.5s. Esse efeito pode acumular até 6 vezes e será removido 10s após sair do Modo de Mira.",
+        "RU": "Уменьшает потребление выносливости во время полёта на 15%. Урон заряженных атак при выполнении прицельных выстрелов увеличивается на 10,5% каждые 0,5 сек. Этот эффект может складываться до 6 раз и исчезает через 10 сек. после выхода из режима прицеливания.",
+        "TH": "ลดการใช้พลังกายในการร่อนเวหาลง 15% และเมื่อเล็งโจมตี ความเสียหายชาร์จโจมตีจะเพิ่มขึ้น 10.5% ในทุก 0.5 วินาที เอฟเฟกต์นี้ซ้อนทับกันได้มากสุด 6 ชั้น และจะหายไปหลังออกจากสถานะเล็ง 10 วินาที",
+        "TR": "Uçuş sırasındaki Dayanıklılık Tüketimi %15 azalır. Hedefli Atış kullanılırken her 0,5 saniyede Yüklü Saldırı Hasarı %10,5 artar. Bu etki 6 kademeye kadar birikebilir ve Nişan Alma Modundan çıktıktan 10sn sonra kaldırılır.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bay. Khi tiến hành ngắm chuẩn, mỗi 0.5s sẽ tăng 10.5% sát thương Trọng Kích gây ra. Hiệu quả này tối đa cộng dồn 6 tầng và sẽ xóa sau 10s kể từ khi thoát trạng thái ngắm chuẩn."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by 12% every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
+        "CHS": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害12%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+        "CHT": "滑翔消耗的體力降低15%。進行瞄準射擊時，每0.5秒提升重擊造成的傷害12%，該效果最多疊加6層，並將在不處於瞄準狀態下10秒後移除。",
+        "DE": "#Verringert die beim Gleiten verbrauchte Ausdauer um 15 %. Erhöht den mit heftigen Schlägen verursachten Schaden beim gezielten Schuss alle 0,5 s um 12 %, 6-fach stapelbar. Dieser Effekt wird 10 s, nachdem die Figur nicht mehr im Zielmodus ist, entfernt.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al planear. Cuando se realiza un Disparo Preciso, el daño del Ataque Cargado aumenta en un 12% cada 0.5 s. Este efecto puede acumularse hasta 6 veces y se anula 10 s después de dejar de apuntar.",
+        "FR": "#La consommation d'endurance lors du planage diminue de 15 %. Lors d'un tir visé, les DGT infligés par les attaques chargées augmentent de 12 % toutes les 0,5 s. Cet effet peut être cumulé 6 fois maximum et prend fin 10 s après avoir quitté le mode visée.",
+        "ID": "Mengurangi Stamina Meluncur sebesar 15%. Saat menggunakan Serangan Membidik, DMG Charged Attack meningkat 12% setiap 0,5 detik. Dapat ditumpuk hingga maksimum 6 lapis dan akan dihapus 10 detik setelah tidak berada dalam Status Membidik.",
+        "IT": "#Il consumo di vigore durante la planata diminuisce di un 15%. Durante la mira con l'arco, i DAN inflitti degli attacchi caricati aumentano di un 12% ogni 0,5 s. Quest'effetto è cumulabile fino a 6 volte e termina 10 s dopo aver abbandonato la modalità di mira.",
+        "JP": "滑翔に消費するスタミナ-15%。狙い撃ち時、0.5秒毎に重撃ダメージ+12%。この効果は最大6層まで重ね掛けでき、照準モードでない状態を10秒維持した後に解除される。",
+        "KR": "활강에 소모되는 스태미나가 15% 감소한다. 조준 사격 진행 시, 0.5초마다 강공격으로 주는 피해가 12% 증가한다, 최대 중첩수: 6스택. 해당 효과는 조준 상태에서 벗어나면 10초 후에 사라진다",
+        "PT": "Diminui o consumo de Stamina ao Planar em 15%. Ao usar Disparo com Mira, o Dano causado por Ataques Carregados aumenta em 12% a cada 0.5s. Esse efeito pode acumular até 6 vezes e será removido 10s após sair do Modo de Mira.",
+        "RU": "Уменьшает потребление выносливости во время полёта на 15%. Урон заряженных атак при выполнении прицельных выстрелов увеличивается на 12% каждые 0,5 сек. Этот эффект может складываться до 6 раз и исчезает через 10 сек. после выхода из режима прицеливания.",
+        "TH": "ลดการใช้พลังกายในการร่อนเวหาลง 15% และเมื่อเล็งโจมตี ความเสียหายชาร์จโจมตีจะเพิ่มขึ้น 12% ในทุก 0.5 วินาที เอฟเฟกต์นี้ซ้อนทับกันได้มากสุด 6 ชั้น และจะหายไปหลังออกจากสถานะเล็ง 10 วินาที",
+        "TR": "Uçuş sırasındaki Dayanıklılık Tüketimi %15 azalır. Hedefli Atış kullanılırken her 0,5 saniyede Yüklü Saldırı Hasarı %12 artar. Bu etki 6 kademeye kadar birikebilir ve Nişan Alma Modundan çıktıktan 10sn sonra kaldırılır.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bay. Khi tiến hành ngắm chuẩn, mỗi 0.5s sẽ tăng 12% sát thương Trọng Kích gây ra. Hiệu quả này tối đa cộng dồn 6 tầng và sẽ xóa sau 10s kể từ khi thoát trạng thái ngắm chuẩn."
+      }
+    }
+  ]
+}

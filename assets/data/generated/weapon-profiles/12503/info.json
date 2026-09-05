@@ -1,0 +1,52 @@
+{
+  "id": 12503,
+  "name": {
+    "EN": "Song of Broken Pines",
+    "CHS": "松籁响起之时",
+    "CHT": "松籟響起之時",
+    "DE": "Kiefernklang",
+    "ES": "Oda de los Pinos",
+    "FR": "Ode au chant du vent",
+    "ID": "Song of Broken Pines",
+    "IT": "Canzone silvestre",
+    "JP": "松韻の響く頃",
+    "KR": "송뢰가 울릴 무렵",
+    "PT": "Canção dos Pinhos",
+    "RU": "Песнь разбитых сосен",
+    "TH": "Song of Broken Pines",
+    "TR": "Kırık Çamların Şarkısı",
+    "VI": "Tiếng Gió Trong Rừng Thông"
+  },
+  "nameEn": "Song of Broken Pines",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon.",
+    "CHS": "如同翻弄草木的息吹一般轻盈的大剑，如同吹倒树木的飓风一般摧枯拉朽的武器。",
+    "CHT": "如同翻弄草木的息吹一般輕盈的大劍，如同吹倒樹木的颶風一般摧枯拉朽的武器。",
+    "DE": "Ein Großschwert so leicht wie Gras, das vom Wind bewegt wird, und so gewaltig wie ein Orkan, der Bäume entwurzelt.",
+    "ES": "Un mandoble que juguetea con las plantas y los árboles como el soplido de una ligera brisa y, al mismo tiempo, es capaz de derribarlos como un abrumador tornado.",
+    "FR": "Un espadon aussi léger que la brise soufflant sur l'herbe, mais aussi puissant qu'un ouragan.",
+    "ID": "Pedang besar seringan angin yang meniup dedaunan dengan lembut, tapi juga bagaikan angin topan yang ganas dan tanpa ampun bagi mereka yang korup.",
+    "IT": "Uno spadone leggero come l'erba che danza nel vento, ma al contempo spietato come un uragano.",
+    "JP": "草木を撫でる風のように軽い大剣だが、その破壊力は木々を吹き飛ばす竜巻を想起させるほど強大なものである。",
+    "KR": "풀과 나무를 어루만지는 산들바람처럼 가볍지만, 나무를 쓰러뜨리는 폭풍처럼 아주 강력한 무기이다",
+    "PT": "Uma espada grande tão leve quanto o suspiro de grama na brisa, mas tão impiedosa para os corruptos quanto um tufão.",
+    "RU": "Двуручный меч. Лёгкий, словно ласкающий траву ветерок, но готов сокрушающим ураганом обрушиться на зло.",
+    "TH": "ดาบใหญ่เรียวบางที่ดูเหมือนกับว่าจะสามารถพลิกได้ด้วยลมปากเป่า อาวุธที่ตัดและทำลายทุกสิ่งได้ดั่งพายุเฮอริเคนที่โค่นต้นไม้ใหญ่ลงได้ราวกับเศษไม้ที่ผุพัง",
+    "TR": "Yaprakların ve ağaçların nefesi kadar hafif bir kılıç, yine de bir kasırga kadar yıkıcı.",
+    "VI": "Đại kiếm có nhát chém mềm mại như hơi thở của cỏ cây, là vũ khí có sức mạnh như bão tố quật ngã cây cối."
+  },
+  "icon": "generated/weapon-profiles/12503/avatar.webp",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.045,
+  "substat_lvl90": 0.2067,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

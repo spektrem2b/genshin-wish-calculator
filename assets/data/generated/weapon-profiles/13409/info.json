@@ -1,0 +1,52 @@
+{
+  "id": 13409,
+  "name": {
+    "EN": "Dragonspine Spear",
+    "CHS": "龙脊长枪",
+    "CHT": "龍脊長槍",
+    "DE": "Drachengratspeer",
+    "ES": "Lanza de Espinadragón",
+    "FR": "Lance Dosdragon",
+    "ID": "Dragonspine Spear",
+    "IT": "Lancia del Picco del Drago",
+    "JP": "ドラゴンスピア",
+    "KR": "용의 척추",
+    "PT": "Lança da Espinha do Dragão",
+    "RU": "Копьё Драконьего хребта",
+    "TH": "Dragonspine Spear",
+    "TR": "Ejdersırtı Mızrak",
+    "VI": "Thương Long Tích"
+  },
+  "nameEn": "Dragonspine Spear",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A spear created from the fang of a dragon. It is oddly warm to the touch.",
+    "CHS": "利用龙之牙制成的长枪。有着奇异的温暖触感。",
+    "CHT": "利用龍之牙製成的長槍。有著奇異的溫暖觸感。",
+    "DE": "Ein Speer, der aus dem Reißzahn eines Drachen hergestellt wurde. Er fühlt sich seltsam warm an.",
+    "ES": "Una lanza creada a partir del colmillo de un dragón. Sorprendentemente, es cálida al tacto.",
+    "FR": "Une lance fabriquée à partir d'un croc de dragon. Une certaine chaleur en émane.",
+    "ID": "Sebuah tombak yang dibuat dari gigi naga. Anehnya, tombak ini terasa hangat saat disentuh.",
+    "IT": "Una lancia creata con la zanna di un drago. Stranamente calda al tatto.",
+    "JP": "龍の牙で作られた長槍。妙に暖かさを感じる。",
+    "KR": "드래곤의 이빨로 만든 장창. 기이한 따뜻함이 느껴진다",
+    "PT": "Uma lança criada a partir da presa de um dragão. É estranhamente quente ao toque.",
+    "RU": "Копьё из драконьих клыков. От него исходит необычное тепло.",
+    "TH": "หอกที่สร้างจากเขี้ยวของมังกร เมื่อสัมผัสแล้วให้ความรู้สึกที่อบอุ่นอย่างน่าประหลาด",
+    "TR": "Bu mızrak bir ejderin dişinden yapıldı. Etrafına tuhaf bir sıcaklık yayar.",
+    "VI": "Trường thương được chế tạo từ răng rồng. Có một cảm giác ấm áp kỳ lạ."
+  },
+  "icon": "generated/weapon-profiles/13409/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.150133,
+  "substat_lvl90": 0.6897,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

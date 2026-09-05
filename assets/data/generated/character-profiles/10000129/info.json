@@ -1,0 +1,137 @@
+{
+  "id": "10000129",
+  "name": {
+    "EN": "Lohen",
+    "CHS": "洛恩",
+    "CHT": "洛恩",
+    "DE": "Lohen",
+    "ES": "Lohen",
+    "FR": "Lohen",
+    "ID": "Lohen",
+    "IT": "Lohen",
+    "JP": "ローエン",
+    "KR": "로엔",
+    "PT": "Lohen",
+    "RU": "Лоэн",
+    "TH": "Lohen",
+    "TR": "Lohen",
+    "VI": "Lohen"
+  },
+  "nameEn": "Lohen",
+  "element": "Cryo",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 4,
+    "day": 3
+  },
+  "release": "2026-06-09T15:00:00",
+  "icon": "generated/character-profiles/10000129/avatar.webp",
+  "fullWish": "generated/character-profiles/10000129/full_wish.webp",
+  "fullWishObjectPosition": "54.2% 20.8%",
+  "title": {
+    "EN": "Sharpened Arrowhead",
+    "CHS": "恣锐锋镞",
+    "CHT": "恣銳鋒鏃",
+    "DE": "Angespitzte Pfeilspitze",
+    "ES": "El Lancero Punzante",
+    "FR": "Pointe de flèche affûtée",
+    "ID": "Sharpened Arrowhead",
+    "IT": "Punta di freccia affilata",
+    "JP": "鋭鋒の矢",
+    "KR": "서늘한 화살촉",
+    "PT": "Ponta de Flecha Afiada",
+    "RU": "Заточенная стрела",
+    "TH": "ศรคมพยศ",
+    "TR": "Keskin Ok Ucu",
+    "VI": "Mũi Nhọn Sắc Bén"
+  },
+  "description": {
+    "EN": "Vice Captain of the Knights of Favonius Ranged Company, a knight known for his unorthodox approach and fondness for unconventional tactics.",
+    "CHS": "西风骑士团远程小队副队长，行事不拘一格，钟情于非常规战术的骑士。",
+    "CHT": "西風騎士團遠距離小隊副隊長，行事不拘一格，鍾情於非常規戰術的騎士。",
+    "DE": "Stellvertretender Truppenführer der Fernkampftruppe des Ordo Favonius, ein Ritter, der unkonventionell vorgeht und eine Vorliebe für ungewöhnliche Taktiken hat.",
+    "ES": "Subcapitán de la Compañía de Ofensiva a Distancia de los Caballeros de Favonius, un caballero conocido por su enfoque poco ortodoxo y su predilección por las tácticas poco convencionales.",
+    "FR": "Vice-capitaine de l'unité à distance de l'Ordre de Favonius, ce chevalier est connu pour son approche peu orthodoxe et son goût pour les tactiques non conventionnelles.",
+    "ID": "Wakil Kapten Pasukan Jarak Jauh Knights of Favonius, seorang knight yang bertindak tanpa terikat aturan dan menyukai taktik yang tidak biasa.",
+    "IT": "Il vice capitano della compagnia a distanza dei Cavalieri di Favonius, un cavaliere noto per il suo approccio poco ortodosso e la sua predilezione per le tattiche non convenzionali.",
+    "JP": "西風騎士団遠距離小隊副隊長。型破りな行動を取り、常軌を逸した戦術を好む騎士。",
+    "KR": "페보니우스 기사단 원거리 소대 부대장. 규율에 얽매이지 않고, 일반적이지 않은 전술을 좋아하는 기사다",
+    "PT": "Vice-Capitão da Companhia de Longo Alcance dos Cavaleiros de Favonius, um cavaleiro conhecido por sua abordagem pouco ortodoxa e seu gosto por táticas incomuns.",
+    "RU": "Заместитель капитана отряда дальнего боя Ордо Фавониус, рыцарь, действующий нестандартно и предпочитающий необычные тактики.",
+    "TH": "รองหัวหน้าหน่วยระยะไกลของกองอัศวินแห่ง Favonius อัศวินผู้ลงมือโดยไม่ยึดติดกับรูปแบบ และหลงใหลในยุทธวิธีที่ไม่เป็นไปตามแบบแผน",
+    "TR": "Favonius Şövalyeleri Atış Bölüğü Yüzbaşı Vekili. Alışılmadık yaklaşımı ve sıra dışı taktiklere olan düşkünlüğüyle bilinen bir şövalye.",
+    "VI": "Đội phó Tiểu Đội Tầm Xa của Đội Kỵ Sĩ Tây Phong, một kỵ sĩ hành sự không theo khuôn phép, yêu thích các chiến thuật không theo lẽ thường."
+  },
+  "constellationName": {
+    "EN": "Lepus Miles",
+    "CHS": "狡兔座",
+    "CHT": "狡兔座",
+    "DE": "Lepus Miles",
+    "ES": "Lepus Miles",
+    "FR": "Lepus Miles",
+    "ID": "Lepus Miles",
+    "IT": "Lepus Miles",
+    "JP": "騎士兎座",
+    "KR": "교활한 토끼자리",
+    "PT": "Lepus Miles",
+    "RU": "Хитрый Заяц",
+    "TH": "Lepus Miles",
+    "TR": "Kurnaz Tavşan",
+    "VI": "Cung Giảo Thố"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Nick Wolfhard"
+    },
+    {
+      "lang": "CHS",
+      "va": "林婧南"
+    },
+    {
+      "lang": "JP",
+      "va": "天﨑滉平"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Sang-ho"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1000.986,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.8128,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.0266,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

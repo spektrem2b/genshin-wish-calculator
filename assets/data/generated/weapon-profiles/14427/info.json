@@ -1,0 +1,52 @@
+{
+  "id": 14427,
+  "name": {
+    "EN": "Ash-Graven Drinking Horn",
+    "CHS": "苍纹角杯",
+    "CHT": "蒼紋角杯",
+    "DE": "Aschgraues Trinkhorn",
+    "ES": "Cuerno Veteazulado",
+    "FR": "Corne à boire cendrée",
+    "ID": "Ash-Graven Drinking Horn",
+    "IT": "Corno cinereo",
+    "JP": "蒼紋の角杯",
+    "KR": "푸른 문양 뿔잔",
+    "PT": "Cálice de Chifre Cinza Escarlate",
+    "RU": "Пепельный рог",
+    "TH": "Ash-Graven Drinking Horn",
+    "TR": "Kül Oymalı İçki Boynuzu",
+    "VI": "Sừng Rượu Vân Xanh"
+  },
+  "nameEn": "Ash-Graven Drinking Horn",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A ritual vessel passed down amongst the Meztli. They say that this was once a treasure much-valued, yet never used, by the hero \"Giant\" Tupac.",
+    "CHS": "梅兹特利传承的礼器，据说是被称作「巨人」的英杰图帕克珍爱却从未使用过的宝物。",
+    "CHT": "梅茲特利傳承的禮器，據說是被稱作「巨人」的英傑圖帕克珍愛卻從未使用過的寶物。",
+    "DE": "Ein rituelles Gefäß, das von den Meztli geerbt wurde und von dem Helden Tupac, der „Riese“ genannt wurde, als Schatz verehrt, aber nie benutzt worden sein soll.",
+    "ES": "Un objeto ritual transmitido entre los Meztli. Dicen que se trata de un tesoro que fue muy preciado por el héroe Túpac, al cual llamaban “gigante”, pero que nunca llegó a usar.",
+    "FR": "#Un récipient rituel transmis parmi les Meztlis. Ils disent que c'était autrefois un trésor très précieux, mais jamais utilisé, du héros « géant » Tupac.",
+    "ID": "Wadah upacara yang diwariskan oleh Meztli. Konon katanya benda ini dianggap sangat berharga oleh sang pahlawan \"Raksasa\", Tupac, tapi ia tidak pernah menggunakannya.",
+    "IT": "Un recipiente rituale tramandato tra i Meztli. Si dice che anticamente fosse un tesoro estremamente prezioso appartenente all'eroico \"Gigante\" Tupac, il quale tuttavia non sembra averne mai fatto uso.",
+    "JP": "メツトリの伝承を受け継ぐ礼器。「巨人」と呼ばれる英傑トゥパックが大切にしながらも使わなかった宝物と言われている。",
+    "KR": "메즈틀리에서 전승되는 의식용 도구. 「거인」 투팍이 무척 아꼈던 보물이지만, 정작 사용한 적은 없다고 한다",
+    "PT": "Um artefato cerimonial herdado por Meztli, dizem que é um tesouro amado, mas nunca usado pelo herói conhecido como \"Gigante\", Tupac.",
+    "RU": "Ритуальный сосуд, передававшийся из поколения в поколение среди Мецтли. Говорят, его бережно хранил, никогда не используя, герой Тупак Великан.",
+    "TH": "อุปกรณ์ประกอบพิธีที่สืบทอดกันใน Meztli ว่ากันว่า เคยเป็นสมบัติล้ำค่าที่ผู้กล้า \"ยักษ์\" ที่ชื่อว่า Tupac หวงแหนอย่างมาก แต่กลับไม่เคยถูกใช้งานมาก่อน",
+    "TR": "Meztli halkı arasında nesilden nesile aktarılmış bir tören kadehi. Bunun bir zamanlar kahraman \"Dev\" Tupac tarafından çok değer verilen fakat hiç kullanılmayan bir hazine olduğu söylenir.",
+    "VI": "Dụng cụ nghi lễ được lưu truyền trong Meztli. Nghe nói được vị anh hùng Tupac \"Khổng Lồ\" yêu quý nhưng chưa từng sử dụng."
+  },
+  "icon": "generated/weapon-profiles/14427/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

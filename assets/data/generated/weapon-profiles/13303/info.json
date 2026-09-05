@@ -1,0 +1,52 @@
+{
+  "id": 13303,
+  "name": {
+    "EN": "Black Tassel",
+    "CHS": "黑缨枪",
+    "CHT": "黑纓槍",
+    "DE": "Schwarze Quaste",
+    "ES": "Borla Negra",
+    "FR": "Pampille noire",
+    "ID": "Black Tassel",
+    "IT": "Pennacchio nero",
+    "JP": "黒纓槍",
+    "KR": "흑술창",
+    "PT": "Borla Preta",
+    "RU": "Чёрная кисть",
+    "TH": "Black Tassel",
+    "TR": "Siyah Püskül",
+    "VI": "Hắc Anh Thương"
+  },
+  "nameEn": "Black Tassel",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 3,
+  "description": {
+    "EN": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel.",
+    "CHS": "解决了白缨容易弄脏问题的绝世好枪。",
+    "CHT": "解決了白纓容易弄髒問題的絕世好槍。",
+    "DE": "Mit dieser Lanze wurde das Problem gelöst, dass weiße Quasten schnell dreckig werden.",
+    "ES": "El hecho de que sea de color oscuro soluciona el problema que tienen las borlas blancas, las cuales se manchan muy fácilmente.",
+    "FR": "Une arme d'hast puissante, qui offre une solution élégante au problème de salissement des pampilles blanches.",
+    "ID": "Warnanya yang hitam memberikan solusi pada White Tassel yang mudah kotor.",
+    "IT": "Una lancia dallo straordinario potere che, a differenza dei pennacchi bianchi, ha il vantaggio di non sporcarsi facilmente.",
+    "JP": "白紐の汚れやすい問題を解決した絶世の良槍。",
+    "KR": "백술창의 더러워지기 쉬운 문제를 해결한 절세호창",
+    "PT": "Bem, isso resolve o problema das borlas brancas que se mancham facilmente.",
+    "RU": "Простое решение проблемы Белой кисти, которую чересчур легко запачкать.",
+    "TH": "พู่สีดำที่ช่วยแก้ปัญหาของทวนที่มีพู่สีขาวซึ่งเลอะง่ายได้อย่างดี",
+    "TR": "Beyaz püskülün kirlenme sorununa basit ama zarif bir çözüm sunan son derece güçlü bir mızrak.",
+    "VI": "Tuyệt thế hảo thương giải quyết được việc Bạch Anh Thương dễ bị bẩn."
+  },
+  "icon": "generated/weapon-profiles/13303/avatar.webp",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.102133,
+  "substat_lvl90": 0.4692,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

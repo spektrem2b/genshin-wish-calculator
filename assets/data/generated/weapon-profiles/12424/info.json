@@ -1,0 +1,52 @@
+{
+  "id": 12424,
+  "name": {
+    "EN": "Talking Stick",
+    "CHS": "聊聊棒",
+    "CHT": "聊聊棒",
+    "DE": "Lass uns reden",
+    "ES": "Garrote del Diálogo",
+    "FR": "Bâton bavard",
+    "ID": "Talking Stick",
+    "IT": "Bastone parlante",
+    "JP": "話死合い棒",
+    "KR": "대화봉",
+    "PT": "Diálogo",
+    "RU": "Говорящая палица",
+    "TH": "Talking Stick",
+    "TR": "Konuşma Çubuğu",
+    "VI": "Gậy Đàm Phán"
+  },
+  "nameEn": "Talking Stick",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "Most people will find this obsidian-inlaid club quite convincing indeed.",
+    "CHS": "一柄沉重的镶有黑曜石的大棒，有很强的说服力。",
+    "CHT": "一柄沉重並鑲有黑曜石的大棒，有很強的說服力。",
+    "DE": "Eine schwere, mit Obsidian eingefasste Keule. Weiß als Argumentationsverstärker sicher gut zu überzeugen.",
+    "ES": "Una gran maza con incrustaciones de obsidiana y un excelente poder de persuasión.",
+    "FR": "La plupart des gens trouveront cette massue incrustée d'obsidienne assez convaincante.",
+    "ID": "Sebagian besar orang akan menganggap pentungan bertatahkan obsidian ini memang cukup meyakinkan.",
+    "IT": "Questa mazza decorata con ossidiana risulta alquanto persuasiva agli occhi di molti.",
+    "JP": "黒曜石の嵌め込まれた重い棍棒。物凄い説得力を持っている。",
+    "KR": "묵직한 흑요석이 박힌 몽둥이. 설득력이 아주 뛰어나다",
+    "PT": "A maioria das pessoas acha que esse porrete com obsidiana incrustada é bem convincente.",
+    "RU": "Что может быть убедительнее весомых доводов? Только тяжёлая дубина, инкрустированная обсидианом.",
+    "TH": "กระบองหนักอึ้งที่มีหินออบซิเดียนฝังอยู่ มันสามารถนำมาใช้โน้มน้าวได้ดีทีเดียวเชียวล่ะ",
+    "TR": "Çoğu kişiye göre bu obsidiyen işlemeli çubuk gayet ikna edicidir.",
+    "VI": "Một cây gậy lớn có khảm đá đen nặng trịch, có sức thuyết phục khá mạnh mẽ."
+  },
+  "icon": "generated/weapon-profiles/12424/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.04,
+  "substat_lvl90": 0.1838,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

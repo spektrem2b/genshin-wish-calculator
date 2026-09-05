@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Sky-Piercing Fang",
+    "CHS": "穿刺高天的利齿",
+    "CHT": "穿刺高天的利齒",
+    "DE": "Himmel durchbohrender Reißzahn",
+    "ES": "Colmillo perforacielos",
+    "FR": "Croc du Perceur de ciel",
+    "ID": "Sky-Piercing Fang",
+    "IT": "Zanna perforacielo",
+    "JP": "高天を貫く牙",
+    "KR": "높은 하늘을 뚫는 이빨",
+    "PT": "Dente Perfurador do Céu",
+    "RU": "Клык, пронзивший небеса",
+    "TH": "Sky-Piercing Fang",
+    "TR": "Gök Delen Diş",
+    "VI": "Răng Nanh Xuyên Qua Trời Cao"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "CRIT Rate increased by 4%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 20% of ATK. Skypiercing Might lasts for 12s.",
+        "CHS": "暴击率提升4%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成20%攻击力的伤害，持续12秒。",
+        "CHT": "暴擊率提升4%；施放元素爆發時，獲得破空之勢：移動速度提升10%，攻擊速度提升10%，普通攻擊與重擊命中時，額外造成20%攻擊力的傷害，持續12秒。",
+        "DE": "Erhöht die KT um 4 %. Aktiviert bei Anwendung von Spezialfähigkeiten Himmelsbohrer: Erhöht die Bewegungs-GSW um 10 % und die Angriffs-GSW um 10 %, verursacht bei Treffern mit Standardangriffen und heftigen Schlägen zusätzlichen Schaden in Höhe von 20 % ANG, hält 12 s.",
+        "ES": "Aumenta la Prob. CRIT en un 4%. Al lanzar una Habilidad Definitiva, obtienes la fuerza perforacielos, que aumenta la Vel. Movimiento y la Vel. de Ataque en un 10%, y los Ataques Normales y Cargados infligen un daño adicional equivalente al 20% del ATQ. Este efecto dura 12 s.",
+        "FR": "Augmente le taux CRIT de 4 %. Le déchaînement élémentaire confère pendant 12 s l'effet Croc du Perceur de ciel : la VIT de déplacement augmente de 10 %, la VIT d'ATQ augmente de 10 %, et les attaques normales et chargées infligent 20 % de DGT d'ATQ supplémentaires lorsqu'elles touchent.",
+        "ID": "CRIT Rate meningkat sebesar 4%. Saat menggunakan Elemental Burst akan mendapatkan Skypiercing Might dengan efek: Meningkatkan 10% Movement SPD, dan 10% ATK SPD. Lalu saat Normal dan Charged Attack mengenai target, akan mendapatkan tambahan DMG sebesar 20% ATK. Skypiercing Might bertahan selama 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 4%. Il Tripudio elementale conferisce l'effetto Perforacielo che aumenta la VEL di movimento e la VEL d'ATT di un 10%, e i colpi normali e caricati infliggono DAN extra pari a un 20% dell'ATT. L'effetto dura per 12 s.",
+        "JP": "会心率+4%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃または重撃が命中する際に、攻撃力の20%の追加ダメージを与える、継続時間12秒。",
+        "KR": "치명타 확률이 4% 증가한다. 원소폭발 발동 시 파공의 기세를 획득한다: 이동 속도+10%, 공격속도+10%. 일반 공격과 강공격이 명중 시 추가로 공격력 20%의 피해를 준다. 지속 시간: 12초",
+        "PT": "A Taxa Crítica aumenta em 4%. Obtém a Perfuração Celestial ao usar o Supremo: Aumenta a Veloc. Mov. em 10%, aumenta a Velocidade de Ataque em 10%. Quando o Ataque Normal e o Ataque Carregado atingirem, causará um Dano Adicional de 20% por 12s.",
+        "RU": "Увеличивает шанс крит. попадания на 4%. Взрыв стихии пробуждает силу небес, которая увеличивает скорость передвижения и атаки на 10%, а обычные и заряженные атаки при попадании наносят дополнительный урон, равный 20% от силы атаки. Все эффекты длятся 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 4%; เมื่อปลดปล่อยท่าไม้ตายจะได้รับ Skypiercing Might: ความเร็วการเคลื่อนที่เพิ่มขึ้น 10%, ความเร็วการโจมตีเพิ่มขึ้น 10%, โจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มเติมอีก 20% ของพลังโจมตี เป็นเวลา 12 วินาที",
+        "TR": "Kritik Oranı %4 artar. Bir Element Patlaması kullanıldığında Gök Delen Kudret kazanır: Hareket Hızını %10 artırır, Saldırı Hızını %10 artırır, ayrıca Normal ve Yüklü vuruşları %20 Saldırı kadar ek Hasar verir. Gök Delen Kudret süresi 12 saniyedir.",
+        "VI": "Tỷ lệ bạo kích tăng 4%, khi thi triển kỹ năng nộ, nhận khí thế phá hủy trên không: Tốc độ di chuyển tăng 10%, tốc độ tấn công tăng 10%, khi tấn công thường và trọng kích đánh trúng, sẽ tạo thêm sát thương bằng 20% lực tấn công, kéo dài 12s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "CRIT Rate increased by 5%, Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 25% of ATK. Skypiercing Might lasts for 12s.",
+        "CHS": "暴击率提升5%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成25%攻击力的伤害，持续12秒。",
+        "CHT": "暴擊率提升5%；施放元素爆發時，獲得破空之勢：移動速度提升10%，攻擊速度提升10%，普通攻擊與重擊命中時，額外造成25%攻擊力的傷害，持續12秒。",
+        "DE": "Erhöht die KT um 5 %. Aktiviert bei Anwendung von Spezialfähigkeiten Himmelsbohrer: Erhöht die Bewegungs-GSW um 10 % und die Angriffs-GSW um 10 %, verursacht bei Treffern mit Standardangriffen und heftigen Schlägen zusätzlichen Schaden in Höhe von 25 % ANG, hält 12 s.",
+        "ES": "Aumenta la Prob. CRIT en un 5%. Al lanzar una Habilidad Definitiva, obtienes la fuerza perforacielos, que aumenta la Vel. Movimiento y la Vel. de Ataque en un 10%, y los Ataques Normales y Cargados infligen un daño adicional equivalente al 25% del ATQ. Este efecto dura 12 s.",
+        "FR": "Augmente le taux CRIT de 5 %. Le déchaînement élémentaire confère pendant 12 s l'effet Croc du Perceur de ciel : la VIT de déplacement augmente de 10 %, la VIT d'ATQ augmente de 10 %, et les attaques normales et chargées infligent 25 % de DGT d'ATQ supplémentaires lorsqu'elles touchent.",
+        "ID": "CRIT Rate meningkat sebesar 5%. Saat menggunakan Elemental Burst akan mendapatkan Skypiercing Might dengan efek: Meningkatkan 10% Movement SPD, dan 10% ATK SPD. Lalu saat Normal dan Charged Attack mengenai target, akan mendapatkan tambahan DMG sebesar 25% ATK. Skypiercing Might bertahan selama 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 5%. Il Tripudio elementale conferisce l'effetto Perforacielo che aumenta la VEL di movimento e la VEL d'ATT di un 10%, e i colpi normali e caricati infliggono DAN extra pari a un 25% dell'ATT. L'effetto dura per 12 s.",
+        "JP": "会心率+5%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃または重撃が命中する際に、攻撃力の25%の追加ダメージを与える、継続時間12秒。",
+        "KR": "치명타 확률이 5% 증가한다. 원소폭발 발동 시 파공의 기세를 획득한다: 이동 속도+10%, 공격속도+10%. 일반 공격과 강공격이 명중 시 추가로 공격력 25%의 피해를 준다. 지속 시간: 12초",
+        "PT": "A Taxa Crítica aumenta em 5%. Obtém a Perfuração Celestial ao usar o Supremo: Aumenta a Veloc. Mov. em 10%, aumenta a Velocidade de Ataque em 10%. Quando o Ataque Normal e o Ataque Carregado atingirem, causará um Dano Adicional de 25% por 12s.",
+        "RU": "Увеличивает шанс крит. попадания на 5%. Взрыв стихии пробуждает силу небес, которая увеличивает скорость передвижения и атаки на 10%, а обычные и заряженные атаки при попадании наносят дополнительный урон, равный 25% от силы атаки. Все эффекты длятся 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 5%; เมื่อปลดปล่อยท่าไม้ตายจะได้รับ Skypiercing Might: ความเร็วการเคลื่อนที่เพิ่มขึ้น 10%, ความเร็วการโจมตีเพิ่มขึ้น 10%, โจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มเติมอีก 25% ของพลังโจมตี เป็นเวลา 12 วินาที",
+        "TR": "Kritik Oranı %5 artar. Bir Element Patlaması kullanıldığında Gök Delen Kudret kazanır: Hareket Hızını %10 artırır, Saldırı Hızını %10 artırır, ayrıca Normal ve Yüklü vuruşları %25 Saldırı kadar ek Hasar verir. Gök Delen Kudret süresi 12 saniyedir.",
+        "VI": "Tỷ lệ bạo kích tăng 5%, khi thi triển kỹ năng nộ, nhận khí thế phá hủy trên không: tốc độ di chuyển tăng 10%, tốc độ tấn công tăng 10%, khi tấn công thường và trọng kích đánh trúng, sẽ tạo thêm sát thương bằng 25% lực tấn công, kéo dài 12s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "CRIT Rate increased by 6%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 30% of ATK. Skypiercing Might lasts for 12s.",
+        "CHS": "暴击率提升6%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成30%攻击力的伤害，持续12秒。",
+        "CHT": "暴擊率提升6%；施放元素爆發時，獲得破空之勢：移動速度提升10%，攻擊速度提升10%，普通攻擊與重擊命中時，額外造成30%攻擊力的傷害，持續12秒。",
+        "DE": "Erhöht die KT um 6 %. Aktiviert bei Anwendung von Spezialfähigkeiten Himmelsbohrer: Erhöht die Bewegungs-GSW um 10 % und die Angriffs-GSW um 10 %, verursacht bei Treffern mit Standardangriffen und heftigen Schlägen zusätzlichen Schaden in Höhe von 30 % ANG, hält 12 s.",
+        "ES": "Aumenta la Prob. CRIT en un 6%. Al lanzar una Habilidad Definitiva, obtienes la fuerza perforacielos, que aumenta la Vel. Movimiento y la Vel. de Ataque en un 10%, y los Ataques Normales y Cargados infligen un daño adicional equivalente al 30% del ATQ. Este efecto dura 12 s.",
+        "FR": "Augmente le taux CRIT de 6 %. Le déchaînement élémentaire confère pendant 12 s l'effet Croc du Perceur de ciel : la VIT de déplacement augmente de 10 %, la VIT d'ATQ augmente de 10 %, et les attaques normales et chargées infligent 30 % de DGT d'ATQ supplémentaires lorsqu'elles touchent.",
+        "ID": "CRIT Rate meningkat sebesar 6%. Saat menggunakan Elemental Burst akan mendapatkan Skypiercing Might dengan efek: Meningkatkan 10% Movement SPD, dan 10% ATK SPD. Lalu saat Normal dan Charged Attack mengenai target, akan mendapatkan tambahan DMG sebesar 30% ATK. Skypiercing Might bertahan selama 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 6%. Il Tripudio elementale conferisce l'effetto Perforacielo che aumenta la VEL di movimento e la VEL d'ATT di un 10%, e i colpi normali e caricati infliggono DAN extra pari a un 30% dell'ATT. L'effetto dura per 12 s.",
+        "JP": "会心率+6%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃または重撃が命中する際に、攻撃力の30%の追加ダメージを与える、継続時間12秒。",
+        "KR": "치명타 확률이 6% 증가한다. 원소폭발 발동 시 파공의 기세를 획득한다: 이동 속도+10%, 공격속도+10%. 일반 공격과 강공격이 명중 시 추가로 공격력 30%의 피해를 준다. 지속 시간: 12초",
+        "PT": "A Taxa Crítica aumenta em 6%. Obtém a Perfuração Celestial ao usar o Supremo: Aumenta a Veloc. Mov. em 10%, aumenta a Velocidade de Ataque em 10%. Quando o Ataque Normal e o Ataque Carregado atingirem, causará um Dano Adicional de 30% por 12s.",
+        "RU": "Увеличивает шанс крит. попадания на 6%. Взрыв стихии пробуждает силу небес, которая увеличивает скорость передвижения и атаки на 10%, а обычные и заряженные атаки при попадании наносят дополнительный урон, равный 30% от силы атаки. Все эффекты длятся 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 6%; เมื่อปลดปล่อยท่าไม้ตายจะได้รับ Skypiercing Might: ความเร็วการเคลื่อนที่เพิ่มขึ้น 10%, ความเร็วการโจมตีเพิ่มขึ้น 10%, โจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มเติมอีก 30% ของพลังโจมตี เป็นเวลา 12 วินาที",
+        "TR": "Kritik Oranı %6 artar. Bir Element Patlaması kullanıldığında Gök Delen Kudret kazanır: Hareket Hızını %10 artırır, Saldırı Hızını %10 artırır, ayrıca Normal ve Yüklü vuruşları %30 Saldırı kadar ek Hasar verir. Gök Delen Kudret süresi 12 saniyedir.",
+        "VI": "Tỷ lệ bạo kích tăng 6%, khi thi triển kỹ năng nộ, nhận khí thế phá hủy trên không: tốc độ di chuyển tăng 10%, tốc độ tấn công tăng 10%, khi tấn công thường và trọng kích đánh trúng, sẽ tạo thêm sát thương bằng 30% lực tấn công, kéo dài 12s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "CRIT Rate increased by 7%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 35% of ATK. Skypiercing Might lasts for 12s.",
+        "CHS": "暴击率提升7%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成35%攻击力的伤害，持续12秒。",
+        "CHT": "暴擊率提升7%；施放元素爆發時，獲得破空之勢：移動速度提升10%，攻擊速度提升10%，普通攻擊與重擊命中時，額外造成35%攻擊力的傷害，持續12秒。",
+        "DE": "Erhöht die KT um 7 %. Aktiviert bei Anwendung von Spezialfähigkeiten Himmelsbohrer: Erhöht die Bewegungs-GSW um 10 % und die Angriffs-GSW um 10 %, verursacht bei Treffern mit Standardangriffen und heftigen Schlägen zusätzlichen Schaden in Höhe von 35 % ANG, hält 12 s.",
+        "ES": "Aumenta la Prob. CRIT en un 7%. Al lanzar una Habilidad Definitiva, obtienes la fuerza perforacielos, que aumenta la Vel. Movimiento y la Vel. de Ataque en un 10%, y los Ataques Normales y Cargados infligen un daño adicional equivalente al 35% del ATQ. Este efecto dura 12 s.",
+        "FR": "Augmente le taux CRIT de 7 %. Le déchaînement élémentaire confère pendant 12 s l'effet Croc du Perceur de ciel : la VIT de déplacement augmente de 10 %, la VIT d'ATQ augmente de 10 %, et les attaques normales et chargées infligent 35 % de DGT d'ATQ supplémentaires lorsqu'elles touchent.",
+        "ID": "CRIT Rate meningkat sebesar 7%. Saat menggunakan Elemental Burst akan mendapatkan Skypiercing Might dengan efek: Meningkatkan 10% Movement SPD, dan 10% ATK SPD. Lalu saat Normal dan Charged Attack mengenai target, akan mendapatkan tambahan DMG sebesar 35% ATK. Skypiercing Might bertahan selama 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 7%. Il Tripudio elementale conferisce l'effetto Perforacielo che aumenta la VEL di movimento e la VEL d'ATT di un 10%, e i colpi normali e caricati infliggono DAN extra pari a un 35% dell'ATT. L'effetto dura per 12 s.",
+        "JP": "会心率+7%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃または重撃が命中する際に、攻撃力の35%の追加ダメージを与える、継続時間12秒。",
+        "KR": "치명타 확률이 7% 증가한다. 원소폭발 발동 시 파공의 기세를 획득한다: 이동 속도+10%, 공격속도+10%. 일반 공격과 강공격이 명중 시 추가로 공격력 35%의 피해를 준다. 지속 시간: 12초",
+        "PT": "A Taxa Crítica aumenta em 7%. Obtém a Perfuração Celestial ao usar o Supremo: Aumenta a Veloc. Mov. em 10%, aumenta a Velocidade de Ataque em 10%. Quando o Ataque Normal e o Ataque Carregado atingirem, causará um Dano Adicional de 35% por 12s.",
+        "RU": "Увеличивает шанс крит. попадания на 7%. Взрыв стихии пробуждает силу небес, которая увеличивает скорость передвижения и атаки на 10%, а обычные и заряженные атаки при попадании наносят дополнительный урон, равный 35% от силы атаки. Все эффекты длятся 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 7%; เมื่อปลดปล่อยท่าไม้ตายจะได้รับ Skypiercing Might: ความเร็วการเคลื่อนที่เพิ่มขึ้น 10%, ความเร็วการโจมตีเพิ่มขึ้น 10%, โจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มเติมอีก 35% ของพลังโจมตี เป็นเวลา 12 วินาที",
+        "TR": "Kritik Oranı %7 artar. Bir Element Patlaması kullanıldığında Gök Delen Kudret kazanır: Hareket Hızını %10 artırır, Saldırı Hızını %10 artırır, ayrıca Normal ve Yüklü vuruşları %35 Saldırı kadar ek Hasar verir. Gök Delen Kudret süresi 12 saniyedir.",
+        "VI": "Tỷ lệ bạo kích tăng 7%, khi thi triển kỹ năng nộ, nhận khí thế phá hủy trên không: tốc độ di chuyển tăng 10%, tốc độ tấn công tăng 10%, khi tấn công thường và trọng kích đánh trúng, sẽ tạo thêm sát thương bằng 35% lực tấn công, kéo dài 12s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "CRIT Rate increased by 8%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 40% of ATK. Skypiercing Might lasts for 12s.",
+        "CHS": "暴击率提升8%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成40%攻击力的伤害，持续12秒。",
+        "CHT": "暴擊率提升8%；施放元素爆發時，獲得破空之勢：移動速度提升10%，攻擊速度提升10%，普通攻擊與重擊命中時，額外造成40%攻擊力的傷害，持續12秒。",
+        "DE": "Erhöht die KT um 8 %. Aktiviert bei Anwendung von Spezialfähigkeiten Himmelsbohrer: Erhöht die Bewegungs-GSW um 10 % und die Angriffs-GSW um 10 %, verursacht bei Treffern mit Standardangriffen und heftigen Schlägen zusätzlichen Schaden in Höhe von 40 % ANG, hält 12 s.",
+        "ES": "Aumenta la Prob. CRIT en un 8%. Al lanzar una Habilidad Definitiva, obtienes la fuerza perforacielos, que aumenta la Vel. Movimiento y la Vel. de Ataque en un 10%, y los Ataques Normales y Cargados infligen un daño adicional equivalente al 40% del ATQ. Este efecto dura 12 s.",
+        "FR": "Augmente le taux CRIT de 8 %. Le déchaînement élémentaire confère pendant 12 s l'effet Croc du Perceur de ciel : la VIT de déplacement augmente de 10 %, la VIT d'ATQ augmente de 10 %, et les attaques normales et chargées infligent 40 % de DGT d'ATQ supplémentaires lorsqu'elles touchent.",
+        "ID": "CRIT Rate meningkat sebesar 8%. Saat menggunakan Elemental Burst akan mendapatkan Skypiercing Might dengan efek: Meningkatkan 10% Movement SPD, dan 10% ATK SPD. Lalu saat Normal dan Charged Attack mengenai target, akan mendapatkan tambahan DMG sebesar 40% ATK. Skypiercing Might bertahan selama 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 8%. Il Tripudio elementale conferisce l'effetto Perforacielo che aumenta la VEL di movimento e la VEL d'ATT di un 10%, e i colpi normali e caricati infliggono DAN extra pari a un 40% dell'ATT. L'effetto dura per 12 s.",
+        "JP": "会心率+8%。元素爆発を使用すると衝天の勢いを獲得する：移動速度+10%、攻撃速度+10%、通常攻撃または重撃が命中する際に、攻撃力の40%の追加ダメージを与える、継続時間12秒。",
+        "KR": "치명타 확률이 8% 증가한다. 원소폭발 발동 시 파공의 기세를 획득한다: 이동 속도+10%, 공격속도+10%. 일반 공격과 강공격이 명중 시 추가로 공격력 40%의 피해를 준다. 지속 시간: 12초",
+        "PT": "A Taxa Crítica aumenta em 8%. Obtém a Perfuração Celestial ao usar o Supremo: Aumenta a Veloc. Mov. em 10%, aumenta a Velocidade de Ataque em 10%. Quando o Ataque Normal e o Ataque Carregado atingirem, causará um Dano Adicional de 40% por 12s.",
+        "RU": "Увеличивает шанс крит. попадания на 8%. Взрыв стихии пробуждает силу небес, которая увеличивает скорость передвижения и атаки на 10%, а обычные и заряженные атаки при попадании наносят дополнительный урон, равный 40% от силы атаки. Все эффекты длятся 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 8%; เมื่อปลดปล่อยท่าไม้ตายจะได้รับ Skypiercing Might: ความเร็วการเคลื่อนที่เพิ่มขึ้น 10%, ความเร็วการโจมตีเพิ่มขึ้น 10%, โจมตีปกติและชาร์จโจมตีสร้างความเสียหายเพิ่มเติมอีก 40% ของพลังโจมตี เป็นเวลา 12 วินาที",
+        "TR": "Kritik Oranı %8 artar. Bir Element Patlaması kullanıldığında Gök Delen Kudret kazanır: Hareket Hızını %10 artırır, Saldırı Hızını %10 artırır, ayrıca Normal ve Yüklü vuruşları %40 Saldırı kadar ek Hasar verir. Gök Delen Kudret süresi 12 saniyedir.",
+        "VI": "Tỷ lệ bạo kích tăng 8%, khi thi triển kỹ năng nộ, nhận khí thế phá hủy trên không: tốc độ di chuyển tăng 10%, tốc độ tấn công tăng 10%, khi tấn công thường và trọng kích đánh trúng, sẽ tạo thêm sát thương bằng 40% lực tấn công, kéo dài 12s."
+      }
+    }
+  ]
+}

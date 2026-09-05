@@ -1,0 +1,52 @@
+{
+  "id": 12302,
+  "name": {
+    "EN": "Bloodtainted Greatsword",
+    "CHS": "沐浴龙血的剑",
+    "CHT": "沐浴龍血的劍",
+    "DE": "Drachenblutschwert",
+    "ES": "Gran Espada Sangrienta",
+    "FR": "Épée sanglante",
+    "ID": "Bloodtainted Greatsword",
+    "IT": "Spadone insanguinato",
+    "JP": "龍血を浴びた剣",
+    "KR": "드래곤 블러드 소드",
+    "PT": "Espadão Sangrento",
+    "RU": "Меч драконьей крови",
+    "TH": "Bloodtainted Greatsword",
+    "TR": "Kanlı Büyük Kılıç",
+    "VI": "Kiếm Huyết Rồng"
+  },
+  "nameEn": "Bloodtainted Greatsword",
+  "type": "Trọng Kiếm",
+  "rarity": 3,
+  "description": {
+    "EN": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however.",
+    "CHS": "据说是北方英雄浸过龙血的钢铁大剑，有刀枪不入的神力…这种护佑并不会延伸到挥舞它的人身上。",
+    "CHT": "據說是北方英雄浸過龍血的鋼鐵大劍，有刀槍不入的神力…這種護佑並不會延伸到揮舞它的人身上。",
+    "DE": "Der Sage nach wurde dieses stählerne Großschwert von einem Helden aus dem Norden in Drachenblut getränkt, weshalb es unzerstörbar sein soll. Das gilt aber nicht für denjenigen, der es führt.",
+    "ES": "Una espada de acero que se dice que ha sido vestida con sangre de dragón, haciéndola invulnerable al daño. Sin embargo, este efecto no se extiende a su portador.",
+    "FR": "Une épée en acier qui fut trempée dans du sang de dragon, la rendant invulnérable. On ne peut pas forcément en dire autant de la personne qui la manie.",
+    "ID": "Pedang baja yang konon pernah dimandikan dengan darah naga oleh pahlawan dari Utara, membuatnya tidak dapat dihancurkan. Sayangnya efek perlindungan ini nampaknya tidak tersalurkan pada penggunanya.",
+    "IT": "Si dice che questa spada d'acciaio sia stata rivestita del sangue di un drago, diventando invulnerabile ai danni. Peccato che quest'effetto non contempli anche chi la brandisce!",
+    "JP": "噂によると、北方の英雄がこの剣を龍血に浸してから、どんなダメージを受けても壊れなくなった……ただ、この加護は使用者には共有されない。",
+    "KR": "북방의 영웅이 드래곤의 피에 적셨다는 강철대검으로 절대 부서지지 않는 신력이 깃들어있다…. 하지만 이런 가호는 휘두르는 사람에게까지 적용되지 않는다",
+    "PT": "Uma espada de aço que quem dizem ter sido revestida com sangue de dragão, tornando-a invulnerável ao dano. Contudo, este bônus não é estendido ao seu portador.",
+    "RU": "Стальной меч, по легенде запятнанный кровью дракона, что делает его невосприимчивым к повреждениям. Однако это свойство не распространяется на его владельца.",
+    "TH": "ดาบเหล็กกล้าที่ว่ากันว่า ได้ผ่านการชุบเลือดมังกรมา ทำให้มันทนทานต่อความเสียหาย แต่ก็ไม่ได้หมายความว่า ผู้ใช้ของมันจะทนทานเหมือน ตัวดาบเสมอไป",
+    "TR": "Ejder kanıyla kaplandığı için dokunulmaz olduğu söylenen bir çelik kılıç. Ancak bu silahı kuşanan kişi için aynı şey söylenemez.",
+    "VI": "Kiếm của anh hùng phương bắc đã từng được ngâm trong máu rồng, có thần lực đao thương bất nhập... Nhưng sức mạnh này lại không được truyền cho người dùng nó."
+  },
+  "icon": "generated/weapon-profiles/12302/avatar.webp",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 40.8,
+  "substat_lvl90": 187.4352,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000079",
+  "name": {
+    "EN": "Dehya",
+    "CHS": "迪希雅",
+    "CHT": "迪希雅",
+    "DE": "Dehya",
+    "ES": "Dehya",
+    "FR": "Dehya",
+    "ID": "Dehya",
+    "IT": "Dehya",
+    "JP": "ディシア",
+    "KR": "데히야",
+    "PT": "Dehya",
+    "RU": "Дэхья",
+    "TH": "Dehya",
+    "TR": "Dehya",
+    "VI": "Dehya"
+  },
+  "nameEn": "Dehya",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 4,
+    "day": 7
+  },
+  "release": "2023-02-27T22:00:00",
+  "icon": "generated/character-profiles/10000079/avatar.webp",
+  "fullWish": "generated/character-profiles/10000079/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 21.5%",
+  "title": {
+    "EN": "Flame-Mane",
+    "CHS": "炽鬃之狮",
+    "CHT": "熾鬃之獅",
+    "DE": "Feuermähne",
+    "ES": "La Leona Ardiente",
+    "FR": "Crinière ardente",
+    "ID": "Flame-Mane",
+    "IT": "Chiomardente",
+    "JP": "熾鬣の獅子",
+    "KR": "화염 갈기의 사자",
+    "PT": "Leoa Flamejante",
+    "RU": "Пламенная Грива",
+    "TH": "ราชสีห์ขนเพลิง",
+    "TR": "Alevli Yele",
+    "VI": "Sư Tử Lửa"
+  },
+  "description": {
+    "EN": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.",
+    "CHS": "横行须弥沙漠的佣兵组织「镀金旅团」的成员，勇敢而又强大的战士，在「镀金旅团」内部声名赫赫。",
+    "CHT": "橫行須彌沙漠的傭兵組織「鍍金旅團」的成員，勇敢而又強大的戰士，在「鍍金旅團」內部聲名赫赫。",
+    "DE": "Ein Mitglied der „Goldbrigade“, einer Söldnergruppe, die die Wüste Sumerus durchstreift. Sie ist mutig und stark und genießt innerhalb der „Goldbrigade“ einen hervorragenden Ruf.",
+    "ES": "Dehya, miembro de Los Eremitas, una organización de mercenarios del desierto de Sumeru. Es valiente, poderosa y goza de una gran reputación en dicha organización.",
+    "FR": "Une membre des Érémites, une bande de mercenaires qui agit dans le désert de Sumeru. Guerrière courageuse et puissante, elle possède une excellente réputation parmi ses compagnons érémites.",
+    "ID": "Seorang anggota Eremite - sebuah organisasi tentara bayaran di padang pasir Sumeru. Dia berani, kuat, dan sudah sangat terkenal di kalangan Eremite.",
+    "IT": "Un membro degli Eremiti, un'organizzazione mercenaria che vaga per le sabbie di Sumeru. È potente e valorosa, e gode di un'ottima fama tra i suoi compagni.",
+    "JP": "スメールの砂漠を気の赴くままに渡り歩く傭兵集団「エルマイト旅団」のメンバー。屈強で勇敢な戦士。「エルマイト旅団」ではかなり名が通っている。",
+    "KR": "수메르 사막을 누비는 용병 단체 「도금 여단」의 단원. 용감하고 강인한 전사로, 「도금 여단」 내부에서 명성이 자자하다",
+    "PT": "Membro dos \"Eremitas\", uma organização mercenária que vaga pelos desertos de Sumeru. Ela é corajosa, poderosa e tem uma excelente reputação entre os seus colegas Eremitas.",
+    "RU": "Член Пустынников, группы наёмников из Сумеру. Сильная и смелая, она пользуется безупречной репутацией среди Пустынников.",
+    "TH": "สมาชิกทหารรับจ้างของ \"กลุ่ม Eremite\" ที่ออกท่องไปทั่วท้องทะเลทราย Sumeru เธอคือนักรบผู้โด่งดังใน \"กลุ่ม Eremite\" ที่ทั้งกล้าหาญและทรงพลัง",
+    "TR": "Sumeru'nun kumlarında dolaşan ve bir paralı asker örgütü olan Münzevilerin bir üyesi. Yiğit ve güçlü savaşçı yapısıyla, Münzevi arkadaşları arasında büyük bir şöhrete sahiptir.",
+    "VI": "Thành viên thuộc tổ chức lính đánh thuê \"Eremite\" ở sa mạc Sumeru, dũng mãnh thiện chiến, rất có tiếng trong nội bộ \"Eremite\"."
+  },
+  "constellationName": {
+    "EN": "Mantichora",
+    "CHS": "蝎尾鬃狮座",
+    "CHT": "蠍尾鬃獅座",
+    "DE": "Mantichora",
+    "ES": "Mantichora",
+    "FR": "Mantichora",
+    "ID": "Mantichora",
+    "IT": "Mantichora",
+    "JP": "マンティコア座",
+    "KR": "만티코어자리",
+    "PT": "Mantichora",
+    "RU": "Мантикора",
+    "TH": "Mantichora",
+    "TR": "Mantikor",
+    "VI": "Cung Hạt Vỹ Tung Sư"
+  },
+  "native": {
+    "EN": "The Eremites",
+    "CHS": "镀金旅团",
+    "CHT": "鍍金旅團",
+    "DE": "Goldbrigade",
+    "ES": "Los Eremitas",
+    "FR": "Érémites",
+    "ID": "Eremite",
+    "IT": "Gli Eremiti",
+    "JP": "エルマイト旅団",
+    "KR": "도금 여단",
+    "PT": "Eremitas",
+    "RU": "Пустынники",
+    "TH": "กลุ่ม Eremite",
+    "TR": "Münzeviler",
+    "VI": "Eremite"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Amber May"
+    },
+    {
+      "lang": "CHS",
+      "va": "陈雨"
+    },
+    {
+      "lang": "JP",
+      "va": "福原綾香"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Hyeon-sim"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1220.2496,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.6682,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 48.88111,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

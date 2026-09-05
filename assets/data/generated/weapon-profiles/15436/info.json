@@ -1,0 +1,52 @@
+{
+  "id": 15436,
+  "name": {
+    "EN": "Covenant of Frost and Snow",
+    "CHS": "霜雪誓约",
+    "CHT": "霜雪誓約",
+    "DE": "Frostschneeschwur",
+    "ES": "Juramento de la Escarcha",
+    "FR": "Alliance du givre et de la neige",
+    "ID": "Covenant of Frost and Snow",
+    "IT": "Patto del gelo e della neve",
+    "JP": "霜雪の契",
+    "KR": "서리의 서약",
+    "PT": "Pacto do Gelo e Neve",
+    "RU": "Завет льда и снега",
+    "TH": "Covenant of Frost and Snow",
+    "TR": "Kar ve Ayazın Yemini",
+    "VI": "Thệ Ước Sương Tuyết"
+  },
+  "nameEn": "Covenant of Frost and Snow",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A longbow crafted to preserve order. Its cold radiance perfectly emanates the ideals of absolute fairness and justice.",
+    "CHS": "为维系秩序所制的长弓，光泽冰冷，恰如最公允无私的法度。",
+    "CHT": "為維繫秩序所製的長弓，光澤冰冷，恰如最公允無私的法度。",
+    "DE": "Ein Langbogen, geschmiedet, um die Ordnung zu wahren. Sein Glanz ist kalt, genau wie das gerechteste und unparteiischste Gesetz.",
+    "ES": "Un arco largo forjado para cumplir con el propósito de mantener el orden. Su brillo es tan gélido como la más justa e imparcial de las leyes.",
+    "FR": "Un arc long forgé pour préserver l'ordre. Son éclat froid incarne à la perfection les idéaux d'équité et de justice absolues.",
+    "ID": "Busur yang dibuat untuk menjaga ketertiban. Bercahaya dingin bagai hukum yang paling adil dan tanpa keberpihakan.",
+    "IT": "Un arco lungo creato per preservare l'ordine. Il suo freddo bagliore emana perfettamente gli ideali di assoluta equità e giustizia.",
+    "JP": "秩序を保つべく作られた弓。氷のように冷たいその光は、まさしく公正無私な法のようである。",
+    "KR": "질서를 수호하는 장궁. 차가운 광택은 공정함을 상징한다",
+    "PT": "Um arco longo feito para preservar a ordem. Seu brilho frio emana perfeitamente o ideal da justiça e igualdade absolutas.",
+    "RU": "Длинный лук, созданный для защиты порядка. Его холодное сияние воплощает идеалы абсолютной справедливости и правосудия.",
+    "TH": "ธนูยาวที่สร้างขึ้นเพื่อรักษาความสงบเรียบร้อย วาววับและเย็นเยียบดุจน้ำแข็ง ราวกับกฎเกณฑ์ที่เที่ยงธรรมไร้อคติส่วนตนอย่างที่สุด",
+    "TR": "Düzeni korumak için üretilmiş bir uzun yay. Soğuk ışıltısı, mutlak eşitlik ve adalet ideallerini kusursuz biçimde yansıtıyor.",
+    "VI": "Cây cung dài được chế tác để duy trì trật tự, tỏa ra ánh sáng sắc lạnh như băng, tựa như luật pháp chí công vô tư nhất."
+  },
+  "icon": "generated/weapon-profiles/15436/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_DEFENSE_PERCENT",
+  "substat_lvl1": 0.1126,
+  "substat_lvl90": 0.5173,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

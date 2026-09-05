@@ -1,0 +1,137 @@
+{
+  "id": "10000078",
+  "name": {
+    "EN": "Alhaitham",
+    "CHS": "艾尔海森",
+    "CHT": "艾爾海森",
+    "DE": "Alhaitham",
+    "ES": "Alhacén",
+    "FR": "Alhaitham",
+    "ID": "Alhaitham",
+    "IT": "Alhaitham",
+    "JP": "アルハイゼン",
+    "KR": "알하이탐",
+    "PT": "Alhaitham",
+    "RU": "Аль-Хайтам",
+    "TH": "Alhaitham",
+    "TR": "Alhaitham",
+    "VI": "Alhaitham"
+  },
+  "nameEn": "Alhaitham",
+  "element": "Dendro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 2,
+    "day": 11
+  },
+  "release": "2023-01-16T22:00:00",
+  "icon": "generated/character-profiles/10000078/avatar.webp",
+  "fullWish": "generated/character-profiles/10000078/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Admonishing Instruction",
+    "CHS": "诲韬诤言",
+    "CHT": "誨韜諍言",
+    "DE": "Vertreter mahnender Worte",
+    "ES": "El Instructor Severo",
+    "FR": "Instruction d'admonestation",
+    "ID": "Admonishing Instruction",
+    "IT": "Insegnamento austero",
+    "JP": "権謀教戒",
+    "KR": "충고와 직언",
+    "PT": "Reprimenda Instrutiva",
+    "RU": "Голос разума",
+    "TH": "คำวิจารณ์ซ่อนคม",
+    "TR": "Uyarı Talimatı",
+    "VI": "Lời Khuyên Tận Tình"
+  },
+  "description": {
+    "EN": "The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.",
+    "CHS": "须弥教令院现任书记官，有过人的智慧与才能。生活得自由自在，一般人基本找不到他。",
+    "CHT": "須彌教令院現任書記官，有過人的智慧與才能。生活得自由自在，普通人很難找到他。",
+    "DE": "Der aktuelle Archivar der Sumeru-Akademie, der über eine außergewöhnliche Intelligenz und ein herausragendes Talent verfügt, hat einen freien Geist und führt ein freies Leben. Deshalb ist er normalerweise nicht auffindbar.",
+    "ES": "El actual escriba de la Academia de Sumeru, un hombre de gran inteligencia y talento. Vive su vida libremente y es prácticamente imposible de encontrar.",
+    "FR": "L'actuel scribe de l'Académie de Sumeru, doté d'une intelligence et d'un talent extraordinaires. Son goût pour une vie libre de contraintes est tel qu'il est difficile pour la plupart des gens de savoir où le trouver.",
+    "ID": "Panitera Akademiya Sumeru saat ini, memiliki kecerdasan dan bakat yang luar biasa. Dia seseorang yang mencintai kebebasan, dan tidak bisa ditemukan kecuali bila dia sendiri ingin ditemukan.",
+    "IT": "L'attuale scriba dell'Akademiya di Sumeru, dotato d'intelligenza e talento fuori dalla norma. Vive libero... dagli occhi inquisitori della gente comune, perlomeno.",
+    "JP": "スメール教令院の現書記官。並外れた知恵と才能の持ち主。悠々自適の生活を送っており、人に行方を知られることは滅多にない。",
+    "KR": "수메르 아카데미아의 현임 서기관. 비범한 지혜와 재능을 가지고 있다. 자유롭게 살고 있으며, 일반인은 좀처럼 그를 볼 수 없다",
+    "PT": "O atual Escriba da Academia de Sumeru, um homem de grande inteligência e talento. Vive sua vida livre e despreocupado, sendo uma pessoa muito difícil de se encontrar.",
+    "RU": "Нынешний секретарь Академии Сумеру, наделённый выдающимся умом и способностями. Свободолюбивый человек, которого не найти, если он сам того не пожелает.",
+    "TH": "เสมียนคนปัจจุบันของสถาบัน Sumeru มีสติปัญญา และพรสวรรค์ที่เหนือคนธรรมดา เขาใช้ชีวิตอย่างอิสระจนคนส่วนใหญ่แทบจะหาเขาไม่เจอ",
+    "TR": "Sumeru Akademisinin şu anki katibi. Olağanüstü zekası ve yetenekleri olan, özgürlüğüne düşkün bir adam. Sıradan insanların meraklı gözlerinden uzakta, başına buyruk bir şekilde yaşar.",
+    "VI": "Quan Thư Ký đương nhiệm của Giáo Viện Sumeru, có tài năng và trí tuệ hơn người. Cuộc sống tự do tự tại, người thường cơ bản là sẽ không thể tìm được anh ấy."
+  },
+  "constellationName": {
+    "EN": "Vultur Volans",
+    "CHS": "天隼座",
+    "CHT": "天隼座",
+    "DE": "Vultur Volans",
+    "ES": "Vultur Volans",
+    "FR": "Vultur Volans",
+    "ID": "Vultur Volans",
+    "IT": "Vultur Volans",
+    "JP": "隼座",
+    "KR": "매자리",
+    "PT": "Vultur Volans",
+    "RU": "Сокол",
+    "TH": "Vultur Volans",
+    "TR": "Kartal",
+    "VI": "Cung Thiên Chuẩn"
+  },
+  "native": {
+    "EN": "Sumeru Akademiya",
+    "CHS": "须弥教令院",
+    "CHT": "須彌教令院",
+    "DE": "Sumeru-Akademie",
+    "ES": "Academia de Sumeru",
+    "FR": "Académie de Sumeru",
+    "ID": "Sumeru Akademiya",
+    "IT": "Akademiya di Sumeru",
+    "JP": "スメール教令院",
+    "KR": "수메르 아카데미아",
+    "PT": "Academia de Sumeru",
+    "RU": "Академия Сумеру",
+    "TH": "สถาบัน Sumeru",
+    "TR": "Sumeru Akademisi",
+    "VI": "Giáo Viện Sumeru"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Nazeeh Tarsha"
+    },
+    {
+      "lang": "CHS",
+      "va": "杨超然"
+    },
+    {
+      "lang": "JP",
+      "va": "梅原裕一郎"
+    },
+    {
+      "lang": "KR",
+      "va": "Jun Seung-hwa"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_GRASS_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.1188,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 24.3922,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 60.84711,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

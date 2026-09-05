@@ -1,0 +1,137 @@
+{
+  "id": "10000077",
+  "name": {
+    "EN": "Yaoyao",
+    "CHS": "瑶瑶",
+    "CHT": "瑤瑤",
+    "DE": "Yaoyao",
+    "ES": "Yaoyao",
+    "FR": "Yaoyao",
+    "ID": "Yaoyao",
+    "IT": "Yaoyao",
+    "JP": "ヨォーヨ",
+    "KR": "요요",
+    "PT": "Yaoyao",
+    "RU": "Яо Яо",
+    "TH": "Yaoyao",
+    "TR": "Yaoyao",
+    "VI": "Yaoyao"
+  },
+  "nameEn": "Yaoyao",
+  "element": "Dendro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 3,
+    "day": 6
+  },
+  "release": "2023-01-16T22:00:00",
+  "icon": "generated/character-profiles/10000077/avatar.webp",
+  "fullWish": "generated/character-profiles/10000077/full_wish.webp",
+  "fullWishObjectPosition": "52.4% 67.5%",
+  "title": {
+    "EN": "Burgeoning Grace",
+    "CHS": "仙蕊玲珑",
+    "CHT": "仙蕊玲瓏",
+    "DE": "Knospe der Adepten",
+    "ES": "La Flor Grácil",
+    "FR": "Grâce fleurissante",
+    "ID": "Burgeoning Grace",
+    "IT": "Grazia germogliante",
+    "JP": "仙蕊玲瓏",
+    "KR": "영롱한 선인의 꽃망울",
+    "PT": "Graça Florescente",
+    "RU": "Бутон изящества",
+    "TH": "เกสรน้อยเจ้าปัญญา",
+    "TR": "Zarafet Filizleri",
+    "VI": "Nhụy Hoa Hoạt Bát"
+  },
+  "description": {
+    "EN": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\"",
+    "CHS": "歌尘浪市真君膝下最年幼的弟子，温柔体贴的「小大人」。",
+    "CHT": "歌塵浪市真君膝下最年幼的弟子，溫柔體貼的「小大人」。",
+    "DE": "Die jüngste Schülerin der Fürstin des Singens und des Streunens. Eine sanfte und freundliche „junge Erwachsene“.",
+    "ES": "La discípula más joven de Caminante Errante. Es una “pequeña adulta” de lo más dulce y considerada.",
+    "FR": "La plus jeune disciple de Flâne-Sentier, une « petite adulte » douce et attentionnée.",
+    "ID": "Murid Streetward Rambler yang paling muda. Usianya masih kecil tapi sudah seperti orang dewasa, pribadinya lemah lembut dan penuh perhatian.",
+    "IT": "La più giovane discepola di Raminga dei sentieri. Una \"piccola adulta\" gentile e premurosa.",
+    "JP": "歌塵浪市真君のもっとも幼い弟子。優しくて思いやりのある「おませさん」。",
+    "KR": "가진낭시진군의 가장 어린 제자. 따뜻하고 세심한 「애어른」이다",
+    "PT": "A discípula mais jovem da Adeptus Corista. Uma \"pequena adulta\" carinhosa e gentil.",
+    "RU": "Младшая ученица Владыки Песен и Скитаний, добрый и заботливый «маленький взрослый».",
+    "TH": "ศิษย์ที่อายุน้อยที่สุดที่อยู่ภายใต้การดูแลของจ้าวขับขานล่องนครา เธอคือ \"ผู้ใหญ่ตัวน้อย\" ที่อ่อนโยนและใจอารี",
+    "TR": "Sokak Gezgini'nin en genç öğrencisi. Nazik ve sevimli bir \"küçük yetişkin\".",
+    "VI": "Đệ tử nhỏ tuổi nhất của Ca Trần Lãng Thị Chân Quân, một \"người lớn\" dịu dàng ân cần trong thân xác trẻ nhỏ."
+  },
+  "constellationName": {
+    "EN": "Osmanthus",
+    "CHS": "木樨座",
+    "CHT": "木樨座",
+    "DE": "Osmanthus",
+    "ES": "Osmanthus",
+    "FR": "Osmanthus",
+    "ID": "Osmanthus",
+    "IT": "Osmanthus",
+    "JP": "木犀座",
+    "KR": "계화자리",
+    "PT": "Osmanthus",
+    "RU": "Османтус",
+    "TH": "Osmanthus",
+    "TR": "Osmantus",
+    "VI": "Cung Mộc Tê"
+  },
+  "native": {
+    "EN": "Streetward Rambler's Abode",
+    "CHS": "歌尘浪市真君洞天",
+    "CHT": "歌塵浪市真君洞天",
+    "DE": "Behausung der Fürstin des Singens und des Streunens",
+    "ES": "Morada de Caminante Errante",
+    "FR": "Royaume de Flâne-Sentier",
+    "ID": "Streetward Rambler's Abode",
+    "IT": "Dimora di Raminga dei sentieri",
+    "JP": "歌塵浪市真君洞天",
+    "KR": "가진낭시진군의 선계",
+    "PT": "Paraíso Mágico da Adeptus Corista",
+    "RU": "Обитель Владыки Песен и Скитаний",
+    "TH": "ที่พำนักของจ้าวขับขานล่องนครา",
+    "TR": "Sokak Gezgini'nin Evi",
+    "VI": "Động Tiên Ca Trần Lãng Thị Chân Quân"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kelsey Jaffer"
+    },
+    {
+      "lang": "CHS",
+      "va": "刘颐诺"
+    },
+    {
+      "lang": "JP",
+      "va": "門脇舞以"
+    },
+    {
+      "lang": "KR",
+      "va": "Yu Hye-ji"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1030.3239,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.808,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.9475,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

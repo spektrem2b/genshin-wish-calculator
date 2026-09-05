@@ -1,0 +1,52 @@
+{
+  "id": 13509,
+  "name": {
+    "EN": "Engulfing Lightning",
+    "CHS": "薙草之稻光",
+    "CHT": "薙草之稻光",
+    "DE": "Grasschnittstrahl",
+    "ES": "Luz del Segador",
+    "FR": "Lumière du faucheur",
+    "ID": "Engulfing Lightning",
+    "IT": "Fulmine fagocitante",
+    "JP": "草薙の稲光",
+    "KR": "예초의 번개",
+    "PT": "Luz do Cortador de Grama",
+    "RU": "Сияющая жатва",
+    "TH": "Engulfing Lightning",
+    "TR": "Hapseden Yıldırım",
+    "VI": "Đoạn Thảo Trường Đao"
+  },
+  "nameEn": "Engulfing Lightning",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down...",
+    "CHS": "用于「斩草」的薙刀。对向此物之军势，也会如苇草般倒下吧…",
+    "CHT": "用於「斬草」的薙刀。對向此物之軍勢，也會如葦草般倒下吧…",
+    "DE": "Ein Naginata, das zum „Grasschneiden“ verwendet wird. Jede Armee, die vor dieser Waffe steht, wird wahrscheinlich ebenfalls niedergemäht ...",
+    "ES": "Una naginata que se usa para cortar hierba. Cualquier ejército que se enfrente a esta arma también se verá arrancado del suelo.",
+    "FR": "#Une naginata utilisée pour « faucher les mauvaises herbes ». Tout soldat se tenant devant sa lame sera probablement également taillé d'un peu trop près...",
+    "ID": "Naginata yang digunakan untuk \"memotong rumput\". Pasukan yang berani berdiri di hadapan senjata ini pasti akan tertebas seperti rumput liar...",
+    "IT": "Una naginata usata per tagliare l'erba. Chiunque si trovi lungo il suo passaggio, verrà probabilmente ridotto a brandelli.",
+    "JP": "「草斬り」に使われる薙刀。この武器の前に立ちはだかる軍隊は、草のように刈られるだろう…",
+    "KR": "「절초」에 사용되는 치도. 이에 대항하려는 적군 역시 갈대처럼 쓰러질 것이다…",
+    "PT": "Uma naginata usada para \"cortar grama\". Qualquer exército que esteja diante desta arma provavelmente será igualmente cortado...",
+    "RU": "Нагината для лёгкого «срезания травы». С такой же лёгкостью соберёт свою жатву с вражеской армии.",
+    "TH": "ง้าวนางินาตะที่ใช้ในการ \"ตัดหญ้า\" กองทัพที่เผชิญหน้ากับสิ่งนี้ ก็คงจะล้มลงราวกับต้นหญ้าเหล่านั้นล่ะนะ...",
+    "TR": "Yabani otları biçmek için kullanılan bir naginata. Karşısında duran orduların da kaderi kaçınılmaz bir şekilde yabani otlara benzer.",
+    "VI": "Trảm thảo trường đao, kẻ đối mặt với thanh đao này cũng sẽ như ngọn cỏ ngã xuống."
+  },
+  "icon": "generated/weapon-profiles/13509/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

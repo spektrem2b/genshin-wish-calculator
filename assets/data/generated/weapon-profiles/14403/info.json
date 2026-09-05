@@ -1,0 +1,52 @@
+{
+  "id": 14403,
+  "name": {
+    "EN": "Sacrificial Fragments",
+    "CHS": "祭礼残章",
+    "CHT": "祭禮殘章",
+    "DE": "Opferrituale",
+    "ES": "Memorias de Sacrificios",
+    "FR": "Mémoires de rituels",
+    "ID": "Sacrificial Fragments",
+    "IT": "Frammenti sacrificali",
+    "JP": "祭礼の断片",
+    "KR": "제례의 악장",
+    "PT": "Memórias de Sacrifício",
+    "RU": "Церемониальные мемуары",
+    "TH": "Sacrificial Fragments",
+    "TR": "Kurban Kanunları",
+    "VI": "Mảnh Chương Tế Lễ"
+  },
+  "nameEn": "Sacrificial Fragments",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time.",
+    "CHS": "经历漫长岁月的剧本，记载着的颂词和剧本已经无法辨认。被下了受时间之风侵蚀毁坏的诅咒。",
+    "CHT": "經歷漫長歲月的劇本，所記載的頌詞和劇本已經無法辨認。被下了受時間之風侵蝕毀壞的詛咒。",
+    "DE": "An den Texten und Skripten in diesem Buch nagt deutlich der Zahn der Zeit. Sie sind kaum noch erkennbar und erliegen dem Fluch von Zeit und Wind.",
+    "ES": "Un guion desgastado, con textos que ya no son identificables. Un objeto maldito erosionado por los vientos del tiempo.",
+    "FR": "Un manuscrit aussi endommagé qu'illisible, objet maudit par les sables du temps.",
+    "ID": "Naskah yang sudah tua dan lapuk, tulisannya tidak lagi dapat dibaca. Benda terkutuk yang telah terkikis oleh angin waktu.",
+    "IT": "Un libro eroso dal tempo, il cui testo è divenuto illeggibile. Un oggetto maledetto corrotto dai venti del tempo.",
+    "JP": "長い年月を経た台本。書かれた台詞はもう読めない。時の風により侵食される呪いにかかっている。",
+    "KR": "오랜 역사를 지닌 대본. 기재된 찬송가와 극본은 더 이상 식별이 불가능하다. 시간의 바람에 침식되어 파괴된 저주를 받았다",
+    "PT": "Um guia desgastado, cujo texto não é mais legível. Um item amaldiçoado erodido pelos ventos do tempo.",
+    "RU": "Ветхий том, текст которого уже, увы, не прочитать. Проклятая вещь, изъеденная ветрами времени.",
+    "TH": "หนังสือสคริปต์ที่มีอายุเก่าแก่ ซึ่งไม่สามารถระบุข้อความต่าง ๆ และบทสคริปต์ข้างในได้อีกต่อไป ถูกสาปโดยการกัดเซาะของสายลมแห่งกาลเวลา",
+    "TR": "Okunamayacak kadar hasar görmüş bir el yazması. Zamanın rüzgarları tarafından lanetlenmiş bir eşya.",
+    "VI": "Cuốn kịch bản có thời gian lịch sử lâu dài, ghi lại những lời chúc phúc không còn nhận ra được nữa. Bị nguyền rủa, ăn mòn bởi gió thời gian."
+  },
+  "icon": "generated/weapon-profiles/14403/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 48.0,
+  "substat_lvl90": 220.512,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

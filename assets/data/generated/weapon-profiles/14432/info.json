@@ -1,0 +1,52 @@
+{
+  "id": 14432,
+  "name": {
+    "EN": "Etherlight Spindlelute",
+    "CHS": "天光的纺琴",
+    "CHT": "天光的紡琴",
+    "DE": "Laute des Himmelslichts",
+    "ES": "Laúd de la Luz Celestial",
+    "FR": "Lyre du tisse-lumière",
+    "ID": "Etherlight Spindlelute",
+    "IT": "Liutofuso lucetereo",
+    "JP": "天光のリュート",
+    "KR": "금빛 류트",
+    "PT": "Lira do Tecedor da Luz",
+    "RU": "Лютня ткача света",
+    "TH": "Etherlight Spindlelute",
+    "TR": "Uhrevi Işığın Lavtası",
+    "VI": "Đàn Thiên Quang"
+  },
+  "nameEn": "Etherlight Spindlelute",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A lute whose golden strings are as radiant as sunlight. It appears to be a relic from the Seelie of old.",
+    "CHS": "如天光般的金色弦丝编制而成的鲁特琴，似乎是古时仙灵的遗物。",
+    "CHT": "如天光般的金色弦絲編製而成的魯特琴，似乎是古時仙靈的遺物。",
+    "DE": "Ein Saiteninstrument, das aus goldenen Saiten gefertigt ist, die im Tageslicht glänzen. Es scheint ein Relikt aus der Zeit der alten Seelien zu sein.",
+    "ES": "Un laúd hecho con cuerdas doradas como la luz celestial. Parece ser una antigua reliquia de los Seelies.",
+    "FR": "Une lyre dont les cordes dorées brillent comme la lumière du soleil. Elle semble être une relique des Fées d'autrefois.",
+    "ID": "Alat musik petik yang ditenun dengan senar emas seterang cahaya mentari, sepertinya merupakan peninggalan Seelie dari zaman kuno.",
+    "IT": "Un liuto le cui corde dorate brillano come la luce del sole. Sembra essere una reliquia degli antichi Seelie.",
+    "JP": "天空の光のような金色の弦を持つリュート。古の仙霊が残した遺物のようだ。",
+    "KR": "하늘처럼 찬란한 금빛 현으로 만든 류트. 고대 선령의 유물인 듯하다",
+    "PT": "Um alaúde de cordas douradas e radiantes como o sol. Parece ser uma relíquia antiga dos Seelie.",
+    "RU": "Лютня с золотыми, подобными лучам солнца струнами. Похоже, это реликвия древней феи.",
+    "TH": "ลูตที่ถักทอด้วยสายสีทอง อันสว่างไสว ราวกับแสงจากฟากฟ้า ดูเหมือนจะเป็นสิ่งตกทอดจาก Seelie ในสมัยโบราณ",
+    "TR": "Güneş ışınları kadar parlak, altın rengi telleri olan bir lavta. Geçmişteki Perilerden kalan bir yadigar olduğu söyleniyor.",
+    "VI": "Cây đàn được làm bằng sợi dây vàng như ánh mặt trời, hình như là di vật của tiên linh thời cổ đại."
+  },
+  "icon": "generated/weapon-profiles/14432/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

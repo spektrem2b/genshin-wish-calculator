@@ -1,0 +1,52 @@
+{
+  "id": 12426,
+  "name": {
+    "EN": "Ultimate Overlord's Mega Magic Sword",
+    "CHS": "「究极霸王超级魔剑」",
+    "CHT": "「究極霸王超級魔劍」",
+    "DE": "„Megamagisches Schwert des ultimativen Oberherrn“",
+    "ES": "Superespada Mágica Suprema",
+    "FR": "« Méga épée magique du suzerain ultime »",
+    "ID": "Ultimate Overlord's Mega Magic Sword",
+    "IT": "Spada magica del Super Signore Supremo",
+    "JP": "「スーパーアルティメット覇王魔剣」",
+    "KR": "「슈퍼 울트라 패왕 마검」",
+    "PT": "Mega Ultra Espada Mágica do Soberano",
+    "RU": "«Магический супермеч высшего владыки»",
+    "TH": "Ultimate Overlord's Mega Magic Sword",
+    "TR": "Yüce Lordun Devasa Büyü Kılıcı",
+    "VI": "Bá Vương Tối Thượng Siêu Cấp Ma Kiếm"
+  },
+  "nameEn": "Ultimate Overlord's Mega Magic Sword",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A magical sword that can only be wielded by the ultimate overlord who rules the seas. As it has been made with special water-resistant materials, it will not get ruined by water damage even after being immersed. Why, one might even call it invincible!",
+    "CHS": "统治海原的究极霸王才能使用的超级魔剑。因为使用了特殊的防水材料，就算浸在水中也不会泡坏，几乎能称得上是无敌！",
+    "CHT": "統治海原的究極霸王才能使用的超級魔劍。因為使用了特殊的防水材料，就算浸在水中也不會被泡壞，幾乎可以稱得上是無敵！",
+    "DE": "Ein magisches Superschwert, das nur vom ultimativen Oberherrn des Ozeans benutzt werden kann. Aufgrund des speziellen wasserdichten Materials, das verwendet wird, wird es nicht beschädigt, selbst wenn es in Wasser getaucht wird, sodass es regelrecht als unschlagbar bezeichnet werden kann!",
+    "ES": "Una superespada mágica que solo puede blandir aquel que sea capaz de gobernar los mares. Los especiales materiales impermeables de los que está hecha le permiten no deteriorarse aunque se moje, ¡y por eso es una espada suprema!",
+    "FR": "Une épée magique qui ne peut être maniée que par le suzerain ultime qui règne sur les mers. Comme elle a été fabriquée avec des matériaux spéciaux résistants à l'eau, elle ne sera pas trempée même si elle est immergée dans l'eau. On pourrait même dire qu'elle est invincible !",
+    "ID": "Pedang ajaib yang hanya bisa digunakan oleh penguasa tertinggi di laut. Karena menggunakan bahan tahan air khusus, pedang ini tidak akan rusak meskipun terendam di dalam air ... Pedang ini hampir bisa dianggap tak terkalahkan!",
+    "IT": "Una spada magica che può essere brandita solo dal Signore Supremo di tutti i mari. Essendo forgiata con materiali impermeabili, non si rovina a contatto con l'acqua nemmeno se viene immersa. La si potrebbe quasi definire un'arma invincibile!",
+    "JP": "海原を統治するアルティメット覇王にしか扱えないスーパー魔剣。特殊な防水素材を使っているため、水に濡れても壊れない。ほぼ無敵と言える！",
+    "KR": "해저 평원을 통치하는 슈퍼 울트라 패왕만이 사용할 수 있는 마검. 특수한 방수 재료를 사용해서 물에 젖어도 망가지지 않는, 무적에 가까운 검이다!",
+    "PT": "Uma espada mágica que só pode ser empunhada por quem comandar os mares. Como foi feita com materiais especiais à prova d'água, não ficará encharcada mesmo que seja mergulhada na água. Pode-se dizer que ela é invencível!",
+    "RU": "Магический супермеч, который может использовать только высший владыка, покоривший моря и океаны. Он сделан из особого водонепроницаемого материала, потому его можно использовать даже под водой. Выходит, он неуязвимый? Можно сказать и так!",
+    "TH": "ดาบวิเศษที่จ้าวผู้ปกครองมหาสมุทรใช้งานได้แต่เพียงผู้เดียว เนื่องจากมันทำจากวัสดุกันน้ำชนิดพิเศษ ต่อให้แช่อยู่ในน้ำก็จะไม่ผุพัง แทบจะเรียกได้ว่ามันเป็นอมตะเลยทีเดียว!",
+    "TR": "Yalnızca denizlerde hüküm süren yüce lordun kullanabildiği büyülü bir kılıç. Suya dayanıklı özel bir malzemeden yapıldığı için suyun içinde bırakılsa bile zarar görmez. Böyle bir kılıç nasıl mağlup edilebilir ki?",
+    "VI": "Thanh kiếm ma thuật chỉ có thể được sử dụng bởi bá vương tối thượng thống trị biển cả. Do được làm bằng vật liệu chống nước đặc biệt, nên nó sẽ không bị hư hại ngay cả khi ngâm trong nước. Vì vậy, nó gần như xứng danh vô địch!"
+  },
+  "icon": "generated/weapon-profiles/12426/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.066667,
+  "substat_lvl90": 0.3063,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

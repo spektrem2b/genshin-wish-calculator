@@ -1,0 +1,52 @@
+{
+  "id": 11425,
+  "name": {
+    "EN": "Finale of the Deep",
+    "CHS": "海渊终曲",
+    "CHT": "海淵終曲",
+    "DE": "Finale in der Tiefe",
+    "ES": "Réquiem Abisal",
+    "FR": "Final des profondeurs",
+    "ID": "Finale of the Deep",
+    "IT": "Finale degli abissi",
+    "JP": "海淵のフィナーレ",
+    "KR": "해연의 피날레",
+    "PT": "Epílogo das Profundezas",
+    "RU": "Грандиозный финал глубин",
+    "TH": "Finale of the Deep",
+    "TR": "Derinliklerin Sonu",
+    "VI": "Nhạc Khúc Biển Sâu"
+  },
+  "nameEn": "Finale of the Deep",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "This longsword is as silent as the mysterious ocean depths. It is even more ancient than its stylings might imply.",
+    "CHS": "如神秘海渊一般沉默的长剑，比它看似所属的年代还要更加古老。",
+    "CHT": "如神秘海淵一般沉默的長劍，比它看似所屬的年代還要更加古老。",
+    "DE": "Dieses Langschwert scheint noch älter zu sein, als das Zeitalter, in dem es benutzt wurde, und ist so still wie die geheimnisvollen Tiefen des Ozeans.",
+    "ES": "Una espada tan silenciosa como una llanura abisal. Parece aún más antigua que la época a la supuestamente pertenece.",
+    "FR": "Cette longue épée est aussi silencieuse que les profondeurs mystérieuses de l'océan. Elle est encore plus ancienne que son style ne le laisse supposer.",
+    "ID": "Pedang panjang yang sunyi bagaikan kedalaman laut yang misterius, bahkan sepertinya pedang ini masih jauh lebih tua daripada kelihatannya.",
+    "IT": "Una spada silenziosa come i profondi abissi dell'oceano. Malgrado la sua forma, è ben più antica di quanto sembri.",
+    "JP": "謎めいた海淵のように沈黙する長剣。それが属する年代は見た目よりも古い。",
+    "KR": "신비한 해연처럼 침묵하는 장검. 비슷한 양식의 검들보다 더 오래되어 보인다",
+    "PT": "Essa lâmina é silenciosa como as profundezas misteriosas do oceano. É ainda mais antiga do que sua afiliação pode insinuar.",
+    "RU": "Длинный меч, столь же загадочный и молчаливый, как и морские глубины. Куда более древний, чем можно заключить по его виду.",
+    "TH": "ดาบที่เงียบสงัดราวกับห้วงเหวลึกลับใต้ทะเล มันดูเก่าแก่ยิ่งกว่ายุคสมัยที่มันควรจะอยู่เสียอีก",
+    "TR": "Bu uzun kılıç, gizemli okyanusun derinlikleri kadar sessizdir ve göründüğünden bile eskidir.",
+    "VI": "Thanh kiếm dài trầm lặng như biển sâu thần bí, còn lâu đời hơn vẻ ngoài lâu đời của nó."
+  },
+  "icon": "generated/weapon-profiles/11425/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

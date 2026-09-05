@@ -1,0 +1,52 @@
+{
+  "id": 15301,
+  "name": {
+    "EN": "Raven Bow",
+    "CHS": "鸦羽弓",
+    "CHT": "鴉羽弓",
+    "DE": "Rabenbogen",
+    "ES": "Arco de Cuervo",
+    "FR": "Arc du corbeau",
+    "ID": "Raven Bow",
+    "IT": "Arco corvino",
+    "JP": "鴉羽の弓",
+    "KR": "까마귀깃 활",
+    "PT": "Arco de Corvo",
+    "RU": "Лук ворона",
+    "TH": "Raven Bow",
+    "TR": "Kuzgun Yayı",
+    "VI": "Cung Lông Quạ"
+  },
+  "nameEn": "Raven Bow",
+  "type": "Cung",
+  "rarity": 3,
+  "description": {
+    "EN": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.",
+    "CHS": "相传渡鸦是死的使者。将鸦羽装饰在弓臂上，射出的每一箭都宣告着猎物的终末。",
+    "CHT": "相傳渡鴉是死的使者。將鴉羽裝飾在弓臂上，射出的每一箭都宣告著獵物的終末。",
+    "DE": "Raben sind in den Mythen die Gesandten des Todes. Rabenfedern schmücken den Bogen und geben der Beute so schon beim Abschuss des Pfeils die Nachricht ihres Todes bekannt.",
+    "ES": "Los cuervos son conocidos por ser los mensajeros de la muerte. Las plumas que decoran este arco presagian la muerte inminente de cualquier objetivo.",
+    "FR": "Les corbeaux sont les messagers de la mort dans de nombreuses légendes. Leurs plumes décorent cet arc qui annonce la mort imminente de toute proie.",
+    "ID": "Burung gagak diketahui sebagai pengantar kematian. Tubuh busur ini dihiasi dengan bulu burung gagak yang menandakan kematian bagi mangsa yang diincarnya.",
+    "IT": "I corvi sono noti come i traghettatori dei morti. Le piume che decorano quest'arco lasciano presagire la morte imminente di qualche bersaglio.",
+    "JP": "鴉は死の使者だと言われている。鴉の羽の弓は獲物に終末を告げる。",
+    "KR": "까마귀는 죽음의 사절이라는 설이 있다. 까마귀 깃털 장식이 활짱에 부착되어 있으며, 화살을 쏘아 사냥감의 죽음을 선고한다",
+    "PT": "Os corvos são conhecidos como mensageiros da morte. O arco é decorado com penas de corvo que prenunciam a morte iminente de qualquer alvo.",
+    "RU": "Как известно, вороны - проводники мёртвых. Этот лук украшен их перьями, предвещающими скорую смерть любой цели.",
+    "TH": "กาเป็นที่รู้จักกันว่า เป็นคนเรือข้ามฟากของคนตาย ก้านธนูถูกตกแต่งด้วยขนนกกา ซึ่งเป็นต้นเหตุของการเสียชีวิต ของเป้าหมาย",
+    "TR": "Kuzgunlar birçok efsanede ölümün habercileridir. Bu yayın üzerindeki kuzgun tüyleri de hedefinin kaçınılmaz ecelini simgeliyor.",
+    "VI": "Nghe nói quạ đen là sứ giả báo tử. Đem lông quạ gắn lên cung, mỗi mũi tên bắn ra đều là lời tuyên cáo cuối cùng của con mồi."
+  },
+  "icon": "generated/weapon-profiles/15301/avatar.webp",
+  "base_atk_lvl1": 39.8751,
+  "base_atk_lvl90": 448.2,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 20.4,
+  "substat_lvl90": 93.7176,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

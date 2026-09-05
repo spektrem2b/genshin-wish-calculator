@@ -1,0 +1,52 @@
+{
+  "id": 12511,
+  "name": {
+    "EN": "Beacon of the Reed Sea",
+    "CHS": "苇海信标",
+    "CHT": "葦海信標",
+    "DE": "Schilfmeer-Bake",
+    "ES": "Emblema del Mar de Juncos",
+    "FR": "Balise de la mer de roseaux",
+    "ID": "Beacon of the Reed Sea",
+    "IT": "Faro del Mare dei Giunchi",
+    "JP": "葦海の標",
+    "KR": "갈대 바다의 등대",
+    "PT": "Sinal dos Mares",
+    "RU": "Маяк тростникового моря",
+    "TH": "Beacon of the Reed Sea",
+    "TR": "Kızıl Çölün İradesi",
+    "VI": "Hải Đăng Bờ Biển Lau"
+  },
+  "nameEn": "Beacon of the Reed Sea",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument.",
+    "CHS": "造型古旧的平头大剑，似乎曾是王器与某种仪式用的武器。",
+    "CHT": "造型古舊的平頭大劍，似乎曾是王器與某種儀式用的武器。",
+    "DE": "Ein antikes Großschwert. Es scheint die Waffe eines Königs oder eine Art Ritualschwert gewesen zu sein.",
+    "ES": "Un mandoble de factura antigua con la punta semicircular. Parece que era un arma usada antaño por la realeza para ciertas ceremonias.",
+    "FR": "Une grande épée à bout plat conçue pour être l'arme d'un roi d'antan ou une sorte d'instrument de cérémonie.",
+    "ID": "Pedang besar berujung datar yang dirancang agar cocok dipakai sebagai senjata raja kuno atau instrumen upacara.",
+    "IT": "Una grande spada dalla punta piatta, concepita per divenire l'arma di un antico re o un qualche strumento cerimoniale.",
+    "JP": "古い形をした四角い剣。かつては王器、または儀式用の武器として使われていたようだ。",
+    "KR": "칼끝이 뭉뚝한 고대 대검. 과거에는 왕의 기물로 쓰이거나 의식에 사용되었던 것 같다",
+    "PT": "Um Espadão longo antiquado com uma ponta semicircular. Parece ser uma arma usada pela realeza para certas cerimônias.",
+    "RU": "Древний меч с закруглённым остриём. Похоже, это оружие принадлежало королю и использовалось в неких ритуалах.",
+    "TH": "ดาบใหญ่ปลายตัดรูปทรงโบราณ ดูเหมือนจะเคยเป็นอาวุธของราชวงศ์ และถูกใช้ในพิธีกรรมบางอย่าง",
+    "TR": "Kadim bir kralın silahına veya bazı tören aletlerine uyacak şekilde tasarlanmış büyük ve düz uçlu bir kılıç.",
+    "VI": "Đại kiếm mũi bằng, tạo hình cổ xưa, có vẻ như từng là món vũ khí dùng trong nghi thức nào đó."
+  },
+  "icon": "generated/weapon-profiles/12511/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.072,
+  "substat_lvl90": 0.3308,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

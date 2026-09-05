@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Byakuya Kougetsu",
+    "CHS": "白夜皓月",
+    "CHT": "白夜皓月",
+    "DE": "Byakuya Kougetsu",
+    "ES": "Noche de luna",
+    "FR": "Byakuya Kougetsu",
+    "ID": "Byakuya Kougetsu",
+    "IT": "Notte di luna",
+    "JP": "白夜皓月",
+    "KR": "백야의 밝은 달",
+    "PT": "Byakuya Kougetsu",
+    "RU": "Бякуя когэцу",
+    "TH": "Byakuya Kougetsu",
+    "TR": "Byakuya Kougetsu",
+    "VI": "Ánh Trăng Đêm Trắng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Healing Bonus increased by 10%, Normal Attack DMG is increased by 1% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s.",
+        "CHS": "治疗加成提升10%；普通攻击造成的伤害增加，增加值为装备该武器的角色生命值上限的1%。在施放元素爆发后的12秒内，普通攻击命中敌人时恢复0.6点元素能量，每0.1秒至多通过这种方式恢复一次元素能量。",
+        "CHT": "治療加成提升10%；普通攻擊造成的傷害增加，增加值為裝備該武器的角色生命值上限的1%。在施放元素爆發後的12秒內，普通攻擊命中敵人時恢復0.6點元素能量，每0.1秒至多依此方式恢復一次元素能量。",
+        "DE": "Erhöht den Heilungsbonus um 10 %. Erhöht den mit Standardangriffen verursachten Schaden um 1 % der max. LP der mit dieser Waffe ausgerüsteten Figur. Stellt nach Anwendung von Spezialfähigkeiten 12 s lang beim Treffen von Gegnern mit Standardangriffen 0,6 Punkte Elementarenergie wieder her. Stellt auf diese Weise alle 0,1 s höchstens einmal Elementarenergie wieder her.",
+        "ES": "El Bono de Curación aumenta en un 10%. El daño infligido por los Ataques Normales aumenta en una cantidad equivalente al 1% de la Vida Máx. del personaje que tenga esta arma equipada. Tras usar la Habilidad Definitiva y durante 12 s, cuando un Ataque Normal golpea a un enemigo, se regeneran 0.6 pts. de Energía Elemental. Solo se puede regenerar Energía Elemental de esta manera una vez cada 0.1 s.",
+        "FR": "#Augmente le bonus de soins de 10 %, et les DGT des attaques normales d'une valeur équivalant à 1 % des PV max du personnage équipé de l'arme. Pendant 12 s après l'utilisation d'un déchaînement élémentaire, les attaques normales qui touchent un ennemi restaurent 0,6 pts d'énergie élémentaire. L'énergie élémentaire peut être restaurée une fois toutes les 0,1 s de cette manière.",
+        "ID": "Meningkatkan 10% Healing Bonus. Meningkatkan DMG Normal Attack sebesar 1% dari Max HP Karakter yang mengenakan senjata ini. Setelah melancarkan Elemental Burst, Normal Attack yang mengenai musuh akan memulihkan 0,6 Energy. Efek pemulihan Energy ini berlangsung selama 12 detik dan dapat terpicu setiap 0,1 detik.",
+        "IT": "#Il bonus di guarigione aumenta di un 10% e i DAN da attacco normale aumentano per un 1% dei PS max del personaggio con quest'arma equipaggiata. Per 12 s dopo l'uso di un Tripudio elementale, gli attacchi normali che colpiscono gli avversari ripristineranno 0,6 di energia una volta ogni 0,1 s.",
+        "JP": "与える治療効果+10%。この武器を装備したキャラクターのHP上限の1%分、通常攻撃ダメージがアップする。元素爆発を発動した後の12秒間、通常攻撃が敵に命中すると元素エネルギーが0.6ポイント回復する。この方法での元素エネルギー回復は、0.1秒毎に1回のみ可能。",
+        "KR": "치유 보너스가 10% 증가하고, 일반 공격으로 주는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 1%만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+        "PT": "Bônus de Cura aumentado em 10%, o Ataque Normal é aumentado em 1% da Vida Máxima do personagem equipando esta arma. Nos 12s após usar um Supremo, os Ataques Normais que acertarem oponentes recuperarão 0.6 de Energia Elemental. A Energia pode ser recuperada desta maneira uma vez a cada 0.1s.",
+        "RU": "Увеличивает бонус лечения на 10%, а также повышает урон обычной атаки на 1% от макс. HP экипированного этим оружием персонажа. В течение 12 сек. после использования взрыва стихии попадания обычной атакой по противнику восстанавливают 0,6 ед. энергии. Энергию можно восстановить не чаще чем раз в 0,1 сек.",
+        "TH": "โบนัสการรักษาเพิ่มขึ้น 10%; โจมตีปกติสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 1% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้ และภายใน 12 วินาที หลังจากใช้ท่าไม้ตาย เมื่อโจมตีปกติถูกศัตรู จะฟื้นฟูพลังงานธาตุ 0.6 หน่วย โดยจะฟื้นฟูพลังงานธาตุด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
+        "TR": "İyileştirme Bonusu %10 artar, Normal Saldırı Hasarı bu silahı kuşanan karakterin %1 Maks. Canı kadar artar. Bir Element Patlaması kullandıktan sonra 12 saniye boyunca, düşmana isabet eden Normal Saldırılar 0,6 Enerji yeniler. Bu şekilde her 0,1 saniyede bir Enerji yenilenebilir.",
+        "VI": "Trị liệu tăng 10%; Tăng lượng sát thương đánh thường gây ra, lượng tăng thêm sẽ là 1% giới hạn HP của nhân vật trang bị vũ khí này. Trong 12s sau khi thi triển Kỹ Năng Nộ, đánh thường trúng kẻ địch sẽ hồi phục 0.6 Năng Lượng Nguyên Tố, mỗi 0.1s tối đa hồi phục Năng Lượng Nguyên Tố một lần bằng cách này."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Healing Bonus increased by 12.5%, Normal Attack DMG is increased by 1.5% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s.",
+        "CHS": "治疗加成提升12.5%；普通攻击造成的伤害增加，增加值为装备该武器的角色生命值上限的1.5%。在施放元素爆发后的12秒内，普通攻击命中敌人时恢复0.6点元素能量，每0.1秒至多通过这种方式恢复一次元素能量。",
+        "CHT": "治療加成提升12.5%；普通攻擊造成的傷害增加，增加值為裝備該武器的角色生命值上限的1.5%。在施放元素爆發後的12秒內，普通攻擊命中敵人時恢復0.6點元素能量，每0.1秒至多依此方式恢復一次元素能量。",
+        "DE": "Erhöht den Heilungseffekt um 12,5 %. Erhöht den mit Standardangriffen verursachten Schaden um 1,5 % der max. LP der mit dieser Waffe ausgerüsteten Figur. Stellt nach Anwendung von Spezialfähigkeiten 12 s lang beim Treffen von Gegnern mit Standardangriffen 0,6 Punkte Elementarenergie wieder her. Stellt auf diese Weise alle 0,1 s höchstens einmal Elementarenergie wieder her.",
+        "ES": "El Bono de Curación aumenta en un 12.5%. El daño infligido por los Ataques Normales aumenta en una cantidad equivalente al 1.5% de la Vida Máx. del personaje que tenga esta arma equipada. Tras usar la Habilidad Definitiva y durante 12 s, cuando un Ataque Normal golpea a un enemigo, se regeneran 0.6 pts. de Energía Elemental. Solo se puede regenerar Energía Elemental de esta manera una vez cada 0.1 s.",
+        "FR": "#Augmente le bonus de soins de 12,5 %, et les DGT des attaques normales d'une valeur équivalant à 1,5 % des PV max du personnage équipé de l'arme. Pendant 12 s après l'utilisation d'un déchaînement élémentaire, les attaques normales qui touchent un ennemi restaurent 0,6 pts d'énergie élémentaire. L'énergie élémentaire peut être restaurée une fois toutes les 0,1 s de cette manière.",
+        "ID": "Meningkatkan 12.5% Healing Bonus. Meningkatkan DMG Normal Attack sebesar 1,5% dari Max HP Karakter yang mengenakan senjata ini. Setelah melancarkan Elemental Burst, Normal Attack yang mengenai musuh akan memulihkan 0,6 Energy. Efek pemulihan Energy ini berlangsung selama 12 detik dan dapat terpicu setiap 0,1 detik.",
+        "IT": "#Il bonus di guarigione aumenta di un 12,5% e i DAN da attacco normale aumentano per un 1,5% dei PS max del personaggio con quest'arma equipaggiata. Per 12 s dopo l'uso di un Tripudio elementale, gli attacchi normali che colpiscono gli avversari ripristineranno 0,6 di energia una volta ogni 0,1 s.",
+        "JP": "与える治療効果+12.5%。この武器を装備したキャラクターのHP上限の1.5%分、通常攻撃ダメージがアップする。元素爆発を発動した後の12秒間、通常攻撃が敵に命中すると元素エネルギーが0.6ポイント回復する。この方法での元素エネルギー回復は、0.1秒毎に1回のみ可能。",
+        "KR": "치유 보너스가 12.5% 증가하고, 일반 공격으로 주는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 1.5%만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+        "PT": "Bônus de Cura aumentado em 12.5%, o Ataque Normal é aumentado em 1.5% da Vida Máxima do personagem equipando esta arma. Nos 12s após usar um Supremo, os Ataques Normais que acertarem oponentes recuperarão 0.6 de Energia Elemental. A Energia pode ser recuperada desta maneira uma vez a cada 0.1s.",
+        "RU": "Увеличивает бонус лечения на 12,5%, также повышает урон обычной атаки на 1,5% от макс. HP экипированного этим оружием персонажа. В течение 12 сек. после использования взрыва стихии попадания обычной атакой по противнику восстанавливают 0,6 ед. энергии. Энергию можно восстановить не чаще чем раз в 0,1 сек.",
+        "TH": "โบนัสการรักษาเพิ่มขึ้น 12.5%; โจมตีปกติสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 1.5% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้ และภายใน 12 วินาที หลังจากใช้ท่าไม้ตาย เมื่อโจมตีปกติถูกศัตรู จะฟื้นฟูพลังงานธาตุ 0.6 หน่วย โดยจะฟื้นฟูพลังงานธาตุด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
+        "TR": "İyileştirme Bonusu %12,5 artar, Normal Saldırı Hasarı bu silahı kuşanan karakterin %1,5 Maks. Canı kadar artar. Bir Element Patlaması kullandıktan sonra 12 saniye boyunca, düşmana isabet eden Normal Saldırılar 0,6 Enerji yeniler. Bu şekilde her 0,1 saniyede bir Enerji yenilenebilir.",
+        "VI": "Trị liệu tăng 12.5%; Tăng lượng sát thương đánh thường gây ra, lượng tăng thêm sẽ là 1.5% giới hạn HP của nhân vật trang bị vũ khí này. Trong 12s sau khi thi triển Kỹ Năng Nộ, đánh thường trúng kẻ địch sẽ hồi phục 0.6 Năng Lượng Nguyên Tố, mỗi 0.1s tối đa hồi phục Năng Lượng Nguyên Tố một lần bằng cách này."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Healing Bonus increased by 15%, Normal Attack DMG is increased by 2% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s.",
+        "CHS": "治疗加成提升15%；普通攻击造成的伤害增加，增加值为装备该武器的角色生命值上限的2%。在施放元素爆发后的12秒内，普通攻击命中敌人时恢复0.6点元素能量，每0.1秒至多通过这种方式恢复一次元素能量。",
+        "CHT": "治療加成提升15%；普通攻擊造成的傷害增加，增加值為裝備該武器的角色生命值上限的2%。在施放元素爆發後的12秒內，普通攻擊命中敵人時恢復0.6點元素能量，每0.1秒至多依此方式恢復一次元素能量。",
+        "DE": "Erhöht den Heilungseffekt um 15 %. Erhöht den mit Standardangriffen verursachten Schaden um 2 % der max. LP der mit dieser Waffe ausgerüsteten Figur. Stellt nach Anwendung von Spezialfähigkeiten 12 s lang beim Treffen von Gegnern mit Standardangriffen 0,6 Punkte Elementarenergie wieder her. Stellt auf diese Weise alle 0,1 s höchstens einmal Elementarenergie wieder her.",
+        "ES": "El Bono de Curación aumenta en un 15%. El daño infligido por los Ataques Normales aumenta en una cantidad equivalente al 2% de la Vida Máx. del personaje que tenga esta arma equipada. Tras usar la Habilidad Definitiva y durante 12 s, cuando un Ataque Normal golpea a un enemigo, se regeneran 0.6 pts. de Energía Elemental. Solo se puede regenerar Energía Elemental de esta manera una vez cada 0.1 s.",
+        "FR": "#Augmente le bonus de soins de 15 %, et les DGT des attaques normales d'une valeur équivalant à 2 % des PV max du personnage équipé de l'arme. Pendant 12 s après l'utilisation d'un déchaînement élémentaire, les attaques normales qui touchent un ennemi restaurent 0,6 pts d'énergie élémentaire. L'énergie élémentaire peut être restaurée une fois toutes les 0,1 s de cette manière.",
+        "ID": "Meningkatkan 15% Healing Bonus. Meningkatkan DMG Normal Attack sebesar 2% dari Max HP Karakter yang mengenakan senjata ini. Setelah melancarkan Elemental Burst, Normal Attack yang mengenai musuh akan memulihkan 0,6 Energy. Efek pemulihan Energy ini berlangsung selama 12 detik dan dapat terpicu setiap 0,1 detik.",
+        "IT": "#Il bonus di guarigione aumenta di un 15% e i DAN da attacco normale aumentano per un 2% dei PS max del personaggio con quest'arma equipaggiata. Per 12 s dopo l'uso di un Tripudio elementale, gli attacchi normali che colpiscono gli avversari ripristineranno 0,6 di energia una volta ogni 0,1 s.",
+        "JP": "与える治療効果+15%。この武器を装備したキャラクターのHP上限の2%分、通常攻撃ダメージがアップする。元素爆発を発動した後の12秒間、通常攻撃が敵に命中すると元素エネルギーが0.6ポイント回復する。この方法での元素エネルギー回復は、0.1秒毎に1回のみ可能。",
+        "KR": "치유 보너스가 15% 증가하고, 일반 공격으로 주는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 2%만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+        "PT": "Aumenta o Bônus de Cura em 15%; aumenta o Dano do Ataque Normal em 2% da Vida Máxima do personagem com o arma equipada. Nos 12s após utilizar o Supremo, Ataques Normais que atingirem oponentes regenerarão 0.6 pontos de Energia Elemental. Energia Elemental pode ser regenerada dessa forma uma vez a cada 0.1s.",
+        "RU": "Увеличивает бонус лечения на 15%, также повышает урон обычной атаки на 2% от макс. HP экипированного этим оружием персонажа. В течение 12 сек. после использования взрыва стихии попадания обычной атакой по противнику восстанавливают 0,6 ед. энергии. Энергию можно восстановить не чаще чем раз в 0,1 сек.",
+        "TH": "โบนัสการรักษาเพิ่มขึ้น 15%; โจมตีปกติสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 2% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้ และภายใน 12 วินาที หลังจากใช้ท่าไม้ตาย เมื่อโจมตีปกติถูกศัตรู จะฟื้นฟูพลังงานธาตุ 0.6 หน่วย โดยจะฟื้นฟูพลังงานธาตุด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
+        "TR": "İyileştirme Bonusu %15 artar, Normal Saldırı Hasarı bu silahı kuşanan karakterin %2 Maks. Canı kadar artar. Bir Element Patlaması kullandıktan sonra 12 saniye boyunca, düşmana isabet eden Normal Saldırılar 0,6 Enerji yeniler. Bu şekilde her 0,1 saniyede bir Enerji yenilenebilir.",
+        "VI": "Trị liệu tăng 15%; Tăng lượng sát thương đánh thường gây ra, lượng tăng thêm sẽ là 2% giới hạn HP của nhân vật trang bị vũ khí này. Trong 12s sau khi thi triển Kỹ Năng Nộ, đánh thường trúng kẻ địch sẽ hồi phục 0.6 Năng Lượng Nguyên Tố, mỗi 0.1s tối đa hồi phục Năng Lượng Nguyên Tố một lần bằng cách này."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Healing Bonus increased by 17.5%, Normal Attack DMG is increased by 2.5% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s.",
+        "CHS": "治疗加成提升17.5%；普通攻击造成的伤害增加，增加值为装备该武器的角色生命值上限的2.5%。在施放元素爆发后的12秒内，普通攻击命中敌人时恢复0.6点元素能量，每0.1秒至多通过这种方式恢复一次元素能量。",
+        "CHT": "治療加成提升17.5%；普通攻擊造成的傷害增加，增加值為裝備該武器的角色生命值上限的2.5%。在施放元素爆發後的12秒內，普通攻擊命中敵人時恢復0.6點元素能量，每0.1秒至多依此方式恢復一次元素能量。",
+        "DE": "Erhöht den Heilungseffekt um 17,5 %. Erhöht den mit Standardangriffen verursachten Schaden um 2,5 % der max. LP der mit dieser Waffe ausgerüsteten Figur. Stellt nach Anwendung von Spezialfähigkeiten 12 s lang beim Treffen von Gegnern mit Standardangriffen 0,6 Punkte Elementarenergie wieder her. Stellt auf diese Weise alle 0,1 s höchstens einmal Elementarenergie wieder her.",
+        "ES": "El Bono de Curación aumenta en un 17.5%. El daño infligido por los Ataques Normales aumenta en una cantidad equivalente al 2.5% de la Vida Máx. del personaje que tenga esta arma equipada. Tras usar la Habilidad Definitiva y durante 12 s, cuando un Ataque Normal golpea a un enemigo, se regeneran 0.6 pts. de Energía Elemental. Solo se puede regenerar Energía Elemental de esta manera una vez cada 0.1 s.",
+        "FR": "#Augmente le bonus de soins de 17,5 %, et les DGT des attaques normales d'une valeur équivalant à 2,5 % des PV max du personnage équipé de l'arme. Pendant 12 s après l'utilisation d'un déchaînement élémentaire, les attaques normales qui touchent un ennemi restaurent 0,6 pts d'énergie élémentaire. L'énergie élémentaire peut être restaurée une fois toutes les 0,1 s de cette manière.",
+        "ID": "Meningkatkan 17.5% Healing Bonus. Meningkatkan DMG Normal Attack sebesar 2.5% dari Max HP Karakter yang mengenakan senjata ini. Setelah melancarkan Elemental Burst, Normal Attack yang mengenai musuh akan memulihkan 0,6 Energy. Efek pemulihan Energy ini berlangsung selama 12 detik dan dapat terpicu setiap 0,1 detik.",
+        "IT": "#Il bonus di guarigione aumenta di un 17,5% e i DAN da attacco normale aumentano per un 2,5% dei PS max del personaggio con quest'arma equipaggiata. Per 12 s dopo l'uso di un Tripudio elementale, gli attacchi normali che colpiscono gli avversari ripristineranno 0,6 di energia una volta ogni 0,1 s.",
+        "JP": "与える治療効果+17.5%。この武器を装備したキャラクターのHP上限の2.5%分、通常攻撃ダメージがアップする。元素爆発を発動した後の12秒間、通常攻撃が敵に命中すると元素エネルギーが0.6ポイント回復する。この方法での元素エネルギー回復は、0.1秒毎に1回のみ可能。",
+        "KR": "치유 보너스가 17.5% 증가하고, 일반 공격으로 주는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 2.5%만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+        "PT": "Bônus de Cura aumentado em 17.5%, o Ataque Normal é aumentado em 2.5% da Vida Máxima do personagem equipando esta arma. Nos 12s após usar um Supremo, os Ataques Normais que acertarem oponentes recuperarão 0.6 de Energia Elemental. A Energia pode ser recuperada desta maneira uma vez a cada 0.1s.",
+        "RU": "Увеличивает бонус лечения на 17,5%, также повышает урон обычной атаки на 2,5% от макс. HP экипированного этим оружием персонажа. В течение 12 сек. после использования взрыва стихии попадания обычной атакой по противнику восстанавливают 0,6 ед. энергии. Энергию можно восстановить не чаще чем раз в 0,1 сек.",
+        "TH": "โบนัสการรักษาเพิ่มขึ้น 17.5%; โจมตีปกติสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 2.5% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้ และภายใน 12 วินาที หลังจากใช้ท่าไม้ตาย เมื่อโจมตีปกติถูกศัตรู จะฟื้นฟูพลังงานธาตุ 0.6 หน่วย โดยจะฟื้นฟูพลังงานธาตุด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
+        "TR": "İyileştirme Bonusu %17,5 artar, Normal Saldırı Hasarı bu silahı kuşanan karakterin %2,5 Maks. Canı kadar artar. Bir Element Patlaması kullandıktan sonra 12 saniye boyunca, düşmana isabet eden Normal Saldırılar 0,6 Enerji yeniler. Bu şekilde her 0,1 saniyede bir Enerji yenilenebilir.",
+        "VI": "Trị liệu tăng 17.5%; Tăng lượng sát thương đánh thường gây ra, lượng tăng thêm sẽ là 2.5% giới hạn HP của nhân vật trang bị vũ khí này. Trong 12s sau khi thi triển Kỹ Năng Nộ, đánh thường trúng kẻ địch sẽ hồi phục 0.6 Năng Lượng Nguyên Tố, mỗi 0.1s tối đa hồi phục Năng Lượng Nguyên Tố một lần bằng cách này."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Healing Bonus increased by 20%, Normal Attack DMG is increased by 3% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s.",
+        "CHS": "治疗加成提升20%；普通攻击造成的伤害增加，增加值为装备该武器的角色生命值上限的3%。在施放元素爆发后的12秒内，普通攻击命中敌人时恢复0.6点元素能量，每0.1秒至多通过这种方式恢复一次元素能量。",
+        "CHT": "治療加成提升20%；普通攻擊造成的傷害增加，增加值為裝備該武器的角色生命值上限的3%。在施放元素爆發後的12秒內，普通攻擊命中敵人時恢復0.6點元素能量，每0.1秒至多依此方式恢復一次元素能量。",
+        "DE": "Erhöht den Heilungseffekt um 20 %. Erhöht den mit Standardangriffen verursachten Schaden um 3 % der max. LP der mit dieser Waffe ausgerüsteten Figur. Stellt nach Anwendung von Spezialfähigkeiten 12 s lang beim Treffen von Gegnern mit Standardangriffen 0,6 Punkte Elementarenergie wieder her. Stellt auf diese Weise alle 0,1 s höchstens einmal Elementarenergie wieder her.",
+        "ES": "El Bono de Curación aumenta en un 20%. El daño infligido por los Ataques Normales aumenta en una cantidad equivalente al 3% de la Vida Máx. del personaje que tenga esta arma equipada. Tras usar la Habilidad Definitiva y durante 12 s, cuando un Ataque Normal golpea a un enemigo, se regeneran 0.6 pts. de Energía Elemental. Solo se puede regenerar Energía Elemental de esta manera una vez cada 0.1 s.",
+        "FR": "#Augmente le bonus de soins de 20 %, et les DGT des attaques normales d'une valeur équivalant à 3 % des PV max du personnage équipé de l'arme. Pendant 12 s après l'utilisation d'un déchaînement élémentaire, les attaques normales qui touchent un ennemi restaurent 0,6 pts d'énergie élémentaire. L'énergie élémentaire peut être restaurée une fois toutes les 0,1 s de cette manière.",
+        "ID": "Meningkatkan 20% Healing Bonus. Meningkatkan DMG Normal Attack sebesar 3% dari Max HP Karakter yang mengenakan senjata ini. Setelah melancarkan Elemental Burst, Normal Attack yang mengenai musuh akan memulihkan 0,6 Energy. Efek pemulihan Energy ini berlangsung selama 12 detik dan dapat terpicu setiap 0,1 detik.",
+        "IT": "#Il bonus di guarigione aumenta di un 20% e i DAN da attacco normale aumentano per un 3% dei PS max del personaggio con quest'arma equipaggiata. Per 12 s dopo l'uso di un Tripudio elementale, gli attacchi normali che colpiscono gli avversari ripristineranno 0,6 di energia una volta ogni 0,1 s.",
+        "JP": "与える治療効果+20%。この武器を装備したキャラクターのHP上限の3%分、通常攻撃ダメージがアップする。元素爆発を発動した後の12秒間、通常攻撃が敵に命中すると元素エネルギーが0.6ポイント回復する。この方法での元素エネルギー回復は、0.1秒毎に1回のみ可能。",
+        "KR": "치유 보너스가 20% 증가하고, 일반 공격으로 주는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 3%만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+        "PT": "Bônus de Cura aumentado em 20%, o Ataque Normal é aumentado em 3% da Vida Máxima do personagem equipando esta arma. Nos 12s após usar um Supremo, os Ataques Normais que acertarem oponentes recuperarão 0.6 de Energia Elemental. A Energia pode ser recuperada desta maneira uma vez a cada 0.1s.",
+        "RU": "Увеличивает бонус лечения на 20%, также повышает урон обычной атаки на 3% от макс. HP экипированного этим оружием персонажа. В течение 12 сек. после использования взрыва стихии попадания обычной атакой по противнику восстанавливают 0,6 ед. энергии. Энергию можно восстановить не чаще чем раз в 0,1 сек.",
+        "TH": "โบนัสการรักษาเพิ่มขึ้น 20%; โจมตีปกติสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 3% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้ และภายใน 12 วินาที หลังจากใช้ท่าไม้ตาย เมื่อโจมตีปกติถูกศัตรู จะฟื้นฟูพลังงานธาตุ 0.6 หน่วย โดยจะฟื้นฟูพลังงานธาตุด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
+        "TR": "İyileştirme Bonusu %20 artar, Normal Saldırı Hasarı bu silahı kuşanan karakterin %3 Maks. Canı kadar artar. Bir Element Patlaması kullandıktan sonra 12 saniye boyunca, düşmana isabet eden Normal Saldırılar 0,6 Enerji yeniler. Bu şekilde her 0,1 saniyede bir Enerji yenilenebilir.",
+        "VI": "Trị liệu tăng 20%; Tăng lượng sát thương đánh thường gây ra, lượng tăng thêm sẽ là 3% giới hạn HP của nhân vật trang bị vũ khí này. Trong 12s sau khi thi triển Kỹ Năng Nộ, đánh thường trúng kẻ địch sẽ hồi phục 0.6 Năng Lượng Nguyên Tố, mỗi 0.1s tối đa hồi phục Năng Lượng Nguyên Tố một lần bằng cách này."
+      }
+    }
+  ]
+}

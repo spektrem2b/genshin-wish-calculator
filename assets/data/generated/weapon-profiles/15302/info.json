@@ -1,0 +1,52 @@
+{
+  "id": 15302,
+  "name": {
+    "EN": "Sharpshooter's Oath",
+    "CHS": "神射手之誓",
+    "CHT": "神射手之誓",
+    "DE": "Eid des Scharfschützen",
+    "ES": "Juramento del Arquero",
+    "FR": "Serment de l'archer",
+    "ID": "Sharpshooter's Oath",
+    "IT": "Patto del cecchino",
+    "JP": "シャープシューターの誓い",
+    "KR": "신궁의 서약",
+    "PT": "Juramento de Sagitário",
+    "RU": "Клятва стрелка",
+    "TH": "Sharpshooter's Oath",
+    "TR": "Keskin Nişancı Yemini",
+    "VI": "Lời Thề Xạ Thủ Thần"
+  },
+  "nameEn": "Sharpshooter's Oath",
+  "type": "Cung",
+  "rarity": 3,
+  "description": {
+    "EN": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
+    "CHS": "据说曾属于技艺高强的射手，是一把上好的弓。因为散发出强烈的气息，难以用于狩猎。",
+    "CHT": "據說曾屬於技藝高強的射手，是一把上好的弓。因為散發出強烈的氣息，難以用於狩獵。",
+    "DE": "Dieser perfekt ausgearbeitete Bogen gehörte angeblich einst einem meisterlichen Bogenschützen. Aufgrund seines starken Geruchs eignet er sich aber nicht gut zum Jagen.",
+    "ES": "Este sublime arco perteneció una vez a un maestro arquero. Emite un fuerte olor, por lo que no es apto para la caza.",
+    "FR": "Cet arc de haute qualité aurait appartenu à un maître archer. La forte odeur qu'il dégage le rend inadapté pour la chasse.",
+    "ID": "Busur kuat yang pernah dimiliki oleh seorang pemanah terbaik. Tetapi aura kuat yang terpancar dari busur ini membuatnya tidak cocok dipakai untuk berburu.",
+    "IT": "Quest'arco portentoso apparteneva a un grande arciere. Emana un forte odore, il che lo rende inadatto alla caccia.",
+    "JP": "ある優れた射手が使っていた極上の弓。強いオーラを放つため、狩りには向いていない。",
+    "KR": "신궁이라 불리던 명사수가 사용하던 활. 강렬한 기운을 내뿜어 사냥에 사용하기에 부적합하다",
+    "PT": "Este poderoso arco pertencia a um grande arqueiro. Contudo, emana um aroma bastante forte, o tornando inadequado para caças.",
+    "RU": "Когда-то этот превосходный лук принадлежал профессиональному охотнику, однако его стойкий запах делает его бесполезным для охоты.",
+    "TH": "คันธนูอันยอดเยี่ยมที่ครั้งหนึ่ง เคยเป็นของยอดนักธนู แต่มันมีกลิ่นที่แรงมาก ทำให้ไม่เหมาะกับการล่า",
+    "TR": "Bu muazzam yay bir zamanlar efsanevi bir okçuya aitti. Ancak kesif kokusu yüzünden onunla ava çıkmak imkansız.",
+    "VI": "Từng thuộc về người xạ thủ lão luyện, là một cây cung tốt. Vì phát ra hơi thở mạnh mẽ nên khó có thể dùng để săn bắn."
+  },
+  "icon": "generated/weapon-profiles/15302/avatar.webp",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.102,
+  "substat_lvl90": 0.4686,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 14517,
+  "name": {
+    "EN": "Starcaller's Watch",
+    "CHS": "祭星者之望",
+    "CHT": "祭星者之望",
+    "DE": "Wacht des Sternenopfers",
+    "ES": "Vigía de las Estrellas",
+    "FR": "Veillée d'appel d'étoiles",
+    "ID": "Starcaller's Watch",
+    "IT": "Veglia del Chiamastelle",
+    "JP": "祭星者の眺め",
+    "KR": "별지기의 시선",
+    "PT": "Observatório do Chamador de Estrelas",
+    "RU": "Бдение взывающего к звёздам",
+    "TH": "Starcaller's Watch",
+    "TR": "Yıldız Çağıranın Nöbeti",
+    "VI": "Ánh Nhìn Tư Tế"
+  },
+  "nameEn": "Starcaller's Watch",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A statue carved in the shape of an eagle, a sacred relic of the Masters of the Night-Wind that has been passed down from generation to generation.",
+    "CHS": "以鹰之形雕刻的造像，烟谜主世代传承的圣物之一。",
+    "CHT": "以鷹之形雕刻的造像，煙謎主世代傳承的聖物之一。",
+    "DE": "Eine in Form eines Falken geschnitzte Statue, eines der heiligen Relikte, die von Generation zu Generation von Meistern des Nachtwinds weitergegeben werden.",
+    "ES": "Una estatua tallada en forma de águila. Se trata de una reliquia sagrada transmitida de generación en generación por los Augures Vientonocturno.",
+    "FR": "Une statue sculptée en forme d'aigle. C'est une relique sacrée transmise par les Maîtres du vent nocturne.",
+    "ID": "Patung berbentuk elang. Merupakan relik suci yang diwariskan di Penguasa Angin Malam dari generasi demi generasi.",
+    "IT": "Una statua scolpita nella forma di un'aquila. Una reliquia sacra tramandata da generazioni dai Maestri del Vento della Notte.",
+    "JP": "鷹を模して彫られた彫像。謎煙の主に代々受け継がれる聖なる遺物。",
+    "KR": "독수리 모양의 조각상. 연기 주인에서 대대로 계승된 성물 중 하나다",
+    "PT": "Uma estátua esculpida na forma de uma águia. Um relicário sagrado passado de geração em geração entre os Mestres do Vento Noturno.",
+    "RU": "Статуэтка, вырезанная по подобию орла. Это священная реликвия, передаваемая из поколения в поколение среди Повелителей Ночного Ветра.",
+    "TH": "รูปปั้นแกะสลักรูปนกอินทรี เป็นหนึ่งในของศักดิ์สิทธิ์ ที่สืบทอดกันมาจากรุ่นสู่รุ่น ของเผ่าจ้าวแห่งลมราตรี",
+    "TR": "Kartal şeklinde oyulmuş bir heykel. Gece Rüzgarının Ustalarında nesilden nesile aktarılan kutsal bir yadigardır.",
+    "VI": "Bức tượng được điêu khắc hình chim ưng, là một trong những thánh vật được lưu truyền qua các thế hệ ở Chủ Nhân Gió Đêm."
+  },
+  "icon": "generated/weapon-profiles/14517/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 57.6,
+  "substat_lvl90": 264.6144,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

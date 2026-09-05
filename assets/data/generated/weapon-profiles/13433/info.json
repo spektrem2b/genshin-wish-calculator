@@ -1,0 +1,52 @@
+{
+  "id": 13433,
+  "name": {
+    "EN": "Prospector's Shovel",
+    "CHS": "掘金之锹",
+    "CHT": "掘金之鍬",
+    "DE": "Schaufel des Goldgräbers",
+    "ES": "Azada Excavatesoros",
+    "FR": "Pelle du prospecteur",
+    "ID": "Prospector's Shovel",
+    "IT": "Pala del prospettore",
+    "JP": "金掘りのシャベル",
+    "KR": "채굴의 삽",
+    "PT": "Pá do Escavador",
+    "RU": "Лопата старателя",
+    "TH": "Prospector's Shovel",
+    "TR": "Madenci Küreği",
+    "VI": "Xẻng Đào Vàng"
+  },
+  "nameEn": "Prospector's Shovel",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A polearm that appears to have been crafted from a metal agricultural tool. At first glance, it could not look more ordinary, yet its discreet design hides fittings that are both lavish and undeniably exquisite.",
+    "CHS": "枪杆似乎来自一把农用铁锹。乍看之下毫不起眼，配饰却极为贵重，低调之中藏着难以忽视的精巧。",
+    "CHT": "槍桿似乎來自一把農用鐵鍬。乍看之下毫不起眼，配飾卻極為貴重，低調之中藏著難以忽視的精巧。",
+    "DE": "Eine Stangenwaffe, die offenbar aus einem landwirtschaftlichen Gerät hergestellt wurde. Auf den ersten Blick sieht sie ganz gewöhnlich aus, doch hinter ihrem unscheinbaren Aussehen verbirgt sich eine kaum übersehbare Raffinesse.",
+    "ES": "Una lanza que parece haber sido forjada a partir de una azada agrícola. Aunque no llama nada la atención a primera vista, su ornamentación es extremadamente valiosa, y su discreto diseño esconde una sofisticación difícil de ignorar.",
+    "FR": "Une arme qui semble avoir été fabriquée à partir d'un outil agricole. À première vue, elle paraît on ne peut plus ordinaire, mais sa conception discrète cache des particularités à la fois somptueuses et indéniablement raffinées.",
+    "ID": "Tombak yang sepertinya ditempa dari alat pertanian. Dilihat sekilas, tampak biasa saja, namun aksesorisnya sangat berharga, dan desainnya yang sederhana menyembunyikan keindahan yang tak bisa diabaikan.",
+    "IT": "Una lancia apparentemente ricavata da uno strumento agricolo di metallo. A prima vista, non sembra avere nulla di speciale, ma la sua forma discreta nasconde accessori che sono allo stesso tempo sontuosi e innegabilmente ricercati.",
+    "JP": "槍の柄は元々、農業用のシャベルであったようだ。一見目立たないが、控えめなデザインの中にあしらわれた装飾は極めて豪華で、無視できないほどに精巧である。",
+    "KR": "농사용 삽자루를 개조해 만든 창. 겉모습은 평범하나 귀한 장식으로 치장되어 있으며, 소박함 속에 무시할 수 없는 정교함이 숨어 있다",
+    "PT": "Uma lança que parece ter sido criada de uma ferramenta agrícola. A primeira vista, não poderia ser mais ordinária, mas seu desenho discreto esconde truques refinados e luxuosos.",
+    "RU": "Древковое оружие, похоже, сделано из обычной лопаты. Оно кажется совершенно невзрачным, но его ценные украшения говорят о том, что за непримечательным видом скрывается неоспоримое изящество.",
+    "TH": "ด้ามหอกดูเหมือนทำมาจากพลั่วทำสวน เมื่อมองเผิน ๆ จึงดูเรียบง่ายไม่สะดุดตา แต่เครื่องประดับกลับล้ำค่าอย่างยิ่ง ซ่อนความประณีตที่ไม่อาจมองข้ามได้ภายใต้ความเรียบง่ายนั้น",
+    "TR": "Metal bir tarım aletinden yapıldığı anlaşılan bir mızrak. İlk bakışta oldukça sıradan görünmesine karşın incelikli tasarımı, kaliteli olduğu yadsınamayacak pek çok teçhizat barındırıyor.",
+    "VI": "Cán thương dường như đến từ một cái cuốc nông nghiệp. Thoạt nhìn không có gì nổi bật, nhưng trang sức lại vô cùng quý giá, trong sự giản dị ẩn chứa sự xa hoa vô cùng."
+  },
+  "icon": "generated/weapon-profiles/13433/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

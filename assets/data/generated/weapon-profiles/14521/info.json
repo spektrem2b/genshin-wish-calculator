@@ -1,0 +1,52 @@
+{
+  "id": 14521,
+  "name": {
+    "EN": "Reliquary of Truth",
+    "CHS": "真语秘匣",
+    "CHT": "真語秘匣",
+    "DE": "Kästchen der Wahrheit",
+    "ES": "Relicario de la Verdad",
+    "FR": "Reliquaire de la vérité",
+    "ID": "Reliquary of Truth",
+    "IT": "Reliquiario della verità",
+    "JP": "真言の匣",
+    "KR": "진실의 함",
+    "PT": "Relicário da Verdade",
+    "RU": "Шкатулка истин",
+    "TH": "Reliquary of Truth",
+    "TR": "Hakikat Kutusu",
+    "VI": "Chân Ngôn Bí Hạp"
+  },
+  "nameEn": "Reliquary of Truth",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "An angular box carved from gold and jade. Legend has it that it was once enshrined in a temple deep within Tulaytullah, the Sapphire City.",
+    "CHS": "黄金与玉石雕琢而成的角匣，传说曾供奉于蓝宝石之城图莱杜拉深处的神殿。",
+    "CHT": "黃金與玉石雕琢而成的角匣，傳說曾供奉於藍寶石之城圖萊杜拉深處的神殿。",
+    "DE": "Ein pyramidenförmiges Kästchen aus Gold und Jade, das der Legende nach einst im Tempel tief in Tulaytullah, der Stadt der Saphire, als Opfer dargebracht wurde.",
+    "ES": "Un relicario hecho con oro y jade. Cuenta la leyenda que se encontraba consagrado en un templo situado en las profundidades de Tulaytulah, la Ciudad de los Zafiros.",
+    "FR": "Un coffret anguleux sculpté en or et en jade. La légende raconte qu'il était autrefois conservé dans un temple au cœur de Tulaytullah, la cité de saphir.",
+    "ID": "Senjata berbentuk segitiga dengan tanduk yang terbuat dari emas dan batu giok. Konon senjata ini dulunya dikeramatkan dalam kuil yang terletak di Kota Safir, Tulaytullah.",
+    "IT": "Uno scrignetto angolato, realizzato in oro e giada. Secondo la leggenda, anticamente era custodito in un tempio nelle profondità di Tulaytullah, la Città di Zaffiro.",
+    "JP": "黄金と玉石を彫って作られた匣。かつてはサファイアの都トゥライトゥーラの奥深くにある神殿に奉納されていたと伝えられている。",
+    "KR": "황금과 옥으로 만든 사각뿔 모양의 함. 사파이어의 도시 툴레이툴라 깊은 곳에 있는 신전에 바쳐졌다고 한다",
+    "PT": "Um baú de chifres cravejado de citrinitas e jade. Dizem as lendas que já foi consagrado num templo nas profundezas de Tulaytullah, a Cidade de Safira.",
+    "RU": "Шкатулка с рогами, вырезанная из золота и нефрита. Легенда гласит, что некогда эта шкатулка хранилась в святилище в глубине сапфирового города Тулайтуллы.",
+    "TH": "กล่องเขาที่แกะสลักขึ้น จากทองคำและหยก ในตำนานกล่าวว่า เคยได้รับการบูชา อยู่ในวิหารส่วนลึกแห่ง Tulaytullah ของนครแห่งไพลิน",
+    "TR": "Altın ve yeşim taşları oyularak yapılmış sivri bir kutu. Efsaneye göre bir zamanlar Safir Şehir Tulaytullah'ın derinlerindeki bir tapınakta saklanırmış.",
+    "VI": "Chiếc hộp được chạm khắc từ vàng và ngọc thạch. Theo truyền thuyết, từng được thờ ở ngôi đền nơi sâu thẳm của thành phố lam bảo thạch Tulaytullah."
+  },
+  "icon": "generated/weapon-profiles/14521/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

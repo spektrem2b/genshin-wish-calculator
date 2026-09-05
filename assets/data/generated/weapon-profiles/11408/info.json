@@ -1,0 +1,52 @@
+{
+  "id": 11408,
+  "name": {
+    "EN": "Blackcliff Longsword",
+    "CHS": "黑岩长剑",
+    "CHT": "黑岩長劍",
+    "DE": "Schwarzstein-Langschwert",
+    "ES": "Espada Larga del Peñasco Oscuro",
+    "FR": "Épée longue de Rochenoire",
+    "ID": "Blackcliff Longsword",
+    "IT": "Spada lunga di Rupenera",
+    "JP": "黒岩の長剣",
+    "KR": "흑암 장검",
+    "PT": "Espada do Penhasco Obscuro",
+    "RU": "Черногорский длинный меч",
+    "TH": "Blackcliff Longsword",
+    "TR": "Kara Kaya Uzun Kılıcı",
+    "VI": "Hắc Nham Trường Kiếm"
+  },
+  "nameEn": "Blackcliff Longsword",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade.",
+    "CHS": "黑岩锻造而成的长剑。玄色的剑身隐隐流露血光。",
+    "CHT": "黑岩鍛造而成的長劍。玄色的劍身隱隱流漏血光。",
+    "DE": "Ein aus Schwarzstein geschmiedetes Langschwert. Die dunkle Klinge schimmert rötlich.",
+    "ES": "Una espada larga hecha de piedra negra. Su oscura hoja tiene un sombrío brillo carmesí.",
+    "FR": "Une épée fabriquée en roche noire. Sa sombre lame brille d'une lueur rouge.",
+    "ID": "Sebuah pedang yang dibuat dari blackstone. Mempunyai cahaya merah tua pada bilahnya.",
+    "IT": "Una spada di un materiale noto come \"Rupenera\". La sua lama posteriore riluce di un bagliore purpureo.",
+    "JP": "黒岩でできた長剣。黒い剣身には微かに血の光が見える。",
+    "KR": "흑암으로 주조한 장검. 검은색의 검신은 핏빛을 은은히 내뿜는다",
+    "PT": "Uma espada feita de pedra negra. Tem um brilho vermelho escuro em sua lâmina preta.",
+    "RU": "Этот меч сделан из обломков скал Черногорья. Его тёмное лезвие имеет кровавое свечение.",
+    "TH": "Blackcliff ตีเหล็กจนเป็นดาบยาว สีดำของตัวดาบเผยให้เห็นประกายของเลือด",
+    "TR": "Kara kaya olarak bilinen malzemeden dövülmüş bir kılıç. Siyah gövdesinin üzerinde kızıl bir parıltı var.",
+    "VI": "Thanh kiếm được rèn từ hắc nham. Thân kiếm đen tuyền thoắt ẩn thoắt hiện màu máu."
+  },
+  "icon": "generated/weapon-profiles/11408/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

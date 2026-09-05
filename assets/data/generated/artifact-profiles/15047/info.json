@@ -1,0 +1,69 @@
+{
+  "id": 15047,
+  "name": {
+    "EN": "Scarlet Proof",
+    "CHS": "血红之证",
+    "CHT": "血紅之證",
+    "DE": "Blutroter Beweis",
+    "ES": "Testimonio Escarlata",
+    "FR": "Preuve écarlate",
+    "ID": "Scarlet Proof",
+    "IT": "Prova scarlatta",
+    "JP": "紅血の証",
+    "KR": "핏빛 증표",
+    "PT": "Prova Escarlate",
+    "RU": "Багряное доказательство",
+    "TH": "Scarlet Proof",
+    "TR": "Kızıl Kanıt",
+    "VI": "Bằng Chứng Máu Đỏ"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15047/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "#Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%",
+        "RU": "Сила атаки увеличивается на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn Công tăng 18%."
+      },
+      "affixId": "2150470"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases the equipping character's CRIT Rate by 16%, and their Stellar Swirl reaction dealt by 40%, for 10s after they trigger a Stellar Swirl reaction.",
+        "CHS": "装备者触发星扩散反应后的10秒内，暴击率提升16%，星扩散反应伤害提升40%。",
+        "CHT": "裝備者觸發星擴散反應後的10秒內，暴擊率提升16%，星擴散反應傷害提升40%。",
+        "DE": "#Erhöht, wenn der Träger die Reaktion Stellar-Verwirbelung auslöst, seine KT 10 s lang um 16 % und den Schaden durch die Reaktion Stellar-Verwirbelung um 40 %.",
+        "ES": "#Durante 10 s después de que el portador de este conjunto de artefactos cause una reacción de Torbellino Estelar, su Prob. CRIT aumentará en un 16% y su daño de Torbellino Estelar aumentará en un 40%.",
+        "FR": "Augmente le taux CRIT du personnage équipé de l'artéfact de 16 % et ses DGT de réaction d'Astrodispersion de 40 % pendant 10 s lorsqu'il a déclenché une réaction d'Astrodispersion.",
+        "ID": "Setelah Karakter yang mengenakan memicu reaksi Stellar Swirl, maka CRIT Rate +16% dan DMG Stellar Swirl +40% selama 10 detik.",
+        "IT": "#Per 10 s dopo aver innescato una reazione di Turbinio astrale, il tasso di CRIT e i DAN da reazione di Turbinio astrale inflitti dal personaggio aumentano rispettivamente di un 16% e di un 40%.",
+        "JP": "装備者が星拡散反応を起こした後の10秒間、会心率+16%、星拡散反応ダメージ+40%。",
+        "KR": "장착 캐릭터가 별 확산 반응 발동 후 10초 동안 치명타 확률이 16% 증가하고, 별 확산 반응 피해가 40% 증가한다",
+        "PT": "Ao desencadear uma Reação de Redemoinho Estelar, aumenta a Taxa CRIT do portador em 16% e o Dano da Reação de Redemoinho Estelar causada por ele em 40% por 10s.",
+        "RU": "На 10 сек. после того как экипированный персонаж вызывает Звёздное рассеивание, его шанс крит. попадания повышается на 16%, а урон Звёздного рассеивания увеличивается на 40%.",
+        "TH": "ภายใน 10 วินาที หลังจากผู้สวมใส่ทำให้เกิดปฏิกิริยากระจายดารา อัตราคริจะเพิ่มขึ้น 16% และความเสียหายจากปฏิกิริยากระจายดาราเพิ่มขึ้น 40%",
+        "TR": "Kuşanan karakter bir Yıldız Girdabı tepkimesi tetiklediğinde 10 saniyeliğine Kritik Oranı %16, verdiği Yıldız Girdabı Hasarı %40 artar.",
+        "VI": "Trong 10s sau khi người trang bị kích hoạt phản ứng Tinh-Khuếch Tán, Tỷ Lệ Bạo Kích tăng 16%, sát thương phản ứng Tinh-Khuếch Tán tăng 40%."
+      },
+      "affixId": "2150471"
+    }
+  ]
+}

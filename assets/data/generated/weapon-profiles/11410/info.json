@@ -1,0 +1,52 @@
+{
+  "id": 11410,
+  "name": {
+    "EN": "The Alley Flash",
+    "CHS": "暗巷闪光",
+    "CHT": "暗巷閃光",
+    "DE": "Gassenleuchte",
+    "ES": "Destello en la Oscuridad",
+    "FR": "Éclair des impasses",
+    "ID": "The Alley Flash",
+    "IT": "Luce nei vicoli",
+    "JP": "ダークアレイの閃光",
+    "KR": "뒷골목의 섬광",
+    "PT": "Brilho do Beco",
+    "RU": "Вспышка во тьме",
+    "TH": "The Alley Flash",
+    "TR": "Gece Parıltısı",
+    "VI": "Tia Sáng Nơi Hẻm Tối"
+  },
+  "nameEn": "The Alley Flash",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
+    "CHS": "有着黑夜颜色的笔直长剑，曾属于穿行于暗巷的盗贼。",
+    "CHT": "有著黑夜顏色的筆直長劍，曾屬於穿行於暗巷的盜賊。",
+    "DE": "Ein Langschwert so schwarz wie die Nacht. Es gehört früher einem Räuber, der sich nachts durch die Gassen trieb.",
+    "ES": "Una espada larga negra con un perfecto ángulo recto. Perteneció a un ladrón que deambulaba por callejones oscuros.",
+    "FR": "Une épée droite et noire comme la nuit. Elle appartenait autrefois à un voleur qui rôdait dans les ruelles sombres.",
+    "ID": "Longsword sehitam langit malam. Dulunya milik pencuri yang senang berkeliaran di lorong-lorong gelap.",
+    "IT": "Una spada a lama dritta, nera come la notte. Appartenuta a un ladro che era solito vagare per le stradine avvolte dalle tenebre.",
+    "JP": "夜の色をした真っ直ぐな長剣。かつては町に潜む盗賊が所持していた。",
+    "KR": "어두운색의 곧은 장검. 뒷골목을 누비던 도적이 사용하던 검이다",
+    "PT": "Uma espada negra, tão escura quanto a noite. Pertenceu a um ladrão que vagava pelas ruas à noite.",
+    "RU": "Чёрный как ночь клинок. Его хозяином был грабитель, который орудовал в тёмных переулках.",
+    "TH": "ดาบตรงสีดำยาว ราวกับราตรีอันมืดมิด ครั้งหนึ่งเคยเป็นของโจร ที่ร่อนเร่ไปมาในตรอกมืด",
+    "TR": "Gece kadar karanlık bir düz kılıç. Bir zamanlar karanlık sokakların efendisi olan bir hırsıza aitti.",
+    "VI": "Trường kiếm thẳng tắp có màu sắc của bóng đêm, từng thuộc về tên cướp ở bến cảng."
+  },
+  "icon": "generated/weapon-profiles/11410/avatar.webp",
+  "base_atk_lvl1": 45.0687,
+  "base_atk_lvl90": 620.0,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 11.999988,
+  "substat_lvl90": 55.1279,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

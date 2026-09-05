@@ -1,0 +1,52 @@
+{
+  "id": 12418,
+  "name": {
+    "EN": "Mailed Flower",
+    "CHS": "饰铁之花",
+    "CHT": "飾鐵之花",
+    "DE": "Eiserne Blume",
+    "ES": "Fierro Floriorlado",
+    "FR": "Fleur de mailles",
+    "ID": "Mailed Flower",
+    "IT": "Fiore corazzato",
+    "JP": "鉄彩の花",
+    "KR": "꽃 장식 대검",
+    "PT": "Flor de Aço",
+    "RU": "Цветок в латах",
+    "TH": "Mailed Flower",
+    "TR": "Zırhlı Çiçek",
+    "VI": "Đóa Hoa Tôn Màu Thép"
+  },
+  "nameEn": "Mailed Flower",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "A graceful and elegant greatsword that is decorated with flowers and ribbons.",
+    "CHS": "造型优雅利落的大剑，其上装饰节庆的鲜花与缎带。",
+    "CHT": "造型優雅利落的大劍，其上裝飾節慶的鮮花與緞帶。",
+    "DE": "Ein elegant geformtes Großschwert, verziert mit festlichen Blumen und Bändern.",
+    "ES": "Un mandoble de líneas esbeltas y elegantes, adornado con lazos y flores festivos.",
+    "FR": "Une grande épée gracieuse et élégante décorée de fleurs et de rubans.",
+    "ID": "Pedang besar yang anggun dan elegan, dihiasi dengan bunga dan pita bernuansa festival.",
+    "IT": "Uno spadone raffinato ed elegante, decorato con fiori e fiocchi.",
+    "JP": "優雅で洗練されたフォルムの大剣。祭典の花やリボンが飾られている。",
+    "KR": "우아하고 단정한 형태의 대검. 축제의 꽃과 리본으로 장식되어 있다",
+    "PT": "Um Espadão com linhas finas e elegantes, adornado com laços festivos e flores.",
+    "RU": "Изящный двуручный меч, украшенный цветами и лентами.",
+    "TH": "ดาบใหญ่รูปทรงสวยงามประณีต ซึ่งถูกประดับประดาไปด้วยดอกไม้สด และริบบิ้นของงานเทศกาล",
+    "TR": "Çiçeklerle ve kurdelelerle süslenmiş zarif ve şık bir kılıç.",
+    "VI": "Đại kiếm với tạo hình tao nhã, trên đó trang trí hoa tươi và dải lụa của ngày lễ."
+  },
+  "icon": "generated/weapon-profiles/12418/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 24.0,
+  "substat_lvl90": 110.256,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

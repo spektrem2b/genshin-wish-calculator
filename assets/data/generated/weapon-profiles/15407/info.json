@@ -1,0 +1,52 @@
+{
+  "id": 15407,
+  "name": {
+    "EN": "Compound Bow",
+    "CHS": "钢轮弓",
+    "CHT": "鋼輪弓",
+    "DE": "Compoundbogen",
+    "ES": "Arco Compuesto",
+    "FR": "Arc à poulies",
+    "ID": "Compound Bow",
+    "IT": "Arco composto",
+    "JP": "リングボウ",
+    "KR": "강철궁",
+    "PT": "Arco Composto",
+    "RU": "Составной лук",
+    "TH": "Compound Bow",
+    "TR": "Kompozit Yay",
+    "VI": "Cung Thép"
+  },
+  "nameEn": "Compound Bow",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.",
+    "CHS": "以金属制成，用滑轮引弦的复合弓，来自异国。护养极其困难，但引弓轻松，威力惊人。",
+    "CHT": "以金屬製成，用滑輪引弦的複合弓，來自異國。護養極其困難，但引弓輕鬆，威力驚人。",
+    "DE": "Ein Compoundbogen aus Metall, bei dem Räder die Sehne spannen. Aufgrund seines sonderbaren Aufbaus ist er schwierig zu pflegen. Gespannt wird er dafür umso einfacher.",
+    "ES": "Un arco de aleación de metal con unos engranajes para estirar más la cuerda. Su extraña estructura hace que sea difícil de manejar, pero sus flechas golpean al objetivo con una fuerza impresionante.",
+    "FR": "Un arc en alliage de métal, dont la corde est tendue par des poulies. Son étrange design le rend difficile à manier, mais une fois la flèche est partie, celle-ci s'abat sur la proie avec une force impressionnante.",
+    "ID": "Busur indah yang terbuat dari logam. Sangat sulit untuk dirawat, tetapi sangat mudah untuk digunakan dan memiliki kekuatan yang mengejutkan.",
+    "IT": "Un arco metallico esotico proveniente da una terra lontana. Benché di difficile manutenzione, le sue frecce colpiscono con una forza impressionante.",
+    "JP": "金属で作られた、滑車で弦を引く複合弓。異国から来たものである。手入れが難しいが、楽に矢を放つことができ、威力もかなり強い。",
+    "KR": "금속으로 만들어진 복합궁. 관리하기가 매우 까다로우나 도르래가 있어 시위를 당기기가 무척 쉽고 위력도 엄청나다",
+    "PT": "Um arco de liga de metal, com rodas que esticam a corda. De difícil manuseio, mas consegue acertar o alvo com uma força incrível.",
+    "RU": "Экзотичный металлический составной лук, привезённый издалека. Сложен в уходе, но прост в обращении.",
+    "TH": "ธนูทดกำลังหายากที่ทำจากโลหะประกอบกัน ดูแลรักษายาก แต่ขึ้นศรได้ง่ายและมีพลังทำลายที่สูงมาก",
+    "TR": "Uzak diyarlardan gelen metal bir yay. Bakımı oldukça zordur ama eşsiz fırlatma gücüyle avına muazzam bir darbe indirir.",
+    "VI": "Được làm từ kim loại, kết hợp với những bánh xe để kéo dây, đến từ dị quốc. Bảo dưỡng cực kì khó, nhưng kéo dây cung nhẹ nhàng, uy lực hơn người."
+  },
+  "icon": "generated/weapon-profiles/15407/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.150133,
+  "substat_lvl90": 0.6897,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

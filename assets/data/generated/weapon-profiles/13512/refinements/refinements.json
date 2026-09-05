@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Ashen Sun's Shadow",
+    "CHS": "烬日之影",
+    "CHT": "燼日之影",
+    "DE": "Schatten der äschernen Sonne",
+    "ES": "Sombra del sol cenizo",
+    "FR": "Ombre du soleil cendré",
+    "ID": "Ashen Sun's Shadow",
+    "IT": "Ombra del sole cinereo",
+    "JP": "燃え尽きる日の影",
+    "KR": "잿빛 태양의 그림자",
+    "PT": "Sombra do Sol de Cinzas",
+    "RU": "Тень пепельного солнца",
+    "TH": "Ashen Sun's Shadow",
+    "TR": "Solgun Güneşin Gölgesi",
+    "VI": "Bóng Tối Mặt Trời Tàn"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 12% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 24% DMG Bonus.",
+        "CHS": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升12%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升24%。",
+        "CHT": "重擊命中敵人時，賦予生命值上限25%的生命之契，該效果每14秒至多觸發一次。此外，裝備者具有生命之契時，造成的傷害提升12%；若生命之契的數值大於等於生命值上限的30%，造成的傷害將進一步提升24%。",
+        "DE": "#Verleiht beim Treffen von Gegnern mit heftigen Schlägen „Eid des Lebens“ in Höhe von 25 % der max. LP. 14 s Abklingzeit. Erhöht, wenn der Träger Eid des Lebens innehat, den verursachten Schaden um 12 %. Erhöht, wenn Eid des Lebens mindestens 30 % der max. LP entspricht, den verursachten Schaden zusätzlich um 24 %.",
+        "ES": "#Golpear a un enemigo con un Ataque Cargado otorga un pacto vital equivalente al 25% de la Vida Máx. Este efecto solo puede ocurrir una vez cada 14 s. Además, cuando el portador de esta arma tiene un pacto vital, su daño aumenta en un 12%. Si el valor del pacto vital es mayor o igual al 30% de la Vida Máx., el daño infligido aumenta en un 24% adicional.",
+        "FR": "Toucher un ennemi avec une attaque chargée accorde un engagement vital d'une valeur équivalant à 25 % des PV max. Cet effet peut être déclenché une fois toutes les 14 s. De plus, lorsque le personnage équipé de l'arme est sous l'effet d'un engagement vital, les DGT qu'il inflige augmentent de 12 %. Si la valeur de son engagement vital est supérieure ou égale à 30 % de ses PV max, les DGT qu'il inflige augmentent de 24 % supplémentaires.",
+        "ID": "Saat Charged Attack mengenai musuh, memberikan Bond of Life sebesar 25% Max HP, efek ini dapat terpicu sekali setiap 14 detik. Selain itu, saat Karakter yang mengenakan memiliki Bond of Life, DMG yang diakibatkan meningkat 12%; Jika nilai Bond of Life lebih tinggi atau sama dengan 30% Max HP, maka akan mendapatkan lagi tambahan DMG Bonus 24%.",
+        "IT": "#Quando un attacco caricato colpisce un avversario, il personaggio che equipaggia l'arma ottiene un Legame vitale pari a un 25% dei PS max. Quest'effetto può attivarsi una sola volta ogni 14 s. In più, quando il personaggio possiede un Legame vitale, ottiene un 12% di bonus DAN; se il valore del Legame vitale è maggiore o uguale a un 30% dei PS max, il bonus DAN aumenta di un ulteriore 24%.",
+        "JP": "重撃が敵に命中すると、HP上限の25%の命の契約を獲得する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+12%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+24%。",
+        "KR": "강공격이 적에게 명중 시, HP 최대치의 25%에 해당하는 생명의 계약을 부여한다. 해당 효과는 14초마다 최대 1회 발동한다. 또한 장착 캐릭터가 생명의 계약 보유 시, 주는 피해가 12% 증가한다. 만약 생명의 계약 수치가 HP 최대치의 30% 이상이면 주는 피해가 24% 더 증가한다",
+        "PT": "Quando um Ataque Carregado atinge um inimigo, ganha um Contrato de Vida equivalente a 25% da Vida Máxima. Esse efeito pode ser desencadeado uma vez a cada 14s. Além disso, quando o personagem que está com essa arma equipada tem um Contrato de Vida, aumenta o Dano em 12%. Se o valor do Contrato de Vida for maior ou igual a 30% da Vida Máxima, então ganha 24% de aumento de Dano adicional.",
+        "RU": "Попадание заряженной атакой по врагу наделяет Долгом жизни, равным 25% от макс. HP. Этот эффект может возникнуть раз в 14 сек. Кроме того, пока экипированный персонаж наделён Долгом жизни, наносимый им урон повышается на 12%. Если значение Долга жизни равно или превышает 30% от макс. HP, наносимый урон дополнительно повышается на 24%.",
+        "TH": "เมื่อชาร์จโจมตีโดนศัตรู จะมอบบ่วงพันธะชีวันที่มีค่า 25% ของพลังชีวิตสูงสุด โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 14 วินาที นอกจากนี้ เมื่อผู้สวมใส่มีบ่วงพันธะชีวัน จะสร้างความเสียหายเพิ่มขึ้น 12%; หากจำนวนบ่วงพันธะชีวันสูงกว่าหรือเท่ากับ 30% ของพลังชีวิตสูงสุด จะสร้างความเสียหายเพิ่มขึ้นอีก 24%",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettiğinde karakter, Maks. Canının %25'i kadar Hayat Bağı kazanır. Bu etki her 14 saniyede bir tetiklenebilir. Ayrıca kuşanan karakterin Hayat Bağı olduğunda karakter %12 Hasar Bonusu kazanır. Hayat Bağı değeri Maks. Canın %30'u kadar veya üzerindeyse karakter ek olarak %24 Hasar Bonusu daha kazanır.",
+        "VI": "Khi Trọng Kích trúng kẻ địch sẽ cung cấp Khế Ước Sinh Mệnh tương đương với 25% Giới Hạn HP, hiệu quả này mỗi 14s tối đa kích hoạt một lần. Ngoài ra, người trang bị khi có Khế Ước Sinh Mệnh, sát thương gây ra sẽ tăng 12%; Nếu giá trị Khế Ước Sinh Mệnh lớn hơn hoặc bằng 30% Giới Hạn HP, sát thương gây ra sẽ tăng thêm 24%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 16% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 32% DMG Bonus.",
+        "CHS": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升16%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升32%。",
+        "CHT": "重擊命中敵人時，賦予生命值上限25%的生命之契，該效果每14秒至多觸發一次。此外，裝備者具有生命之契時，造成的傷害提升16%；若生命之契的數值大於等於生命值上限的30%，造成的傷害將進一步提升32%。",
+        "DE": "#Verleiht beim Treffen von Gegnern mit heftigen Schlägen „Eid des Lebens“ in Höhe von 25 % der max. LP. 14 s Abklingzeit. Erhöht, wenn der Träger Eid des Lebens innehat, den verursachten Schaden um 16 %. Erhöht, wenn Eid des Lebens mindestens 30 % der max. LP entspricht, den verursachten Schaden zusätzlich um 32 %.",
+        "ES": "#Golpear a un enemigo con un Ataque Cargado otorga un pacto vital equivalente al 25% de la Vida Máx. Este efecto solo puede ocurrir una vez cada 14 s. Además, cuando el portador de esta arma tiene un pacto vital, su daño aumenta en un 16%. Si el valor del pacto vital es mayor o igual al 30% de la Vida Máx., el daño infligido aumenta en un 32% adicional.",
+        "FR": "Toucher un ennemi avec une attaque chargée accorde un engagement vital d'une valeur équivalant à 25 % des PV max. Cet effet peut être déclenché une fois toutes les 14 s. De plus, lorsque le personnage équipé de l'arme est sous l'effet d'un engagement vital, les DGT qu'il inflige augmentent de 16 %. Si la valeur de son engagement vital est supérieure ou égale à 30 % de ses PV max, les DGT qu'il inflige augmentent de 32 % supplémentaires.",
+        "ID": "Saat Charged Attack mengenai musuh, memberikan Bond of Life sebesar 25% Max HP, efek ini dapat terpicu sekali setiap 14 detik. Selain itu, saat Karakter yang mengenakan memiliki Bond of Life, DMG yang diakibatkan meningkat 16%; Jika nilai Bond of Life lebih tinggi atau sama dengan 30% Max HP, maka akan mendapatkan lagi tambahan DMG Bonus 32%.",
+        "IT": "#Quando un attacco caricato colpisce un avversario, il personaggio che equipaggia l'arma ottiene un Legame vitale pari a un 25% dei PS max. Quest'effetto può attivarsi una sola volta ogni 14 s. In più, quando il personaggio possiede un Legame vitale, ottiene un 16% di bonus DAN; se il valore del Legame vitale è maggiore o uguale a un 30% dei PS max, il bonus DAN aumenta di un ulteriore 32%.",
+        "JP": "重撃が敵に命中すると、HP上限の25%の命の契約を獲得する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+16%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+32%。",
+        "KR": "강공격이 적에게 명중 시, HP 최대치의 25%에 해당하는 생명의 계약을 부여한다. 해당 효과는 14초마다 최대 1회 발동한다. 또한 장착 캐릭터가 생명의 계약 보유 시, 주는 피해가 16% 증가한다. 만약 생명의 계약 수치가 HP 최대치의 30% 이상이면 주는 피해가 32% 더 증가한다",
+        "PT": "Quando um Ataque Carregado atinge um inimigo, ganha um Contrato de Vida equivalente a 25% da Vida Máxima. Esse efeito pode ser desencadeado uma vez a cada 14s. Além disso, quando o personagem que está com essa arma equipada tem um Contrato de Vida, aumenta o Dano em 16%. Se o valor do Contrato de Vida for maior ou igual a 30% da Vida Máxima, então ganha 32% de aumento de Dano adicional.",
+        "RU": "Попадание заряженной атакой по врагу наделяет Долгом жизни, равным 25% от макс. HP. Этот эффект может возникнуть раз в 14 сек. Кроме того, пока экипированный персонаж наделён Долгом жизни, наносимый им урон повышается на 16%. Если значение Долга жизни равно или превышает 30% от макс. HP, наносимый урон дополнительно повышается на 32%.",
+        "TH": "เมื่อชาร์จโจมตีโดนศัตรู จะมอบบ่วงพันธะชีวันที่มีค่า 25% ของพลังชีวิตสูงสุด โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 14 วินาที นอกจากนี้ เมื่อผู้สวมใส่มีบ่วงพันธะชีวัน จะสร้างความเสียหายเพิ่มขึ้น 16%; หากจำนวนบ่วงพันธะชีวันสูงกว่าหรือเท่ากับ 30% ของพลังชีวิตสูงสุด จะสร้างความเสียหายเพิ่มขึ้นอีก 32%",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettiğinde karakter, Maks. Canının %25'i kadar Hayat Bağı kazanır. Bu etki her 14 saniyede bir tetiklenebilir. Ayrıca kuşanan karakterin Hayat Bağı olduğunda karakter %16 Hasar Bonusu kazanır. Hayat Bağı değeri Maks. Canın %30'u kadar veya üzerindeyse karakter ek olarak %32 Hasar Bonusu daha kazanır.",
+        "VI": "Khi Trọng Kích trúng kẻ địch sẽ cung cấp Khế Ước Sinh Mệnh tương đương với 25% Giới Hạn HP, hiệu quả này mỗi 14s tối đa kích hoạt một lần. Ngoài ra, người trang bị khi có Khế Ước Sinh Mệnh, sát thương gây ra sẽ tăng 16%; Nếu giá trị Khế Ước Sinh Mệnh lớn hơn hoặc bằng 30% Giới Hạn HP, sát thương gây ra sẽ tăng thêm 32%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 20% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 40% DMG Bonus.",
+        "CHS": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升20%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升40%。",
+        "CHT": "重擊命中敵人時，賦予生命值上限25%的生命之契，該效果每14秒至多觸發一次。此外，裝備者具有生命之契時，造成的傷害提升20%；若生命之契的數值大於等於生命值上限的30%，造成的傷害將進一步提升40%。",
+        "DE": "#Verleiht beim Treffen von Gegnern mit heftigen Schlägen „Eid des Lebens“ in Höhe von 25 % der max. LP. 14 s Abklingzeit. Erhöht, wenn der Träger Eid des Lebens innehat, den verursachten Schaden um 20 %. Erhöht, wenn Eid des Lebens mindestens 30 % der max. LP entspricht, den verursachten Schaden zusätzlich um 40 %.",
+        "ES": "#Golpear a un enemigo con un Ataque Cargado otorga un pacto vital equivalente al 25% de la Vida Máx. Este efecto solo puede ocurrir una vez cada 14 s. Además, cuando el portador de esta arma tiene un pacto vital, su daño aumenta en un 20%. Si el valor del pacto vital es mayor o igual al 30% de la Vida Máx., el daño infligido aumenta en un 40% adicional.",
+        "FR": "Toucher un ennemi avec une attaque chargée accorde un engagement vital d'une valeur équivalant à 25 % des PV max. Cet effet peut être déclenché une fois toutes les 14 s. De plus, lorsque le personnage équipé de l'arme est sous l'effet d'un engagement vital, les DGT qu'il inflige augmentent de 20 %. Si la valeur de son engagement vital est supérieure ou égale à 30 % de ses PV max, les DGT qu'il inflige augmentent de 40 % supplémentaires.",
+        "ID": "Saat Charged Attack mengenai musuh, memberikan Bond of Life sebesar 25% Max HP, efek ini dapat terpicu sekali setiap 14 detik. Selain itu, saat Karakter yang mengenakan memiliki Bond of Life, DMG yang diakibatkan meningkat 20%; Jika nilai Bond of Life lebih tinggi atau sama dengan 30% Max HP, maka akan mendapatkan lagi tambahan DMG Bonus 40%.",
+        "IT": "#Quando un attacco caricato colpisce un avversario, il personaggio che equipaggia l'arma ottiene un Legame vitale pari a un 25% dei PS max. Quest'effetto può attivarsi una sola volta ogni 14 s. In più, quando il personaggio possiede un Legame vitale, ottiene un 20% di bonus DAN; se il valore del Legame vitale è maggiore o uguale a un 30% dei PS max, il bonus DAN aumenta di un ulteriore 40%.",
+        "JP": "重撃が敵に命中すると、HP上限の25%の命の契約を獲得する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+20%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+40%。",
+        "KR": "강공격이 적에게 명중 시, HP 최대치의 25%에 해당하는 생명의 계약을 부여한다. 해당 효과는 14초마다 최대 1회 발동한다. 또한 장착 캐릭터가 생명의 계약 보유 시, 주는 피해가 20% 증가한다. 만약 생명의 계약 수치가 HP 최대치의 30% 이상이면 주는 피해가 40% 더 증가한다",
+        "PT": "Quando um Ataque Carregado atinge um inimigo, ganha um Contrato de Vida equivalente a 25% da Vida Máxima. Esse efeito pode ser desencadeado uma vez a cada 14s. Além disso, quando o personagem que está com essa arma equipada tem um Contrato de Vida, aumenta o Dano em 20%. Se o valor do Contrato de Vida for maior ou igual a 30% da Vida Máxima, então ganha 40% de aumento de Dano adicional.",
+        "RU": "Попадание заряженной атакой по врагу наделяет Долгом жизни, равным 25% от макс. HP. Этот эффект может возникнуть раз в 14 сек. Кроме того, пока экипированный персонаж наделён Долгом жизни, наносимый им урон повышается на 20%. Если значение Долга жизни равно или превышает 30% от макс. HP, наносимый урон дополнительно повышается на 40%.",
+        "TH": "เมื่อชาร์จโจมตีโดนศัตรู จะมอบบ่วงพันธะชีวันที่มีค่า 25% ของพลังชีวิตสูงสุด โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 14 วินาที นอกจากนี้ เมื่อผู้สวมใส่มีบ่วงพันธะชีวัน จะสร้างความเสียหายเพิ่มขึ้น 20%; หากจำนวนบ่วงพันธะชีวันสูงกว่าหรือเท่ากับ 30% ของพลังชีวิตสูงสุด จะสร้างความเสียหายเพิ่มขึ้นอีก 40%",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettiğinde karakter, Maks. Canının %25'i kadar Hayat Bağı kazanır. Bu etki her 14 saniyede bir tetiklenebilir. Ayrıca kuşanan karakterin Hayat Bağı olduğunda karakter %20 Hasar Bonusu kazanır. Hayat Bağı değeri Maks. Canın %30'u kadar veya üzerindeyse karakter ek olarak %40 Hasar Bonusu daha kazanır.",
+        "VI": "Khi Trọng Kích trúng kẻ địch sẽ cung cấp Khế Ước Sinh Mệnh tương đương với 25% Giới Hạn HP, hiệu quả này mỗi 14s tối đa kích hoạt một lần. Ngoài ra, người trang bị khi có Khế Ước Sinh Mệnh, sát thương gây ra sẽ tăng 20%; Nếu giá trị Khế Ước Sinh Mệnh lớn hơn hoặc bằng 30% Giới Hạn HP, sát thương gây ra sẽ tăng thêm 40%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 24% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 48% DMG Bonus.",
+        "CHS": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升24%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升48%。",
+        "CHT": "重擊命中敵人時，賦予生命值上限25%的生命之契，該效果每14秒至多觸發一次。此外，裝備者具有生命之契時，造成的傷害提升24%；若生命之契的數值大於等於生命值上限的30%，造成的傷害將進一步提升48%。",
+        "DE": "#Verleiht beim Treffen von Gegnern mit heftigen Schlägen „Eid des Lebens“ in Höhe von 25 % der max. LP. 14 s Abklingzeit. Erhöht, wenn der Träger Eid des Lebens innehat, den verursachten Schaden um 24 %. Erhöht, wenn Eid des Lebens mindestens 30 % der max. LP entspricht, den verursachten Schaden zusätzlich um 48 %.",
+        "ES": "#Golpear a un enemigo con un Ataque Cargado otorga un pacto vital equivalente al 25% de la Vida Máx. Este efecto solo puede ocurrir una vez cada 14 s. Además, cuando el portador de esta arma tiene un pacto vital, su daño aumenta en un 24%. Si el valor del pacto vital es mayor o igual al 30% de la Vida Máx., el daño infligido aumenta en un 48% adicional.",
+        "FR": "Toucher un ennemi avec une attaque chargée accorde un engagement vital d'une valeur équivalant à 25 % des PV max. Cet effet peut être déclenché une fois toutes les 14 s. De plus, lorsque le personnage équipé de l'arme est sous l'effet d'un engagement vital, les DGT qu'il inflige augmentent de 24 %. Si la valeur de son engagement vital est supérieure ou égale à 30 % de ses PV max, les DGT qu'il inflige augmentent de 48 % supplémentaires.",
+        "ID": "Saat Charged Attack mengenai musuh, memberikan Bond of Life sebesar 25% Max HP, efek ini dapat terpicu sekali setiap 14 detik. Selain itu, saat Karakter yang mengenakan memiliki Bond of Life, DMG yang diakibatkan meningkat 24%; Jika nilai Bond of Life lebih tinggi atau sama dengan 30% Max HP, maka akan mendapatkan lagi tambahan DMG Bonus 48%.",
+        "IT": "#Quando un attacco caricato colpisce un avversario, il personaggio che equipaggia l'arma ottiene un Legame vitale pari a un 25% dei PS max. Quest'effetto può attivarsi una sola volta ogni 14 s. In più, quando il personaggio possiede un Legame vitale, ottiene un 24% di bonus DAN; se il valore del Legame vitale è maggiore o uguale a un 30% dei PS max, il bonus DAN aumenta di un ulteriore 48%.",
+        "JP": "重撃が敵に命中すると、HP上限の25%の命の契約を獲得する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+24%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+48%。",
+        "KR": "강공격이 적에게 명중 시, HP 최대치의 25%에 해당하는 생명의 계약을 부여한다. 해당 효과는 14초마다 최대 1회 발동한다. 또한 장착 캐릭터가 생명의 계약 보유 시, 주는 피해가 24% 증가한다. 만약 생명의 계약 수치가 HP 최대치의 30% 이상이면 주는 피해가 48% 더 증가한다",
+        "PT": "Quando um Ataque Carregado atinge um inimigo, ganha um Contrato de Vida equivalente a 25% da Vida Máxima. Esse efeito pode ser desencadeado uma vez a cada 14s. Além disso, quando o personagem que está com essa arma equipada tem um Contrato de Vida, aumenta o Dano em 24%. Se o valor do Contrato de Vida for maior ou igual a 30% da Vida Máxima, então ganha 48% de aumento de Dano adicional.",
+        "RU": "Попадание заряженной атакой по врагу наделяет Долгом жизни, равным 25% от макс. HP. Этот эффект может возникнуть раз в 14 сек. Кроме того, пока экипированный персонаж наделён Долгом жизни, наносимый им урон повышается на 24%. Если значение Долга жизни равно или превышает 30% от макс. HP, наносимый урон дополнительно повышается на 48%.",
+        "TH": "เมื่อชาร์จโจมตีโดนศัตรู จะมอบบ่วงพันธะชีวันที่มีค่า 25% ของพลังชีวิตสูงสุด โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 14 วินาที นอกจากนี้ เมื่อผู้สวมใส่มีบ่วงพันธะชีวัน จะสร้างความเสียหายเพิ่มขึ้น 24%; หากจำนวนบ่วงพันธะชีวันสูงกว่าหรือเท่ากับ 30% ของพลังชีวิตสูงสุด จะสร้างความเสียหายเพิ่มขึ้นอีก 48%",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettiğinde karakter, Maks. Canının %25'i kadar Hayat Bağı kazanır. Bu etki her 14 saniyede bir tetiklenebilir. Ayrıca kuşanan karakterin Hayat Bağı olduğunda karakter %24 Hasar Bonusu kazanır. Hayat Bağı değeri Maks. Canın %30'u kadar veya üzerindeyse karakter ek olarak %48 Hasar Bonusu daha kazanır.",
+        "VI": "Khi Trọng Kích trúng kẻ địch sẽ cung cấp Khế Ước Sinh Mệnh tương đương với 25% Giới Hạn HP, hiệu quả này mỗi 14s tối đa kích hoạt một lần. Ngoài ra, người trang bị khi có Khế Ước Sinh Mệnh, sát thương gây ra sẽ tăng 24%; Nếu giá trị Khế Ước Sinh Mệnh lớn hơn hoặc bằng 30% Giới Hạn HP, sát thương gây ra sẽ tăng thêm 48%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 28% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 56% DMG Bonus.",
+        "CHS": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升28%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升56%。",
+        "CHT": "重擊命中敵人時，賦予生命值上限25%的生命之契，該效果每14秒至多觸發一次。此外，裝備者具有生命之契時，造成的傷害提升28%；若生命之契的數值大於等於生命值上限的30%，造成的傷害將進一步提升56%。",
+        "DE": "#Verleiht beim Treffen von Gegnern mit heftigen Schlägen „Eid des Lebens“ in Höhe von 25 % der max. LP. 14 s Abklingzeit. Erhöht, wenn der Träger Eid des Lebens innehat, den verursachten Schaden um 28 %. Erhöht, wenn Eid des Lebens mindestens 30 % der max. LP entspricht, den verursachten Schaden zusätzlich um 56 %.",
+        "ES": "#Golpear a un enemigo con un Ataque Cargado otorga un pacto vital equivalente al 25% de la Vida Máx. Este efecto solo puede ocurrir una vez cada 14 s. Además, cuando el portador de esta arma tiene un pacto vital, su daño aumenta en un 28%. Si el valor del pacto vital es mayor o igual al 30% de la Vida Máx., el daño infligido aumenta en un 56% adicional.",
+        "FR": "Toucher un ennemi avec une attaque chargée accorde un engagement vital d'une valeur équivalant à 25 % des PV max. Cet effet peut être déclenché une fois toutes les 14 s. De plus, lorsque le personnage équipé de l'arme est sous l'effet d'un engagement vital, les DGT qu'il inflige augmentent de 28 %. Si la valeur de son engagement vital est supérieure ou égale à 30 % de ses PV max, les DGT qu'il inflige augmentent de 56 % supplémentaires.",
+        "ID": "Saat Charged Attack mengenai musuh, memberikan Bond of Life sebesar 25% Max HP, efek ini dapat terpicu sekali setiap 14 detik. Selain itu, saat Karakter yang mengenakan memiliki Bond of Life, DMG yang diakibatkan meningkat 28%; Jika nilai Bond of Life lebih tinggi atau sama dengan 30% Max HP, maka akan mendapatkan lagi tambahan DMG Bonus 56%.",
+        "IT": "#Quando un attacco caricato colpisce un avversario, il personaggio che equipaggia l'arma ottiene un Legame vitale pari a un 25% dei PS max. Quest'effetto può attivarsi una sola volta ogni 14 s. In più, quando il personaggio possiede un Legame vitale, ottiene un 28% di bonus DAN; se il valore del Legame vitale è maggiore o uguale a un 30% dei PS max, il bonus DAN aumenta di un ulteriore 56%.",
+        "JP": "重撃が敵に命中すると、HP上限の25%の命の契約を獲得する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+28%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+56%。",
+        "KR": "강공격이 적에게 명중 시, HP 최대치의 25%에 해당하는 생명의 계약을 부여한다. 해당 효과는 14초마다 최대 1회 발동한다. 또한 장착 캐릭터가 생명의 계약 보유 시, 주는 피해가 28% 증가한다. 만약 생명의 계약 수치가 HP 최대치의 30% 이상이면 주는 피해가 56% 더 증가한다",
+        "PT": "Quando um Ataque Carregado atinge um inimigo, ganha um Contrato de Vida equivalente a 25% da Vida Máxima. Esse efeito pode ser desencadeado uma vez a cada 14s. Além disso, quando o personagem que está com essa arma equipada tem um Contrato de Vida, aumenta o Dano em 28%. Se o valor do Contrato de Vida for maior ou igual a 30% da Vida Máxima, então ganha 56% de aumento de Dano adicional.",
+        "RU": "Попадание заряженной атакой по врагу наделяет Долгом жизни, равным 25% от макс. HP. Этот эффект может возникнуть раз в 14 сек. Кроме того, пока экипированный персонаж наделён Долгом жизни, наносимый им урон повышается на 28%. Если значение Долга жизни равно или превышает 30% от макс. HP, наносимый урон дополнительно повышается на 56%.",
+        "TH": "เมื่อชาร์จโจมตีโดนศัตรู จะมอบบ่วงพันธะชีวันที่มีค่า 25% ของพลังชีวิตสูงสุด โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 14 วินาที นอกจากนี้ เมื่อผู้สวมใส่มีบ่วงพันธะชีวัน จะสร้างความเสียหายเพิ่มขึ้น 28%; หากจำนวนบ่วงพันธะชีวันสูงกว่าหรือเท่ากับ 30% ของพลังชีวิตสูงสุด จะสร้างความเสียหายเพิ่มขึ้นอีก 56%",
+        "TR": "Bir Yüklü Saldırı bir düşmana isabet ettiğinde karakter, Maks. Canının %25'i kadar Hayat Bağı kazanır. Bu etki her 14 saniyede bir tetiklenebilir. Ayrıca kuşanan karakterin Hayat Bağı olduğunda karakter %28 Hasar Bonusu kazanır. Hayat Bağı değeri Maks. Canın %30'u kadar veya üzerindeyse karakter ek olarak %56 Hasar Bonusu daha kazanır.",
+        "VI": "Khi Trọng Kích trúng kẻ địch sẽ cung cấp Khế Ước Sinh Mệnh tương đương với 25% Giới Hạn HP, hiệu quả này mỗi 14s tối đa kích hoạt một lần. Ngoài ra, người trang bị khi có Khế Ước Sinh Mệnh, sát thương gây ra sẽ tăng 28%; Nếu giá trị Khế Ước Sinh Mệnh lớn hơn hoặc bằng 30% Giới Hạn HP, sát thương gây ra sẽ tăng thêm 56%."
+      }
+    }
+  ]
+}

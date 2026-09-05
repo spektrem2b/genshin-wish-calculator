@@ -1,0 +1,52 @@
+{
+  "id": 12513,
+  "name": {
+    "EN": "Fang of the Mountain King",
+    "CHS": "山王长牙",
+    "CHT": "山王長牙",
+    "DE": "Zahn des Bergkönigs",
+    "ES": "Colmillo del Rey de la Montaña",
+    "FR": "Croc du roi de la montagne",
+    "ID": "Fang of the Mountain King",
+    "IT": "Zanna del Re della Montagna",
+    "JP": "山の王の長牙",
+    "KR": "산왕의 엄니",
+    "PT": "Presa do Rei da Montanha",
+    "RU": "Клык Горного короля",
+    "TH": "Fang of the Mountain King",
+    "TR": "Dağ Kralı'nın Dişi",
+    "VI": "Nanh Sơn Vương"
+  },
+  "nameEn": "Fang of the Mountain King",
+  "type": "Trọng Kiếm",
+  "rarity": 5,
+  "description": {
+    "EN": "A giant sword forged from pure turquoise. Due to its greater weight than most ordinary weapons, it was named for Kongomato the Mountain King.",
+    "CHS": "由纯然的绿松石锻造而成的巨剑，因其远超一般兵刃的重量而被冠以「山王」康加玛托之名。",
+    "CHT": "由純然的綠松石鍛造而成的巨劍，因遠超一般兵刃的重量而被冠以「山王」康加瑪托之名。",
+    "DE": "Ein riesiges Schwert aus reinem Türkis. Weil es viel schwerer ist als eine gewöhnliche Waffe, wurde es nach dem „Bergkönig“ Kongamato benannt.",
+    "ES": "Una gran espada forjada con turquesa pura. Recibió el nombre de Kongamato, el Rey de la Montaña, porque pesa muchísimo más que cualquier otra espada normal.",
+    "FR": "Une épée géante forgée à partir de turquoise pure. En raison de son poids supérieur à celui de la plupart des armes ordinaires, elle doit son nom à Kongomato, le roi de la montagne.",
+    "ID": "Pedang raksasa yang ditempa dari batu pirus murni. Karena beratnya yang jauh melebihi senjata biasa ini, pedang ini diberi nama \"Raja Gunung\" Kongamato.",
+    "IT": "Una gigantesca spada forgiata in puro minerale di turchese. Essendo più pesante delle comuni armi, è stata dedicata a Kongamato, il Re della Montagna.",
+    "JP": "純粋なターコイズで鍛えられた巨大な剣。通常の武器よりも遥かに重いことから、「山の王」コンガマトーに因んで名付けられた。",
+    "KR": "순수한 터키석으로 만든 대검. 일반적인 무기보다 훨씬 무거워서 「산왕」 콩가마토라는 이름을 얻었다",
+    "PT": "Uma espada gigante forjada de turquesa pura. Recebeu o nome de Rei da Montanha pelo seu peso considerável e tamanho muito maior do que uma lâmina comum.",
+    "RU": "Огромный меч, выкованный из чистой бирюзы. Из-за веса, значительно превосходящего обычное оружие, его назвали в честь Горного короля Конгамато.",
+    "TH": "ดาบใหญ่ที่ถูกหลอมขึ้นจากเทอร์คอยส์บริสุทธิ์ ด้วยน้ำหนักที่หนักกว่าอาวุธทั่วไป จึงได้รับการขนานนามว่า Kongamato \"ราชาแห่งขุนเขา\"",
+    "TR": "Saf turkuazdan dövülmüş devasa bir kılıç. Sıradan silahlara kıyasla çok daha ağır olduğu için adını Dağ Kralı Kongamato'dan almış.",
+    "VI": "Thanh kiếm lớn được đúc từ đá xanh thuần khiết. Vì trọng lượng của nó vượt xa binh khí thông thường nên được gọi là Sơn Vương Kongamato."
+  },
+  "icon": "generated/weapon-profiles/12513/avatar.webp",
+  "base_atk_lvl1": 49.1377,
+  "base_atk_lvl90": 740.6,
+  "substat_type": "FIGHT_PROP_CRITICAL",
+  "substat_lvl1": 0.024,
+  "substat_lvl90": 0.1103,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

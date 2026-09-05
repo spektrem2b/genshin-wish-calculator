@@ -1,0 +1,52 @@
+{
+  "id": 14512,
+  "name": {
+    "EN": "Tulaytullah's Remembrance",
+    "CHS": "图莱杜拉的回忆",
+    "CHT": "圖萊杜拉的回憶",
+    "DE": "Tulaytullahs Erinnerung",
+    "ES": "Reminiscencia de Tulaytulah",
+    "FR": "Mémoire de Tulaytullah",
+    "ID": "Tulaytullah's Remembrance",
+    "IT": "Rimembranza di Tulaytullah",
+    "JP": "トゥライトゥーラの記憶",
+    "KR": "툴레이툴라의 기억",
+    "PT": "Reminiscências de Tulaytullah",
+    "RU": "Воспоминания Тулайтуллы",
+    "TH": "Tulaytullah's Remembrance",
+    "TR": "Tulaytullah'ın Anısı",
+    "VI": "Hồi Ức Tulaytullah"
+  },
+  "nameEn": "Tulaytullah's Remembrance",
+  "type": "Pháp Khí",
+  "rarity": 5,
+  "description": {
+    "EN": "A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant.",
+    "CHS": "深蓝宝石与纯银雕成的铃铛，回响之声清脆悠远。",
+    "CHT": "深藍寶石與純銀雕成的鈴鐺，迴響之聲清脆悠遠。",
+    "DE": "Eine aus Saphir und reinem Silber angefertigte Glocke, deren Schlag noch in weiter Ferne zu vernehmen ist.",
+    "ES": "Una campana hecha de zafiro y plata pura. Su lejana reverberación es, paradójicamente, muy nítida.",
+    "FR": "Une cloche fabriquée en saphir et en argent, dont les échos sont aussi nets que lointains.",
+    "ID": "Lonceng yang terbuat dari safir berwarna gelap dan perak murni. Suara gemanya sangat tajam dan jauh.",
+    "IT": "Una campana forgiata in zaffiro scuro e argento sterling. I suoi echi non perdono di brillantezza neanche a lunghe distanze.",
+    "JP": "ダークサファイアと純銀から彫られたベル。澄んだ音を遠くまで響き渡らせる。",
+    "KR": "짙푸른 사파이어와 순은으로 만든 종. 그 소리는 맑고 아득하다",
+    "PT": "Um sino feito de safira e prata pura. Seus ecos são claros, mas distantes.",
+    "RU": "Колокольчик, вырезанный из тёмного сапфира и покрытый чистым серебром. Его хрустальный звон разносится далёким эхом.",
+    "TH": "กระดิ่งที่แกะสลักจากไพลินสีเข้ม และเงินบริสุทธิ์ เสียงสะท้อนที่ชัดเจน และไพเราะของมันนั้น ดังก้องกังวานไปไกลแสนไกล",
+    "TR": "Koyu safir ve som gümüşten yapılma bir çan. Düzenli ve uzaklara ulaşan bir yankısı var.",
+    "VI": "Chiếc chuông được khắc từ bạc và lam bảo thạch, âm thanh của nó vang vọng rất xa."
+  },
+  "icon": "generated/weapon-profiles/14512/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.096,
+  "substat_lvl90": 0.441,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

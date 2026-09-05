@@ -1,0 +1,52 @@
+{
+  "id": 15502,
+  "name": {
+    "EN": "Amos' Bow",
+    "CHS": "阿莫斯之弓",
+    "CHT": "阿莫斯之弓",
+    "DE": "Amos’ Bogen",
+    "ES": "Arco de Amos",
+    "FR": "Arc d'Amos",
+    "ID": "Amos' Bow",
+    "IT": "Arco di Amos",
+    "JP": "アモスの弓",
+    "KR": "아모스의 활",
+    "PT": "Arco de Amos",
+    "RU": "Лук Амоса",
+    "TH": "Amos' Bow",
+    "TR": "Amos'un Yayı",
+    "VI": "Cung Amos"
+  },
+  "nameEn": "Amos' Bow",
+  "type": "Cung",
+  "rarity": 5,
+  "description": {
+    "EN": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
+    "CHS": "极为古老的弓。即使原主不复存在，其中蕴藏之力依旧——那种力量无主，却在万物当中。距离心系之物越是遥远，那种力量愈是剧烈。",
+    "CHT": "極為古老的弓。即使原主不復存在，其中蘊藏之力依舊——那種力量無主，卻在萬物當中。距離心繫之物越是遙遠，那種力量越是劇烈。",
+    "DE": "Ein äußerst alter Bogen, der zwar seinen Meister verloren hat, jedoch nicht seine Kraft, die stärker wird, je weiter der Träger des Bogens von dem entfernt ist, was er begehrt.",
+    "ES": "Un arco extremadamente antiguo que conserva su poder aunque su dueño abandonó nuestro mundo hace mucho tiempo. Absorbe el poder de los seres vivos e inertes. Cuanto más lejos estés de aquello que tu corazón anhela, más poderoso será este arco.",
+    "FR": "Un arc extrêmement ancien. Même si son maître d'origine n'est plus, on sent encore son pouvoir, drainé de tous les êtres de ce monde. Plus l'objet de vos désirs se trouve loin, et meilleure est sa puissance.",
+    "ID": "Busur kuno yang masih menyimpan kekuatan walaupun pemiliknya telah lama hilang. Menarik kekuatan dari semua orang dan segala yang ada di dunia, dan semakin jauh seseorang dari keinginan hatinya, semakin kuat pula busur tersebut.",
+    "IT": "Un arco estremamente antico, che ha mantenuto il suo potere nonostante la prematura dipartita del suo primo proprietario. Assorbe l'energia di tutto e di tutti, e quanto più è lontano il tuo oggetto del desiderio, maggiore è la sua potenza.",
+    "JP": "極めて古い弓。元の主がいなくても、その力は変わらない。それは万物の中にある力であり、欲するものから遠くなるほど、その力は強くなる。",
+    "KR": "아주 오래된 활. 원래의 주인이 더 이상 존재하지 않더라도 그 안에 깃든 힘은 여전하다. 그 힘은 주인이 없으나 만물 속에 깃들어있다. 마음속의 욕망을 멀리할수록 그 힘이 더 강해진다",
+    "PT": "Um arco extremamente antigo que reteve seu poder, apesar de seu mestre original ter desaparecido há muito tempo. Ele extrai poder de todos e de tudo no mundo, e quanto mais longe você estiver daquilo que seu coração deseja, mais poderoso será.",
+    "RU": "Необычайно древний лук, который до сих пор сохранил силу своего давно ушедшего хозяина. Он поглощает энергию всего и всех на свете. Чем дальше вы от желаемой цели, тем мощнее выпущенные им стрелы.",
+    "TH": "คันธนูที่มีความเก่าแก่มากซึ่งแม้ว่าเจ้าของดั้งเดิมของมันจะไม่อยู่แล้วแต่ก็ยังคงแฝงไปด้วยพลังเช่นเดิม... พลังที่ไม่มีใครควบคุมนั่นกลับอยู่ท่ามกลางสรรพสิ่ง ซึ่งยิ่งมันอยู่ห่างจากสิ่งที่ไร้หัวใจเท่าไหร่ พลังนั่นก็จะยิ่งรุนแรงขึ้นเท่านั้น",
+    "TR": "Zamanın kendisi kadar eski bir yay. İlk sahibi onu çoktan terk etmiş olsa da ilk günkü kadar güçlüdür. Dünyadaki herkesin ve her şeyin gücünden yararlanır ve arzulanan şey ne kadar uzaktaysa gücü o kadar artar.",
+    "VI": "Cung vô cùng cổ xưa. Ngay cả khi chủ nhân ban đầu không còn tồn tại, thế nhưng sức mạnh ẩn chứa trong nó vẫn còn như xưa - sức mạnh vô chủ, nhưng tồn tại trong tất cả mọi thứ. Khoảng cách tâm hệ càng lớn thì sức mạnh càng mãnh liệt.."
+  },
+  "icon": "generated/weapon-profiles/15502/avatar.webp",
+  "base_atk_lvl1": 45.9364,
+  "base_atk_lvl90": 608.1,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.108,
+  "substat_lvl90": 0.4962,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

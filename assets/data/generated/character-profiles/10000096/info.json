@@ -1,0 +1,137 @@
+{
+  "id": "10000096",
+  "name": {
+    "EN": "Arlecchino",
+    "CHS": "阿蕾奇诺",
+    "CHT": "阿蕾奇諾",
+    "DE": "Arlecchino",
+    "ES": "Arlecchino",
+    "FR": "Arlecchino",
+    "ID": "Arlecchino",
+    "IT": "Arlecchino",
+    "JP": "アルレッキーノ",
+    "KR": "아를레키노",
+    "PT": "Arlecchino",
+    "RU": "Арлекино",
+    "TH": "Arlecchino",
+    "TR": "Arlecchino",
+    "VI": "Arlecchino"
+  },
+  "nameEn": "Arlecchino",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "FATUI",
+  "birthday": {
+    "month": 8,
+    "day": 22
+  },
+  "release": "2024-04-22T21:00:00",
+  "icon": "generated/character-profiles/10000096/avatar.webp",
+  "fullWish": "generated/character-profiles/10000096/full_wish.webp",
+  "fullWishObjectPosition": "46.1% 16.4%",
+  "title": {
+    "EN": "Dire Balemoon",
+    "CHS": "孤暝厄月",
+    "CHT": "孤暝厄月",
+    "DE": "Unheil verkündender Mond",
+    "ES": "La Portadora Lunaciaga",
+    "FR": "Lune sinistre",
+    "ID": "Dire Balemoon",
+    "IT": "Mezzaluna di presagi nefasti",
+    "JP": "暝天の凶月",
+    "KR": "어둠 속 재액의 달",
+    "PT": "Lua Solitária da Escuridão",
+    "RU": "Роковая луна",
+    "TH": "เดือนดับผู้เดียวดาย",
+    "TR": "Uğursuz Ayın Karanlığı",
+    "VI": "Vầng Trăng Tai Họa"
+  },
+  "description": {
+    "EN": "\"The Knave,\" Fourth of the Fatui Harbingers. A poised, ruthless diplomat. To the children in the House of the Hearth, she is their feared yet dependable \"Father.\"",
+    "CHS": "愚人众执行官第四席，「仆人」。沉静冷酷的外交官，「壁炉之家」所有孩子们畏惧又依赖的「父亲」。",
+    "CHT": "愚人眾執行官第四席，「僕人」。沉靜冷酷的外交官，「壁爐之家」所有孩子們畏懼又依賴的「父親」。",
+    "DE": "Die „Bedienstete“, die Vierte unter den Elf der Fatui. Sie ist eine souveräne und rücksichtslose Diplomatin, die als „Vater“ von den Kindern des Hauses des Kamins gefürchtet wird und von der sie zugleich abhängig sind.",
+    "ES": "La Sota, la cuarta de Los Once de los Fatui y una diplomática fría e implacable. Es conocida como “Padre” por todos los niños de la Casa de la Hoguera, a quien temen, pero de quien también dependen.",
+    "FR": "Quatrième Exécutrice des Fatui, Arlecchino est une diplomate posée et impitoyable. Pour les enfants du Foyer de l'âtre, elle est leur « Père » redoutée mais fiable.",
+    "ID": "Fatui Harbinger ke-4 \"The Knave\". Diplomat yang tenang dan kejam. Dikenal sebagai \"Ayah\" yang dihormati dan dapat diandalkan oleh anak-anak di House of the Hearth.",
+    "IT": "La Fantesca, la quarta dei Messaggeri dei Fatui. Una diplomatica imperturbabile e spietata. Per i bambini della Casa del Focolare, è il loro temuto e affidabile \"Padre\".",
+    "JP": "ファデュイ執行官第四位「召使」。冷静かつ冷徹な外交官。「壁炉の家」の子供たちがみな畏れ、頼りにする「お父様」。",
+    "KR": "우인단 집행관 서열 4위 「아를레키노」. 침착하고 냉혹한 외교관이자, 「벽난로의 집」의 모든 아이들이 경외하고 의지하는 「아버지」다",
+    "PT": "A Serva, a Quarta Mensageira dos Fatui. Uma diplomata calma e implacável, o \"Pai\" que todas as crianças da Casa da Lareira temem e a quem reverenciam.",
+    "RU": "Слуга, четвёртая из Предвестников Фатуи. Опытный, безжалостный дипломат. «Отец», которого боятся и на которого полагаются дети Дома очага.",
+    "TH": "\"The Knave\" ผู้บริหารอันดับที่สี่ของ Fatui นักการทูตที่เงียบขรึมและเย็นชา และ \"ท่านพ่อ\" ที่เด็ก ๆ ในบ้านแสนอบอุ่นต่างหวาดกลัวและคอยพึ่งพิง",
+    "TR": "Fatui Habercilerinin Dördüncüsü \"Yaver\". Soğukkanlı ve acımasız bir diplomat. Taş Yuva çocukları içinse korkulan ancak güvenilir bir \"Baba\".",
+    "VI": "Quan Chấp Hành thứ 4 của Fatui - Arlecchino. Nhà ngoại giao trầm tĩnh lạnh lùng, là \"Cha\" mà bọn trẻ vừa sợ hãi cũng vừa dựa dẫm trong Căn Nhà Hơi Ấm."
+  },
+  "constellationName": {
+    "EN": "Ignis Purgatorius",
+    "CHS": "净炼火座",
+    "CHT": "淨煉火座",
+    "DE": "Ignis Purgatorius",
+    "ES": "Ignis Purgatorius",
+    "FR": "Ignis Purgatorius",
+    "ID": "Ignis Purgatorius",
+    "IT": "Ignis Purgatorius",
+    "JP": "浄煉の炎座",
+    "KR": "연옥불자리",
+    "PT": "Ignis Purgatorius",
+    "RU": "Очищающий Огонь",
+    "TH": "Ignis Purgatorius",
+    "TR": "Arındıran Alevler",
+    "VI": "Cung Tịnh Luyện Hỏa"
+  },
+  "native": {
+    "EN": "Fatui",
+    "CHS": "愚人众",
+    "CHT": "愚人眾",
+    "DE": "Fatui",
+    "ES": "Fatui",
+    "FR": "Fatui",
+    "ID": "Fatui",
+    "IT": "Fatui",
+    "JP": "ファデュイ",
+    "KR": "우인단",
+    "PT": "Fatui",
+    "RU": "Фатуи",
+    "TH": "Fatui",
+    "TR": "Fatui",
+    "VI": "Fatui"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Erin Yvette"
+    },
+    {
+      "lang": "CHS",
+      "va": "黄莺"
+    },
+    {
+      "lang": "JP",
+      "va": "森なな子"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Myung-hi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1020.0524,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.6266,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.53085,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

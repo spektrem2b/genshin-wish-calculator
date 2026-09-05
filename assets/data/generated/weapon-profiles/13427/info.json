@@ -1,0 +1,52 @@
+{
+  "id": 13427,
+  "name": {
+    "EN": "Prospector's Drill",
+    "CHS": "勘探钻机",
+    "CHT": "勘探鑽機",
+    "DE": "Erkundungsbohrer",
+    "ES": "Taladradora de Prospección",
+    "FR": "Foret de prospecteur",
+    "ID": "Prospector's Drill",
+    "IT": "Trivella mineraria",
+    "JP": "プロスペクタードリル",
+    "KR": "탐사용 드릴",
+    "PT": "Broca do Prospector",
+    "RU": "Бур рудоискателя",
+    "TH": "Prospector's Drill",
+    "TR": "Madenci Kazması",
+    "VI": "Mũi Khoan Thăm Dò"
+  },
+  "nameEn": "Prospector's Drill",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 4,
+  "description": {
+    "EN": "A long-handled drill that you can rarely find nowadays. It was often used in delving and in carving stones.",
+    "CHS": "如今几乎绝迹的长柄钻机，常用于勘探与石料切割雕刻作业。",
+    "CHT": "如今幾乎絕跡的長柄鑽機，常用於勘探與石料切割雕刻作業。",
+    "DE": "Dieser inzwischen nahezu verschwundene Bohrer mit langem Stiel wurde häufig für Erkundungen, Steinmetz- und Schnitzarbeiten verwendet.",
+    "ES": "Una taladradora que ya no se puede encontrar en prácticamente ningún sitio. Solía usarse para labores de prospección y para esculpir la piedra.",
+    "FR": "Une longue perceuse que l'on trouve rarement de nos jours. Elle était souvent utilisée pour creuser et sculpter des pierres.",
+    "ID": "Alat bor panjang yang hampir punah saat ini. Sering digunakan untuk menggali dan mengukir bebatuan.",
+    "IT": "Una trivella dotata di una lunga impugnatura che al giorno d'oggi risulta particolarmente rara. Veniva usata comunemente per scavare nella roccia ed esplorare i cunicoli sotterranei.",
+    "JP": "今では、ほとんど見かけなくなった長柄のドリル。探査や石材の切断、彫刻作業によく用いられる。",
+    "KR": "지금은 거의 사라져 버린 긴 자루 드릴. 탐사와 조각용 암석을 절단하는 데 주로 사용됐다",
+    "PT": "Uma furadeira longa que raramente é vista hoje em dia. Costumava ser usada em exploração e entalhamento de pedras",
+    "RU": "Длинный бур, который в наше время нигде не найти. Его часто использовали для поиска ценных руд и резьбе по камню.",
+    "TH": "สว่านขุดเจาะแบบยาวที่หายากในปัจจุบัน มักใช้ในการสำรวจ ตัดหิน และแกะสลัก",
+    "TR": "Bugünlerde nadir bulunan uzun saplı bir kazma. Eskiden taşları delmek ve oymak için kullanılırdı.",
+    "VI": "Máy khoan cán dài, ngày nay gần như tuyệt tích. Thường dùng trong thăm dò và chạm khắc đá."
+  },
+  "icon": "generated/weapon-profiles/13427/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.06,
+  "substat_lvl90": 0.2756,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

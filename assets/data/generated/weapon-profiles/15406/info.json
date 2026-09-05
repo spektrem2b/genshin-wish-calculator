@@ -1,0 +1,52 @@
+{
+  "id": 15406,
+  "name": {
+    "EN": "Prototype Crescent",
+    "CHS": "试作澹月",
+    "CHT": "試作澹月",
+    "DE": "Mondschein-Prototyp",
+    "ES": "Prototipo Luz de Luna",
+    "FR": "Lune paisible (prototype)",
+    "ID": "Prototype Crescent",
+    "IT": "Prototipo di mezzaluna",
+    "JP": "澹月·試作",
+    "KR": "담월 프로토타입",
+    "PT": "Protótipo da Luz Lunar Pálida",
+    "RU": "Прототип: Полумесяц",
+    "TH": "Prototype Crescent",
+    "TR": "Prototip: Hilal",
+    "VI": "Mẫu Đạm Nguyệt"
+  },
+  "nameEn": "Prototype Crescent",
+  "type": "Cung",
+  "rarity": 4,
+  "description": {
+    "EN": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
+    "CHS": "黑岩厂中秘藏的原型长弓。放矢之姿有如透过薄暮的月光。",
+    "CHT": "黑岩廠中密藏的原型長弓。放矢之姿猶如透過薄暮的月光。",
+    "DE": "Der Prototyp eines Langbogens, versteckt in der Schwarzsteinschmiede. Beim Schießen des Pfeils macht man eine Figur, die an den leuchtenden Mond erinnert.",
+    "ES": "Un prototipo de arco largo descubierto en la Forja Peñasco Oscuro. La flecha disparada desde este arco brilla como un rayo de luz de luna.",
+    "FR": "Un prototype d'arc long découvert à la Forge de Rochenoire. Les flèches qu'il décoche sont aussi brillantes que le clair de lune.",
+    "ID": "Sebuah prototipe busur yang ditemukan di Blackcliff Forge. Anak panah yang ditembakkan dari busur ini bercahaya bagaikan cahaya rembulan.",
+    "IT": "Un prototipo di arco lungo pervenuto nella Fucina di Rupenera. La freccia che scocca luccica come un raggio lunare.",
+    "JP": "黒岩場の中に隠されていた長弓の原形。矢を放つ時の姿は夕方の月と似ている。",
+    "KR": "흑암 공장에 은밀히 보관된 장궁. 날아가는 화살의 자태는 마치 황혼을 뚫는 달빛과 같다.",
+    "PT": "Um arco de protótipo descoberto na Forja do Penhasco Obscuro. A flecha disparada deste arco brilha como um raio de luar.",
+    "RU": "Древний лук, обнаруженный в кузнице Черногорья. Выпущенная из этого лука стрела сияет, как луна после захода солнца.",
+    "TH": "คันธนูยาวต้นแบบที่ค้นพบใน Blackcliff Forge ลูกธนูยิงออกมาจากธนูนี้เปล่งประกายราวกับแสงจันทร์",
+    "TR": "Kara Kaya Demirci Ocağında keşfedilmiş bir yay prototipi. Bu yaydan atılan oklar mehtabın parıltısını taşır.",
+    "VI": "Trường cung của Hắc Nham Xưởng. Thế bắn tên như xuyên qua ánh trăng."
+  },
+  "icon": "generated/weapon-profiles/15406/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.09,
+  "substat_lvl90": 0.4135,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000036",
+  "name": {
+    "EN": "Chongyun",
+    "CHS": "重云",
+    "CHT": "重雲",
+    "DE": "Chongyun",
+    "ES": "Chongyun",
+    "FR": "Chongyun",
+    "ID": "Chongyun",
+    "IT": "Chongyun",
+    "JP": "重雲",
+    "KR": "중운",
+    "PT": "Chongyun",
+    "RU": "Чун Юнь",
+    "TH": "Chongyun",
+    "TR": "Chongyun",
+    "VI": "Chongyun"
+  },
+  "nameEn": "Chongyun",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 9,
+    "day": 7
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000036/avatar.webp",
+  "fullWish": "generated/character-profiles/10000036/full_wish.webp",
+  "fullWishObjectPosition": "50.7% 24.1%",
+  "title": {
+    "EN": "Frozen Ardor",
+    "CHS": "雪融有踪",
+    "CHT": "雪融有蹤",
+    "DE": "Spuren im schmelzenden Schnee",
+    "ES": "El Hielo Ardiente",
+    "FR": "Corps de glace et cœur de feu",
+    "ID": "Frozen Ardor",
+    "IT": "Ardore ghiacciato",
+    "JP": "雪消の跡",
+    "KR": "얼어붙은 열정",
+    "PT": "Pegadas na Neve",
+    "RU": "Морозная пылкость",
+    "TH": "ร่องรอยในหิมะ",
+    "TR": "Donmuş Ateş",
+    "VI": "Bóng Hình Băng Giá"
+  },
+  "description": {
+    "EN": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+    "CHS": "驱邪世家出身的年轻方士，为压制自身的「纯阳之体」费尽心思。",
+    "CHT": "驅邪世家出身的年輕術士，為壓制自身的「純陽之體」費盡心思。",
+    "DE": "Ein junger Mystiker aus einer Familie von Dämonenvertreibern, der alles dafür tut, seine „Yang-Lastigkeit“ zu unterdrücken.",
+    "ES": "Un joven exorcista procedente de una familia de exorcistas. Hace todo lo que puede para reprimir su propio poder, la “positividad congénita”.",
+    "FR": "Le jeune héritier d'une célèbre famille d'exorcistes, qui s'efforce de contrôler l'énergie qui l'habite.",
+    "ID": "Seorang anak muda pewaris klan pembasmi iblis, dia selalu berusaha sekuat tenaga untuk meredam \"Luapan Energi Yang\" yang ada dalam dirinya.",
+    "IT": "Il giovane erede di una famiglia di esorcisti. Fa tutto il possibile per sopprimere la sua abbondanza di energia yang.",
+    "JP": "妖魔退治一族の方士少年、自身の「純陽の体」を抑えるためにいろいろ苦労している。",
+    "KR": "퇴마 가문 출신의 젊은 도사. 자신이 지닌 「양(陽)의 체질」을 억누르려고 갖은 애를 다 쓴다",
+    "PT": "Um jovem exorcista de uma família de exorcistas. Ele faz de tudo para suprimir seu Psíquico Yang Puro.",
+    "RU": "Молодой экзорцист из семьи экзорцистов. Изо всех сил старается подавить свою энергию Ян.",
+    "TH": "นักปราบปีศาจแห่งตระกูลที่ โด่งดังในเรื่องการปราบภูตผี พยายามอย่างเต็มที่เพื่อระงับ \"ร่างกายแห่งหยางบริสุทธิ์\" ของเขา",
+    "TR": "Aile mesleğini sürdüren genç bir kötü ruh kovucu. Yang enerjisinin bolluğunu bastırmak için elinden gelen her şeyi yapar.",
+    "VI": "Phương sĩ trẻ tuổi thuộc gia đình danh giá chuyên trừ tà, luôn cố gắng hết sức để khống chế \"thuần dương chi thể\" của bản thân."
+  },
+  "constellationName": {
+    "EN": "Nubis Caesor",
+    "CHS": "乾坤锋座",
+    "CHT": "乾坤鋒座",
+    "DE": "Nubis Caesor",
+    "ES": "Nubis Caesor",
+    "FR": "Nubis Caesor",
+    "ID": "Nubis Caesor",
+    "IT": "Nubis Caesor",
+    "JP": "乾坤鋒座",
+    "KR": "건곤봉자리",
+    "PT": "Nubis Caesor",
+    "RU": "Тяжесть Небес",
+    "TH": "Nubis Caesor",
+    "TR": "Bulut Kesen",
+    "VI": "Cung Càn Khôn Phong"
+  },
+  "native": {
+    "EN": "Tianheng Thaumaturges",
+    "CHS": "天衡方士",
+    "CHT": "天衡方士",
+    "DE": "Tianheng-Mystiker",
+    "ES": "Exorcistas de Tianheng",
+    "FR": "Exorcistes des Monts Tianheng",
+    "ID": "Tianheng Thaumaturges",
+    "IT": "Taumaturghi di Tianheng",
+    "JP": "天衡方士",
+    "KR": "천형 도사",
+    "PT": "Exorcista de Tianheng",
+    "RU": "Экзорцист с горы Тяньхэн",
+    "TH": "นักปราบปีศาจแห่ง Tianheng",
+    "TR": "Tianheng Efsuncuları",
+    "VI": "Thiên Hoành Phương Sĩ"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Beau Bridgland"
+    },
+    {
+      "lang": "CHS",
+      "va": "kinsen"
+    },
+    {
+      "lang": "JP",
+      "va": "斉藤壮馬"
+    },
+    {
+      "lang": "KR",
+      "va": "Yang Jeong-hwa"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 920.90894,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.6984,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 54.36375,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

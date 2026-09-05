@@ -1,0 +1,52 @@
+{
+  "id": 13502,
+  "name": {
+    "EN": "Skyward Spine",
+    "CHS": "天空之脊",
+    "CHT": "天空之脊",
+    "DE": "Himmelsgrat",
+    "ES": "Púa Celestial",
+    "FR": "Berge de la Voûte d'Azur",
+    "ID": "Skyward Spine",
+    "IT": "Lancia d'osso celeste",
+    "JP": "天空の脊",
+    "KR": "천공의 마루",
+    "PT": "Espinha Celestial",
+    "RU": "Небесная ось",
+    "TH": "Skyward Spine",
+    "TR": "Göklerin Omurgası",
+    "VI": "Xương Sống Thiên Không"
+  },
+  "nameEn": "Skyward Spine",
+  "type": "Vũ Khí Cán Dài",
+  "rarity": 5,
+  "description": {
+    "EN": "A polearm that symbolizes Dvalin's firm resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind.",
+    "CHS": "象征风龙坚定决心的长枪。直挺的枪杆直指天穹，蕴含苍空与长风的力量。",
+    "CHT": "象徵風龍堅定決心的長槍。直挺的槍桿直指天穹，蘊含蒼空與長風的力量。",
+    "DE": "Eine Lanze, die Dvalins Entschlossenheit symbolisiert. Aufrecht gehalten zeigt sie unnachgiebig nach oben und birgt die Kraft von Himmel und Wind.",
+    "ES": "Una lanza que simboliza la firme resolución de Dvalin. La recta asta de esta arma, que apunta hacia los cielos, está revestida con el poder del cielo y del viento.",
+    "FR": "Une lance symbolisant la farouche détermination de Stormterror. Sa hampe se dresse fière vers l'azur, infusée de la volonté des cieux et du pouvoir des vents.",
+    "ID": "Tombak polearm yang melambangkan kebulatan hati Dvalin. Bagian atas gagangnya menengadah ke langit, dan terbelah di hadapan kekuatan angin dan langit.",
+    "IT": "Una lancia che simboleggia la risolutezza di Dvalin. La sua asta diritta punta verso l'alto, impregnata del potere del cielo e del vento.",
+    "JP": "風龍の堅い決心を象徴する長槍。真っ直ぐに空を指し、蒼空と長風の力が秘められている。",
+    "KR": "바람 드래곤의 확고한 결심을 상징하는 창. 곧게 뻗은 창대가 하늘을 가리키며, 창공과 강한 바람의 힘을 품고 있다",
+    "PT": "Lança que simboliza a determinação firme de Dvalin. O eixo vertical desta arma aponta para o céu, carregado a força do céu e do vento.",
+    "RU": "Длинное копьё, символ твёрдой воли дракона ветра. Тянущееся вверх древко указывает на небесный свод, питающий его силой небес и ветров.",
+    "TH": "หอกที่เป็นสัญลักษณ์ของ ความตั้งใจของ Dvalin ด้ามหอกที่ตรงดิ่งชี้ไปยังฟากฟ้า มีพลังของฟ้าและพลังแห่งลม ซ่อนอยู่ภายใน",
+    "TR": "Dvalin'in amansız kararlılığını simgeleyen bir mızrak. Rüzgarın ve gökyüzünün gücünü taşıyan bu silahın dimdik sapı gökleri işaret ediyor.",
+    "VI": "Thương dài tượng trưng cho sự quyết tâm của Phong Long. Cán thương dài nhọn chỉ thẳng lên trời, có chứa sức mạnh của gió và bầu trời cao."
+  },
+  "icon": "generated/weapon-profiles/13502/avatar.webp",
+  "base_atk_lvl1": 47.537,
+  "base_atk_lvl90": 674.3,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.08,
+  "substat_lvl90": 0.3675,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}

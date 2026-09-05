@@ -1,0 +1,137 @@
+{
+  "id": "10000120",
+  "name": {
+    "EN": "Flins",
+    "CHS": "菲林斯",
+    "CHT": "菲林斯",
+    "DE": "Flins",
+    "ES": "Flins",
+    "FR": "Flins",
+    "ID": "Flins",
+    "IT": "Flins",
+    "JP": "フリンズ",
+    "KR": "플린스",
+    "PT": "Flins",
+    "RU": "Флинс",
+    "TH": "Flins",
+    "TR": "Flins",
+    "VI": "Flins"
+  },
+  "nameEn": "Flins",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "NODKRAI",
+  "birthday": {
+    "month": 10,
+    "day": 31
+  },
+  "release": "2025-09-30T15:00:00",
+  "icon": "generated/character-profiles/10000120/avatar.webp",
+  "fullWish": "generated/character-profiles/10000120/full_wish.webp",
+  "fullWishObjectPosition": "48.3% 32.5%",
+  "title": {
+    "EN": "Shadowy Lights, Stranger Wights",
+    "CHS": "诡灯陌影",
+    "CHT": "詭燈陌影",
+    "DE": "Schatten in trügerischem Licht",
+    "ES": "La Sombra de las Luces Engañosas",
+    "FR": "Étranges jeux d'ombres et de lumières",
+    "ID": "Shadowy Lights, Stranger Wights",
+    "IT": "Ombre di luci ingannevoli",
+    "JP": "闇影と灯り",
+    "KR": "등불의 그림자",
+    "PT": "Sombra da Luz Ominosa",
+    "RU": "Дивный свет, неведомые тени",
+    "TH": "ประทีปลวงเร้นเงา",
+    "TR": "Gölgeli Işıklar, Tuhaf Hayaletler",
+    "VI": "Kỳ Ảnh Bên Đèn"
+  },
+  "description": {
+    "EN": "A Lightkeeper of Nod-Krai, guardian of a lighthouse and graveyard on a northern isle. An enigmatic gentleman, cultured and courtly.",
+    "CHS": "挪德卡莱的「执灯人」，看守着北方小岛上的灯塔与墓地。一位言行举止极富修养的神秘绅士。",
+    "CHT": "挪德卡萊的「執燈人」，看守著北方小島上的燈塔與墓地。一位言行舉止極富修養的神秘紳士。",
+    "DE": "Ein Lichthüter von Nod-Krai, der über den Leuchtturm und den Friedhof auf der kleinen Insel im Norden wacht. Ein geheimnisvoller Herr, dessen Worte und Taten von großer Kultiviertheit zeugen.",
+    "ES": "Un Lamparero de Nod Krai que vigila el faro y el cementerio de una pequeña isla del norte, así como un misterioso caballero muy culto y refinado.",
+    "FR": "L'un des Gardiens de lumière de Nod-Krai, qui veille sur le phare et le cimetière d'une petite île au nord. Un mystérieux gentilhomme dont les paroles et les actes témoignent d'un grand raffinement.",
+    "ID": "Lightkeeper dari Nod-Krai yang menjaga mercusuar dan kuburan di pulau kecil di utara. Seorang pria misterius dengan perilaku yang sangat sopan.",
+    "IT": "Un Guardaluce di Nod-Krai, guardiano del faro e del cimitero in un'isola a nord. Un gentiluomo enigmatico, colto e raffinato.",
+    "JP": "ナド・クライの「ライトキーパー」として、北の島で灯台と墓地を守り続ける謎の紳士。言葉や仕草の端々に教養が垣間見える。",
+    "KR": "노드크라이의 「등지기」. 교양 있는 말투와 행동으로 신비로운 분위기를 자아내는 신사. 북쪽 섬의 등대와 묘지를 지키고 있다",
+    "PT": "Um Ratniki de Nod-Krai que guarda o farol e o cemitério na ilha ao norte. Um cavalheiro misterioso e educado.",
+    "RU": "Светоносец Нод-Края, который присматривает за маяком и кладбищем на северном острове. Таинственный джентльмен с безупречными манерами.",
+    "TH": "\"ผู้เฝ้าประภาคาร\" แห่ง Nod-Krai คอยเฝ้าดูแลประภาคาร และสุสานบนเกาะเล็ก ๆ ทางตอนเหนือ เขาคือสุภาพบุรุษลึกลับ ผู้สง่างามในทุกกิริยาและวาจา",
+    "TR": "Kuzeydeki bir adanın deniz fenerini ve mezarlığını gözeten Nod-Krailı bir Işık Muhafızı. Oldukça esrarengiz, kültürlü ve nazik bir beyefendi.",
+    "VI": "Người Giữ Đèn của Nod-Krai, canh giữ ngọn hải đăng và nghĩa trang trên hòn đảo phía bắc. Một quý ông thần bí có lời nói và hành động vô cùng lịch sự."
+  },
+  "constellationName": {
+    "EN": "Laterna Vigilis",
+    "CHS": "夜行灯座",
+    "CHT": "夜行燈座",
+    "DE": "Laterna Vigilis",
+    "ES": "Laterna Vigilis",
+    "FR": "Laterna Vigilis",
+    "ID": "Laterna Vigilis",
+    "IT": "Laterna Vigilis",
+    "JP": "夜行の灯り座",
+    "KR": "밤등불자리",
+    "PT": "Laterna Vigilis",
+    "RU": "Ночной Фонарь",
+    "TH": "Laterna Vigilis",
+    "TR": "Nöbet Feneri",
+    "VI": "Cung Dạ Hành Đăng"
+  },
+  "native": {
+    "EN": "Lightkeepers",
+    "CHS": "执灯人",
+    "CHT": "執燈人",
+    "DE": "Lichthüter",
+    "ES": "Lampareros",
+    "FR": "Gardiens de lumière",
+    "ID": "Lightkeeper",
+    "IT": "Guardaluce",
+    "JP": "ライトキーパー",
+    "KR": "등지기",
+    "PT": "Portadores da Lâmpada",
+    "RU": "Светоносцы",
+    "TH": "ผู้เฝ้าประภาคาร",
+    "TR": "Işık Muhafızları",
+    "VI": "Người Giữ Đèn"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Nic Olsen"
+    },
+    {
+      "lang": "CHS",
+      "va": "马正阳"
+    },
+    {
+      "lang": "JP",
+      "va": "中村悠一"
+    },
+    {
+      "lang": "KR",
+      "va": "Shin Yong-woo"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 972.3864,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 27.3714,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.94116,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 14302,
+  "name": {
+    "EN": "Thrilling Tales of Dragon Slayers",
+    "CHS": "讨龙英杰谭",
+    "CHT": "討龍英傑譚",
+    "DE": "Von den Heldentaten der Drachenbezwinger",
+    "ES": "Cuentos de Cazadores de Dragones",
+    "FR": "Histoire des chasseurs de dragon",
+    "ID": "Thrilling Tales of Dragon Slayers",
+    "IT": "Epiche gesta degli Ammazzadraghi",
+    "JP": "龍殺しの英傑譚",
+    "KR": "드래곤 슬레이어 영웅담",
+    "PT": "Histórias Extraordinárias de Caçadores de Dragões",
+    "RU": "Эпос о драконоборцах",
+    "TH": "Thrilling Tales of Dragon Slayers",
+    "TR": "Ejder Katillerinin Serüvenleri",
+    "VI": "Câu Chuyện Diệt Rồng"
+  },
+  "nameEn": "Thrilling Tales of Dragon Slayers",
+  "type": "Pháp Khí",
+  "rarity": 3,
+  "description": {
+    "EN": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
+    "CHS": "五名英雄踏上屠龙征途的虚构故事。文笔很差，结构散乱。失败的教训是这本书所拥有的伟大力量。",
+    "CHT": "五名英雄踏上屠龍征途的虛構故事。文筆很差，結構散亂。失敗的教訓是這本書所擁有的偉大力量。",
+    "DE": "Eine schlecht und unorganisiert geschriebene Geschichte über fünf Helden, die gemeinsam auf Drachenjagd gehen. Der Misserfolg ist die wichtigste Lehre, die man diesem Buch entnehmen kann.",
+    "ES": "Una historia ficticia de un grupo de cinco héroes en una expedición de caza de dragones. Está mal escrita, pero puede transmitir a la gente la importancia de no cometer errores.",
+    "FR": "L'histoire de cinq héros partant à la chasse au dragon. L'ouvrage est mal écrit et particulièrement incohérent. Sa valeur réside dans les nombreuses leçons que l'on peut tirer de l'échec.",
+    "ID": "Kisah fiksi tentang kelompok beranggotakan 5 pahlawan yang tengah dalam perjalanan memburu naga. Penulisannya sangat buruk dan tidak memiliki struktur yang jelas. Tetapi buku ini kaya akan pelajaran untuk tidak membuat kesalahan.",
+    "IT": "Un romanzo di fantasia che narra la storia di un gruppo di cinque eroi Ammazzadraghi. Scritto male e strutturalmente incoerente. Il suo valore deriva dalla morale che vuole insegnare: sbagliando s'impara.",
+    "JP": "5人の英雄がドラゴン討伐の旅に出るフィクション。文章は悪く、作りもかなり雑。失敗の教訓だけがこの本が持つ偉大な力。",
+    "KR": "드래곤을 퇴치하는 모험길에 오른 다섯 영웅의 이야기를 다룬 소설. 글솜씨가 형편없고 문장 구조가 엉망이다. 실패의 교훈은 이 책이 보유한 위대한 힘이다",
+    "PT": "Uma história fictícia de um grupo de 5 heróis em uma viagem de caça de dragões. Possui péssima caligrafia e está mal estruturada, porém transmite a importância de não cometer erros.",
+    "RU": "Художественная история о пяти героях, собравшихся охотиться на дракона. Написано очень плохо, без какой-либо структуры. Суть книги в том, чтобы научить людей, как важно избегать ошибок.",
+    "TH": "นวนิยายที่เกี่ยวกับเรื่องราวของ ฮีโร่ 5 คนที่กำลังจะเดินทางไป ล่ามังกร เขียนไว้อย่างหลวม ๆ และมีโครงเรื่องเพียงน้อยนิด แต่สิ่งสำคัญของมันคือ การสอนผู้คนให้เรียนรู้จากความผิดพลาด",
+    "TR": "Ejder avına çıkan beş kahramanın hikayesi. Kitap oldukça kötü yazılmış ve tutarsızlıklarla dolu. Başarısızlıktan öğrenilebilecek onlarca dersle dolu.",
+    "VI": "Câu chuyện hư cấu về 5 anh hùng diệt rồng. Cách hành văn rất tệ, bố cục rời rạc. Bài học từ thất bại là sức mạnh lớn nhất của quyển sách này."
+  },
+  "icon": "generated/weapon-profiles/14302/avatar.webp",
+  "base_atk_lvl1": 38.7413,
+  "base_atk_lvl90": 401.3,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.0766,
+  "substat_lvl90": 0.3519,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

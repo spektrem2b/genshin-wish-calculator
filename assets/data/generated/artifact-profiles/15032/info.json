@@ -1,0 +1,69 @@
+{
+  "id": 15032,
+  "name": {
+    "EN": "Golden Troupe",
+    "CHS": "黄金剧团",
+    "CHT": "黃金劇團",
+    "DE": "Goldtruppe",
+    "ES": "Compañía Dorada",
+    "FR": "Troupe dorée",
+    "ID": "Golden Troupe",
+    "IT": "Compagnia dorata",
+    "JP": "黄金の劇団",
+    "KR": "황금 극단",
+    "PT": "Trupe Dourada",
+    "RU": "Золотая труппа",
+    "TH": "Golden Troupe",
+    "TR": "Altın Kumpanya",
+    "VI": "Đoàn Kịch Hoàng Kim"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15032/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Elemental Skill DMG by 20%.",
+        "CHS": "元素战技造成的伤害提升20%。",
+        "CHT": "元素戰技造成的傷害提升20%。",
+        "DE": "#Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20 %.",
+        "ES": "Daño de Habilidad Elemental +20%.",
+        "FR": "Augmente les DGT infligés par la compétence élémentaire de 20 %.",
+        "ID": "Meningkatkan 20% DMG Elemental Skill.",
+        "IT": "DAN da abilità elementale +20%.",
+        "JP": "元素スキルのダメージ+20%。",
+        "KR": "원소전투 스킬로 주는 피해+20%",
+        "PT": "Aumenta o dano da Habilidade Elemental em 20%.",
+        "RU": "Увеличивает урон элементального навыка на 20%.",
+        "TH": "ความเสียหายของสกิลธาตุเพิ่มขึ้น 20%",
+        "TR": "Element Becerisi Hasarını %20 artırır.",
+        "VI": "Sát thương Kỹ Năng Nguyên Tố gây ra tăng 20%."
+      },
+      "affixId": "2150320"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field.",
+        "CHS": "元素战技造成的伤害提升25%；此外，处于队伍后台时，元素战技造成的伤害还将进一步提升25%，该效果将在登场后2秒移除。",
+        "CHT": "元素戰技造成的傷害提升25%；此外，處於隊伍後臺時，元素戰技造成的傷害還將進一步提升25%，該效果將在登場後2秒移除。",
+        "DE": "#Erhöht den mit Elementarfähigkeiten verursachten Schaden um 25 %. Erhöht außerdem den mit Elementarfähigkeiten verursachten Schaden ein weiteres Mal um 25 %, wenn sich die Figur inaktiv in der Truppe befindet. Der Effekt verschwindet nach 2 s, nachdem die Figur eingewechselt worden ist.",
+        "ES": "#Aumenta en un 25% el daño infligido con la Habilidad Elemental. Además, cuando el personaje está en tu equipo pero no en uso, el daño de dicha habilidad aumenta en un 25% adicional. Este efecto se anula 2 s después de entrar en el campo de batalla.",
+        "FR": "#Les DGT infligés par les compétences élémentaires augmentent de 25 %. De plus, lorsque le personnage fait partie de l'équipe mais n'est pas déployé, les DGT infligés par ses compétences élémentaires augmentent de 25 % supplémentaires, cet effet prenant fin 2 s après le déploiement du personnage.",
+        "ID": "Meningkatkan 25% DMG Elemental Skill. Selain itu, saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran, DMG yang diakibatkan Elemental Skill meningkat 25% lagi. Efek ini akan hilang dalam 2 detik setelah memasuki medan pertempuran.",
+        "IT": "#Aumenta i DAN da abilità elementale di un 25%. Inoltre, quando il personaggio non è in campo, tali DAN aumentano di un ulteriore 25%. Quest'effetto si annulla 2 s dopo che il personaggio rientra in campo.",
+        "JP": "元素スキルのダメージ+25%。また、装備者が待機中の時、元素スキルのダメージがさらに+25%。この効果は装備キャラクターが登場してから2秒後に解除される。",
+        "KR": "원소전투 스킬로 주는 피해가 25% 증가한다. 또한 대기 상태 시 원소전투 스킬로 주는 피해가 추가로 25% 증가하며, 해당 효과는 등장 후 2초가 지나면 사라진다",
+        "PT": "Aumenta o Dano da Habilidade Elemental em 25%. Além disso, quando o personagem não está no campo de batalha, o Dano da Habilidade Elemental aumenta em mais 25%. Este efeito será removido 2s após o personagem entrar no campo de batalha.",
+        "RU": "Увеличивает урон элементального навыка на 25%. Кроме того, когда персонаж не на поле боя, урон элементального навыка дополнительно увеличивается на 25%. Через 2 сек. после вступления в бой эффект исчезает.",
+        "TH": "#ความเสียหายของสกิลธาตุเพิ่มขึ้น 25%; นอกจากนี้ เมื่อตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ความเสียหายของสกิลธาตุจะเพิ่มขึ้นอีก 25% โดยที่เอฟเฟกต์นี้จะถูกลบล้างหลังจากตัวละครเข้าร่วมการต่อสู้ 2 วินาที",
+        "TR": "Element Becerisi Hasarını %25 artırır. Ek olarak, karakter savaş alanında değilken Element Becerisi Hasarı %25 daha artar. Bu etki, karakter savaş alanına geldikten 2 saniye sonra kaybolur.",
+        "VI": "Sát thương Kỹ Năng Nguyên Tố gây ra tăng 25%; Ngoài ra, khi không ra trận, sát thương Kỹ Năng Nguyên Tố gây ra tăng thêm 25%. Hiệu quả này sẽ xóa sau khi ra trận 2s."
+      },
+      "affixId": "2150321"
+    }
+  ]
+}

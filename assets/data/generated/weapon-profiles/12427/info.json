@@ -1,0 +1,52 @@
+{
+  "id": 12427,
+  "name": {
+    "EN": "Portable Power Saw",
+    "CHS": "便携动力锯",
+    "CHT": "便攜動力鋸",
+    "DE": "Tragbare motorisierte Säge",
+    "ES": "Motosierra Transportable",
+    "FR": "Scie électrique portative",
+    "ID": "Portable Power Saw",
+    "IT": "Sega elettrica portatile",
+    "JP": "携帯型チェーンソー",
+    "KR": "휴대용 체인톱",
+    "PT": "Serra Elétrica Portátil",
+    "RU": "Переносная мотопила",
+    "TH": "Portable Power Saw",
+    "TR": "Taşınabilir Otomatik Testere",
+    "VI": "Máy Cưa Cầm Tay"
+  },
+  "nameEn": "Portable Power Saw",
+  "type": "Trọng Kiếm",
+  "rarity": 4,
+  "description": {
+    "EN": "An old-school power saw that you can rarely find nowadays. It was once a cutting tool trusted by workers all around.",
+    "CHS": "如今几乎绝迹的旧式动力锯，曾是深受工人信赖的切割工具。",
+    "CHT": "如今幾乎絕跡的舊式動力鋸，曾是深受工人信賴的切割工具。",
+    "DE": "Diese alte Motorsäge sieht man heute fast nirgends mehr, aber einst diente sie Arbeitern als zuverlässiges Werkzeug.",
+    "ES": "Una motosierra de estilo antiguo que ya no se puede encontrar en prácticamente ningún sitio. En el pasado, era una de las herramientas de cortar en la que más confiaban quienes la usaban para su trabajo.",
+    "FR": "Une scie électrique à l'ancienne que l'on trouve rarement de nos jours. C'était autrefois un outil pour découper auquel les travailleurs du monde entier faisaient confiance.",
+    "ID": "Gergaji listrik zaman dulu yang sudah hampir punah saat ini. Dulu pernah menjadi alat pemotong yang dipercaya oleh para pekerja.",
+    "IT": "Una sega elettrica vecchio tipo che al giorno d'oggi risulta particolarmente rara. Un tempo era l'attrezzo più fidato di ogni operaio.",
+    "JP": "今では、ほとんど見かけなくなった旧式のチェーンソー。かつては職人たちから深く信頼された切断ツールだった。",
+    "KR": "지금은 거의 사라진 구식 체인톱. 일꾼들이 신뢰하는 절단 도구였다",
+    "PT": "Uma serra elétrica vintage rara de se ver hoje em dia. Era uma ferramenta usada por trabalhadores em todos os cantos.",
+    "RU": "Мотопила старого образца, которую в наше время нигде не найти. Когда-то на этот инструмент полагались все рабочие.",
+    "TH": "เลื่อยไฟฟ้าแบบเก่าที่หาได้ยากในปัจจุบัน ครั้งหนึ่งเคยเป็นเครื่องมือตัดที่ได้รับความไว้วางใจจากคนงาน",
+    "TR": "Bugünlerde nadir bulunan eski tip bir otomatik testere. Zamanında pek çok işçinin sık kullandığı bir kesici aletti.",
+    "VI": "Máy cưa kiểu cũ, ngày nay gần như tuyệt tích. Nó từng là công cụ cắt rất được các công nhân ưa dùng."
+  },
+  "icon": "generated/weapon-profiles/12427/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_HP_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

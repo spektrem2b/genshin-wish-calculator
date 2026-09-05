@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="ru" data-active-tab="character-info"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-ISbMvHtTtjP9aR5LsCtycsMBYBz5PjlyiFhl9jJJqw0=' 'sha256-L+cZ3d98BGU+BO8q+EiLTtYVcVOugDmI7gBqaRZJFdM=' 'sha256-DCmzXk/huDEJa2UY0i9i4VyeC7t7KIod/eJUDAaWHiw=' 'wasm-unsafe-eval' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://accounts.google.com https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https://storage.ko-fi.com data: blob:; connect-src 'self' https://wish-math.spektrem.workers.dev https://api.ennead.cc https://db.hashblen.com https://cdn.jsdelivr.net https://accounts.google.com https://oauth2.googleapis.com https://www.googleapis.com https://media.githubusercontent.com https://raw.githubusercontent.com https://spektrem2b.goatcounter.com data:; frame-src https://accounts.google.com; worker-src 'self' blob: https://cdn.jsdelivr.net; base-uri 'self'; form-action 'self'; object-src 'none';">
+<base href="https://spektrem2b.github.io/genshin-wish-calculator/">
+<script>
+    (function () {
+        window.BUILD_VERSION = "5438b100";
+        var VALID_TABS = ['4star', 'simulator', 'build', 'other', 'settings', 'character-info', 'weapon-info'];
+        var basePath = new URL(document.baseURI).pathname;
+        var afterBase = location.pathname.indexOf(basePath) === 0 ? location.pathname.slice(basePath.length) : location.pathname.replace(/^\//, '');
+        var firstSeg = afterBase.split('/')[0];
+        var localeSeg = firstSeg && firstSeg.indexOf('.') === -1 && !VALID_TABS.includes(firstSeg) ? firstSeg : '';
+        window.__SITE_ROOT__ = basePath + (localeSeg ? localeSeg + '/' : '');
+        var tab = location.hash.replace(/^#\/?/, '').split('?')[0];
+        if (!tab) {
+            var nestedMatch = location.pathname.match(/\/(character-info|weapon-info)\/[^/]+\/?$/);
+            var flatMatch = location.pathname.match(/\/(simulator|build|4star|other|settings|character-info|weapon-info)\/?$/);
+            if (nestedMatch) tab = nestedMatch[1];
+            else if (flatMatch) tab = flatMatch[1];
+        }
+        document.documentElement.setAttribute('data-active-tab', VALID_TABS.includes(tab) ? tab : '5star');
+    })();
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xilonen Build, Talents &amp; Materials: Genshin Wish Calculator</title>
+    <meta name="description" content="Xilonen talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:title" content="Xilonen Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta property="og:description" content="Xilonen talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spektrem2b.github.io/genshin-wish-calculator/ru/character-info/xilonen/">
+    <meta property="og:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Xilonen Build, Talents &amp; Materials: Genshin Wish Calculator">
+    <meta name="twitter:description" content="Xilonen talents, constellations, ascension materials, and base stats for Genshin Impact.">
+    <meta name="twitter:image" content="https://spektrem2b.github.io/genshin-wish-calculator/assets/og-image.png">
+    <link rel="canonical" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/character-info/xilonen/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Genshin Wish Calculator: Plan & Simulate Your Pulls",
+      "url": "https://spektrem2b.github.io/genshin-wish-calculator/",
+      "description": "Plan multiple pulls ahead of time and see your exact odds - best case, worst case, and everything in between. Free, no login.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+	<link rel="icon" type="image/webp" href="assets/favicon.webp">
+	<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="css/styles.883eb2ec.css">
+<link rel="alternate" hreflang="en" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/xilonen/">
+<link rel="alternate" hreflang="de" href="https://spektrem2b.github.io/genshin-wish-calculator/de/character-info/xilonen/">
+<link rel="alternate" hreflang="es" href="https://spektrem2b.github.io/genshin-wish-calculator/es/character-info/xilonen/">
+<link rel="alternate" hreflang="fr" href="https://spektrem2b.github.io/genshin-wish-calculator/fr/character-info/xilonen/">
+<link rel="alternate" hreflang="id" href="https://spektrem2b.github.io/genshin-wish-calculator/id/character-info/xilonen/">
+<link rel="alternate" hreflang="it" href="https://spektrem2b.github.io/genshin-wish-calculator/it/character-info/xilonen/">
+<link rel="alternate" hreflang="ja" href="https://spektrem2b.github.io/genshin-wish-calculator/ja/character-info/xilonen/">
+<link rel="alternate" hreflang="ko" href="https://spektrem2b.github.io/genshin-wish-calculator/ko/character-info/xilonen/">
+<link rel="alternate" hreflang="pt" href="https://spektrem2b.github.io/genshin-wish-calculator/pt/character-info/xilonen/">
+<link rel="alternate" hreflang="ru" href="https://spektrem2b.github.io/genshin-wish-calculator/ru/character-info/xilonen/">
+<link rel="alternate" hreflang="th" href="https://spektrem2b.github.io/genshin-wish-calculator/th/character-info/xilonen/">
+<link rel="alternate" hreflang="tr" href="https://spektrem2b.github.io/genshin-wish-calculator/tr/character-info/xilonen/">
+<link rel="alternate" hreflang="vi" href="https://spektrem2b.github.io/genshin-wish-calculator/vi/character-info/xilonen/">
+<link rel="alternate" hreflang="zh-CN" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-cn/character-info/xilonen/">
+<link rel="alternate" hreflang="zh-TW" href="https://spektrem2b.github.io/genshin-wish-calculator/zh-tw/character-info/xilonen/">
+<link rel="alternate" hreflang="x-default" href="https://spektrem2b.github.io/genshin-wish-calculator/character-info/xilonen/">
+</head>
+<body>
+
+<noscript>
+    <div class="failsafe-banner noscript-banner">This page requires JavaScript to work. Please enable it in your browser settings.</div>
+</noscript>
+
+<div class="app-shell">
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1>Геншин<br>Калькулятор молитв</h1>
+        </div>
+        <button type="button" id="navToggleBtn" class="mobile-tab-toggle" aria-label="Toggle navigation" aria-expanded="false">
+            <span class="mtt-label" id="mobileTabLabel">Wish Planner</span>
+            <span class="mtt-chevron">▾</span>
+        </button>
+        <div class="sidebar-nav">
+            <button type="button" id="tab5starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_5star.webp" alt="">Планировщик молитв</button>
+            <button type="button" id="tab4starBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_4star.webp" alt="">Шансы 4★</button>
+            <button type="button" id="tabOddsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_simulator.webp" alt="">Симулятор</button>
+            <button type="button" id="tabBuildBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_build.webp" alt="">Билд</button>
+            <button type="button" id="tabInfoBtn" class="nav-link active">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_character_info.webp" alt="">Персонажи</button>
+            <button type="button" id="tabWeaponInfoBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_weapon_info.webp" alt="">Оружие</button>
+            <button type="button" id="tabOtherBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_other.webp" alt="">Другое</button>
+            <button type="button" id="tabSettingsBtn" class="nav-link">
+                <img class="nav-link-icon nav-link-icon-img" src="assets/data/design/nav-icons/icon_settings.webp" alt="">Настройки</button>
+        </div>
+        <div class="sidebar-kofi">
+            <a class="kofi-link" href="https://ko-fi.com/U4Q123FEWJ" target="_blank" rel="noopener">
+                <img class="kofi-link-icon" src="https://storage.ko-fi.com/cdn/cup-border.png" alt="">
+                Ko-fi Support
+            </a>
+        </div>
+    </nav>
+
+    <main class="main-content">
+    <div class="container">
+
+    <div id="failsafeBanner" class="failsafe-banner hidden"></div>
+
+    <div id="tab5starContent"></div>
+
+    <div id="tabOddsContent"></div>
+
+    <div id="tab4starContent"></div>
+
+    <div id="tabBuildContent">
+        <div id="buildCardsWrap"></div>
+    </div>
+
+    <div id="tabOtherContent"></div>
+
+    <div id="tabSettingsContent"></div>
+
+    <div id="tabCharacterInfoContent">
+        <div class="char-info-page" id="characterInfoPanel">
+            <div class="ci-detail-topbar">
+                
+            <div class="ci-switch-wrap">
+                <input type="text" class="ci-filter-search ci-switch-search" id="ciCharacterSwitch" aria-label="Switch character" placeholder="Search name…" autocomplete="off">
+                <div class="ci-switch-results" id="ciCharacterSwitchResults" hidden=""></div>
+            </div>
+            </div>
+            <div id="ciContent">
+            
+          <div class="ci-hero">
+              <img class="ci-hero-portrait" src="assets/data/generated/character-profiles/10000103/full_wish.webp" alt="" data-gi-fallback="retry">
+              <div class="ci-hero-info">
+                  <div class="ci-hero-name">Шилонен</div>
+                  <div class="ci-hero-title">"Закалённая пламенем душа"</div>
+                  <div class="ci-hero-stars">★★★★★</div>
+                  <div class="ci-hero-facts">
+                      
+          <div class="ci-hero-fact">
+              <svg class="ci-hero-fact-icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1600 1600"><path d="M800.093 97.926s16.818 12.573 35.164 26.79c11.867 9.195 24.563 19.14 34.343 26.956 131.9 105.4 265.1 231 369.5 348.4 89.9 101.2 159.1 195.5 209.3 285.3l7.7 13.9-7.5 13.1c-23.2 40.5-51 80-84.2 119.7-14.9 17.759-32.857 38.388-43.002 49.54-4.765 5.237-7.952 8.687-7.952 8.687s-3.346-9.426-6.846-19.827c-45.4-134.1-120.9-283-218.3-430.1-44.5-67.2-82.2-119.7-135.7-188.8-13.9-18-57.3-72.1-66.6-83-4.2-5-8.7-10.4-10-12.1-3.1-3.9-29.1-34.9-47-55.9-7.5-8.8-17.2-20.4-21.5-25.8-4.4-5.4-8.996-10.227-8.996-10.227s-9.831 10.447-22.25 24.474c-20.99 23.706-52.428 60.353-74.354 87.054-100.4 122.2-160.2 220.4-190.5 313-5.4 16.5-11.607 41.992-11.607 41.992s3.907-2.792 56.207-46.393c38.5-32.2 51-42.7 86.5-72.6 9.5-8 32.4-27.3 51-43s47.1-39.8 63.4-53.5c16.3-13.8 32-26.9 34.8-29.3l5.3-4.4 2.7 2.2c6.9 5.3 37.2 35.2 54.8 53.9 87.7 93.7 156.8 189.9 211.8 295.2 4.228 8.03 7.742 14.518 7.742 14.518s-4.666 6.404-11.542 14.383c-22.6 26.2-69.3 68.8-124.3 113.3-36 29.1-100.943 78.347-100.943 78.347s-3.957-3.347-7.557-6.647c-10.8-10-31.3-35.3-43.1-53.4l-3.8-5.8 2.8-2.8c1.6-1.5 6.5-6 10.9-10 34.1-31.3 146.274-143.107 146.274-143.107s-7.574-21.494-13.874-34.693c-14.6-30.8-37.2-63.7-65.5-95.2-20-22.3-63.1-63-66.8-63-.7 0-7.4 3-14.7 6.7-47.5 24-129.3 87.3-220.9 171.1-28.7 26.3-77.2 74.8-91.9 92-6.3 7.3-11.5 13.1-11.6 13-.7-.7-10.5-17.7-17.2-29.8-34.9-62.9-69.1-149.2-83.9-211.7-3.1-13.2-9.01-42.285-9.01-42.285s20.11-29.316 36.91-50.916c65.4-83.7 163.3-181.6 283.3-283.2 42-35.6 79.9-66 126.1-101.4 3.2-2.4 6.393-4.646 6.393-4.646M275.4 622.273c-55.4 62.2-85.4 101.7-116.7 153.4-6.3 10.6-12.3 20.6-13.2 22.3l-1.6 3.1 7.7 13.8c55.2 98.8 134.1 204 236.4 315.2 116 126.1 265.4 262 396.5 360.6 9.931 7.523 15.683 11.401 15.683 11.401s2.968-2.11 5.317-3.902c75.6-57.2 155.7-124.5 229-192.1 44.3-40.9 110.9-109.3 145.1-149 23.6-27.4 54-66.3 67.8-86.8l4.9-7.2-2.8-15.3c-13.3-73.7-50.4-170.2-97.2-253-5.2-9.2-9.6-16.7-9.7-16.7-.2 0-5.2 5.7-11.2 12.7-13.7 16.2-47.7 50.7-74.9 76.2-79.1 74.2-159 139.1-213 173.1-7.327 4.601-18.43 10.751-27.094 15.205-6.59 3.388-13.824 6.168-13.824 6.168s-3.022-2.66-7.533-6.456c-15.203-12.794-46.157-42.719-61.349-59.916-32.7-37.1-57.6-76.3-71.2-112-2.278-5.93-4.877-15.223-4.877-15.223s4.328-3.952 10.81-10.75c6.302-6.608 16.23-16.179 31.367-31.127 43-42.5 84.6-82.9 105.6-102.5l11.9-11.2-8.3-12c-7.604-11.143-17.768-24.023-26.667-34.289-9.71-11.201-19.415-19.41-19.415-19.41s-11.89 8.748-25.838 19.383C706.863 689 657.815 727.763 632.5 748.972c-40.9 34.3-85.6 76.9-100.3 95.4l-6.2 7.8 7.7 14.7c53.2 102 120.3 196.5 203.6 286.7 13.9 15.1 57.1 58.2 62.2 62.1l3.5 2.7 5.3-4.4c5.7-4.8 73.4-61.8 114.3-96.4 14.3-12.1 32.3-27.3 40-33.7 7.6-6.4 24.3-20.3 36.9-31 55.8-47 99.1-82.8 100-82.8 1.1 0 .3 3.3-4.9 21.6-27.6 96.3-85.3 195.4-186 319.9-24.2 29.8-63.6 76-89.5 104.9-6.4 7.1-12.6 14.1-13.9 15.7-1.538 1.886-3.776 3.871-3.776 3.871s-2.262-2.354-3.924-4.57c-1.5-2-9.1-11.2-16.9-20.4-56.9-67.5-76.2-90.7-103.2-124.5-111.6-139.5-204.3-277.3-274.3-408-15.3-28.4-45.5-89.9-57.4-116.5-19.9-44.5-39.4-93.9-52.3-132.3-3.4-10.4-6.5-19.1-6.7-19.3s-5.3 5.1-11.3 11.8" style="fill:#ffac00"></path></svg>
+              <span class="ci-hero-fact-value">Geo</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/weapon_types_icons/Icon_Sword_type.webp" alt="" data-gi-fallback="hide">
+              <span class="ci-hero-fact-value">Sword</span>
+          </div>
+          <div class="ci-hero-fact">
+              <img class="ci-hero-fact-icon" src="assets/data/design/region_icons/natlan.webp" alt="" data-gi-fallback="swap" data-gi-fallback-src="assets/data/design/region_icons/unknown-region.webp">
+              <span class="ci-hero-fact-value">Natlan</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Birthday</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">March 13</span>
+          </div>
+          <div class="ci-hero-fact ci-hero-fact-text">
+              <span class="ci-hero-fact-label">Released</span><span class="ci-hero-fact-bullet">•</span><span class="ci-hero-fact-value">October 7, 2024</span>
+          </div>
+                  </div>
+                  <p class="ci-hero-desc">Гравёр имён Нанацкайана. Хорошо умеет находить баланс между тяжким бременем работы и комфортной жизнью.</p>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Constellation</span> Оцелот &nbsp;•&nbsp; <span class="ci-hero-meta-label">Affiliation</span> Нанацкайан</div>
+                  <div class="ci-hero-meta-line"><span class="ci-hero-meta-label">Voice Actors</span> EN: Elizabeth Dean   ·   CN: 弭洋   ·   JP: ファイルーズあい   ·   KR: Kim I-an</div>
+                  
+          <div class="ci-hero-guides">
+              <div class="ci-hero-guides-label">Guides</div>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://genshin-impact-helper-team.github.io/genshin-builds/en/xilonen" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/genshin-builds-guide.webp" alt="">
+                  Genshin Builds
+              </a>
+              <a class="ci-hero-guide-btn ci-hero-guide-primary" href="https://www.prydwen.gg/genshin-impact/characters/xilonen#build" target="_blank" rel="noopener noreferrer">
+                  <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/prydwen-guide.webp" alt="">
+                  Prydwen
+              </a>
+              <div class="ci-hero-guides-row">
+                  <a class="ci-hero-guide-btn" href="https://www.icy-veins.com/genshin-impact/xilonen-guide-best-builds" target="_blank" rel="noopener noreferrer" title="Icy Veins">
+                      <img class="ci-hero-guide-icon" src="assets/data/design/guide-logos/icy-veins-guide.webp" alt="">
+                      Icy Veins
+                  </a>
+              </div>
+          </div>
+                  
+          <div class="ci-hero-nav-label">Navigation</div>
+          <div class="ci-hero-nav">
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-talents">Talents</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-const">Constellations</a>
+              <a class="ci-hero-guide-btn ci-hero-nav-btn" href="#ci-sec-passives">Passives</a>
+          </div>
+              </div>
+              <div class="ci-hero-side">
+                  <div class="ci-hero-stats">
+                      <div class="ci-hero-stats-head">
+                          <div class="ci-hero-stats-title">Base Stats</div>
+                          <div class="ci-stat-level-toggle" role="group" aria-label="Comparison level"><button type="button" class="ci-stat-level-btn active" data-stat-level="90">90</button><button type="button" class="ci-stat-level-btn" data-stat-level="95">95</button><button type="button" class="ci-stat-level-btn" data-stat-level="100">100</button></div>
+                      </div>
+                      <div id="ciBaseStatsBody"><div class="ci-stats">
+          <div class="ci-stats-row"><span>HP</span><span>966 → 8,439</span></div>
+          <div class="ci-stats-row"><span>ATK</span><span>21 → 187</span></div>
+          <div class="ci-stats-row"><span>DEF</span><span>72 → 633</span></div>
+          <div class="ci-stats-row"><span>Ascension Stat</span><span>DEF% +36.0%</span></div></div></div>
+                  </div>
+                  <div class="ci-hero-materials">
+                      <div class="ci-hero-stats-title">Ascension Materials</div>
+                      <div class="ci-hero-mat-list">
+          <div class="ci-hero-mat-item" title="Сверкающая хризантема">
+              <img src="assets/data/generated/shared-assets/materials/101248.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Сверкающая хризантема</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Ядро таинственного источника с золотой надписью">
+              <img src="assets/data/generated/shared-assets/materials/113066.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Ядро таинственного источника с золотой надписью</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Драгоценный топаз Притхива">
+              <img src="assets/data/generated/shared-assets/materials/104174.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Драгоценный топаз Притхива</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Корона прозрения">
+              <img src="assets/data/generated/shared-assets/materials/104319.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Корона прозрения</span>
+          </div>
+          <div class="ci-hero-mat-item" title="Золотой свисток коронованного заврианами воина">
+              <img src="assets/data/generated/shared-assets/materials/112106.webp" alt="" data-gi-fallback="retry">
+              <span class="ci-hero-mat-name">Золотой свисток коронованного заврианами воина</span>
+          </div></div>
+                  </div>
+              </div>
+          </div>
+            <div class="ci-layout">
+                <section id="ci-sec-talents" class="ci-panel">
+                    <h2 class="ci-panel-title">Talents</h2>
+                    <div class="ci-talent-layout">
+                        <div class="ci-talent-tabs">
+                            
+          <button type="button" class="ci-talent-tab active" data-talent-idx="0">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000015/skills/00_normal_attack.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Рёв Эекатля</span>
+                  <span class="ci-talent-summary-type">Normal Attack</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="1">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000103/skills/01_skill.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">Скретч Йоуаль</span>
+                  <span class="ci-talent-summary-type">Elemental Skill</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+          <button type="button" class="ci-talent-tab" data-talent-idx="2">
+              <img class="ci-talent-icon" src="assets/data/generated/character-profiles/10000103/skills/02_burst.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <span class="ci-talent-tab-body">
+                  <span class="ci-talent-summary-name">В ритме оцелота!</span>
+                  <span class="ci-talent-summary-type">Elemental Burst</span>
+              </span>
+              <span class="ci-talent-tab-chevron">»</span>
+          </button>
+                        </div>
+                        <div class="ci-talent-detail" id="ciTalentDetail">
+                            
+          <div class="ci-talent-detail-inner">
+              <div class="ci-talent-detail-flavor">
+                  <div class="ci-talent-flavor">Обычная атака
+До трёх быстрых ударов.
+
+Заряженная атака:
+Удар перед собой, на который тратится определённое количество выносливости.
+
+Атака в падении:
+Стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади. Урон обоих типов атак пропорционален защите Шилонен.
+
+Благословение Ночного духа: Клинки-ролики
+Находясь в состоянии Благословения Ночного духа, Шилонен переходит в режим Клинков-роликов. Когда Шилонен пребывает в этом режиме, её обычная атака сменяется на роликовые коньки и позволяет ей выполнить до 4 ударов роликами. При этом нельзя выполнять заряженные атаки.
+Обычные атаки и атаки в падении в этом состоянии пропорциональны защите Шилонен и наносят Гео урон с характеристикой Ночного духа, который не может быть отменён другими инфузиями.</div>
+                  
+              </div>
+              <div class="ci-talent-detail-stats">
+                  <div class="ci-level-slider-row">
+                      <span class="ci-level-slider-label">Level</span>
+                      <span class="ci-level-slider-value">1</span>
+                      <span class="ci-level-slider-bound">1</span>
+                      <input type="range" class="ci-level-slider" id="ciTalentLevelSlider" aria-label="Talent level" min="1" max="15" step="1" value="1">
+                      <span class="ci-level-slider-bound">15</span>
+                  </div>
+                  <div class="ci-level-stats" id="ciTalentLevelStats">
+                      
+          <div class="ci-level-stats-title">Level 1</div>
+          <div class="ci-level-stats-rows">
+              <div class="ci-level-stats-row"><span>Урон атаки 1</span><span>51.8%</span></div><div class="ci-level-stats-row"><span>Урон атаки 2</span><span>27.4%+27.4%</span></div><div class="ci-level-stats-row"><span>Урон атаки 3</span><span>72.9%</span></div><div class="ci-level-stats-row"><span>Урон заряженной атаки</span><span>91.3%</span></div><div class="ci-level-stats-row"><span>Потребление выносливости</span><span>20.0 ед.</span></div><div class="ci-level-stats-row"><span>Урон в падении</span><span>63.9% защиты</span></div><div class="ci-level-stats-row"><span>Урон низкого/высокого удара</span><span>127.8% защиты/159.7% защиты</span></div><div class="ci-level-stats-row"><span>Урон Клинков-роликов 1</span><span>56.0% защиты</span></div><div class="ci-level-stats-row"><span>Урон Клинков-роликов 2</span><span>55.0% защиты</span></div><div class="ci-level-stats-row"><span>Урон Клинков-роликов 3</span><span>65.8% защиты</span></div><div class="ci-level-stats-row"><span>Урон Клинков-роликов 4</span><span>86.0% защиты</span></div>
+          </div>
+                  </div>
+              </div>
+          </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="ci-split-row">
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-const" class="ci-panel">
+                            <h2 class="ci-panel-title">Constellations</h2>
+                            <div class="ci-const-list">
+                                
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000103/constellations/00_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C1</span>Фраза отдохновения</div>
+                  <div class="ci-const-desc">Потребление очков Ночного духа и флогистона Шилонен в состоянии Благословения Ночного духа снижено на 30%, а ограничение длительности её очков Ночного духа повышено на 45%.
+Кроме того, когда Исходные сэмплы Шилонен активны, она также повышает сопротивление прерыванию активных персонажей поблизости.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000103/constellations/01_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C2</span>Микс Чиукуэ</div>
+                  <div class="ci-const-desc">Исходные сэмплы Гео Шилонен всегда активны. Когда Исходные сэмплы Шилонен активны, все члены отряда поблизости, чей элемент соответствует элементу Исходного сэмпла, получают следующие эффекты:
+· Гео: наносимый урон увеличивается на 50%.
+· Пиро: сила атаки увеличивается на 45%.
+· Гидро: макс. HP увеличивается на 45%.
+· Крио: крит. урон увеличивается на 60%.
+· Электро: восстанавливает 25 ед. энергии, а также сокращает откат взрыва стихии на 6 сек.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000103/constellations/02_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C3</span>Цикл тональпоуалли</div>
+                  <div class="ci-const-desc">Увеличивает уровень навыка Скретч Йоуаль на 3.
+Макс. уровень: 15</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000103/constellations/03_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C4</span>Транс Сочитль</div>
+                  <div class="ci-const-desc">После того как Шилонен использует Скретч Йоуаль, она на 15 сек. наделяет всех персонажей отряда поблизости Цветущей милостью.
+Обычные атаки, заряженные атаки и атаки в падении персонажей с Цветущей милостью наносят урон, повышенный на 65% от защиты Шилонен. Эффект отменяется после того как активируется 6 раз или когда заканчивается время его действия.
+Если одновременно поразить нескольких врагов, количество активаций подсчитывается согласно числу поражённых врагов. Цветущая милость рассчитывается для всех членов отряда отдельно.</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000103/constellations/04_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C5</span>Переход Тлальтекутли</div>
+                  <div class="ci-const-desc">Увеличивает уровень навыка В ритме оцелота! на 3.
+Макс. уровень: 15</div>
+              </div>
+          </div>
+          <div class="ci-const-card">
+              <img class="ci-const-icon" src="assets/data/generated/character-profiles/10000103/constellations/05_const.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-const-body">
+                  <div class="ci-const-name"><span class="ci-const-tier">C6</span>Карнавал непреходящей ночи</div>
+                  <div class="ci-const-desc">Когда Шилонен в состоянии Благословения Ночного духа совершает спринт, прыжок, использует обычную атаку или атаку в падении, она получает Благословение непреходящей ночи, которое игнорирует ограничения состояния Благословения Ночного духа Шилонен, повышает урон её обычной атаки и атаки в падении, длится 5 сек.
+В это время:
+· Отсчёт ограничения её состояния Благословения Ночного духа приостанавливается, а очки Ночного духа, флогистон и выносливость Шилонен не снижаются. Когда её очки Ночного духа достигают максимума, Благословение Ночного духа Шилонен не завершается.
+· Урон обычных атак и атак в падении Шилонен в состоянии Благословения Ночного духа увеличивается на 300% от её защиты.
+· Каждые 1,5 сек. она восстанавливает HP членов отряда поблизости в размере 120% от своей защиты.
+Она может получать Благословение непреходящей ночи 1 раз в 15 сек.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="ci-split-row-side">
+                        <section id="ci-sec-passives" class="ci-panel">
+                            <h2 class="ci-panel-title">Passives</h2>
+                            <div class="ci-passive-list">
+                                
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000103/skills/03_passive_1.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Эхо нетотилицтли</div>
+                  <div class="ci-passive-desc">Когда Шилонен находится в состоянии Благословения Ночного духа:
+· Если у Шилонен есть как минимум два Исходных сэмпла, которые поменяли свой элемент, при попадании своей обычной атакой и атакой в падении по противнику она получает 35 очков Ночного духа. Эффект может возникнуть один раз в 0,1 сек.
+· Если у неё менее двух Исходных сэмплов, которые поменяли свой элемент, урон обычной атаки и атаки в падении повышается на 30%.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000103/skills/04_passive_2.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Переносной бронирующий слой</div>
+                  <div class="ci-passive-desc">Когда Шилонен находится в состоянии Благословения Ночного духа, а её очки Ночного духа достигают максимума, она активирует эффект, аналогичный её Вспышке Ночного духа. Этот эффект может возникнуть один раз в 14 сек.
+Кроме того, когда члены отряда поблизости активируют Вспышку Ночного духа, защита Шилонен повышается на 20% на 15 сек.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000103/skills/05_passive_3.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Дар владений ночи: Благословение кузнечного огня</div>
+                  <div class="ci-passive-desc">Когда очки Ночного духа исчерпаны, Шилонен продолжит поддерживать Благословение Ночного духа, переключившись на флогистон.
+Когда Шилонен находится в областях Натлана с флогистоновыми механиками, она способна применять Передачу Ночного духа: Шилонен. Когда активный персонаж использует спринт, карабкается, пребывает в состоянии передвижения некоторых талантов или находится на определённой высоте в воздухе, при смене персонажа на Шилонен активируется следующий эффект: Шилонен, появляясь на поле, входит в состояние Благословения Ночного духа и получает 20 очков Ночного духа. В таком случае временное ограничение очков Ночного духа Шилонен составляет 4 сек. Если превысить это ограничение, очки Ночного духа Шилонен мгновенно расходуются. Если в течение этого ограничения применить Скретч Йоуаль, то временное ограничение очков Ночного духа увеличивается на 9 сек. Передача Ночного духа может активироваться вашим отрядом один раз в 10 сек.
+
+Кроме того, в Натлане во время карабканья в состоянии Благословения Ночного духа Шилонен не будет расходовать выносливость.</div>
+              </div>
+          </div>
+          <div class="ci-passive-card">
+              <img class="ci-passive-icon" src="assets/data/generated/character-profiles/10000103/skills/06_passive_4.webp" alt="" loading="lazy" data-gi-fallback="retry">
+              <div class="ci-passive-body">
+                  <div class="ci-passive-name">Шествие Тепеиуитля</div>
+                  <div class="ci-passive-desc">Активация Передачи Ночного духа восстанавливает 15 ед. флогистона.</div>
+              </div>
+          </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div></div></div>
+    </div>
+
+    <div id="tabWeaponInfoContent">
+        <div class="char-info-page weapon-page" id="weaponInfoPanel"></div>
+    </div>
+
+    </div>
+    <footer class="site-footer">
+        <div class="site-footer-legal">Неофициальный фанатский инструмент. Не связан с HoYoverse/miHoYo и не одобрен ими. Genshin Impact и все связанные названия, персонажи и материалы являются товарными знаками и объектами авторского права HoYoverse/miHoYo.</div>
+        <div class="site-footer-links"><a href="privacy.html">Политика конфиденциальности</a> • <a href="terms.html">Условия использования</a> • <a href="contact.html">Контакты</a> • <a href="credits.html">Благодарности</a></div>
+    </footer>
+    </main>
+</div>
+
+    <script src="assets/data/generated/characters.935088e3.js"></script>
+    <script src="assets/data/generated/weapons.b96897b0.js"></script>
+    <script src="assets/data/generated/artifacts.2c85d494.js"></script>
+    <script src="assets/data/reference/levels.js"></script>
+    <script src="assets/data/reference/weapon-levels.js"></script>
+    <script src="assets/data/generated/character-profiles/index.5c1d2b2a.js"></script>
+    <script src="assets/data/generated/weapon-profiles/index.ca88393f.js"></script>
+    <script src="assets/data/character-slugs.js"></script>
+    <script src="assets/data/weapon-slugs.js"></script>
+    <script src="assets/data/data-versions.js"></script>
+    <script src="assets/data/reference/featured-character-odds.js"></script>
+    <script src="assets/data/reference/featured-weapon-odds.js"></script>
+    <script>window.__LAZY_TABS__ = {"simulator":{"src":"cd5534f3.js"},"4star":{"src":"82d0d94d.js"},"build":{"src":"27860b18.js"},"other":{"src":"569e6c7c.js"},"settings":{"src":"627760ad.js"},"character-info":{"src":"8453164c.js"},"weapon-info":{"src":"0603cdb3.js"}};</script>
+    <script type="module" src="js/97b774dd.js"></script>
+
+    <script data-goatcounter="https://spektrem2b.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body></html>

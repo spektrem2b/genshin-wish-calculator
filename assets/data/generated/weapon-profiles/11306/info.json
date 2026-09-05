@@ -1,0 +1,52 @@
+{
+  "id": 11306,
+  "name": {
+    "EN": "Skyrider Sword",
+    "CHS": "飞天御剑",
+    "CHT": "飛天御劍",
+    "DE": "Himmelsflug-Schwert",
+    "ES": "Espada Surcacielos",
+    "FR": "Épée céleste",
+    "ID": "Skyrider Sword",
+    "IT": "Spada del Cavalcacieli",
+    "JP": "飛天御剣",
+    "KR": "비천어검",
+    "PT": "Espada do Cavaleiro do Céu",
+    "RU": "Меч небесного всадника",
+    "TH": "Skyrider Sword",
+    "TR": "Gökbinicisi Kılıcı",
+    "VI": "Kiếm Phi Thiên"
+  },
+  "nameEn": "Skyrider Sword",
+  "type": "Kiếm Đơn",
+  "rarity": 3,
+  "description": {
+    "EN": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...",
+    "CHS": "可靠的钢剑，传说著名的「御剑公子」曾试图借助它飞天。",
+    "CHT": "可靠的鋼劍，傳說著名的「御劍公子」曾試圖借助它飛天。",
+    "DE": "Ein recht robustes Schwert. Der sagenumwobene „Schwertprinz“ hat einst versucht, mit ihm gen Himmel zu fliegen.",
+    "ES": "Una espada de acero fiable. Cierta persona intentó usarla como una espada voladora para surcar los cielos...",
+    "FR": "Une solide épée en acier. On raconte que quelqu'un a essayé de s'en servir comme moyen de transport...",
+    "ID": "Pedang baja yang dapat diandalkan. Konon, Skyrider yang terkenal pernah mencoba meminjam kekuatannya untuk terbang...",
+    "IT": "Una spada d'acciaio affidabile. Una volta, il leggendario Cavalcacieli tentò di cavalcarla come se fosse una spada volante...",
+    "JP": "頼もしい鋼の剣、伝説の中で「御剣公子」はこれの力を借りて飛天しようとしたらしい。",
+    "KR": "믿음직한 강철검, 전설에 의하면 유명한 「어검 공자」가 이 검을 이용해 하늘을 날려고 시도했었다고 한다",
+    "PT": "Uma espada de aço confiável. Uma certa pessoa tentou usá-la como espada voadora...",
+    "RU": "Надёжный стальной меч. Однажды некто пытался заставить его летать...",
+    "TH": "ดาบเหล็กกล้าที่พึ่งพาได้ เคยมีบางคนพยายามขี่มันเพราะชื่อของมันด้วย",
+    "TR": "Sağlam bir çelik kılıç. Efsanevi Gökbinicisinin onu uçan kılıç olarak kullanmaya çalıştığı söylenir...",
+    "VI": "Kiếm bằng gang, truyền thuyết nói rằng \"Ngự Kiếm Công Tử\" từng muốn dùng nó để bay lên trời."
+  },
+  "icon": "generated/weapon-profiles/11306/avatar.webp",
+  "base_atk_lvl1": 37.6075,
+  "base_atk_lvl90": 354.4,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.113333,
+  "substat_lvl90": 0.5207,
+  "awakenCost": [
+    500,
+    1000,
+    2000,
+    4000
+  ]
+}

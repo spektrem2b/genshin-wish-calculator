@@ -1,0 +1,52 @@
+{
+  "id": 11406,
+  "name": {
+    "EN": "Prototype Rancour",
+    "CHS": "试作斩岩",
+    "CHT": "試作斬岩",
+    "DE": "Steinschneider-Prototyp",
+    "ES": "Prototipo Rencor",
+    "FR": "Tailleur de pierre (prototype)",
+    "ID": "Prototype Rancour",
+    "IT": "Prototipo del rancore",
+    "JP": "斬岩·試作",
+    "KR": "참암 프로토타입",
+    "PT": "Protótipo Rancor",
+    "RU": "Прототип: Злоба",
+    "TH": "Prototype Rancour",
+    "TR": "Prototip: Garez",
+    "VI": "Mẫu Trảm Nham"
+  },
+  "nameEn": "Prototype Rancour",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
+    "CHS": "黑岩厂中秘藏的古老长剑。可挥砍断岩而刃不卷。",
+    "CHT": "黑岩廠中密藏的古老長劍。可揮砍斷岩而刃不卷。",
+    "DE": "Ein uraltes Langschwert aus der Schwarzsteinschmiede, das durch Felsen gleitet, als wären sie Butter.",
+    "ES": "Una antigua espada larga descubierta en la Forja Peñasco Oscuro. Es tan afilada que con ella se puede cortar una roca con gran facilidad.",
+    "FR": "Une ancienne épée longue trouvée à la Forge de Rochenoire, capable de pénétrer la roche comme dans du beurre.",
+    "ID": "Pedang panjang kuno yang ditemukan di Blackcliff Forge. Dapat dengan mudah memotong batu bagaikan pisau memotong batangan mentega.",
+    "IT": "Un'antica spada lunga pervenuta nella Fucina di Rupenera, in grado di tagliare le rocce come se fossero burro.",
+    "JP": "黒岩場の中に隠されていた古い長剣、岩を斬っても傷つかない。",
+    "KR": "흑암 공장에 은밀히 보관된 오래된 장검. 수많은 바위를 베어도 칼날이 무뎌지지 않는다",
+    "PT": "Uma antiga espada longa descoberta na Forja do Penhasco Obscuro que corta pedras como uma faca quente na manteiga.",
+    "RU": "Древний меч, обнаруженный в кузнице Черногорья. Режет камень словно масло.",
+    "TH": "ดาบยาวโบราณที่ถูกซ่อนไว้ใน Blackcliff Forge มันสามารถตัดผ่านหินได้และดาบไม่บิ่น",
+    "TR": "Kara Kaya Demirci Ocağında dövülmüş kadim bir kılıç, bununla kayaları bile yarmak çocuk oyuncağı.",
+    "VI": "Kiếm dài cổ xưa được cất giữ trong Hắc Nham Xưởng, có thể chém sắt như chém bùn."
+  },
+  "icon": "generated/weapon-profiles/11406/avatar.webp",
+  "base_atk_lvl1": 43.7349,
+  "base_atk_lvl90": 564.8,
+  "substat_type": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+  "substat_lvl1": 0.075067,
+  "substat_lvl90": 0.3449,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

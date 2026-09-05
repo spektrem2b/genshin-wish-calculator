@@ -1,0 +1,52 @@
+{
+  "id": 14409,
+  "name": {
+    "EN": "Eye of Perception",
+    "CHS": "昭心",
+    "CHT": "昭心",
+    "DE": "Herzensblick",
+    "ES": "Ojo de la Perspicacia",
+    "FR": "Œil de la perception",
+    "ID": "Eye of Perception",
+    "IT": "Occhio della percezione",
+    "JP": "昭心",
+    "KR": "소심",
+    "PT": "Olho da Percepção",
+    "RU": "Око сознания",
+    "TH": "Eye of Perception",
+    "TR": "Algı Gözü",
+    "VI": "Chiêu Tâm"
+  },
+  "nameEn": "Eye of Perception",
+  "type": "Pháp Khí",
+  "rarity": 4,
+  "description": {
+    "EN": "A dim black glaze pearl that is said to have the power to read the purity of one's heart.",
+    "CHS": "幽暗的琉璃宝珠，传说中拥有洞察人心清白的力量。",
+    "CHT": "幽暗的琉璃寶珠，傳說中擁有洞察人心清白的力量。",
+    "DE": "Eine dunkle Kristallkugel, die angeblich erkennen kann, ob das Herz eines Menschen rein ist.",
+    "ES": "Una oscura joya hecha de cristal. Cuenta la leyenda que posee la capacidad de ver a través de la pureza de las personas.",
+    "FR": "Un orbe en verre sombre qui aurait le pouvoir de voir à travers le cœur des gens et de le purifier.",
+    "ID": "Bola kristal gelap yang memiliki kekuatan legendaris untuk melihat isi hati seseorang yang sebenarnya.",
+    "IT": "Una perla di vetro nero che si dice abbia il potere di leggere la purezza del cuore della gente.",
+    "JP": "幽闇な琉璃宝玉。伝説によると、人の心を読める力を持っているらしい。",
+    "KR": "어두운 유리 보주. 전설에 의하면 사람의 결백을 통찰하는 힘을 지니고 있다고 한다",
+    "PT": "Uma pérola negra esmaltada que se diz ter o poder de ler a pureza do coração.",
+    "RU": "Тёмная жемчужина, покрытая чёрной глазурью. Легенда гласит, что в её силах разглядеть самую суть человека.",
+    "TH": "ลูกแก้วสีดำ ตำนานเล่าว่ามันมีพลังที่รับรู้ถึงความไร้เดียงสาของมนุษย์",
+    "TR": "İnsanların kalbini okuma ve arındırma gücüne sahip olduğu söylenen koyu renkli ve parlak bir küre.",
+    "VI": "Trân châu u ám, tương truyền sở hữu sức mạnh nhìn thấu tâm can."
+  },
+  "icon": "generated/weapon-profiles/14409/avatar.webp",
+  "base_atk_lvl1": 41.0671,
+  "base_atk_lvl90": 454.4,
+  "substat_type": "FIGHT_PROP_ATTACK_PERCENT",
+  "substat_lvl1": 0.12,
+  "substat_lvl90": 0.5513,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

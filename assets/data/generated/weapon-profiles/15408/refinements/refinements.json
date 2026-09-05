@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Press the Advantage",
+    "CHS": "乘胜追击",
+    "CHT": "乘勝追擊",
+    "DE": "Triumphaler Übermut",
+    "ES": "Victoria tras victoria",
+    "FR": "De victoire en victoire",
+    "ID": "Press the Advantage",
+    "IT": "Vittoria a oltranza",
+    "JP": "勝ちに乗じる",
+    "KR": "승승장구",
+    "PT": "De vitória em vitória",
+    "RU": "Преследование побеждённых",
+    "TH": "Press the Advantage",
+    "TR": "Zaferden Zafere",
+    "VI": "Thừa Thắng Xông Lên"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After defeating an enemy, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "CHS": "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+        "CHT": "擊敗敵人後，攻擊力提升12%，持續30秒。該效果至多疊加三層，每層持續時間獨立。",
+        "DE": "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um 12 %. 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "Al derrotar a un enemigo, aumenta el ATQ en un 12% durante 30 s, pudiéndose acumular hasta 3 veces. La duración de cada acumulación es independiente de las demás.",
+        "FR": "Augmente l'ATQ de 12 % pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier.",
+        "ID": "Setelah mengalahkan musuh, meningkatkan 12% ATK selama 30 detik. Maksimum 3 lapis, dan durasi setiap lapis tidak terpengaruh satu sama lain.",
+        "IT": "#Dopo aver sconfitto un nemico, l'ATT aumenta di un 12% per 30 s. Cumulabile fino a 3 volte. La durata di ogni accumulo è indipendente dalle altre.",
+        "JP": "敵を倒した後、攻撃力+12%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+        "KR": "적을 처치한 후 공격력이 12% 증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다",
+        "PT": "Após derrotar um inimigo, o ATQ é aumentado em 12% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros.",
+        "RU": "Побеждённые противники увеличивают силу атаки на 12%. Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит.",
+        "TH": "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น 12% เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+        "TR": "Bir düşmanı yendikten sonra, 30 saniyeliğine Saldırı %12 artar. Bu etki 3 kademeye kadar birikir ve her bir kademenin süresi diğerlerinden bağımsızdır.",
+        "VI": "Sau khi đánh bại kẻ địch, tấn công tăng 12%, kéo dài 30s. Hiệu quả này cộng dồn đến 3 tầng, CD mỗi tầng độc lập."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After defeating an enemy, ATK is increased by 15% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "CHS": "击败敌人后，攻击力提升15%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+        "CHT": "擊敗敵人後，攻擊力提升15%，持續30秒。該效果至多疊加三層，每層持續時間獨立。",
+        "DE": "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um 15 %. 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "Al derrotar a un enemigo, aumenta el ATQ en un 15% durante 30 s, pudiéndose acumular hasta 3 veces. La duración de cada acumulación es independiente de las demás.",
+        "FR": "Augmente l'ATQ de 15 % pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier.",
+        "ID": "Setelah mengalahkan musuh, meningkatkan 15% ATK selama 30 detik. Maksimum 3 lapis, dan durasi setiap lapis tidak terpengaruh satu sama lain.",
+        "IT": "#Dopo aver sconfitto un nemico, l'ATT aumenta di un 15% per 30 s. Cumulabile fino a 3 volte. La durata di ogni accumulo è indipendente dalle altre.",
+        "JP": "敵を倒した後、攻撃力+15%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+        "KR": "적을 처치한 후 공격력이 15% 증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다",
+        "PT": "Após derrotar um inimigo, o ATQ é aumentado em 15% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros.",
+        "RU": "Побеждённые противники увеличивают силу атаки на 15%. Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит.",
+        "TH": "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น 15% เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+        "TR": "Bir düşmanı yendikten sonra, 30 saniyeliğine Saldırı %15 artar. Bu etki 3 kademeye kadar birikir ve her bir kademenin süresi diğerlerinden bağımsızdır.",
+        "VI": "Sau khi đánh bại kẻ địch, tấn công tăng 15%, kéo dài 30s. Hiệu quả này cộng dồn đến 3 tầng, CD mỗi tầng độc lập."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After defeating an enemy, ATK is increased by 18% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "CHS": "击败敌人后，攻击力提升18%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+        "CHT": "擊敗敵人後，攻擊力提升18%，持續30秒。該效果至多疊加三層，每層持續時間獨立。",
+        "DE": "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um 18 %. 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "Al derrotar a un enemigo, aumenta el ATQ en un 18% durante 30 s, pudiéndose acumular hasta 3 veces. La duración de cada acumulación es independiente de las demás.",
+        "FR": "Augmente l'ATQ de 18 % pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier.",
+        "ID": "Setelah mengalahkan musuh, meningkatkan 18% ATK selama 30 detik. Maksimum 3 lapis, dan durasi setiap lapis tidak terpengaruh satu sama lain.",
+        "IT": "#Dopo aver sconfitto un nemico, l'ATT aumenta di un 18% per 30 s. Cumulabile fino a 3 volte. La durata di ogni accumulo è indipendente dalle altre.",
+        "JP": "敵を倒した後、攻撃力+18%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+        "KR": "적을 처치한 후 공격력이 18% 증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다",
+        "PT": "Após derrotar um inimigo, o ATQ é aumentado em 18% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros.",
+        "RU": "Побеждённые противники увеличивают силу атаки на 18%. Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит.",
+        "TH": "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น 18% เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+        "TR": "Bir düşmanı yendikten sonra, 30 saniyeliğine Saldırı %18 artar. Bu etki 3 kademeye kadar birikir ve her bir kademenin süresi diğerlerinden bağımsızdır.",
+        "VI": "Sau khi đánh bại kẻ địch, tấn công tăng 18%, kéo dài 30s. Hiệu quả này cộng dồn đến 3 tầng, CD mỗi tầng độc lập."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After defeating an enemy, ATK is increased by 21% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "CHS": "击败敌人后，攻击力提升21%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+        "CHT": "擊敗敵人後，攻擊力提升21%，持續30秒。該效果至多疊加三層，每層持續時間獨立。",
+        "DE": "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um 21 %. 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "Al derrotar a un enemigo, aumenta el ATQ en un 21% durante 30 s, pudiéndose acumular hasta 3 veces. La duración de cada acumulación es independiente de las demás.",
+        "FR": "Augmente l'ATQ de 21 % pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier.",
+        "ID": "Setelah mengalahkan musuh, meningkatkan 21% ATK selama 30 detik. Maksimum 3 lapis, dan durasi setiap lapis tidak terpengaruh satu sama lain.",
+        "IT": "#Dopo aver sconfitto un nemico, l'ATT aumenta di un 21% per 30 s. Cumulabile fino a 3 volte. La durata di ogni accumulo è indipendente dalle altre.",
+        "JP": "敵を倒した後、攻撃力+21%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+        "KR": "적을 처치한 후 공격력이 21% 증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다",
+        "PT": "Após derrotar um inimigo, o ATQ é aumentado em 21% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros.",
+        "RU": "Побеждённые противники увеличивают силу атаки на 21%. Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит.",
+        "TH": "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น 21% เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+        "TR": "Bir düşmanı yendikten sonra, 30 saniyeliğine Saldırı %21 artar. Bu etki 3 kademeye kadar birikir ve her bir kademenin süresi diğerlerinden bağımsızdır.",
+        "VI": "Sau khi đánh bại kẻ địch, tấn công tăng 21%, kéo dài 30s. Hiệu quả này cộng dồn đến 3 tầng, CD mỗi tầng độc lập."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After defeating an enemy, ATK is increased by 24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "CHS": "击败敌人后，攻击力提升24%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
+        "CHT": "擊敗敵人後，攻擊力提升24%，持續30秒。該效果至多疊加三層，每層持續時間獨立。",
+        "DE": "Erhöht den ANG beim Besiegen von Gegnern 30 s lang um 24 %. 3-fach stapelbar, Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "Al derrotar a un enemigo, aumenta el ATQ en un 24% durante 30 s, pudiéndose acumular hasta 3 veces. La duración de cada acumulación es independiente de las demás.",
+        "FR": "Augmente l'ATQ de 24 % pendant 30 s après avoir vaincu un ennemi. Cet effet peut être cumulé 3 fois maximum et la durée de chaque cumul peut varier.",
+        "ID": "Setelah mengalahkan musuh, meningkatkan 24% ATK selama 30 detik. Maksimum 3 lapis, dan durasi setiap lapis tidak terpengaruh satu sama lain.",
+        "IT": "#Dopo aver sconfitto un nemico, l'ATT aumenta di un 24% per 30 s. Cumulabile fino a 3 volte. La durata di ogni accumulo è indipendente dalle altre.",
+        "JP": "敵を倒した後、攻撃力+24%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+        "KR": "적을 처치한 후 공격력이 24% 증가한다. 지속 시간: 30초. 최대 중첩수: 3회. 중첩 1회당 지속 시간은 독립 계산한다",
+        "PT": "Após derrotar um inimigo, o ATQ é aumentado em 24% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros.",
+        "RU": "Побеждённые противники увеличивают силу атаки на 24%. Длится 30 сек. Эффект может складываться до 3 раз. Длительность добавочных эффектов друг от друга не зависит.",
+        "TH": "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น 24% เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+        "TR": "Bir düşmanı yendikten sonra, 30 saniyeliğine Saldırı %24 artar. Bu etki 3 kademeye kadar birikir ve her bir kademenin süresi diğerlerinden bağımsızdır.",
+        "VI": "Sau khi đánh bại kẻ địch, tấn công tăng 24%, kéo dài 30s. Hiệu quả này cộng dồn đến 3 tầng, CD mỗi tầng độc lập."
+      }
+    }
+  ]
+}

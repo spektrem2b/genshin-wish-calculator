@@ -1,0 +1,52 @@
+{
+  "id": 11418,
+  "name": {
+    "EN": "Xiphos' Moonlight",
+    "CHS": "西福斯的月光",
+    "CHT": "西福斯的月光",
+    "DE": "Mondlicht von Xiphos",
+    "ES": "Luz Lunar de Xifos",
+    "FR": "Clair de lune de Xiphos",
+    "ID": "Xiphos' Moonlight",
+    "IT": "Chiarore di Xiphos",
+    "JP": "サイフォスの月明かり",
+    "KR": "크시포스의 달빛",
+    "PT": "Luz Lunar de Xiphos",
+    "RU": "Лунное сияние ксифоса",
+    "TH": "Xiphos' Moonlight",
+    "TR": "Xiphos'un Ay Işığı",
+    "VI": "Ánh Trăng Xiphos"
+  },
+  "nameEn": "Xiphos' Moonlight",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it.",
+    "CHS": "闪着月色光彩的古老双刃剑。据说其中寄寓着如今已经沉默的镇灵。",
+    "CHT": "閃著月色光彩的古老雙刃劍。據說其中寄寓著如今已經沉默的鎮靈。",
+    "DE": "Dieses alte zweischneidige Schwert schimmert im Mondlicht. Es heißt, ein heute schweigender Dschinn wohne in ihm.",
+    "ES": "Una espada de doble filo que emite un brillo similar al de la luna. Según la leyenda, en ella reside un genio que ahora permanece en silencio.",
+    "FR": "Cette ancienne épée à double tranchant brille au clair de lune. On dit qu'un djinn maintenant silencieux l'habite...",
+    "ID": "Pedang kuno bermata dua yang memancarkan cahaya seperti bulan. Menurut legenda, ada Jinni yang menunggu dalam diam.",
+    "IT": "Quest'antica spada a doppio taglio scintilla alla luce della luna. Si dice che al suo interno dimori una djinn silente.",
+    "JP": "月色の光に輝く古い両刃の剣。その中には、今は沈黙を保つジンニーが宿っているらしい。",
+    "KR": "달빛이 반짝이는 고대의 양날 검. 안에는 지금은 침묵한 지니가 깃들어 있다고 한다",
+    "PT": "Uma espada de dois gumes que emite um brilho semelhante ao da lua. Segundo as lendas, nela reside um Jinni que aguarda em silêncio.",
+    "RU": "Древний обоюдоострый меч, сверкающий лунным светом. Говорят, что в нём живёт умолкший джинн.",
+    "TH": "ดาบสองคมโบราณที่ส่องประกายด้วยแสงจันทร์ ว่ากันว่ามีญินซึ่งบัดนี้สงบนิ่งอาศัยอยู่ในนั้น",
+    "TR": "Bu kadim çift ağızlı keskin kılıç ay ışığı gibi parlar. İçinde uykuda olan bir Cin olduğu söylenir.",
+    "VI": "Kiếm hai lưỡi ánh lên màu sắc của mặt trăng. Nghe nói bên trong có trấn linh cư ngụ."
+  },
+  "icon": "generated/weapon-profiles/11418/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_ELEMENT_MASTERY",
+  "substat_lvl1": 36.0,
+  "substat_lvl90": 165.384,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}

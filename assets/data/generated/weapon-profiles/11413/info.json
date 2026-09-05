@@ -1,0 +1,52 @@
+{
+  "id": 11413,
+  "name": {
+    "EN": "Festering Desire",
+    "CHS": "腐殖之剑",
+    "CHT": "腐殖之劍",
+    "DE": "Schwert der Verderbnis",
+    "ES": "Deseo Ponzoñoso",
+    "FR": "Croc suppurant",
+    "ID": "Festering Desire",
+    "IT": "Desiderio purulento",
+    "JP": "腐植の剣",
+    "KR": "부식의 검",
+    "PT": "Espada Pútrida",
+    "RU": "Осквернённое желание",
+    "TH": "Festering Desire",
+    "TR": "Yıkıcı Arzu",
+    "VI": "Răng Nanh Rỉ Sét"
+  },
+  "nameEn": "Festering Desire",
+  "type": "Kiếm Đơn",
+  "rarity": 4,
+  "description": {
+    "EN": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
+    "CHS": "希冀着生命的诡谲直剑，附有连龙也能侵蚀的腐殖之毒。",
+    "CHT": "希冀著生命的詭譎直劍，附有連龍也能侵蝕的腐殖之毒。",
+    "DE": "Ein recht unheimliches, sehr gerades Schwert, das sich nach Lebenskraft zu sehnen scheint. Es trieft von einem säureartigen Gift, welches sogar einen mächtigen Drachen töten könnte.",
+    "ES": "Una espada muy recta y misteriosa que parece sedienta de vida. De ella gotea un veneno capaz de corromper hasta a un dragón.",
+    "FR": "Une épée droite maléfique qui a soif de vie. Elle renferme un poison qui aurait le pouvoir de neutraliser un dragon.",
+    "ID": "Sebilah pedang mengerikan yang seakan-akan haus akan nyawa. Pedang ini dilapisi oleh racun mematikan yang bisa melukai seekor naga sekalipun.",
+    "IT": "Un'inquietante spada dritta che sembra agognare alla vita. È impregnata di un veleno virulento che potrebbe appestare persino il più potente dei draghi.",
+    "JP": "命に飢える不気味な直剣。龍さえも侵食する腐植の毒を持っている。",
+    "KR": "생명을 갈망하는 섬뜩한 검. 드래곤마저 부식할 수 있는 독을 가지고 있다",
+    "PT": "Uma espada reta assustadora que parece ansiar pela vida. Ela verte um veneno enfraquecedor que poderia corromper até mesmo um dragão poderoso.",
+    "RU": "Зловещий меч, жаждущий жизни. Он пропитан сильным ядом, способным осквернить даже могучего дракона.",
+    "TH": "ดาบที่ชั่วร้ายนี้ดูเหมือนจะกระหายอยากเอาชีวิต มันมีพิษที่สามารถกัดกร่อนได้แม้กระทั่งมังกร",
+    "TR": "Yaşama hasret kalmış habis bir düz kılıç. Bir ejderi bile etkisiz hale getirebilecek kadar güçlü bir zehre sahip.",
+    "VI": "Thanh kiếm cổ quái khao khát sinh mệnh, có độc tính có thể ăn mòn cả Rồng."
+  },
+  "icon": "generated/weapon-profiles/11413/avatar.webp",
+  "base_atk_lvl1": 42.401,
+  "base_atk_lvl90": 509.6,
+  "substat_type": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "substat_lvl1": 0.1,
+  "substat_lvl90": 0.4594,
+  "awakenCost": [
+    1000,
+    2000,
+    4000,
+    8000
+  ]
+}
