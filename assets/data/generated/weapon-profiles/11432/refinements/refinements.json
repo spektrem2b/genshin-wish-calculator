@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Diffusing Boundary",
+    "CHS": "弥漫的边界",
+    "CHT": "瀰漫的邊界",
+    "DE": "Durchdrungene Grenze",
+    "ES": "Frontera difusa",
+    "FR": "Frontière diffuse",
+    "ID": "Diffusing Boundary",
+    "IT": "Confine propagato",
+    "JP": "広がる境界線",
+    "KR": "자욱한 경계",
+    "PT": "Fronteira Permeante",
+    "RU": "Надвигающийся рубеж",
+    "TH": "Diffusing Boundary",
+    "TR": "Geçişken Sınırlar",
+    "VI": "Ranh Giới Bành Trướng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by 20%, and Normal and Charged Attack CRIT Rate is increased by 8%.",
+        "CHS": "角色处于护盾庇护下时，普通攻击和重击造成的伤害提升20%，普通攻击和重击的暴击率提升8%。",
+        "CHT": "角色處於護盾庇護下時，普通攻擊和重擊造成的傷害提升20%，普通攻擊和重擊的暴擊率提升8%。",
+        "DE": "#Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden des Trägers im Schutz von Schilden um 20 % sowie deren KT um 8 %.",
+        "ES": "Cuando el personaje está protegido por un escudo, el daño de su Ataque Normal y Cargado aumenta en un 20%, y la Prob. CRIT de ambos ataques aumenta en un 8%.",
+        "FR": "Lorsque le personnage est sous la protection d'un bouclier, les DGT infligés par les attaques normales et chargées augmentent de 20 % et leur taux CRIT de 8 %.",
+        "ID": "Saat Karakter dilindungi perisai, DMG Normal Attack dan Charged Attack meningkat 20%, CRIT Rate Normal Attack dan Charged Attack meningkat 8%.",
+        "IT": "Quando i personaggi sono protetti da uno scudo, i DAN inflitti dagli attacchi normali e caricati aumentano di un 20%, e il relativo tasso di CRIT aumenta di un 8%.",
+        "JP": "キャラクターがシールド状態の時、通常攻撃と重撃ダメージ+20%、通常攻撃と重撃の会心率+8%。",
+        "KR": "캐릭터가 보호막의 보호를 받고 있을 시, 일반 공격과 강공격의 피해가 20% 증가하고 일반 공격과 강공격의 치명타 확률이 8% 증가한다",
+        "PT": "Enquanto os personagens estiverem protegidos por um Escudo, o Dano causado por Ataques Normais e Carregados é aumentado em 20%, e a Taxa CRIT de Ataques Normais e Carregados é aumentada em 8%.",
+        "RU": "Повышает урон обычной и заряженной атаки на 20%, а также шанс крит. попадания обычной и заряженной атаки на 8%, если персонаж защищён щитом.",
+        "TH": "เมื่อตัวละครอยู่ภายใต้การปกป้องของโล่ ความเสียหายการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 20%, อัตราคริการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 8%",
+        "TR": "Karakterler bir Kalkan tarafından korunurken Normal ve Yüklü Saldırı Hasarı %20, Normal ve Yüklü Saldırı Kritik Oranı ise %8 artar.",
+        "VI": "Khi nhân vật được khiên bảo vệ, sát thương gây ra từ Tấn Công Thường và Trọng Kích tăng 20%, Tỷ Lệ Bạo Kích của Tấn Công Thường và Trọng Kích tăng 8%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by 25%, and Normal and Charged Attack CRIT Rate is increased by 10%.",
+        "CHS": "角色处于护盾庇护下时，普通攻击和重击造成的伤害提升25%，普通攻击和重击的暴击率提升10%。",
+        "CHT": "角色處於護盾庇護下時，普通攻擊和重擊造成的傷害提升25%，普通攻擊和重擊的暴擊率提升10%。",
+        "DE": "#Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden des Trägers im Schutz von Schilden um 25 % sowie deren KT um 10 %.",
+        "ES": "Cuando el personaje está protegido por un escudo, el daño de su Ataque Normal y Cargado aumenta en un 25%, y la Prob. CRIT de ambos ataques aumenta en un 10%.",
+        "FR": "Lorsque le personnage est sous la protection d'un bouclier, les DGT infligés par les attaques normales et chargées augmentent de 25 % et leur taux CRIT de 10 %.",
+        "ID": "Saat Karakter dilindungi perisai, DMG Normal Attack dan Charged Attack meningkat 25%, CRIT Rate Normal Attack dan Charged Attack meningkat 10%.",
+        "IT": "Quando i personaggi sono protetti da uno scudo, i DAN inflitti dagli attacchi normali e caricati aumentano di un 25%, e il relativo tasso di CRIT aumenta di un 10%.",
+        "JP": "キャラクターがシールド状態の時、通常攻撃と重撃ダメージ+25%、通常攻撃と重撃の会心率+10%。",
+        "KR": "캐릭터가 보호막의 보호를 받고 있을 시, 일반 공격과 강공격의 피해가 25% 증가하고 일반 공격과 강공격의 치명타 확률이 10% 증가한다",
+        "PT": "Enquanto os personagens estiverem protegidos por um Escudo, o Dano causado por Ataques Normais e Carregados é aumentado em 25%, e a Taxa CRIT de Ataques Normais e Carregados é aumentada em 10%.",
+        "RU": "Повышает урон обычной и заряженной атаки на 25%, а также шанс крит. попадания обычной и заряженной атаки на 10%, если персонаж защищён щитом.",
+        "TH": "เมื่อตัวละครอยู่ภายใต้การปกป้องของโล่ ความเสียหายการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 25%, อัตราคริการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 10%",
+        "TR": "Karakterler bir Kalkan tarafından korunurken Normal ve Yüklü Saldırı Hasarı %25, Normal ve Yüklü Saldırı Kritik Oranı ise %10 artar.",
+        "VI": "Khi nhân vật được khiên bảo vệ, sát thương gây ra từ Tấn Công Thường và Trọng Kích tăng 25%, Tỷ Lệ Bạo Kích của Tấn Công Thường và Trọng Kích tăng 10%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by 30%, and Normal and Charged Attack CRIT Rate is increased by 12%.",
+        "CHS": "角色处于护盾庇护下时，普通攻击和重击造成的伤害提升30%，普通攻击和重击的暴击率提升12%。",
+        "CHT": "角色處於護盾庇護下時，普通攻擊和重擊造成的傷害提升30%，普通攻擊和重擊的暴擊率提升12%。",
+        "DE": "#Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden des Trägers im Schutz von Schilden um 30 % sowie deren KT um 12 %.",
+        "ES": "Cuando el personaje está protegido por un escudo, el daño de su Ataque Normal y Cargado aumenta en un 30%, y la Prob. CRIT de ambos ataques aumenta en un 12%.",
+        "FR": "Lorsque le personnage est sous la protection d'un bouclier, les DGT infligés par les attaques normales et chargées augmentent de 30 % et leur taux CRIT de 12 %.",
+        "ID": "Saat Karakter dilindungi perisai, DMG Normal Attack dan Charged Attack meningkat 30%, CRIT Rate Normal Attack dan Charged Attack meningkat 12%.",
+        "IT": "Quando i personaggi sono protetti da uno scudo, i DAN inflitti dagli attacchi normali e caricati aumentano di un 30%, e il relativo tasso di CRIT aumenta di un 12%.",
+        "JP": "キャラクターがシールド状態の時、通常攻撃と重撃ダメージ+30%、通常攻撃と重撃の会心率+12%。",
+        "KR": "캐릭터가 보호막의 보호를 받고 있을 시, 일반 공격과 강공격의 피해가 30% 증가하고 일반 공격과 강공격의 치명타 확률이 12% 증가한다",
+        "PT": "Enquanto os personagens estiverem protegidos por um Escudo, o Dano causado por Ataques Normais e Carregados é aumentado em 30%, e a Taxa CRIT de Ataques Normais e Carregados é aumentada em 12%.",
+        "RU": "Повышает урон обычной и заряженной атаки на 30%, а также шанс крит. попадания обычной и заряженной атаки на 12%, если персонаж защищён щитом.",
+        "TH": "เมื่อตัวละครอยู่ภายใต้การปกป้องของโล่ ความเสียหายการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 30%, อัตราคริการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 12%",
+        "TR": "Karakterler bir Kalkan tarafından korunurken Normal ve Yüklü Saldırı Hasarı %30, Normal ve Yüklü Saldırı Kritik Oranı ise %12 artar.",
+        "VI": "Khi nhân vật được khiên bảo vệ, sát thương gây ra từ Tấn Công Thường và Trọng Kích tăng 30%, Tỷ Lệ Bạo Kích của Tấn Công Thường và Trọng Kích tăng 12%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by 35%, and Normal and Charged Attack CRIT Rate is increased by 14%.",
+        "CHS": "角色处于护盾庇护下时，普通攻击和重击造成的伤害提升35%，普通攻击和重击的暴击率提升14%。",
+        "CHT": "角色處於護盾庇護下時，普通攻擊和重擊造成的傷害提升35%，普通攻擊和重擊的暴擊率提升14%。",
+        "DE": "#Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden des Trägers im Schutz von Schilden um 35 % sowie deren KT um 14 %.",
+        "ES": "Cuando el personaje está protegido por un escudo, el daño de su Ataque Normal y Cargado aumenta en un 35%, y la Prob. CRIT de ambos ataques aumenta en un 14%.",
+        "FR": "Lorsque le personnage est sous la protection d'un bouclier, les DGT infligés par les attaques normales et chargées augmentent de 35 % et leur taux CRIT de 14 %.",
+        "ID": "Saat Karakter dilindungi perisai, DMG Normal Attack dan Charged Attack meningkat 35%, CRIT Rate Normal Attack dan Charged Attack meningkat 14%.",
+        "IT": "Quando i personaggi sono protetti da uno scudo, i DAN inflitti dagli attacchi normali e caricati aumentano di un 35%, e il relativo tasso di CRIT aumenta di un 14%.",
+        "JP": "キャラクターがシールド状態の時、通常攻撃と重撃ダメージ+35%、通常攻撃と重撃の会心率+14%。",
+        "KR": "캐릭터가 보호막의 보호를 받고 있을 시, 일반 공격과 강공격의 피해가 35% 증가하고 일반 공격과 강공격의 치명타 확률이 14% 증가한다",
+        "PT": "Enquanto os personagens estiverem protegidos por um Escudo, o Dano causado por Ataques Normais e Carregados é aumentado em 35%, e a Taxa CRIT de Ataques Normais e Carregados é aumentada em 14%.",
+        "RU": "Повышает урон обычной и заряженной атаки на 35%, а также шанс крит. попадания обычной и заряженной атаки на 14%, если персонаж защищён щитом.",
+        "TH": "เมื่อตัวละครอยู่ภายใต้การปกป้องของโล่ ความเสียหายการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 35%, อัตราคริการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 14%",
+        "TR": "Karakterler bir Kalkan tarafından korunurken Normal ve Yüklü Saldırı Hasarı %35, Normal ve Yüklü Saldırı Kritik Oranı ise %14 artar.",
+        "VI": "Khi nhân vật được khiên bảo vệ, sát thương gây ra từ Tấn Công Thường và Trọng Kích tăng 35%, Tỷ Lệ Bạo Kích của Tấn Công Thường và Trọng Kích tăng 14%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by 40%, and Normal and Charged Attack CRIT Rate is increased by 16%.",
+        "CHS": "角色处于护盾庇护下时，普通攻击和重击造成的伤害提升40%，普通攻击和重击的暴击率提升16%。",
+        "CHT": "角色處於護盾庇護下時，普通攻擊和重擊造成的傷害提升40%，普通攻擊和重擊的暴擊率提升16%。",
+        "DE": "#Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden des Trägers im Schutz von Schilden um 40 % sowie deren KT um 16 %.",
+        "ES": "Cuando el personaje está protegido por un escudo, el daño de su Ataque Normal y Cargado aumenta en un 40%, y la Prob. CRIT de ambos ataques aumenta en un 16%.",
+        "FR": "Lorsque le personnage est sous la protection d'un bouclier, les DGT infligés par les attaques normales et chargées augmentent de 40 % et leur taux CRIT de 16 %.",
+        "ID": "Saat Karakter dilindungi perisai, DMG Normal Attack dan Charged Attack meningkat 40%, CRIT Rate Normal Attack dan Charged Attack meningkat 16%.",
+        "IT": "Quando i personaggi sono protetti da uno scudo, i DAN inflitti dagli attacchi normali e caricati aumentano di un 40%, e il relativo tasso di CRIT aumenta di un 16%.",
+        "JP": "キャラクターがシールド状態の時、通常攻撃と重撃ダメージ+40%、通常攻撃と重撃の会心率+16%。",
+        "KR": "캐릭터가 보호막의 보호를 받고 있을 시, 일반 공격과 강공격의 피해가 40% 증가하고 일반 공격과 강공격의 치명타 확률이 16% 증가한다",
+        "PT": "Enquanto os personagens estiverem protegidos por um Escudo, o Dano causado por Ataques Normais e Carregados é aumentado em 40%, e a Taxa CRIT de Ataques Normais e Carregados é aumentada em 16%.",
+        "RU": "Повышает урон обычной и заряженной атаки на 40%, а также шанс крит. попадания обычной и заряженной атаки на 16%, если персонаж защищён щитом.",
+        "TH": "เมื่อตัวละครอยู่ภายใต้การปกป้องของโล่ ความเสียหายการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 40%, อัตราคริการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 16%",
+        "TR": "Karakterler bir Kalkan tarafından korunurken Normal ve Yüklü Saldırı Hasarı %40, Normal ve Yüklü Saldırı Kritik Oranı ise %16 artar.",
+        "VI": "Khi nhân vật được khiên bảo vệ, sát thương gây ra từ Tấn Công Thường và Trọng Kích tăng 40%, Tỷ Lệ Bạo Kích của Tấn Công Thường và Trọng Kích tăng 16%."
+      }
+    }
+  ]
+}

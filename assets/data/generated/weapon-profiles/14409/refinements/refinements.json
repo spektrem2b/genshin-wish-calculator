@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Echo",
+    "CHS": "回响",
+    "CHT": "迴響",
+    "DE": "Widerhall",
+    "ES": "Eco",
+    "FR": "Écho",
+    "ID": "Echo",
+    "IT": "Eco",
+    "JP": "響き",
+    "KR": "메아리",
+    "PT": "Echo",
+    "RU": "Эхо",
+    "TH": "Echo",
+    "TR": "Yankı",
+    "VI": "Vang Vọng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 240% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 12s.",
+        "CHS": "普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成240%攻击力伤害，至多在敌人之间弹射4次。该效果每12秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中時，有50%機率發射一枚昭心法球，造成240%攻擊力傷害，至多在敵人之間彈射四次。該效果每12秒至多觸發一次。",
+        "DE": "Schießt bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Kugel des Herzensblicks ab und verursacht Schaden in Höhe von 240 % ANG. Geht bis zu 4-mal auf Gegner in der Nähe über. 12 s Abklingzeit.",
+        "ES": "Los Ataques Normales y Ataques Cargados tienen un 50% de probabilidad de lanzar un Ojo de la Perspicacia que inflige un 240% de ATQ como daño. El Ojo de la Perspicacia puede rebotar entre enemigos un máximo de 4 veces. Este efecto puede ocurrir una vez cada 12 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de tirer une balle illuminatrice d'esprit qui inflige des DGT équivalant à 240 % de l'ATQ. La balle peut rebondir jusqu'à 4 fois maximum. Cet effet peut être déclenché une fois toutes les 12 s.",
+        "ID": "Saat melancarkan Normal atau Charged Attack, memiliki 50% persentase untuk melancarkan Bolt of Perception, mengakibatkan 240% DMG. Bolt ini dapat terpantulkan 4 kali di antara musuh. Dapat terpicu setiap 12 detik.",
+        "IT": "#Gli attacchi normali e caricati hanno un 50% di probabilità di scagliare un Dardo della percezione, infliggendo DAN pari a un 240% dell'ATT. Questo dardo può rimbalzare da un avversario all'altro fino a 4 volte. Si può verificare una volta ogni 12 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で昭心法珠を一つ発射し、敵に攻撃力の240%のダメージを与える。敵同士に最大4回跳ね返る。この効果は12秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 50%의 확률로 마음을 비추는 법구를 발사해 공격력 240%의 피해를 주고 적 사이에서 4번 튕긴다. 해당 효과는 12초마다 1번 발동한다",
+        "PT": "Ataques Normais e Ataques Carregados possuem 50% de chance de disparar uma Bola da Percepção, causando 240% de Dano de ATQ. Esta bola pode rebater entre os inimigos por até 4x. Este efeito pode ser ativado uma vez a cada 12s.",
+        "RU": "При попадании обычной или заряженной атакой появляется 50% шанс запустить Око сознания, которое наносит 240% урона силы атаки. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в 12 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย จะมีโอกาส 50% ที่จะปล่อย Bolt of Perception ออกมาสร้างความเสียหาย 240% ของพลังโจมตี โดยจะปล่อยออกมาใส่กลุ่มของศัตรูสูงสุด 4 ครั้ง ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 12 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar %50 ihtimalle bir Algı Yıldırımı ateşleyerek %240 Saldırı kadar Hasar verir. Bu yıldırım 4 defaya kadar düşmanlar arasında sekebilir. 12 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng, có 50% tỷ lệ thi triển 1 cầu phép Chiêu Tâm, gây sát thương bằng 240% lực tấn công, tối đa bắn 4 lần vào địch. Mỗi 12s thi triển nhiều nhất 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 270% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 11s.",
+        "CHS": "普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成270%攻击力伤害，至多在敌人之间弹射4次。该效果每11秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中時，有50%機率發射一枚昭心法球，造成270%攻擊力傷害，至多在敵人之間彈射四次。該效果每11秒至多觸發一次。",
+        "DE": "Schießt bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Kugel des Herzensblicks ab und verursacht Schaden in Höhe von 270 % ANG. Geht bis zu 4-mal auf Gegner in der Nähe über. 11 s Abklingzeit.",
+        "ES": "Los Ataques Normales y Ataques Cargados tienen un 50% de probabilidad de lanzar un Ojo de la Perspicacia que inflige un 270% de ATQ como daño. El Ojo de la Perspicacia puede rebotar entre enemigos un máximo de 4 veces. Este efecto puede ocurrir una vez cada 11 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de tirer une balle illuminatrice d'esprit qui inflige des DGT équivalant à 270 % de l'ATQ. La balle peut rebondir jusqu'à 4 fois maximum. Cet effet peut être déclenché une fois toutes les 11 s.",
+        "ID": "Saat melancarkan Normal atau Charged Attack, memiliki 50% persentase untuk melancarkan Bolt of Perception, mengakibatkan 270% DMG. Bolt ini dapat terpantulkan 4 kali di antara musuh. Dapat terpicu setiap 11 detik.",
+        "IT": "#Gli attacchi normali e caricati hanno il 50% di probabilità di scagliare un Dardo della percezione, infliggendo DAN pari a un 270% dell'ATT. Questo dardo può rimbalzare da un avversario all'altro fino a 4 volte. Si può verificare una volta ogni 11 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で昭心法珠を一つ発射し、敵に攻撃力の270%のダメージを与える。敵同士に最大4回跳ね返る。この効果は11秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 50%의 확률로 마음을 비추는 법구를 발사해 공격력 270%의 피해를 주고 적 사이에서 4번 튕긴다. 해당 효과는 11초마다 1번 발동한다",
+        "PT": "Ataques Normais e Ataques Carregados possuem 50% de chance de disparar uma Bola da Percepção, causando 270% de Dano de ATQ. Esta bola pode rebater entre os inimigos por até 4x. Este efeito pode ser ativado uma vez a cada 11s.",
+        "RU": "При попадании обычной или заряженной атакой появляется 50% шанс запустить Око сознания, которое наносит 270% урона силы атаки. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в 11 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย จะมีโอกาส 50% ที่จะปล่อย Bolt of Perception ออกมาสร้างความเสียหาย 270% ของพลังโจมตี โดยจะปล่อยออกมาใส่กลุ่มของศัตรูสูงสุด 4 ครั้ง ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 11 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar %50 ihtimalle bir Algı Yıldırımı ateşleyerek %270 Saldırı kadar Hasar verir. Bu yıldırım 4 defaya kadar düşmanlar arasında sekebilir. 11 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng, có 50% tỷ lệ thi triển 1 cầu phép Chiêu Tâm, gây sát thương bằng 270% lực tấn công, tối đa bắn 4 lần vào địch. Mỗi 11s thi triển nhiều nhất 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 300% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 10s.",
+        "CHS": "普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成300%攻击力伤害，至多在敌人之间弹射4次。该效果每10秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中時，有50%機率發射一枚昭心法球，造成300%攻擊力傷害，至多在敵人之間彈射四次。該效果每10秒至多觸發一次。",
+        "DE": "Schießt bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Kugel des Herzensblicks ab und verursacht Schaden in Höhe von 300 % ANG. Geht bis zu 4-mal auf Gegner in der Nähe über. 10 s Abklingzeit.",
+        "ES": "Los Ataques Normales y Ataques Cargados tienen un 50% de probabilidad de lanzar un Ojo de la Perspicacia que inflige un 300% de ATQ como daño. El Ojo de la Perspicacia puede rebotar entre enemigos un máximo de 4 veces. Este efecto puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de tirer une balle illuminatrice d'esprit qui inflige des DGT équivalant à 300 % de l'ATQ. La balle peut rebondir jusqu'à 4 fois maximum. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat melancarkan Normal atau Charged Attack, memiliki 50% persentase untuk melancarkan Bolt of Perception, mengakibatkan 300% DMG. Bolt ini dapat terpantulkan 4 kali di antara musuh. Dapat terpicu setiap 10 detik.",
+        "IT": "#Gli attacchi normali e caricati hanno un 50% di probabilità di scagliare un Dardo della percezione, infliggendo DAN pari a un 300% dell'ATT. Questo dardo può rimbalzare da un avversario all'altro fino a 4 volte. Si può verificare una volta ogni 10 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で昭心法珠を一つ発射し、敵に攻撃力の300%のダメージを与える。敵同士に最大4回跳ね返る。この効果は10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 50%의 확률로 마음을 비추는 법구를 발사해 공격력 300%의 피해를 주고 적 사이에서 4번 튕긴다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ataques Normais e Ataques Carregados possuem 50% de chance de disparar uma Bola da Percepção, causando 300% de Dano de ATQ. Esta bola pode rebater entre os inimigos por até 4x. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "При попадании обычной или заряженной атакой появляется 50% шанс запустить Око сознания, которое наносит 300% урона силы атаки. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย จะมีโอกาส 50% ที่จะปล่อย Bolt of Perception ออกมาสร้างความเสียหาย 300% ของพลังโจมตี โดยจะปล่อยออกมาใส่กลุ่มของศัตรูสูงสุด 4 ครั้ง ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar %50 ihtimalle bir Algı Yıldırımı ateşleyerek %300 Saldırı kadar Hasar verir. Bu yıldırım 4 defaya kadar düşmanlar arasında sekebilir. 10 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng, có 50% tỷ lệ thi triển 1 cầu phép Chiêu Tâm, gây sát thương bằng 300% lực tấn công, tối đa bắn 4 lần vào địch. Mỗi 10s thi triển nhiều nhất 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 330% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 9s.",
+        "CHS": "普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成330%攻击力伤害，至多在敌人之间弹射4次。该效果每9秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中時，有50%機率發射一枚昭心法球，造成330%攻擊力傷害，至多在敵人之間彈射四次。該效果每9秒至多觸發一次。",
+        "DE": "Schießt bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Kugel des Herzensblicks ab und verursacht Schaden in Höhe von 330 % ANG. Geht bis zu 4-mal auf Gegner in der Nähe über. 9 s Abklingzeit.",
+        "ES": "Los Ataques Normales y Ataques Cargados tienen un 50% de probabilidad de lanzar un Ojo de la Perspicacia que inflige un 330% de ATQ como daño. El Ojo de la Perspicacia puede rebotar entre enemigos un máximo de 4 veces. Este efecto puede ocurrir una vez cada 9 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de tirer une balle illuminatrice d'esprit qui inflige des DGT équivalant à 330 % de l'ATQ. La balle peut rebondir jusqu'à 4 fois maximum. Cet effet peut être déclenché une fois toutes les 9 s.",
+        "ID": "Saat melancarkan Normal atau Charged Attack, memiliki 50% persentase untuk melancarkan Bolt of Perception, mengakibatkan 330% DMG. Bolt ini dapat terpantulkan 4 kali di antara musuh. Dapat terpicu setiap 9 detik.",
+        "IT": "#Gli attacchi normali e caricati hanno un 50% di probabilità di scagliare un Dardo della percezione, infliggendo DAN pari a un 330% dell'ATT. Questo dardo può rimbalzare da un avversario all'altro fino a 4 volte. Si può verificare una volta ogni 9 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で昭心法珠を一つ発射し、敵に攻撃力の330%のダメージを与える。敵同士に最大4回跳ね返る。この効果は9秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 50%의 확률로 마음을 비추는 법구를 발사해 공격력 330%의 피해를 주고 적 사이에서 4번 튕긴다. 해당 효과는 9초마다 1번 발동한다",
+        "PT": "Ataques Normais e Ataques Carregados possuem 50% de chance de disparar uma Bola da Percepção, causando 330% de Dano de ATQ. Esta bola pode rebater entre os inimigos por até 4x. Este efeito pode ser ativado uma vez a cada 9s.",
+        "RU": "При попадании обычной или заряженной атакой появляется 50% шанс запустить Око сознания, которое наносит 330% урона силы атаки. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в 9 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย จะมีโอกาส 50% ที่จะปล่อย Bolt of Perception ออกมาสร้างความเสียหาย 330% ของพลังโจมตี โดยจะปล่อยออกมาใส่กลุ่มของศัตรูสูงสุด 4 ครั้ง ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 9 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar %50 ihtimalle bir Algı Yıldırımı ateşleyerek %330 Saldırı kadar Hasar verir. Bu yıldırım 4 defaya kadar düşmanlar arasında sekebilir. 9 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng, có 50% tỷ lệ thi triển 1 cầu phép Chiêu Tâm, gây sát thương bằng 330% lực tấn công, tối đa bắn 4 lần vào địch. Mỗi 9s thi triển nhiều nhất 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 360% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 8s.",
+        "CHS": "普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成360%攻击力伤害，至多在敌人之间弹射4次。该效果每8秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中時，有50%機率發射一枚昭心法球，造成360%攻擊力傷害，至多在敵人之間彈射四次。該效果每8秒至多觸發一次。",
+        "DE": "Schießt bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Kugel des Herzensblicks ab und verursacht Schaden in Höhe von 360 % ANG. Geht bis zu 4-mal auf Gegner in der Nähe über. 8 s Abklingzeit.",
+        "ES": "Los Ataques Normales y Ataques Cargados tienen un 50% de probabilidad de lanzar un Ojo de la Perspicacia que inflige un 360% de ATQ como daño. El Ojo de la Perspicacia puede rebotar entre enemigos un máximo de 4 veces. Este efecto puede ocurrir una vez cada 8 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de tirer une balle illuminatrice d'esprit qui inflige des DGT équivalant à 360 % de l'ATQ. La balle peut rebondir jusqu'à 4 fois maximum. Cet effet peut être déclenché une fois toutes les 8 s.",
+        "ID": "Saat melancarkan Normal atau Charged Attack, memiliki 50% persentase untuk melancarkan Bolt of Perception, mengakibatkan 360% DMG. Bolt ini dapat terpantulkan 4 kali di antara musuh. Dapat terpicu setiap 8 detik.",
+        "IT": "#Gli attacchi normali e caricati hanno un 50% di probabilità di scagliare un Dardo della percezione, infliggendo DAN pari a un 360% dell'ATT. Questo dardo può rimbalzare da un avversario all'altro fino a 4 volte. Si può verificare una volta ogni 8 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で昭心法珠を一つ発射し、敵に攻撃力の360%のダメージを与える。敵同士に最大4回跳ね返る。この効果は8秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 50%의 확률로 마음을 비추는 법구를 발사해 공격력 360%의 피해를 주고 적 사이에서 4번 튕긴다. 해당 효과는 8초마다 1번 발동한다",
+        "PT": "Ataques Normais e Ataques Carregados possuem 50% de chance de disparar uma Bola da Percepção, causando 360% de Dano de ATQ. Esta bola pode rebater entre os inimigos por até 4x. Este efeito pode ser ativado uma vez a cada 8s.",
+        "RU": "При попадании обычной или заряженной атакой появляется 50% шанс запустить Око сознания, которое наносит 360% урона силы атаки. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в 8 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย จะมีโอกาส 50% ที่จะปล่อย Bolt of Perception ออกมาสร้างความเสียหาย 360% ของพลังโจมตี โดยจะปล่อยออกมาใส่กลุ่มของศัตรูสูงสุด 4 ครั้ง ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 8 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar %50 ihtimalle bir Algı Yıldırımı ateşleyerek %360 Saldırı kadar Hasar verir. Bu yıldırım 4 defaya kadar düşmanlar arasında sekebilir. 8 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng, có 50% tỷ lệ thi triển 1 cầu phép Chiêu Tâm, gây sát thương bằng 360% lực tấn công, tối đa bắn 4 lần vào địch. Mỗi 8s thi triển nhiều nhất 1 lần."
+      }
+    }
+  ]
+}

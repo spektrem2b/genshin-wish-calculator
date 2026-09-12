@@ -1,0 +1,48 @@
+{
+  "id": 15011,
+  "name": {
+    "EN": "Prayers for Wisdom",
+    "CHS": "祭雷之人",
+    "CHT": "祭雷之人",
+    "DE": "Blitzopfer",
+    "ES": "Ritual de la Sabiduría",
+    "FR": "Sacrifieur Électro",
+    "ID": "Prayers for Wisdom",
+    "IT": "Sacrificio di Electro",
+    "JP": "雷祭りの人",
+    "KR": "뇌명을 모시는 자",
+    "PT": "Xamã do Ritual Electro",
+    "RU": "Шаман молнии",
+    "TH": "Prayers for Wisdom",
+    "TR": "Bilgelik Duası",
+    "VI": "Người Tế Lôi"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/15011/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Affected by Electro for 40% less time.",
+        "CHS": "受到的雷元素附着效果的持续时间减少40%。",
+        "CHT": "受到的雷元素附著效果的持續時間減少40%。",
+        "DE": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Elektro-Attribut um 40 %.",
+        "ES": "Los efectos de Electro causados sobre ti duran un 40% menos.",
+        "FR": "Diminue la durée des effets Électro subis de 40 %.",
+        "ID": "Mengurangi 40% durasi efek Electro yang diterima.",
+        "IT": "Riduce la durata dell'effetto di Electro di un 40%.",
+        "JP": "受けた雷元素付着の効果継続時間-40%。",
+        "KR": "받는 번개 원소 부착 효과 지속 시간이 40% 감소한다",
+        "PT": "Reduz a duração dos efeitos causados por Electro em 40%.",
+        "RU": "Уменьшает длительность полученного Электро эффекта на 40%.",
+        "TH": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุไฟฟ้าลง 40%",
+        "TR": "Elektrik etkisinde kalma süresini %40 kısaltır.",
+        "VI": "Thời gian duy trì hiệu quả ấn nguyên tố Lôi giảm 40%."
+      },
+      "affixId": "2150110"
+    }
+  ]
+}

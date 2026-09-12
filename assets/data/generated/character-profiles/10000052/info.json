@@ -1,0 +1,137 @@
+{
+  "id": "10000052",
+  "name": {
+    "EN": "Raiden Shogun",
+    "CHS": "雷电将军",
+    "CHT": "雷電將軍",
+    "DE": "Shougun Raiden",
+    "ES": "Shogun Raiden",
+    "FR": "Shogun Raiden",
+    "ID": "Raiden Shogun",
+    "IT": "Shogun Raiden",
+    "JP": "雷電将軍",
+    "KR": "라이덴 쇼군",
+    "PT": "Shogun Raiden",
+    "RU": "Райдэн",
+    "TH": "Raiden Shogun",
+    "TR": "Şogun Raiden",
+    "VI": "Raiden Shogun"
+  },
+  "nameEn": "Raiden Shogun",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 6,
+    "day": 26
+  },
+  "release": "2021-08-31T21:00:00",
+  "icon": "generated/character-profiles/10000052/avatar.webp",
+  "fullWish": "generated/character-profiles/10000052/full_wish.webp",
+  "fullWishObjectPosition": "50.5% 42.6%",
+  "title": {
+    "EN": "Plane of Euthymia",
+    "CHS": "一心净土",
+    "CHT": "一心淨土",
+    "DE": "Utopische Gefilde",
+    "ES": "La Entidad de la Eutimia",
+    "FR": "Plan euthymique",
+    "ID": "Plane of Euthymia",
+    "IT": "Piano dell'eutimia",
+    "JP": "一心浄土",
+    "KR": "일심정토",
+    "PT": "Plano da Eutimia",
+    "RU": "Царство эвтюмии",
+    "TH": "ดินแดนแห่งใจที่บริสุทธิ์",
+    "TR": "Zihnin Dinlenme Yeri",
+    "VI": "Nhất Tâm Tịnh Thổ"
+  },
+  "description": {
+    "EN": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+    "CHS": "其身为御建鸣神主尊大御所大人，许稻妻人民以亘古不变之「永恒」。",
+    "CHT": "其身為御建鳴神主尊大御所大人，許稻妻人民以亙古不變之「永恆」。",
+    "DE": "Ihre Exzellenz, die Allmächtige Narukami Ogosho. Sie hat dem Volk von Inazuma eine unvergängliche Ewigkeit versprochen.",
+    "ES": "Su Excelencia, la todopoderosa Narukami, quien le prometió al pueblo de Inazuma la inmutable eternidad.",
+    "FR": "Son Excellence, la toute-puissante Narukami Ogosho, qui a promis au peuple d'Inazuma une éternité immuable.",
+    "ID": "Yang Mulia, Sang Narukami Ogosho Yang Mahakuasa. Dia menjanjikan para penduduk Inazuma keabadian yang tidak akan pernah berubah.",
+    "IT": "Sua Eccellenza, la potente Narukami Ogosho, che ha promesso al popolo di Inazuma un'Eternità immutevole.",
+    "JP": "御建鳴神主尊大御所様。永劫不変の「永遠」を稲妻の民に約束する。",
+    "KR": "위대하신 나루카미 쇼군. 이나즈마 백성들에게 변치 않는 「영원」을 약속했다",
+    "PT": "Sua Excelência, a Toda-Poderosa Narukami Ogosho, que prometeu ao povo de Inazuma uma Eternidade imutável.",
+    "RU": "Её превосходительство Наруками Огосё, пообещавшая неизменную вечность для жителей Инадзумы.",
+    "TH": "ท่าน Narukami Ogosho ผู้ยิ่งใหญ่ ผู้ซึ่งสัญญาว่าจะมอบ \"ความเป็นนิรันดร์\" ที่ไม่มีวันเปลี่ยนแปลงให้กับชาว Inazuma",
+    "TR": "Ekselansları Yüce Narukami Ogosho, Inazuma halkına Sonsuzluğu vadetti.",
+    "VI": "Là Tôn Chủ Narukami Ogosho đại nhân, đưa người dân Inazuma hướng đến sự \"vĩnh hằng\" ngàn năm không đổi."
+  },
+  "constellationName": {
+    "EN": "Imperatrix Umbrosa",
+    "CHS": "天下人座",
+    "CHT": "天下人座",
+    "DE": "Imperatrix Umbrosa",
+    "ES": "Imperatrix Umbrosa",
+    "FR": "Imperatrix Umbrosa",
+    "ID": "Imperatrix Umbrosa",
+    "IT": "Imperatrix Umbrosa",
+    "JP": "天下人座",
+    "KR": "천하인자리",
+    "PT": "Imperatrix Umbrosa",
+    "RU": "Бренный Мир",
+    "TH": "Imperatrix Umbrosa",
+    "TR": "Gölgelerin İmparatoriçesi",
+    "VI": "Cung Thiên Hạ Nhân"
+  },
+  "native": {
+    "EN": "Inazuma City",
+    "CHS": "稻妻城",
+    "CHT": "稻妻城",
+    "DE": "Inazuma",
+    "ES": "Ciudad de Inazuma",
+    "FR": "Cité d'Inazuma",
+    "ID": "Inazuma City",
+    "IT": "Città d'Inazuma",
+    "JP": "稲妻城",
+    "KR": "이나즈마성",
+    "PT": "Cidade de Inazuma",
+    "RU": "Инадзума",
+    "TH": "เมือง Inazuma",
+    "TR": "Inazuma Şehri",
+    "VI": "Thành Inazuma"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Anne Yatco"
+    },
+    {
+      "lang": "CHS",
+      "va": "菊花花"
+    },
+    {
+      "lang": "JP",
+      "va": "沢城みゆき"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Ji-yoon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1004.79926,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.2542,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.44541,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

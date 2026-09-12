@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Solemn Silence",
+    "CHS": "沉声止语",
+    "CHT": "沉聲止語",
+    "DE": "Gedämpftes Schweigen",
+    "ES": "Silencio profundo",
+    "FR": "Silence solennel",
+    "ID": "Solemn Silence",
+    "IT": "Silenzio solenne",
+    "JP": "沈黙の声",
+    "KR": "침묵의 속삭임",
+    "PT": "Silêncio dos Murmúrios",
+    "RU": "Затихший шёпот",
+    "TH": "Solemn Silence",
+    "TR": "Vakur Sessizlik",
+    "VI": "Tĩnh Lặng Trang Nghiêm"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Max HP by 16% for 12s. Moonsign: Ascendant Gleam: Max HP from this effect is further increased by 16%. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，生命值上限提高16%。月兆·满辉：该效果中的生命值上限额外提高16%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，生命值上限提高16%。月兆·滿輝：該效果中的生命值上限額外提高16%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die max. LP um 16 %. Mondomen – Reifer Glanz: Erhöht die max. LP während des Effekts zusätzlich um 16 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Vida Máx. aumenta en un 16% durante 12 s. Con “presagio lunar: resplandor ascendente”, la Vida Máx. otorgada por este efecto aumenta en un 16% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente les PV max de 16 % pendant 12 s. Signelune « Lueur ascendante » : les PV max de cet effet augmentent de 16 % supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Max HP +16% selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Max HP dari efek ini bertambah 16% lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta i PS max di un 16% per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, i PS max di questo effetto aumentano di un ulteriore 16%. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、HP上限+16%。月兆・満照：上記のHP上限アップ効果がさらに+16%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 HP 최대치가 16% 증가한다. 달빛 징조·보름: 해당 효과 중 HP 최대치가 추가로 16% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de desencadear uma reação Elemental, aumenta a Vida Máxima em 16%. Presságio Lunar: Reluzir Cheio: aumenta a Vida Máxima nesse efeito em mais 16%. Esse efeito pode ser desencadeado mesmo quando o personagem que está com essa arma equipada não esteja ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции макс. HP экипированного персонажа повышается на 16%. Лунное знамение - Высшее сияние: макс. HP от данного эффекта дополнительно повышается на 16%. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 16% ลัคนาจันทร์ - จรัสแสง: พลังชีวิตสูงสุดจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 16% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Maks. Can %16 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Maks. Can artışı %16 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Giới Hạn HP tăng 16%. Nguyệt Triệu - Rực Sáng: Giới Hạn HP của hiệu quả này tăng thêm 16%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Max HP by 20% for 12s. Moonsign: Ascendant Gleam: Max HP from this effect is further increased by 20%. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，生命值上限提高20%。月兆·满辉：该效果中的生命值上限额外提高20%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，生命值上限提高20%。月兆·滿輝：該效果中的生命值上限額外提高20%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die max. LP um 20 %. Mondomen – Reifer Glanz: Erhöht die max. LP während des Effekts zusätzlich um 20 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Vida Máx. aumenta en un 20% durante 12 s. Con “presagio lunar: resplandor ascendente”, la Vida Máx. otorgada por este efecto aumenta en un 20% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente les PV max de 20 % pendant 12 s. Signelune « Lueur ascendante » : les PV max de cet effet augmentent de 20 % supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Max HP +20% selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Max HP dari efek ini bertambah 20% lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta i PS max di un 20% per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, i PS max di questo effetto aumentano di un ulteriore 20%. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、HP上限+20%。月兆・満照：上記のHP上限アップ効果がさらに+20%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 HP 최대치가 20% 증가한다. 달빛 징조·보름: 해당 효과 중 HP 최대치가 추가로 20% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de desencadear uma reação Elemental, aumenta a Vida Máxima em 20%. Presságio Lunar: Reluzir Cheio: aumenta a Vida Máxima nesse efeito em mais 20%. Esse efeito pode ser desencadeado mesmo quando o personagem que está com essa arma equipada não esteja ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции макс. HP экипированного персонажа повышается на 20%. Лунное знамение - Высшее сияние: макс. HP от данного эффекта дополнительно повышается на 20%. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 20% ลัคนาจันทร์ - จรัสแสง: พลังชีวิตสูงสุดจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 20% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Maks. Can %20 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Maks. Can artışı %20 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Giới Hạn HP tăng 20%. Nguyệt Triệu - Rực Sáng: Giới Hạn HP của hiệu quả này tăng thêm 20%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Max HP by 24% for 12s. Moonsign: Ascendant Gleam: Max HP from this effect is further increased by 24%. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，生命值上限提高24%。月兆·满辉：该效果中的生命值上限额外提高24%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，生命值上限提高24%。月兆·滿輝：該效果中的生命值上限額外提高24%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die max. LP um 24 %. Mondomen – Reifer Glanz: Erhöht die max. LP während des Effekts zusätzlich um 24 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Vida Máx. aumenta en un 24% durante 12 s. Con “presagio lunar: resplandor ascendente”, la Vida Máx. otorgada por este efecto aumenta en un 24% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente les PV max de 24 % pendant 12 s. Signelune « Lueur ascendante » : les PV max de cet effet augmentent de 24 % supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Max HP +24% selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Max HP dari efek ini bertambah 24% lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta i PS max di un 24% per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, i PS max di questo effetto aumentano di un ulteriore 24%. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、HP上限+24%。月兆・満照：上記のHP上限アップ効果がさらに+24%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 HP 최대치가 24% 증가한다. 달빛 징조·보름: 해당 효과 중 HP 최대치가 추가로 24% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de desencadear uma reação Elemental, aumenta a Vida Máxima em 24%. Presságio Lunar: Reluzir Cheio: aumenta a Vida Máxima nesse efeito em mais 24%. Esse efeito pode ser desencadeado mesmo quando o personagem que está com essa arma equipada não esteja ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции макс. HP экипированного персонажа повышается на 24%. Лунное знамение - Высшее сияние: макс. HP от данного эффекта дополнительно повышается на 24%. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 24% ลัคนาจันทร์ - จรัสแสง: พลังชีวิตสูงสุดจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 24% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Maks. Can %24 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Maks. Can artışı %24 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Giới Hạn HP tăng 24%. Nguyệt Triệu - Rực Sáng: Giới Hạn HP của hiệu quả này tăng thêm 24%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Max HP by 28% for 12s. Moonsign: Ascendant Gleam: Max HP from this effect is further increased by 28%. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，生命值上限提高28%。月兆·满辉：该效果中的生命值上限额外提高28%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，生命值上限提高28%。月兆·滿輝：該效果中的生命值上限額外提高28%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die max. LP um 28 %. Mondomen – Reifer Glanz: Erhöht die max. LP während des Effekts zusätzlich um 28 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Vida Máx. aumenta en un 28% durante 12 s. Con “presagio lunar: resplandor ascendente”, la Vida Máx. otorgada por este efecto aumenta en un 28% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente les PV max de 28 % pendant 12 s. Signelune « Lueur ascendante » : les PV max de cet effet augmentent de 28 % supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Max HP +28% selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Max HP dari efek ini bertambah 28% lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta i PS max di un 28% per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, i PS max di questo effetto aumentano di un ulteriore 28%. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、HP上限+28%。月兆・満照：上記のHP上限アップ効果がさらに+28%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 HP 최대치가 28% 증가한다. 달빛 징조·보름: 해당 효과 중 HP 최대치가 추가로 28% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de desencadear uma reação Elemental, aumenta a Vida Máxima em 28%. Presságio Lunar: Reluzir Cheio: aumenta a Vida Máxima nesse efeito em mais 28%. Esse efeito pode ser desencadeado mesmo quando o personagem que está com essa arma equipada não esteja ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции макс. HP экипированного персонажа повышается на 28%. Лунное знамение - Высшее сияние: макс. HP от данного эффекта дополнительно повышается на 28%. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 28% ลัคนาจันทร์ - จรัสแสง: พลังชีวิตสูงสุดจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 28% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Maks. Can %28 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Maks. Can artışı %28 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Giới Hạn HP tăng 28%. Nguyệt Triệu - Rực Sáng: Giới Hạn HP của hiệu quả này tăng thêm 28%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Max HP by 32% for 12s. Moonsign: Ascendant Gleam: Max HP from this effect is further increased by 32%. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，生命值上限提高32%。月兆·满辉：该效果中的生命值上限额外提高32%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，生命值上限提高32%。月兆·滿輝：該效果中的生命值上限額外提高32%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die max. LP um 32 %. Mondomen – Reifer Glanz: Erhöht die max. LP während des Effekts zusätzlich um 32 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Vida Máx. aumenta en un 32% durante 12 s. Con “presagio lunar: resplandor ascendente”, la Vida Máx. otorgada por este efecto aumenta en un 32% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente les PV max de 32 % pendant 12 s. Signelune « Lueur ascendante » : les PV max de cet effet augmentent de 32 % supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Max HP +32% selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Max HP dari efek ini bertambah 32% lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta i PS max di un 32% per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, i PS max di questo effetto aumentano di un ulteriore 32%. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、HP上限+32%。月兆・満照：上記のHP上限アップ効果がさらに+32%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 HP 최대치가 32% 증가한다. 달빛 징조·보름: 해당 효과 중 HP 최대치가 추가로 32% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de desencadear uma reação Elemental, aumenta a Vida Máxima em 32%. Presságio Lunar: Reluzir Cheio: aumenta a Vida Máxima nesse efeito em mais 32%. Esse efeito pode ser desencadeado mesmo quando o personagem que está com essa arma equipada não esteja ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции макс. HP экипированного персонажа повышается на 32%. Лунное знамение - Высшее сияние: макс. HP от данного эффекта дополнительно повышается на 32%. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 32% ลัคนาจันทร์ - จรัสแสง: พลังชีวิตสูงสุดจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 32% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Maks. Can %32 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Maks. Can artışı %32 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Giới Hạn HP tăng 32%. Nguyệt Triệu - Rực Sáng: Giới Hạn HP của hiệu quả này tăng thêm 32%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    }
+  ]
+}

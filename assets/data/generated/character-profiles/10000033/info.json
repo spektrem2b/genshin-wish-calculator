@@ -1,0 +1,137 @@
+{
+  "id": "10000033",
+  "name": {
+    "EN": "Tartaglia",
+    "CHS": "达达利亚",
+    "CHT": "達達利亞",
+    "DE": "Tartaglia",
+    "ES": "Tartaglia",
+    "FR": "Tartaglia",
+    "ID": "Tartaglia",
+    "IT": "Tartaglia",
+    "JP": "タルタリヤ",
+    "KR": "타르탈리아",
+    "PT": "Tartaglia",
+    "RU": "Тарталья",
+    "TH": "Tartaglia",
+    "TR": "Tartaglia",
+    "VI": "Tartaglia"
+  },
+  "nameEn": "Tartaglia",
+  "element": "Hydro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "FATUI",
+  "birthday": {
+    "month": 7,
+    "day": 20
+  },
+  "release": "2020-11-11T02:00:00",
+  "icon": "generated/character-profiles/10000033/avatar.webp",
+  "fullWish": "generated/character-profiles/10000033/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 34.5%",
+  "title": {
+    "EN": "Childe",
+    "CHS": "「公子」",
+    "CHT": "「公子」",
+    "DE": "„Der Graf“",
+    "ES": "Nobile",
+    "FR": "Jeune Sire",
+    "ID": "Childe",
+    "IT": "Principe",
+    "JP": "「公子」",
+    "KR": "「귀공자」",
+    "PT": "Childe",
+    "RU": "Чайльд",
+    "TH": "Childe",
+    "TR": "Asilzade",
+    "VI": "Childe"
+  },
+  "description": {
+    "EN": "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield.",
+    "CHS": "愚人众执行官第十一位，「公子」，其战绩威名远扬。",
+    "CHT": "愚人眾執行官第十一位，「公子」，其戰績威名遠揚。",
+    "DE": "Der Letzte unter den Elf der Fatui, „der Graf“ genannt, mit großen Erfolgen auf dem Schlachtfeld.",
+    "ES": "El undécimo de Los Once, también conocido como “Nobile”. Es temido por sus proezas en batalla.",
+    "FR": "Le 11e Exécuteur des Fatui, appelé « Tartaglia ». Il s'est fait connaître pour avoir gagné des milliers de combats.",
+    "ID": "Fatui Harbinger ke-11, juga dikenal dengan nama \"Childe\". Ketenaran namanya saja dapat menghantar ketakutan di medan perang.",
+    "IT": "L'undicesimo Messaggero dei Fatui, noto anche come il \"Principe\". Il suo nome è molto temuto sul campo di battaglia.",
+    "JP": "ファトゥス第十一位、「公子」。その戦績や名前は広く知られている。",
+    "KR": "우인단 집행관 서열 11위 「타르탈리아」. 화려한 전적으로 명성이 자자하다",
+    "PT": "O N.° 11 dos Mensageiros dos Fatui, também conhecido como \"Childe\". O seu nome é bastante temido nos campos de batalha.",
+    "RU": "Номер одиннадцать из Предвестников Фатуи, искусный воин, также известный под именем Чайльд.",
+    "TH": "\"Childe\" ผู้บริหารอันดับที่สิบเอ็ดของ Fatui ชื่อเสียงและความเก่งกาจของเขาเป็นที่เลื่องลือมาแต่ไกล",
+    "TR": "\"Asilzade\" olarak da bilinen 11 numaralı Haberci. Savaş alanındaki cesaretiyle nam salmıştır.",
+    "VI": "Childe đứng thứ 11 trong quan chấp hành Fatui, uy danh chiến tích luôn được ca ngợi."
+  },
+  "constellationName": {
+    "EN": "Monoceros Caeli",
+    "CHS": "鲸天座",
+    "CHT": "鯨天座",
+    "DE": "Monoceros Caeli",
+    "ES": "Monoceros Caeli",
+    "FR": "Monoceros Caeli",
+    "ID": "Monoceros Caeli",
+    "IT": "Monoceros Caeli",
+    "JP": "空鯨座",
+    "KR": "경천자리",
+    "PT": "Monoceros Caeli",
+    "RU": "Небесный Кит",
+    "TH": "Monoceros Caeli",
+    "TR": "Göklerdeki Tekboynuz",
+    "VI": "Cung Kình Thiên"
+  },
+  "native": {
+    "EN": "Fatui",
+    "CHS": "愚人众",
+    "CHT": "愚人眾",
+    "DE": "Fatui",
+    "ES": "Fatui",
+    "FR": "Fatui",
+    "ID": "Fatui",
+    "IT": "Fatui",
+    "JP": "ファデュイ",
+    "KR": "우인단",
+    "PT": "Fatui",
+    "RU": "Фатуи",
+    "TH": "Fatui",
+    "TR": "Fatui",
+    "VI": "Fatui"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Griffin Burns"
+    },
+    {
+      "lang": "CHS",
+      "va": "鱼冻"
+    },
+    {
+      "lang": "JP",
+      "va": "木村良平"
+    },
+    {
+      "lang": "KR",
+      "va": "Nam Do-hyeong"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_WATER_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1020.0524,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 23.4612,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 63.4198,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

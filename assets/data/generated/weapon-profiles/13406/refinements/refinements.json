@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Lithic Axiom: Unity",
+    "CHS": "千岩诀·同心",
+    "CHT": "千岩訣·同心",
+    "DE": "Axiom der Millelithen – Einigkeit",
+    "ES": "Axioma de la roca: Unidad",
+    "FR": "Axiome de la roche : Unité",
+    "ID": "Lithic Axiom: Unity",
+    "IT": "Assioma litico: Unità",
+    "JP": "千岩訣·同心",
+    "KR": "천암결·일심",
+    "PT": "Axioma de Millelith: Unidade",
+    "RU": "Наставления камня: Единство",
+    "TH": "Lithic Axiom: Unity",
+    "TR": "Taş Rehber: Birlik",
+    "VI": "Thiên Nham Quyết - Đồng Tâm"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 7% ATK increase and a 3% CRIT Rate increase. This effect stacks up to 4 times.",
+        "CHS": "队伍中每有一位璃月角色，装备此武器的角色便获得7%攻击力提升与3%暴击率提升。至多获得4层提升效果。",
+        "CHT": "隊伍中每有一位璃月角色，裝備此武器的角色便獲得7%攻擊力提升與3%暴擊率提升。至多獲得四層提升效果。",
+        "DE": "Erhöht den Angriff der mit dieser Waffe ausgerüsteten Figur für jede Figur aus Liyue in der Truppe um 7 % und die KT um je 3 %. 4-fach stapelbar.",
+        "ES": "Por cada personaje de Liyue que haya en el equipo, el ATQ del personaje que lleve esta arma equipada aumenta en un 7%, y su Prob. CRIT aumenta en un 3%. Este efecto solo puede acumularse un máximo de 4 veces.",
+        "FR": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de 7 % de bonus d'ATQ et de 3 % de bonus de taux CRIT. Ces bonus peuvent être cumulés 4 fois maximum.",
+        "ID": "Untuk setiap karakter dalam party yang berasal dari Liyue, karakter yang menggunakan senjata ini mendapatkan peningkatan 7% ATK dan 3% CRIT Rate. Efek ini dapat ditumpuk hingga 4 lapis.",
+        "IT": "Per ogni personaggio di Liyue presente nel gruppo, il personaggio che equipaggia quest'arma ottiene un incremento dell'ATT e del tasso di CRIT pari rispettivamente a un 7% e a un 3%. Cumulabile fino a 4 volte.",
+        "JP": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+7%、会心率+3%。最大4重まで。",
+        "KR": "파티 내에 리월 출신 캐릭터가 1명 존재할 때마다 해당 무기를 장착한 캐릭터의 공격력이 7% 증가하고 치명타 확률이 3% 증가한다. 최대 중첩수: 4회",
+        "PT": "Por cada personagem de Liyue que possua na Equipe, aumenta o ATQ do personagem que equipar essa arma em 7% e aumenta sua Taxa CRIT em 3%. Esse efeito pode ser acumulado no máximo 4 vezes.",
+        "RU": "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на 7%, а его шанс крит. попадания - на 3%. Эффект может складываться до 4 раз.",
+        "TH": "สำหรับทีมที่มีตัวละครที่มาจาก Liyue อยู่ในทีม ตัวละครที่ใช้อาวุธนี้จะได้รับพลังโจมตีเพิ่ม 7% และอัตราคริเพิ่ม 3% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 4 ชั้น",
+        "TR": "Bu silahı kuşanan karakter, grupta bulunan Liyueli her karakter için %7 Saldırı artışı ve %3 Kritik Oranı artışı kazanır. Bu etki 4 kademeye kadar birikir.",
+        "VI": "Mỗi khi trong đội có 1 nhân vật Liyue, nhân vật trang bị vũ khí này sẽ nhận 7% tăng tấn công và 3% tăng tỷ lệ bạo kích. Nhiều nhất có thể nhận 4 tầng hiệu quả tăng."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 8% ATK increase and a 4% CRIT Rate increase. This effect stacks up to 4 times.",
+        "CHS": "队伍中每有一位璃月角色，装备此武器的角色便获得8%攻击力提升与4%暴击率提升。至多获得4层提升效果。",
+        "CHT": "隊伍中每有一位璃月角色，裝備此武器的角色便獲得8%攻擊力提升與4%暴擊率提升。至多獲得四層提升效果。",
+        "DE": "Erhöht den Angriff der mit dieser Waffe ausgerüsteten Figur für jede Figur aus Liyue in der Truppe um 8 % und die KT um je 4 %. 4-fach stapelbar.",
+        "ES": "Por cada personaje de Liyue que haya en el equipo, el ATQ del personaje que lleve esta arma equipada aumenta en un 8%, y su Prob. CRIT aumenta en un 4%. Este efecto solo puede acumularse un máximo de 4 veces.",
+        "FR": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de 8 % de bonus d'ATQ et de 4 % de bonus de taux CRIT. Ces bonus peuvent être cumulés 4 fois maximum.",
+        "ID": "Untuk setiap karakter dalam party yang berasal dari Liyue, karakter yang menggunakan senjata ini mendapatkan peningkatan 8% ATK dan 4% CRIT Rate. Efek ini dapat ditumpuk hingga 4 lapis.",
+        "IT": "Per ogni personaggio di Liyue presente nel gruppo, il personaggio che equipaggia quest'arma ottiene un incremento dell'ATT e del tasso di CRIT pari rispettivamente a un 8% e a un 4%. Cumulabile fino a 4 volte.",
+        "JP": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+8%、会心率+4%。最大4重まで。",
+        "KR": "파티 내에 리월 출신 캐릭터가 1명 존재할 때마다 해당 무기를 장착한 캐릭터의 공격력이 8% 증가하고 치명타 확률이 4% 증가한다. 최대 중첩수: 4회",
+        "PT": "Por cada personagem de Liyue que possua na Equipe, aumenta o ATQ do personagem que equipar essa arma em 8% e aumenta sua Taxa CRIT em 4%. Esse efeito pode ser acumulado no máximo 4 vezes.",
+        "RU": "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на 8%, а его шанс крит. попадания - на 4%. Эффект может складываться до 4 раз.",
+        "TH": "สำหรับทีมที่มีตัวละครที่มาจาก Liyue อยู่ในทีม ตัวละครที่ใช้อาวุธนี้จะได้รับพลังโจมตีเพิ่ม 8% และอัตราคริเพิ่ม 4% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 4 ชั้น",
+        "TR": "Bu silahı kuşanan karakter, grupta bulunan Liyueli her karakter için %8 Saldırı artışı ve %4 Kritik Oranı artışı kazanır. Bu etki 4 kademeye kadar birikir.",
+        "VI": "Mỗi khi trong đội có 1 nhân vật Liyue, nhân vật trang bị vũ khí này sẽ nhận 8% tăng tấn công và 4% tăng tỷ lệ bạo kích. Nhiều nhất có thể nhận 4 tầng hiệu quả tăng."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 9% ATK increase and a 5% CRIT Rate increase. This effect stacks up to 4 times.",
+        "CHS": "队伍中每有一位璃月角色，装备此武器的角色便获得9%攻击力提升与5%暴击率提升。至多获得4层提升效果。",
+        "CHT": "隊伍中每有一位璃月角色，裝備此武器的角色便獲得9%攻擊力提升與5%暴擊率提升。至多獲得四層提升效果。",
+        "DE": "Erhöht den Angriff der mit dieser Waffe ausgerüsteten Figur für jede Figur aus Liyue in der Truppe um 9 % und die KT um je 5 %. 4-fach stapelbar.",
+        "ES": "Por cada personaje de Liyue que haya en el equipo, el ATQ del personaje que lleve esta arma equipada aumenta en un 9%, y su Prob. CRIT aumenta en un 5%. Este efecto solo puede acumularse un máximo de 4 veces.",
+        "FR": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de 9 % de bonus d'ATQ et de 5 % de bonus de taux CRIT. Ces bonus peuvent être cumulés 4 fois maximum.",
+        "ID": "Untuk setiap karakter dalam party yang berasal dari Liyue, karakter yang menggunakan senjata ini mendapatkan peningkatan 9% ATK dan 5% CRIT Rate. Efek ini dapat ditumpuk hingga 4 lapis.",
+        "IT": "Per ogni personaggio di Liyue presente nel gruppo, il personaggio che equipaggia quest'arma ottiene un incremento dell'ATT e del tasso di CRIT pari rispettivamente a un 9% e a un 5%. Cumulabile fino a 4 volte.",
+        "JP": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+9%、会心率+5%。最大4重まで。",
+        "KR": "파티 내에 리월 출신 캐릭터가 1명 존재할 때마다 해당 무기를 장착한 캐릭터의 공격력이 9% 증가하고 치명타 확률이 5% 증가한다. 최대 중첩수: 4회",
+        "PT": "Por cada personagem de Liyue que possua na Equipe, aumenta o ATQ do personagem que equipar essa arma em 9% e aumenta sua Taxa CRIT em 5%. Esse efeito pode ser acumulado no máximo 4 vezes.",
+        "RU": "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на 9%, а его шанс крит. попадания - на 5%. Эффект может складываться до 4 раз.",
+        "TH": "สำหรับทีมที่มีตัวละครที่มาจาก Liyue อยู่ในทีม ตัวละครที่ใช้อาวุธนี้จะได้รับพลังโจมตีเพิ่ม 9% และอัตราคริเพิ่ม 5% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 4 ชั้น",
+        "TR": "Bu silahı kuşanan karakter, grupta bulunan Liyueli her karakter için %9 Saldırı artışı ve %5 Kritik Oranı artışı kazanır. Bu etki 4 kademeye kadar birikir.",
+        "VI": "Mỗi khi trong đội có 1 nhân vật Liyue, nhân vật trang bị vũ khí này sẽ nhận 9% tăng tấn công và 5% tăng tỷ lệ bạo kích. Nhiều nhất có thể nhận 4 tầng hiệu quả tăng."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 10% ATK increase and a 6% CRIT Rate increase. This effect stacks up to 4 times.",
+        "CHS": "队伍中每有一位璃月角色，装备此武器的角色便获得10%攻击力提升与6%暴击率提升。至多获得4层提升效果。",
+        "CHT": "隊伍中每有一位璃月角色，裝備此武器的角色便獲得10%攻擊力提升與6%暴擊率提升。至多獲得四層提升效果。",
+        "DE": "Erhöht den Angriff der mit dieser Waffe ausgerüsteten Figur für jede Figur aus Liyue in der Truppe um 10 % und die KT um je 6 %. 4-fach stapelbar.",
+        "ES": "Por cada personaje de Liyue que haya en el equipo, el ATQ del personaje que lleve esta arma equipada aumenta en un 10%, y su Prob. CRIT aumenta en un 6%. Este efecto solo puede acumularse un máximo de 4 veces.",
+        "FR": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de 10 % de bonus d'ATQ et de 6 % de bonus de taux CRIT. Ces bonus peuvent être cumulés 4 fois maximum.",
+        "ID": "Untuk setiap karakter dalam party yang berasal dari Liyue, karakter yang menggunakan senjata ini mendapatkan peningkatan 10% ATK dan 6% CRIT Rate. Efek ini dapat ditumpuk hingga 4 lapis.",
+        "IT": "Per ogni personaggio di Liyue presente nel gruppo, il personaggio che equipaggia quest'arma ottiene un incremento dell'ATT e del tasso di CRIT pari rispettivamente a un 10% e a un 6%. Cumulabile fino a 4 volte.",
+        "JP": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+10%、会心率+6%。最大4重まで。",
+        "KR": "파티 내에 리월 출신 캐릭터가 1명 존재할 때마다 해당 무기를 장착한 캐릭터의 공격력이 10% 증가하고 치명타 확률이 6% 증가한다. 최대 중첩수: 4회",
+        "PT": "Por cada personagem de Liyue que possua na Equipe, aumenta o ATQ do personagem que equipar essa arma em 10% e aumenta sua Taxa CRIT em 6%. Esse efeito pode ser acumulado no máximo 4 vezes.",
+        "RU": "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на 10%, а его шанс крит. попадания - на 6%. Эффект может складываться до 4 раз.",
+        "TH": "สำหรับทีมที่มีตัวละครที่มาจาก Liyue อยู่ในทีม ตัวละครที่ใช้อาวุธนี้จะได้รับพลังโจมตีเพิ่ม 10% และอัตราคริเพิ่ม 6% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 4 ชั้น",
+        "TR": "Bu silahı kuşanan karakter, grupta bulunan Liyueli her karakter için %10 Saldırı artışı ve %6 Kritik Oranı artışı kazanır. Bu etki 4 kademeye kadar birikir.",
+        "VI": "Mỗi khi trong đội có 1 nhân vật Liyue, nhân vật trang bị vũ khí này sẽ nhận 10% tăng tấn công và 6% tăng tỷ lệ bạo kích. Nhiều nhất có thể nhận 4 tầng hiệu quả tăng."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 11% ATK increase and a 7% CRIT Rate increase. This effect stacks up to 4 times.",
+        "CHS": "队伍中每有一位璃月角色，装备此武器的角色便获得11%攻击力提升与7%暴击率提升。至多获得4层提升效果。",
+        "CHT": "隊伍中每有一位璃月角色，裝備此武器的角色便獲得11%攻擊力提升與7%暴擊率提升。至多獲得四層提升效果。",
+        "DE": "Erhöht den Angriff der mit dieser Waffe ausgerüsteten Figur für jede Figur aus Liyue in der Truppe um 11 % und die KT um je 7 %. 4-fach stapelbar.",
+        "ES": "Por cada personaje de Liyue que haya en el equipo, el ATQ del personaje que lleve esta arma equipada aumenta en un 11%, y su Prob. CRIT aumenta en un 7%. Este efecto solo puede acumularse un máximo de 4 veces.",
+        "FR": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de 11 % de bonus d'ATQ et de 7 % de bonus de taux CRIT. Ces bonus peuvent être cumulés 4 fois maximum.",
+        "ID": "Untuk setiap karakter dalam party yang berasal dari Liyue, karakter yang menggunakan senjata ini mendapatkan peningkatan 11% ATK dan 7% CRIT Rate. Efek ini dapat ditumpuk hingga 4 lapis.",
+        "IT": "Per ogni personaggio di Liyue presente nel gruppo, il personaggio che equipaggia quest'arma ottiene un incremento dell'ATT e del tasso di CRIT pari rispettivamente a un 11% e a un 7%. Cumulabile fino a 4 volte.",
+        "JP": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+11%、会心率+7%。最大4重まで。",
+        "KR": "파티 내에 리월 출신 캐릭터가 1명 존재할 때마다 해당 무기를 장착한 캐릭터의 공격력이 11% 증가하고 치명타 확률이 7% 증가한다. 최대 중첩수: 4회",
+        "PT": "Por cada personagem de Liyue que possua na Equipe, aumenta o ATQ do personagem que equipar essa arma em 11% e aumenta sua Taxa CRIT em 7%. Esse efeito pode ser acumulado no máximo 4 vezes.",
+        "RU": "С каждым членом отряда из Ли Юэ сила атаки экипированного этим оружием персонажа увеличивается на 11%, а его шанс крит. попадания - на 7%. Эффект может складываться до 4 раз.",
+        "TH": "สำหรับทีมที่มีตัวละครที่มาจาก Liyue อยู่ในทีม ตัวละครที่ใช้อาวุธนี้จะได้รับพลังโจมตีเพิ่ม 11% และอัตราคริเพิ่ม 7% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 4 ชั้น",
+        "TR": "Bu silahı kuşanan karakter, grupta bulunan Liyueli her karakter için %11 Saldırı artışı ve %7 Kritik Oranı artışı kazanır. Bu etki 4 kademeye kadar birikir.",
+        "VI": "Mỗi khi trong đội có 1 nhân vật Liyue, nhân vật trang bị vũ khí này sẽ nhận 11% tăng tấn công và 7% tăng tỷ lệ bạo kích. Nhiều nhất có thể nhận 4 tầng hiệu quả tăng."
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Wavesplitter",
+    "CHS": "破浪",
+    "CHT": "破浪",
+    "DE": "Wellenspalter",
+    "ES": "Rompeolas",
+    "FR": "Brise-vagues",
+    "ID": "Wavesplitter",
+    "IT": "Frangionde",
+    "JP": "波乗り",
+    "KR": "파도 가르기",
+    "PT": "Divisor de Ondas",
+    "RU": "Рассекающий волны",
+    "TH": "Wavesplitter",
+    "TR": "Dalga Kesen",
+    "VI": "Phá Sóng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Every 4s a character is on the field, they will deal 6% more DMG and take 3% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+        "CHS": "角色在场上时，每4秒提升6%造成的伤害，3%受到的伤害。该效果最多叠加5层，不随角色退场重置，受到伤害后会减少1层效果。",
+        "CHT": "角色在場上時，每4秒提升6%造成的傷害，同時增加3%所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+        "DE": "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um 6 % und den erlittenen Schaden um 3 %, 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+        "ES": "Cuando el personaje esté en combate, aumenta el daño que inflige en un 6% y el daño que recibe en un 3% cada 4 s. Este efecto puede acumularse un máximo de 5 veces, y no se reiniciará si el personaje se retira de combate, sino que, cada vez que reciba daño, perderá una de las cargas acumuladas.",
+        "FR": "Les DGT infligés augmentent de 6 % et les DGT reçus de 3 % toutes les 4 s que le personnage passe en combat. Cet effet peut être cumulé 5 fois maximum et ne se réinitialise pas si le personnage quitte le combat, mais diminue d'un cumul si le personnage subit des DGT.",
+        "ID": "Saat karakter bertarung, setiap 4 detik meningkatkan 6% DMG yang diakibatkan dan 3% DMG yang diterima. Efek ini dapat ditumpuk maksimum 5 lapis, dan akan berkurang 1 lapis saat menerima DMG. Efek tidak akan hilang saat karakter bertarung digantikan.",
+        "IT": "#Quando è in campo, il personaggio infligge e subisce rispettivamente un 6% e un 3% di DAN in più ogni 4 s. Questo effetto può accumularsi fino a 5 volte e non si annulla se il personaggio lascia il campo. Tuttavia, se quest'ultimo subisce DAN, gli accumuli si riducono di 1.",
+        "JP": "フィールドにいる時、4秒毎に、与えるダメージ+6%、被ダメージ+3%。最大5重まで、退場後もリセットされず、攻撃を受けると効果数-1。",
+        "KR": "캐릭터가 필드에 있을 때 4초마다 주는 피해가 6%, 받는 피해가 3% 증가한다. 최대 중첩수: 5회. 캐릭터를 대기 상태로 전환해도 효과는 초기화되지 않는다. 피해를 받으면 중첩수가 1개 사라진다",
+        "PT": "Quando o jogador está em combate, a cada 4s aumenta o dano causado em 6% e 3% do Dano recebido. Este efeito pode ser acumulado até 5 vezes, não sendo redefinido após o personagem sair de campo, mas reduzirá 1 camada do efeito quando o personagem receber Dano.",
+        "RU": "Каждые 4 сек. увеличивает наносимый персонажем урон на 6% и получаемый им урон на 3%, пока тот активен. Может складываться до 5 раз, не сбрасывается при смене персонажа, при получении урона снижается на 1 уровень складывания.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ ในทุก 4 วินาที จะเพิ่มความเสียหายที่สร้าง 6% และเพิ่มความเสียหายที่ได้รับ 3% เอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น โดยจะไม่รีเซ็ตหลังจากที่ตัวละครออกจากสนามและเอฟเฟกต์จะลดลง 1 ชั้นหลังจากที่ได้รับความเสียหาย",
+        "TR": "Bir karakter, savaş alanında olduğu her 4 saniye için %6 daha fazla Hasar verir ve %3 daha fazla Hasar alır. Bu etki 5 kademeye kadar birikir, karakter savaş alanından çıktığında kademeler sıfırlanmaz ama karakter Hasar aldığında 1 kademe eksilir.",
+        "VI": "Khi nhân vật ra trận, mỗi 4s tăng 6% sát thương gây ra, 3% sát thương phải chịu. Cộng dồn tối đa 5 tầng, không làm mới khi nhân vật rời khỏi trận, sau khi chịu sát thương sẽ giảm 1 tầng hiệu quả."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Every 4s a character is on the field, they will deal 7% more DMG and take 2.7% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+        "CHS": "角色在场上时，每4秒提升7%造成的伤害，2.7%受到的伤害。该效果最多叠加5层，不随角色退场重置，受到伤害后会减少1层效果。",
+        "CHT": "角色在場上時，每4秒提升7%造成的傷害，同時增加2.7%所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+        "DE": "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um 7 % und den erlittenen Schaden um 2,7 %, 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+        "ES": "Cuando el personaje esté en combate, aumenta el daño que inflige en un 7% y el daño que recibe en un 2.7% cada 4 s. Este efecto puede acumularse un máximo de 5 veces, y no se reiniciará si el personaje se retira de combate, sino que, cada vez que reciba daño, perderá una de las cargas acumuladas.",
+        "FR": "Les DGT infligés augmentent de 7 % et les DGT reçus de 2,7 % toutes les 4 s que le personnage passe en combat. Cet effet peut être cumulé 5 fois maximum et ne se réinitialise pas si le personnage quitte le combat, mais diminue d'un cumul si le personnage subit des DGT.",
+        "ID": "Saat karakter bertarung, setiap 4 detik meningkatkan 7% DMG yang diakibatkan dan 2,7% DMG yang diterima. Efek ini dapat ditumpuk maksimum 5 lapis, dan akan berkurang 1 lapis saat menerima DMG. Efek tidak akan hilang saat karakter digantikan.",
+        "IT": "#Quando è in campo, il personaggio infligge e subisce rispettivamente un 7% e un 2,7% di DAN in più ogni 4 s. Questo effetto può accumularsi fino a 5 volte e non si annulla se il personaggio lascia il campo. Tuttavia, se quest'ultimo subisce DAN, gli accumuli si riducono di 1.",
+        "JP": "フィールドにいる時、4秒毎に、与えるダメージ+7%、被ダメージ+2.7%。最大5重まで、退場後もリセットされず、攻撃を受けると効果数-1。",
+        "KR": "캐릭터가 필드에 있을 때 4초마다 주는 피해가 7%, 받는 피해가 2.7% 증가한다. 최대 중첩수: 5회. 캐릭터를 대기 상태로 전환해도 효과는 초기화되지 않는다. 피해를 받으면 중첩수가 1개 사라진다",
+        "PT": "Quando o jogador está em combate, a cada 4s aumenta o dano causado em 7% e 2.7% do Dano recebido. Este efeito pode ser acumulado até 5 vezes, não sendo redefinido após o personagem sair de campo, mas reduzirá 1 camada do efeito quando o personagem receber Dano.",
+        "RU": "Каждые 4 сек. увеличивает наносимый персонажем урон на 7% и получаемый им урон на 2,7%, пока тот активен. Может складываться до 5 раз, не сбрасывается при смене персонажа, при получении урона снижается на 1 уровень складывания.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ ในทุก 4 วินาที จะเพิ่มความเสียหายที่สร้าง 7% และเพิ่มความเสียหายที่ได้รับ 2.7% เอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น โดยจะไม่รีเซ็ตหลังจากที่ตัวละครออกจากสนามและเอฟเฟกต์จะลดลง 1 ชั้นหลังจากที่ได้รับความเสียหาย",
+        "TR": "Bir karakter, savaş alanında olduğu her 4 saniye için %7 daha fazla Hasar verir ve %2,7 daha fazla Hasar alır. Bu etki 5 kademeye kadar birikir, karakter savaş alanından çıktığında kademeler sıfırlanmaz ama karakter Hasar aldığında 1 kademe eksilir.",
+        "VI": "Khi nhân vật ra trận, mỗi 4s tăng 7% sát thương gây ra, 2.7% sát thương phải chịu. Cộng dồn tối đa 5 tầng, không làm mới khi nhân vật rời khỏi trận, sau khi chịu sát thương sẽ giảm 1 tầng hiệu quả."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Every 4s a character is on the field, they will deal 8% more DMG and take 2.4% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+        "CHS": "角色在场上时，每4秒提升8%造成的伤害，2.4%受到的伤害。该效果最多叠加5层，不随角色退场重置，受到伤害后会减少1层效果。",
+        "CHT": "角色在場上時，每4秒提升8%造成的傷害，同時增加2.4%所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+        "DE": "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um 8 % und den erlittenen Schaden um 2,4 %, 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+        "ES": "Cuando el personaje esté en combate, aumenta el daño que inflige en un 8% y el daño que recibe en un 2.4% cada 4 s. Este efecto puede acumularse un máximo de 5 veces, y no se reiniciará si el personaje se retira de combate, sino que, cada vez que reciba daño, perderá una de las cargas acumuladas.",
+        "FR": "Les DGT infligés augmentent de 8 % et les DGT reçus de 2,4 % toutes les 4 s que le personnage passe en combat. Cet effet peut être cumulé 5 fois maximum et ne se réinitialise pas si le personnage quitte le combat, mais diminue d'un cumul si le personnage subit des DGT.",
+        "ID": "Saat karakter bertarung, setiap 4 detik meningkatkan 8% DMG yang diakibatkan dan 2,4% DMG yang diterima. Efek ini dapat ditumpuk maksimum 5 lapis, dan akan berkurang 1 lapis saat menerima DMG. Efek tidak akan hilang saat karakter bertarung digantikan.",
+        "IT": "#Quando è in campo, il personaggio infligge e subisce rispettivamente un 8% e un 2,4% di DAN in più ogni 4 s. Questo effetto può accumularsi fino a 5 volte e non si annulla se il personaggio lascia il campo. Tuttavia, se quest'ultimo subisce DAN, gli accumuli si riducono di 1.",
+        "JP": "フィールドにいる時、4秒毎に、与えるダメージ+8%、被ダメージ+2.4%。最大5重まで、退場後もリセットされず、攻撃を受けると効果数-1。",
+        "KR": "캐릭터가 필드에 있을 때 4초마다 주는 피해가 8%, 받는 피해가 2.4% 증가한다. 최대 중첩수: 5회. 캐릭터를 대기 상태로 전환해도 효과는 초기화되지 않는다. 피해를 받으면 중첩수가 1개 사라진다",
+        "PT": "Quando o jogador está em combate, a cada 4s aumenta o dano causado em 8% e 2.4% do Dano recebido. Este efeito pode ser acumulado até 5 vezes, não sendo redefinido após o personagem sair de campo, mas reduzirá 1 camada do efeito quando o personagem receber Dano.",
+        "RU": "Каждые 4 сек. увеличивает наносимый персонажем урон на 8% и получаемый им урон на 2,4%, пока тот активен. Может складываться до 5 раз, не сбрасывается при смене персонажа, при получении урона снижается на 1 уровень складывания.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ ในทุก 4 วินาที จะเพิ่มความเสียหายที่สร้าง 8% และเพิ่มความเสียหายที่ได้รับ 2.4% เอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น โดยจะไม่รีเซ็ตหลังจากที่ตัวละครออกจากสนามและเอฟเฟกต์จะลดลง 1 ชั้นหลังจากที่ได้รับความเสียหาย",
+        "TR": "Bir karakter, savaş alanında olduğu her 4 saniye için %8 daha fazla Hasar verir ve %2,4 daha fazla Hasar alır. Bu etki 5 kademeye kadar birikir, karakter savaş alanından çıktığında kademeler sıfırlanmaz ama karakter Hasar aldığında 1 kademe eksilir.",
+        "VI": "Khi nhân vật ra trận, mỗi 4s tăng 8% sát thương gây ra, 2.4% sát thương phải chịu. Cộng dồn tối đa 5 tầng, không làm mới khi nhân vật rời khỏi trận, sau khi chịu sát thương sẽ giảm 1 tầng hiệu quả."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Every 4s a character is on the field, they will deal 9% more DMG and take 2.2% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+        "CHS": "角色在场上时，每4秒提升9%造成的伤害，2.2%受到的伤害。该效果最多叠加5层，不随角色退场重置，受到伤害后会减少1层效果。",
+        "CHT": "角色在場上時，每4秒提升9%造成的傷害，同時增加2.2%所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+        "DE": "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um 9 % und den erlittenen Schaden um 2,2 %, 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+        "ES": "Cuando el personaje esté en combate, aumenta el daño que inflige en un 9% y el daño que recibe en un 2.2% cada 4 s. Este efecto puede acumularse un máximo de 5 veces, y no se reiniciará si el personaje se retira de combate, sino que, cada vez que reciba daño, perderá una de las cargas acumuladas.",
+        "FR": "Les DGT infligés augmentent de 9 % et les DGT reçus de 2,2 % toutes les 4 s que le personnage passe en combat. Cet effet peut être cumulé 5 fois maximum et ne se réinitialise pas si le personnage quitte le combat, mais diminue d'un cumul si le personnage subit des DGT.",
+        "ID": "Saat karakter bertarung, setiap 4 detik meningkatkan 9% DMG yang diakibatkan dan 2,2% DMG yang diterima. Efek ini dapat ditumpuk maksimum 5 lapis, dan akan berkurang 1 lapis saat menerima DMG. Efek tidak akan hilang saat karakter digantikan.",
+        "IT": "#Quando è in campo, il personaggio infligge e subisce rispettivamente un 9% e un 2,2% di DAN in più ogni 4 s. Questo effetto può accumularsi fino a 5 volte e non si annulla se il personaggio lascia il campo. Tuttavia, se quest'ultimo subisce DAN, gli accumuli si riducono di 1.",
+        "JP": "フィールドにいる時、4秒毎に、与えるダメージ+9%、被ダメージ+2.2%。最大5重まで、退場後もリセットされず、攻撃を受けると効果数-1。",
+        "KR": "캐릭터가 필드에 있을 때 4초마다 주는 피해가 9%, 받는 피해가 2.2% 증가한다. 최대 중첩수: 5회. 캐릭터를 대기 상태로 전환해도 효과는 초기화되지 않는다. 피해를 받으면 중첩수가 1개 사라진다",
+        "PT": "Quando o jogador está em combate, a cada 4s aumenta o dano causado em 9% e 2.2% do Dano recebido. Este efeito pode ser acumulado até 5 vezes, não sendo redefinido após o personagem sair de campo, mas reduzirá 1 camada do efeito quando o personagem receber Dano.",
+        "RU": "Каждые 4 сек. увеличивает наносимый персонажем урон на 9% и получаемый им урон на 2,2%, пока тот активен. Может складываться до 5 раз, не сбрасывается при смене персонажа, при получении урона снижается на 1 уровень складывания.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ ในทุก 4 วินาที จะเพิ่มความเสียหายที่สร้าง 9% และเพิ่มความเสียหายที่ได้รับ 2.2% เอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น โดยจะไม่รีเซ็ตหลังจากที่ตัวละครออกจากสนามและเอฟเฟกต์จะลดลง 1 ชั้นหลังจากที่ได้รับความเสียหาย",
+        "TR": "Bir karakter, savaş alanında olduğu her 4 saniye için %9 daha fazla Hasar verir ve %2,2 daha fazla Hasar alır. Bu etki 5 kademeye kadar birikir, karakter savaş alanından çıktığında kademeler sıfırlanmaz ama karakter Hasar aldığında 1 kademe eksilir.",
+        "VI": "Khi nhân vật ra trận, mỗi 4s tăng 9% sát thương gây ra, 2.2% sát thương phải chịu. Cộng dồn tối đa 5 tầng, không làm mới khi nhân vật rời khỏi trận, sau khi chịu sát thương sẽ giảm 1 tầng hiệu quả."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Every 4s a character is on the field, they will deal 10% more DMG and take 2% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+        "CHS": "角色在场上时，每4秒提升10%造成的伤害，2%受到的伤害。该效果最多叠加5层，不随角色退场重置，受到伤害后会减少1层效果。",
+        "CHT": "角色在場上時，每4秒提升10%造成的傷害，同時增加2%所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+        "DE": "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um 10 % und den erlittenen Schaden um 2 %, 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+        "ES": "Cuando el personaje esté en combate, aumenta el daño que inflige en un 10% y el daño que recibe en un 2% cada 4 s. Este efecto puede acumularse un máximo de 5 veces, y no se reiniciará si el personaje se retira de combate, sino que, cada vez que reciba daño, perderá una de las cargas acumuladas.",
+        "FR": "Les DGT infligés augmentent de 10 % et les DGT reçus de 2 % toutes les 4 s que le personnage passe en combat. Cet effet peut être cumulé 5 fois maximum et ne se réinitialise pas si le personnage quitte le combat, mais diminue d'un cumul si le personnage subit des DGT.",
+        "ID": "Saat karakter bertarung, setiap 4 detik meningkatkan 10% DMG yang diakibatkan dan 2% DMG yang diterima. Efek ini dapat ditumpuk maksimum 5 lapis, dan akan berkurang 1 lapis saat menerima DMG. Efek tidak akan hilang saat karakter bertarung digantikan.",
+        "IT": "#Quando è in campo, il personaggio infligge e subisce rispettivamente un 10% e un 2% di DAN in più ogni 4 s. Questo effetto può accumularsi fino a 5 volte e non si annulla se il personaggio lascia il campo. Tuttavia, se quest'ultimo subisce DAN, gli accumuli si riducono di 1.",
+        "JP": "フィールドにいる時、4秒毎に、与えるダメージ+10%、被ダメージ+2%。最大5重まで、退場後もリセットされず、攻撃を受けると効果数-1。",
+        "KR": "캐릭터가 필드에 있을 때 4초마다 주는 피해가 10%, 받는 피해가 2% 증가한다. 최대 중첩수: 5회. 캐릭터를 대기 상태로 전환해도 효과는 초기화되지 않는다. 피해를 받으면 중첩수가 1개 사라진다",
+        "PT": "Quando o jogador está em combate, a cada 4s aumenta o dano causado em 10% e 2% do Dano recebido. Este efeito pode ser acumulado até 5 vezes, não sendo redefinido após o personagem sair de campo, mas reduzirá 1 camada do efeito quando o personagem receber Dano.",
+        "RU": "Каждые 4 сек. увеличивает наносимый персонажем урон на 10% и получаемый им урон на 2%, пока тот активен. Может складываться до 5 раз, не сбрасывается при смене персонажа, при получении урона снижается на 1 уровень складывания.",
+        "TH": "เมื่อตัวละครเข้าสู่การต่อสู้ ในทุก 4 วินาที จะเพิ่มความเสียหายที่สร้าง 10% และเพิ่มความเสียหายที่ได้รับ 2% เอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น โดยจะไม่รีเซ็ตหลังจากที่ตัวละครออกจากสนามและเอฟเฟกต์จะลดลง 1 ชั้นหลังจากที่ได้รับความเสียหาย",
+        "TR": "Bir karakter, savaş alanında olduğu her 4 saniye için %10 daha fazla Hasar verir ve %2 daha fazla Hasar alır. Bu etki 5 kademeye kadar birikir, karakter savaş alanından çıktığında kademeler sıfırlanmaz ama karakter Hasar aldığında 1 kademe eksilir.",
+        "VI": "Khi nhân vật ra trận, mỗi 4s tăng 10% sát thương gây ra, 2% sát thương phải chịu. Cộng dồn tối đa 5 tầng, không làm mới khi nhân vật rời khỏi trận, sau khi chịu sát thương sẽ giảm 1 tầng hiệu quả."
+      }
+    }
+  ]
+}

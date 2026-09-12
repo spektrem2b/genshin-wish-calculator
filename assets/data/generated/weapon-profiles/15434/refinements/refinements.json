@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Astral Whispers Beyond the Sacred Throne",
+    "CHS": "圣座外的星语",
+    "CHT": "聖座外的星語",
+    "DE": "Sternenflüstern jenseits des heiligen Throns",
+    "ES": "Susurros estelares más allá del trono sagrado",
+    "FR": "Murmures astraux d'au-delà du trône sacré",
+    "ID": "Astral Whispers Beyond the Sacred Throne",
+    "IT": "Sussurri astrali oltre il trono sacro",
+    "JP": "聖処の外でささやく星々",
+    "KR": "성좌 밖의 별빛 속삭임",
+    "PT": "Idioma Estelar Estrangeiro Sagrado",
+    "RU": "Шёпот звёзд за священным престолом",
+    "TH": "Astral Whispers Beyond the Sacred Throne",
+    "TR": "Kutsal Taht Ardında Kozmik Fısıltılar",
+    "VI": "Ngôn Ngữ Tinh Tú Ngoài Thánh Tọa"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "ATK is increased by 28% for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field.",
+        "CHS": "装备者处于队伍后台时，装备者的攻击命中敌人后的8秒内，攻击力提升28%。",
+        "CHT": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升28%。",
+        "DE": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8 s lang um 28 %.",
+        "ES": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 28% durante 8 s.",
+        "FR": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de 28 % pendant 8 s après que le personnage équipé de l'arme touche un ennemi.",
+        "ID": "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +28% selama 8 detik.",
+        "IT": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 28% per 8 s.",
+        "JP": "装備者が待機中の時、装備者の攻撃が敵に命中した後の8秒間、攻撃力+28%。",
+        "KR": "장착 캐릭터가 대기 상태일 때, 장착 캐릭터의 공격이 적에게 명중한 후 8초 동안 공격력이 28% 증가한다",
+        "PT": "Quando o portador não é o personagem ativo, aumenta o ATQ em 28% por 8s após o portador atingir um inimigo com um ataque.",
+        "RU": "Когда экипированный персонаж не находится на поле боя, на 8 сек. после попадания его атак по противнику сила атаки повышается на 28%.",
+        "TH": "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 28% เป็นเวลา 8 วินาที",
+        "TR": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %28 artar.",
+        "VI": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng 28%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "ATK is increased by 35% for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field.",
+        "CHS": "装备者处于队伍后台时，装备者的攻击命中敌人后的8秒内，攻击力提升35%。",
+        "CHT": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升35%。",
+        "DE": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8 s lang um 35 %.",
+        "ES": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 35% durante 8 s.",
+        "FR": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de 35 % pendant 8 s après que le personnage équipé de l'arme touche un ennemi.",
+        "ID": "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +35% selama 8 detik.",
+        "IT": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 35% per 8 s.",
+        "JP": "装備者が待機中の時、装備者の攻撃が敵に命中した後の8秒間、攻撃力+35%。",
+        "KR": "장착 캐릭터가 대기 상태일 때, 장착 캐릭터의 공격이 적에게 명중한 후 8초 동안 공격력이 35% 증가한다",
+        "PT": "Quando o portador não é o personagem ativo, aumenta o ATQ em 35% por 8s após o portador atingir um inimigo com um ataque.",
+        "RU": "Когда экипированный персонаж не находится на поле боя, на 8 сек. после попадания его атак по противнику сила атаки повышается на 35%.",
+        "TH": "เมื่อผู้สวมใส่ที่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 35% เป็นเวลา 8 วินาที",
+        "TR": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %35 artar.",
+        "VI": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng 35%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "ATK is increased by 42% for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field.",
+        "CHS": "装备者处于队伍后台时，装备者的攻击命中敌人后的8秒内，攻击力提升42%。",
+        "CHT": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升42%。",
+        "DE": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8 s lang um 42 %.",
+        "ES": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 42% durante 8 s.",
+        "FR": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de 42 % pendant 8 s après que le personnage équipé de l'arme touche un ennemi.",
+        "ID": "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +42% selama 8 detik.",
+        "IT": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 42% per 8 s.",
+        "JP": "装備者が待機中の時、装備者の攻撃が敵に命中した後の8秒間、攻撃力+42%。",
+        "KR": "장착 캐릭터가 대기 상태일 때, 장착 캐릭터의 공격이 적에게 명중한 후 8초 동안 공격력이 42% 증가한다",
+        "PT": "Quando o portador não é o personagem ativo, aumenta o ATQ em 42% por 8s após o portador atingir um inimigo com um ataque.",
+        "RU": "Когда экипированный персонаж не находится на поле боя, на 8 сек. после попадания его атак по противнику сила атаки повышается на 42%.",
+        "TH": "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 42% เป็นเวลา 8 วินาที",
+        "TR": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %42 artar.",
+        "VI": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng 42%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "ATK is increased by 49% for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field.",
+        "CHS": "装备者处于队伍后台时，装备者的攻击命中敌人后的8秒内，攻击力提升49%。",
+        "CHT": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升49%。",
+        "DE": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8 s lang um 49 %.",
+        "ES": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 49% durante 8 s.",
+        "FR": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de 49 % pendant 8 s après que le personnage équipé de l'arme touche un ennemi.",
+        "ID": "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +49% selama 8 detik.",
+        "IT": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 49% per 8 s.",
+        "JP": "装備者が待機中の時、装備者の攻撃が敵に命中した後の8秒間、攻撃力+49%。",
+        "KR": "장착 캐릭터가 대기 상태일 때, 장착 캐릭터의 공격이 적에게 명중한 후 8초 동안 공격력이 49% 증가한다",
+        "PT": "Quando o portador não é o personagem ativo, aumenta o ATQ em 49% por 8s após o portador atingir um inimigo com um ataque.",
+        "RU": "Когда экипированный персонаж не находится на поле боя, на 8 сек. после попадания его атак по противнику сила атаки повышается на 49%.",
+        "TH": "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 49% เป็นเวลา 8 วินาที",
+        "TR": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %49 artar.",
+        "VI": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng 49%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "ATK is increased by 56% for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field.",
+        "CHS": "装备者处于队伍后台时，装备者的攻击命中敌人后的8秒内，攻击力提升56%。",
+        "CHT": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升56%。",
+        "DE": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8 s lang 56 %.",
+        "ES": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 56% durante 8 s.",
+        "FR": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de 56 % pendant 8 s après que le personnage équipé de l'arme touche un ennemi.",
+        "ID": "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +56% selama 8 detik.",
+        "IT": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 56% per 8 s.",
+        "JP": "装備者が待機中の時、装備者の攻撃が敵に命中した後の8秒間、攻撃力+56%。",
+        "KR": "장착 캐릭터가 대기 상태일 때, 장착 캐릭터의 공격이 적에게 명중한 후 8초 동안 공격력이 56% 증가한다",
+        "PT": "Quando o portador não é o personagem ativo, aumenta o ATQ em 56% por 8s após o portador atingir um inimigo com um ataque.",
+        "RU": "Когда экипированный персонаж не находится на поле боя, на 8 сек. после попадания его атак по противнику сила атаки повышается на 56%.",
+        "TH": "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 56% เป็นเวลา 8 วินาที",
+        "TR": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %56 artar.",
+        "VI": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng 56%."
+      }
+    }
+  ]
+}

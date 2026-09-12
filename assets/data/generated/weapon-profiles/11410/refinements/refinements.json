@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Itinerant Hero",
+    "CHS": "街巷游侠",
+    "CHT": "街巷遊俠",
+    "DE": "Held der Gassen",
+    "ES": "Héroe errante",
+    "FR": "Justicier vagabond",
+    "ID": "Itinerant Hero",
+    "IT": "Eroe itinerante",
+    "JP": "路地遊侠",
+    "KR": "골목의 레인저",
+    "PT": "Herói Itinerante",
+    "RU": "Странствующий рыцарь",
+    "TH": "Itinerant Hero",
+    "TR": "Gezgin Kahraman",
+    "VI": "Hiệp Sĩ Đường Phố"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases DMG dealt by the character equipping this weapon by 12%. Taking DMG disables this effect for 5s.",
+        "CHS": "角色造成的伤害提升12%。受到伤害后，该伤害提升效果会失效5秒。",
+        "CHT": "角色造成的傷害提升12%。受到傷害後，該傷害提升效果會失效5秒。",
+        "DE": "Erhöht den von Figuren verursachten Schaden um 12 %. Dieser Schadensbonus erlischt beim Erleiden von Schaden 5 s lang.",
+        "ES": "Aumenta en un 12% el daño infligido. Al recibir daño, este aumento de daño perderá su efecto durante 5 s.",
+        "FR": "Augmente les DGT infligés par le personnage de 12 %. Cet effet disparaît pendant 5 s lorsque le personnage subit des DGT.",
+        "ID": "Meningkatkan 12% DMG yang diakibatkan Karakter. Efek akan menghilang selama 5 detik bila Karakter menerima DMG.",
+        "IT": "#Aumenta i DAN inflitti dal personaggio con quest'arma equipaggiata di un 12%. Subire DAN disabilita quest'effetto per 5 s.",
+        "JP": "キャラクターが与えるダメージ+12%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+        "KR": "캐릭터가 주는 피해가 12% 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+        "PT": "Aumenta o Dano causado pelo Personagem em 12%. Ao sofrer Dano, esse efeito de aumento de Dano não ocorrerá por 5s.",
+        "RU": "Увеличивает урон персонажа на 12%. После получения урона эффект пропадает на 5 сек.",
+        "TH": "ตัวละครที่สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 12% หากตัวละครได้รับความเสียหาย เอฟเฟกต์ดังกล่าวจะหายไปเป็นเวลา 5 วินาที",
+        "TR": "Bu silahı kuşanan karakterin Hasarını %12 artırır. Hasar almak bu etkiyi 5 saniyeliğine kesintiye uğratır.",
+        "VI": "Sát thương nhân vật tạo thành tăng 12%. Sau khi chịu phải sát thương, hiệu quả tăng sát thương này sẽ mất hiệu lực 5s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases DMG dealt by the character equipping this weapon by 15%. Taking DMG disables this effect for 5s.",
+        "CHS": "角色造成的伤害提升15%。受到伤害后，该伤害提升效果会失效5秒。",
+        "CHT": "角色造成的傷害提升15%。受到傷害後，該傷害提升效果會失效5秒。",
+        "DE": "Erhöht den von Figuren verursachten Schaden um 15 %. Dieser Schadensbonus erlischt beim Erleiden von Schaden 5 s lang.",
+        "ES": "Aumenta en un 15% el daño infligido. Al recibir daño, este aumento de daño perderá su efecto durante 5 s.",
+        "FR": "Augmente les DGT infligés par le personnage de 15 %. Cet effet disparaît pendant 5 s lorsque le personnage subit des DGT.",
+        "ID": "Meningkatkan 15% DMG yang diakibatkan Karakter. Efek akan menghilang selama 5 detik bila Karakter menerima DMG.",
+        "IT": "#Aumenta i DAN inflitti dal personaggio con quest'arma equipaggiata di un 15%. Subire DAN disabilita quest'effetto per 5 s.",
+        "JP": "キャラクターが与えるダメージ+15%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+        "KR": "캐릭터가 주는 피해가 15% 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+        "PT": "Aumenta o Dano causado pelo Personagem em 15%. Ao sofrer Dano, esse efeito de aumento de Dano não ocorrerá por 5s.",
+        "RU": "Увеличивает урон персонажа на 15%. После получения урона эффект пропадает на 5 сек.",
+        "TH": "ตัวละครที่สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 15% หากตัวละครได้รับความเสียหาย เอฟเฟกต์ดังกล่าวจะหายไปเป็นเวลา 5 วินาที",
+        "TR": "Bu silahı kuşanan karakterin Hasarını %15 artırır. Hasar almak bu etkiyi 5 saniyeliğine kesintiye uğratır.",
+        "VI": "Sát thương nhân vật tạo thành tăng 15%. Sau khi chịu phải sát thương, hiệu quả tăng sát thương này sẽ mất hiệu lực 5s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases DMG dealt by the character equipping this weapon by 18%. Taking DMG disables this effect for 5s.",
+        "CHS": "角色造成的伤害提升18%。受到伤害后，该伤害提升效果会失效5秒。",
+        "CHT": "角色造成的傷害提升18%。受到傷害後，該傷害提升效果會失效5秒。",
+        "DE": "Erhöht den von Figuren verursachten Schaden um 18 %. Dieser Schadensbonus erlischt beim Erleiden von Schaden 5 s lang.",
+        "ES": "Aumenta en un 18% el daño infligido. Al recibir daño, este aumento de daño perderá su efecto durante 5 s.",
+        "FR": "Augmente les DGT infligés par le personnage de 18 %. Cet effet disparaît pendant 5 s lorsque le personnage subit des DGT.",
+        "ID": "Meningkatkan 18% DMG yang diakibatkan Karakter. Efek akan menghilang selama 5 detik bila Karakter menerima DMG.",
+        "IT": "#Aumenta i DAN inflitti dal personaggio con quest'arma equipaggiata di un 18%. Subire DAN disabilita quest'effetto per 5 s.",
+        "JP": "キャラクターが与えるダメージ+18%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+        "KR": "캐릭터가 주는 피해가 18% 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+        "PT": "Aumenta o Dano causado pelo Personagem em 18%. Ao sofrer Dano, esse efeito de aumento de Dano não ocorrerá por 5s.",
+        "RU": "Увеличивает урон персонажа на 18%. После получения урона эффект пропадает на 5 сек.",
+        "TH": "ตัวละครที่สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 18% หากตัวละครได้รับความเสียหาย เอฟเฟกต์ดังกล่าวจะหายไปเป็นเวลา 5 วินาที",
+        "TR": "Bu silahı kuşanan karakterin Hasarını %18 artırır. Hasar almak bu etkiyi 5 saniyeliğine kesintiye uğratır.",
+        "VI": "Sát thương nhân vật tạo thành tăng 18%. Sau khi chịu phải sát thương, hiệu quả tăng sát thương này sẽ mất hiệu lực 5s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases DMG dealt by the character equipping this weapon by 21%. Taking DMG disables this effect for 5s.",
+        "CHS": "角色造成的伤害提升21%。受到伤害后，该伤害提升效果会失效5秒。",
+        "CHT": "角色造成的傷害提升21%。受到傷害後，該傷害提升效果會失效5秒。",
+        "DE": "Erhöht den von Figuren verursachten Schaden um 21 %. Dieser Schadensbonus erlischt beim Erleiden von Schaden 5 s lang.",
+        "ES": "Aumenta en un 21% el daño infligido. Al recibir daño, este aumento de daño perderá su efecto durante 5 s.",
+        "FR": "Augmente les DGT infligés par le personnage de 21 %. Cet effet disparaît pendant 5 s lorsque le personnage subit des DGT.",
+        "ID": "Meningkatkan 21% DMG yang diakibatkan Karakter. Efek akan menghilang selama 5 detik bila Karakter menerima DMG.",
+        "IT": "#Aumenta i DAN inflitti dal personaggio con quest'arma equipaggiata di un 21%. Subire DAN disabilita quest'effetto per 5 s.",
+        "JP": "キャラクターが与えるダメージ+21%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+        "KR": "캐릭터가 주는 피해가 21% 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+        "PT": "Aumenta o Dano causado pelo Personagem em 21%. Ao sofrer Dano, esse efeito de aumento de Dano não ocorrerá por 5s.",
+        "RU": "Увеличивает урон персонажа на 21%. После получения урона эффект пропадает на 5 сек.",
+        "TH": "ตัวละครที่สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 21% หากตัวละครได้รับความเสียหาย เอฟเฟกต์ดังกล่าวจะหายไปเป็นเวลา 5 วินาที",
+        "TR": "Bu silahı kuşanan karakterin Hasarını %21 artırır. Hasar almak bu etkiyi 5 saniyeliğine kesintiye uğratır.",
+        "VI": "Sát thương nhân vật tạo thành tăng 21%. Sau khi chịu phải sát thương, hiệu quả tăng sát thương này sẽ mất hiệu lực 5s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases DMG dealt by the character equipping this weapon by 24%. Taking DMG disables this effect for 5s.",
+        "CHS": "角色造成的伤害提升24%。受到伤害后，该伤害提升效果会失效5秒。",
+        "CHT": "角色造成的傷害提升24%。受到傷害後，該傷害提升效果會失效5秒。",
+        "DE": "Erhöht den von Figuren verursachten Schaden um 24 %. Dieser Schadensbonus erlischt beim Erleiden von Schaden 5 s lang.",
+        "ES": "Aumenta en un 24% el daño infligido. Al recibir daño, este aumento de daño perderá su efecto durante 5 s.",
+        "FR": "Augmente les DGT infligés par le personnage de 24 %. Cet effet disparaît pendant 5 s lorsque le personnage subit des DGT.",
+        "ID": "Meningkatkan 24% DMG yang diakibatkan Karakter. Efek akan menghilang selama 5 detik bila Karakter menerima DMG.",
+        "IT": "#Aumenta i DAN inflitti dal personaggio con quest'arma equipaggiata di un 24%. Subire DAN disabilita quest'effetto per 5 s.",
+        "JP": "キャラクターが与えるダメージ+24%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
+        "KR": "캐릭터가 주는 피해가 24% 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+        "PT": "Aumenta o Dano causado pelo Personagem em 24%. Ao sofrer Dano, esse efeito de aumento de Dano não ocorrerá por 5s.",
+        "RU": "Увеличивает урон персонажа на 24%. После получения урона эффект пропадает на 5 сек.",
+        "TH": "ตัวละครที่สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 24% หากตัวละครได้รับความเสียหาย เอฟเฟกต์ดังกล่าวจะหายไปเป็นเวลา 5 วินาที",
+        "TR": "Bu silahı kuşanan karakterin Hasarını %24 artırır. Hasar almak bu etkiyi 5 saniyeliğine kesintiye uğratır.",
+        "VI": "Sát thương nhân vật tạo thành tăng 24%. Sau khi chịu phải sát thương, hiệu quả tăng sát thương này sẽ mất hiệu lực 5s."
+      }
+    }
+  ]
+}

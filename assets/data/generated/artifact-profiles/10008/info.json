@@ -1,0 +1,69 @@
+{
+  "id": 10008,
+  "name": {
+    "EN": "Gambler",
+    "CHS": "赌徒",
+    "CHT": "賭徒",
+    "DE": "Glücksspieler",
+    "ES": "Jugadora",
+    "FR": "Parieur",
+    "ID": "Gambler",
+    "IT": "Scommettitrice",
+    "JP": "博徒",
+    "KR": "노름꾼",
+    "PT": "Apostador",
+    "RU": "Азартный игрок",
+    "TH": "Gambler",
+    "TR": "Kumarbaz",
+    "VI": "Con Bạc"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10008/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Elemental Skill DMG by 20%.",
+        "CHS": "元素战技造成的伤害提升20%。",
+        "CHT": "元素戰技造成的傷害提升20%。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20 %.",
+        "ES": "Daño de Habilidad Elemental +20%.",
+        "FR": "Augmente les DGT infligés par la compétence élémentaire de 20 %.",
+        "ID": "Meningkatkan 20% DMG Elemental Skill.",
+        "IT": "DAN da abilità elementale +20%.",
+        "JP": "元素スキルのダメージ+20%。",
+        "KR": "원소전투 스킬로 주는 피해+20%",
+        "PT": "Aumenta o dano da Habilidade Elemental em 20%.",
+        "RU": "Увеличивает урон элементального навыка на 20%.",
+        "TH": "เพิ่มความเสียหายของสกิลธาตุขึ้น 20%",
+        "TR": "Element Becerisi Hasarını %20 artırır.",
+        "VI": "Sát thương kỹ năng Nguyên Tố tạo thành tăng 20%."
+      },
+      "affixId": "2100080"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s.",
+        "CHS": "击败敌人时，有100%概率清除元素战技的冷却时间。该效果每15秒至多触发一次。",
+        "CHT": "擊敗敵人時，有100%的機率清除元素戰技的冷卻時間。該效果每15秒至多觸發一次。",
+        "DE": "Überspringt die Abklingzeit der Elementarfähigkeit beim Besiegen von Gegnern mit einer Wahrscheinlichkeit von 100 %. 15 s Abklingzeit.",
+        "ES": "Al derrotar a un enemigo, hay una probabilidad del 100% de reiniciar el TdE de la Habilidad Elemental. Puede ocurrir una vez cada 15 s.",
+        "FR": "Après la défaite d'un ennemi, le TdR de compétence élémentaire a 100 % de chances d'être réinitialisé. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Mengalahkan musuh memiliki 100% persentase CD Elemental Skill akan langsung selesai. Dapat terpicu setiap 15 detik.",
+        "IT": "#Sconfiggere un avversario fornisce un 100% di probabilità di azzerare il TdR dell'abilità elementale. Può verificarsi una sola volta ogni 15 s.",
+        "JP": "敵を倒した時、100%の確率で元素スキルのクールタイムをリセットする。15秒に1回のみ発動可能。",
+        "KR": "적을 처치하면 100%의 확률로 원소전투 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "Ao derrotar um inimigo, possui 100% de chance de remover a Recarga da Habilidade Elemental. Este efeito pode ser ativado uma vez a cada 15s.",
+        "RU": "Победа над противником со 100% шансом восстанавливает время отката элементального навыка. Может возникнуть раз в 15 сек.",
+        "TH": "เมื่อกำจัดศัตรูได้ จะมีโอกาส 100% ที่จะลบล้างช่วงเวลาคูลดาวน์ของ สกิลธาตุ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Bir düşman yendiğinde %100 ihtimalle Element Becerisi Bekleme Süresi sıfırlanır. 15 saniyede bir uygulanabilir.",
+        "VI": "Khi đánh bại kẻ địch, có tỷ lệ 100% xóa CD kỹ năng Nguyên Tố. Mỗi 15s mới có hiệu quả 1 lần."
+      },
+      "affixId": "2100081"
+    }
+  ]
+}

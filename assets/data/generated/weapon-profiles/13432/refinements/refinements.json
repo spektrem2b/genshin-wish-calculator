@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Busybody's Running Light",
+    "CHS": "好事者奔行灯",
+    "CHT": "好事者奔行燈",
+    "DE": "Grünes Licht für Vielbeschäftigte",
+    "ES": "Luz verde del fisgón",
+    "FR": "Feu vert de fouinard",
+    "ID": "Busybody's Running Light",
+    "IT": "Lampada del ficcanaso",
+    "JP": "好事家の奔走灯",
+    "KR": "떠도는 이야기꾼",
+    "PT": "Luz de Corrida do Curioso",
+    "RU": "Мчащийся фонарь проныры",
+    "TH": "Busybody's Running Light",
+    "TR": "İşgüzarın Seyir Işığı",
+    "VI": "Ngọn Đèn Tinh Nghịch"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increase ATK by 20% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+        "CHS": "施放元素战技时，提高20%攻击力和10%移动速度，持续10秒。",
+        "CHT": "施放元素戰技時，提高20%攻擊力和10%移動速度，持續10秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit den ANG um 20 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+        "ES": "#Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 20% y en un 10% durante 10 s.",
+        "FR": "#Augmente l'ATQ de 20 % et la VIT de déplacement de 10 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Saat melancarkan Elemental Skill, meningkatkan 20% ATK dan 10% Movement SPD selama 10 detik.",
+        "IT": "#Aumenta l'ATT di un 20% e la VEL di movimento di un 10% per 10 s quando il personaggio usa un'abilità elementale.",
+        "JP": "元素スキル発動時、攻撃力+20%、移動速度+10%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 시, 공격력이 20%, 이동 속도가 10% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta o ATQ e a Veloc. Mov. em 20% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+        "RU": "При активации элементального навыка на 10 сек. увеличивает силу атаки на 20% и скорость передвижения на 10%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 20% และความเร็วในการเคลื่อนที่จะเพิ่มขึ้น 10% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldığında 10 saniyeliğine Saldırıyı %20 ve Hareket Hızını %10 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, tăng 20% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increase ATK by 25% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+        "CHS": "施放元素战技时，提高25%攻击力和10%移动速度，持续10秒。",
+        "CHT": "施放元素戰技時，提高25%攻擊力和10%移動速度，持續10秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit den ANG um 25 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+        "ES": "#Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 25% y en un 10% durante 10 s.",
+        "FR": "#Augmente l'ATQ de 25 % et la VIT de déplacement de 10 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Saat melancarkan Elemental Skill, meningkatkan 25% ATK dan 10% Movement SPD selama 10 detik.",
+        "IT": "#Aumenta l'ATT di un 25% e la VEL di movimento di un 10% per 10 s quando il personaggio usa un'abilità elementale.",
+        "JP": "元素スキル発動時、攻撃力+25%、移動速度+10%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 시, 공격력이 25%, 이동 속도가 10% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta o ATQ e a Veloc. Mov. em 25% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+        "RU": "При активации элементального навыка на 10 сек. увеличивает силу атаки на 25% и скорость передвижения на 10%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 25% และความเร็วในการเคลื่อนที่จะเพิ่มขึ้น 10% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldığında 10 saniyeliğine Saldırıyı %25 ve Hareket Hızını %10 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, tăng 25% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increase ATK by 30% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+        "CHS": "施放元素战技时，提高30%攻击力和10%移动速度，持续10秒。",
+        "CHT": "施放元素戰技時，提高30%攻擊力和10%移動速度，持續10秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit den ANG um 30 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+        "ES": "#Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 30% y en un 10% durante 10 s.",
+        "FR": "#Augmente l'ATQ de 30 % et la VIT de déplacement de 10 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Saat melancarkan Elemental Skill, meningkatkan 30% ATK dan 10% Movement SPD selama 10 detik.",
+        "IT": "#Aumenta l'ATT di un 30% e la VEL di movimento di un 10% per 10 s quando il personaggio usa un'abilità elementale.",
+        "JP": "元素スキル発動時、攻撃力+30%、移動速度+10%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 시, 공격력이 30%, 이동 속도가 10% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta o ATQ e a Veloc. Mov. em 30% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+        "RU": "При активации элементального навыка на 10 сек. увеличивает силу атаки на 30% и скорость передвижения на 10%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 30% และความเร็วในการเคลื่อนที่จะเพิ่มขึ้น 10% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldığında 10 saniyeliğine Saldırıyı %30 ve Hareket Hızını %10 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, tăng 30% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increase ATK by 35% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+        "CHS": "施放元素战技时，提高35%攻击力和10%移动速度，持续10秒。",
+        "CHT": "施放元素戰技時，提高35%攻擊力和10%移動速度，持續10秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit den ANG um 35 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+        "ES": "#Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 35% y en un 10% durante 10 s.",
+        "FR": "#Augmente l'ATQ de 35 % et la VIT de déplacement de 10 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Saat melancarkan Elemental Skill, meningkatkan 35% ATK dan 10% Movement SPD selama 10 detik.",
+        "IT": "#Aumenta l'ATT di un 35% e la VEL di movimento di un 10% per 10 s quando il personaggio usa un'abilità elementale.",
+        "JP": "元素スキル発動時、攻撃力+35%、移動速度+10%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 시, 공격력이 35%, 이동 속도가 10% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta o ATQ e a Veloc. Mov. em 35% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+        "RU": "При активации элементального навыка на 10 сек. увеличивает силу атаки на 35% и скорость передвижения на 10%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 35% และความเร็วในการเคลื่อนที่จะเพิ่มขึ้น 10% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldığında 10 saniyeliğine Saldırıyı %35 ve Hareket Hızını %10 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, tăng 35% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increase ATK by 40% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+        "CHS": "施放元素战技时，提高40%攻击力和10%移动速度，持续10秒。",
+        "CHT": "施放元素戰技時，提高40%攻擊力和10%移動速度，持續10秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit den ANG um 40 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+        "ES": "#Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 40% y en un 10% durante 10 s.",
+        "FR": "#Augmente l'ATQ de 40 % et la VIT de déplacement de 10 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Saat melancarkan Elemental Skill, meningkatkan 40% ATK dan 10% Movement SPD selama 10 detik.",
+        "IT": "#Aumenta l'ATT di un 40% e la VEL di movimento di un 10% per 10 s quando il personaggio usa un'abilità elementale.",
+        "JP": "元素スキル発動時、攻撃力+40%、移動速度+10%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 시, 공격력이 40%, 이동 속도가 10% 증가한다. 지속 시간: 10초",
+        "PT": "Aumenta o ATQ e a Veloc. Mov. em 40% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+        "RU": "При активации элементального навыка на 10 сек. увеличивает силу атаки на 40% и скорость передвижения на 10%.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 40% และความเร็วในการเคลื่อนที่จะเพิ่มขึ้น 10% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldığında 10 saniyeliğine Saldırıyı %40 ve Hareket Hızını %10 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, tăng 40% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s."
+      }
+    }
+  ]
+}

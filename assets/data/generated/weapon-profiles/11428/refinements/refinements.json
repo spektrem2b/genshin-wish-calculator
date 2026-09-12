@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Hero's Blade",
+    "CHS": "勇者之剑",
+    "CHT": "勇者之劍",
+    "DE": "Schwert des Recken",
+    "ES": "Espada de los héroes",
+    "FR": "Lame de héros",
+    "ID": "Hero's Blade",
+    "IT": "Lama degli eroi",
+    "JP": "勇者の剣",
+    "KR": "용자의 검",
+    "PT": "Espada do Herói",
+    "RU": "Меч героя",
+    "TH": "Hero's Blade",
+    "TR": "Kahramanın Kılıcı",
+    "VI": "Lưỡi Kiếm Anh Hùng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When the equipping character does not have an Arkhe: When Normal Attacks, Charged Attacks, or Plunging Attacks strike, a Pneuma or Ousia energy blast will be unleashed, dealing 160% of ATK as DMG. This effect can be triggered once every 12s. The energy blast type is determined by the current type of the Sword of Narzissenkreuz.",
+        "CHS": "装备者不具备「始基力」时：普通攻击、重击、下落攻击命中时，会释放芒性或荒性的能量冲击，造成160%攻击力的伤害。该效果每12秒至多触发一次，能量冲击的类型由水仙十字之剑当前的属性决定。",
+        "CHT": "裝備者不具備「始基力」時：普通攻擊、重擊、下落攻擊命中時，會釋放芒性或荒性的能量衝擊，造成160%攻擊力的傷害。該效果每12秒至多觸發一次，能量衝擊的類型由水仙十字之劍目前的屬性決定。",
+        "DE": "#Wenn der Träger keine Arkhe-Energiesignatur aufweist: Löst beim Treffen mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall einen Pneuma- oder Ousia-Energiestoß aus, dessen Schaden in Höhe von 160 % ANG verursacht, 12 s Abklingzeit. Die Arkhe-Energiesignatur des Energiestoßes wird durch die aktuelle Eigenschaft des Schwertes des Narzissenkreuzes bestimmt.",
+        "ES": "#Si el portador de esta arma no tiene arjé y golpea a un enemigo con un Ataque Normal, Cargado o Descendente, liberará una explosión de energía pneuma u ousía que inflige daño equivalente al 160% de su ATQ. Este efecto solo se puede activar una vez cada 12 s, y el tipo de explosión de energía dependerá de si el tipo de energía actual de la Espada Cruz de los Narcisos es pneuma u ousía.",
+        "FR": "Si le personnage équipé de l'arme n'a pas d'Arkhe : lorsque ses attaques normales, chargées ou plongeantes touchent, une explosion d'énergie pneuma ou ousia est déclenchée, infligeant des DGT d'une valeur équivalant à 160 % de son ATQ. Cet effet peut être déclenché une fois toutes les 12 s, et le type de l'explosion d'énergie est déterminé par l'alignement actuel de la Lame du Narzissenkreuz.",
+        "ID": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 160% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+        "IT": "#Se il personaggio che equipaggia l'arma non possiede un Archè, i suoi attacchi normali, caricati o in picchiata innescano un'esplosione energetica di Pneuma o Ousia che infligge DAN pari a un 160% dell'ATT. Quest'effetto può attivarsi una volta ogni 12 s. Il tipo di esplosione energetica dipende dal tipo attuale della Spada di Narzissenkreuz.",
+        "JP": "装備者が「アルケー」属性を持たない場合、通常攻撃、重撃、落下攻撃を命中させると、プネウマ、またはウーシアのエネルギー衝撃を放ち、攻撃力160%分のダメージを与える。この効果は12秒毎に1回のみ発動可能。エネルギー衝撃の種類は、そのときの「水仙十字の剣」の属性によって決まる。",
+        "KR": "장착 캐릭터가 「아르케의 힘」 미보유 시: 일반 공격, 강공격, 낙하 공격이 적에게 명중하면 프뉴마 또는 우시아 성질의 에너지 충격을 발동해 공격력의 160%에 해당하는 피해를 준다. 해당 효과는 12초마다 최대 1회 발동된다. 에너지 충격 타입은 수선화 십자검의 현재 속성에 따라 결정된다",
+        "PT": "Quando o personagem com esta arma equipada não possui um Arkhe: quando Ataques Normais, Ataques Carregados ou Ataques Imersivos acertam, uma explosão de energia Pneuma ou Ousia será liberada, causando 160% do ATQ como Dano. Este efeito pode ser ativado uma vez a cada 12 segundos. O tipo de explosão de energia é determinado pelo tipo atual da Espada da Cruz de Narcissus.",
+        "RU": "Если у экипированного персонажа нет архэ, при попадании обычной атакой, заряженной атакой или атакой в падении происходит энергетический взрыв пневмы или усии, который наносит урон в 160% силы атаки. Эффект может возникнуть один раз в 12 сек. Тип энергетического взрыва зависит от текущего типа Меча Нарциссенкрейца.",
+        "TH": "เมื่อตัวละครที่สวมใส่ไม่มีพลังปฐมภูมิ: การโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศโดนเป้าหมาย จะปล่อยระเบิดพลังงานของพลังวิญญาณหรือพลังสสาร สร้างความเสียหาย 160% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที ประเภทของระเบิดพลังงานจะขึ้นอยู่กับคุณสมบัติของ Sword of Narzissenkreuz ในขณะนั้น",
+        "TR": "Kuşanan karakterin Arkhesi yoksa Normal, Yüklü veya Havadan Saldırılar, Saldırının %160'ı kadar Hasar veren bir Ruh veya Öz enerjisi patlaması çıkarır. Bu etki 12 saniyede bir tetiklenebilir. Enerji patlamasının türü, mevcut Nergis Haçı'nın Kılıcı türüne göre belirlenir.",
+        "VI": "Khi người trang bị không có Sức Mạnh Nền Tảng: Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp trúng đích sẽ thi triển năng lượng xung kích Pneuma hoặc Ousia, gây lượng sát thương bằng 160% tấn công. Hiệu quả này mỗi 12s tối đa kích hoạt một lần, loại năng lượng xung kích sẽ do thuộc tính hiện tại của Lưỡi Kiếm Narzissenkreuz quyết định."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When the equipping character does not have an Arkhe: When Normal Attacks, Charged Attacks, or Plunging Attacks strike, a Pneuma or Ousia energy blast will be unleashed, dealing 200% of ATK as DMG. This effect can be triggered once every 12s. The energy blast type is determined by the current type of the Sword of Narzissenkreuz.",
+        "CHS": "装备者不具备「始基力」时：普通攻击、重击、下落攻击命中时，会释放芒性或荒性的能量冲击，造成200%攻击力的伤害。该效果每12秒至多触发一次，能量冲击的类型由水仙十字之剑当前的属性决定。",
+        "CHT": "裝備者不具備「始基力」時：普通攻擊、重擊、下落攻擊命中時，會釋放芒性或荒性的能量衝擊，造成200%攻擊力的傷害。該效果每12秒至多觸發一次，能量衝擊的類型由水仙十字之劍目前的屬性決定。",
+        "DE": "#Wenn der Träger keine Arkhe-Energiesignatur aufweist: Löst beim Treffen mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall einen Pneuma- oder Ousia-Energiestoß aus, dessen Schaden in Höhe von 200 % ANG verursacht, 12 s Abklingzeit. Die Arkhe-Energiesignatur des Energiestoßes wird durch die aktuelle Eigenschaft des Schwertes des Narzissenkreuzes bestimmt.",
+        "ES": "#Si el portador de esta arma no tiene arjé y golpea a un enemigo con un Ataque Normal, Cargado o Descendente, liberará una explosión de energía pneuma u ousía que inflige daño equivalente al 200% de su ATQ. Este efecto solo se puede activar una vez cada 12 s, y el tipo de explosión de energía dependerá de si el tipo de energía actual de la Espada Cruz de los Narcisos es pneuma u ousía.",
+        "FR": "Si le personnage équipé de l'arme n'a pas d'Arkhe : lorsque ses attaques normales, chargées ou plongeantes touchent, une explosion d'énergie pneuma ou ousia est déclenchée, infligeant des DGT d'une valeur équivalant à 200 % de son ATQ. Cet effet peut être déclenché une fois toutes les 12 s, et le type de l'explosion d'énergie est déterminé par l'alignement actuel de la Lame du Narzissenkreuz.",
+        "ID": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 200% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+        "IT": "#Se il personaggio che equipaggia l'arma non possiede un Archè, i suoi attacchi normali, caricati o in picchiata innescano un'esplosione energetica di Pneuma o Ousia che infligge DAN pari a un 200% dell'ATT. Quest'effetto può attivarsi una volta ogni 12 s. Il tipo di esplosione energetica dipende dal tipo attuale della Spada di Narzissenkreuz.",
+        "JP": "装備者が「アルケー」属性を持たない場合、通常攻撃、重撃、落下攻撃を命中させると、プネウマ、またはウーシアのエネルギー衝撃を放ち、攻撃力200%分のダメージを与える。この効果は12秒毎に1回のみ発動可能。エネルギー衝撃の種類は、そのときの「水仙十字の剣」の属性によって決まる。",
+        "KR": "장착 캐릭터가 「아르케의 힘」 미보유 시: 일반 공격, 강공격, 낙하 공격이 적에게 명중하면 프뉴마 또는 우시아 성질의 에너지 충격을 발동해 공격력의 200%에 해당하는 피해를 준다. 해당 효과는 12초마다 최대 1회 발동된다. 에너지 충격 타입은 수선화 십자검의 현재 속성에 따라 결정된다",
+        "PT": "Quando o personagem com esta arma equipada não possui um Arkhe: quando Ataques Normais, Ataques Carregados ou Ataques Imersivos acertam, uma explosão de energia Pneuma ou Ousia será liberada, causando 200% do ATQ como Dano. Este efeito pode ser ativado uma vez a cada 12 segundos. O tipo de explosão de energia é determinado pelo tipo atual da Espada da Cruz de Narcissus.",
+        "RU": "Если у экипированного персонажа нет архэ, при попадании обычной атакой, заряженной атакой или атакой в падении происходит энергетический взрыв пневмы или усии, который наносит урон в 200% силы атаки. Эффект может возникнуть один раз в 12 сек. Тип энергетического взрыва зависит от текущего типа Меча Нарциссенкрейца.",
+        "TH": "เมื่อตัวละครที่สวมใส่ไม่มีพลังปฐมภูมิ: การโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศโดนเป้าหมาย จะปล่อยระเบิดพลังงานของพลังวิญญาณหรือพลังสสาร สร้างความเสียหาย 200% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที ประเภทของระเบิดพลังงานจะขึ้นอยู่กับคุณสมบัติของ Sword of Narzissenkreuz ในขณะนั้น",
+        "TR": "Kuşanan karakterin Arkhesi yoksa Normal, Yüklü veya Havadan Saldırılar, Saldırının %200'ü kadar Hasar veren bir Ruh veya Öz enerjisi patlaması çıkarır. Bu etki 12 saniyede bir tetiklenebilir. Enerji patlamasının türü, mevcut Nergis Haçı'nın Kılıcı türüne göre belirlenir.",
+        "VI": "Khi người trang bị không có Sức Mạnh Nền Tảng: Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp trúng đích sẽ thi triển năng lượng xung kích Pneuma hoặc Ousia, gây lượng sát thương bằng 200% tấn công. Hiệu quả này mỗi 12s tối đa kích hoạt một lần, loại năng lượng xung kích sẽ do thuộc tính hiện tại của Lưỡi Kiếm Narzissenkreuz quyết định."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When the equipping character does not have an Arkhe: When Normal Attacks, Charged Attacks, or Plunging Attacks strike, a Pneuma or Ousia energy blast will be unleashed, dealing 240% of ATK as DMG. This effect can be triggered once every 12s. The energy blast type is determined by the current type of the Sword of Narzissenkreuz.",
+        "CHS": "装备者不具备「始基力」时：普通攻击、重击、下落攻击命中时，会释放芒性或荒性的能量冲击，造成240%攻击力的伤害。该效果每12秒至多触发一次，能量冲击的类型由水仙十字之剑当前的属性决定。",
+        "CHT": "裝備者不具備「始基力」時：普通攻擊、重擊、下落攻擊命中時，會釋放芒性或荒性的能量衝擊，造成240%攻擊力的傷害。該效果每12秒至多觸發一次，能量衝擊的類型由水仙十字之劍目前的屬性決定。",
+        "DE": "#Wenn der Träger keine Arkhe-Energiesignatur aufweist: Löst beim Treffen mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall einen Pneuma- oder Ousia-Energiestoß aus, dessen Schaden in Höhe von 240 % ANG verursacht, 12 s Abklingzeit. Die Arkhe-Energiesignatur des Energiestoßes wird durch die aktuelle Eigenschaft des Schwertes des Narzissenkreuzes bestimmt.",
+        "ES": "#Si el portador de esta arma no tiene arjé y golpea a un enemigo con un Ataque Normal, Cargado o Descendente, liberará una explosión de energía pneuma u ousía que inflige daño equivalente al 240% de su ATQ. Este efecto solo se puede activar una vez cada 12 s, y el tipo de explosión de energía dependerá de si el tipo de energía actual de la Espada Cruz de los Narcisos es pneuma u ousía.",
+        "FR": "Si le personnage équipé de l'arme n'a pas d'Arkhe : lorsque ses attaques normales, chargées ou plongeantes touchent, une explosion d'énergie pneuma ou ousia est déclenchée, infligeant des DGT d'une valeur équivalant à 240 % de son ATQ. Cet effet peut être déclenché une fois toutes les 12 s, et le type de l'explosion d'énergie est déterminé par l'alignement actuel de la Lame du Narzissenkreuz.",
+        "ID": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 240% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+        "IT": "#Se il personaggio che equipaggia l'arma non possiede un Archè, i suoi attacchi normali, caricati o in picchiata innescano un'esplosione energetica di Pneuma o Ousia che infligge DAN pari a un 240% dell'ATT. Quest'effetto può attivarsi una volta ogni 12 s. Il tipo di esplosione energetica dipende dal tipo attuale della Spada di Narzissenkreuz.",
+        "JP": "装備者が「アルケー」属性を持たない場合、通常攻撃、重撃、落下攻撃を命中させると、プネウマ、またはウーシアのエネルギー衝撃を放ち、攻撃力240%分のダメージを与える。この効果は12秒毎に1回のみ発動可能。エネルギー衝撃の種類は、そのときの「水仙十字の剣」の属性によって決まる。",
+        "KR": "장착 캐릭터가 「아르케의 힘」 미보유 시: 일반 공격, 강공격, 낙하 공격이 적에게 명중하면 프뉴마 또는 우시아 성질의 에너지 충격을 발동해 공격력의 240%에 해당하는 피해를 준다. 해당 효과는 12초마다 최대 1회 발동된다. 에너지 충격 타입은 수선화 십자검의 현재 속성에 따라 결정된다",
+        "PT": "Quando o personagem com esta arma equipada não possui um Arkhe: quando Ataques Normais, Ataques Carregados ou Ataques Imersivos acertam, uma explosão de energia Pneuma ou Ousia será liberada, causando 240% do ATQ como Dano. Este efeito pode ser ativado uma vez a cada 12 segundos. O tipo de explosão de energia é determinado pelo tipo atual da Espada da Cruz de Narcissus.",
+        "RU": "Если у экипированного персонажа нет архэ, при попадании обычной атакой, заряженной атакой или атакой в падении происходит энергетический взрыв пневмы или усии, который наносит урон в 240% силы атаки. Эффект может возникнуть один раз в 12 сек. Тип энергетического взрыва зависит от текущего типа Меча Нарциссенкрейца.",
+        "TH": "เมื่อตัวละครที่สวมใส่ไม่มีพลังปฐมภูมิ: การโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศโดนเป้าหมาย จะปล่อยระเบิดพลังงานของพลังวิญญาณหรือพลังสสาร สร้างความเสียหาย 240% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที ประเภทของระเบิดพลังงานจะขึ้นอยู่กับคุณสมบัติของ Sword of Narzissenkreuz ในขณะนั้น",
+        "TR": "Kuşanan karakterin Arkhesi yoksa Normal, Yüklü veya Havadan Saldırılar, Saldırının %240'ı kadar Hasar veren bir Ruh veya Öz enerjisi patlaması çıkarır. Bu etki 12 saniyede bir tetiklenebilir. Enerji patlamasının türü, mevcut Nergis Haçı'nın Kılıcı türüne göre belirlenir.",
+        "VI": "Khi người trang bị không có Sức Mạnh Nền Tảng: Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp trúng đích sẽ thi triển năng lượng xung kích Pneuma hoặc Ousia, gây lượng sát thương bằng 240% tấn công. Hiệu quả này mỗi 12s tối đa kích hoạt một lần, loại năng lượng xung kích sẽ do thuộc tính hiện tại của Lưỡi Kiếm Narzissenkreuz quyết định."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When the equipping character does not have an Arkhe: When Normal Attacks, Charged Attacks, or Plunging Attacks strike, a Pneuma or Ousia energy blast will be unleashed, dealing 280% of ATK as DMG. This effect can be triggered once every 12s. The energy blast type is determined by the current type of the Sword of Narzissenkreuz.",
+        "CHS": "装备者不具备「始基力」时：普通攻击、重击、下落攻击命中时，会释放芒性或荒性的能量冲击，造成280%攻击力的伤害。该效果每12秒至多触发一次，能量冲击的类型由水仙十字之剑当前的属性决定。",
+        "CHT": "裝備者不具備「始基力」時：普通攻擊、重擊、下落攻擊命中時，會釋放芒性或荒性的能量衝擊，造成280%攻擊力的傷害。該效果每12秒至多觸發一次，能量衝擊的類型由水仙十字之劍目前的屬性決定。",
+        "DE": "#Wenn der Träger keine Arkhe-Energiesignatur aufweist: Löst beim Treffen mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall einen Pneuma- oder Ousia-Energiestoß aus, dessen Schaden in Höhe von 280 % ANG verursacht, 12 s Abklingzeit. Die Arkhe-Energiesignatur des Energiestoßes wird durch die aktuelle Eigenschaft des Schwertes des Narzissenkreuzes bestimmt.",
+        "ES": "#Si el portador de esta arma no tiene arjé y golpea a un enemigo con un Ataque Normal, Cargado o Descendente, liberará una explosión de energía pneuma u ousía que inflige daño equivalente al 280% de su ATQ. Este efecto solo se puede activar una vez cada 12 s, y el tipo de explosión de energía dependerá de si el tipo de energía actual de la Espada Cruz de los Narcisos es pneuma u ousía.",
+        "FR": "Si le personnage équipé de l'arme n'a pas d'Arkhe : lorsque ses attaques normales, chargées ou plongeantes touchent, une explosion d'énergie pneuma ou ousia est déclenchée, infligeant des DGT d'une valeur équivalant à 280 % de son ATQ. Cet effet peut être déclenché une fois toutes les 12 s, et le type de l'explosion d'énergie est déterminé par l'alignement actuel de la Lame du Narzissenkreuz.",
+        "ID": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 280% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+        "IT": "#Se il personaggio che equipaggia l'arma non possiede un Archè, i suoi attacchi normali, caricati o in picchiata innescano un'esplosione energetica di Pneuma o Ousia che infligge DAN pari a un 280% dell'ATT. Quest'effetto può attivarsi una volta ogni 12 s. Il tipo di esplosione energetica dipende dal tipo attuale della Spada di Narzissenkreuz.",
+        "JP": "装備者が「アルケー」属性を持たない場合、通常攻撃、重撃、落下攻撃を命中させると、プネウマ、またはウーシアのエネルギー衝撃を放ち、攻撃力280%分のダメージを与える。この効果は12秒毎に1回のみ発動可能。エネルギー衝撃の種類は、そのときの「水仙十字の剣」の属性によって決まる。",
+        "KR": "장착 캐릭터가 「아르케의 힘」 미보유 시: 일반 공격, 강공격, 낙하 공격이 적에게 명중하면 프뉴마 또는 우시아 성질의 에너지 충격을 발동해 공격력의 280%에 해당하는 피해를 준다. 해당 효과는 12초마다 최대 1회 발동된다. 에너지 충격 타입은 수선화 십자검의 현재 속성에 따라 결정된다",
+        "PT": "Quando o personagem com esta arma equipada não possui um Arkhe: quando Ataques Normais, Ataques Carregados ou Ataques Imersivos acertam, uma explosão de energia Pneuma ou Ousia será liberada, causando 280% do ATQ como Dano. Este efeito pode ser ativado uma vez a cada 12 segundos. O tipo de explosão de energia é determinado pelo tipo atual da Espada da Cruz de Narcissus.",
+        "RU": "Если у экипированного персонажа нет архэ, при попадании обычной атакой, заряженной атакой или атакой в падении происходит энергетический взрыв пневмы или усии, который наносит урон в 280% силы атаки. Эффект может возникнуть один раз в 12 сек. Тип энергетического взрыва зависит от текущего типа Меча Нарциссенкрейца.",
+        "TH": "เมื่อตัวละครที่สวมใส่ไม่มีพลังปฐมภูมิ: การโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศโดนเป้าหมาย จะปล่อยระเบิดพลังงานของพลังวิญญาณหรือพลังสสาร สร้างความเสียหาย 280% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที ประเภทของระเบิดพลังงานจะขึ้นอยู่กับคุณสมบัติของ Sword of Narzissenkreuz ในขณะนั้น",
+        "TR": "Kuşanan karakterin Arkhesi yoksa Normal, Yüklü veya Havadan Saldırılar, Saldırının %280'i kadar Hasar veren bir Ruh veya Öz enerjisi patlaması çıkarır. Bu etki 12 saniyede bir tetiklenebilir. Enerji patlamasının türü, mevcut Nergis Haçı'nın Kılıcı türüne göre belirlenir.",
+        "VI": "Khi người trang bị không có Sức Mạnh Nền Tảng: Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp trúng đích sẽ thi triển năng lượng xung kích Pneuma hoặc Ousia, gây lượng sát thương bằng 280% tấn công. Hiệu quả này mỗi 12s tối đa kích hoạt một lần, loại năng lượng xung kích sẽ do thuộc tính hiện tại của Lưỡi Kiếm Narzissenkreuz quyết định."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When the equipping character does not have an Arkhe: When Normal Attacks, Charged Attacks, or Plunging Attacks strike, a Pneuma or Ousia energy blast will be unleashed, dealing 320% of ATK as DMG. This effect can be triggered once every 12s. The energy blast type is determined by the current type of the Sword of Narzissenkreuz.",
+        "CHS": "装备者不具备「始基力」时：普通攻击、重击、下落攻击命中时，会释放芒性或荒性的能量冲击，造成320%攻击力的伤害。该效果每12秒至多触发一次，能量冲击的类型由水仙十字之剑当前的属性决定。",
+        "CHT": "裝備者不具備「始基力」時：普通攻擊、重擊、下落攻擊命中時，會釋放芒性或荒性的能量衝擊，造成320%攻擊力的傷害。該效果每12秒至多觸發一次，能量衝擊的類型由水仙十字之劍目前的屬性決定。",
+        "DE": "#Wenn der Träger keine Arkhe-Energiesignatur aufweist: Löst beim Treffen mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall einen Pneuma- oder Ousia-Energiestoß aus, dessen Schaden in Höhe von 320 % ANG verursacht, 12 s Abklingzeit. Die Arkhe-Energiesignatur des Energiestoßes wird durch die aktuelle Eigenschaft des Schwertes des Narzissenkreuzes bestimmt.",
+        "ES": "#Si el portador de esta arma no tiene arjé y golpea a un enemigo con un Ataque Normal, Cargado o Descendente, liberará una explosión de energía pneuma u ousía que inflige daño equivalente al 320% de su ATQ. Este efecto solo se puede activar una vez cada 12 s, y el tipo de explosión de energía dependerá de si el tipo de energía actual de la Espada Cruz de los Narcisos es pneuma u ousía.",
+        "FR": "Si le personnage équipé de l'arme n'a pas d'Arkhe : lorsque ses attaques normales, chargées ou plongeantes touchent, une explosion d'énergie pneuma ou ousia est déclenchée, infligeant des DGT d'une valeur équivalant à 320 % de son ATQ. Cet effet peut être déclenché une fois toutes les 12 s, et le type de l'explosion d'énergie est déterminé par l'alignement actuel de la Lame du Narzissenkreuz.",
+        "ID": "Saat Karakter yang mengenakan tidak memiliki Arkhe: Saat Normal Attack, Charged Attack, atau Plunging Attack mengenai musuh, akan melancarkan Energy Blast Pneuma atau Ousia yang mengakibatkan DMG sebesar 320% ATK. Efek ini dapat terpicu sekali setiap 12 detik. Tipe Energy Blast ditentukan oleh tipe Sword of Narzissenkreuz saat ini.",
+        "IT": "#Se il personaggio che equipaggia l'arma non possiede un Archè, i suoi attacchi normali, caricati o in picchiata innescano un'esplosione energetica di Pneuma o Ousia che infligge DAN pari a un 320% dell'ATT. Quest'effetto può attivarsi una volta ogni 12 s. Il tipo di esplosione energetica dipende dal tipo attuale della Spada di Narzissenkreuz.",
+        "JP": "装備者が「アルケー」属性を持たない場合、通常攻撃、重撃、落下攻撃を命中させると、プネウマ、またはウーシアのエネルギー衝撃を放ち、攻撃力320%分のダメージを与える。この効果は12秒毎に1回のみ発動可能。エネルギー衝撃の種類は、そのときの「水仙十字の剣」の属性によって決まる。",
+        "KR": "장착 캐릭터가 「아르케의 힘」 미보유 시: 일반 공격, 강공격, 낙하 공격이 적에게 명중하면 프뉴마 또는 우시아 성질의 에너지 충격을 발동해 공격력의 320%에 해당하는 피해를 준다. 해당 효과는 12초마다 최대 1회 발동된다. 에너지 충격 타입은 수선화 십자검의 현재 속성에 따라 결정된다",
+        "PT": "Quando o personagem com esta arma equipada não possui um Arkhe: quando Ataques Normais, Ataques Carregados ou Ataques Imersivos acertam, uma explosão de energia Pneuma ou Ousia será liberada, causando 320% do ATQ como Dano. Este efeito pode ser ativado uma vez a cada 12 segundos. O tipo de explosão de energia é determinado pelo tipo atual da Espada da Cruz de Narcissus.",
+        "RU": "Если у экипированного персонажа нет архэ, при попадании обычной атакой, заряженной атакой или атакой в падении происходит энергетический взрыв пневмы или усии, который наносит урон в 320% силы атаки. Эффект может возникнуть один раз в 12 сек. Тип энергетического взрыва зависит от текущего типа Меча Нарциссенкрейца.",
+        "TH": "เมื่อตัวละครที่สวมใส่ไม่มีพลังปฐมภูมิ: การโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศโดนเป้าหมาย จะปล่อยระเบิดพลังงานของพลังวิญญาณหรือพลังสสาร สร้างความเสียหาย 320% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 12 วินาที ประเภทของระเบิดพลังงานจะขึ้นอยู่กับคุณสมบัติของ Sword of Narzissenkreuz ในขณะนั้น",
+        "TR": "Kuşanan karakterin Arkhesi yoksa Normal, Yüklü veya Havadan Saldırılar, Saldırının %320'si kadar Hasar veren bir Ruh veya Öz enerjisi patlaması çıkarır. Bu etki 12 saniyede bir tetiklenebilir. Enerji patlamasının türü, mevcut Nergis Haçı'nın Kılıcı türüne göre belirlenir.",
+        "VI": "Khi người trang bị không có Sức Mạnh Nền Tảng: Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp trúng đích sẽ thi triển năng lượng xung kích Pneuma hoặc Ousia, gây lượng sát thương bằng 320% tấn công. Hiệu quả này mỗi 12s tối đa kích hoạt một lần, loại năng lượng xung kích sẽ do thuộc tính hiện tại của Lưỡi Kiếm Narzissenkreuz quyết định."
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000005-geo",
+  "name": {
+    "EN": "Traveler",
+    "CHS": "旅行者",
+    "CHT": "旅行者",
+    "DE": "Reisender",
+    "ES": "Viajero",
+    "FR": "Voyageur",
+    "ID": "Pengembara",
+    "IT": "Viaggiatore",
+    "JP": "旅人",
+    "KR": "여행자",
+    "PT": "Viajante",
+    "RU": "Путешественник",
+    "TH": "นักเดินทาง",
+    "TR": "Gezgin",
+    "VI": "Nhà Lữ Hành"
+  },
+  "nameEn": "Traveler",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "MAINACTOR",
+  "birthday": {
+    "month": 0,
+    "day": 0
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000005-pyro/avatar.webp",
+  "fullWish": "generated/character-profiles/10000005-pyro/full_wish.webp",
+  "fullWishObjectPosition": "47.6% 8.1%",
+  "title": {
+    "EN": "",
+    "CHS": "",
+    "CHT": "",
+    "DE": "",
+    "ES": "",
+    "FR": "",
+    "ID": "",
+    "IT": "",
+    "JP": "",
+    "KR": "",
+    "PT": "",
+    "RU": "",
+    "TH": "",
+    "TR": "",
+    "VI": ""
+  },
+  "description": {
+    "EN": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "CHS": "从世界之外漂流而来的旅行者，被神带走血亲，自此踏上寻找七神之路。",
+    "CHT": "從世界之外漂流而來的旅行者，被神帶走血親，自此踏上尋找七神之路。",
+    "DE": "Ein Reisender weit entfernt von der Heimat auf der Suche nach den Sieben, um seine Schwester wiederzufinden.",
+    "ES": "Un viajero de otro mundo al que arrebataron su única familia, y que se vio obligado a embarcarse en un viaje en busca de Los Siete.",
+    "FR": "Un voyageur venant d'un autre monde qui a été séparé de sa sœur. Il débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de la retrouver.",
+    "ID": "Seorang pengembara yang berasal dari dunia lain, saudara satu-satunya yang ia miliki dirampas dari hadapannya oleh sesosok dewa, dan kini ia mengembara untuk mencari The Seven.",
+    "IT": "Un viaggiatore di un altro mondo. Qualcuno gli ha strappato via la sua unica parente, e ora è costretto a intraprendere un viaggio alla ricerca dei Sette.",
+    "JP": "世界の外から漂流してきた旅人。肉親が見知らぬ神に連れ去られたため、七神を探す旅に出た。",
+    "KR": "다른 세계에서 건너온 여행자. 신에 의해 가족을 빼앗긴 뒤 일곱 신을 찾는 여정에 오른다",
+    "PT": "Um Viajante de outro mundo que teve seu ente querido levado e foi forçado a embarcar em uma jornada em busca dos Sete.",
+    "RU": "Путешественник из другого мира, разлучённый со своей сестрой. Он отправляется в долгое путешествие, чтобы найти всех семерых Архонтов и вернуть родного человека.",
+    "TH": "นักเดินทางจากต่างโลกผู้ถูกเทพปริศนาพรากพี่น้องร่วมสายเลือดเพียงหนึ่งเดียวไป จึงจำใจต้องออกเดินทางเพื่อตามหาเทพทั้ง 7",
+    "TR": "Ailesinden geriye kalan son kişi elinden alındığı için Yedileri bulmak üzere bir yolculuğa çıkan, başka dünyadan gelen bir gezgin.",
+    "VI": "Nhà Lữ Hành lưu lạc đến đây từ thế giới khác, bị Thần cướp mất người thân, từ đó bước vào con đường đi tìm 7 vị Thần."
+  },
+  "constellationName": {
+    "EN": "Viator",
+    "CHS": "旅人座",
+    "CHT": "旅人座",
+    "DE": "Viator",
+    "ES": "Viator",
+    "FR": "Viator",
+    "ID": "Viator",
+    "IT": "Viator",
+    "JP": "旅人座",
+    "KR": "나그네자리",
+    "PT": "Viator",
+    "RU": "Звёздный Путник",
+    "TH": "Viator",
+    "TR": "Gezgin",
+    "VI": "Cung Lữ Khách"
+  },
+  "native": {
+    "EN": "-",
+    "CHS": "——",
+    "CHT": "——",
+    "DE": "——",
+    "ES": "—",
+    "FR": "——",
+    "ID": "—",
+    "IT": "-",
+    "JP": "——",
+    "KR": "——",
+    "PT": "——",
+    "RU": "——",
+    "TH": "—",
+    "TR": "-",
+    "VI": "——"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Zach Aguilar & Various Artists"
+    },
+    {
+      "lang": "CHS",
+      "va": "鹿喑 & 多多poi"
+    },
+    {
+      "lang": "JP",
+      "va": "堀江瞬 & 古賀葵"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Kyeong-tae & Kim Ka-ryoung"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 911.791,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.808,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 57.225,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

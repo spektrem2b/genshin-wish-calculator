@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Fall Into Place",
+    "CHS": "迎刃而解",
+    "CHT": "迎刃而解",
+    "DE": "Lösung mit einem Schlag",
+    "ES": "Fácil solución",
+    "FR": "Tout s'imbrique",
+    "ID": "Fall Into Place",
+    "IT": "Incastro perfetto",
+    "JP": "快刀乱麻",
+    "KR": "단칼에 해결",
+    "PT": "Solução dos Problemas",
+    "RU": "Мгновенное решение",
+    "TH": "Fall Into Place",
+    "TR": "Taşlar Yerine Oturduğunda",
+    "VI": "Đón Đao Giải Thoát"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Elemental Mastery by 60 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 60. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，元素精通提升60点。月兆·满辉：该效果中的元素精通额外提升60点。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，元素精通提升60點。月兆·滿輝：該效果中的元素精通額外提升60點。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die Elementarkunde um 60 Punkte. Mondomen – Reifer Glanz: Erhöht die Elementarkunde während des Effekts zusätzlich um 60 Punkte. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental aumenta en 60 pts. durante 12 s. Con “presagio lunar: resplandor ascendente”, la Maestría Elemental otorgada por este efecto aumenta en 60 pts. adicionales. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire de 60 pts pendant 12 s. Signelune « Lueur ascendante » : la maîtrise élémentaire de cet effet augmente de 60 pts supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery +60 poin selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Elemental Mastery dari efek ini bertambah 60 poin lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta la maestria elementale di 60 per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, la maestria elementale di questo effetto aumenta di ulteriori 60 punti. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、元素熟知+60。月兆・満照：上記の元素熟知アップ効果がさらに+60。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 원소 마스터리가 60pt 증가한다. 달빛 징조·보름: 해당 효과 중 원소 마스터리가 추가로 60pt 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de causar uma reação Elemental, aumenta a Proficiência Elemental em 60. Presságio Lunar: Reluzir Cheio: esse efeito aumenta Proficiência Elemental em mais 60. Esse efeito pode ser ativado mesmo quando o personagem que está com essa arma equipada não estiver ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий повышается на 60 ед. Лунное знамение - Высшее сияние: мастерство стихий от данного эффекта дополнительно повышается на 60 ед. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 60 หน่วย ลัคนาจันทร์ - จรัสแสง: ความชำนาญธาตุจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 60 หน่วย เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Element Ustalığı 60 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Element Ustalığı artışı 60 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Tinh Thông Nguyên Tố tăng 60 điểm. Nguyệt Triệu - Rực Sáng: Tinh Thông Nguyên Tố của hiệu quả này tăng thêm 60 điểm. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Elemental Mastery by 75 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 75. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，元素精通提升75点。月兆·满辉：该效果中的元素精通额外提升75点。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，元素精通提升75點。月兆·滿輝：該效果中的元素精通額外提升75點。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die Elementarkunde um 75 Punkte. Mondomen – Reifer Glanz: Erhöht die Elementarkunde während des Effekts zusätzlich um 75 Punkte. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental aumenta en 75 pts. durante 12 s. Con “presagio lunar: resplandor ascendente”, la Maestría Elemental otorgada por este efecto aumenta en 75 pts. adicionales. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire de 75 pts pendant 12 s. Signelune « Lueur ascendante » : la maîtrise élémentaire de cet effet augmente de 75 pts supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery +75 poin selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Elemental Mastery dari efek ini bertambah 75 poin lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta la maestria elementale di 75 per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, la maestria elementale di questo effetto aumenta di ulteriori 75 punti. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、元素熟知+75。月兆・満照：上記の元素熟知アップ効果がさらに+75。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 원소 마스터리가 75pt 증가한다. 달빛 징조·보름: 해당 효과 중 원소 마스터리가 추가로 75pt 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de causar uma reação Elemental, aumenta a Proficiência Elemental em 75. Presságio Lunar: Reluzir Cheio: esse efeito aumenta Proficiência Elemental em mais 75. Esse efeito pode ser ativado mesmo quando o personagem que está com essa arma equipada não estiver ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий повышается на 75 ед. Лунное знамение - Высшее сияние: мастерство стихий от данного эффекта дополнительно повышается на 75 ед. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 75 หน่วย ลัคนาจันทร์ - จรัสแสง: ความชำนาญธาตุจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 75 หน่วย เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Element Ustalığı 75 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Element Ustalığı artışı 75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Tinh Thông Nguyên Tố tăng 75 điểm. Nguyệt Triệu - Rực Sáng: Tinh Thông Nguyên Tố của hiệu quả này tăng thêm 75 điểm. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Elemental Mastery by 90 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 90. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，元素精通提升90点。月兆·满辉：该效果中的元素精通额外提升90点。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，元素精通提升90點。月兆·滿輝：該效果中的元素精通額外提升90點。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die Elementarkunde um 90 Punkte. Mondomen – Reifer Glanz: Erhöht die Elementarkunde während des Effekts zusätzlich um 90 Punkte. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental aumenta en 90 pts. durante 12 s. Con “presagio lunar: resplandor ascendente”, la Maestría Elemental otorgada por este efecto aumenta en 90 pts. adicionales. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire de 90 pts pendant 12 s. Signelune « Lueur ascendante » : la maîtrise élémentaire de cet effet augmente de 90 pts supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery +90 poin selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Elemental Mastery dari efek ini bertambah 90 poin lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta la maestria elementale di 90 per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, la maestria elementale di questo effetto aumenta di ulteriori 90 punti. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、元素熟知+90。月兆・満照：上記の元素熟知アップ効果がさらに+90。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 원소 마스터리가 90pt 증가한다. 달빛 징조·보름: 해당 효과 중 원소 마스터리가 추가로 90pt 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de causar uma reação Elemental, aumenta a Proficiência Elemental em 90. Presságio Lunar: Reluzir Cheio: esse efeito aumenta Proficiência Elemental em mais 90. Esse efeito pode ser ativado mesmo quando o personagem que está com essa arma equipada não estiver ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий повышается на 90 ед. Лунное знамение - Высшее сияние: мастерство стихий от данного эффекта дополнительно повышается на 90 ед. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 90 หน่วย ลัคนาจันทร์ - จรัสแสง: ความชำนาญธาตุจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 90 หน่วย เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Element Ustalığı 90 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Element Ustalığı artışı 90 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Tinh Thông Nguyên Tố tăng 90 điểm. Nguyệt Triệu - Rực Sáng: Tinh Thông Nguyên Tố của hiệu quả này tăng thêm 90 điểm. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Elemental Mastery by 105 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 105. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，元素精通提升105点。月兆·满辉：该效果中的元素精通额外提升105点。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，元素精通提升105點。月兆·滿輝：該效果中的元素精通額外提升105點。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die Elementarkunde um 105 Punkte. Mondomen – Reifer Glanz: Erhöht die Elementarkunde während des Effekts zusätzlich um 105 Punkte. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental aumenta en 105 pts. durante 12 s. Con “presagio lunar: resplandor ascendente”, la Maestría Elemental otorgada por este efecto aumenta en 105 pts. adicionales. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire de 105 pts pendant 12 s. Signelune « Lueur ascendante » : la maîtrise élémentaire de cet effet augmente de 105 pts supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery +105 poin selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Elemental Mastery dari efek ini bertambah 105 poin lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta la maestria elementale di 105 per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, la maestria elementale di questo effetto aumenta di ulteriori 105 punti. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、元素熟知+105。月兆・満照：上記の元素熟知アップ効果がさらに+105。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 원소 마스터리가 105pt 증가한다. 달빛 징조·보름: 해당 효과 중 원소 마스터리가 추가로 105pt 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de causar uma reação Elemental, aumenta a Proficiência Elemental em 105. Presságio Lunar: Reluzir Cheio: esse efeito aumenta Proficiência Elemental em mais 105. Esse efeito pode ser ativado mesmo quando o personagem que está com essa arma equipada não estiver ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий повышается на 105 ед. Лунное знамение - Высшее сияние: мастерство стихий от данного эффекта дополнительно повышается на 105 ед. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 105 หน่วย ลัคนาจันทร์ - จรัสแสง: ความชำนาญธาตุจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 105 หน่วย เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Element Ustalığı 105 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Element Ustalığı artışı 105 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Tinh Thông Nguyên Tố tăng 105 điểm. Nguyệt Triệu - Rực Sáng: Tinh Thông Nguyên Tố của hiệu quả này tăng thêm 105 điểm. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Upon causing an Elemental Reaction, increases Elemental Mastery by 120 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 120. This effect can be triggered even if the equipping character is off-field.",
+        "CHS": "触发元素反应后的12秒内，元素精通提升120点。月兆·满辉：该效果中的元素精通额外提升120点。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應後的12秒內，元素精通提升120點。月兆·滿輝：該效果中的元素精通額外提升120點。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht nach Auslösen der Elementarreaktion 12 s lang die Elementarkunde um 120 Punkte. Mondomen – Reifer Glanz: Erhöht die Elementarkunde während des Effekts zusätzlich um 120 Punkte. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental aumenta en 120 pts. durante 12 s. Con “presagio lunar: resplandor ascendente”, la Maestría Elemental otorgada por este efecto aumenta en 120 pts. adicionales. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire de 120 pts pendant 12 s. Signelune « Lueur ascendante » : la maîtrise élémentaire de cet effet augmente de 120 pts supplémentaires. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery +120 poin selama 12 detik. Moonsign: Ascendant Gleam: Peningkatan Elemental Mastery dari efek ini bertambah 120 poin lagi. Efek di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver innescato una reazione elementale, aumenta la maestria elementale di 120 per 12 s. Quando Presagio lunare: Barlume ascendente è attivo, la maestria elementale di questo effetto aumenta di ulteriori 120 punti. L'effetto si innesca anche quando il personaggio che equipaggia l'arma non è in campo.",
+        "JP": "元素反応を起こした後の12秒間、元素熟知+120。月兆・満照：上記の元素熟知アップ効果がさらに+120。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 원소 마스터리가 120pt 증가한다. 달빛 징조·보름: 해당 효과 중 원소 마스터리가 추가로 120pt 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Nos 12s depois de causar uma reação Elemental, aumenta a Proficiência Elemental em 120. Presságio Lunar: Reluzir Cheio: esse efeito aumenta Proficiência Elemental em mais 120. Esse efeito pode ser ativado mesmo quando o personagem que está com essa arma equipada não estiver ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий повышается на 120 ед. Лунное знамение - Высшее сияние: мастерство стихий от данного эффекта дополнительно повышается на 120 ед. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาที หลังจากตัวละครทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 120 หน่วย ลัคนาจันทร์ - จรัสแสง: ความชำนาญธาตุจากเอฟเฟกต์นี้จะเพิ่มขึ้นอีก 120 หน่วย เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca Element Ustalığı 120 artar. Ay Sembolü: Yükselen Parıltı: Bu etkinin sağladığı Element Ustalığı artışı 120 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 12s sau khi kích hoạt phản ứng nguyên tố, Tinh Thông Nguyên Tố tăng 120 điểm. Nguyệt Triệu - Rực Sáng: Tinh Thông Nguyên Tố của hiệu quả này tăng thêm 120 điểm. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    }
+  ]
+}

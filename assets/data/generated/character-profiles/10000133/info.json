@@ -1,0 +1,137 @@
+{
+  "id": "10000133",
+  "name": {
+    "EN": "Sandrone",
+    "CHS": "桑多涅",
+    "CHT": "桑多涅",
+    "DE": "Sandrone",
+    "ES": "Sandrone",
+    "FR": "Sandrone",
+    "ID": "Sandrone",
+    "IT": "Sandrone",
+    "JP": "サンドローネ",
+    "KR": "산드로네",
+    "PT": "Sandrone",
+    "RU": "Сандроне",
+    "TH": "Sandrone",
+    "TR": "Sandrone",
+    "VI": "Sandrone"
+  },
+  "nameEn": "Sandrone",
+  "element": "Cryo",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "SNEZHNAYA_STAR",
+  "birthday": {
+    "month": 1,
+    "day": 13
+  },
+  "release": "2026-06-29T21:00:00",
+  "icon": "generated/character-profiles/10000133/avatar.webp",
+  "fullWish": "generated/character-profiles/10000133/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Mirrored Analysis",
+    "CHS": "镜水析谬",
+    "CHT": "鏡水析謬",
+    "DE": "Gespiegelte Analyse",
+    "ES": "La Analizadora de Reflejos",
+    "FR": "Analyse miroir",
+    "ID": "Mirrored Analysis",
+    "IT": "Analisi speculare",
+    "JP": "鏡水の解明",
+    "KR": "물에 비친 연산식",
+    "PT": "Análise Espelhada",
+    "RU": "Зеркальный анализ",
+    "TH": "พิเคราะห์ส่องสะท้อน",
+    "TR": "Yansımalı Analiz",
+    "VI": "Gương Soi Nỗi Lòng"
+  },
+  "description": {
+    "EN": "The Seventh of the Fatui Harbingers, \"Marionette.\" Interprets all phenomena through the prism of mathematics, and is an elegant lady who is never absent from a tea party.",
+    "CHS": "愚人众执行官第七席，「木偶」。以数理解析事象之人，茶会上永不缺席的优雅淑女。",
+    "CHT": "愚人眾執行官第七席，「木偶」。以數理解析事象之人，茶會上永不缺席的優雅淑女。",
+    "DE": "Die Siebte unter den Elf der Fatui, „Marionette“. Eine Person, die alle Phänomene aus mathematischer Perspektive analysiert, und eine elegante Dame, die auf keiner Teegesellschaft fehlt.",
+    "ES": "La séptima de Los Once de los Fatui, conocida como “La Títere”. Además de interpretar todos los fenómenos a través del prisma de las matemáticas, es una elegante dama que nunca falta a las horas del té.",
+    "FR": "Sandrone, 7e Exécutrice des Fatui. Elle interprète chaque chose à travers le prisme des mathématiques. Une femme élégante qui ne manque jamais l'heure du thé.",
+    "ID": "Harbinger Fatui ke-7, \"Marionette\". Sosok yang menafsirkan segala fenomena melalui sudut pandang matematika, sekaligus seorang wanita elegan yang tak pernah absen dari pesta teh.",
+    "IT": "La settima dei Messaggeri dei Fatui, nota come la \"Marionetta\". Interpreta tutti i fenomeni attraverso il prisma della matematica, ed è un'elegante dama che non manca mai a un ricevimento.",
+    "JP": "ファデュイ執行官第七位「傀儡」。数理をもって万象を解析し、お茶会には決まって顔を出す優雅な淑女。",
+    "KR": "우인단 집행관 서열 7위 「산드로네」. 모든 현상을 이성과 숫자로 해석하는 자이자, 티타임에 결코 빠지지 않는 우아한 숙녀",
+    "PT": "A sétima dos Mensageiros Fatui, \"Marionette\". Uma estudiosa que analisa os fenômenos do mundo através da matemática e das ciências, e uma dama elegante que nunca falta a uma festa do chá.",
+    "RU": "Марионетка, номер семь из Предвестников Фатуи. Утончённая леди, которая постигает мир математикой, логикой и никогда не пропускает чаепития.",
+    "TH": "\"Marionette\" ผู้บริหารอันดับที่เจ็ดของ Fatui ผู้ไขความลับของทุกสิ่ง ด้วยหลักคณิตศาสตร์ และสุภาพสตรีผู้สง่างาม ที่ไม่เคยว่างเว้นจากงานเลี้ยงน้ำชา",
+    "TR": "Fatui Habercilerinin Yedincisi, \"Kukla\". Tüm olayları matematiğin prizmasından yorumlayan ve hiçbir çay saatini kaçırmayan zarif bir hanımefendi.",
+    "VI": "Quan Chấp Hành thứ bảy của Fatui, Sandrone. Người dùng toán học để phân tích mọi sự vật, một quý cô thanh lịch chưa bao giờ vắng mặt trong buổi tiệc trà."
+  },
+  "constellationName": {
+    "EN": "Narcissorolegium",
+    "CHS": "镜中奇械座",
+    "CHT": "鏡中奇械座",
+    "DE": "Narcissorolegium",
+    "ES": "Narcissorolegium",
+    "FR": "Narcissorolegium",
+    "ID": "Narcissorolegium",
+    "IT": "Narcissorolegium",
+    "JP": "鏡の国の奇械座",
+    "KR": "거울 속 자동인형자리",
+    "PT": "Narcissorolegium",
+    "RU": "Зазеркальный Механизм",
+    "TH": "Narcissorolegium",
+    "TR": "Kurmalı Nergis",
+    "VI": "Cung Kính Trung Kỳ Giới"
+  },
+  "native": {
+    "EN": "Fatui",
+    "CHS": "愚人众",
+    "CHT": "愚人眾",
+    "DE": "Fatui",
+    "ES": "Fatui",
+    "FR": "Fatui",
+    "ID": "Fatui",
+    "IT": "Fatui",
+    "JP": "ファデュイ",
+    "KR": "우인단",
+    "PT": "Fatui",
+    "RU": "Фатуи",
+    "TH": "Fatui",
+    "TR": "Fatui",
+    "VI": "Fatui"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Deneen Melody"
+    },
+    {
+      "lang": "CHS",
+      "va": "洪海天"
+    },
+    {
+      "lang": "JP",
+      "va": "本多真梨子"
+    },
+    {
+      "lang": "KR",
+      "va": "Kang Eun-ae"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1029.5856,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.6266,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 58.57357,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

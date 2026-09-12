@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Arrowless Song",
+    "CHS": "无矢之歌",
+    "CHT": "無矢之歌",
+    "DE": "Pfeilloser Gesang",
+    "ES": "Canción sin flechas",
+    "FR": "Chanson sans flèche",
+    "ID": "Arrowless Song",
+    "IT": "Canzone senza frecce",
+    "JP": "矢なしの詩",
+    "KR": "무형 화살의 노래",
+    "PT": "Canção Sem Flechas",
+    "RU": "Песнь без стрел",
+    "TH": "Arrowless Song",
+    "TR": "Oksuz Şarkı",
+    "VI": "Bài Ca Không Tên"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Skill and Elemental Burst DMG by 24%.",
+        "CHS": "元素战技与元素爆发的伤害提高24%。",
+        "CHT": "元素戰技與元素爆發的傷害提高24%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten um 24 %.",
+        "ES": "Aumenta en un 24% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 24 %.",
+        "ID": "Meningkatkan 24% DMG Elemental Skill dan Elemental Burst.",
+        "IT": "Aumenta i DAN di abilità elementale e Tripudio elementale di un 24%.",
+        "JP": "元素スキルと元素爆発のダメージ+24%。",
+        "KR": "원소전투 스킬과 원소폭발 피해가 24% 증가한다",
+        "PT": "Aumenta o Dano da Habilidade Elemental e do Supremo em 24%.",
+        "RU": "Увеличивает урон элементального навыка и взрыва стихии на 24%.",
+        "TH": "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 24%",
+        "TR": "Element Becerisi ve Element Patlaması Hasarını %24 artırır.",
+        "VI": "Tăng 24% sát thương kỹ năng Nguyên Tố và kỹ năng nộ."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Skill and Elemental Burst DMG by 30%.",
+        "CHS": "元素战技与元素爆发的伤害提高30%。",
+        "CHT": "元素戰技與元素爆發的傷害提高30%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten um 30 %.",
+        "ES": "Aumenta en un 30% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 30 %.",
+        "ID": "Meningkatkan 30% DMG Elemental Skill dan Elemental Burst.",
+        "IT": "Aumenta i DAN di abilità elementale e Tripudio elementale di un 30%.",
+        "JP": "元素スキルと元素爆発のダメージ+30%。",
+        "KR": "원소전투 스킬과 원소폭발 피해가 30% 증가한다",
+        "PT": "Aumenta o Dano da Habilidade Elemental e do Supremo em 30%.",
+        "RU": "Увеличивает урон элементального навыка и взрыва стихии на 30%.",
+        "TH": "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 30%",
+        "TR": "Element Becerisi ve Element Patlaması Hasarını %30 artırır.",
+        "VI": "Tăng 30% sát thương kỹ năng Nguyên Tố và kỹ năng nộ."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Skill and Elemental Burst DMG by 36%.",
+        "CHS": "元素战技与元素爆发的伤害提高36%。",
+        "CHT": "元素戰技與元素爆發的傷害提高36%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten um 36 %.",
+        "ES": "Aumenta en un 36% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 36 %.",
+        "ID": "Meningkatkan 36% DMG Elemental Skill dan Elemental Burst.",
+        "IT": "Aumenta i DAN di abilità elementale e Tripudio elementale di un 36%.",
+        "JP": "元素スキルと元素爆発のダメージ+36%。",
+        "KR": "원소전투 스킬과 원소폭발 피해가 36% 증가한다",
+        "PT": "Aumenta o Dano da Habilidade Elemental e do Supremo em 36%.",
+        "RU": "Увеличивает урон элементального навыка и взрыва стихии на 36%.",
+        "TH": "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 36%",
+        "TR": "Element Becerisi ve Element Patlaması Hasarını %36 artırır.",
+        "VI": "Tăng 36% sát thương kỹ năng Nguyên Tố và kỹ năng nộ."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Skill and Elemental Burst DMG by 42%.",
+        "CHS": "元素战技与元素爆发的伤害提高42%。",
+        "CHT": "元素戰技與元素爆發的傷害提高42%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten um 42 %.",
+        "ES": "Aumenta en un 42% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 42 %.",
+        "ID": "Meningkatkan 42% DMG Elemental Skill dan Elemental Burst.",
+        "IT": "Aumenta i DAN di abilità elementale e Tripudio elementale di un 42%.",
+        "JP": "元素スキルと元素爆発のダメージ+42%。",
+        "KR": "원소전투 스킬과 원소폭발 피해가 42% 증가한다",
+        "PT": "Aumenta o Dano da Habilidade Elemental e do Supremo em 42%.",
+        "RU": "Увеличивает урон элементального навыка и взрыва стихии на 42%.",
+        "TH": "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 42%",
+        "TR": "Element Becerisi ve Element Patlaması Hasarını %42 artırır.",
+        "VI": "Tăng 42% sát thương kỹ năng Nguyên Tố và kỹ năng nộ."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Skill and Elemental Burst DMG by 48%.",
+        "CHS": "元素战技与元素爆发的伤害提高48%。",
+        "CHT": "元素戰技與元素爆發的傷害提高48%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten um 48 %.",
+        "ES": "Aumenta en un 48% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 48 %.",
+        "ID": "Meningkatkan 48% DMG Elemental Skill dan Elemental Burst.",
+        "IT": "Aumenta i DAN di abilità elementale e Tripudio elementale di un 48%.",
+        "JP": "元素スキルと元素爆発のダメージ+48%。",
+        "KR": "원소전투 스킬과 원소폭발 피해가 48% 증가한다",
+        "PT": "Aumenta o Dano da Habilidade Elemental e do Supremo em 48%.",
+        "RU": "Увеличивает урон элементального навыка и взрыва стихии на 48%.",
+        "TH": "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 48%",
+        "TR": "Element Becerisi ve Element Patlaması Hasarını %48 artırır.",
+        "VI": "Tăng 48% sát thương kỹ năng Nguyên Tố và kỹ năng nộ."
+      }
+    }
+  ]
+}

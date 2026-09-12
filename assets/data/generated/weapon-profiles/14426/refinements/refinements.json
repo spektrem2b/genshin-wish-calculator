@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Azure Skies",
+    "CHS": "蔚蓝深空",
+    "CHT": "蔚藍深空",
+    "DE": "Tiefblauer Himmel",
+    "ES": "Cielo añil",
+    "FR": "Cieux azuréens",
+    "ID": "Azure Skies",
+    "IT": "Cieli azzurri",
+    "JP": "紺碧の空",
+    "KR": "푸른 심공",
+    "PT": "Céu Azul",
+    "RU": "Лазурные небеса",
+    "TH": "Azure Skies",
+    "TR": "Masmavi Gökyüzü",
+    "VI": "Bầu Trời Trong Xanh"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 8% and Charged Attack DMG will be increased by 6%. Max 3 stacks. This effect can be triggered once every 0.3s.",
+        "CHS": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升8%，重击造成的伤害提升6%。该效果至多叠加3次，每0.3秒至多触发一次。",
+        "CHT": "普通攻擊或重擊命中敵人後的6秒內，普通攻擊造成的傷害提升8%，重擊造成的傷害提升6%。該效果至多疊加3次，每0.3秒至多觸發一次。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen 6 s lang um 8 % und den mit heftigen Schlägen verursachten Schaden um 6 %. 3-fach stapelbar, 0,3 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo con un Ataque Normal o Cargado, el daño de Ataque Normal aumenta en un 8% y el de Ataque Cargado, en un 6%. Este efecto dura 6 s, puede acumularse hasta 3 veces y solo se puede activar una vez cada 0.3 s.",
+        "FR": "#Toucher un ennemi avec une attaque normale ou chargée augmente les DGT infligés par les attaques normales de 8 % et ceux infligés par les attaques chargées de 6 %, pendant 6 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s.",
+        "ID": "Selama 6 detik setelah Normal Attack atau Charged Attack mengenai musuh, DMG Normal Attack meningkat 8% dan DMG Charged Attack meningkat 6%. Efek ini dapat ditumpuk sampai 3 lapis dan dapat terpicu sekali setiap 0,3 detik.",
+        "IT": "#Entro 6 s dopo aver colpito un avversario con un attacco normale o caricato, i DAN da attacco normale e caricato aumentano rispettivamente di un 8% e di un 6%. Massimo 3 accumuli. Quest'effetto può attivarsi una volta ogni 0,3 s.",
+        "JP": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+8%、重撃のダメージ+6%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+        "KR": "일반 공격 또는 강공격이 적에게 명중 후 6초 동안, 일반 공격으로 주는 피해가 8% 증가하고, 강공격으로 주는 피해가 6% 증가한다. 최대 중첩수: 3회. 0.3초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Normal ou Carregado atingir um inimigo, aumenta o Dano causado pelo Ataque Normal em 8% e o Dano causado pelo Ataque Carregado em 6%. Esse efeito pode ser acumulado até 3 vezes e desencadeado uma vez a cada 0.3s.",
+        "RU": "В течение 6 сек. после попадания обычной или заряженной атаки по противнику урон обычной атаки повысится на 8%, а урон заряженной атаки - на 6%. Эффект может складываться до 3 раз и возникает один раз в 0,3 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากการโจมตีปกติหรือชาร์จโจมตีถูกศัตรู ความเสียหายที่เกิดจากการโจมตีปกติจะเพิ่มขึ้น 8% และความเสียหายที่เกิดจากการชาร์จโจมตีจะเพิ่มขึ้น 6% เอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ครั้ง และจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.3 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar bir düşmana isabet ettikten sonraki 6 saniye boyunca Normal Saldırı Hasarı %8, Yüklü Saldırı Hasarı %6 artar. En fazla 3 kademeye kadar birikir. Bu etki her 0,3 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi tấn công thường hoặc trọng kích trúng địch, sát thương tấn công thường tăng 8%, sát thương trọng kích tăng 6%. Hiệu quả này tối đa cộng dồn 3 lần, mỗi 0.3s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 10% and Charged Attack DMG will be increased by 7.5%. Max 3 stacks. This effect can be triggered once every 0.3s.",
+        "CHS": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升10%，重击造成的伤害提升7.5%。该效果至多叠加3次，每0.3秒至多触发一次。",
+        "CHT": "普通攻擊或重擊命中敵人後的6秒內，普通攻擊造成的傷害提升10%，重擊造成的傷害提升7.5%。該效果至多疊加3次，每0.3秒至多觸發一次。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen 6 s lang um 10 % und den mit heftigen Schlägen verursachten Schaden um 7,5 %. 3-fach stapelbar, 0,3 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo con un Ataque Normal o Cargado, el daño de Ataque Normal aumenta en un 10% y el de Ataque Cargado, en un 7.5%. Este efecto dura 6 s, puede acumularse hasta 3 veces y solo se puede activar una vez cada 0.3 s.",
+        "FR": "Toucher un ennemi avec une attaque normale ou chargée augmente les DGT infligés par les attaques normales de 10 % et ceux infligés par les attaques chargées de 7,5 %, pendant 6 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s.",
+        "ID": "Selama 6 detik setelah Normal Attack atau Charged Attack mengenai musuh, DMG Normal Attack meningkat 10% dan DMG Charged Attack meningkat 7,5%. Efek ini dapat ditumpuk sampai 3 lapis dan dapat terpicu sekali setiap 0,3 detik.",
+        "IT": "#Entro 6 s dopo aver colpito un avversario con un attacco normale o caricato, i DAN da attacco normale e caricato aumentano rispettivamente di un 10% e di un 7,5%. Massimo 3 accumuli. Quest'effetto può attivarsi una volta ogni 0,3 s.",
+        "JP": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+10%、重撃のダメージ+7.5%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+        "KR": "일반 공격 또는 강공격이 적에게 명중 후 6초 동안, 일반 공격으로 주는 피해가 10% 증가하고, 강공격으로 주는 피해가 7.5% 증가한다. 최대 중첩수: 3회. 0.3초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Normal ou Carregado atingir um inimigo, aumenta o Dano causado pelo Ataque Normal em 10% e o Dano causado pelo Ataque Carregado em 7.5%. Esse efeito pode ser acumulado até 3 vezes e desencadeado uma vez a cada 0.3s.",
+        "RU": "В течение 6 сек. после попадания обычной или заряженной атаки по противнику урон обычной атаки повысится на 10%, а урон заряженной атаки - на 7,5%. Эффект может складываться до 3 раз и возникает один раз в 0,3 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากการโจมตีปกติหรือชาร์จโจมตีถูกศัตรู ความเสียหายที่เกิดจากการโจมตีปกติจะเพิ่มขึ้น 10% และความเสียหายที่เกิดจากการชาร์จโจมตีจะเพิ่มขึ้น 7.5% เอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ครั้ง และจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.3 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar bir düşmana isabet ettikten sonraki 6 saniye boyunca Normal Saldırı Hasarı %10, Yüklü Saldırı Hasarı %7,5 artar. En fazla 3 kademeye kadar birikir. Bu etki her 0,3 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi tấn công thường hoặc trọng kích trúng địch, sát thương tấn công thường tăng 10%, sát thương trọng kích tăng 7.5%. Hiệu quả này tối đa cộng dồn 3 lần, mỗi 0.3s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 12% and Charged Attack DMG will be increased by 9%. Max 3 stacks. This effect can be triggered once every 0.3s.",
+        "CHS": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升12%，重击造成的伤害提升9%。该效果至多叠加3次，每0.3秒至多触发一次。",
+        "CHT": "普通攻擊或重擊命中敵人後的6秒內，普通攻擊造成的傷害提升12%，重擊造成的傷害提升9%。該效果至多疊加3次，每0.3秒至多觸發一次。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen 6 s lang um 12 % und den mit heftigen Schlägen verursachten Schaden um 9 %. 3-fach stapelbar, 0,3 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo con un Ataque Normal o Cargado, el daño de Ataque Normal aumenta en un 12% y el de Ataque Cargado, en un 9%. Este efecto dura 6 s, puede acumularse hasta 3 veces y solo se puede activar una vez cada 0.3 s.",
+        "FR": "#Toucher un ennemi avec une attaque normale ou chargée augmente les DGT infligés par les attaques normales de 12 % et ceux infligés par les attaques chargées de 9 %, pendant 6 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s.",
+        "ID": "Selama 6 detik setelah Normal Attack atau Charged Attack mengenai musuh, DMG Normal Attack meningkat 12% dan DMG Charged Attack meningkat 9%. Efek ini dapat ditumpuk sampai 3 lapis dan dapat terpicu sekali setiap 0,3 detik.",
+        "IT": "#Entro 6 s dopo aver colpito un avversario con un attacco normale o caricato, i DAN da attacco normale e caricato aumentano rispettivamente di un 12% e di un 9%. Massimo 3 accumuli. Quest'effetto può attivarsi una volta ogni 0,3 s.",
+        "JP": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+12%、重撃のダメージ+9%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+        "KR": "일반 공격 또는 강공격이 적에게 명중 후 6초 동안, 일반 공격으로 주는 피해가 12% 증가하고, 강공격으로 주는 피해가 9% 증가한다. 최대 중첩수: 3회. 0.3초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Normal ou Carregado atingir um inimigo, aumenta o Dano causado pelo Ataque Normal em 12% e o Dano causado pelo Ataque Carregado em 9%. Esse efeito pode ser acumulado até 3 vezes e desencadeado uma vez a cada 0.3s.",
+        "RU": "В течение 6 сек. после попадания обычной или заряженной атаки по противнику урон обычной атаки повысится на 12%, а урон заряженной атаки - на 9%. Эффект может складываться до 3 раз и возникает один раз в 0,3 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากการโจมตีปกติหรือชาร์จโจมตีถูกศัตรู ความเสียหายที่เกิดจากการโจมตีปกติจะเพิ่มขึ้น 12% และความเสียหายที่เกิดจากการชาร์จโจมตีจะเพิ่มขึ้น 9% เอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ครั้ง และจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.3 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar bir düşmana isabet ettikten sonraki 6 saniye boyunca Normal Saldırı Hasarı %12, Yüklü Saldırı Hasarı %9 artar. En fazla 3 kademeye kadar birikir. Bu etki her 0,3 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi tấn công thường hoặc trọng kích trúng địch, sát thương tấn công thường tăng 12%, sát thương trọng kích tăng 9%. Hiệu quả này tối đa cộng dồn 3 lần, mỗi 0.3s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 14% and Charged Attack DMG will be increased by 10.5%. Max 3 stacks. This effect can be triggered once every 0.3s.",
+        "CHS": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升14%，重击造成的伤害提升10.5%。该效果至多叠加3次，每0.3秒至多触发一次。",
+        "CHT": "普通攻擊或重擊命中敵人後的6秒內，普通攻擊造成的傷害提升14%，重擊造成的傷害提升10.5%。該效果至多疊加3次，每0.3秒至多觸發一次。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen 6 s lang um 14 % und den mit heftigen Schlägen verursachten Schaden um 10,5 %. 3-fach stapelbar, 0,3 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo con un Ataque Normal o Cargado, el daño de Ataque Normal aumenta en un 14% y el de Ataque Cargado, en un 10.5%. Este efecto dura 6 s, puede acumularse hasta 3 veces y solo se puede activar una vez cada 0.3 s.",
+        "FR": "#Toucher un ennemi avec une attaque normale ou chargée augmente les DGT infligés par les attaques normales de 14 % et ceux infligés par les attaques chargées de 10,5 %, pendant 6 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s.",
+        "ID": "Selama 6 detik setelah Normal Attack atau Charged Attack mengenai musuh, DMG Normal Attack meningkat 14% dan DMG Charged Attack meningkat 10,5%. Efek ini dapat ditumpuk sampai 3 lapis dan dapat terpicu sekali setiap 0,3 detik.",
+        "IT": "#Entro 6 s dopo aver colpito un avversario con un attacco normale o caricato, i DAN da attacco normale e caricato aumentano rispettivamente di un 14% e di un 10,5%. Massimo 3 accumuli. Quest'effetto può attivarsi una volta ogni 0,3 s.",
+        "JP": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+14%、重撃のダメージ+10.5%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+        "KR": "일반 공격 또는 강공격이 적에게 명중 후 6초 동안, 일반 공격으로 주는 피해가 14% 증가하고, 강공격으로 주는 피해가 10.5% 증가한다. 최대 중첩수: 3회. 0.3초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Normal ou Carregado atingir um inimigo, aumenta o Dano causado pelo Ataque Normal em 14% e o Dano causado pelo Ataque Carregado em 10.5%. Esse efeito pode ser acumulado até 3 vezes e desencadeado uma vez a cada 0.3s.",
+        "RU": "В течение 6 сек. после попадания обычной или заряженной атаки по противнику урон обычной атаки повысится на 14%, а урон заряженной атаки - на 10,5%. Эффект может складываться до 3 раз и возникает один раз в 0,3 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากการโจมตีปกติหรือชาร์จโจมตีถูกศัตรู ความเสียหายที่เกิดจากการโจมตีปกติจะเพิ่มขึ้น 14% และความเสียหายที่เกิดจากการชาร์จโจมตีจะเพิ่มขึ้น 10.5% เอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ครั้ง และจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.3 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar bir düşmana isabet ettikten sonraki 6 saniye boyunca Normal Saldırı Hasarı %14, Yüklü Saldırı Hasarı %10,5 artar. En fazla 3 kademeye kadar birikir. Bu etki her 0,3 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi tấn công thường hoặc trọng kích trúng địch, sát thương tấn công thường tăng 14%, sát thương trọng kích tăng 10.5%. Hiệu quả này tối đa cộng dồn 3 lần, mỗi 0.3s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 16% and Charged Attack DMG will be increased by 12%. Max 3 stacks. This effect can be triggered once every 0.3s.",
+        "CHS": "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升16%，重击造成的伤害提升12%。该效果至多叠加3次，每0.3秒至多触发一次。",
+        "CHT": "普通攻擊或重擊命中敵人後的6秒內，普通攻擊造成的傷害提升16%，重擊造成的傷害提升12%。該效果至多疊加3次，每0.3秒至多觸發一次。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen 6 s lang um 16 % und den mit heftigen Schlägen verursachten Schaden um 12 %. 3-fach stapelbar, 0,3 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo con un Ataque Normal o Cargado, el daño de Ataque Normal aumenta en un 16% y el de Ataque Cargado, en un 12%. Este efecto dura 6 s, puede acumularse hasta 3 veces y solo se puede activar una vez cada 0.3 s.",
+        "FR": "#Toucher un ennemi avec une attaque normale ou chargée augmente les DGT infligés par les attaques normales de 16 % et ceux infligés par les attaques chargées de 12 %, pendant 6 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s.",
+        "ID": "Selama 6 detik setelah Normal Attack atau Charged Attack mengenai musuh, DMG Normal Attack meningkat 16% dan DMG Charged Attack meningkat 12%. Efek ini dapat ditumpuk sampai 3 lapis dan dapat terpicu sekali setiap 0,3 detik.",
+        "IT": "#Entro 6 s dopo aver colpito un avversario con un attacco normale o caricato, i DAN da attacco normale e caricato aumentano rispettivamente di un 16% e di un 12%. Massimo 3 accumuli. Quest'effetto può attivarsi una volta ogni 0,3 s.",
+        "JP": "通常攻撃または重撃が敵に命中した6秒間、通常攻撃のダメージ+16%、重撃のダメージ+12%。この効果は最大3重まで、0.3秒毎に1回のみ発動可能。",
+        "KR": "일반 공격 또는 강공격이 적에게 명중 후 6초 동안, 일반 공격으로 주는 피해가 16% 증가하고, 강공격으로 주는 피해가 12% 증가한다. 최대 중첩수: 3회. 0.3초마다 최대 1회 발동된다",
+        "PT": "Nos 6s após um Ataque Normal ou Carregado atingir um inimigo, aumenta o Dano causado pelo Ataque Normal em 16% e o Dano causado pelo Ataque Carregado em 12%. Esse efeito pode ser acumulado até 3 vezes e desencadeado uma vez a cada 0.3s.",
+        "RU": "В течение 6 сек. после попадания обычной или заряженной атаки по противнику урон обычной атаки повысится на 16%, а урон заряженной атаки - на 12%. Эффект может складываться до 3 раз и возникает один раз в 0,3 сек.",
+        "TH": "ภายใน 6 วินาที หลังจากการโจมตีปกติหรือชาร์จโจมตีถูกศัตรู ความเสียหายที่เกิดจากการโจมตีปกติจะเพิ่มขึ้น 16% และความเสียหายที่เกิดจากการชาร์จโจมตีจะเพิ่มขึ้น 12% เอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ครั้ง และจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.3 วินาที",
+        "TR": "Normal ve Yüklü Saldırılar bir düşmana isabet ettikten sonraki 6 saniye boyunca Normal Saldırı Hasarı %16, Yüklü Saldırı Hasarı %12 artar. En fazla 3 kademeye kadar birikir. Bu etki her 0,3 saniyede bir tetiklenebilir.",
+        "VI": "Trong 6s sau khi tấn công thường hoặc trọng kích trúng địch, sát thương tấn công thường tăng 16%, sát thương trọng kích tăng 12%. Hiệu quả này tối đa cộng dồn 3 lần, mỗi 0.3s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

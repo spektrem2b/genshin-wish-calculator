@@ -1,0 +1,137 @@
+{
+  "id": "10000101",
+  "name": {
+    "EN": "Kinich",
+    "CHS": "基尼奇",
+    "CHT": "基尼奇",
+    "DE": "Kinich",
+    "ES": "Kinich",
+    "FR": "Kinich",
+    "ID": "Kinich",
+    "IT": "Kinich",
+    "JP": "キィニチ",
+    "KR": "키니치",
+    "PT": "Kinich",
+    "RU": "Кинич",
+    "TH": "Kinich",
+    "TR": "Kinich",
+    "VI": "Kinich"
+  },
+  "nameEn": "Kinich",
+  "element": "Dendro",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 11,
+    "day": 11
+  },
+  "release": "2024-09-17T15:00:00",
+  "icon": "generated/character-profiles/10000101/avatar.webp",
+  "fullWish": "generated/character-profiles/10000101/full_wish.webp",
+  "fullWishObjectPosition": "50.3% 19.5%",
+  "title": {
+    "EN": "Turnfire Hunt",
+    "CHS": "回火之狩",
+    "CHT": "回火之狩",
+    "DE": "Wendefeuerjagd",
+    "ES": "El Cazador del Fuego Reminiscente",
+    "FR": "Chasseur du mnémofeu",
+    "ID": "Turnfire Hunt",
+    "IT": "Cacciatore del Voltafuoco",
+    "JP": "廻焔を継ぐ狩人",
+    "KR": "회고의 불 사냥꾼",
+    "PT": "Caçador da Têmpera",
+    "RU": "Охотник Пламени поворота",
+    "TH": "นักล่าเพลิงหวน",
+    "TR": "Bedel Ateşi Avı",
+    "VI": "Thợ Săn Hồi Hỏa"
+  },
+  "description": {
+    "EN": "A Huitztlan Saurian Hunter skilled at counting costs.",
+    "CHS": "维茨特兰的猎龙人，精于度量代价。",
+    "CHT": "維茨特蘭的獵龍人，精於度量代價。",
+    "DE": "Ein Saurierjäger der Huitztlan, der gut darin ist, den richtigen Preis zu finden.",
+    "ES": "Un cazasaurios de Huitztlán experto en calcular el precio de las cosas.",
+    "FR": "Un chasseur de sauriens des Huitztlans qui excelle en calcul des coûts.",
+    "ID": "Pemburu Saurian dari Huitztlan, ahli dalam menghitung biaya.",
+    "IT": "Un Cacciatore di Saurici di Huitztlan, abile nel valutare i costi.",
+    "JP": "ウィッツトランの竜狩り人。代償を量ることに長けている。",
+    "KR": "위칠틀란의 용 사냥꾼. 대가를 계산하는데 능하다",
+    "PT": "Um Caçador de Saurianos de Huitztlan, é habilidoso em contar custos.",
+    "RU": "Охотник на заврианов из Уитцтлана. Всегда знает, какую цену назначить.",
+    "TH": "นักล่า Saurian แห่ง Huitztlan ผู้เชี่ยวชาญด้านการประเมินราคา",
+    "TR": "Huitztlan'ın bedel hesaplama konusunda yetenekli Sürüngen Avcısı.",
+    "VI": "Thợ Săn Saurian của Huitztlan, giỏi đo lường cái giá phải trả."
+  },
+  "constellationName": {
+    "EN": "Chimaera Alebriius",
+    "CHS": "幻瑞兽座",
+    "CHT": "幻瑞獸座",
+    "DE": "Chimaera Alebriius",
+    "ES": "Chimaera Alebriius",
+    "FR": "Chimaera Alebriius",
+    "ID": "Chimaera Alebriius",
+    "IT": "Chimaera Alebriius",
+    "JP": "キメラ·アレブリヘス座",
+    "KR": "알레브리헤자리",
+    "PT": "Chimaera Alebriius",
+    "RU": "Химера Алебрихе",
+    "TH": "Chimaera Alebriius",
+    "TR": "Kimera",
+    "VI": "Cung Huyễn Thụy Thú"
+  },
+  "native": {
+    "EN": "Huitztlan",
+    "CHS": "维茨特兰",
+    "CHT": "維茨特蘭",
+    "DE": "Huitztlan",
+    "ES": "Huitztlán",
+    "FR": "Huitztlan",
+    "ID": "Huitztlan",
+    "IT": "Huitztlan",
+    "JP": "ウィッツトラン",
+    "KR": "위칠틀란",
+    "PT": "Huitztlan",
+    "RU": "Уитцтлан",
+    "TH": "Huitztlan",
+    "TR": "Huitztlan",
+    "VI": "Huitztlan"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Jacob Takanashi & Abby Espiritu"
+    },
+    {
+      "lang": "CHS",
+      "va": "斑马 & 弭洋"
+    },
+    {
+      "lang": "JP",
+      "va": "杉山紀彰 & 竹内順子"
+    },
+    {
+      "lang": "KR",
+      "va": "Kang Seong-woo & Park Li-na"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1000.986,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 25.8818,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.40269,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 15044,
+  "name": {
+    "EN": "A Day Carved From Rising Winds",
+    "CHS": "风起之日",
+    "CHT": "風起之日",
+    "DE": "Tag des aufkommenden Windes",
+    "ES": "Día de los Vientos Alzantes",
+    "FR": "Journée sculptée par les vents ascendants",
+    "ID": "A Day Carved From Rising Winds",
+    "IT": "Un giorno scolpito dai venti ascendenti",
+    "JP": "風立ちの日",
+    "KR": "바람이 시작되는 날",
+    "PT": "Ascensão Zéfira",
+    "RU": "День восходящих ветров",
+    "TH": "A Day Carved From Rising Winds",
+    "TR": "Rüzgarların Şekillendirdiği Bir Gün",
+    "VI": "Ngày Nổi Gió"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15044/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "#Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%",
+        "RU": "Увеличивает силу атаки на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn công tăng 18%."
+      },
+      "affixId": "2150440"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After a Normal Attack, Charged Attack, Elemental Skill, or Elemental Burst hits an opponent, gain the Blessing of Pastoral Winds effect for 6s: ATK is increased by 25%. If the equipping character has completed Witch's Homework, Blessing of Pastoral Winds will be upgraded to Resolve of Pastoral Winds, which additionally increases the CRIT Rate of the equipping character by 20%. This effect can be triggered even when the character is off-field.",
+        "CHS": "普通攻击、重击、元素战技或元素爆发命中敌人后，将获得持续6秒的「风与牧歌的眷怜」：攻击力提高25%。若装备者已经完成了「魔女的课业」，则「风与牧歌的眷怜」将会升级为「风与牧歌的决意」，额外使通过考验的装备者的暴击率提升20%。装备者处于队伍后台时，也能触发上述效果。",
+        "CHT": "普通攻擊、重擊、元素戰技或元素爆發命中敵人後，將獲得持續6秒的「風與牧歌的眷憐」：攻擊力提高25%。若裝備者已經完成了「魔女的課業」，則「風與牧歌的眷憐」將會升級為「風與牧歌的決意」，額外使通過考驗的裝備者的暴擊率提升20%。裝備者處於隊伍後臺時，也能觸發上述效果。",
+        "DE": "#Verleiht nach Treffen von Gegnern mit einem Standardangriff, heftigen Schlag, einer Elementarfähigkeit oder Spezialfähigkeit 6 s lang „Segen des Windes und des Hirtengesangs“: Erhöht den ANG um 25 %. Verbessert, wenn der Träger „Aufgabe der Hexe“ bereits abgeschlossen hat, „Segen des Windes und des Hirtengesangs“ zu „Willen des Windes und des Hirtengesangs“ und erhöht zusätzlich die KT des Trägers, der die Prüfung bestanden hat, um 20 %. Diese Effekte können auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Normal o Cargado o con la Habilidad Elemental o Definitiva, se obtiene el efecto de “bendición del viento y la poesía” durante 6 s, el cual aumenta el ATQ en un 25%. Si el portador de este conjunto ya ha completado la misión de «Lecciones del Aquelarre», dicho efecto mejorará y se convertirá en “determinación del viento y la poesía”, el cual aumenta adicionalmente en un 20% la Prob. CRIT del portador que haya superado dicha prueba. Este efecto se puede activar incluso cuando el portador está en tu equipo pero no en uso.",
+        "FR": "Toucher un ennemi avec une attaque normale, une attaque chargée, une compétence élémentaire ou un déchaînement élémentaire accorde l'effet Bénédiction des vents pastoraux pendant 6 s : augmente l'ATQ de 25 %. Si le personnage équipé de l'artéfact a terminé son devoir de la sorcière, l'effet est converti en l'effet Détermination des vents pastoraux, augmentant en plus le taux CRIT de 20 %. Les effets décrits ci-dessus peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Normal Attack, Charged Attack, Elemental Skill, atau Elemental Burst mengenai musuh, akan mendapatkan efek \"Blessing of Pastoral Winds\" selama 6 detik: ATK +25%. Jika Karakter yang mengenakan sudah menyelesaikan \"PR Penyihir\", maka Blessing of Pastoral Winds akan meningkat menjadi \"Resolve of Pastoral Winds\" yang juga akan meningkatkan CRIT Rate Karakter yang mengenakan sebesar 20%. Efek ini juga dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver colpito un avversario con un attacco normale, un attacco caricato, un'abilità o un Tripudio elementale, il personaggio che equipaggia il set ottiene l'effetto Benedizioni dei venti pastorali per 6 s, che aumenta l'ATT di un 25%. Se il personaggio ha completato i Compiti della strega, Benedizioni dei venti pastorali viene potenziato in Determinazione dei venti pastorali, che fornisce al personaggio anche un 20% di tasso di CRIT aggiuntivo. L'effetto può attivarsi anche quando il personaggio non è in campo.",
+        "JP": "通常攻撃、重撃、元素スキル、または元素爆発が敵に命中すると、継続時間6秒の「風と牧歌の寵愛」を獲得する。「風と牧歌の寵愛」：攻撃力+25%。装備者が「魔女の課題」をクリアしている場合、「風と牧歌の寵愛」は「風と牧歌の決意」に強化され、「魔女の課題」をクリアした装備者の会心率+20%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "일반 공격, 강공격, 원소전투 스킬 또는 원소폭발이 적 명중 후, 6초 동안 지속되는 「바람과 목가의 가호」를 획득한다: 공격력이 25% 증가한다. 장착 캐릭터가 「마녀의 과제」를 완료했을 경우, 「바람과 목가의 가호」가 「바람과 목가의 결의」로 강화되어, 과제를 통과한 장착 캐릭터의 치명타 확률이 추가로 20% 증가한다. 상술한 효과는 장착 캐릭터가 대기 상태일 때에도 발동된다",
+        "PT": "Quando o Ataque Normal, Carregado, Habilidade Elemental ou Supremo atingem o inimigo, obtém o efeito Piedade do Vento e Pastoreio por 6s: aumenta o ATQ em 25%. Se o portador já tiver concluído a Tarefa da Bruxa, Piedade do Vento e Pastoreio será elevado para Determinação do Vento e Pastoreio, aumentando a Taxa CRIT do portador que passou pelo teste em 20%. Esse efeito pode ser desencadeado mesmo quando o portador não é o personagem ativo.",
+        "RU": "На 6 сек. после попадания обычной атакой, заряженной атакой, элементальным навыком или взрывом стихии по противнику создаётся эффект Благословения пасторальных ветров: сила атаки повышается на 25%. Если экипированный персонаж уже выполнил Уроки ведьм, то Благословение пасторальных ветров улучшается до Решительности пасторальных ветров, дополнительно повышая шанс крит. попадания экипированного персонажа, который прошёл испытание, на 20%. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "หลังจากการโจมตีปกติ, ชาร์จโจมตี, สกิลธาตุ หรือท่าไม้ตายโจมตีโดนศัตรู จะได้รับ Blessing of Pastoral Winds เป็นเวลา 6 วินาที: เพิ่มพลังโจมตี 25% หากผู้สวมใส่สำเร็จ \"แบบฝึกหัดของแม่มด\" แล้ว Blessing of Pastoral Winds จะอัปเกรดเป็น \"Resolve of Pastoral Winds\" ซึ่งจะเพิ่มอัตราคริให้ผู้สวมใส่ที่ผ่านการทดสอบอีก 20% เอฟเฟกต์นี้สามารถเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Normal Saldırı, Yüklü Saldırı, Element Becerisi veya Element Patlaması bir düşmana isabet ettikten sonra 6 saniyeliğine Kır Rüzgarlarının Lütfu etkisi kazanılır: Saldırı %25 artar. Kuşanan karakter Cadının Ödevini tamamladıysa Kır Rüzgarlarının Lütfu gelişerek Kır Rüzgarlarının Azmi olur ve kuşanan karakterin Kritik Oranını fazladan %20 artırır. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi Tấn Công Thường, Trọng Kích, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ đánh trúng kẻ địch, sẽ nhận hiệu quả \"Thương Mến Của Gió Và Bài Ca Chăn Cừu\" trong 6s: Tấn Công tăng 25%. Nếu người trang bị đã hoàn thành Bài Tập Của Ma Nữ, \"Thương Mến Của Gió Và Bài Ca Chăn Cừu\" sẽ được nâng cấp thành \"Quyết Tâm Của Gió Và Bài Ca Chăn Cừu\", tăng thêm 20% Tỷ Lệ Bạo Kích cho người trang bị vượt qua thử thách. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      },
+      "affixId": "2150441"
+    }
+  ]
+}

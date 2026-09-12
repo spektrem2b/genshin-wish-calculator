@@ -1,0 +1,69 @@
+{
+  "id": 15026,
+  "name": {
+    "EN": "Gilded Dreams",
+    "CHS": "饰金之梦",
+    "CHT": "飾金之夢",
+    "DE": "Vergoldeter Traum",
+    "ES": "Sueños Áureos",
+    "FR": "Rêve doré",
+    "ID": "Gilded Dreams",
+    "IT": "Sogni dorati",
+    "JP": "金メッキの夢",
+    "KR": "도금된 꿈",
+    "PT": "Sonhos Dourados",
+    "RU": "Позолоченные сны",
+    "TH": "Gilded Dreams",
+    "TR": "Yaldızlı Rüyalar",
+    "VI": "Giấc Mộng Hoàng Kim"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15026/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Elemental Mastery by 80.",
+        "CHS": "元素精通提高80点。",
+        "CHT": "元素精通提高80點。",
+        "DE": "Erhöht die Elementarkunde um 80 Punkte.",
+        "ES": "Maestría Elemental +80 pts.",
+        "FR": "Augmente la maîtrise élémentaire de 80 pts.",
+        "ID": "Elemental Mastery +80.",
+        "IT": "Maestria elementale +80.",
+        "JP": "元素熟知+80。",
+        "KR": "원소 마스터리+80pt",
+        "PT": "Proficiência Elemental +80",
+        "RU": "Увеличивает мастерство стихий на 80 ед.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย",
+        "TR": "Element Ustalığını 80 artırır.",
+        "VI": "Tăng 80 điểm tinh thông nguyên tố."
+      },
+      "affixId": "2150260"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.",
+        "CHS": "触发元素反应后的8秒内，会根据队伍内其他角色的元素类型，使装备者获得强化：队伍中每存在1个和装备者同类元素的角色，攻击力提升14%；每存在1个和装备者不同元素类型的角色，元素精通提升50点。上述每类效果至多计算3个角色。该效果每8秒至多触发一次。装备者处于队伍后台时，依然能触发该效果。",
+        "CHT": "觸發元素反應後的8秒內，會根據隊伍內其他角色的元素類型，使裝備者獲得強化：隊伍中每包含1個和裝備者同類元素的角色，攻擊力提升14%；每包含1個和裝備者不同元素類型的角色，元素精通提升50點。上述每類效果至多計算3個角色。該效果每8秒至多觸發一次。裝備者處於隊伍後臺時，依然能觸發該效果。",
+        "DE": "Verleiht der damit ausgerüsteten Figur nach Auslösen einer Elementarreaktion entsprechend den Elementartypen anderer Figuren in der Truppe unterschiedliche Boni, die 8 s halten: Die Anwesenheit von je 1 Figur des gleichen Elementartyps erhöht den ANG um 14 %. Die Anwesenheit von je 1 Figur unterschiedlichen Elementartyps erhöht die Elementarkunde um 50 Punkte. Für jeden dieser Boni werden bis zu 3 Figuren mit gleichem oder unterschiedlichem Elementartyp gewertet. Diese Effekte treten auch in Kraft, wenn die damit ausgerüstete Figur inaktiv in der Truppe ist, 8 s Abklingzeit.",
+        "ES": "#Tras causar una Reacción Elemental, el personaje que lleve equipado este conjunto obtiene durante 8 s los siguientes fortalecimientos en función de los tipos elementales de los miembros del equipo: por cada personaje del mismo tipo elemental que el portador de este conjunto, el ATQ aumenta en un 14%; por cada personaje de tipo elemental distinto al portador de este conjunto, la Maestría Elemental aumenta en 50 pts. Cada uno de estos efectos se calcula para un máximo de 3 personajes. Este efecto solo se puede activar una vez cada 8 s, y se activará incluso cuando el personaje que lleva este conjunto equipado esté en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire confère pendant 8 s au personnage équipé de l'artéfact des bonus en fonction du nombre de types élémentaires des autres personnages de l'équipe : son ATQ augmente de 14 % pour chaque membre du même type élémentaire que le sien, et sa maîtrise élémentaire augmente de 50 pts pour chaque membre de type élémentaire différent du sien. Chacun des bonus susmentionnés compte un maximum de 3 personnages. Cet effet peut être déclenché une fois toutes les 8 s, même si le personnage équipé de l'artéfact fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Selama 8 detik setelah memicu Reaksi Elemental, Karakter yang mengenakannya mendapatkan efek penguatan berdasarkan tipe elemen Karakter lain yang berada dalam tim: Untuk setiap anggota party yang berelemen sama dengan Karakter yang mengenakan, maka ATK meningkat 14%; Untuk setiap anggota party yang berelemen berbeda dengan Karakter yang mengenakan, maka Elemental Mastery meningkat 50 poin. Efek yang dijelaskan tersebut maksimal dihitung untuk 3 Karakter. Efek ini dapat terpicu setiap 8 detik. Efek ini tetap dapat terpicu meskipun penggunanya ada dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Entro 8 s dall'attivazione di una reazione elementale, il personaggio che equipaggia questo set ottiene effetti positivi in base al tipo elementale degli altri membri del gruppo. L'ATT aumenta di un 14% per ogni membro del gruppo il cui tipo elementale corrisponde a quello del personaggio che equipaggia il set, e la maestria elementale aumenta di 50 per ogni membro del gruppo con un tipo elementale diverso. Ciascuno degli effetti positivi può considerare fino a 3 personaggi. Quest'effetto può attivarsi una volta ogni 8 s. Il personaggio che equipaggia questo set può attivarne gli effetti anche quando non presente sul campo.",
+        "JP": "元素反応を起こした後の8秒間、装備キャラクターは、チーム内自身以外のキャラクターの元素タイプに応じて強化効果を獲得する。チームに装備キャラクターと同じ元素タイプのキャラクターが1名存在する毎に攻撃力+14%、異なる元素タイプのキャラクターが1名存在する毎に元素熟知+50。上記効果は、それぞれ最大でキャラクター3名までカウントされる。この効果は8秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 8초 동안 파티 내 다른 캐릭터의 원소 타입에 따라 장착 캐릭터가 강화 효과를 받는다: 파티 내 장착 캐릭터와 동일한 원소 타입의 캐릭터가 1명 존재할 때마다 공격력이 14% 증가한다. 파티 내 장착 캐릭터와 다른 원소 타입의 캐릭터가 1명 존재할 때마다 원소 마스터리가 50pt 증가한다. 해당 효과는 각각 최대 3명의 캐릭터까지 계산한다. 해당 효과는 8초마다 최대 1회 발동된다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Dentro de 8s após causar uma Reação Elemental, o personagem equipando este conjunto irá obter aprimoramentos baseados no Tipo Elemental dos outros membros da equipe. O ATQ é aumentado em 14% para cada membro da equipe cujo Tipo Elemental seja o mesmo que o personagem equipando o conjunto. A Proficiência Elemental é aumentada em 50 para cada membro da equipe com Tipos Elementais diferentes. Cada um desses aprimoramentos mencionados anteriormente irá contar para até 3 personagens. Esse efeito pode ser desencadeado uma vez a cada 8s. O personagem que equipar este conjunto ainda pode ativar seu efeito mesmo que não esteja em campo.",
+        "RU": "На 8 сек. после вызова элементальной реакции согласно элементам других персонажей в отряде экипированный этими артефактами персонаж получает следующие усиления: сила атаки повышается на 14% за каждого персонажа с таким же элементом, как у экипированного персонажа; мастерство стихий повышается на 50 ед. за каждого персонажа с иным элементом. Каждое из этих усилений при подсчёте включает до 3 персонажей. Эффект может возникнуть один раз в 8 сек. Срабатывает, даже если экипированный этими артефактами персонаж не на поле боя.",
+        "TH": "ภายใน 8 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ ตัวละครที่สวมใส่ จะได้รับการเสริมพลัง โดยขึ้นกับประเภทธาตุของตัวละครอื่นในทีม: ตัวละครทุก 1 ตัว ในทีม ที่มีชนิดธาตุเหมือนกับผู้สวมใส่ จะทำให้พลังโจมตีเพิ่มขึ้น 14%; ตัวละครทุก 1 ตัว ในทีม ที่มีชนิดธาตุต่างกับผู้สวมใส่ จะทำให้ความชำนาญธาตุเพิ่มขึ้น 50 หน่วย ซึ่งเอฟเฟกต์แต่ละชนิดที่กล่าวถึงข้างต้น จะนับตัวละครมากสุด 3 ตัว โดยที่ทุก 8 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonraki 8 saniye boyunca bunu kuşanan karakter, gruptaki diğer karakterlerin Element Türlerine göre güçlendirmeler elde eder. Kuşanan karakterle aynı Element Türüne sahip olan her bir grup üyesi için Saldırı %14 artarken Element Türü farklı olan her bir grup üyesi için Element Ustalığı 50 artar. Bu güçlendirmeler en fazla 3 karakteri kapsar. Bu etki her 8 saniyede bir tetiklenebilir. Bunu kuşanan karakter savaş alanında olmasa bile etkilerini tetikleyebilir.",
+        "VI": "Trong 8s sau khi kích hoạt phản ứng nguyên tố, sẽ căn cứ theo loại nguyên tố của các nhân vật khác trong đội để kích hoạt hiệu ứng cho người mang trang bị: Mỗi một nhân vật trong đội có cùng loại nguyên tố với người mang trang bị, sẽ tăng 14% tấn công; mỗi một nhân vật trong đội khác loại nguyên tố với người mang trang bị, sẽ tăng 50 điểm tinh thông nguyên tố. Mỗi loại hiệu ứng bên trên tối đa tính 3 nhân vật. Hiệu quả này mỗi 8s tối đa kích hoạt 1 lần. Khi người trang bị không ra trận, thì vẫn sẽ kích hoạt hiệu ứng này."
+      },
+      "affixId": "2150261"
+    }
+  ]
+}

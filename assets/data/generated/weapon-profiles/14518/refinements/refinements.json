@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Bathhouses, Hawks, and Narukami",
+    "CHS": "一汤二鹰三鸣神",
+    "CHT": "一湯二鷹三鳴神",
+    "DE": "Badehäuser, Falken und Narukami",
+    "ES": "Balneario, halcón, Narukami",
+    "FR": "Bains, faucons et enfin Narukami",
+    "ID": "Bathhouses, Hawks, and Narukami",
+    "IT": "Terme, falchi e Narukami",
+    "JP": "一湯二鷹三鳴神",
+    "KR": "온천과 매 그리고 나루카미",
+    "PT": "Narukami Um, Dois, Três",
+    "RU": "Бани, ястребы и Наруками",
+    "TH": "Bathhouses, Hawks, and Narukami",
+    "TR": "Hamamlar, Şahinler ve Narukami",
+    "VI": "Phòng Tắm Hơi, Chim Ưng, và Narukami"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Elemental Mastery increases by 120 for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by 96 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 32 for 30s after the wielder's Elemental Burst hits an opponent.",
+        "CHS": "触发扩散、星扩散反应后的6秒内，元素精通提升120点；元素战技命中敌人后的9秒内，元素精通提升96点；元素爆发命中敌人后的30秒内，元素精通提升32点。",
+        "CHT": "觸發擴散、星擴散反應後的6秒內，元素精通提升120點。元素戰技命中敵人後的9秒內，元素精通提升96點。元素爆發命中敵人後的30秒內，元素精通提升32點。",
+        "DE": "#Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um 120 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 96 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 32 Punkte.",
+        "ES": "#La Maestría Elemental aumenta en 120 pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en 96 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 32 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+        "FR": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de 120 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 96 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 32 pts pendant 30 s.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat 120 poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 96 poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 32 poin selama 30 detik.",
+        "IT": "#La maestria elementale del personaggio aumenta di 120 per 6 s dopo aver innescato Turbinio o Turbinio astrale; di 96 per 9 s dopo aver colpito un avversario con l'abilità elementale; e di 32 per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
+        "JP": "拡散または星拡散反応を起こした後の6秒間、元素熟知+120。元素スキルが敵に命中した後の9秒間、元素熟知+96。元素爆発が敵に命中した後の30秒間、元素熟知+32。",
+        "KR": "확산, 별 확산 반응 발동 후 6초 동안, 원소 마스터리가 120pt 증가한다. 원소전투 스킬이 적에게 명중 후 9초 동안, 원소 마스터리가 96pt 증가한다. 원소폭발이 적에게 명중 후 30초 동안, 원소 마스터리가 32pt 증가한다",
+        "PT": "Aumenta a Proficiência Elemental em 120 por 6s após desencadear Redemoinho e Redemoinho Estelar. A Proficiência Elemental aumenta em 96 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 32 por 30s após o Supremo do portador atingir um oponente.",
+        "RU": "На 6 сек. после активации Рассеивания или Звёздного рассеивания повышает мастерство стихий на 120 ед. На 9 сек. после попадания элементального навыка по противнику повышает мастерство стихий на 96 ед. На 30 сек. после попадания взрыва стихии по противнику повышает мастерство стихий на 32 ед.",
+        "TH": "ภายใน 6 วินาที หลังจากทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา ความชำนาญธาตุจะเพิ่มขึ้น 120 หน่วย; ภายใน 9 วินาที หลังจากสกิลธาตุโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 96 หน่วย; ภายใน 30 วินาที หลังจากท่าไม้ตายโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 32 หน่วย",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı 120 artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı 96 artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı 32 artar.",
+        "VI": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng 120 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 96 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 32 điểm."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Elemental Mastery increases by 150 for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by 120 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 40 for 30s after the wielder's Elemental Burst hits an opponent.",
+        "CHS": "触发扩散、星扩散反应后的6秒内，元素精通提升150点；元素战技命中敌人后的9秒内，元素精通提升120点；元素爆发命中敌人后的30秒内，元素精通提升40点。",
+        "CHT": "觸發擴散、星擴散反應後的6秒內，元素精通提升150點。元素戰技命中敵人後的9秒內，元素精通提升120點。元素爆發命中敵人後的30秒內，元素精通提升40點。",
+        "DE": "#Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um 150 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 120 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 40 Punkte.",
+        "ES": "#La Maestría Elemental aumenta en 150 pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en 120 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 40 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+        "FR": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de 150 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 120 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 40 pts pendant 30 s.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat 150 poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 120 poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 40 poin selama 30 detik.",
+        "IT": "#La maestria elementale del personaggio aumenta di 150 per 6 s dopo aver innescato Turbinio o Turbinio astrale; di 120 per 9 s dopo aver colpito un avversario con l'abilità elementale; e di 40 per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
+        "JP": "拡散または星拡散反応を起こした後の6秒間、元素熟知+150。元素スキルが敵に命中した後の9秒間、元素熟知+120。元素爆発が敵に命中した後の30秒間、元素熟知+40。",
+        "KR": "확산, 별 확산 반응 발동 후 6초 동안, 원소 마스터리가 150pt 증가한다. 원소전투 스킬이 적에게 명중 후 9초 동안, 원소 마스터리가 120pt 증가한다. 원소폭발이 적에게 명중 후 30초 동안, 원소 마스터리가 40pt 증가한다",
+        "PT": "Aumenta a Proficiência Elemental em 150 por 6s após desencadear Redemoinho e Redemoinho Estelar. A Proficiência Elemental aumenta em 120 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 40 por 30s após o Supremo do portador atingir um oponente.",
+        "RU": "На 6 сек. после активации Рассеивания или Звёздного рассеивания повышает мастерство стихий на 150 ед. На 9 сек. после попадания элементального навыка по противнику повышает мастерство стихий на 120 ед. На 30 сек. после попадания взрыва стихии по противнику повышает мастерство стихий на 40 ед.",
+        "TH": "ภายใน 6 วินาที หลังจากทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา ความชำนาญธาตุจะเพิ่มขึ้น 150 หน่วย; ภายใน 9 วินาที หลังจากสกิลธาตุโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 120 หน่วย; ภายใน 30 วินาที หลังจากท่าไม้ตายโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 40 หน่วย",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı 150 artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı 120 artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı 40 artar.",
+        "VI": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng 150 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 120 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 40 điểm."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Elemental Mastery increases by 180 for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by 144 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 48 for 30s after the wielder's Elemental Burst hits an opponent.",
+        "CHS": "触发扩散、星扩散反应后的6秒内，元素精通提升180点；元素战技命中敌人后的9秒内，元素精通提升144点；元素爆发命中敌人后的30秒内，元素精通提升48点。",
+        "CHT": "觸發擴散、星擴散反應後的6秒內，元素精通提升180點。元素戰技命中敵人後的9秒內，元素精通提升144點。元素爆發命中敵人後的30秒內，元素精通提升48點。",
+        "DE": "#Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um 180 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 144 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 48 Punkte.",
+        "ES": "#La Maestría Elemental aumenta en 180 pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en 144 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 48 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+        "FR": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de 180 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 144 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 48 pts pendant 30 s.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat 180 poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 144 poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 48 poin selama 30 detik.",
+        "IT": "#La maestria elementale del personaggio aumenta di 180 per 6 s dopo aver innescato Turbinio o Turbinio astrale; di 144 per 9 s dopo aver colpito un avversario con l'abilità elementale; e di 48 per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
+        "JP": "拡散または星拡散反応を起こした後の6秒間、元素熟知+180。元素スキルが敵に命中した後の9秒間、元素熟知+144。元素爆発が敵に命中した後の30秒間、元素熟知+48。",
+        "KR": "확산, 별 확산 반응 발동 후 6초 동안, 원소 마스터리가 180pt 증가한다. 원소전투 스킬이 적에게 명중 후 9초 동안, 원소 마스터리가 144pt 증가한다. 원소폭발이 적에게 명중 후 30초 동안, 원소 마스터리가 48pt 증가한다",
+        "PT": "Aumenta a Proficiência Elemental em 180 por 6s após desencadear Redemoinho e Redemoinho Estelar. A Proficiência Elemental aumenta em 144 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 48 por 30s após o Supremo do portador atingir um oponente.",
+        "RU": "На 6 сек. после активации Рассеивания или Звёздного рассеивания повышает мастерство стихий на 180 ед. На 9 сек. после попадания элементального навыка по противнику повышает мастерство стихий на 144 ед. На 30 сек. после попадания взрыва стихии по противнику повышает мастерство стихий на 48 ед.",
+        "TH": "ภายใน 6 วินาที หลังจากทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา ความชำนาญธาตุจะเพิ่มขึ้น 180 หน่วย; ภายใน 9 วินาที หลังจากสกิลธาตุโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 144 หน่วย; ภายใน 30 วินาที หลังจากท่าไม้ตายโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 48 หน่วย",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı 180 artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı 144 artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı 48 artar.",
+        "VI": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng 180 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 144 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 48 điểm."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Elemental Mastery increases by 210 for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by 168 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 56 for 30s after the wielder's Elemental Burst hits an opponent.",
+        "CHS": "触发扩散、星扩散反应后的6秒内，元素精通提升210点；元素战技命中敌人后的9秒内，元素精通提升168点；元素爆发命中敌人后的30秒内，元素精通提升56点。",
+        "CHT": "觸發擴散、星擴散反應後的6秒內，元素精通提升210點。元素戰技命中敵人後的9秒內，元素精通提升168點。元素爆發命中敵人後的30秒內，元素精通提升56點。",
+        "DE": "#Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um 210 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 168 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 56 Punkte.",
+        "ES": "#La Maestría Elemental aumenta en 210 pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en 168 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 56 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+        "FR": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de 210 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 168 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 56 pts pendant 30 s.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat 210 poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 168 poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 56 poin selama 30 detik.",
+        "IT": "#La maestria elementale del personaggio aumenta di 210 per 6 s dopo aver innescato Turbinio o Turbinio astrale; di 168 per 9 s dopo aver colpito un avversario con l'abilità elementale; e di 56 per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
+        "JP": "拡散または星拡散反応を起こした後の6秒間、元素熟知+210。元素スキルが敵に命中した後の9秒間、元素熟知+168。元素爆発が敵に命中した後の30秒間、元素熟知+56。",
+        "KR": "확산, 별 확산 반응 발동 후 6초 동안, 원소 마스터리가 210pt 증가한다. 원소전투 스킬이 적에게 명중 후 9초 동안, 원소 마스터리가 168pt 증가한다. 원소폭발이 적에게 명중 후 30초 동안, 원소 마스터리가 56pt 증가한다",
+        "PT": "Aumenta a Proficiência Elemental em 210 por 6s após desencadear Redemoinho ou Redemoinho Estelar. A Proficiência Elemental aumenta em 168 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 56 por 30s após o Supremo do portador atingir um oponente.",
+        "RU": "На 6 сек. после активации Рассеивания или Звёздного рассеивания повышает мастерство стихий на 210 ед. На 9 сек. после попадания элементального навыка по противнику повышает мастерство стихий на 168 ед. На 30 сек. после попадания взрыва стихии по противнику повышает мастерство стихий на 56 ед.",
+        "TH": "ภายใน 6 วินาที หลังจากทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา ความชำนาญธาตุจะเพิ่มขึ้น 210 หน่วย; ภายใน 9 วินาที หลังจากสกิลธาตุโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 168 หน่วย; ภายใน 30 วินาที หลังจากท่าไม้ตายโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 56 หน่วย",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı 210 artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı 168 artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı 56 artar.",
+        "VI": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng 210 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 168 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 56 điểm."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Elemental Mastery increases by 240 for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by 192 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 64 for 30s after the wielder's Elemental Burst hits an opponent.",
+        "CHS": "触发扩散、星扩散反应后的6秒内，元素精通提升240点；元素战技命中敌人后的9秒内，元素精通提升192点；元素爆发命中敌人后的30秒内，元素精通提升64点。",
+        "CHT": "觸發擴散、星擴散反應後的6秒內，元素精通提升240點。元素戰技命中敵人後的9秒內，元素精通提升192點。元素爆發命中敵人後的30秒內，元素精通提升64點。",
+        "DE": "#Erhöht die Elementarkunde nach dem Auslösen der Reaktionen Verwirbelung oder Stellar-Verwirbelung 6 s lang um 240 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 192 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 64 Punkte.",
+        "ES": "#La Maestría Elemental aumenta en 240 pts. durante 6 s tras causar una reacción de Torbellino o Torbellino Estelar. La Maestría Elemental aumenta en 192 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 64 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+        "FR": "Après avoir déclenché une réaction de Dispersion ou d'Astrodispersion, la maîtrise élémentaire augmente de 240 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 192 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 64 pts pendant 30 s.",
+        "ID": "Setelah memicu reaksi Swirl atau Stellar Swirl, Elemental Mastery meningkat 240 poin selama 6 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 192 poin selama 9 detik. Setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 64 poin selama 30 detik.",
+        "IT": "#La maestria elementale del personaggio aumenta di 240 per 6 s dopo aver innescato Turbinio o Turbinio astrale; di 192 per 9 s dopo aver colpito un avversario con l'abilità elementale; e di 64 per 30 s dopo aver colpito un avversario con il Tripudio elementale.",
+        "JP": "拡散または星拡散反応を起こした後の6秒間、元素熟知+240。元素スキルが敵に命中した後の9秒間、元素熟知+192。元素爆発が敵に命中した後の30秒間、元素熟知+64。",
+        "KR": "확산, 별 확산 반응 발동 후 6초 동안, 원소 마스터리가 240pt 증가한다. 원소전투 스킬이 적에게 명중 후 9초 동안, 원소 마스터리가 192pt 증가한다. 원소폭발이 적에게 명중 후 30초 동안, 원소 마스터리가 64pt 증가한다",
+        "PT": "Aumenta a Proficiência Elemental em 240 por 6s após desencadear Redemoinho ou Redemoinho Estelar. A Proficiência Elemental aumenta em 192 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 64 por 30s após o Supremo do portador atingir um oponente.",
+        "RU": "На 6 сек. после активации Рассеивания или Звёздного рассеивания повышает мастерство стихий на 240 ед. На 9 сек. после попадания элементального навыка по противнику повышает мастерство стихий на 192 ед. На 30 сек. после попадания взрыва стихии по противнику повышает мастерство стихий на 64 ед.",
+        "TH": "ภายใน 6 วินาที หลังจากทำให้เกิดปฏิกิริยากระจายหรือกระจายดารา ความชำนาญธาตุจะเพิ่มขึ้น 240 หน่วย; ภายใน 9 วินาที หลังจากสกิลธาตุโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 192 หน่วย; ภายใน 30 วินาที หลังจากท่าไม้ตายโดนศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 64 หน่วย",
+        "TR": "Bir Girdap veya Yıldız Girdabı tepkimesi tetiklendiğinde 6sn boyunca Element Ustalığı 240 artar. Silahı kuşanan karakterin Element Becerisi bir düşmanı vurduğunda 9 saniyeliğine Element Ustalığı 192 artar. Silahı kuşanan karakterin Element Patlaması bir düşmanı vurduğunda 30 saniyeliğine Element Ustalığı 64 artar.",
+        "VI": "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh-Khuếch Tán, Tinh Thông Nguyên Tố tăng 240 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 192 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 64 điểm."
+      }
+    }
+  ]
+}

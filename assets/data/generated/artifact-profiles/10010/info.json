@@ -1,0 +1,70 @@
+{
+  "id": 10010,
+  "name": {
+    "EN": "Adventurer",
+    "CHS": "冒险家",
+    "CHT": "冒險家",
+    "DE": "Abenteurer",
+    "ES": "Aventurero",
+    "FR": "Aventurier",
+    "ID": "Adventurer",
+    "IT": "Avventuriere",
+    "JP": "冒険者",
+    "KR": "모험가",
+    "PT": "Aventureiro",
+    "RU": "Искатель приключений",
+    "TH": "Adventurer",
+    "TR": "Maceracı",
+    "VI": "Nhà Mạo Hiểm"
+  },
+  "rarityList": [
+    1,
+    2,
+    3
+  ],
+  "icon": "generated/artifact-profiles/10010/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Max HP increased by 1,000.",
+        "CHS": "生命值上限提高1000点。",
+        "CHT": "生命值上限提高1000點。",
+        "DE": "Erhöht die max. LP um 1000.",
+        "ES": "Vida Máx. +1000 pts.",
+        "FR": "Augmente les PV max de 1 000 pts.",
+        "ID": "Max HP +1000.",
+        "IT": "PS max +1.000.",
+        "JP": "HP上限+1000。",
+        "KR": "HP 최대치+1000pt",
+        "PT": "Vida Máx. +1000",
+        "RU": "Увеличивает макс. HP на 1000 ед.",
+        "TH": "เพิ่มพลังชีวิตสูงสุดขึ้น 1000 หน่วย",
+        "TR": "Maks. Can 1.000 artar.",
+        "VI": "HP tối đa tăng 1000 điểm."
+      },
+      "affixId": "2100100"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Opening a chest regenerates 30% Max HP over 5s.",
+        "CHS": "开启各类宝箱后的5秒内，持续恢复30%生命值。",
+        "CHT": "開啟各類寶箱後的5秒內，持續恢復30%生命值。",
+        "DE": "Stellt nach dem Öffnen jeglicher Truhen 5 s lang 30 % LP wieder her.",
+        "ES": "Al abrir un cofre, se regenera un 30% de Vida durante 5 s.",
+        "FR": "Restaure 30 % des PV pendant 5 s après l'ouverture d'un coffre.",
+        "ID": "Membuka setiap jenis peti memulihkan 30% HP dalam waktu 5 detik.",
+        "IT": "#Aprire un baule rigenera un 30% dei PS max per 5 s.",
+        "JP": "宝箱を開けた後5秒間、HPの30%を徐々に回復する。",
+        "KR": "각종 보물상자를 오픈 후 5초 동안 30%의 HP를 지속해서 회복한다",
+        "PT": "Abrir um baú recupera 30% de Vida Máxima durante 5 segundos.",
+        "RU": "В течение 5 сек. после открытия любого сундука восстанавливает 30% HP.",
+        "TH": "หลังจากเปิดหีบสมบัติ ชนิดต่าง ๆ แล้ว จะฟื้นฟูพลังชีวิต 30% ภายในเวลา 5 วินาที",
+        "TR": "Bir sandık açmak Maks. Canın %30'unu 5 saniyede yeniler.",
+        "VI": "5s sau khi mở các loại rương, duy trì hồi 30% HP."
+      },
+      "affixId": "2100101"
+    }
+  ]
+}

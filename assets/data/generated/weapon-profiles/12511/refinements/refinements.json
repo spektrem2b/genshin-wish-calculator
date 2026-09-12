@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Desert Watch",
+    "CHS": "沙海守望",
+    "CHT": "沙海守望",
+    "DE": "Sandmeers Wacht",
+    "ES": "Vigía del mar de arena",
+    "FR": "Garde du désert",
+    "ID": "Desert Watch",
+    "IT": "Sentinella del deserto",
+    "JP": "砂海の守護",
+    "KR": "모래바다 파수",
+    "PT": "Guarda do Mar de Areia",
+    "RU": "Пустынный дозор",
+    "TH": "Desert Watch",
+    "TR": "Çöl Gözcüsü",
+    "VI": "Thủ Hộ Biển Cát"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After the character's Elemental Skill hits an opponent, their ATK will be increased by 20% for 8s. After the character takes DMG, their ATK will be increased by 20% for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by 32%.",
+        "CHS": "元素战技命中敌人后，攻击力提升20%，持续8秒；受到伤害后，攻击力提升20%，持续8秒。上述2种效果角色处于队伍后台时也能触发。此外，不处于护盾庇护下时，生命值上限提高32%。",
+        "CHT": "元素戰技命中敵人後，攻擊力提升20%，持續8秒；受到傷害後，攻擊力提升20%，持續8秒。上述2種效果角色處於隊伍後臺時也能觸發。此外，不處於護盾庇護下時，生命值上限提高32%。",
+        "DE": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 8 s lang um 20 %. Erhöht beim Erleiden von Schaden den ANG 8 s lang um 20 %. Die 2 oben beschriebenen Effekte treten auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Erhöht außerdem die max. LP um 32 %, solange sich die Figur nicht im Schutz von Schilden aufhält.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 20% durante 8 s. Asimismo, cuando el personaje recibe daño, su ATQ aumenta en un 20% durante 8 s. Estos dos efectos se pueden activar incluso cuando el personaje está en tu equipo pero no en uso. Además, si el portador de esta arma no está bajo la protección de un escudo, su Vida Máx. aumenta en un 32%.",
+        "FR": "#Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de 20 % pendant 8 s. Après avoir subi des DGT, l'ATQ augmente de 20 % pendant 8 s. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. De plus, lorsqu'il n'est pas protégé par un bouclier, les PV max du personnage augmentent de 32 %.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK meningkat 20% selama 8 detik; Setelah menerima DMG, ATK meningkat 20% selama 8 detik. Kedua efek di atas tetap bisa terpicu meskipun Karakter yang mengenakan Senjata ini ada dalam party namun sedang tidak berada di medan pertempuran. Selain itu, saat tidak dilindungi Perisai, Max HP meningkat 32%.",
+        "IT": "#Quando l'abilità elementale del personaggio colpisce un avversario, l'ATT del personaggio aumenta di un 20% per 8 s. Dopo che il personaggio subisce DAN, il suo ATT aumenta di un 20% per 8 s. I 2 effetti menzionati possono attivarsi anche quando il personaggio non è in campo. In più, quando non è protetto da uno scudo, i PS max del personaggio aumentano di un 32%.",
+        "JP": "元素スキルが敵に命中した後、攻撃力+20%、継続時間8秒。ダメージを受けた後、攻撃力+20%、継続時間8秒。上記二つの効果は、キャラクターが待機中でも発動できる。また、シールド状態でない時、HP上限+32%。",
+        "KR": "원소전투 스킬이 적에게 명중 후 공격력이 20% 증가한다. 지속 시간: 8초. 피해를 입은 후 공격력이 20% 증가한다. 지속 시간: 8초. 상술한 2가지 효과는 캐릭터가 대기 상태 시에도 발동할 수 있다. 또한 보호막의 보호를 받지 않을 시, HP 최대치가 32% 증가한다",
+        "PT": "Quando a Habilidade Elemental atinge um inimigo, aumenta o ATQ em 20% por 8s. Ao sofrer Dano, aumenta o ATQ em 20% por 8s. Os dois efeitos descritos acima podem ser desencadeados mesmo se o personagem não estiver ativo no campo de batalha. Além disso, personagens que não estiverem sob a proteção de um Escudo terão sua Vida Máxima aumentada em 32%.",
+        "RU": "После попадания элементальным навыком по противнику сила атаки увеличится на 20% на 8 сек. При получении урона сила атаки увеличится на 20% на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя. Кроме того, если экипированный персонаж не защищён щитом, его макс. HP увеличится на 32%.",
+        "TH": "หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 20% เป็นเวลา 8 วินาที; หลังจากได้รับความเสียหาย พลังโจมตีจะเพิ่มขึ้น 20% เป็นเวลา 8 วินาที โดยที่เอฟเฟกต์ทั้ง 2 ชนิด ข้างต้นจะยังคงเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ นอกจากนี้ ในขณะที่ไม่ได้รับการป้องกันจากโล่ พลังชีวิตสูงสุดจะเพิ่มขึ้น 32%",
+        "TR": "Karakterin Element Becerisi düşmana isabet ettiğinde 8 saniyeliğine karakterin Saldırısı %20 artar. Karakter Hasar aldıktan sonra 8 saniyeliğine Saldırısı %20 artar. Bahsi geçen 2 etki, karakter savaş alanında değilken bile tetiklenebilir. Ayrıca, karakter bir kalkan tarafından korunmadığında Maks. Canı %32 artar.",
+        "VI": "Sau khi dùng Kỹ Năng Nguyên Tố đánh trúng kẻ địch, tấn công tăng 20% trong 8s; Sau khi chịu phải sát thương, tấn công tăng 20% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt 2 loại hiệu quả nêu trên. Ngoài ra, khi không có khiên bảo vệ, giới hạn HP tăng 32%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After the character's Elemental Skill hits an opponent, their ATK will be increased by 25% for 8s. After the character takes DMG, their ATK will be increased by 25% for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by 40%.",
+        "CHS": "元素战技命中敌人后，攻击力提升25%，持续8秒；受到伤害后，攻击力提升25%，持续8秒。上述2种效果角色处于队伍后台时也能触发。此外，不处于护盾庇护下时，生命值上限提高40%。",
+        "CHT": "元素戰技命中敵人後，攻擊力提升25%，持續8秒；受到傷害後，攻擊力提升25%，持續8秒。上述2種效果角色處於隊伍後臺時也能觸發。此外，不處於護盾庇護下時，生命值上限提高40%。",
+        "DE": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 8 s lang um 25 %. Erhöht beim Erleiden von Schaden den ANG 8 s lang um 25 %. Die 2 oben beschriebenen Effekte treten auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Erhöht außerdem die max. LP um 40 %, solange sich die Figur nicht im Schutz von Schilden aufhält.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 25% durante 8 s. Asimismo, cuando el personaje recibe daño, su ATQ aumenta en un 25% durante 8 s. Estos dos efectos se pueden activar incluso cuando el personaje está en tu equipo pero no en uso. Además, si el portador de esta arma no está bajo la protección de un escudo, su Vida Máx. aumenta en un 40%.",
+        "FR": "#Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de 25 % pendant 8 s. Après avoir subi des DGT, l'ATQ augmente de 25 % pendant 8 s. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. De plus, lorsqu'il n'est pas protégé par un bouclier, les PV max du personnage augmentent de 40 %.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK meningkat 25% selama 8 detik; Setelah menerima DMG, ATK meningkat 25% selama 8 detik. Kedua efek di atas tetap bisa terpicu meskipun Karakter yang mengenakan Senjata ini ada dalam party namun sedang tidak berada di medan pertempuran. Selain itu, saat tidak dilindungi Perisai, Max HP meningkat 40%.",
+        "IT": "#Quando l'abilità elementale del personaggio colpisce un avversario, l'ATT del personaggio aumenta di un 25% per 8 s. Dopo che il personaggio subisce DAN, il suo ATT aumenta di un 25% per 8 s. I 2 effetti menzionati possono attivarsi anche quando il personaggio non è in campo. In più, quando non è protetto da uno scudo, i PS max del personaggio aumentano di un 40%.",
+        "JP": "元素スキルが敵に命中した後、攻撃力+25%、継続時間8秒。ダメージを受けた後、攻撃力+25%、継続時間8秒。上記二つの効果は、キャラクターが待機中でも発動できる。また、シールド状態でない時、HP上限+40%。",
+        "KR": "원소전투 스킬이 적에게 명중 후 공격력이 25% 증가한다. 지속 시간: 8초. 피해를 입은 후 공격력이 25% 증가한다. 지속 시간: 8초. 상술한 2가지 효과는 캐릭터가 대기 상태 시에도 발동할 수 있다. 또한 보호막의 보호를 받지 않을 시, HP 최대치가 40% 증가한다",
+        "PT": "Quando a Habilidade Elemental atinge um inimigo, aumenta o ATQ em 25% por 8s. Ao sofrer Dano, aumenta o ATQ em 25% por 8s. Os dois efeitos descritos acima podem ser desencadeados mesmo se o personagem não estiver ativo no campo de batalha. Além disso, personagens que não estiverem sob a proteção de um Escudo terão sua Vida Máxima aumentada em 40%.",
+        "RU": "После попадания элементальным навыком по противнику сила атаки увеличится на 25% на 8 сек. При получении урона сила атаки увеличится на 25% на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя. Кроме того, если экипированный персонаж не защищён щитом, его макс. HP увеличится на 40%.",
+        "TH": "หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 25% เป็นเวลา 8 วินาที; หลังจากได้รับความเสียหาย พลังโจมตีจะเพิ่มขึ้น 25% เป็นเวลา 8 วินาที โดยที่เอฟเฟกต์ทั้ง 2 ชนิด ข้างต้นจะยังคงเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ นอกจากนี้ ในขณะที่ไม่ได้รับการป้องกันจากโล่ พลังชีวิตสูงสุดจะเพิ่มขึ้น 40%",
+        "TR": "Karakterin Element Becerisi düşmana isabet ettiğinde 8 saniyeliğine karakterin Saldırısı %25 artar. Karakter Hasar aldıktan sonra 8 saniyeliğine Saldırısı %25 artar. Bahsi geçen 2 etki, karakter savaş alanında değilken bile tetiklenebilir. Ayrıca, karakter bir kalkan tarafından korunmadığında Maks. Canı %40 artar.",
+        "VI": "Sau khi dùng Kỹ Năng Nguyên Tố đánh trúng kẻ địch, tấn công tăng 25% trong 8s; Sau khi chịu phải sát thương, tấn công tăng 25% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt 2 loại hiệu quả nêu trên. Ngoài ra, khi không có khiên bảo vệ, giới hạn HP tăng 40%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After the character's Elemental Skill hits an opponent, their ATK will be increased by 30% for 8s. After the character takes DMG, their ATK will be increased by 30% for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by 48%.",
+        "CHS": "元素战技命中敌人后，攻击力提升30%，持续8秒；受到伤害后，攻击力提升30%，持续8秒。上述2种效果角色处于队伍后台时也能触发。此外，不处于护盾庇护下时，生命值上限提高48%。",
+        "CHT": "元素戰技命中敵人後，攻擊力提升30%，持續8秒；受到傷害後，攻擊力提升30%，持續8秒。上述2種效果角色處於隊伍後臺時也能觸發。此外，不處於護盾庇護下時，生命值上限提高48%。",
+        "DE": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 8 s lang um 30 %. Erhöht beim Erleiden von Schaden den ANG 8 s lang um 30 %. Die 2 oben beschriebenen Effekte treten auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Erhöht außerdem die max. LP um 48 %, solange sich die Figur nicht im Schutz von Schilden aufhält.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 30% durante 8 s. Asimismo, cuando el personaje recibe daño, su ATQ aumenta en un 30% durante 8 s. Estos dos efectos se pueden activar incluso cuando el personaje está en tu equipo pero no en uso. Además, si el portador de esta arma no está bajo la protección de un escudo, su Vida Máx. aumenta en un 48%.",
+        "FR": "#Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de 30 % pendant 8 s. Après avoir subi des DGT, l'ATQ augmente de 30 % pendant 8 s. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. De plus, lorsqu'il n'est pas protégé par un bouclier, les PV max du personnage augmentent de 48 %.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK meningkat 30% selama 8 detik; Setelah menerima DMG, ATK meningkat 30% selama 8 detik. Kedua efek di atas tetap bisa terpicu meskipun Karakter yang mengenakan Senjata ini ada dalam party namun sedang tidak berada di medan pertempuran. Selain itu, saat tidak dilindungi Perisai, Max HP meningkat 48%.",
+        "IT": "#Quando l'abilità elementale del personaggio colpisce un avversario, l'ATT del personaggio aumenta di un 30% per 8 s. Dopo che il personaggio subisce DAN, il suo ATT aumenta di un 30% per 8 s. I 2 effetti menzionati possono attivarsi anche quando il personaggio non è in campo. In più, quando non è protetto da uno scudo, i PS max del personaggio aumentano di un 48%.",
+        "JP": "元素スキルが敵に命中した後、攻撃力+30%、継続時間8秒。ダメージを受けた後、攻撃力+30%、継続時間8秒。上記二つの効果は、キャラクターが待機中でも発動できる。また、シールド状態でない時、HP上限+48%。",
+        "KR": "원소전투 스킬이 적에게 명중 후 공격력이 30% 증가한다. 지속 시간: 8초. 피해를 입은 후 공격력이 30% 증가한다. 지속 시간: 8초. 상술한 2가지 효과는 캐릭터가 대기 상태 시에도 발동할 수 있다. 또한 보호막의 보호를 받지 않을 시, HP 최대치가 48% 증가한다",
+        "PT": "Quando a Habilidade Elemental atinge um inimigo, aumenta o ATQ em 30% por 8s. Ao sofrer Dano, aumenta o ATQ em 30% por 8s. Os dois efeitos descritos acima podem ser desencadeados mesmo se o personagem não estiver ativo no campo de batalha. Além disso, personagens que não estiverem sob a proteção de um Escudo terão sua Vida Máxima aumentada em 48%.",
+        "RU": "После попадания элементальным навыком по противнику сила атаки увеличится на 30% на 8 сек. При получении урона сила атаки увеличится на 30% на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя. Кроме того, если экипированный персонаж не защищён щитом, его макс. HP увеличится на 48%.",
+        "TH": "หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 30% เป็นเวลา 8 วินาที; หลังจากได้รับความเสียหาย พลังโจมตีจะเพิ่มขึ้น 30% เป็นเวลา 8 วินาที โดยที่เอฟเฟกต์ทั้ง 2 ชนิด ข้างต้นจะยังคงเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ นอกจากนี้ ในขณะที่ไม่ได้รับการป้องกันจากโล่ พลังชีวิตสูงสุดจะเพิ่มขึ้น 48%",
+        "TR": "Karakterin Element Becerisi düşmana isabet ettiğinde 8 saniyeliğine karakterin Saldırısı %30 artar. Karakter Hasar aldıktan sonra 8 saniyeliğine Saldırısı %30 artar. Bahsi geçen 2 etki, karakter savaş alanında değilken bile tetiklenebilir. Ayrıca, karakter bir kalkan tarafından korunmadığında Maks. Canı %48 artar.",
+        "VI": "Sau khi dùng Kỹ Năng Nguyên Tố đánh trúng kẻ địch, tấn công tăng 30% trong 8s; Sau khi chịu phải sát thương, tấn công tăng 30% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt 2 loại hiệu quả nêu trên. Ngoài ra, khi không có khiên bảo vệ, giới hạn HP tăng 48%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After the character's Elemental Skill hits an opponent, their ATK will be increased by 35% for 8s. After the character takes DMG, their ATK will be increased by 35% for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by 56%.",
+        "CHS": "元素战技命中敌人后，攻击力提升35%，持续8秒；受到伤害后，攻击力提升35%，持续8秒。上述2种效果角色处于队伍后台时也能触发。此外，不处于护盾庇护下时，生命值上限提高56%。",
+        "CHT": "元素戰技命中敵人後，攻擊力提升35%，持續8秒；受到傷害後，攻擊力提升35%，持續8秒。上述2種效果角色處於隊伍後臺時也能觸發。此外，不處於護盾庇護下時，生命值上限提高56%。",
+        "DE": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 8 s lang um 35 %. Erhöht beim Erleiden von Schaden den ANG 8 s lang um 35 %. Die 2 oben beschriebenen Effekte treten auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Erhöht außerdem die max. LP um 56 %, solange sich die Figur nicht im Schutz von Schilden aufhält.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 35% durante 8 s. Asimismo, cuando el personaje recibe daño, su ATQ aumenta en un 35% durante 8 s. Estos dos efectos se pueden activar incluso cuando el personaje está en tu equipo pero no en uso. Además, si el portador de esta arma no está bajo la protección de un escudo, su Vida Máx. aumenta en un 56%.",
+        "FR": "#Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de 35 % pendant 8 s. Après avoir subi des DGT, l'ATQ augmente de 35 % pendant 8 s. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. De plus, lorsqu'il n'est pas protégé par un bouclier, les PV max du personnage augmentent de 56 %.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK meningkat 35% selama 8 detik; Setelah menerima DMG, ATK meningkat 35% selama 8 detik. Kedua efek di atas tetap bisa terpicu meskipun Karakter yang mengenakan Senjata ini ada dalam party namun sedang tidak berada di medan pertempuran. Selain itu, saat tidak dilindungi Perisai, Max HP meningkat 56%.",
+        "IT": "#Quando l'abilità elementale del personaggio colpisce un avversario, l'ATT del personaggio aumenta di un 35% per 8 s. Dopo che il personaggio subisce DAN, il suo ATT aumenta di un 35% per 8 s. I 2 effetti menzionati possono attivarsi anche quando il personaggio non è in campo. In più, quando non è protetto da uno scudo, i PS max del personaggio aumentano di un 56%.",
+        "JP": "元素スキルが敵に命中した後、攻撃力+35%、継続時間8秒。ダメージを受けた後、攻撃力+35%、継続時間8秒。上記二つの効果は、キャラクターが待機中でも発動できる。また、シールド状態でない時、HP上限+56%。",
+        "KR": "원소전투 스킬이 적에게 명중 후 공격력이 35% 증가한다. 지속 시간: 8초. 피해를 입은 후 공격력이 35% 증가한다. 지속 시간: 8초. 상술한 2가지 효과는 캐릭터가 대기 상태 시에도 발동할 수 있다. 또한 보호막의 보호를 받지 않을 시, HP 최대치가 56% 증가한다",
+        "PT": "Quando a Habilidade Elemental atinge um inimigo, aumenta o ATQ em 35% por 8s. Ao sofrer Dano, aumenta o ATQ em 35% por 8s. Os dois efeitos descritos acima podem ser desencadeados mesmo se o personagem não estiver ativo no campo de batalha. Além disso, personagens que não estiverem sob a proteção de um Escudo terão sua Vida Máxima aumentada em 56%.",
+        "RU": "После попадания элементальным навыком по противнику сила атаки увеличится на 35% на 8 сек. При получении урона сила атаки увеличится на 35% на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя. Кроме того, если экипированный персонаж не защищён щитом, его макс. HP увеличится на 56%.",
+        "TH": "หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 35% เป็นเวลา 8 วินาที; หลังจากได้รับความเสียหาย พลังโจมตีจะเพิ่มขึ้น 35% เป็นเวลา 8 วินาที โดยที่เอฟเฟกต์ทั้ง 2 ชนิด ข้างต้นจะยังคงเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ นอกจากนี้ ในขณะที่ไม่ได้รับการป้องกันจากโล่ พลังชีวิตสูงสุดจะเพิ่มขึ้น 56%",
+        "TR": "Karakterin Element Becerisi düşmana isabet ettiğinde 8 saniyeliğine karakterin Saldırısı %35 artar. Karakter Hasar aldıktan sonra 8 saniyeliğine Saldırısı %35 artar. Bahsi geçen 2 etki, karakter savaş alanında değilken bile tetiklenebilir. Ayrıca, karakter bir kalkan tarafından korunmadığında Maks. Canı %56 artar.",
+        "VI": "Sau khi dùng Kỹ Năng Nguyên Tố đánh trúng kẻ địch, tấn công tăng 35% trong 8s; Sau khi chịu phải sát thương, tấn công tăng 35% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt 2 loại hiệu quả nêu trên. Ngoài ra, khi không có khiên bảo vệ, giới hạn HP tăng 56%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After the character's Elemental Skill hits an opponent, their ATK will be increased by 40% for 8s. After the character takes DMG, their ATK will be increased by 40% for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by 64%.",
+        "CHS": "元素战技命中敌人后，攻击力提升40%，持续8秒；受到伤害后，攻击力提升40%，持续8秒。上述2种效果角色处于队伍后台时也能触发。此外，不处于护盾庇护下时，生命值上限提高64%。",
+        "CHT": "元素戰技命中敵人後，攻擊力提升40%，持續8秒；受到傷害後，攻擊力提升40%，持續8秒。上述2種效果角色處於隊伍後臺時也能觸發。此外，不處於護盾庇護下時，生命值上限提高64%。",
+        "DE": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 8 s lang um 40 %. Erhöht beim Erleiden von Schaden den ANG 8 s lang um 40 %. Die 2 oben beschriebenen Effekte treten auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Erhöht außerdem die max. LP um 64 %, solange sich die Figur nicht im Schutz von Schilden aufhält.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 40% durante 8 s. Asimismo, cuando el personaje recibe daño, su ATQ aumenta en un 40% durante 8 s. Estos dos efectos se pueden activar incluso cuando el personaje está en tu equipo pero no en uso. Además, si el portador de esta arma no está bajo la protección de un escudo, su Vida Máx. aumenta en un 64%.",
+        "FR": "#Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de 40 % pendant 8 s. Après avoir subi des DGT, l'ATQ augmente de 40 % pendant 8 s. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé. De plus, lorsqu'il n'est pas protégé par un bouclier, les PV max du personnage augmentent de 64 %.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK meningkat 40% selama 8 detik; Setelah menerima DMG, ATK meningkat 40% selama 8 detik. Kedua efek di atas tetap bisa terpicu meskipun Karakter yang mengenakan Senjata ini ada dalam party namun sedang tidak berada di medan pertempuran. Selain itu, saat tidak dilindungi Perisai, Max HP meningkat 64%.",
+        "IT": "#Quando l'abilità elementale del personaggio colpisce un avversario, l'ATT del personaggio aumenta di un 40% per 8 s. Dopo che il personaggio subisce DAN, il suo ATT aumenta di un 40% per 8 s. I 2 effetti menzionati possono attivarsi anche quando il personaggio non è in campo. In più, quando non è protetto da uno scudo, i PS max del personaggio aumentano di un 64%.",
+        "JP": "元素スキルが敵に命中した後、攻撃力+40%、継続時間8秒。ダメージを受けた後、攻撃力+40%、継続時間8秒。上記二つの効果は、キャラクターが待機中でも発動できる。また、シールド状態でない時、HP上限+64%。",
+        "KR": "원소전투 스킬이 적에게 명중 후 공격력이 40% 증가한다. 지속 시간: 8초. 피해를 입은 후 공격력이 40% 증가한다. 지속 시간: 8초. 상술한 2가지 효과는 캐릭터가 대기 상태 시에도 발동할 수 있다. 또한 보호막의 보호를 받지 않을 시, HP 최대치가 64% 증가한다",
+        "PT": "Quando a Habilidade Elemental atinge um inimigo, aumenta o ATQ em 40% por 8s. Ao sofrer Dano, aumenta o ATQ em 40% por 8s. Os dois efeitos descritos acima podem ser desencadeados mesmo se o personagem não estiver ativo no campo de batalha. Além disso, personagens que não estiverem sob a proteção de um Escudo terão sua Vida Máxima aumentada em 64%.",
+        "RU": "После попадания элементальным навыком по противнику сила атаки увеличится на 40% на 8 сек. При получении урона сила атаки увеличится на 40% на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя. Кроме того, если экипированный персонаж не защищён щитом, его макс. HP увеличится на 64%.",
+        "TH": "หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 40% เป็นเวลา 8 วินาที; หลังจากได้รับความเสียหาย พลังโจมตีจะเพิ่มขึ้น 40% เป็นเวลา 8 วินาที โดยที่เอฟเฟกต์ทั้ง 2 ชนิด ข้างต้นจะยังคงเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ นอกจากนี้ ในขณะที่ไม่ได้รับการป้องกันจากโล่ พลังชีวิตสูงสุดจะเพิ่มขึ้น 64%",
+        "TR": "Karakterin Element Becerisi düşmana isabet ettiğinde 8 saniyeliğine karakterin Saldırısı %40 artar. Karakter Hasar aldıktan sonra 8 saniyeliğine Saldırısı %40 artar. Bahsi geçen 2 etki, karakter savaş alanında değilken bile tetiklenebilir. Ayrıca, karakter bir kalkan tarafından korunmadığında Maks. Canı %64 artar.",
+        "VI": "Sau khi dùng Kỹ Năng Nguyên Tố đánh trúng kẻ địch, tấn công tăng 40% trong 8s; Sau khi chịu phải sát thương, tấn công tăng 40% trong 8s. Nhân vật không ra trận cũng có thể kích hoạt 2 loại hiệu quả nêu trên. Ngoài ra, khi không có khiên bảo vệ, giới hạn HP tăng 64%."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 10011,
+  "name": {
+    "EN": "Lucky Dog",
+    "CHS": "幸运儿",
+    "CHT": "幸運兒",
+    "DE": "Glückspilz",
+    "ES": "Afortunado",
+    "FR": "Chanceux",
+    "ID": "Lucky Dog",
+    "IT": "Fortunello",
+    "JP": "幸運",
+    "KR": "행운아",
+    "PT": "O Sortudo",
+    "RU": "Везунчик",
+    "TH": "Lucky Dog",
+    "TR": "Bahtı Açık",
+    "VI": "Vật May Mắn"
+  },
+  "rarityList": [
+    1,
+    2,
+    3
+  ],
+  "icon": "generated/artifact-profiles/10011/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "DEF increased by 100.",
+        "CHS": "防御力提高100点。",
+        "CHT": "防禦力提高100點。",
+        "DE": "Erhöht die VTD um 100 Punkte.",
+        "ES": "DEF +100.",
+        "FR": "Augmente la DÉF de 100 pts.",
+        "ID": "DEF +100.",
+        "IT": "DIF +100.",
+        "JP": "防御力+100。",
+        "KR": "방어력+100pt",
+        "PT": "DEF +100",
+        "RU": "Увеличивает защиту на 100 ед.",
+        "TH": "เพิ่มพลังป้องกัน 100 หน่วย",
+        "TR": "Savunma 100 artar.",
+        "VI": "Phòng ngự tăng 100 điểm."
+      },
+      "affixId": "2100110"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Picking up Mora restores 300 HP.",
+        "CHS": "拾取摩拉时，恢复300点生命值。",
+        "CHT": "拾取摩拉時，恢復300點生命值。",
+        "DE": "Stellt beim Sammeln von Mora 300 LP wieder her.",
+        "ES": "Recoger Mora restaura 300 pts. de Vida.",
+        "FR": "Collecter des moras restaure 300 PV.",
+        "ID": "Mengambil Mora memulihkan 300 HP.",
+        "IT": "Raccogliere Mora ripristina 300 PS.",
+        "JP": "モラを拾得すると、HPを300回復する。",
+        "KR": "모라 획득 시 HP를 300pt 회복한다",
+        "PT": "Ao coletar Mora, restaura 300 de Vida.",
+        "RU": "Поднятие монет восстанавливает 300 HP.",
+        "TH": "เมื่อเก็บ Mora จะทำการฟื้นฟูพลังชีวิต 300 หน่วย",
+        "TR": "Mora toplamak 300 Can yeniler.",
+        "VI": "Khi nhặt Mora, hồi 300 điểm HP."
+      },
+      "affixId": "2100111"
+    }
+  ]
+}

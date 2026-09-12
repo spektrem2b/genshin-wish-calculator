@@ -1,0 +1,137 @@
+{
+  "id": "10000006",
+  "name": {
+    "EN": "Lisa",
+    "CHS": "丽莎",
+    "CHT": "麗莎",
+    "DE": "Lisa",
+    "ES": "Lisa",
+    "FR": "Lisa",
+    "ID": "Lisa",
+    "IT": "Lisa",
+    "JP": "リサ",
+    "KR": "리사",
+    "PT": "Lisa",
+    "RU": "Лиза",
+    "TH": "Lisa",
+    "TR": "Lisa",
+    "VI": "Lisa"
+  },
+  "nameEn": "Lisa",
+  "element": "Electro",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 6,
+    "day": 9
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000006/avatar.webp",
+  "fullWish": "generated/character-profiles/10000006/full_wish.webp",
+  "fullWishObjectPosition": "53.3% 27.1%",
+  "title": {
+    "EN": "Witch of Purple Rose",
+    "CHS": "蔷薇魔女",
+    "CHT": "薔薇魔女",
+    "DE": "Rosenhexe",
+    "ES": "La Bruja de las Rosas",
+    "FR": "Sorcière à la rose",
+    "ID": "Witch of Purple Rose",
+    "IT": "Strega della Rosa purpurea",
+    "JP": "薔薇の魔女",
+    "KR": "장미 마녀",
+    "PT": "Bruxa das Rosas",
+    "RU": "Пурпурная ведьма",
+    "TH": "แม่มดกุหลาบ",
+    "TR": "Mor Gül Cadısı",
+    "VI": "Ma Nữ Tường Vi"
+  },
+  "description": {
+    "EN": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries.",
+    "CHS": "慵懒而博学的图书管理员，须弥教令院「两百年一见」的天才毕业生。",
+    "CHT": "慵懶而博學的圖書管理員，須彌教令院「兩百年一見」的天才畢業生。",
+    "DE": "Eine faule, aber gelehrte Bibliothekarin, die als Absolventin der Sumeru-Akademie mit dem größten Talent der letzten zweihundert Jahre angesehen wird.",
+    "ES": "La perezosa pero sabia bibliotecaria de los Caballeros de Favonius. En realidad, fue considerada por la Academia de Sumeru como su graduada más sobresaliente en los últimos dos siglos.",
+    "FR": "Une bibliothécaire érudite mais un peu nonchalante, le plus grand talent diplômé de l'Académie de Sumeru de ces deux derniers siècles.",
+    "ID": "Pustakawan Knights of Favonius yang sangat malas namun berwawasan sangat luas. Sumeru Akademiya menyatakan Lisa sebagai lulusan paling berbakat dalam 2 abad terakhir.",
+    "IT": "La languida ma estremamente colta bibliotecaria dei Cavalieri di Favonius, ritenuta dalla Akademiya di Sumeru la studentessa più illustre degli ultimi due secoli.",
+    "JP": "無気力だが博学な図書館司書。スメール教令院「200年に1人」の天才卒業生。",
+    "KR": "느릿느릿하고 게으르지만 박학다식한 도서관 사서. 수메르 아카데미아에서 「이백 년에 한 번 나올까 말까 한」 천재 졸업생이다",
+    "PT": "Preguiçosa, mas conhecida como bibliotecária dos Cavaleiros de Favonius, na verdade foi considerada pela Academia Sumeru como a graduada mais distinguida dos últimos dois séculos.",
+    "RU": "Ленивый, но безгранично эрудированный библиотекарь Ордо Фавониус. Лучшая выпускница Академии Сумеру за последние несколько веков.",
+    "TH": "บรรณารักษ์หอสมุดอัศวินแห่ง Favonius ผู้เอื่อยเฉื่อยแต่รอบรู้ เธอได้รับการยอมรับว่าเป็น \"อัจฉริยะในรอบสองร้อยปี\" แห่งสถาบัน Sumeru",
+    "TR": "Sumeru Akademisi tarafından son iki yüzyılın en seçkin mezunu olarak kabul edilen Favonius Şövalyelerinin tembel ama bilgili Kütüphanecisi.",
+    "VI": "Người quản lý thư viện biếng nhác nhưng thông thái, là sinh viên tốt nghiệp thiên tài \"Hai Trăm Năm Có Một\" của Giáo Viện Sumeru."
+  },
+  "constellationName": {
+    "EN": "Tempus Fugit",
+    "CHS": "沙漏座",
+    "CHT": "沙漏座",
+    "DE": "Tempus Fugit",
+    "ES": "Tempus Fugit",
+    "FR": "Tempus Fugit",
+    "ID": "Tempus Fugit",
+    "IT": "Tempus Fugit",
+    "JP": "砂時計座",
+    "KR": "모래시계자리",
+    "PT": "Tempus Fugit",
+    "RU": "Песочные Часы",
+    "TH": "Tempus Fugit",
+    "TR": "Uçup Giden Zaman",
+    "VI": "Cung Sa Lậu"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Mara Junot"
+    },
+    {
+      "lang": "CHS",
+      "va": "钟可"
+    },
+    {
+      "lang": "JP",
+      "va": "田中理恵"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Go-woon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 802.3761,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.41072,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 48.069,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

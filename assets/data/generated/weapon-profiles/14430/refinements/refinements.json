@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Fangs Flying To and Fro",
+    "CHS": "长牙飞去来",
+    "CHT": "長牙飛去來",
+    "DE": "Umherfliegende Reißzähne",
+    "ES": "Colmillos por doquier",
+    "FR": "Crocs à tout-va",
+    "ID": "Fangs Flying To and Fro",
+    "IT": "Andirivieni di zanne",
+    "JP": "飛び回る長牙",
+    "KR": "회전하는 송곳니",
+    "PT": "Presas Voando de Lá para Cá",
+    "RU": "Мечущиеся клыки",
+    "TH": "Fangs Flying To and Fro",
+    "TR": "Uçuşan Sivri Dişler",
+    "VI": "Răng Nanh Bay Qua Lại"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 20%. For every Hydro Elemental Type character in the party, Max HP is increased by another 12%, and the maximum increase that can be achieved in this way is 24%. Can be triggered once every 15s.",
+        "CHS": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升20%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升12%，至多通过这种方式提升24%，该效果每15秒至多触发一次。",
+        "CHT": "游泳消耗的體力降低15%。此外，施放元素戰技後的10秒內，生命值上限提升20%，隊伍中每存在一位水元素類型的角色，生命值上限將進一步提升12%，至多依此方式提升24%，該效果每15秒至多觸發一次。",
+        "DE": "#Verringert die beim Schwimmen verbrauchte Ausdauer um 15 %. Erhöht außerdem die max. LP nach Anwendung der Elementarfähigkeit 10 s lang um 20 %. Für jede Figur des Elementartyps Hydro in der Truppe werden die max. LP weiter um 12 % erhöht. Auf diese Weise können die max. LP um bis zu 24 % erhöht werden. 15 s Abklingzeit.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al nadar. Además, tras usar la Habilidad Elemental, la Vida Máx. aumenta en un 20% durante 10 s. Por cada personaje Hydro que haya en el equipo, la Vida Máx. aumenta en un 12% adicional, y el aumento máximo que se puede conseguir de esta manera es de un 24%. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "La consommation d'endurance lors de la nage diminue de 15 %. De plus, utiliser une compétence élémentaire augmente les PV max de 20 % pendant 10 s, chaque personnage Hydro dans l'équipe augmentant les PV max de 12 % supplémentaires jusqu'à un maximum de 24 %. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Mengurangi Stamina Berenang sebesar 15%. Selain itu, dalam 10 detik setelah melancarkan Elemental Skill, Max HP meningkat 20%. Untuk setiap 1 Karakter Hydro di dalam party, Max HP akan meningkat 12%, peningkatan yang bisa diperoleh dengan cara ini maksimum 24%. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Il consumo di vigore durante il nuoto diminuisce di un 15%. Inoltre, usare un'abilità elementale aumenta i PS max di un 20% per 10 s. Per ogni personaggio di Hydro nel gruppo, il suddetto bonus ai PS max aumenta di un ulteriore 12%. È possibile ottenere fino a un 24% aggiuntivo massimo. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+20%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+12%、この方法でアップできるHP上限は最大24%まで。上記効果は15秒毎に1回のみ発動可能。",
+        "KR": "수영에 소모되는 스태미나가 15% 감소한다. 또한 원소전투 스킬 발동 후 10초 동안, HP 최대치가 20% 증가한다. 파티 내에 물 원소 타입 캐릭터가 1명 있을 때마다 HP 최대치가 추가로 12% 증가하며, 해당 방식으로 최대 24% 증가한다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Diminui o consumo de Stamina ao Nadar em 15%. Além disso, por 10s após usar uma Habilidade Elemental, a Vida Máxima é aumentada em 20%. Para cada personagem Hydro na equipe, a Vida Máxima é aumentada em mais 12%, e o aumento máximo que pode ser alcançado dessa forma é de 24%. Pode ser ativado uma vez a cada 15s.",
+        "RU": "Уменьшает потребление выносливости во время плавания на 15%. Кроме того, увеличивает макс. HP на 20% на 10 сек. после применения элементального навыка. За каждого Гидро персонажа в отряде макс. HP дополнительно повышается на 12%. Максимальное увеличение, получаемое таким способом, составляет 24%. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "ลดอัตราการใช้พลังกายในการว่ายน้ำลง 15% นอกจากนี้ ภายใน 10 วินาที หลังจากใช้สกิลธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 20% และตัวละครธาตุน้ำทุก 1 ตัวที่อยู่ในทีม จะทำให้พลังชีวิตสูงสุดเพิ่มขึ้นอีก 12% โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 24% เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Yüzme sırasındaki Dayanıklılık Tüketimi %15 azalır. Bir Element Becerisi kullandıktan sonra 10sn boyunca Maks. Can %20 artar. Grubundaki her Su karakteri için Maks. Can ek %12 daha artar. Bu şekilde kazanılabilecek en fazla artış %24 olur. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bơi. Ngoài ra, trong 10s sau khi thi triển Kỹ Năng Nguyên Tố, Giới Hạn HP tăng 20%, trong đội mỗi tồn tại một nhân vật Nguyên Tố Thủy thì Giới Hạn HP sẽ tăng thêm 12%, tối đa tăng 24% thông qua cách thức này. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 25%. For every Hydro Elemental Type character in the party, Max HP is increased by another 15%, and the maximum increase that can be achieved in this way is 30%. Can be triggered once every 15s.",
+        "CHS": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升25%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升15%，至多通过这种方式提升30%，该效果每15秒至多触发一次。",
+        "CHT": "游泳消耗的體力降低15%。此外，施放元素戰技後的10秒內，生命值上限提升25%，隊伍中每存在一位水元素類型的角色，生命值上限將進一步提升15%，至多依此方式提升30%，該效果每15秒至多觸發一次。",
+        "DE": "#Verringert die beim Schwimmen verbrauchte Ausdauer um 15 %. Erhöht außerdem die max. LP nach Anwendung der Elementarfähigkeit 10 s lang um 25 %. Für jede Figur des Elementartyps Hydro in der Truppe werden die max. LP weiter um 15 % erhöht. Auf diese Weise können die max. LP um bis zu 30 % erhöht werden. 15 s Abklingzeit.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al nadar. Además, tras usar la Habilidad Elemental, la Vida Máx. aumenta en un 25% durante 10 s. Por cada personaje Hydro que haya en el equipo, la Vida Máx. aumenta en un 15% adicional, y el aumento máximo que se puede conseguir de esta manera es de un 30%. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "La consommation d'endurance lors de la nage diminue de 15 %. De plus, utiliser une compétence élémentaire augmente les PV max de 25 % pendant 10 s, chaque personnage Hydro dans l'équipe augmentant les PV max de 15 % supplémentaires jusqu'à un maximum de 30 %. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Mengurangi Stamina Berenang sebesar 15%. Selain itu, dalam 10 detik setelah melancarkan Elemental Skill, Max HP meningkat 25%. Untuk setiap 1 Karakter Hydro di dalam party, Max HP akan meningkat 15%, peningkatan yang bisa diperoleh dengan cara ini maksimum 30%. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Il consumo di vigore durante il nuoto diminuisce di un 15%. Inoltre, usare un'abilità elementale aumenta i PS max di un 25% per 10 s. Per ogni personaggio di Hydro nel gruppo, il suddetto bonus ai PS max aumenta di un ulteriore 15%. È possibile ottenere fino a un 30% aggiuntivo massimo. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+25%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+15%、この方法でアップできるHP上限は最大30%まで。上記効果は15秒毎に1回のみ発動可能。",
+        "KR": "수영에 소모되는 스태미나가 15% 감소한다. 또한 원소전투 스킬 발동 후 10초 동안, HP 최대치가 25% 증가한다. 파티 내에 물 원소 타입 캐릭터가 1명 있을 때마다 HP 최대치가 추가로 15% 증가하며, 해당 방식으로 최대 30% 증가한다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Diminui o consumo de Stamina ao Nadar em 15%. Além disso, por 10s após usar uma Habilidade Elemental, a Vida Máxima é aumentada em 25%. Para cada personagem Hydro na equipe, a Vida Máxima é aumentada em mais 15%, e o aumento máximo que pode ser alcançado dessa forma é de 30%. Pode ser ativado uma vez a cada 15s.",
+        "RU": "Уменьшает потребление выносливости во время плавания на 15%. Кроме того, увеличивает макс. HP на 25% на 10 сек. после применения элементального навыка. За каждого Гидро персонажа в отряде макс. HP дополнительно повышается на 15%. Максимальное увеличение, получаемое таким способом, составляет 30%. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "ลดอัตราการใช้พลังกายในการว่ายน้ำลง 15% นอกจากนี้ ภายใน 10 วินาที หลังจากใช้สกิลธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 25% และตัวละครธาตุน้ำทุก 1 ตัวที่อยู่ในทีม จะทำให้พลังชีวิตสูงสุดเพิ่มขึ้นอีก 15% โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 30% เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Yüzme sırasındaki Dayanıklılık Tüketimi %15 azalır. Bir Element Becerisi kullandıktan sonra 10sn boyunca Maks. Can %25 artar. Grubundaki her Su karakteri için Maks. Can ek %15 daha artar. Bu şekilde kazanılabilecek en fazla artış %30 olur. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bơi. Ngoài ra, trong 10s sau khi thi triển Kỹ Năng Nguyên Tố, Giới Hạn HP tăng 25%, trong đội mỗi tồn tại một nhân vật Nguyên Tố Thủy thì Giới Hạn HP sẽ tăng thêm 15%, tối đa tăng 30% thông qua cách thức này. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 30%. For every Hydro Elemental Type character in the party, Max HP is increased by another 18%, and the maximum increase that can be achieved in this way is 36%. Can be triggered once every 15s.",
+        "CHS": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升30%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升18%，至多通过这种方式提升36%，该效果每15秒至多触发一次。",
+        "CHT": "游泳消耗的體力降低15%。此外，施放元素戰技後的10秒內，生命值上限提升30%，隊伍中每存在一位水元素類型的角色，生命值上限將進一步提升18%，至多依此方式提升36%，該效果每15秒至多觸發一次。",
+        "DE": "#Verringert die beim Schwimmen verbrauchte Ausdauer um 15 %. Erhöht außerdem die max. LP nach Anwendung der Elementarfähigkeit 10 s lang um 30 %. Für jede Figur des Elementartyps Hydro in der Truppe werden die max. LP weiter um 18 % erhöht. Auf diese Weise können die max. LP um bis zu 36 % erhöht werden. 15 s Abklingzeit.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al nadar. Además, tras usar la Habilidad Elemental, la Vida Máx. aumenta en un 30% durante 10 s. Por cada personaje Hydro que haya en el equipo, la Vida Máx. aumenta en un 18% adicional, y el aumento máximo que se puede conseguir de esta manera es de un 36%. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "La consommation d'endurance lors de la nage diminue de 15 %. De plus, utiliser une compétence élémentaire augmente les PV max de 30 % pendant 10 s, chaque personnage Hydro dans l'équipe augmentant les PV max de 18 % supplémentaires jusqu'à un maximum de 36 %. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Mengurangi Stamina Berenang sebesar 15%. Selain itu, dalam 10 detik setelah melancarkan Elemental Skill, Max HP meningkat 30%. Untuk setiap 1 Karakter Hydro di dalam party, Max HP akan meningkat 18%, peningkatan yang bisa diperoleh dengan cara ini maksimum 36%. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Il consumo di vigore durante il nuoto diminuisce di un 15%. Inoltre, usare un'abilità elementale aumenta i PS max di un 30% per 10 s. Per ogni personaggio di Hydro nel gruppo, il suddetto bonus ai PS max aumenta di un ulteriore 18%. È possibile ottenere fino a un 36% aggiuntivo massimo. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+30%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+18%、この方法でアップできるHP上限は最大36%まで。上記効果は15秒毎に1回のみ発動可能。",
+        "KR": "수영에 소모되는 스태미나가 15% 감소한다. 또한 원소전투 스킬 발동 후 10초 동안, HP 최대치가 30% 증가한다. 파티 내에 물 원소 타입 캐릭터가 1명 있을 때마다 HP 최대치가 추가로 18% 증가하며, 해당 방식으로 최대 36% 증가한다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Diminui o consumo de Stamina ao Nadar em 15%. Além disso, por 10s após usar uma Habilidade Elemental, a Vida Máxima é aumentada em 30%. Para cada personagem Hydro na equipe, a Vida Máxima é aumentada em mais 18%, e o aumento máximo que pode ser alcançado dessa forma é de 36%. Pode ser ativado uma vez a cada 15s.",
+        "RU": "Уменьшает потребление выносливости во время плавания на 15%. Кроме того, увеличивает макс. HP на 30% на 10 сек. после применения элементального навыка. За каждого Гидро персонажа в отряде макс. HP дополнительно повышается на 18%. Максимальное увеличение, получаемое таким способом, составляет 36%. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "ลดอัตราการใช้พลังกายในการว่ายน้ำลง 15% นอกจากนี้ ภายใน 10 วินาที หลังจากใช้สกิลธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 30% และตัวละครธาตุน้ำทุก 1 ตัวที่อยู่ในทีม จะทำให้พลังชีวิตสูงสุดเพิ่มขึ้นอีก 18% โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 36% เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Yüzme sırasındaki Dayanıklılık Tüketimi %15 azalır. Bir Element Becerisi kullandıktan sonra 10sn boyunca Maks. Can %30 artar. Grubundaki her Su karakteri için Maks. Can ek %18 daha artar. Bu şekilde kazanılabilecek en fazla artış %36 olur. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bơi. Ngoài ra, trong 10s sau khi thi triển Kỹ Năng Nguyên Tố, Giới Hạn HP tăng 30%, trong đội mỗi tồn tại một nhân vật Nguyên Tố Thủy thì Giới Hạn HP sẽ tăng thêm 18%, tối đa tăng 36% thông qua cách thức này. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 35%. For every Hydro Elemental Type character in the party, Max HP is increased by another 21%, and the maximum increase that can be achieved in this way is 42%. Can be triggered once every 15s.",
+        "CHS": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升35%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升21%，至多通过这种方式提升42%，该效果每15秒至多触发一次。",
+        "CHT": "游泳消耗的體力降低15%。此外，施放元素戰技後的10秒內，生命值上限提升35%，隊伍中每存在一位水元素類型的角色，生命值上限將進一步提升21%，至多依此方式提升42%，該效果每15秒至多觸發一次。",
+        "DE": "#Verringert die beim Schwimmen verbrauchte Ausdauer um 15 %. Erhöht außerdem die max. LP nach Anwendung der Elementarfähigkeit 10 s lang um 35 %. Für jede Figur des Elementartyps Hydro in der Truppe werden die max. LP weiter um 21 % erhöht. Auf diese Weise können die max. LP um bis zu 42 % erhöht werden. 15 s Abklingzeit.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al nadar. Además, tras usar la Habilidad Elemental, la Vida Máx. aumenta en un 35% durante 10 s. Por cada personaje Hydro que haya en el equipo, la Vida Máx. aumenta en un 21% adicional, y el aumento máximo que se puede conseguir de esta manera es de un 42%. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "La consommation d'endurance lors de la nage diminue de 15 %. De plus, utiliser une compétence élémentaire augmente les PV max de 35 % pendant 10 s, chaque personnage Hydro dans l'équipe augmentant les PV max de 21 % supplémentaires jusqu'à un maximum de 42 %. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Mengurangi Stamina Berenang sebesar 15%. Selain itu, dalam 10 detik setelah melancarkan Elemental Skill, Max HP meningkat 35%. Untuk setiap 1 Karakter Hydro di dalam party, Max HP akan meningkat 21%, peningkatan yang bisa diperoleh dengan cara ini maksimum 42%. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Il consumo di vigore durante il nuoto diminuisce di un 15%. Inoltre, usare un'abilità elementale aumenta i PS max di un 35% per 10 s. Per ogni personaggio di Hydro nel gruppo, il suddetto bonus ai PS max aumenta di un ulteriore 21%. È possibile ottenere fino a un 42% aggiuntivo massimo. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+35%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+21%、この方法でアップできるHP上限は最大42%まで。上記効果は15秒毎に1回のみ発動可能。",
+        "KR": "수영에 소모되는 스태미나가 15% 감소한다. 또한 원소전투 스킬 발동 후 10초 동안, HP 최대치가 35% 증가한다. 파티 내에 물 원소 타입 캐릭터가 1명 있을 때마다 HP 최대치가 추가로 21% 증가하며, 해당 방식으로 최대 42% 증가한다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Diminui o consumo de Stamina ao Nadar em 15%. Além disso, por 10s após usar uma Habilidade Elemental, a Vida Máxima é aumentada em 35%. Para cada personagem Hydro na equipe, a Vida Máxima é aumentada em mais 21%, e o aumento máximo que pode ser alcançado dessa forma é de 42%. Pode ser ativado uma vez a cada 15s.",
+        "RU": "Уменьшает потребление выносливости во время плавания на 15%. Кроме того, увеличивает макс. HP на 35% на 10 сек. после применения элементального навыка. За каждого Гидро персонажа в отряде макс. HP дополнительно повышается на 21%. Максимальное увеличение, получаемое таким способом, составляет 42%. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "ลดอัตราการใช้พลังกายในการว่ายน้ำลง 15% นอกจากนี้ ภายใน 10 วินาที หลังจากใช้สกิลธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 35% และตัวละครธาตุน้ำทุก 1 ตัวที่อยู่ในทีม จะทำให้พลังชีวิตสูงสุดเพิ่มขึ้นอีก 21% โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 42% เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Yüzme sırasındaki Dayanıklılık Tüketimi %15 azalır. Bir Element Becerisi kullandıktan sonra 10sn boyunca Maks. Can %35 artar. Grubundaki her Su karakteri için Maks. Can ek %21 daha artar. Bu şekilde kazanılabilecek en fazla artış %42 olur. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bơi. Ngoài ra, trong 10s sau khi thi triển Kỹ Năng Nguyên Tố, Giới Hạn HP tăng 35%, trong đội mỗi tồn tại một nhân vật Nguyên Tố Thủy thì Giới Hạn HP sẽ tăng thêm 21%, tối đa tăng 42% thông qua cách thức này. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 40%. For every Hydro Elemental Type character in the party, Max HP is increased by another 24%, and the maximum increase that can be achieved in this way is 48%. Can be triggered once every 15s.",
+        "CHS": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升40%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升24%，至多通过这种方式提升48%，该效果每15秒至多触发一次。",
+        "CHT": "游泳消耗的體力降低15%。此外，施放元素戰技後的10秒內，生命值上限提升40%，隊伍中每存在一位水元素類型的角色，生命值上限將進一步提升24%，至多依此方式提升48%，該效果每15秒至多觸發一次。",
+        "DE": "#Verringert die beim Schwimmen verbrauchte Ausdauer um 15 %. Erhöht außerdem die max. LP nach Anwendung der Elementarfähigkeit 10 s lang um 40 %. Für jede Figur des Elementartyps Hydro in der Truppe werden die max. LP weiter um 24 % erhöht. Auf diese Weise können die max. LP um bis zu 48 % erhöht werden. 15 s Abklingzeit.",
+        "ES": "#Reduce en un 15% el Coste de Aguante al nadar. Además, tras usar la Habilidad Elemental, la Vida Máx. aumenta en un 40% durante 10 s. Por cada personaje Hydro que haya en el equipo, la Vida Máx. aumenta en un 24% adicional, y el aumento máximo que se puede conseguir de esta manera es de un 48%. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "La consommation d'endurance lors de la nage diminue de 15 %. De plus, utiliser une compétence élémentaire augmente les PV max de 40 % pendant 10 s, chaque personnage Hydro dans l'équipe augmentant les PV max de 24 % supplémentaires jusqu'à un maximum de 48 %. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Mengurangi Stamina Berenang sebesar 15%. Selain itu, dalam 10 detik setelah melancarkan Elemental Skill, Max HP meningkat 40%. Untuk setiap 1 Karakter Hydro di dalam party, Max HP akan meningkat 24%, peningkatan yang bisa diperoleh dengan cara ini maksimum 48%. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Il consumo di vigore durante il nuoto diminuisce di un 15%. Inoltre, usare un'abilità elementale aumenta i PS max di un 40% per 10 s. Per ogni personaggio di Hydro nel gruppo, il suddetto bonus ai PS max aumenta di un ulteriore 24%. È possibile ottenere fino a un 48% aggiuntivo massimo. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+40%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+24%、この方法でアップできるHP上限は最大48%まで。上記効果は15秒毎に1回のみ発動可能。",
+        "KR": "수영에 소모되는 스태미나가 15% 감소한다. 또한 원소전투 스킬 발동 후 10초 동안, HP 최대치가 40% 증가한다. 파티 내에 물 원소 타입 캐릭터가 1명 있을 때마다 HP 최대치가 추가로 24% 증가하며, 해당 방식으로 최대 48% 증가한다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Diminui o consumo de Stamina ao Nadar em 15%. Além disso, por 10s após usar uma Habilidade Elemental, a Vida Máxima é aumentada em 40%. Para cada personagem Hydro na equipe, a Vida Máxima é aumentada em mais 24%, e o aumento máximo que pode ser alcançado dessa forma é de 48%. Pode ser ativado uma vez a cada 15s.",
+        "RU": "Уменьшает потребление выносливости во время плавания на 15%. Кроме того, увеличивает макс. HP на 40% на 10 сек. после применения элементального навыка. За каждого Гидро персонажа в отряде макс. HP дополнительно повышается на 24%. Максимальное увеличение, получаемое таким способом, составляет 48%. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "ลดอัตราการใช้พลังกายในการว่ายน้ำลง 15% นอกจากนี้ ภายใน 10 วินาที หลังจากใช้สกิลธาตุ พลังชีวิตสูงสุดจะเพิ่มขึ้น 40% และตัวละครธาตุน้ำทุก 1 ตัวที่อยู่ในทีม จะทำให้พลังชีวิตสูงสุดเพิ่มขึ้นอีก 24% โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 48% เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Yüzme sırasındaki Dayanıklılık Tüketimi %15 azalır. Bir Element Becerisi kullandıktan sonra 10sn boyunca Maks. Can %40 artar. Grubundaki her Su karakteri için Maks. Can ek %24 daha artar. Bu şekilde kazanılabilecek en fazla artış %48 olur. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Giảm 15% thể lực tiêu hao khi bơi. Ngoài ra, trong 10s sau khi thi triển Kỹ Năng Nguyên Tố, Giới Hạn HP tăng 40%, trong đội mỗi tồn tại một nhân vật Nguyên Tố Thủy thì Giới Hạn HP sẽ tăng thêm 24%, tối đa tăng 48% thông qua cách thức này. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

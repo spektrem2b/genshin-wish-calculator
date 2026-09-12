@@ -1,0 +1,41 @@
+{
+  "name": {
+    "EN": "Isshin Art Clarity",
+    "CHS": "澄澄一心传",
+    "CHT": "澄澄一心傳",
+    "DE": "Klarheit der Isshin-Schule",
+    "ES": "Claridad de la técnica Isshin",
+    "FR": "Clarté de l'Art Isshin",
+    "ID": "Isshin Art Clarity",
+    "IT": "Chiarezza dell'arte Isshin",
+    "JP": "澄·一心伝",
+    "KR": "투명한 잇신의 기술",
+    "PT": "Claridade da Arte Isshin",
+    "RU": "Ясность искусства Иссин",
+    "TH": "Isshin Art Clarity",
+    "TR": "Berrak Isshin Sanatı",
+    "VI": "Tinh Hoa Isshin"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s.",
+        "CHS": "普通攻击、重击或下落攻击命中敌人时，将卷起切落风，造成180%攻击力的范围伤害，并且使攻击力提升15%，持续8秒。该效果每8秒至多触发一次。",
+        "CHT": "普通攻擊、重擊或下落攻擊命中敵人時，將捲起切落風，造成180%攻擊力的範圍傷害，並且使攻擊力提升15%，持續8秒。該效果每8秒至多觸發一次。",
+        "DE": "Wirbelt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen dreschenden Wind auf, der Flächenschaden in Höhe von 180 % ANG verursacht und den ANG 8 s lang um 15 % erhöht. 8 s Abklingzeit.",
+        "ES": "Al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, se crea una ráfaga de viento cortante que inflige un Daño en el AdE equivalente al 180% del ATQ y aumenta en un 15% el ATQ durante 8 s. Este efecto solo se puede activar una vez cada 8 s.",
+        "FR": "Lorsqu'une attaque normale, chargée ou plongeante touche un ennemi, elle déclenche une rafale de mistral, infligeant des DGT de zone équivalant à 180 % de l'ATQ et augmentant l'ATQ de 15 % pendant 8 s. Cet effet peut être déclenché une fois toutes les 8 s.",
+        "ID": "Saat Normal, Charged, atau Plunging Attack mengenai musuh, akan memicu Hewing Gale yang mengakibatkan DMG Area setara dengan 180% ATK dan meningkatkan 15% ATK selama 8 detik. Efek ini dapat terpicu setiap 8 detik.",
+        "IT": "#Quando un attacco normale, caricato o in picchiata colpisce un avversario, crea una Burrasca tagliente, infliggendo DAN ad area pari a un 180% dell'ATT e aumentando l'ATT di un 15% per 8 s. Quest'effetto può attivarsi una volta ogni 8 s.",
+        "JP": "通常攻撃、重撃、落下攻撃が敵に命中すると鋭い風が巻き起こり、攻撃力の180%の範囲ダメージを与える。また攻撃力+15%、継続時間8秒。この効果は8秒毎に1回のみ発動可能。",
+        "KR": "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 날카로운 바람으로 공격력의 180%에 해당하는 범위 피해를 주고, 공격력이 15% 증가한다. 지속 시간: 8초. 해당 효과는 8초마다 최대 1회 발동한다",
+        "PT": "Quando um Ataque Normal, Ataque Carregado ou Ataque Imersivo atinge um inimigo, criará Vento Cortador, que infligirá Dano em AdE equivalente a 180% do ATQ e aumenta o ATQ em 15% por 8s. Esse efeito pode ser desencadeado uma vez a cada 8s.",
+        "RU": "Попадания обычной атакой, заряженной атакой или атакой в падении поднимают Секущий ветер, который наносит урон по площади, равный 180% от силы атаки, а также повышает силу атаки на 15% на 8 сек. Этот эффект может возникнуть раз в 8 сек.",
+        "TH": "เมื่อการโจมตีปกติ การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศถูกศัตรู จะทำให้เกิด Hewing Gale เพื่อสร้างความเสียหายวงกว้างเป็น 180% ของพลังโจมตี และเพิ่มพลังโจมตีขึ้น 15% เป็นเวลา 8 วินาที โดยที่ทุก 8 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 1 ครั้ง",
+        "TR": "Normal, Yüklü veya Havadan Saldırılar bir düşmana isabet ederse Yontucu Fırtına oluşur. Bu fırtına, Saldırının %180'i kadar Alan Hasarı verir ve 8 saniyeliğine Saldırıyı %15 artırır. Bu etki 8 saniyede bir tetiklenebilir.",
+        "VI": "Khi tấn công thường, trọng kích hoặc tấn công khi đáp trúng kẻ địch sẽ thi triển Gió Cắt, gây 180% sát thương diện rộng, đồng thời tăng 15% tấn công, duy trì 8s. Hiệu quả này mỗi 8s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

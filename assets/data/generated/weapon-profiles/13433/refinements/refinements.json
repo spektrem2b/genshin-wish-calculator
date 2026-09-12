@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Swift and Sure",
+    "CHS": "当机立断",
+    "CHT": "當機立斷",
+    "DE": "Entschlossenes Handeln",
+    "ES": "Resolución",
+    "FR": "Tranchant de la décision",
+    "ID": "Swift and Sure",
+    "IT": "Veloce ed efficace",
+    "JP": "迅速果断",
+    "KR": "빠른 결단",
+    "PT": "Decisões Imediatas",
+    "RU": "Молниеносная решительность",
+    "TH": "Swift and Sure",
+    "TR": "Hızlı ve Kesin",
+    "VI": "Thời Cơ Quyết Đoán"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Electro-Charged DMG is increased by 48%, and Lunar-Charged DMG is increased by 12%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 12%.",
+        "CHS": "感电反应造成的伤害提升48%，月感电反应造成的伤害提升12%。月兆·满辉：月感电反应造成的伤害额外提升12%。",
+        "CHT": "感電反應造成的傷害提升48%，月感電反應造成的傷害提升12%。月兆·滿輝：月感電反應造成的傷害額外提升12%。",
+        "DE": "#Erhöht den durch die Reaktion „Unter Strom“ verursachten Schaden um 48 % und den durch die Reaktion „Mond unter Strom“ verursachten Schaden um 12 %. Mondomen – Reifer Glanz: Erhöht den durch die Reaktion „Mond unter Strom“ verursachten Schaden zusätzlich um 12 %.",
+        "ES": "Aumenta en un 48% el daño de la reacción de Electrocargado, y en un 12% el de Electrocargado Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Electrocargado Lunar aumenta en un 12% adicional.",
+        "FR": "Les DGT infligés par les réactions d'Électrocution augmentent de 48 % et ceux des réactions de Sélénocution de 12 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénocution augmentent de 12 % supplémentaires.",
+        "ID": "DMG reaksi Electro-Charged +48% dan DMG reaksi Lunar-Charged +12%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Charged meningkat 12% lagi.",
+        "IT": "I DAN da Electrocarica aumentano di un 48% e i DAN da Carica lunare di un 12%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Carica lunare aumentano di un ulteriore 12%.",
+        "JP": "感電反応ダメージ+48%、月感電反応ダメージ+12%。月兆・満照：上記の月感電反応ダメージアップ効果がさらに+12%。",
+        "KR": "감전 반응으로 주는 피해가 48% 증가하고, 달 감전 반응으로 주는 피해가 12% 증가한다. 달빛 징조·보름: 달 감전 반응으로 주는 피해가 추가로 12% 증가한다",
+        "PT": "Dano de Eletricamente Carregado é aumentado em 48%. Dano de Carga Lunar é aumentado em 12%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Carga Lunar em mais 12%.",
+        "RU": "Урон реакции Заряжен повышается на 48%, а реакции Лунный заряд - на 12%. Лунное знамение - Высшее сияние: урон реакции Лунный заряд дополнительно повышается на 12%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยาชาร์จไฟฟ้าเพิ่มขึ้น 48% และความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราเพิ่มขึ้น 12% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราจะเพิ่มขึ้นอีก 12%",
+        "TR": "Elektrik Yüklü Hasarı %48 artar, Ay Yüklü Hasarı ise %12 artar. Ay Sembolü: Yükselen Parıltı: Ay Yüklü Hasarı %12 daha artar.",
+        "VI": "Sát thương phản ứng Điện Cảm tăng 48%, sát thương phản ứng Nguyệt-Điện Cảm tăng 12%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Điện Cảm tăng thêm 12%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Electro-Charged DMG is increased by 60%, and Lunar-Charged DMG is increased by 15%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 15%.",
+        "CHS": "感电反应造成的伤害提升60%，月感电反应造成的伤害提升15%。月兆·满辉：月感电反应造成的伤害额外提升15%。",
+        "CHT": "感電反應造成的傷害提升60%，月感電反應造成的傷害提升15%。月兆·滿輝：月感電反應造成的傷害額外提升15%。",
+        "DE": "#Erhöht den durch die Reaktion „Unter Strom“ verursachten Schaden um 60 % und den durch die Reaktion „Mond unter Strom“ verursachten Schaden um 15 %. Mondomen – Reifer Glanz: Erhöht den durch die Reaktion „Mond unter Strom“ verursachten Schaden zusätzlich um 15 %.",
+        "ES": "Aumenta en un 60% el daño de la reacción de Electrocargado, y en un 15% el de Electrocargado Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Electrocargado Lunar aumenta en un 15% adicional.",
+        "FR": "Les DGT infligés par les réactions d'Électrocution augmentent de 60 % et ceux des réactions de Sélénocution de 15 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénocution augmentent de 15 % supplémentaires.",
+        "ID": "DMG reaksi Electro-Charged +60% dan DMG reaksi Lunar-Charged +15%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Charged meningkat 15% lagi.",
+        "IT": "I DAN da Electrocarica aumentano di un 60% e i DAN da Carica lunare di un 15%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Carica lunare aumentano di un ulteriore 15%.",
+        "JP": "感電反応ダメージ+60%、月感電反応ダメージ+15%。月兆・満照：上記の月感電反応ダメージアップ効果がさらに+15%。",
+        "KR": "감전 반응으로 주는 피해가 60% 증가하고, 달 감전 반응으로 주는 피해가 15% 증가한다. 달빛 징조·보름: 달 감전 반응으로 주는 피해가 추가로 15% 증가한다",
+        "PT": "Dano de Eletricamente Carregado é aumentado em 60%. Dano de Carga Lunar é aumentado em 15%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Carga Lunar em mais 15%.",
+        "RU": "Урон реакции Заряжен повышается на 60%, а реакции Лунный заряд - на 15%. Лунное знамение - Высшее сияние: урон реакции Лунный заряд дополнительно повышается на 15%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยาชาร์จไฟฟ้าเพิ่มขึ้น 60% และความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราเพิ่มขึ้น 15% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราจะเพิ่มขึ้นอีก 15%",
+        "TR": "Elektrik Yüklü Hasarı %60 artar, Ay Yüklü Hasarı ise %15 artar. Ay Sembolü: Yükselen Parıltı: Ay Yüklü Hasarı %15 daha artar.",
+        "VI": "Sát thương phản ứng Điện Cảm tăng 60%, sát thương phản ứng Nguyệt-Điện Cảm tăng 15%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Điện Cảm tăng thêm 15%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Electro-Charged DMG is increased by 72%, and Lunar-Charged DMG is increased by 18%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 18%.",
+        "CHS": "感电反应造成的伤害提升72%，月感电反应造成的伤害提升18%。月兆·满辉：月感电反应造成的伤害额外提升18%。",
+        "CHT": "感電反應造成的傷害提升72%，月感電反應造成的傷害提升18%。月兆·滿輝：月感電反應造成的傷害額外提升18%。",
+        "DE": "#Erhöht den durch die Reaktion „Unter Strom“ verursachten Schaden um 72 % und den durch die Reaktion „Mond unter Strom“ verursachten Schaden um 18 %. Mondomen – Reifer Glanz: Erhöht den durch die Reaktion „Mond unter Strom“ verursachten Schaden zusätzlich um 18 %.",
+        "ES": "Aumenta en un 72% el daño de la reacción de Electrocargado, y en un 18% el de Electrocargado Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Electrocargado Lunar aumenta en un 18% adicional.",
+        "FR": "Les DGT infligés par les réactions d'Électrocution augmentent de 72 % et ceux des réactions de Sélénocution de 18 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénocution augmentent de 18 % supplémentaires.",
+        "ID": "DMG reaksi Electro-Charged +72% dan DMG reaksi Lunar-Charged +18%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Charged meningkat 18% lagi.",
+        "IT": "I DAN da Electrocarica aumentano di un 72% e i DAN da Carica lunare di un 18%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Carica lunare aumentano di un ulteriore 18%.",
+        "JP": "感電反応ダメージ+72%、月感電反応ダメージ+18%。月兆・満照：上記の月感電反応ダメージアップ効果がさらに+18%。",
+        "KR": "감전 반응으로 주는 피해가 72% 증가하고, 달 감전 반응으로 주는 피해가 18% 증가한다. 달빛 징조·보름: 달 감전 반응으로 주는 피해가 추가로 18% 증가한다",
+        "PT": "Dano de Eletricamente Carregado é aumentado em 72%. Dano de Carga Lunar é aumentado em 18%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Carga Lunar em mais 18%.",
+        "RU": "Урон реакции Заряжен повышается на 72%, а реакции Лунный заряд - на 18%. Лунное знамение - Высшее сияние: урон реакции Лунный заряд дополнительно повышается на 18%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยาชาร์จไฟฟ้าเพิ่มขึ้น 72% และความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราเพิ่มขึ้น 18% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราจะเพิ่มขึ้นอีก 18%",
+        "TR": "Elektrik Yüklü Hasarı %72 artar, Ay Yüklü Hasarı ise %18 artar. Ay Sembolü: Yükselen Parıltı: Ay Yüklü Hasarı %18 daha artar.",
+        "VI": "Sát thương phản ứng Điện Cảm tăng 72%, sát thương phản ứng Nguyệt-Điện Cảm tăng 18%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Điện Cảm tăng thêm 18%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Electro-Charged DMG is increased by 84%, and Lunar-Charged DMG is increased by 21%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 21%.",
+        "CHS": "感电反应造成的伤害提升84%，月感电反应造成的伤害提升21%。月兆·满辉：月感电反应造成的伤害额外提升21%。",
+        "CHT": "感電反應造成的傷害提升84%，月感電反應造成的傷害提升21%。月兆·滿輝：月感電反應造成的傷害額外提升21%。",
+        "DE": "#Erhöht den durch die Reaktion „Unter Strom“ verursachten Schaden um 84 % und den durch die Reaktion „Mond unter Strom“ verursachten Schaden um 21 %. Mondomen – Reifer Glanz: Erhöht den durch die Reaktion „Mond unter Strom“ verursachten Schaden zusätzlich um 21 %.",
+        "ES": "Aumenta en un 84% el daño de la reacción de Electrocargado, y en un 21% el de Electrocargado Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Electrocargado Lunar aumenta en un 21% adicional.",
+        "FR": "Les DGT infligés par les réactions d'Électrocution augmentent de 84 % et ceux des réactions de Sélénocution de 21 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénocution augmentent de 21 % supplémentaires.",
+        "ID": "DMG reaksi Electro-Charged +84% dan DMG reaksi Lunar-Charged +21%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Charged meningkat 21% lagi.",
+        "IT": "I DAN da Electrocarica aumentano di un 84% e i DAN da Carica lunare di un 21%.Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Carica lunare aumentano di un ulteriore 21%.",
+        "JP": "感電反応ダメージ+84%、月感電反応ダメージ+21%。月兆・満照：上記の月感電反応ダメージアップ効果がさらに+21%。",
+        "KR": "감전 반응으로 주는 피해가 84% 증가하고, 달 감전 반응으로 주는 피해가 21% 증가한다. 달빛 징조·보름: 달 감전 반응으로 주는 피해가 추가로 21% 증가한다",
+        "PT": "Dano de Eletricamente Carregado é aumentado em 84%. Dano de Carga Lunar é aumentado em 21%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Carga Lunar em mais 21%.",
+        "RU": "Урон реакции Заряжен повышается на 84%, а реакции Лунный заряд - на 21%. Лунное знамение - Высшее сияние: урон реакции Лунный заряд дополнительно повышается на 21%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยาชาร์จไฟฟ้าเพิ่มขึ้น 84% และความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราเพิ่มขึ้น 21% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราจะเพิ่มขึ้นอีก 21%",
+        "TR": "Elektrik Yüklü Hasarı %84 artar, Ay Yüklü Hasarı ise %21 artar. Ay Sembolü: Yükselen Parıltı: Ay Yüklü Hasarı %21 daha artar.",
+        "VI": "Sát thương phản ứng Điện Cảm tăng 84%, sát thương phản ứng Nguyệt-Điện Cảm tăng 21%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Điện Cảm tăng thêm 21%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Electro-Charged DMG is increased by 96%, and Lunar-Charged DMG is increased by 24%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 24%.",
+        "CHS": "感电反应造成的伤害提升96%，月感电反应造成的伤害提升24%。月兆·满辉：月感电反应造成的伤害额外提升24%。",
+        "CHT": "感電反應造成的傷害提升96%，月感電反應造成的傷害提升24%。月兆·滿輝：月感電反應造成的傷害額外提升24%。",
+        "DE": "#Erhöht den durch die Reaktion „Unter Strom“ verursachten Schaden um 96 % und den durch die Reaktion „Mond unter Strom“ verursachten Schaden um 24 %. Mondomen – Reifer Glanz: Erhöht den durch die Reaktion „Mond unter Strom“ verursachten Schaden zusätzlich um 24 %.",
+        "ES": "Aumenta en un 96% el daño de la reacción de Electrocargado, y en un 24% el de Electrocargado Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Electrocargado Lunar aumenta en un 24% adicional.",
+        "FR": "Les DGT infligés par les réactions d'Électrocution augmentent de 96 % et ceux des réactions de Sélénocution de 24 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénocution augmentent de 24 % supplémentaires.",
+        "ID": "DMG reaksi Electro-Charged +96% dan DMG reaksi Lunar-Charged +24%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Charged meningkat 24% lagi.",
+        "IT": "I DAN da Electrocarica aumentano di un 96% e i DAN da Carica lunare di un 24%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Carica lunare aumentano di un ulteriore 24%.",
+        "JP": "感電反応ダメージ+96%、月感電反応ダメージ+24%。月兆・満照：上記の月感電反応ダメージアップ効果がさらに+24%。",
+        "KR": "감전 반응으로 주는 피해가 96% 증가하고, 달 감전 반응으로 주는 피해가 24% 증가한다. 달빛 징조·보름: 달 감전 반응으로 주는 피해가 추가로 24% 증가한다",
+        "PT": "Dano de Eletricamente Carregado é aumentado em 96%. Dano de Carga Lunar é aumentado em 24%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Carga Lunar em mais 24%.",
+        "RU": "Урон реакции Заряжен повышается на 96%, а реакции Лунный заряд - на 24%. Лунное знамение - Высшее сияние: урон реакции Лунный заряд дополнительно повышается на 24%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยาชาร์จไฟฟ้าเพิ่มขึ้น 96% และความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราเพิ่มขึ้น 24% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยาชาร์จจันทราจะเพิ่มขึ้นอีก 24%",
+        "TR": "Elektrik Yüklü Hasarı %96 artar, Ay Yüklü Hasarı ise %24 artar. Ay Sembolü: Yükselen Parıltı: Ay Yüklü Hasarı %24 daha artar.",
+        "VI": "Sát thương phản ứng Điện Cảm tăng 96%, sát thương phản ứng Nguyệt-Điện Cảm tăng 24%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Điện Cảm tăng thêm 24%."
+      }
+    }
+  ]
+}

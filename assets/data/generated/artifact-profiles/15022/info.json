@@ -1,0 +1,69 @@
+{
+  "id": 15022,
+  "name": {
+    "EN": "Ocean-Hued Clam",
+    "CHS": "海染砗磲",
+    "CHT": "海染硨磲",
+    "DE": "Meeresmuschel",
+    "ES": "Perla Oceánica",
+    "FR": "Palourde aux teintes océaniques",
+    "ID": "Ocean-Hued Clam",
+    "IT": "Mollusco oceanico",
+    "JP": "海染硨磲",
+    "KR": "바다에 물든 거대 조개",
+    "PT": "Concha Tingida Pelo Mar",
+    "RU": "Моллюск морских красок",
+    "TH": "Ocean-Hued Clam",
+    "TR": "Okyanus Renkli İstiridye",
+    "VI": "Xà Cừ Đại Dương"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15022/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Healing Bonus +15%.",
+        "CHS": "治疗加成提高15%。",
+        "CHT": "治療加成提高15%。",
+        "DE": "#Erhöht den Heilungsbonus um 15 %.",
+        "ES": "Bono de Curación +15%.",
+        "FR": "Augmente le bonus de soins de 15 %.",
+        "ID": "Bonus pemulihan +15%.",
+        "IT": "Bonus di guarigione +15%.",
+        "JP": "与える治療効果+15%。",
+        "KR": "치유 보너스+15%",
+        "PT": "Bônus de Cura +15%",
+        "RU": "Повышает бонус лечения на 15%.",
+        "TH": "เพิ่มโบนัสการรักษา 15%",
+        "TR": "+%15 İyileştirme Bonusu.",
+        "VI": "Tăng Trị Liệu lên 15%."
+      },
+      "affixId": "2150220"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "CHS": "装备此圣遗物套装的角色对队伍中的角色进行治疗时，将产生持续3秒的海染泡沫，记录治疗的生命值回复量（包括溢出值）。持续时间结束时，海染泡沫将会爆炸，对周围的敌人造成90%累计回复量的伤害（该伤害结算方式同感电、超导等元素反应，但不受元素精通、等级或反应伤害加成效果影响）。每3.5秒至多产生一个海染泡沫；海染泡沫至多记录30000点回复量，含溢出部分的治疗量；自己的队伍中同时至多存在一个海染泡沫。装备此圣遗物套装的角色处于队伍后台时，依然能触发该效果。",
+        "CHT": "裝備此聖遺物套裝的角色對隊伍中的角色進行治療時，將產生持續3秒的海染泡沫，記錄治療的生命值回復量（包括溢出值）。持續時間結束時，海染泡沫將會爆炸，對周圍的敵人造成90%累計回復量的傷害（該傷害結算方式同感電、超導等元素反應，但不受元素精通、等級或反應傷害加成效果影響）。每3.5秒至多產生一個海染泡沫；海染泡沫至多記錄30000點回復量，含溢出部分的治療量；自己的隊伍中同時至多存在一個海染泡沫。裝備此聖遺物套裝的角色處於隊伍後台時，依然能觸發該效果。",
+        "DE": "Wenn die mit diesem Artefaktset ausgerüsteten Figuren die Figuren in der Truppe heilen, entsteht eine Meeresblase, die 3 s hält und die wiederhergestellten Lebenspunkte beim Heilen (einschließlich des überschüssigen Heilungswerts) aufzeichnet. Wenn ihre Dauer endet, explodiert die Meeresblase, was Gegnern in der Umgebung Schaden, der 90 % der insgesamt wiederhergestellten LP entspricht, zufügt (Diese SCH-Berechnungsweise gleicht der der Elementarreaktionen Unter Strom und Supraleiter, ist jedoch von der Elementarkunde, der Stufe oder dem Reaktion-SCH-Bonus unabhängig). Alle 3,5 s kann höchstens eine Meeresblase entstehen. Jede Meeresblase kann bis zu 30.000 wiederhergestellte Lebenspunkte (einschließlich des überschüssigen Heilungswerts) aufzeichnen. In der eigenen Truppe kann gleichzeitig höchstens eine Meeresblase bestehen. Wenn die mit diesem Artefaktset ausgerüsteten Figuren inaktiv in der Truppe sind, kann dieser Effekt auch ausgelöst werden.",
+        "ES": "Cuando el personaje que equipa este conjunto de artefactos cura a otro, crea el efecto de “burbuja marina” durante 3 s, el cual registra la cantidad de Vida regenerada (incluida la regenerada por encima del 100%). Tras ello, la burbuja marina estalla e inflige contra los enemigos cercanos un daño basado en el 90% de la cantidad regenerada. Este daño se calcula de manera similar al de las reacciones de Electrocargado, Superconductor, etc., pero no varía en función de la Maestría Elemental, el nivel del personaje o el bono de daño de las reacciones. Solo se puede crear una burbuja marina cada 3.5 s, la cual solo puede registrar un máximo de 30 000 pts. de Vida regenerada, incluyendo la regenerada por encima del 100%. Además, solo puede existir una burbuja marina en tu equipo al mismo tiempo. Cuando el personaje que equipa este conjunto de artefactos está en el equipo pero no en uso, también podrá activar este efecto.",
+        "FR": "Lorsqu'un personnage équipé de ce set d'artéfacts soigne un personnage de l'équipe, une mousse marine apparaîtra pendant 3 s, accumulant la quantité de PV récupérée grâce au soin (y compris tout surplus au-dessus de 100 %). À la fin de la durée, la mousse marine explosera, infligeant des DGT aux ennemis proches d'une valeur équivalant à 90 % du soin accumulé (Ces DGT sont calculés de la même manière que les réactions d'Électrocution et de Supraconduction, mais ne sont pas affectés par la maîtrise élémentaire, les niveaux des personnages ou les bonus de DGT de réactions élémentaires). Une mousse marine peut être générée une fois toutes les 3,5 s, et chaque mousse marine peut accumuler jusqu'à 30 000 PV, incluant tout surplus au-dessus de 100 %. Il ne peut exister qu'une seule mousse marine à la fois. Cet effet peut être déclenché même lorsque le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Jika Karakter yang mengenakan set Artefak ini memulihkan HP salah satu Karakter dalam party, akan muncul Sea-Dyed Foam yang berlangsung selama 3 detik yang mencatat dan mengakumulasi jumlah pemulihan yang dilakukan (termasuk pemulihan yang berlebih). Setelah durasinya berakhir, Sea-Dyed Foam akan meledak dan mengakibatkan DMG sebesar 90% dari jumlah pemulihan yang tercatat (Perhitungan DMG ini mirip dengan Reaksi Elemental seperti Electro-Charged, Superconduct, dan lainnya, tetapi tidak dipengaruhi oleh Elemental Mastery, Level Karakter, atau Bonus DMG Reaksi Elemental). Sea-Dyed Foam hanya bisa muncul setiap 3,5 detik. Setiap Sea-Dyed Foam dapat mengakumulasi pemulihan hingga 30.000 HP (termasuk pemulihan yang berlebih). Dalam party sendiri, hanya bisa ada satu Sea-Dyed Foam yang muncul dalam waktu bersamaan. Efek dari set Artefak ini tetap dapat terpicu meskipun Karakter party yang mengenakannya tidak berada di medan pertempuran.",
+        "IT": "#Quando il personaggio equipaggiato con questo set di manufatti guarisce un personaggio del gruppo, una Schiuma marina appare per 3 s, accumulando la quantità di PS ripristinata dalla guarigione (inclusa quella in eccesso). Al termine dell'effetto, la Schiuma marina esplode, infliggendo DAN agli avversari vicini pari a un 90% della guarigione accumulata. (Questi DAN si calcolano analogamente alle reazioni quali Electrocarica e Superconduzione, ma non vengono influenzati da maestria elementale, livelli personaggio o bonus DAN delle reazioni). Si può generare una sola Schiuma marina ogni 3,5 s. Ogni Schiuma marina può accumulare fino a 30.000 PS (inclusa la guarigione in eccesso). Può esserci solo una Schiuma marina attiva alla volta. L'effetto è attivabile anche se il personaggio che sta usando il set di manufatti non è sul campo.",
+        "JP": "この聖遺物セットを装備したキャラクターがチーム内のキャラクターに治療を行うと、治療によるHP回復量（HP上限を超えた回復量も含む）を記録する海染の泡を生成する。海染の泡は3秒継続する。継続時間終了時、海染の泡は破裂し、周囲の敵に記録した回復量の90%分のダメージを与える（このダメージは感電や超電導などの元素反応と同じように計算されるが、元素熟知、キャラクターLv、または元素反応のダメージアップ効果の影響は受けない）。海染の泡は3.5秒毎に1回のみ生成可能。海染の泡が記録できる回復量は最大30000までとなり、HP上限超過分の回復量を含む。自身のチーム内に、海染の泡は1つのみ存在可能。この聖遺物セットを装備したキャラクターは待機中でも、この効果を発動できる。",
+        "KR": "해당 성유물 세트를 장착한 캐릭터가 파티 내 캐릭터를 치유하면, 3초간 지속되는 바다에 물든 거품을 생성해 치유한 HP의 회복량을 기록한다(초과된 수치 포함). 지속 시간 종료 후 바다에 물든 거품이 폭발해 주변의 적에게 누적 회복량의 90%에 해당하는 피해를 준다(해당 피해 계산 방식은 감전, 초전도 등 원소 반응의 방식과 같지만, 원소 마스터리, 레벨 또는 반응 피해 보너스 효과의 영향을 받지 않는다). 3.5초마다 최대 1개의 바다에 물든 거품이 생성되며, 바다에 물든 거품은 초과한 부분의 치유량을 포함해 최대 30,000pt의 회복량을 기록할 수 있다. 자신의 파티에 바다에 물든 거품은 동시에 1개만 존재할 수 있다. 해당 성유물 세트를 장착한 캐릭터가 대기 상태일 때도 해당 효과가 발동한다",
+        "PT": "Quando o personagem que equipa este conjunto de artefatos cura outro personagem da sua equipe, ele cria o efeito de \"Bolha de Espuma do Mar\" durante 3s, que registra a quantidade de vida regenerada (incluindo a regenerada acima de 100%). No final da duração do efeito, a Bolha de Espuma do Mar explode, causando dano aos inimigos ao redor com base em 90% da vida regenerada. (Esse Dano é calculado de forma semelhante a reações como Eletricamente Carregado e Supercondutor, mas não é afetado pela Proficiência Elemental, níveis de personagens ou dano bônus de reações.) Apenas se pode criar uma Bolha de Espuma do Mar a cada 3.5s, e esta poderá registrar no máximo 30.000 pontos de vida, incluindo aqueles regenerados acima de 100%. Além disso, apenas uma Bolha de Espuma do Mar pode existir em sua equipe de cada vez. Quando o personagem equipando este conjunto de artefatos está na equipe, mas não em combate, poderá ainda assim ativar este efeito.",
+        "RU": "Экипированный этим набором артефактов персонаж при лечении соратников создаёт на 3 сек. Пузырь морских красок. Пузырь регистрирует восстановленное при лечении HP (в том числе избыточное, когда лечение превышает максимум здоровья). После окончания действия Пузырь взрывается и наносит окружающим врагам урон в размере 90% учтённого объёма лечения (урон рассчитывается так же, как для эффектов Заряжен и Сверхпроводник, но на него не действуют бонусы мастерства стихий, уровня и реакций). Пузырь морских красок можно создавать не чаще чем раз в 3,5 сек. Пузырь может записать до 30 000 восстановленного HP, в том числе HP избыточного лечения. Для отряда не может существовать больше одного Пузыря морских красок одновременно. Этот эффект действует, даже если персонаж, экипированный набором артефактов, не находится на поле боя.",
+        "TH": "เมื่อตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้ทำการรักษาตัวละครในทีม จะเกิด Sea-Dyed Foam ขึ้นเป็นเวลา 3 วินาที และบันทึกปริมาณการฟื้นฟูพลังชีวิตของการรักษา (รวมไปถึงค่าส่วนเกิน) เมื่อช่วงเวลาต่อเนื่องสิ้นสุดลง Sea-Dyed Foam จะระเบิด สร้างความเสียหายเป็น 90% ของปริมาณการฟื้นฟูพลังชีวิตที่สะสมแก่ศัตรูโดยรอบ (วิธีคำนวณความเสียหายนี้จะเหมือนกับปฏิกิริยาของธาตุ เช่น ชาร์จไฟฟ้า, นำไฟฟ้า และอื่น ๆ แต่จะไม่ได้รับผลกระทบจากความชำนาญธาตุ, เลเวล หรือเอฟเฟกต์โบนัสความเสียหายของปฏิกิริยา) ในทุก 3.5 วินาที จะเกิด Sea-Dyed Foam ได้มากสุดหนึ่งอัน; Sea-Dyed Foam จะบันทึกปริมาณการฟื้นฟูได้มากสุด 30000 หน่วย รวมถึงปริมาณการรักษาส่วนที่เกิน; ในช่วงเวลาเดียวกัน จะมี Sea-Dyed Foam ในทีมของตัวเองได้มากสุดหนึ่งอันเท่านั้น ซึ่งเอฟเฟกต์นี้จะยังคงเกิดขึ้นได้ แม้ในขณะที่ตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้อยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้",
+        "TR": "Bu yadigar setini kuşanan karakter gruptaki bir karakteri iyileştirdiğinde, 3 saniyeliğine bir Deniz Köpüğü görünür, iyileştirmeyle elde edilen Can miktarını toplar (fazlalık iyileştirme miktarı dahil). Bu sürenin sonunda Deniz Köpüğü patlayarak çevredeki düşmanlara toplam iyileştirmenin %90'ı kadar Hasar verir. (Bu Hasar, Elektrik Yükleme ve Süper İletim gibi Tepkimelere benzer şekilde hesaplanır ama Element Ustalığı, Karakter Seviyesi veya Tepkime Hasarı Bonuslarından etkilenmez). Her 3,5 saniyede bir sadece bir tane Deniz Köpüğü oluşturulabilir. Her Deniz Köpüğü 30.000 Cana kadar toplayabilir (fazlalık iyileştirme miktarı dahil). Aynı anda sadece bir tane etkin Deniz Köpüğü olabilir. Yadigar setini kullanan karakter savaş alanında olmasa bile bu etki tetiklenebilir.",
+        "VI": "Khi nhân vật trang bị bộ Thánh Di Vật này thực hiện trị liệu cho nhân vật trong đội, sẽ tạo ra Bọt Biển kéo dài 3s, ghi lại lượng HP hồi phục của việc trị liệu (Bao gồm cả lượng vượt mức). Khi kết thúc thời gian duy trì, Bọt Biển sẽ nổ tung, gây cho kẻ địch xung quanh sát thương bằng 90% lượng hồi phục tích lũy (Cách tính sát thương này giống với các phản ứng nguyên tố như Điện Cảm, Siêu Dẫn...nhưng không bị ảnh hưởng bởi Tinh Thông Nguyên Tố, cấp hoặc buff sát thương phản ứng). Mỗi 3.5s tối đa tạo 1 Bọt Biển; Bọt Biển tối đa ghi lại 30,000 điểm hồi phục, bao gồm cả lượng trị liệu vượt mức; đội của bản thân cùng lúc chỉ được tồn tại tối đa 1 Bọt Biển. Khi nhân vật trang bị bộ Thánh Di Vật này ở trong đội chờ, vẫn có thể kích hoạt hiệu quả này."
+      },
+      "affixId": "2150221"
+    }
+  ]
+}

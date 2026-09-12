@@ -1,0 +1,69 @@
+{
+  "id": 15005,
+  "name": {
+    "EN": "Thundering Fury",
+    "CHS": "如雷的盛怒",
+    "CHT": "如雷的盛怒",
+    "DE": "Donnernder Zorn",
+    "ES": "Furia del Trueno",
+    "FR": "Colère de tonnerre",
+    "ID": "Thundering Fury",
+    "IT": "Furia tonante",
+    "JP": "雷のような怒り",
+    "KR": "번개 같은 분노",
+    "PT": "Trovão Furioso",
+    "RU": "Громогласный рёв ярости",
+    "TH": "Thundering Fury",
+    "TR": "Yıldırım Öfkesi",
+    "VI": "Như Sấm Thịnh Nộ"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15005/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Electro DMG Bonus +15%",
+        "CHS": "获得15%雷元素伤害加成。",
+        "CHT": "獲得15%雷元素傷害加成。",
+        "DE": "Erhöht den Elektro-Schaden um 15 %.",
+        "ES": "Bono de Daño Electro +15%.",
+        "FR": "Confère un bonus de DGT Électro de 15 %.",
+        "ID": "Electro DMG Bonus +15%.",
+        "IT": "Bonus DAN da Electro +15%.",
+        "JP": "雷元素ダメージ+15%。",
+        "KR": "번개 원소 피해 보너스+15%",
+        "PT": "Bônus de Dano Electro +15%",
+        "RU": "Даёт 15% бонус Электро урона.",
+        "TH": "ได้รับโบนัสความเสียหายไฟฟ้า 15%",
+        "TR": "+%15 Elektrik Hasarı Bonusu.",
+        "VI": "Nhận 15% buff sát thương nguyên tố Lôi"
+      },
+      "affixId": "2150050"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases the DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, the DMG Bonus conferred by Aggravate by 20%, and the DMG caused by Lunar-Charged and Stellar-Conduct by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.",
+        "CHS": "超载、感电、超导、超绽放反应造成的伤害提升40%，超激化反应带来的伤害提升提高20%，月感电、星超导反应造成的伤害提升20%。触发上述元素反应或原激化反应时，元素战技冷却时间减少1秒。该效果每0.8秒最多触发一次。",
+        "CHT": "超載、感電、超導、超綻放反應造成的傷害提升40%，超激化反應帶來的傷害提升提高20%，月感電、星超導反應造成的傷害提升20%。觸發上述元素反應或原激化反應時，元素戰技冷卻時間減少1秒。該效果每0.8秒最多觸發一次。",
+        "DE": "#Erhöht den mit den Reaktionen „Überladen“, „Unter Strom“, „Supraleiter“ und „Supraspross“ verursachten Schaden um 40 %. Erhöht den mit den Reaktionen „Suprawuchs“, „Mond unter Strom“ und „Stellar-Supraleiter“ verursachten Schaden um 20 %. Verkürzt die Abklingzeit der Elementarfähigkeit beim Auslösen dieser Elementarreaktionen und der Reaktion „Urwuchs“ um 1 s. 0,8 s Abklingzeit.",
+        "ES": "#Aumenta en un 40% el daño infligido por Sobrecarga, Electrocargado, Superconductor y Sobreflorecimiento, y además, tanto el bono de daño generado por Intensificación como el daño infligido por las reacciones de Electrocargado Lunar y Superconductor Estelar aumentan en un 20%. Al causar una de estas reacciones o una reacción de Aceleración, el TdE de la Habilidad Elemental se reduce en 1 s. Este efecto solo puede ocurrir una vez cada 0.8 s.",
+        "FR": "Augmente les DGT infligés par les réactions de Surcharge, d'Électrocution, de Supraconduction et d'Exubérance de 40 %, le bonus de DGT accordé par les réactions de Suractivation de 20 % et les DGT infligés par les réactions de Sélénocution et d'Astroconduction de 20 %. Au déclenchement de ces réactions élémentaires ou d'une réaction de Stimulation, le TdR de la compétence élémentaire diminue de 1 s. Cet effet peut être déclenché une fois toutes les 0,8 s.",
+        "ID": "DMG yang diakibatkan Overloaded, Electro-Charged, Superconduct, dan Hyperbloom +40%. Bonus DMG dari reaksi Aggravate +20%. DMG yang diakibatkan Lunar-Charged dan Stellar-Conduct +20%. Saat memicu Reaksi Elemental di atas atau reaksi Quicken, CD Elemental Skill -1 detik. Efek ini dapat terpicu sekali setiap 0,8 detik.",
+        "IT": "#Aumenta di un 40% i DAN da Sovraccarico, Electrocarica, Superconduzione e Iperfioritura, di un 20% il bonus DAN conferito da Accentuazione, e di un 20% i DAN causati da Carica lunare e Astroconduzione. Innescare Vivificazione o una delle suddette reazioni elementali riduce il TdR dell'abilità elementale di 1 s. Si può verificare una sola volta ogni 0,8 s.",
+        "JP": "過負荷、感電、超電導、超開花反応によるダメージ+40%、超激化反応によるダメージアップ効果+20%、月感電、星電導反応によるダメージ+20%。上記元素反応または原激化反応を起こすと、元素スキルのクールタイム-1秒。0.8秒毎に最大1回のみ発動可能。",
+        "KR": "과부하, 감전, 초전도, 만개 반응으로 주는 피해가 40% 증가하고, 촉진 반응이 주는 피해가 20% 증가하며, 달 감전과 별 초전도 반응으로 주는 피해가 20% 증가한다. 위와 같은 원소 반응 또는 활성 반응 발동 시, 원소전투 스킬의 재사용 대기시간이 1초 줄어든다. 해당 효과는 0.8초마다 최대 1회 발동된다",
+        "PT": "Aumenta o Dano causado por Sobrecarga, Eletricamente Carregado, Supercondutor e Superflorescimento em 40%, o Bônus de Dano concedido por Intensificação em 20% e o Dano causado por Carga Lunar e Supercondutor Estelar em 20%. Quando Aceleração ou uma das Reações Elementais mencionadas for desencadeada, o Tempo de Recarga da Habilidade Elemental é reduzido em 1s. Só pode ocorrer uma vez a cada 0.8s.",
+        "RU": "Увеличивает урон реакций Перегрузка, Заряжен, Сверхпроводник и Вегетация на 40%. Урон от реакций Обострение, Лунный заряд и Звёздный проводник увеличивается на 20%. При активации перечисленных реакций или реакции Стимуляция время отката элементального навыка уменьшается на 1 сек. Эффект может возникнуть один раз в 0,8 сек.",
+        "TH": "ปฏิกิริยาโอเวอร์โหลด, ชาร์จไฟฟ้า, นำไฟฟ้า และไฮเปอร์บลูม สร้างความเสียหายเพิ่มขึ้น 40%, ความเสียหายจากปฏิกิริยาบีบอัดเพิ่มขึ้น 20%, ความเสียหายจากปฏิกิริยาชาร์จจันทราและนำไฟฟ้าดาราเพิ่มขึ้น 20% โดยในตอนที่เกิดปฏิกิริยาธาตุข้างต้นหรือปฏิกิริยาปลุกเร้า ช่วงเวลาคูลดาวน์ของสกิลธาตุจะลดลง 1 วินาที ในทุก 0.8 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+        "TR": "Yüksek Voltaj, Elektrik Yüklü, Süper İletim ve Aşırı Çiçeklenme ile verilen Hasarı %40 artırır. Ayrıca Şiddetlenme ile verilen Hasar Bonusu %20, Ay Yüklü ve Yıldız İletimi ile verilen Hasar %20 artar. Hızlanma veya yukarıda belirtilen Element Tepkimeleri tetiklendiğinde Element Becerisi Bekleme Süresi 1 saniye azalır. Bu etki 0,8 saniyede bir tetiklenebilir.",
+        "VI": "Sát thương gây ra từ phản ứng Quá Tải, Điện Cảm, Siêu Dẫn, Nở Rộ tăng 40%. Sát thương từ phản ứng Tăng Cường tăng 20%. Sát thương từ phản ứng Nguyệt-Điện Cảm, Tinh-Siêu Dẫn tăng 20%. Khi kích hoạt phản ứng Sinh Trưởng hoặc những phản ứng nêu trên, CD Kỹ Năng Nguyên Tố giảm 1s. Hiệu quả này mỗi 0.8s tối đa kích hoạt một lần."
+      },
+      "affixId": "2150051"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Vigorous",
+    "CHS": "激励",
+    "CHT": "激勵",
+    "DE": "Ansporn",
+    "ES": "Vigor",
+    "FR": "Vigueur",
+    "ID": "Vigorous",
+    "IT": "Prestanza",
+    "JP": "奮い立てる",
+    "KR": "격려",
+    "PT": "Vigoroso",
+    "RU": "Энергичный",
+    "TH": "Vigorous",
+    "TR": "Dinç",
+    "VI": "Khích Lệ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When HP is above 90%, increases CRIT Rate by 14%.",
+        "CHS": "生命值高于90%时，暴击率提升14%。",
+        "CHT": "生命值高於90%時，暴擊率提升14%。",
+        "DE": "Erhöht die KT bei mehr als 90 % LP um 14 %.",
+        "ES": "Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT en un 14%.",
+        "FR": "Augmente le taux CRIT de 14 % quand les PV sont supérieurs à 90 %.",
+        "ID": "Saat HP lebih dari 90%, CRIT Rate meningkat 14%.",
+        "IT": "Quando i PS sono superiori a un 90%, aumenta il tasso di CRIT di un 14%.",
+        "JP": "HPが90%以上の時、会心率+14%。",
+        "KR": "HP가 90% 초과 시 치명타 확률이 14% 증가한다",
+        "PT": "Quando a Vida estiver acima de 90%, aumenta a Taxa Crítica em 14%.",
+        "RU": "Увеличивает шанс крит. попадания на 14% при HP выше 90%.",
+        "TH": "เมื่อพลังชีวิตสูงกว่า 90% อัตราคริจะเพิ่มขึ้น 14%",
+        "TR": "Can %90'ın üzerindeyken Kritik Oranını %14 artırır.",
+        "VI": "Khi HP trên 90%, tỷ lệ bạo kích tăng 14%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When HP is above 90%, increases CRIT Rate by 17.5%.",
+        "CHS": "生命值高于90%时，暴击率提升17.5%。",
+        "CHT": "生命值高於90%時，暴擊率提升17.5%。",
+        "DE": "Erhöht die KT bei mehr als 90 % LP um 17.5 %.",
+        "ES": "Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT un 17.5%.",
+        "FR": "Augmente le taux CRIT de 17,5 % quand les PV sont supérieurs à 90 %.",
+        "ID": "Saat HP di atas 90%, meningkatkan CRIT Rate sebesar 17,5%.",
+        "IT": "Quando i PS sono superiori a un 90%, aumenta il tasso di CRIT di un 17,5%.",
+        "JP": "HPが90%以上の時、会心率+17.5%。",
+        "KR": "HP가 90% 초과 시 치명타 확률이 17.5% 증가한다",
+        "PT": "Quando a Vida estiver acima de 90%, aumenta a Taxa Crítica em 17.5%.",
+        "RU": "Увеличивает шанс крит. попадания на 17,5% при HP выше 90%.",
+        "TH": "เมื่อพลังชีวิตสูงกว่า 90% อัตราคริจะเพิ่มขึ้น 17.5%",
+        "TR": "Can %90'ın üzerindeyken Kritik Oranını %17,5 artırır.",
+        "VI": "Khi HP trên 90%, tỷ lệ bạo kích tăng 17.5%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When HP is above 90%, increases CRIT Rate by 21%.",
+        "CHS": "生命值高于90%时，暴击率提升21%。",
+        "CHT": "生命值高於90%時，暴擊率提升21%。",
+        "DE": "Erhöht die KT bei mehr als 90 % LP um 21 %.",
+        "ES": "Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT un 21%.",
+        "FR": "Augmente le taux CRIT de 21 % quand les PV sont supérieurs à 90 %.",
+        "ID": "Saat HP lebih dari 90%, CRIT Rate meningkat 21%.",
+        "IT": "Quando i PS sono superiori a un 90%, aumenta il tasso di CRIT di un 21%.",
+        "JP": "HPが90%以上の時、会心率+21%。",
+        "KR": "HP가 90% 초과 시 치명타 확률이 21% 증가한다",
+        "PT": "Quando a Vida estiver acima de 90%, aumenta a Taxa Crítica em 21%.",
+        "RU": "Увеличивает шанс крит. попадания на 21% при HP выше 90%.",
+        "TH": "เมื่อพลังชีวิตสูงกว่า 90% อัตราคริจะเพิ่มขึ้น 21%",
+        "TR": "Can %90'ın üzerindeyken Kritik Oranını %21 artırır.",
+        "VI": "Khi HP trên 90%, tỷ lệ bạo kích tăng 21%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When HP is above 90%, increases CRIT Rate by 24.5%.",
+        "CHS": "生命值高于90%时，暴击率提升24.5%。",
+        "CHT": "生命值高於90%時，暴擊率提升24.5%。",
+        "DE": "Erhöht die KT bei mehr als 90 % LP um 24.5 %.",
+        "ES": "Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT un 24.5%.",
+        "FR": "Augmente le taux CRIT de 24,5 % quand les PV sont supérieurs à 90 %.",
+        "ID": "Saat HP di atas 90%, meningkatkan CRIT Rate sebesar 24,5%.",
+        "IT": "Quando i PS sono superiori a un 90%, aumenta il tasso di CRIT di un 24,5%.",
+        "JP": "HPが90%以上の時、会心率+24.5%。",
+        "KR": "HP가 90% 초과 시 치명타 확률이 24.5% 증가한다",
+        "PT": "Quando a Vida estiver acima de 90%, aumenta a Taxa Crítica em 24.5%.",
+        "RU": "Увеличивает шанс крит. попадания на 24,5% при HP выше 90%.",
+        "TH": "เมื่อพลังชีวิตสูงกว่า 90% อัตราคริจะเพิ่มขึ้น 24.5%",
+        "TR": "Can %90'ın üzerindeyken Kritik Oranını %24,5 artırır.",
+        "VI": "Khi HP trên 90%, tỷ lệ bạo kích tăng 24.5%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When HP is above 90%, increases CRIT Rate by 28%.",
+        "CHS": "生命值高于90%时，暴击率提升28%。",
+        "CHT": "生命值高於90%時，暴擊率提升28%。",
+        "DE": "Erhöht die KT bei mehr als 90 % LP um 28 %.",
+        "ES": "Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT un 28%.",
+        "FR": "Augmente le taux CRIT de 28 % quand les PV sont supérieurs à 90 %.",
+        "ID": "Saat HP lebih dari 90%, CRIT Rate meningkat 28%.",
+        "IT": "Quando i PS sono superiori a un 90%, aumenta il tasso di CRIT di un 28%.",
+        "JP": "HPが90%以上の時、会心率+28%。",
+        "KR": "HP가 90% 초과 시 치명타 확률이 28% 증가한다",
+        "PT": "Quando a Vida estiver acima de 90%, aumenta a Taxa Crítica em 28%.",
+        "RU": "Увеличивает шанс крит. попадания на 28% при HP выше 90%.",
+        "TH": "เมื่อพลังชีวิตสูงกว่า 90% อัตราคริจะเพิ่มขึ้น 28%",
+        "TR": "Can %90'ın üzerindeyken Kritik Oranını %28 artırır.",
+        "VI": "Khi HP trên 90%, tỷ lệ bạo kích tăng 28%."
+      }
+    }
+  ]
+}

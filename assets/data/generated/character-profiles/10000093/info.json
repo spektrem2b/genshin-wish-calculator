@@ -1,0 +1,137 @@
+{
+  "id": "10000093",
+  "name": {
+    "EN": "Xianyun",
+    "CHS": "闲云",
+    "CHT": "閒雲",
+    "DE": "Xianyun",
+    "ES": "Xianyun",
+    "FR": "Xianyun",
+    "ID": "Xianyun",
+    "IT": "Xianyun",
+    "JP": "閑雲",
+    "KR": "한운",
+    "PT": "Xianyun",
+    "RU": "Сянь Юнь",
+    "TH": "Xianyun",
+    "TR": "Xianyun",
+    "VI": "Xianyun"
+  },
+  "nameEn": "Xianyun",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 4,
+    "day": 11
+  },
+  "release": "2024-01-29T22:00:00",
+  "icon": "generated/character-profiles/10000093/avatar.webp",
+  "fullWish": "generated/character-profiles/10000093/full_wish.webp",
+  "fullWishObjectPosition": "46.1% 16.4%",
+  "title": {
+    "EN": "Passerine Herald",
+    "CHS": "鸾音鹤信",
+    "CHT": "鸞音鶴信",
+    "DE": "Himmlische Ankündigung",
+    "ES": "La Grulla Emisaria",
+    "FR": "Héraldesse passériforme",
+    "ID": "Passerine Herald",
+    "IT": "Messaggera gruiforme",
+    "JP": "仙鶴の告げる佳音",
+    "KR": "소식을 전하는 선학",
+    "PT": "Mensageira Celestial",
+    "RU": "Вестница небес",
+    "TH": "ปักษาสื่อสวรรค์",
+    "TR": "Müjdeli Kanatlar",
+    "VI": "Hạc Sứ Cõi Tiên"
+  },
+  "description": {
+    "EN": "One of the Mighty and Illuminated Adepti of Jueyun, known as \"Cloud Retainer.\" Expert in all kinds of mechanical contraptions, her heart now turns towards the affairs of the mortal world, through which she walks under the name \"Xianyun.\"",
+    "CHS": "绝云仙众「三眼五显仙人」之一，雅号「留云借风真君」。擅使机关奇术，心向红尘烟火，正以「闲云」之名行走人间。",
+    "CHT": "絕雲仙眾「三眼五顯仙人」之一，雅號「留雲借風真君」。擅使機關奇術，心向紅塵煙火，正以「閒雲」之名行走人間。",
+    "DE": "Eine der erleuchteten Adepten von Jueyun, bekannt als „Fürstin der stehenden Wolken und des stillen Windes“. Sie ist Expertin für alle Arten von mechanischen Vorrichtungen, aber ihr Herz wendet sich nun den Angelegenheiten der Welt der Sterblichen zu, durch die sie mit dem Namen „Xianyun“ wandelt.",
+    "ES": "Una de los poderosos e iluminados Adeptus del Desfiladero Jueyun, conocida como Preservadora de Nubes. Gran maestra de la mecánica, interesada en el mundo de los humanos y conocida en él con el nombre de “Xianyun”.",
+    "FR": "Faisant partie des Adeptes puissants et éclairés de Jueyun, elle est connue sous le nom de Souffle-Nuages. Experte en ingénierie mécanique de toutes sortes, son cœur se tourne désormais vers les affaires du monde des mortels, dans lequel elle évolue sous le nom de Xianyun.",
+    "ID": "Salah satu Adeptus yang agung dan mulia dari Jueyun, \"Cloud Retainer\". Ahli segala jenis mekanika, yang hatinya kini berpaling kepada dunia fana. \"Xianyun\" adalah nama yang digunakannya setelah turun gunung.",
+    "IT": "Uno dei potenti e illuminati Adepti di Jueyun, conosciuta anche come \"Vestale delle nuvole\". Esperta in ogni genere di congegno meccanico, il suo cuore è rivolto verso le faccende dei mortali, in mezzo ai quali si muove col nome di \"Xianyun\".",
+    "JP": "絶雲仙衆「三眼五顕仙人」の一人。尊称は「留雲借風真君」。仕掛けの術に長けており、俗世の人の営みに思いを寄せている。現在は「閑雲」という名で人の世を渡り歩いている。",
+    "KR": "절운의 선인인 「삼안오현 선인」중 한 명으로, 「류운차풍진군」이라 불린다. 기관 기술을 사용하는 데 능하고, 마음이 속세를 향해있다. 현재, 「한운」이라는 이름으로 세상 곳곳을 누빈다",
+    "PT": "Uma dos Adepti Poderosos e Iluminados de Jueyun, conhecida como Retentora de Nuvem. Domina as artes mecânicas, seu coração percorre o mundo efêmero dos mortais, e seu nome entre eles é Xianyun.",
+    "RU": "Просветлённый Адепт, которого называют титулом Хранитель Облаков. Никто не сравнится с ней в искусстве механики. Заинтересовавшись мирской жизнью и кулинарией, она поселилась среди людей под именем Сянь Юнь.",
+    "TH": "หนึ่งในเหล่า \"เซียนสามตาห้าร่าง\" แห่ง Jueyun มีฉายานามว่า \"จ้าววังวนเมฆา\" ผู้เชี่ยวชาญในกลไกเวท จิตใจมุ่งสู่โลกมนุษย์แสนคึกคัก เดินท่องไปในโลกมนุษย์ในนามของ \"Xianyun\"",
+    "TR": "\"Bulutlar Hakimi\" olarak bilinen, Jueyun'un Kudretli ve Aydınlanmış Adeptuslarından biri. Mekanizmalar konusunda uzmandır ve şimdilerde ölümlüler dünyasında \"Xianyun\" adıyla dolaşmaktadır.",
+    "VI": "Một trong \"Tam Nhãn Ngũ Hiển Tiên Nhân\" của tiên chúng Tuyệt Vân, biệt danh \"Lưu Vân Tá Phong Chân Quân\". Sở trường dùng cơ quan thuật, tâm hướng về trần thế, nên đã dùng tên \"Xianyun\" để hành tẩu nhân gian."
+  },
+  "constellationName": {
+    "EN": "Grus Serena",
+    "CHS": "闲鹤座",
+    "CHT": "閒鶴座",
+    "DE": "Grus Serena",
+    "ES": "Grus Serena",
+    "FR": "Grus Serena",
+    "ID": "Grus Serena",
+    "IT": "Grus Serena",
+    "JP": "閑鶴座",
+    "KR": "한학자리",
+    "PT": "Grus Serena",
+    "RU": "Вольный Журавль",
+    "TH": "Grus Serena",
+    "TR": "Ulu Turna",
+    "VI": "Cung Nhàn Hạc"
+  },
+  "native": {
+    "EN": "Mt. Aocang",
+    "CHS": "奥藏山",
+    "CHT": "奧藏山",
+    "DE": "Aocang-Berg",
+    "ES": "Montaña Aozang",
+    "FR": "Mont Aozang",
+    "ID": "Mt. Aocang",
+    "IT": "Monte Aocang",
+    "JP": "奥蔵山",
+    "KR": "오장산",
+    "PT": "Montanha Aozang",
+    "RU": "Гора Аоцан",
+    "TH": "Mt. Aocang",
+    "TR": "Aocang Dağı",
+    "VI": "Âu Tàng Sơn"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Stephanie Panisello"
+    },
+    {
+      "lang": "CHS",
+      "va": "秦紫翼"
+    },
+    {
+      "lang": "JP",
+      "va": "中臣真菜"
+    },
+    {
+      "lang": "KR",
+      "va": "Kang Si-hyun"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 810.322,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.068,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 44.57335,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

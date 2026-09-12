@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Unbending",
+    "CHS": "不屈",
+    "CHT": "不屈",
+    "DE": "Unbeugsamkeit",
+    "ES": "Inquebrantable",
+    "FR": "Tenace",
+    "ID": "Unbending",
+    "IT": "Implacabilità",
+    "JP": "不屈",
+    "KR": "불굴",
+    "PT": "Implacável",
+    "RU": "Непоколебимый",
+    "TH": "Unbending",
+    "TR": "Eğilmez",
+    "VI": "Bất Khuất"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When HP falls below 70%, increases Charged Attack DMG by 30% and Charged Attacks become harder to interrupt.",
+        "CHS": "生命值低于70%时，重击不会轻易被打断，并提高30%重击伤害。",
+        "CHT": "生命值低於70%時，重擊不會輕易被打斷，並提高30%重擊傷害。",
+        "DE": "Ein heftiger Schlag wird bei weniger als 70 % LP nicht so leicht abgewehrt. Erhöht den Schaden heftiger Schläge dabei um 30 %.",
+        "ES": "Cuando la Vida está por debajo del 70%, los Ataques Cargados son más difíciles de ser interrumpidos. Además, aumenta el daño de Ataque Cargado en un 30%.",
+        "FR": "Les attaques chargées sont plus difficiles à interrompre si les PV sont inférieurs à 70 %, et les DGT infligés par les attaques chargées augmentent de 30 %.",
+        "ID": "Saat HP kurang dari 70%, Charged Attack menjadi lebih sulit untuk diinterupsi, dan DMG Charged Attack meningkat 30%.",
+        "IT": "Quando i PS scendono al di sotto di un 70%, aumenta i DAN degli attacchi caricati di un 30%, rendendoli più difficili da interrompere.",
+        "JP": "HPが70%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+30%。",
+        "KR": "HP가 70% 미만일 때 강공격 발동 시 쉽게 경직되지 않고 강공격 피해가 30% 증가한다",
+        "PT": "Quando a Vida estiver inferior a 70%, Ataques Carregados raramente são interrompidos e aumenta 30% do Ataque Carregado.",
+        "RU": "При HP ниже 70% врагу становится труднее прервать заряженную атаку. Также увеличивает урон заряженной атаки на 30%.",
+        "TH": "เมื่อพลังชีวิตต่ำกว่า 70% การชาร์จโจมตีจะ ถูกขัดจังหวะได้ยากขึ้น และเพิ่มความเสียหายขึ้น 30%",
+        "TR": "Can %70 oranının altına indiğinde Yüklü Saldırı Hasarı %30 artar ve Yüklü Saldırıları kesintiye uğratmak zorlaşır.",
+        "VI": "Khi HP dưới 70%, trọng kích khó bị ngắt đoạn, và tăng 30% sát thương trọng kích."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When HP falls below 75%, increases Charged Attack DMG by 35% and Charged Attacks become harder to interrupt.",
+        "CHS": "生命值低于75%时，重击不会轻易被打断，并提高35%重击伤害。",
+        "CHT": "生命值低於75%時，重擊不會輕易被打斷，並提高35%重擊傷害。",
+        "DE": "Ein heftiger Schlag wird bei weniger als 75 % LP nicht so leicht abgewehrt. Erhöht den Schaden heftiger Schläge dabei um 35 %.",
+        "ES": "Cuando la Vida está por debajo del 75%, los Ataques Cargados son más difíciles de ser interrumpidos. Además, aumenta el daño de Ataque Cargado en un 35%.",
+        "FR": "Les attaques chargées sont plus difficiles à interrompre si les PV sont inférieurs à 75 %, et les DGT infligés par les attaques chargées augmentent de 35 %.",
+        "ID": "Saat HP kurang dari 75%, Charged Attack menjadi lebih sulit untuk diinterupsi, dan DMG Charged Attack meningkat 35%.",
+        "IT": "Quando i PS scendono al di sotto di un 75%, aumenta i DAN degli attacchi caricati di un 35%, rendendoli più difficili da interrompere.",
+        "JP": "HPが75%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+35%。",
+        "KR": "HP가 75% 미만일 때 강공격 발동 시 경직되지 않고 강공격 피해가 35% 증가한다",
+        "PT": "Quando a Vida estiver inferior a 75%, Ataques Carregados raramente são interrompidos e aumenta 35% do Ataque Carregado.",
+        "RU": "При HP ниже 75% врагу становится труднее прервать заряженную атаку. Также увеличивает урон заряженной атаки на 35%.",
+        "TH": "เมื่อพลังชีวิตต่ำกว่า 75% การชาร์จโจมตีจะ ถูกขัดจังหวะได้ยากขึ้น และเพิ่มความเสียหายขึ้น 35%",
+        "TR": "Can %75 oranının altına indiğinde Yüklü Saldırı Hasarı %35 artar ve Yüklü Saldırıları kesintiye uğratmak zorlaşır.",
+        "VI": "Khi HP dưới 75%, trọng kích khó bị ngắt đoạn, và tăng 35% sát thương trọng kích."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When HP falls below 80%, increases Charged Attack DMG by 40% and Charged Attacks become harder to interrupt.",
+        "CHS": "生命值低于80%时，重击不会轻易被打断，并提高40%重击伤害。",
+        "CHT": "生命值低於80%時，重擊不會輕易被打斷，並提高40%重擊傷害。",
+        "DE": "Ein heftiger Schlag wird bei weniger als 80 % LP nicht so leicht abgewehrt. Erhöht den Schaden heftiger Schläge dabei um 40 %.",
+        "ES": "Cuando la Vida está por debajo del 80%, los Ataques Cargados son más difíciles de ser interrumpidos. Además, aumenta el daño de Ataque Cargado en un 40%.",
+        "FR": "Les attaques chargées sont plus difficiles à interrompre si les PV sont inférieurs à 80 %, et les DGT infligés par les attaques chargées augmentent de 40 %.",
+        "ID": "Saat HP kurang dari 80%, Charged Attack menjadi lebih sulit untuk diinterupsi, dan DMG Charged Attack meningkat 40%.",
+        "IT": "Quando i PS scendono al di sotto di un 80%, aumenta i DAN degli attacchi caricati di un 40%, rendendoli più difficili da interrompere.",
+        "JP": "HPが80%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+40%。",
+        "KR": "HP가 80% 미만일 때 강공격 발동 시 쉽게 경직되지 않고 강공격 피해가 40% 증가한다",
+        "PT": "Quando a Vida estiver inferior a 80%, Ataques Carregados raramente são interrompidos e aumenta 40% do Ataque Carregado.",
+        "RU": "При HP ниже 80% врагу становится труднее прервать заряженную атаку. Также увеличивает урон заряженной атаки на 40%.",
+        "TH": "เมื่อพลังชีวิตต่ำกว่า 80% การชาร์จโจมตีจะ ถูกขัดจังหวะได้ยากขึ้น และเพิ่มความเสียหายขึ้น 40%",
+        "TR": "Can %80 oranının altına indiğinde Yüklü Saldırı Hasarı %40 artar ve Yüklü Saldırıları kesintiye uğratmak zorlaşır.",
+        "VI": "Khi HP dưới 80%, trọng kích khó bị ngắt đoạn, và tăng 40% sát thương trọng kích."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When HP falls below 85%, increases Charged Attack DMG by 45% and Charged Attacks become harder to interrupt.",
+        "CHS": "生命值低于85%时，重击不会轻易被打断，并提高45%重击伤害。",
+        "CHT": "生命值低於85%時，重擊不會輕易被打斷，並提高45%重擊傷害。",
+        "DE": "Ein heftiger Schlag wird bei weniger als 85 % LP nicht so leicht abgewehrt. Erhöht den Schaden heftiger Schläge dabei um 45 %.",
+        "ES": "Cuando la Vida está por debajo del 85%, los Ataques Cargados son más difíciles de ser interrumpidos. Además, aumenta el daño de Ataque Cargado en un 45%.",
+        "FR": "Les attaques chargées sont plus difficiles à interrompre si les PV sont inférieurs à 85 %, et les DGT infligés par les attaques chargées augmentent de 45 %.",
+        "ID": "Saat HP kurang dari 85%, Charged Attack menjadi lebih sulit untuk diinterupsi, dan DMG Charged Attack meningkat 45%.",
+        "IT": "Quando i PS scendono al di sotto di un 85%, aumenta i DAN degli attacchi caricati di un 45%, rendendoli più difficili da interrompere.",
+        "JP": "HPが85%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+45%。",
+        "KR": "HP가 85% 미만일 때 강공격 발동 시 경직되지 않고 강공격 피해가 45% 증가한다",
+        "PT": "Quando a Vida estiver inferior a 85%, Ataques Carregados raramente são interrompidos e aumenta 45% do Ataque Carregado.",
+        "RU": "При HP ниже 85% врагу становится труднее прервать заряженную атаку. Также увеличивает урон заряженной атаки на 45%.",
+        "TH": "เมื่อพลังชีวิตต่ำกว่า 85% การชาร์จโจมตีจะ ถูกขัดจังหวะได้ยากขึ้น และเพิ่มความเสียหายขึ้น 45%",
+        "TR": "Can %85 oranının altına indiğinde Yüklü Saldırı Hasarı %45 artar ve Yüklü Saldırıları kesintiye uğratmak zorlaşır.",
+        "VI": "Khi HP dưới 85%, trọng kích khó bị ngắt đoạn, và tăng 45% sát thương trọng kích."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When HP falls below 90%, increases Charged Attack DMG by 50% and Charged Attacks become harder to interrupt.",
+        "CHS": "生命值低于90%时，重击不会轻易被打断，并提高50%重击伤害。",
+        "CHT": "生命值低於90%時，重擊不會輕易被打斷，並提高50%重擊傷害。",
+        "DE": "Ein heftiger Schlag wird bei weniger als 90 % LP nicht so leicht abgewehrt. Erhöht den Schaden heftiger Schläge dabei um 50 %.",
+        "ES": "Cuando la Vida está por debajo del 90%, los Ataques Cargados son más difíciles de ser interrumpidos. Además, aumenta el daño de Ataque Cargado en un 50%.",
+        "FR": "Les attaques chargées sont plus difficiles à interrompre si les PV sont inférieurs à 90 %, et les DGT infligés par les attaques chargées augmentent de 50 %.",
+        "ID": "Saat HP kurang dari 90%, Charged Attack menjadi lebih sulit untuk diinterupsi, dan DMG Charged Attack meningkat 50%.",
+        "IT": "Quando i PS scendono al di sotto di un 90%, aumenta i DAN degli attacchi caricati di un 50%, rendendoli più difficili da interrompere.",
+        "JP": "HPが90%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+50%。",
+        "KR": "HP가 90% 미만일 때 강공격 발동 시 경직되지 않고 강공격 피해가 50% 증가한다",
+        "PT": "Quando a Vida estiver inferior a 90%, Ataques Carregados raramente são interrompidos e aumenta 50% do Ataque Carregado.",
+        "RU": "При HP ниже 90% врагу становится труднее прервать заряженную атаку. Также увеличивает урон заряженной атаки на 50%.",
+        "TH": "เมื่อพลังชีวิตต่ำกว่า 90% การชาร์จโจมตีจะ ถูกขัดจังหวะได้ยากขึ้น และเพิ่มความเสียหายขึ้น 50%",
+        "TR": "Can %90 oranının altına indiğinde Yüklü Saldırı Hasarı %50 artar ve Yüklü Saldırıları kesintiye uğratmak zorlaşır.",
+        "VI": "Khi HP dưới 90%, trọng kích khó bị ngắt đoạn, và tăng 50% sát thương trọng kích."
+      }
+    }
+  ]
+}

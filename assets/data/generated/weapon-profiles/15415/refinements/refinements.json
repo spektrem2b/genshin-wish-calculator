@@ -1,0 +1,41 @@
+{
+  "name": {
+    "EN": "Strong Strike",
+    "CHS": "强力攻击",
+    "CHT": "強力攻擊",
+    "DE": "Wuchtangriff",
+    "ES": "Golpe contundente",
+    "FR": "Frappe puissante",
+    "ID": "Strong Strike",
+    "IT": "Attacco potente",
+    "JP": "強打",
+    "KR": "강력한 공격",
+    "PT": "Ataque Poderoso",
+    "RU": "Сильная атака",
+    "TH": "Strong Strike",
+    "TR": "Güçlü Vuruş",
+    "VI": "Tấn Công Mạnh Mẽ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Effective only on the following platform: \n\"PlayStation™Network\"\nDealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66.",
+        "CHS": "仅在以下平台生效：\n\"PlayStation™Network\"\n对敌人造成冰元素伤害后，普通攻击与重击造成的伤害提高10%，该效果持续6秒，至多叠加2次；此外，埃洛伊装备掠食者时，攻击力提升66点。",
+        "CHT": "僅在以下平臺生效：\n\"PlayStation™Network\"\n對敵人造成冰元素傷害後，普通攻擊與重擊造成的傷害提高10%，該效果持續6秒，至多疊加2次。此外，亞蘿伊裝備掠食者時，攻擊力提升66點。",
+        "DE": "Nur für Spieler auf folgender Plattform wirksam:\n„PlayStation™Network“\nErhöht nach dem Treffen von Gegnern mit Kryo-Schaden den mit Standardangriffen und heftigen Schlägen verursachten Schaden 6 s lang um 10 %, 2-fach stapelbar. Erhöht Aloys ANG beim Anlegen von Raubtier zusätzlich um 66 Punkte.",
+        "ES": "Solo disponible en las siguientes plataformas:\n“PlayStation™Network”.\nTras infligir Daño Cryo a los enemigos, el daño de los Ataques Normales y Cargados aumenta en un 10% durante 6 s. Puede acumularse hasta 2 veces. Además, cuando Aloy equipa el arma Depredador, su ATQ aumenta en 66 pts.",
+        "FR": "Uniquement pour les joueurs sur :\n« PlayStation™Network »\nAprès avoir infligé des DGT Cryo aux ennemis, les DGT infligés par les attaques normales et chargées augmentent de 10 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum. De plus, lorsque Aloy équipe le Predator, son ATQ augmente de 66 pts.",
+        "ID": "Berlaku khusus untuk pemain di: \n\"PlayStation™Network\"\nSaat mengakibatkan Cryo DMG pada musuh, maka DMG Normal dan Charged Attack dari Karakter tersebut akan meningkat 10% selama 6 detik, dapat ditumpuk sampai 2 lapis. Selain itu, jika Aloy yang mengenakan Predator, ATK-nya akan meningkat sebesar 66.",
+        "IT": "#Efficace solo sulla piattaforma \n\"PlayStation™Network\"\nInfliggere DAN da Cryo ai nemici aumenta i DAN da attacco normale e caricato di questo personaggio di un 10% per 6 s. Cumulabile fino a 2 volte. Inoltre, quando Aloy equipaggia il Predatore, l'ATT aumenta di 66.",
+        "JP": "以下のプラットフォームでのみ有効です。\n\"PlayStation™Network\"\n敵に氷元素ダメージを与えた後、通常攻撃と重撃ダメージ+10%、継続時間6秒、最大2重まで。また、アーロイがプレデターを装備している場合、攻撃力+66。",
+        "KR": "다음 플랫폼에서만 적용:\n\"PlayStation™Network\"\n적에게 얼음 원소 피해를 준 후, 일반 공격과 강공격으로 주는 피해가 10% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 또한, 에일로이가 포식자를 장착할 때 공격력이 66pt 증가한다",
+        "PT": "Efetivo apenas para jogadores da seguinte plataforma:\n\"PlayStation™Network\"\nCausar Dano cryo aos oponentes aumenta o Dano do Ataque Normal e Carregado do personagem em 10% por 6s. Este efeito pode ter no máximo 2 acúmulos. Adicionalmente, quando Aloy equipa o Predador, o ATQ é aumentado em 66.",
+        "RU": "Действует только для игроков\n\"PlayStation™Network\".\nНанесённый противникам Крио урон повышает урон обычной и заряженной атаки персонажа на 10% в течение 6 сек. Эффект может складываться до 2 раз. Кроме этого, когда Хищником экипирована Элой, сила атаки повышается на 66 ед.",
+        "TH": "มีผลเมื่อเล่นบนแพลตฟอร์มต่อไปนี้เท่านั้น:\n\"PlayStation™Network\"\nหลังจากที่สร้างความเสียหายน้ำแข็งแก่ศัตรู ความเสียหายการโจมตีปกติและชาร์จโจมตีจะเพิ่มขึ้น 10% โดยที่เอฟเฟกต์นี้จะคงอยู่เป็นเวลา 6 วินาที และซ้อนทับกันได้มากสุด 2 ครั้ง; นอกจากนี้เมื่อ Aloy เป็นผู้ใช้ Predator พลังโจมตีจะเพิ่มขึ้น 66 หน่วย",
+        "TR": "Sadece aşağıdaki platformda geçerlidir: \n\"PlayStation™Network\"\nDüşmanlara Buz Hasarı vermek 6 saniyeliğine bu karakterin Normal ve Yüklü Saldırısını %10 artırır. Bu etki 2 kademeye kadar birikir. Ayrıca Aloy, Yırtıcıyı kuşandığında Saldırısı 66 artar.",
+        "VI": "Chỉ có hiệu lực trong:\n\"PlayStation™Network\"\nSau khi gây Sát Thương Nguyên Tố Băng lên kẻ địch, tăng 10% sát thương tấn công thường và trọng kích gây ra, hiệu quả duy trì 6 giây, tối đa cộng dồn 2 lần; Ngoài ra, khi Aloy trang bị \"Kẻ Săn Mồi\", tấn công tăng 66 điểm."
+      }
+    }
+  ]
+}

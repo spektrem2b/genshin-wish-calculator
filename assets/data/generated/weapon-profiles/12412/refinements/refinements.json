@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Oceanic Victory",
+    "CHS": "海洋的胜利",
+    "CHT": "海洋的勝利",
+    "DE": "Meeressieg",
+    "ES": "Victoria oceánica",
+    "FR": "Victoire océanique",
+    "ID": "Oceanic Victory",
+    "IT": "Vittoria oceanica",
+    "JP": "海の勝利",
+    "KR": "바다의 승리",
+    "PT": "Vitória Oceânica",
+    "RU": "Победа океана",
+    "TH": "Oceanic Victory",
+    "TR": "Okyanus Zaferi",
+    "VI": "Chiến Thắng Của Biển Cả"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 12%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 100% ATK as AoE DMG. This effect can occur once every 15s.",
+        "CHS": "元素爆发造成的伤害提升12%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成100%攻击力的范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "元素爆發造成的傷害提升12%。元素爆發命中敵人時，有100%機率召喚大鮪衝擊，造成100%攻擊力的範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 12 %. Beschwört beim Treffen von Gegnern mit Spezialfähigkeiten mit einer Wahrscheinlichkeit von 100 % große Thunfische, die Flächenschaden in Höhe von 100 % ANG verursachen. 15 s Abklingzeit.",
+        "ES": "Aumenta el daño infligido por la Habilidad Definitiva en un 12%. Cuando la Habilidad Definitiva golpea a un enemigo, hay una probabilidad del 100% de invocar unos atunes que atacan e infligen un Daño en el AdE equivalente al 100% del ATQ. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 12 %. Lorsqu'un déchaînement élémentaire touche un ennemi, il y a 100 % de chances d'invoquer un banc de thons qui charge et inflige des DGT de zone équivalant à 100 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 12% DMG Elemental Burst. Saat Elemental Burst mengenai musuh, ada 100% kemungkinan memanggil ikan-ikan tuna untuk menyerang musuh dan mengakibatkan DMG Area sebesar 100% ATK. Efek ini dapat terpicu setiap 15 detik.",
+        "IT": "#Aumenta i DAN da Tripudio elementale di un 12%. Quando il Tripudio colpisce gli avversari, c'è un 100% di probabilità di evocare un enorme branco di tonni che infliggerà DAN ad area pari a un 100% dell'ATT. Si può verificare una volta ogni 15 s.",
+        "JP": "元素爆発ダメージ+12%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力100%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "원소폭발로 주는 피해가 12% 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 100%의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+        "PT": "Aumenta o Dano do Supremo em 12%. Quando o Supremo acerta os oponentes, existe 100% de chance de invocar uma tuna titânica que avança e causa 100% do ATQ como Dano em uma AdE. Este efeito pode ocorrer uma vez a cada 15s.",
+        "RU": "Увеличивает урон взрыва стихии на 12%. При попадании взрывом стихии по противнику с вероятностью в 100% призывается Титанический тунец, который совершает атаку и наносит урон по площади, равный 100% от силы атаки. Может возникнуть раз в 15 сек.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 12% และในตอนที่ท่าไม้ตายโจมตีถูกศัตรู จะมีโอกาส 100% ที่จะเรียกฝูงทูน่าออกมา เพื่อสร้างความเสียหายวงกว้าง 100% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Element Patlaması Hasarını %12 artırır. Element Patlaması düşmanlara isabet ettiğinde %100 ihtimalle %100 Saldırı kadar Alan Hasarı veren devasa bir orkinos saldırısı başlar. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Sát thương từ Kỹ Năng Nộ tăng 12%. Khi Kỹ Năng Nộ trúng địch, có 100% tỷ lệ triệu hồi kình ngư xung kích, gây sát thương phạm vi bằng 100% sức tấn công. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 15%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 125% ATK as AoE DMG. This effect can occur once every 15s.",
+        "CHS": "元素爆发造成的伤害提升15%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成125%攻击力的范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "元素爆發造成的傷害提升15%。元素爆發命中敵人時，有100%的機率召喚大鮪衝擊，造成125%攻擊力的範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 15 %. Beschwört beim Treffen von Gegnern mit Spezialfähigkeiten mit einer Wahrscheinlichkeit von 100 % große Thunfische, die Flächenschaden in Höhe von 125 % ANG verursachen. 15 s Abklingzeit.",
+        "ES": "Aumenta el daño infligido por la Habilidad Definitiva en un 15%. Cuando la Habilidad Definitiva golpea a un enemigo, hay una probabilidad del 100% de invocar unos atunes que atacan e infligen un Daño en el AdE equivalente al 125% del ATQ. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 15 %. Lorsqu'un déchaînement élémentaire touche un ennemi, il y a 100 % de chances d'invoquer un banc de thons qui charge et inflige des DGT de zone équivalant à 125 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 15% DMG Elemental Burst. Saat Elemental Burst mengenai musuh, ada 100% kemungkinan memanggil ikan-ikan tuna untuk menyerang musuh dan mengakibatkan DMG Area sebesar 125% ATK. Efek ini dapat terpicu setiap 15 detik.",
+        "IT": "#Aumenta i DAN da Tripudio elementale di un 15%. Quando il Tripudio colpisce gli avversari, c'è un 100% di probabilità di evocare un enorme branco di tonni che infliggerà DAN ad area pari a un 125% dell'ATT. Si può verificare una volta ogni 15 s.",
+        "JP": "元素爆発ダメージ+15%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力125%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "원소폭발로 주는 피해가 15% 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 125%의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+        "PT": "Aumenta o Dano do Supremo em 15%. Quando o Supremo acerta os oponentes, existe 100% de chance de invocar uma tuna titânica que avança e causa 125% do ATQ como Dano em uma AdE. Este efeito pode ocorrer uma vez a cada 15s.",
+        "RU": "Увеличивает урон взрыва стихии на 15%. При попадании взрывом стихии по противнику с вероятностью в 100% призывается Титанический тунец, который совершает атаку и наносит урон по площади, равный 125% от силы атаки. Может возникнуть раз в 15 сек.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 15% และในตอนที่ท่าไม้ตายโจมตีถูกศัตรู จะมีโอกาส 100% ที่จะเรียกฝูงทูน่าออกมา เพื่อสร้างความเสียหายวงกว้าง 125% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Element Patlaması Hasarını %15 artırır. Element Patlaması düşmanlara isabet ettiğinde %100 ihtimalle %125 Saldırı kadar Alan Hasarı veren devasa bir orkinos saldırısı başlar. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Sát thương từ Kỹ Năng Nộ tăng 15%. Khi Kỹ Năng Nộ trúng địch, có 100% tỷ lệ triệu hồi kình ngư xung kích, gây sát thương phạm vi bằng 125% sức tấn công. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 18%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 150% ATK as AoE DMG. This effect can occur once every 15s.",
+        "CHS": "元素爆发造成的伤害提升18%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成150%攻击力的范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "元素爆發造成的傷害提升18%。元素爆發命中敵人時，有100%的機率召喚大鮪衝擊，造成150%攻擊力的範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 18 %. Beschwört beim Treffen von Gegnern mit Spezialfähigkeiten mit einer Wahrscheinlichkeit von 100 % große Thunfische, die Flächenschaden in Höhe von 150 % ANG verursachen. 15 s Abklingzeit.",
+        "ES": "Aumenta el daño infligido por la Habilidad Definitiva en un 18%. Cuando la Habilidad Definitiva golpea a un enemigo, hay una probabilidad del 100% de invocar unos atunes que atacan e infligen un Daño en el AdE equivalente al 150% del ATQ. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 18 %. Lorsqu'un déchaînement élémentaire touche un ennemi, il y a 100 % de chances d'invoquer un banc de thons qui charge et inflige des DGT de zone équivalant à 150 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 18% DMG Elemental Burst. Saat Elemental Burst mengenai musuh, ada 100% kemungkinan memanggil ikan-ikan tuna untuk menyerang musuh dan mengakibatkan DMG Area sebesar 150% ATK. Efek ini dapat terpicu setiap 15 detik.",
+        "IT": "#Aumenta i DAN da Tripudio elementale di un 18%. Quando il Tripudio colpisce gli avversari, c'è un 100% di probabilità di evocare un enorme branco di tonni che infliggerà DAN ad area pari a un 150% dell'ATT. Si può verificare una volta ogni 15 s.",
+        "JP": "元素爆発ダメージ+18%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力150%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "원소폭발로 주는 피해가 18% 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 150%의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+        "PT": "Aumenta o Dano do Supremo em 18%. Quando o Supremo acerta os oponentes, existe 100% de chance de invocar uma tuna titânica que avança e causa 150% do ATQ como Dano em uma AdE. Este efeito pode ocorrer uma vez a cada 15s.",
+        "RU": "Увеличивает урон взрыва стихии на 18%. При попадании взрывом стихии по противнику с вероятностью в 100% призывается Титанический тунец, который совершает атаку и наносит урон по площади, равный 150% от силы атаки. Может возникнуть раз в 15 сек.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 18% และในตอนที่ท่าไม้ตายโจมตีถูกศัตรู จะมีโอกาส 100% ที่จะเรียกฝูงทูน่าออกมา เพื่อสร้างความเสียหายวงกว้าง 150% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Element Patlaması Hasarını %18 artırır. Element Patlaması düşmanlara isabet ettiğinde %100 ihtimalle %150 Saldırı kadar Alan Hasarı veren devasa bir orkinos saldırısı başlar. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Sát thương từ Kỹ Năng Nộ tăng 18%. Khi Kỹ Năng Nộ trúng địch, có 100% tỷ lệ triệu hồi kình ngư xung kích, gây sát thương phạm vi bằng 150% sức tấn công. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 21%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 175% ATK as AoE DMG. This effect can occur once every 15s.",
+        "CHS": "元素爆发造成的伤害提升21%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成175%攻击力的范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "元素爆發造成的傷害提升21%。元素爆發命中敵人時，有100%的機率召喚大鮪衝擊，造成175%攻擊力的範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 21 %. Beschwört beim Treffen von Gegnern mit Spezialfähigkeiten mit einer Wahrscheinlichkeit von 100 % große Thunfische, die Flächenschaden in Höhe von 175 % ANG verursachen. 15 s Abklingzeit.",
+        "ES": "Aumenta el daño infligido por la Habilidad Definitiva en un 21%. Cuando la Habilidad Definitiva golpea a un enemigo, hay una probabilidad del 100% de invocar unos atunes que atacan e infligen un Daño en el AdE equivalente al 175% del ATQ. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 21 %. Lorsqu'un déchaînement élémentaire touche un ennemi, il y a 100 % de chances d'invoquer un banc de thons qui charge et inflige des DGT de zone équivalant à 175 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 21% DMG Elemental Burst. Saat Elemental Burst mengenai musuh, ada 100% kemungkinan memanggil ikan-ikan tuna untuk menyerang musuh dan mengakibatkan DMG Area sebesar 175% ATK. Efek ini dapat terpicu setiap 15 detik.",
+        "IT": "#Aumenta i DAN da Tripudio elementale di un 21%. Quando il Tripudio colpisce gli avversari, c'è un 100% di probabilità di evocare un enorme branco di tonni che infliggerà DAN ad area pari a un 175% dell'ATT. Si può verificare una volta ogni 15 s.",
+        "JP": "元素爆発ダメージ+21%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力175%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "원소폭발로 주는 피해가 21% 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 175%의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+        "PT": "Aumenta o Dano do Supremo em 21%. Quando o Supremo acerta os oponentes, existe 100% de chance de invocar uma tuna titânica que avança e causa 175% do ATQ como Dano em uma AdE. Este efeito pode ocorrer uma vez a cada 15s.",
+        "RU": "Увеличивает урон взрыва стихии на 21%. При попадании взрывом стихии по противнику с вероятностью в 100% призывается Титанический тунец, который совершает атаку и наносит урон по площади, равный 175% от силы атаки. Может возникнуть раз в 15 сек.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 21% และในตอนที่ท่าไม้ตายโจมตีถูกศัตรู จะมีโอกาส 100% ที่จะเรียกฝูงทูน่าออกมา เพื่อสร้างความเสียหายวงกว้าง 175% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Element Patlaması Hasarını %21 artırır. Element Patlaması düşmanlara isabet ettiğinde %100 ihtimalle %175 Saldırı kadar Alan Hasarı veren devasa bir orkinos saldırısı başlar. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Sát thương từ Kỹ Năng Nộ tăng 21%. Khi Kỹ Năng Nộ trúng địch, có 100% tỷ lệ triệu hồi kình ngư xung kích, gây sát thương phạm vi bằng 175% sức tấn công. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Burst DMG by 24%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 200% ATK as AoE DMG. This effect can occur once every 15s.",
+        "CHS": "元素爆发造成的伤害提升24%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成200%攻击力的范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "元素爆發造成的傷害提升24%。元素爆發命中敵人時，有100%的 機率召喚大鮪衝擊，造成200%攻擊力的範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 24 %. Beschwört beim Treffen von Gegnern mit Spezialfähigkeiten mit einer Wahrscheinlichkeit von 100 % große Thunfische, die Flächenschaden in Höhe von 200 % ANG verursachen. 15 s Abklingzeit.",
+        "ES": "Aumenta el daño infligido por la Habilidad Definitiva en un 24%. Cuando la Habilidad Definitiva golpea a un enemigo, hay una probabilidad del 100% de invocar unos atunes que atacan e infligen un Daño en el AdE equivalente al 200% del ATQ. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Augmente les DGT des déchaînements élémentaires de 24 %. Lorsqu'un déchaînement élémentaire touche un ennemi, il y a 100 % de chances d'invoquer un banc de thons qui charge et inflige des DGT de zone équivalant à 200 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Meningkatkan 24% DMG Elemental Burst. Saat Elemental Burst mengenai musuh, ada 100% kemungkinan memanggil ikan-ikan tuna untuk menyerang musuh dan mengakibatkan DMG Area sebesar 200% ATK. Efek ini dapat terpicu setiap 15 detik.",
+        "IT": "#Aumenta i DAN da Tripudio elementale di un 24%. Quando il Tripudio colpisce gli avversari, c'è un 100% di probabilità di evocare un enorme branco di tonni che infliggerà DAN ad area pari a un 200% dell'ATT. Si può verificare una volta ogni 15 s.",
+        "JP": "元素爆発ダメージ+24%。元素爆発が敵に命中すると、100%の確率でマグロを召喚し、衝撃を与え、攻撃力200%分の範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "원소폭발로 주는 피해가 24% 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 200%의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+        "PT": "Aumenta o Dano do Supremo em 24%. Quando o Supremo acerta os oponentes, existe 100% de chance de invocar uma tuna titânica que avança e causa 200% do ATQ como Dano em uma AdE. Este efeito pode ocorrer uma vez a cada 15s.",
+        "RU": "Увеличивает урон взрыва стихии на 24%. При попадании взрывом стихии по противнику с вероятностью в 100% призывается Титанический тунец, который совершает атаку и наносит урон по площади, равный 200% от силы атаки. Может возникнуть раз в 15 сек.",
+        "TH": "ท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 24% และในตอนที่ท่าไม้ตายโจมตีถูกศัตรู จะมีโอกาส 100% ที่จะเรียกฝูงทูน่าออกมา เพื่อสร้างความเสียหายวงกว้าง 200% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Element Patlaması Hasarını %24 artırır. Element Patlaması düşmanlara isabet ettiğinde %100 ihtimalle %200 Saldırı kadar Alan Hasarı veren devasa bir orkinos saldırısı başlar. Bu etki 15 saniyede bir uygulanabilir.",
+        "VI": "Sát thương từ Kỹ Năng Nộ tăng 24%. Khi Kỹ Năng Nộ trúng địch, có 100% tỷ lệ triệu hồi kình ngư xung kích, gây sát thương phạm vi bằng 200% sức tấn công. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

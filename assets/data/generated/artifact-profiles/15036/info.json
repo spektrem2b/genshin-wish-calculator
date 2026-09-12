@@ -1,0 +1,69 @@
+{
+  "id": 15036,
+  "name": {
+    "EN": "Unfinished Reverie",
+    "CHS": "未竟的遐思",
+    "CHT": "未竟的遐思",
+    "DE": "Unvollendete Träumerei",
+    "ES": "Ensoñación Inacabada",
+    "FR": "Rêverie incomplète",
+    "ID": "Unfinished Reverie",
+    "IT": "Fantasmagoria incompiuta",
+    "JP": "遂げられなかった想い",
+    "KR": "미완의 몽상",
+    "PT": "Reminiscência Incompleta",
+    "RU": "Незаконченные грёзы",
+    "TH": "Unfinished Reverie",
+    "TR": "Yarım Kalan Rüya",
+    "VI": "Ảo Mộng Chưa Hoàn Thành"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15036/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "#Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%",
+        "RU": "Увеличивает силу атаки на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn công tăng 18%"
+      },
+      "affixId": "2150360"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers if the equipping character is off-field.",
+        "CHS": "脱离战斗状态3秒后，造成的伤害提升50%。在战斗状态下，附近不存在处于燃烧状态下的敌人超过6秒后，上述伤害提升效果每秒降低10%，直到降低至0%；存在处于燃烧状态下的敌人时，每秒提升10%，直到达到50%。装备此圣遗物套装的角色处于队伍后台时，依然会触发该效果。",
+        "CHT": "脫離戰鬥狀態3秒後，造成的傷害提升50%。在戰鬥狀態下，附近不存在處於燃燒狀態下的敵人超過6秒後，上述傷害提升效果每秒降低10%，直到降低至0%；存在處於燃燒狀態下的敵人時，每秒提升10%，直到達到50%。裝備此聖遺物套裝的角色處於隊伍後臺時，依然會觸發該效果。",
+        "DE": "#Erhöht den verursachten Schaden um 50 %, sobald der Träger den Kampf für 3 s verlassen hat. Verringert diesen Schadensbonus im Kampf jede s um 10 %, sobald 6 s lang keine Gegner in Flammen in der Nähe sind, bis auf 0 %. Erhöht den Schadensbonus jede s um 10 %, wenn Gegner in Flammen in der Nähe sind, bis auf 50 %. Der Effekt kann auch noch ausgelöst werden, wenn der Träger inaktiv in der Truppe ist.",
+        "ES": "#3 s después de salir de combate, el daño infligido aumenta en un 50%. Si estando en combate han pasado más de 6 s sin que haya ningún enemigo cercano quemado, dicho aumento de daño irá disminuyendo en un 10% por segundo, hasta llegar al 0%. Si hay algún enemigo cercano quemado, el daño infligido aumenta en un 10% por segundo, hasta llegar al 50%. Estos efectos se pueden activar incluso cuando el personaje que lleva equipado este conjunto de artefactos está en tu equipo pero no en uso.",
+        "FR": "#Après avoir été hors combat pendant 3 s, les DGT infligés augmentent de 50 %. En combat, si aucun ennemi brûlé n'est à proximité pendant plus de 6 s, cette augmentation de DGT diminue de 10 % toutes les secondes, jusqu'à atteindre 0 % ; si un ennemi brûlé est à proximité, elle augmente de 10 % toutes les secondes, jusqu'à atteindre 50 %. Cet effet peut être déclenché même lorsque le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "3 detik setelah meninggalkan medan pertempuran, DMG yang diakibatkan meningkat 50%. Dalam kondisi bertempur, jika tidak ada musuh yang berada dalam status Burning di sekitar selama lebih dari 6 detik, maka efek peningkatan DMG di atas akan berkurang 10% setiap detiknya, hingga mencapai 0%; Jika ada musuh yang berada dalam status Burning di sekitar, maka Damage meningkat 10% setiap detiknya, hingga mencapai 50%. Efek ini akan tetap terpicu saat Karakter yang mengenakan Artefak ini ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Dopo aver trascorso 3 s fuori da un combattimento, i DAN inflitti aumentano di un 50%. Durante un combattimento, se nelle vicinanze non sono presenti avversari affetti da Ustione per più di 6 s, il suddetto bonus DAN diminuisce di un 10% al secondo fino ad azzerarsi. Se è presente almeno un avversario affetto da Ustione, invece, il bonus DAN aumenta di un 10% al secondo fino a raggiungere il 50%. Quest'effetto può attivarsi anche se il personaggio che equipaggia il set non è in campo.",
+        "JP": "戦闘状態が解除されてから3秒経過すると、与えるダメージ+50%。戦闘状態にある時、近くに燃焼状態の敵が存在しないまま6秒以上経過すると、上記強化効果の効果量は0%になるまで1秒毎に10%減少する。一方、燃焼状態の敵が存在する場合、50%になるまで1秒毎に10%増加する。この聖遺物セットを装備したキャラクターが待機している場合にも、効果を発動できる。",
+        "KR": "전투 상태 이탈 3초 후, 주는 피해가 50% 증가한다. 전투 상태에서 6초 넘게 주변에 연소 상태의 적이 없으면, 상술한 피해 증가 효과는 0%에 이를 때까지 초당 10%씩 감소한다. 연소 상태의 적이 있을 시, 50%에 이를 때까지 초당 10%씩 증가한다. 해당 성유물 세트를 장착한 캐릭터가 대기 상태 시에도 해당 효과는 발동된다",
+        "PT": "Depois de sair do combate por 3s, aumenta o Dano causado em 50%. Em combate, se não houverem inimigos Queimando por mais que 6s, esse Bônus de Dano reduzirá 10% por segundo até 0%. Quando existir um oponente Queimando, aumentará 10% até alcançar 50%. Esse efeito pode ser desencadeado mesmo que o personagem com este conjunto de artefatos equipado não esteja ativo.",
+        "RU": "Урон персонажа после того, как он покидает поле боя на 3 сек., повышается на 50%. В бою, если поблизости более 6 сек. нет врагов со статусом Горение, персонаж теряет 10% упомянутого увеличения урона в секунду, пока оно не упадёт до 0%. Если поблизости есть враги со статусом Горение, увеличение урона повышается на 10% в секунду, пока не достигнет 50%. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "หลังออกจากสถานะการต่อสู้ 3 วินาที จะสร้างความเสียหายเพิ่มขึ้น 50% ขณะอยู่ในสถานะการต่อสู้ ถ้าไม่มีศัตรูสถานะติดไฟอยู่ในบริเวณใกล้เคียงนานเกิน 6 วินาที เอฟเฟกต์เพิ่มความเสียหายดังกล่าวจะลดลง 10% ทุกวินาที จนกว่าจะถึง 0%; เมื่อมีศัตรูที่อยู่ในสถานะติดไฟ มันจะเพิ่มขึ้น 10% ทุกวินาที จนกว่าจะถึง 50% ซึ่งเอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Savaş alanından ayrıldıktan 3sn sonra verilen Hasar %50 artar. Savaş sırasında 6 saniyeden daha uzun süre yakınlarda Yanma etkisinde bir düşman olmadığında Hasar Bonusu %0 olana kadar saniyede %10 azalır. Yanma etkisinde bir düşman varsa Hasar Bonusu %50'ye ulaşana kadar saniyede %10 artar. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi rời khỏi chiến đấu 3s, sát thương gây ra tăng 50%. Khi trong trạng thái chiến đấu, nếu trên 6s mà xung quanh không có kẻ địch bị trạng thái Thiêu Đốt, thì hiệu quả tăng sát thương nêu trên sẽ giảm 10% mỗi giây cho đến khi giảm còn 0%; Nếu có kẻ địch bị trạng thái Thiêu Đốt thì mỗi giây sẽ tăng 10% cho đến khi tăng đến 50%. Nhân vật trang bị Thánh Di Vật này khi không ra trận vẫn có thể kích hoạt hiệu quả này."
+      },
+      "affixId": "2150361"
+    }
+  ]
+}

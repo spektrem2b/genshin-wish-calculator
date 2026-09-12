@@ -1,0 +1,69 @@
+{
+  "id": 15031,
+  "name": {
+    "EN": "Marechaussee Hunter",
+    "CHS": "逐影猎人",
+    "CHT": "逐影獵人",
+    "DE": "Schattenjäger",
+    "ES": "Cazador Fantasmal",
+    "FR": "Chasseur de la Maréchaussée",
+    "ID": "Marechaussee Hunter",
+    "IT": "Cacciatore della Maréchaussée",
+    "JP": "ファントムハンター",
+    "KR": "그림자 사냥꾼",
+    "PT": "Caçador das Sombras",
+    "RU": "Охотник Сумеречного двора",
+    "TH": "Marechaussee Hunter",
+    "TR": "Mareşose Avcısı",
+    "VI": "Thợ Săn Marechaussee"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15031/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Normal and Charged Attack DMG +15%",
+        "CHS": "普通攻击与重击造成的伤害提高15%。",
+        "CHT": "普通攻擊與重擊造成的傷害提高15%。",
+        "DE": "#Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15 %.",
+        "ES": "Daño de Ataque Normal y Cargado +15%.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 15 %.",
+        "ID": "Meningkatkan 15% DMG Normal Attack dan Charged Attack.",
+        "IT": "DAN da attacchi normali e caricati +15%.",
+        "JP": "通常攻撃と重擊ダメージ+15%。",
+        "KR": "일반 공격과 강공격으로 주는 피해+15%",
+        "PT": "Aumenta o Dano do Ataque Normal e do Ataque Carregado em 15%.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 15%.",
+        "TH": "เพิ่มความเสียหายการโจมตีปกติ และการชาร์จโจมตี 15%",
+        "TR": "+%15 Normal ve Yüklü Saldırı Hasarı.",
+        "VI": "Tăng 15% sát thương tấn công thường và trọng kích."
+      },
+      "affixId": "2150310"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks.",
+        "CHS": "当前生命值提升或降低时，暴击率提升12%，该效果持续5秒，至多叠加3次。",
+        "CHT": "目前生命值提升或降低時，暴擊率提升12%，該效果持續5秒，至多疊加3次。",
+        "DE": "#Erhöht beim Erhöhen oder Verringern der aktuellen LP die KT um 12 %. Hält 5 s. 3-fach stapelbar.",
+        "ES": "#Cuando la Vida del personaje aumenta o disminuye, la Prob. CRIT aumenta en un 12%. Este efecto dura 5 s y puede acumularse hasta 3 veces.",
+        "FR": "Lorsque les PV actuels du personnage augmentent ou diminuent, son taux CRIT augmente de 12 % pendant 5 s. Cet effet peut être cumulé 3 fois maximum.",
+        "ID": "Saat HP bertambah atau berkurang, CRIT Rate meningkat 12% selama 5 detik, dapat ditumpuk sampai 3 kali.",
+        "IT": "#Quando la quantità di PS attuali aumenta o diminuisce, il tasso di CRIT aumenta di un 12% per 5 s. Massimo 3 accumuli.",
+        "JP": "現在HPが増減する時、会心率+12%、継続時間5秒、最大3層まで重ね掛け可能。",
+        "KR": "현재 HP가 증가 또는 감소 시, 치명타 확률이 12% 증가한다. 지속 시간: 5초, 최대 중첩수: 3회",
+        "PT": "Quando a Vida atual aumenta ou diminui, aumenta a Taxa CRIT em 12%. Esse efeito dura 5s e pode ser acumulado até 3 vezes.",
+        "RU": "Увеличивает шанс крит. попадания на 12% на 5 сек., когда текущее HP увеличивается или снижается. Эффект может складываться до 3 раз.",
+        "TH": "เมื่อค่าพลังชีวิตปัจจุบันเพิ่มขึ้นหรือลดลง อัตราคริจะเพิ่มขึ้น 12% โดยเอฟเฟกต์นี้จะมีระยะเวลาต่อเนื่อง 5 วินาที ซ้อนทับได้สูงสุด 3 ชั้น",
+        "TR": "Mevcut Can arttığında veya azaldığında 5 saniyeliğine Kritik Oranı %12 artar. En fazla 3 kademe birikir.",
+        "VI": "Khi HP hiện tại có tăng hoặc giảm, tỉ lệ bạo kích tăng 12%. Hiệu quả này duy trì 5s, tối đa cộng dồn 3 lần."
+      },
+      "affixId": "2150311"
+    }
+  ]
+}

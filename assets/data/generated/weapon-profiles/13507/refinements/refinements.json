@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Extinguishing Precept",
+    "CHS": "灭却之戒法",
+    "CHT": "滅卻之戒法",
+    "DE": "Löschgebot",
+    "ES": "Ley de la aniquilación",
+    "FR": "Précepte d'anéantissement",
+    "ID": "Extinguishing Precept",
+    "IT": "Legge dell'estinzione",
+    "JP": "滅却の戒法",
+    "KR": "멸각의 계법",
+    "PT": "Preceito Extinguidor",
+    "RU": "Завет погибели",
+    "TH": "Extinguishing Precept",
+    "TR": "Yıkım İlkesi",
+    "VI": "Diệt Khước Giới Pháp"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Gain 12% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 3.2% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+        "CHS": "获得12%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升3.2%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+        "CHT": "獲得12%所有元素傷害加成；施放元素戰技後，獲得持續20秒的「圓頓」，攻擊力每1秒提升3.2%，該攻擊力提升效果至多疊加6次。當裝備此武器的角色處於隊伍後台時，「圓頓」的攻擊力提升效果翻倍。",
+        "DE": "Erhöht den Schaden aller Elemente um 12 %. Verleiht beim Auslösen einer Elementarfähigkeit den Effekt „Vollkommenheit“, der 20 s hält, den ANG pro Sekunde um 3,2 % erhöht und 6-fach stapelbar ist. Wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist, wird der ANG-Bonus verdoppelt.",
+        "ES": "#Otorga un 12% a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un 3.2% por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en uso, el aumento de ataque otorgado por consumación se dobla.",
+        "FR": "Confère un bonus de DGT élémentaires de 12 %. Après l'utilisation d'une compétence élémentaire, accorde 20 s d'Achèvement, augmentant l'ATQ de 3,2 % toutes les secondes. Ce bonus d'ATQ peut être cumulé 6 fois maximum. Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, le bonus d'ATQ de l'Achèvement est doublé.",
+        "ID": "Mendapatkan 12% Elemental DMG Bonus untuk semua elemen. Setelah melancarkan Elemental Skill, akan mendapatkan efek Consummation yang berlangsung selama 20 detik. Efek ini akan meningkatkan 3,2% ATK setiap detik dan dapat ditumpuk hingga 6 kali. Saat Karakter yang mengenakan Senjata ini berada dalam party tapi tidak di medan pertempuran, maka peningkatan ATK Consummation akan menjadi dua kali lipat.",
+        "IT": "#Ricevi un 12% di bonus DAN per tutti gli elementi. Dopo l'uso di un'abilità elementale, ottieni l'effetto Perfezionamento per 20 s, che aumenta l'ATT di un 3,2% al secondo. L'aumento dell'ATT è cumulabile fino a 6 volte. Quando il personaggio equipaggiato con quest'arma non è sul campo, l'aumento dell'ATT di Perfezionamento raddoppia.",
+        "JP": "全元素ダメージ+12%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が3.2%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の時、「円頓」による攻撃力アップ効果は2倍になる。",
+        "KR": "모든 원소의 피해 보너스를 12% 획득한다. 원소전투 스킬 발동 시, 20초 동안 지속되는 「원돈」을 획득하고 공격력이 1초마다 3.2% 증가한다. 해당 공격력 증가 효과는 최대 6회 중첩된다. 해당 무기를 장착한 캐릭터가 대기 상태일 때 「원돈」의 공격력 증가 효과는 2배가 된다",
+        "PT": "Obtém um Bônus de Dano Elemental para todos os Elementos de 12%; após lançar uma Habilidade Elemental, obtém Consumação por 20s, fazendo com que o Ataque aumente 3.2% por segundo. Este efeito pode ser acumulado em até 6 vezes. Quando o personagem da equipe que estiver com esta arma equipada não for o ativo no campo de batalha, o aumento do Ataque de Consumação será duplicado.",
+        "RU": "Даёт 12% бонус урона всеми элементами. Запуск элементального навыка накладывает Совершенствование на 20 сек., в результате чего сила атаки увеличивается на 3,2% в секунду. Может складываться до 6 раз. Когда персонаж, экипированный этим оружием, не на поле боя, бонус атаки от Совершенствования удваивается.",
+        "TH": "ได้รับโบนัสความเสียหายของธาตุทั้งหมด 12%; หลังจากใช้สกิลธาตุ จะได้รับ Consummation เป็นเวลา 20 วินาที ซึ่งจะทำให้พลังโจมตีเพิ่มขึ้น 3.2% ในทุก 1 วินาที โดยที่เอฟเฟกต์เพิ่มพลังโจมตีนี้ จะสามารถซ้อนทับได้ 6 ครั้ง และเมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ เอฟเฟกต์เพิ่มพลังโจมตีของ Consummation จะเพิ่มเป็นสองเท่า",
+        "TR": "Tüm Element Hasarları için %12 Bonus kazandırır. Bir Element Becerisi kullanıldığında 20 saniyeliğine Doruk Noktası kazanılır ve Saldırıyı saniyede %3,2 artırır. Bu Saldırı artışı 6 kademeye kadar birikebilir. Bu silahı kuşanan karakter savaş alanında değilken Doruk Noktası Saldırı artışı ikiye katlanır.",
+        "VI": "Tăng 12% sát thương tất cả nguyên tố; Sau khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Viên Đột\", duy trì 20s, sức tấn công mỗi giây tăng 3.2%, hiệu quả tăng tấn công này tối đa cộng dồn 6 lần. Khi nhân vật trang bị vũ khí này không xuất hiện trong trận, hiệu quả tăng tấn công của \"Viên Đột\" tăng gấp đôi."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Gain 15% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 4% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+        "CHS": "获得15%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升4%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+        "CHT": "獲得15%所有元素傷害加成；施放元素戰技後，獲得持續20秒的「圓頓」，攻擊力每1秒提升4%，該攻擊力提升效果至多疊加6次。當裝備此武器的角色處於隊伍後台時，「圓頓」的攻擊力提升效果翻倍。",
+        "DE": "Erhöht den Schaden aller Elemente um 15 %. Verleiht beim Auslösen einer Elementarfähigkeit den Effekt „Vollkommenheit“, der 20 s hält, den ANG pro Sekunde um 4 % erhöht und 6-fach stapelbar ist. Wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist, wird der ANG-Bonus verdoppelt.",
+        "ES": "#Otorga un 15% a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un 4% por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en uso, el aumento de ataque otorgado por consumación se dobla.",
+        "FR": "Confère un bonus de DGT élémentaires de 15 %. Après l'utilisation d'une compétence élémentaire, accorde 20 s d'Achèvement, augmentant l'ATQ de 4 % toutes les secondes. Ce bonus d'ATQ peut être cumulé 6 fois maximum. Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, le bonus d'ATQ de l'Achèvement est doublé.",
+        "ID": "Mendapatkan 15% Elemental DMG Bonus untuk semua elemen. Setelah melancarkan Elemental Skill, akan mendapatkan efek Consummation yang berlangsung selama 20 detik. Efek ini akan meningkatkan 4% ATK setiap detik dan dapat ditumpuk hingga 6 kali. Saat Karakter yang mengenakan Senjata ini berada dalam party tapi tidak di medan pertempuran, maka peningkatan ATK Consummation akan menjadi dua kali lipat.",
+        "IT": "#Ricevi un 15% di bonus DAN per tutti gli elementi. Dopo l'uso di un'abilità elementale, ottieni l'effetto Perfezionamento per 20 s, che aumenta l'ATT di un 4% al secondo. L'aumento dell'ATT è cumulabile fino a 6 volte. Quando il personaggio equipaggiato con quest'arma non è sul campo, l'aumento dell'ATT di Perfezionamento raddoppia.",
+        "JP": "全元素ダメージ+15%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が4%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の時、「円頓」による攻撃力アップ効果は2倍になる。",
+        "KR": "모든 원소의 피해 보너스를 15% 획득한다. 원소전투 스킬 발동 시, 20초 동안 지속되는 「원돈」을 획득하고 공격력이 1초마다 4% 증가한다. 해당 공격력 증가 효과는 최대 6회 중첩된다. 해당 무기를 장착한 캐릭터가 대기 상태일 때 「원돈」의 공격력 증가 효과는 2배가 된다",
+        "PT": "Obtém um Bônus de Dano Elemental para todos os Elementos de 15%; após lançar uma Habilidade Elemental, obtém Consumação por 20s, fazendo com que o Ataque aumente 4% por segundo. Este efeito pode ser acumulado em até 6 vezes. Quando o personagem da equipe que estiver com esta arma equipada não for o ativo no campo de batalha, o aumento do Ataque de Consumação será duplicado.",
+        "RU": "Даёт 15% бонус урона всеми элементами. Запуск элементального навыка накладывает Совершенствование на 20 сек., в результате чего сила атаки увеличивается на 4% в секунду. Может складываться до 6 раз. Когда персонаж, экипированный этим оружием, не на поле боя, бонус атаки от Совершенствования удваивается.",
+        "TH": "ได้รับโบนัสความเสียหายของธาตุทั้งหมด 15%; หลังจากใช้สกิลธาตุ จะได้รับ Consummation เป็นเวลา 20 วินาที ซึ่งจะทำให้พลังโจมตีเพิ่มขึ้น 4% ในทุก 1 วินาที โดยที่เอฟเฟกต์เพิ่มพลังโจมตีนี้ จะสามารถซ้อนทับได้ 6 ครั้ง และเมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ เอฟเฟกต์เพิ่มพลังโจมตีของ Consummation จะเพิ่มเป็นสองเท่า",
+        "TR": "Tüm Element Hasarları için %15 Bonus kazandırır. Bir Element Becerisi kullanıldığında 20 saniyeliğine Doruk Noktası kazanılır ve Saldırıyı saniyede %4 artırır. Bu Saldırı artışı 6 kademeye kadar birikebilir. Bu silahı kuşanan karakter savaş alanında değilken Doruk Noktası Saldırı artışı ikiye katlanır.",
+        "VI": "Tăng 15% sát thương tất cả nguyên tố; Sau khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Viên Đột\", duy trì 20s, sức tấn công mỗi giây tăng 4%, hiệu quả tăng tấn công này tối đa cộng dồn 6 lần. Khi nhân vật trang bị vũ khí này không xuất hiện trong trận, hiệu quả tăng tấn công của \"Viên Đột\" tăng gấp đôi."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Gain 18% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 4.8% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+        "CHS": "获得18%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升4.8%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+        "CHT": "獲得18%所有元素傷害加成；施放元素戰技後，獲得持續20秒的「圓頓」，攻擊力每1秒提升4.8%，該攻擊力提升效果至多疊加6次。當裝備此武器的角色處於隊伍後台時，「圓頓」的攻擊力提升效果翻倍。",
+        "DE": "Erhöht den Schaden aller Elemente um 18 %. Verleiht beim Auslösen einer Elementarfähigkeit den Effekt „Vollkommenheit“, der 20 s hält, den ANG pro Sekunde um 4,8 % erhöht und 6-fach stapelbar ist. Wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist, wird der ANG-Bonus verdoppelt.",
+        "ES": "#Otorga un 18% a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un 4.8% por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en uso, el aumento de ataque otorgado por consumación se dobla.",
+        "FR": "Confère un bonus de DGT élémentaires de 18 %. Après l'utilisation d'une compétence élémentaire, accorde 20 s d'Achèvement, augmentant l'ATQ de 4,8 % toutes les secondes. Ce bonus d'ATQ peut être cumulé 6 fois maximum. Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, le bonus d'ATQ de l'Achèvement est doublé.",
+        "ID": "Mendapatkan 18% Elemental DMG Bonus untuk semua elemen. Setelah melancarkan Elemental Skill, akan mendapatkan efek Consummation yang berlangsung selama 20 detik. Efek ini akan meningkatkan 4,8% ATK setiap detik dan dapat ditumpuk hingga 6 kali. Saat Karakter yang mengenakan Senjata ini berada dalam party tapi tidak di medan pertempuran, maka peningkatan ATK Consummation akan menjadi dua kali lipat.",
+        "IT": "#Ricevi un 18% di bonus DAN per tutti gli elementi. Dopo l'uso di un'abilità elementale, ottieni l'effetto Perfezionamento per 20 s, che aumenta l'ATT di un 4,8% al secondo. L'aumento dell'ATT è cumulabile fino a 6 volte. Quando il personaggio equipaggiato con quest'arma non è sul campo, l'aumento dell'ATT di Perfezionamento raddoppia.",
+        "JP": "全元素ダメージ+18%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が4.8%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の時、「円頓」による攻撃力アップ効果は2倍になる。",
+        "KR": "모든 원소의 피해 보너스를 18% 획득한다. 원소전투 스킬 발동 시, 20초 동안 지속되는 「원돈」을 획득하고 공격력이 1초마다 4.8% 증가한다. 해당 공격력 증가 효과는 최대 6회 중첩된다. 해당 무기를 장착한 캐릭터가 대기 상태일 때 「원돈」의 공격력 증가 효과는 2배가 된다",
+        "PT": "Obtém um Bônus de Dano Elemental para todos os Elementos de 18%; após lançar uma Habilidade Elemental, obtém Consumação por 20s, fazendo com que o Ataque aumente 4.8% por segundo. Este efeito pode ser acumulado em até 6 vezes. Quando o personagem da equipe que estiver com esta arma equipada não for o ativo no campo de batalha, o aumento do Ataque de Consumação será duplicado.",
+        "RU": "Даёт 18% бонус урона всеми элементами. Запуск элементального навыка накладывает Совершенствование на 20 сек., в результате чего сила атаки увеличивается на 4,8% в секунду. Может складываться до 6 раз. Когда персонаж, экипированный этим оружием, не на поле боя, бонус атаки от Совершенствования удваивается.",
+        "TH": "ได้รับโบนัสความเสียหายของธาตุทั้งหมด 18%; หลังจากใช้สกิลธาตุ จะได้รับ Consummation เป็นเวลา 20 วินาที ซึ่งจะทำให้พลังโจมตีเพิ่มขึ้น 4.8% ในทุก 1 วินาที โดยที่เอฟเฟกต์เพิ่มพลังโจมตีนี้ จะสามารถซ้อนทับได้ 6 ครั้ง และเมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ เอฟเฟกต์เพิ่มพลังโจมตีของ Consummation จะเพิ่มเป็นสองเท่า",
+        "TR": "Tüm Element Hasarları için %18 Bonus kazandırır. Bir Element Becerisi kullanıldığında 20 saniyeliğine Doruk Noktası kazanılır ve Saldırıyı saniyede %4,8 artırır. Bu Saldırı artışı 6 kademeye kadar birikebilir. Bu silahı kuşanan karakter savaş alanında değilken Doruk Noktası Saldırı artışı ikiye katlanır.",
+        "VI": "Tăng 18% sát thương tất cả nguyên tố; Sau khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Viên Đột\", duy trì 20s, sức tấn công mỗi giây tăng 4.8%, hiệu quả tăng tấn công này tối đa cộng dồn 6 lần. Khi nhân vật trang bị vũ khí này không xuất hiện trong trận, hiệu quả tăng tấn công của \"Viên Đột\" tăng gấp đôi."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Gain 21% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 5.6% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+        "CHS": "获得21%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升5.6%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+        "CHT": "獲得21%所有元素傷害加成；施放元素戰技後，獲得持續20秒的「圓頓」，攻擊力每1秒提升5.6%，該攻擊力提升效果至多疊加6次。當裝備此武器的角色處於隊伍後台時，「圓頓」的攻擊力提升效果翻倍。",
+        "DE": "Erhöht den Schaden aller Elemente um 21 %. Verleiht beim Auslösen einer Elementarfähigkeit den Effekt „Vollkommenheit“, der 20 s hält, den ANG pro Sekunde um 5,6 % erhöht und 6-fach stapelbar ist. Wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist, wird der ANG-Bonus verdoppelt.",
+        "ES": "#Otorga un 21% a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un 5.6% por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en uso, el aumento de ataque otorgado por consumación se dobla.",
+        "FR": "Confère un bonus de DGT élémentaires de 21 %. Après l'utilisation d'une compétence élémentaire, accorde 20 s d'Achèvement, augmentant l'ATQ de 5,6 % toutes les secondes. Ce bonus d'ATQ peut être cumulé 6 fois maximum. Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, le bonus d'ATQ de l'Achèvement est doublé.",
+        "ID": "Mendapatkan 21% Elemental DMG Bonus untuk semua elemen. Setelah melancarkan Elemental Skill, akan mendapatkan efek Consummation yang berlangsung selama 20 detik. Efek ini akan meningkatkan 5,6% ATK setiap detik dan dapat ditumpuk hingga 6 kali. Saat Karakter yang mengenakan Senjata ini berada dalam party tapi tidak di medan pertempuran, maka peningkatan ATK Consummation akan menjadi dua kali lipat.",
+        "IT": "#Ricevi un 21% di bonus DAN per tutti gli elementi. Dopo l'uso di un'abilità elementale, ottieni l'effetto Perfezionamento per 20 s, che aumenta l'ATT di un 5,6% al secondo. L'aumento dell'ATT è cumulabile fino a 6 volte. Quando il personaggio equipaggiato con quest'arma non è sul campo, l'aumento dell'ATT di Perfezionamento raddoppia.",
+        "JP": "全元素ダメージ+21%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が5.6%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の時、「円頓」による攻撃力アップ効果は2倍になる。",
+        "KR": "모든 원소의 피해 보너스를 21% 획득한다. 원소전투 스킬 발동 시, 20초 동안 지속되는 「원돈」을 획득하고 공격력이 1초마다 5.6% 증가한다. 해당 공격력 증가 효과는 최대 6회 중첩된다. 해당 무기를 장착한 캐릭터가 대기 상태일 때 「원돈」의 공격력 증가 효과는 2배가 된다",
+        "PT": "Obtém um Bônus de Dano Elemental para todos os Elementos de 21%; após lançar uma Habilidade Elemental, obtém Consumação por 20s, fazendo com que o Ataque aumente 5.6% por segundo. Este efeito pode ser acumulado em até 6 vezes. Quando o personagem da equipe que estiver com esta arma equipada não for o ativo no campo de batalha, o aumento do Ataque de Consumação será duplicado.",
+        "RU": "Даёт 21% бонус урона всеми элементами. Запуск элементального навыка накладывает Совершенствование на 20 сек., в результате чего сила атаки увеличивается на 5,6% в секунду. Может складываться до 6 раз. Когда персонаж, экипированный этим оружием, не на поле боя, бонус атаки от Совершенствования удваивается.",
+        "TH": "ได้รับโบนัสความเสียหายของธาตุทั้งหมด 21%; หลังจากใช้สกิลธาตุ จะได้รับ Consummation เป็นเวลา 20 วินาที ซึ่งจะทำให้พลังโจมตีเพิ่มขึ้น 5.6% ในทุก 1 วินาที โดยที่เอฟเฟกต์เพิ่มพลังโจมตีนี้ จะสามารถซ้อนทับได้ 6 ครั้ง และเมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ เอฟเฟกต์เพิ่มพลังโจมตีของ Consummation จะเพิ่มเป็นสองเท่า",
+        "TR": "Tüm Element Hasarları için %21 Bonus kazandırır. Bir Element Becerisi kullanıldığında 20 saniyeliğine Doruk Noktası kazanılır ve Saldırıyı saniyede %5,6 artırır. Bu Saldırı artışı 6 kademeye kadar birikebilir. Bu silahı kuşanan karakter savaş alanında değilken Doruk Noktası Saldırı artışı ikiye katlanır.",
+        "VI": "Tăng 21% sát thương tất cả nguyên tố; Sau khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Viên Đột\", duy trì 20s, sức tấn công mỗi giây tăng 5.6%, hiệu quả tăng tấn công này tối đa cộng dồn 6 lần. Khi nhân vật trang bị vũ khí này không xuất hiện trong trận, hiệu quả tăng tấn công của \"Viên Đột\" tăng gấp đôi."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Gain 24% All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by 6.4% per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+        "CHS": "获得24%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升6.4%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
+        "CHT": "獲得24%所有元素傷害加成；施放元素戰技後，獲得持續20秒的「圓頓」，攻擊力每1秒提升6.4%，該攻擊力提升效果至多疊加6次。當裝備此武器的角色處於隊伍後台時，「圓頓」的攻擊力提升效果翻倍。",
+        "DE": "Erhöht den Schaden aller Elemente um 24 %. Verleiht beim Auslösen einer Elementarfähigkeit den Effekt „Vollkommenheit“, der 20 s hält, den ANG pro Sekunde um 6,4 % erhöht und 6-fach stapelbar ist. Wenn die mit dieser Waffe ausgerüstete Figur inaktiv ist, wird der ANG-Bonus verdoppelt.",
+        "ES": "#Otorga un 24% a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un 6.4% por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en uso, el aumento de ataque otorgado por consumación se dobla.",
+        "FR": "Confère un bonus de DGT élémentaires de 24 %. Après l'utilisation d'une compétence élémentaire, accorde 20 s d'Achèvement, augmentant l'ATQ de 6,4 % toutes les secondes. Ce bonus d'ATQ peut être cumulé 6 fois maximum. Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, le bonus d'ATQ de l'Achèvement est doublé.",
+        "ID": "Mendapatkan 24% Elemental DMG Bonus untuk semua elemen. Setelah melancarkan Elemental Skill, akan mendapatkan efek Consummation yang berlangsung selama 20 detik. Efek ini akan meningkatkan 6,4% ATK setiap detik dan dapat ditumpuk hingga 6 kali. Saat Karakter yang mengenakan Senjata ini berada dalam party tapi tidak di medan pertempuran, maka peningkatan ATK Consummation akan menjadi dua kali lipat.",
+        "IT": "#Ricevi un 24% di bonus DAN per tutti gli elementi. Dopo l'uso di un'abilità elementale, ottieni l'effetto Perfezionamento per 20 s, che aumenta l'ATT di un 6,4% al secondo. L'aumento dell'ATT è cumulabile fino a 6 volte. Quando il personaggio equipaggiato con quest'arma non è sul campo, l'aumento dell'ATT di Perfezionamento raddoppia.",
+        "JP": "全元素ダメージ+24%。元素スキルを発動すると、継続時間20秒の「円頓」を獲得し、1秒毎に攻撃力が6.4%アップする。この効果は最大6回まで重ね掛け可能。この武器を装備したキャラクターが待機中の時、「円頓」による攻撃力アップ効果は2倍になる。",
+        "KR": "모든 원소의 피해 보너스를 24% 획득한다. 원소전투 스킬 발동 시, 20초 동안 지속되는 「원돈」을 획득하고 공격력이 1초마다 6.4% 증가한다. 해당 공격력 증가 효과는 최대 6회 중첩된다. 해당 무기를 장착한 캐릭터가 대기 상태일 때 「원돈」의 공격력 증가 효과는 2배가 된다",
+        "PT": "Obtém um Bônus de Dano Elemental para todos os Elementos de 24%; após lançar uma Habilidade Elemental, obtém Consumação por 20s, fazendo com que o Ataque aumente 6.4% por segundo. Este efeito pode ser acumulado em até 6 vezes. Quando o personagem da equipe que estiver com esta arma equipada não for o ativo no campo de batalha, o aumento do Ataque de Consumação será duplicado.",
+        "RU": "Даёт 24% бонус урона всеми элементами. Запуск элементального навыка накладывает Совершенствование на 20 сек., в результате чего сила атаки увеличивается на 6,4% в секунду. Может складываться до 6 раз. Когда персонаж, экипированный этим оружием, не на поле боя, бонус атаки от Совершенствования удваивается.",
+        "TH": "ได้รับโบนัสความเสียหายของธาตุทั้งหมด 24%; หลังจากใช้สกิลธาตุ จะได้รับ Consummation เป็นเวลา 20 วินาที ซึ่งจะทำให้พลังโจมตีเพิ่มขึ้น 6.4% ในทุก 1 วินาที โดยที่เอฟเฟกต์เพิ่มพลังโจมตีนี้ จะสามารถซ้อนทับได้ 6 ครั้ง และเมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ เอฟเฟกต์เพิ่มพลังโจมตีของ Consummation จะเพิ่มเป็นสองเท่า",
+        "TR": "Tüm Element Hasarları için %24 Bonus kazandırır. Bir Element Becerisi kullanıldığında 20 saniyeliğine Doruk Noktası kazanılır ve Saldırıyı saniyede %6,4 artırır. Bu Saldırı artışı 6 kademeye kadar birikebilir. Bu silahı kuşanan karakter savaş alanında değilken Doruk Noktası Saldırı artışı ikiye katlanır.",
+        "VI": "Tăng 24% sát thương tất cả nguyên tố; Sau khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Viên Đột\", duy trì 20s, sức tấn công mỗi giây tăng 6.4%, hiệu quả tăng tấn công này tối đa cộng dồn 6 lần. Khi nhân vật trang bị vũ khí này không xuất hiện trong trận, hiệu quả tăng tấn công của \"Viên Đột\" tăng gấp đôi."
+      }
+    }
+  ]
+}

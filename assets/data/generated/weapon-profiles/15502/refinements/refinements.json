@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Strong-Willed",
+    "CHS": "矢志不忘",
+    "CHT": "矢志不忘",
+    "DE": "Willensstarker Pfeil",
+    "ES": "Flecha imparable",
+    "FR": "Flèche de la volonté",
+    "ID": "Strong-willed Arrow",
+    "IT": "Freccia della volontà",
+    "JP": "一心不乱",
+    "KR": "잊지 않은 포부",
+    "PT": "Inabalável",
+    "RU": "Волевая стрела",
+    "TH": "Strong-Willed",
+    "TR": "Sarsılmaz İrade",
+    "VI": "Ý Chí Không Quên"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Normal and Charged Attack DMG by 12%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 8% every 0.1s the arrow is in the air for up to 5 times.",
+        "CHS": "普通攻击与重击造成的伤害提升12%；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升8%，至多提升5次。",
+        "CHT": "普通攻擊和重擊傷害提升12%；普通攻擊與重擊的箭矢發射後每經過0.1秒，傷害還會提升8%，至多提升五次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 12 % und den Gesamtschaden von Pfeilen von Standardangriffen und heftigen Schlägen alle 0,1 s nach dem Abschießen um 8 %, 5-fach stapelbar.",
+        "ES": "El daño infligido con Ataques Normales o Cargados aumenta en un 12%. Tras disparar un Ataque Normal o Cargado, el daño aumenta en un 8% por cada 0.1 s que la flecha permanece en el aire. Este efecto puede acumularse hasta cinco veces.",
+        "FR": "Augmente les DGT infligés par les attaques normales et les attaques chargées de 12 %. Les DGT augmentent de 8 % toutes les 0,1 s après avoir tiré une flèche d'attaque normale ou chargée. Cet effet peut être cumulé 5 fois maximum.",
+        "ID": "Meningkatkan DMG dari Normal dan Charged Attack sebesar 12%. Setelah Normal atau Charged Attack ditembakkan, DMG meningkat sebesar 8% lebih lanjut setiap 0,1 detik panah di udara hingga 5 kali.",
+        "IT": "#Aumenta i DAN da attacco normale e caricato di un 12%. Dopo che un attacco normale o caricato è stato sferrato, i DAN inflitti aumentano di un ulteriore 8% ogni 0,1 s mentre la freccia è in aria. Cumulabile fino a 5 volte.",
+        "JP": "通常攻撃と重撃のダメージ+12%。通常攻撃と重撃で放たれる矢は、0.1秒経過する毎にダメージが更に+8%、最大5回まで。",
+        "KR": "일반 공격과 강공격 피해+12%. 일반공격과 강공격 화살이 발사된 후 0.1초가 지날 때마다 피해가 8%씩 증가한다. 최대 중첩수: 5회",
+        "PT": "Aumenta o Dano infligido pelo Ataque Normal e Ataque Carregado em 12%. A cada 0.1s depois de disparar uma flecha com o Ataque Normal e Ataque Carregado, terá aumento de Dano de 8%, acumulando até um máximo de 5 vezes.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 12%. Каждые 0,1 сек. полёта стрелы, выпущенной обычной или заряженной атакой, увеличивают её урон на 8%. Эффект может складываться до 5 раз.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติและชาร์จโจมตีขึ้น 12%; ในทุก 0.1 วินาที หลังจากปล่อยลูกธนูของการโจมตีปกติและชาร์จโจมตี จะสร้างความเสียหายเพิ่มขึ้น 8% และเพิ่มมากสุดถึง 5 ครั้ง",
+        "TR": "Normal ve Yüklü Saldırı Hasarını %12 artırır. Bir Normal veya Yüklü Saldırı yapıldıktan sonra, okun havada geçirdiği her 0,1 saniye için verilen Hasar %8 daha artar, 5 kata kadar birikir.",
+        "VI": "Tăng 12% sát thương của tấn công thường và trọng kích. Tấn công thường và trọng kích mỗi 0.1s sau khi bắn tên, sát thương sẽ tăng 8%, tối đa tăng 5 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Normal and Charged Attack DMG by 15%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 10% every 0.1s the arrow is in the air for up to 5 times.",
+        "CHS": "普通攻击与重击造成的伤害提升15%；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升10%，至多提升5次。",
+        "CHT": "普通攻擊和重擊傷害提升15%；普通攻擊與重擊的箭矢發射後每經過0.1秒，傷害還會提升10%，最多提升五次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15 % und den Gesamtschaden von Pfeilen von Standardangriffen und heftigen Schlägen alle 0,1 s nach dem Abschießen um 10 %, 5-fach stapelbar.",
+        "ES": "El daño infligido con Ataques Normales o Cargados aumenta en un 15%. Tras disparar un Ataque Normal o Cargado, el daño aumenta en un 10% por cada 0.1 s que la flecha permanece en el aire. Este efecto puede acumularse hasta cinco veces.",
+        "FR": "Augmente les DGT infligés par les attaques normales et les attaques chargées de 15 %. Les DGT augmentent de 10 % toutes les 0,1 s après avoir tiré une flèche d'attaque normale ou chargée. Cet effet peut être cumulé 5 fois maximum.",
+        "ID": "Meningkatkan DMG dari Normal dan Charged Attack sebesar 15%. Setelah Normal atau Charged Attack ditembakkan, DMG meningkat sebesar 10% lebih lanjut setiap 0,1 detik panah di udara hingga 5 kali.",
+        "IT": "#Aumenta i DAN da attacco normale e caricato di un 15%. Dopo che un attacco normale o caricato è stato sferrato, i DAN inflitti aumentano di un ulteriore 10% ogni 0,1 s mentre la freccia è in aria. Cumulabile fino a 5 volte.",
+        "JP": "通常攻撃と重撃のダメージ+15%。通常攻撃と重撃で放たれる矢は、0.1秒経過する毎にダメージが更に+10%、最大5回まで。",
+        "KR": "일반 공격과 강공격 피해+15%. 일반공격과 강공격 화살이 발사된 후 0.1초가 지날 때마다 피해가 10%씩 증가한다. 최대 중첩수: 5회",
+        "PT": "Aumenta o Dano infligido pelo Ataque Normal e Ataque Carregado em 15%. A cada 0.1s depois de disparar uma flecha com o Ataque Normal e Ataque Carregado, terá aumento de Dano de 10%, acumulando até um máximo de 5 vezes.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 15%. Каждые 0,1 сек. полёта стрелы, выпущенной обычной или заряженной атакой, увеличивают её урон на 10%. Эффект может складываться до 5 раз.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติและชาร์จโจมตีขึ้น 15%; ในทุก 0.1 วินาที หลังจากปล่อยลูกธนูของการโจมตีปกติและชาร์จโจมตี จะสร้างความเสียหายเพิ่มขึ้น 10% และเพิ่มมากสุดถึง 5 ครั้ง",
+        "TR": "Normal ve Yüklü Saldırı Hasarını %15 artırır. Bir Normal veya Yüklü Saldırı yapıldıktan sonra, okun havada geçirdiği her 0,1 saniye için verilen Hasar %10 daha artar, 5 kata kadar birikir.",
+        "VI": "Tăng 15% sát thương của tấn công thường và trọng kích. Tấn công thường và trọng kích mỗi 0.1s sau khi bắn tên, sát thương sẽ tăng 10%, tối đa tăng 5 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Normal and Charged Attack DMG by 18%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 12% every 0.1s the arrow is in the air for up to 5 times.",
+        "CHS": "普通攻击与重击造成的伤害提升18%；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升12%，至多提升5次。",
+        "CHT": "普通攻擊和重擊傷害提升18%；普通攻擊與重擊的箭矢發射後每經過0.1秒，傷害還會提升12%，至多提升五次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 18 % und den Gesamtschaden von Pfeilen von Standardangriffen und heftigen Schlägen alle 0,1 s nach dem Abschießen um 12 %, 5-fach stapelbar.",
+        "ES": "El daño infligido con Ataques Normales o Cargados aumenta en un 18%. Tras disparar un Ataque Normal o Cargado, el daño aumenta en un 12% por cada 0.1 s que la flecha permanece en el aire. Este efecto puede acumularse hasta cinco veces.",
+        "FR": "Augmente les DGT infligés par les attaques normales et les attaques chargées de 18 %. Les DGT augmentent de 12 % toutes les 0,1 s après avoir tiré une flèche d'attaque normale ou chargée. Cet effet peut être cumulé 5 fois maximum.",
+        "ID": "Meningkatkan DMG dari Normal dan Charged Attack sebesar 18%. Setelah Normal atau Charged Attack ditembakkan, DMG meningkat sebesar 12% lebih lanjut setiap 0,1 detik panah di udara hingga 5 kali.",
+        "IT": "#Aumenta i DAN da attacco normale e caricato di un 18%. Dopo che un attacco normale o caricato è stato sferrato, i DAN inflitti aumentano di un ulteriore 12% ogni 0,1 s mentre la freccia è in aria. Cumulabile fino a 5 volte.",
+        "JP": "通常攻撃と重撃のダメージ+18%。通常攻撃と重撃で放たれる矢は、0.1秒経過する毎にダメージが更に+12%、最大5回まで。",
+        "KR": "일반 공격과 강공격 피해+18%. 일반공격과 강공격 화살이 발사된 후 0.1초가 지날 때마다 피해가 12%씩 증가한다. 최대 중첩수: 5회",
+        "PT": "Aumenta o Dano infligido pelo Ataque Normal e Ataque Carregado em 18%. A cada 0.1s depois de disparar uma flecha com o Ataque Normal e Ataque Carregado, terá aumento de Dano de 12%, acumulando até um máximo de 5 vezes.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 18%. Каждые 0,1 сек. полёта стрелы, выпущенной обычной или заряженной атакой, увеличивают её урон на 12%. Эффект может складываться до 5 раз.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติและชาร์จโจมตีขึ้น 18%; ในทุก 0.1 วินาที หลังจากปล่อยลูกธนูของการโจมตีปกติและชาร์จโจมตี จะสร้างความเสียหายเพิ่มขึ้น 12% และเพิ่มมากสุดถึง 5 ครั้ง",
+        "TR": "Normal ve Yüklü Saldırı Hasarını %18 artırır. Bir Normal veya Yüklü Saldırı yapıldıktan sonra, okun havada geçirdiği her 0,1 saniye için verilen Hasar %12 daha artar, 5 kata kadar birikir.",
+        "VI": "Tăng 18% sát thương của tấn công thường và trọng kích. Tấn công thường và trọng kích mỗi 0.1s sau khi bắn tên, sát thương sẽ tăng 12%, tối đa tăng 5 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Normal and Charged Attack DMG by 21%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 14% every 0.1s the arrow is in the air for up to 5 times.",
+        "CHS": "普通攻击与重击造成的伤害提升21%；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升14%，至多提升5次。",
+        "CHT": "普通攻擊和重擊傷害提升21%；普通攻擊與重擊的箭矢發射後每經過0.1秒，傷害還會提升14%，至多提升五次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 21 % und den Gesamtschaden von Pfeilen von Standardangriffen und heftigen Schlägen alle 0,1 s nach dem Abschießen um 14 %, 5-fach stapelbar.",
+        "ES": "El daño infligido con Ataques Normales o Cargados aumenta en un 21%. Tras disparar un Ataque Normal o Cargado, el daño aumenta en un 14% por cada 0.1 s que la flecha permanece en el aire. Este efecto puede acumularse hasta cinco veces.",
+        "FR": "Augmente les DGT infligés par les attaques normales et les attaques chargées de 21 %. Les DGT augmentent de 14 % toutes les 0,1 s après avoir tiré une flèche d'attaque normale ou chargée. Cet effet peut être cumulé 5 fois maximum.",
+        "ID": "Meningkatkan DMG dari Normal dan Charged Attack sebesar 21%. Setelah Normal atau Charged Attack ditembakkan, DMG meningkat sebesar 14% lebih lanjut setiap 0,1 detik panah di udara hingga 5 kali.",
+        "IT": "#Aumenta i DAN da attacco normale e caricato di un 21%. Dopo che un attacco normale o caricato è stato sferrato, i DAN inflitti aumentano di un ulteriore 14% ogni 0,1 s mentre la freccia è in aria. Cumulabile fino a 5 volte.",
+        "JP": "通常攻撃と重撃のダメージ+21%。通常攻撃と重撃で放たれる矢は、0.1秒経過する毎にダメージが更に+14%、最大5回まで。",
+        "KR": "일반 공격과 강공격 피해+21%. 일반공격과 강공격 화살이 발사된 후 0.1초가 지날 때마다 피해가 14%씩 증가한다. 최대 중첩수: 5회",
+        "PT": "Aumenta o Dano infligido pelo Ataque Normal e Ataque Carregado em 21%. A cada 0.1s depois de disparar uma flecha com o Ataque Normal e Ataque Carregado, terá aumento de Dano de 14%, acumulando até um máximo de 5 vezes.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 21%. Каждые 0,1 сек. полёта стрелы, выпущенной обычной или заряженной атакой, увеличивают её урон на 14%. Эффект может складываться до 5 раз.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติและชาร์จโจมตีขึ้น 21%; ในทุก 0.1 วินาที หลังจากปล่อยลูกธนูของการโจมตีปกติและชาร์จโจมตี จะสร้างความเสียหายเพิ่มขึ้น 14% และเพิ่มมากสุดถึง 5 ครั้ง",
+        "TR": "Normal ve Yüklü Saldırı Hasarını %21 artırır. Bir Normal veya Yüklü Saldırı yapıldıktan sonra, okun havada geçirdiği her 0,1 saniye için verilen Hasar %14 daha artar, 5 kata kadar birikir.",
+        "VI": "Tăng 21% sát thương của tấn công thường và trọng kích. Tấn công thường và trọng kích mỗi 0.1s sau khi bắn tên, sát thương sẽ tăng 14%, tối đa tăng 5 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Normal and Charged Attack DMG by 24%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 16% every 0.1s the arrow is in the air for up to 5 times.",
+        "CHS": "普通攻击与重击造成的伤害提升24%；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升16%，至多提升5次。",
+        "CHT": "普通攻擊和重擊傷害提升24%；普通攻擊與重擊的箭矢發射後每經過0.1秒，傷害還會提升16%，至多提升五次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 24 % und den Gesamtschaden von Pfeilen von Standardangriffen und heftigen Schlägen alle 0,1 s nach dem Abschießen um 16 %, 5-fach stapelbar.",
+        "ES": "El daño infligido con Ataques Normales o Cargados aumenta en un 24%. Tras disparar un Ataque Normal o Cargado, el daño aumenta en un 16% por cada 0.1 s que la flecha permanece en el aire. Este efecto puede acumularse hasta cinco veces.",
+        "FR": "Augmente les DGT infligés par les attaques normales et les attaques chargées de 24 %. Les DGT augmentent de 16 % toutes les 0,1 s après avoir tiré une flèche d'attaque normale ou chargée. Cet effet peut être cumulé 5 fois maximum.",
+        "ID": "Meningkatkan DMG dari Normal dan Charged Attack sebesar 24%. Setelah Normal atau Charged Attack ditembakkan, DMG meningkat sebesar 16% lebih lanjut setiap 0,1 detik panah di udara hingga 5 kali.",
+        "IT": "#Aumenta i DAN da attacco normale e caricato di un 24%. Dopo che un attacco normale o caricato è stato sferrato, i DAN inflitti aumentano di un ulteriore 16% ogni 0,1 s mentre la freccia è in aria. Cumulabile fino a 5 volte.",
+        "JP": "通常攻撃と重撃のダメージ+24%。通常攻撃と重撃で放たれる矢は、0.1秒経過する毎にダメージが更に+16%、最大5回まで。",
+        "KR": "일반 공격과 강공격 피해+24%. 일반공격과 강공격 화살이 발사된 후 0.1초가 지날 때마다 피해가 16%씩 증가한다. 최대 중첩수: 5회",
+        "PT": "Aumenta o Dano infligido pelo Ataque Normal e Ataque Carregado em 24%. A cada 0.1s depois de disparar uma flecha com o Ataque Normal e Ataque Carregado, terá aumento de Dano de 16%, acumulando até um máximo de 5 vezes.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 24%. Каждые 0,1 сек. полёта стрелы, выпущенной обычной или заряженной атакой, увеличивают её урон на 16%. Эффект может складываться до 5 раз.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติและชาร์จโจมตีขึ้น 24%; ในทุก 0.1 วินาที หลังจากปล่อยลูกธนูของการโจมตีปกติและชาร์จโจมตี จะสร้างความเสียหายเพิ่มขึ้น 16% และเพิ่มมากสุดถึง 5 ครั้ง",
+        "TR": "Normal ve Yüklü Saldırı Hasarını %24 artırır. Bir Normal veya Yüklü Saldırı yapıldıktan sonra, okun havada geçirdiği her 0,1 saniye için verilen Hasar %16 daha artar, 5 kata kadar birikir.",
+        "VI": "Tăng 24% sát thương của tấn công thường và trọng kích. Tấn công thường và trọng kích mỗi 0.1s sau khi bắn tên, sát thương sẽ tăng 16%, tối đa tăng 5 lần."
+      }
+    }
+  ]
+}

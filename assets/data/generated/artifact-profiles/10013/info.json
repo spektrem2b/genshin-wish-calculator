@@ -1,0 +1,70 @@
+{
+  "id": 10013,
+  "name": {
+    "EN": "Traveling Doctor",
+    "CHS": "游医",
+    "CHT": "遊醫",
+    "DE": "Wanderarzt",
+    "ES": "Médica Itinerante",
+    "FR": "Médecin itinérant",
+    "ID": "Traveling Doctor",
+    "IT": "Dottoressa errante",
+    "JP": "医者",
+    "KR": "떠돌이 의사",
+    "PT": "O Doutor Viajante",
+    "RU": "Целитель",
+    "TH": "Traveling Doctor",
+    "TR": "Gezgin Doktor",
+    "VI": "Thầy Thuốc"
+  },
+  "rarityList": [
+    1,
+    2,
+    3
+  ],
+  "icon": "generated/artifact-profiles/10013/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases incoming healing by 20%.",
+        "CHS": "角色受到的治疗效果提高20%。",
+        "CHT": "角色受到的治療效果提高20%。",
+        "DE": "Erhöht den passiven Heileffekt der Figur um 20 %.",
+        "ES": "Curación recibida +20%.",
+        "FR": "Augmente les soins reçus par le personnage de 20 %.",
+        "ID": "Efek pemulihan yang diterima meningkat 20%.",
+        "IT": "Guarigione ricevuta +20%.",
+        "JP": "受ける治療効果+20%。",
+        "KR": "캐릭터가 받는 치유 효과+20%",
+        "PT": "Aumenta o efeito de cura em 20%.",
+        "RU": "Увеличивает получаемое лечение на 20%.",
+        "TH": "เพิ่มผลของการรักษา ที่ตัวละครได้รับขึ้น 20%",
+        "TR": "Alınan iyileştirmeyi %20 artırır.",
+        "VI": "Tăng 20% hiệu quả trị liệu nhân vật nhận được."
+      },
+      "affixId": "2100130"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Using Elemental Burst restores 20% HP.",
+        "CHS": "施放元素爆发时，恢复20%生命值。",
+        "CHT": "施放元素爆發時，恢復20%生命值。",
+        "DE": "Stellt bei Anwendung von Spezialfähigkeiten 20 % LP wieder her.",
+        "ES": "Al lanzar una Habilidad Definitiva, restaura un 20% de Vida.",
+        "FR": "Le déchaînement élémentaire restaure 20 % des PV.",
+        "ID": "Menggunakan Elemental Burst memulihkan 20% HP.",
+        "IT": "Usare il Tripudio elementale ripristina un 20% dei PS.",
+        "JP": "元素爆発を発動すると、HPを20%回復する。",
+        "KR": "원소폭발 발동 시 HP를 20% 회복한다",
+        "PT": "Após usar o Supremo, restaura 20% de Vida.",
+        "RU": "Использование взрыва стихии восстанавливает 20% HP.",
+        "TH": "เมื่อปล่อยท่าไม้ตาย จะทำการฟื้นฟูพลังชีวิต 20%",
+        "TR": "Element Patlaması kullanmak %20 Can yeniler.",
+        "VI": "Khi thi triển Kỹ Năng Nộ, hồi 20% HP."
+      },
+      "affixId": "2100131"
+    }
+  ]
+}

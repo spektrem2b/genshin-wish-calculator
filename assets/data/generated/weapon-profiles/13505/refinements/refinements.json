@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Eagle Spear of Justice",
+    "CHS": "昭理的鸢之枪",
+    "CHT": "昭理的鳶之槍",
+    "DE": "Habichtlanze",
+    "ES": "Lanza justiciera del halcón",
+    "FR": "Lance d'aigle de la justice",
+    "ID": "Eagle Polearm of Justice",
+    "IT": "Lancia punitrice dell'aquila",
+    "JP": "正義を貫く鳶の槍",
+    "KR": "정의의 솔개창",
+    "PT": "Lança da Justiça da Águia",
+    "RU": "Птица справедливости",
+    "TH": "Eagle Spear of Justice",
+    "TR": "Kartal Adalet Mızrağı",
+    "VI": "Thương Đại Bàng Ngân Nga"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "On hit, increases ATK by 3.2% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 12%.",
+        "CHS": "命中敌人时自身攻击力提高3.2%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升12%。",
+        "CHT": "命中敵人時自身攻擊力提高3.2%，持續6秒，最高可以疊加七層。該效果每0.3秒最多觸發一次。疊滿狀態時傷害提升12%。",
+        "DE": "Erhöht den eigenen ANG bei einem Treffer 6 s lang um 3,2 %, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um 12 %.",
+        "ES": "#Al atacar a un enemigo, aumenta el ATQ en un 3.2% durante 6 s y puede acumularse hasta 7 veces. Este efecto solo puede ocurrir una vez cada 0.3 s. Cuando se alcanza el máximo de acumulaciones, el daño aumenta en un 12%.",
+        "FR": "#Les ennemis touchés confèrent un bonus d'ATQ de 3,2 % pendant 6 s. Cet effet peut être déclenché une fois toutes les 0,3 s, et peut être cumulé 7 fois maximum. Lorsque les cumuls sont au maximum, les DGT augmentent de 12 %.",
+        "ID": "Saat mengenai musuh, meningkatkan 3,2% ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan 12% DMG.",
+        "IT": "#Per colpo a segno, aumenta l'ATT di un 3,2% per 6 s. Cumulabile fino a 7 volte. Si può verificare una sola volta ogni 0,3 s. Una volta ottenuta la massima quantità di accumuli possibile, i DAN inflitti aumentano di un 12%.",
+        "JP": "敵に命中した時、自身の攻撃力+3.2%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+12%。",
+        "KR": "적 명중 시 자신의 공격력이 3.2% 증가한다. 지속 시간: 6초. 최대 중첩수: 7회. 해당 효과는 0.3초마다 1번 발동한다. 최대 중첩 시 피해가 12% 증가한다",
+        "PT": "Ao acertar, aumenta o ATQ em 3.2% por 6s. Pode acumular até 7 vezes. Pode ocorrer uma vez a cada 0.3s. O acúmulo máximo aumenta o Dano em 12%.",
+        "RU": "При попадании увеличивает силу атаки на 3,2% в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще чем раз в 0,3 сек. На 7 уровне складывания увеличивает урон на 12%.",
+        "TH": "เพิ่มพลังโจมตีขึ้น 3.2% เมื่อโจมตีถูกศัตรู เป็นเวลา 6 วินาที และมากสุดถึง 7 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 0.3 วินาที โดยความเสียหายจะเพิ่มขึ้น 12% เมื่ออยู่ในสภาวะเต็มชั้น",
+        "TR": "Darbe vurduğunda, 6 saniyeliğine Saldırıyı %3,2 artırır. 7 kademeye kadar birikir. Bu etki sadece 0,3 saniyede bir uygulanabilir. En yüksek kademeye sahip olunduğunda verilen Hasar %12 artar.",
+        "VI": "Khi đánh trúng kẻ địch tấn công của bản thân tăng 3.2%, kéo dài 6s, có thể cộng dồn 7 tầng. Mỗi 0.3s có hiệu quả 1 lần, khi cộng dồn đầy sẽ tăng 12% sát thương."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "On hit, increases ATK by 3.9% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 15%.",
+        "CHS": "命中敌人时自身攻击力提高3.9%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升15%。",
+        "CHT": "命中敵人時自身攻擊力提高3.9%，持續6秒，最高可以疊加七層。該效果每0.3秒最多觸發一次。疊滿狀態時傷害提升15%。",
+        "DE": "Erhöht den eigenen ANG bei einem Treffer 6 s lang um 3,9 %, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um 15 %.",
+        "ES": "#Al atacar a un enemigo, aumenta el ATQ en un 3.9% durante 6 s y puede acumularse hasta 7 veces. Este efecto solo puede ocurrir una vez cada 0.3 s. Cuando se alcanza el máximo de acumulaciones, el daño aumenta en un 15%.",
+        "FR": "#Les ennemis touchés confèrent un bonus d'ATQ de 3,9 % pendant 6 s. Cet effet peut être déclenché une fois toutes les 0,3 s, et peut être cumulé 7 fois maximum. Lorsque les cumuls sont au maximum, les DGT augmentent de 15 %.",
+        "ID": "Saat mengenai musuh, meningkatkan 3,9% ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan 15% DMG.",
+        "IT": "#Per colpo a segno, aumenta l'ATT di un 3,9% per 6 s. Cumulabile fino a 7 volte. Si può verificare una sola volta ogni 0,3 s. Una volta ottenuta la massima quantità di accumuli possibile, i DAN inflitti aumentano di un 15%.",
+        "JP": "敵に命中した時、自身の攻撃力+3.9%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+15%。",
+        "KR": "적 명중 시 자신의 공격력이 3.9% 증가한다. 지속 시간: 6초. 최대 중첩수: 7회. 해당 효과는 0.3초마다 1번 발동한다. 최대 중첩 시 피해가 15% 증가한다",
+        "PT": "Ao acertar, aumenta o ATQ em 3.9% por 6s. Pode acumular até 7 vezes. Pode ocorrer uma vez a cada 0.3s. O acúmulo máximo aumenta o Dano em 15%.",
+        "RU": "При попадании увеличивает силу атаки на 3,9% в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще чем раз в 0,3 сек. На 7 уровне складывания увеличивает урон на 15%.",
+        "TH": "เพิ่มพลังโจมตีขึ้น 3.9% เมื่อโจมตีถูกศัตรู เป็นเวลา 6 วินาที และมากสุดถึง 7 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 0.3 วินาที โดยความเสียหายจะเพิ่มขึ้น 15% เมื่ออยู่ในสภาวะเต็มชั้น",
+        "TR": "Darbe vurduğunda, 6 saniyeliğine Saldırıyı %3,9 artırır. 7 kademeye kadar birikir. Bu etki sadece 0,3 saniyede bir uygulanabilir. En yüksek kademeye sahip olunduğunda verilen Hasar %15 artar.",
+        "VI": "Khi đánh trúng kẻ địch tấn công của bản thân tăng 3.9%, kéo dài 6s, có thể cộng dồn 7 tầng. Mỗi 0.3s có hiệu quả 1 lần, khi cộng dồn đầy sẽ tăng 15% sát thương."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "On hit, increases ATK by 4.6% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 18%.",
+        "CHS": "命中敌人时自身攻击力提高4.6%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升18%。",
+        "CHT": "命中敵人時自身攻擊力提高4.6%，持續6秒，最高可以疊加七層。該效果每0.3秒最多觸發一次。疊滿狀態時傷害提升18%。",
+        "DE": "Erhöht den eigenen ANG bei einem Treffer 6 s lang um 4,6 %, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um 18 %.",
+        "ES": "#Al atacar a un enemigo, aumenta el ATQ en un 4.6% durante 6 s y puede acumularse hasta 7 veces. Este efecto solo puede ocurrir una vez cada 0.3 s. Cuando se alcanza el máximo de acumulaciones, el daño aumenta en un 18%.",
+        "FR": "#Les ennemis touchés confèrent un bonus d'ATQ de 4,6 % pendant 6 s. Cet effet peut être déclenché une fois toutes les 0,3 s, et peut être cumulé 7 fois maximum. Lorsque les cumuls sont au maximum, les DGT augmentent de 18 %.",
+        "ID": "Saat mengenai musuh, meningkatkan 4,6% ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan 18% DMG.",
+        "IT": "#Per colpo a segno, aumenta l'ATT di un 4,6% per 6 s. Cumulabile fino a 7 volte. Si può verificare una sola volta ogni 0,3 s. Una volta ottenuta la massima quantità di accumuli possibile, i DAN inflitti aumentano di un 18%.",
+        "JP": "敵に命中した時、自身の攻撃力+4.6%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+18%。",
+        "KR": "적 명중 시 자신의 공격력이 4.6% 증가한다. 지속 시간: 6초. 최대 중첩수: 7회. 해당 효과는 0.3초마다 1번 발동한다. 최대 중첩 시 피해가 18% 증가한다",
+        "PT": "Ao acertar, aumenta o ATQ em 4.6% por 6s. Pode acumular até 7 vezes. Pode ocorrer uma vez a cada 0.3s. O acúmulo máximo aumenta o Dano em 18%.",
+        "RU": "При попадании увеличивает силу атаки на 4,6% в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще чем раз в 0,3 сек. На 7 уровне складывания увеличивает урон на 18%.",
+        "TH": "เพิ่มพลังโจมตีขึ้น 4.6% เมื่อโจมตีถูกศัตรู เป็นเวลา 6 วินาที และมากสุดถึง 7 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 0.3 วินาที โดยความเสียหายจะเพิ่มขึ้น 18% เมื่ออยู่ในสภาวะเต็มชั้น",
+        "TR": "Darbe vurduğunda, 6 saniyeliğine Saldırıyı %4,6 artırır. 7 kademeye kadar birikir. Bu etki sadece 0,3 saniyede bir uygulanabilir. En yüksek kademeye sahip olunduğunda verilen Hasar %18 artar.",
+        "VI": "Khi đánh trúng kẻ địch tấn công của bản thân tăng 4.6%, kéo dài 6s, có thể cộng dồn 7 tầng. Mỗi 0.3s có hiệu quả 1 lần, khi cộng dồn đầy sẽ tăng 18% sát thương."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "On hit, increases ATK by 5.3% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 21%.",
+        "CHS": "命中敌人时自身攻击力提高5.3%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升21%。",
+        "CHT": "命中敵人時自身攻擊力提高5.3%，持續6秒，最高可以疊加七層。該效果每0.3秒最多觸發一次。疊滿狀態時傷害提升21%。",
+        "DE": "Erhöht den eigenen ANG bei einem Treffer 6 s lang um 5,3 %, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um 21 %.",
+        "ES": "#Al atacar a un enemigo, aumenta el ATQ en un 5.3% durante 6 s y puede acumularse hasta 7 veces. Este efecto solo puede ocurrir una vez cada 0.3 s. Cuando se alcanza el máximo de acumulaciones, el daño aumenta en un 21%.",
+        "FR": "#Les ennemis touchés confèrent un bonus d'ATQ de 5,3 % pendant 6 s. Cet effet peut être déclenché une fois toutes les 0,3 s, et peut être cumulé 7 fois maximum. Lorsque les cumuls sont au maximum, les DGT augmentent de 21 %.",
+        "ID": "Saat mengenai musuh, meningkatkan 5,3% ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan 21% DMG.",
+        "IT": "#Per colpo a segno, aumenta l'ATT di un 5,3% per 6 s. Cumulabile fino a 7 volte. Si può verificare una sola volta ogni 0,3 s. Una volta ottenuta la massima quantità di accumuli possibile, i DAN inflitti aumentano di un 21%.",
+        "JP": "敵に命中した時、自身の攻撃力+5.3%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+21%。",
+        "KR": "적 명중 시 자신의 공격력이 5.3% 증가한다. 지속 시간: 6초. 최대 중첩수: 7회. 해당 효과는 0.3초마다 1번 발동한다. 최대 중첩 시 피해가 21% 증가한다",
+        "PT": "Ao acertar, aumenta o ATQ em 5.3% por 6s. Pode acumular até 7 vezes. Pode ocorrer uma vez a cada 0.3s. O acúmulo máximo aumenta o Dano em 21%.",
+        "RU": "При попадании увеличивает силу атаки на 5,3% в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще чем раз в 0,3 сек. На 7 уровне складывания увеличивает урон на 21%.",
+        "TH": "เพิ่มพลังโจมตีขึ้น 5.3% เมื่อโจมตีถูกศัตรู เป็นเวลา 6 วินาที และมากสุดถึง 7 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 0.3 วินาที โดยความเสียหายจะเพิ่มขึ้น 21% เมื่ออยู่ในสภาวะเต็มชั้น",
+        "TR": "Darbe vurduğunda, 6 saniyeliğine Saldırıyı %5,3 artırır. 7 kademeye kadar birikir. Bu etki sadece 0,3 saniyede bir uygulanabilir. En yüksek kademeye sahip olunduğunda verilen Hasar %21 artar.",
+        "VI": "Khi đánh trúng kẻ địch tấn công của bản thân tăng 5.3%, kéo dài 6s, có thể cộng dồn 7 tầng. Mỗi 0.3s có hiệu quả 1 lần, khi cộng dồn đầy sẽ tăng 21% sát thương."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "On hit, increases ATK by 6% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 24%.",
+        "CHS": "命中敌人时自身攻击力提高6%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升24%。",
+        "CHT": "命中敵人時自身攻擊力提高6%，持續6秒，最高可以疊加七層。該效果每0.3秒最多觸發一次。疊滿狀態時傷害提升24%。",
+        "DE": "Erhöht den eigenen ANG bei einem Treffer 6 s lang um 6 %, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um 24 %.",
+        "ES": "#Al atacar a un enemigo, aumenta el ATQ en un 6% durante 6 s y puede acumularse hasta 7 veces. Este efecto solo puede ocurrir una vez cada 0.3 s. Cuando se alcanza el máximo de acumulaciones, el daño aumenta en un 24%.",
+        "FR": "#Les ennemis touchés confèrent un bonus d'ATQ de 6 % pendant 6 s. Cet effet peut être déclenché une fois toutes les 0,3 s, et peut être cumulé 7 fois maximum. Lorsque les cumuls sont au maximum, les DGT augmentent de 24 %.",
+        "ID": "Saat mengenai musuh, meningkatkan 6% ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan 24% DMG.",
+        "IT": "#Per colpo a segno, aumenta l'ATT di un 6% per 6 s. Cumulabile fino a 7 volte. Si può verificare una sola volta ogni 0,3 s. Una volta ottenuta la massima quantità di accumuli possibile, i DAN inflitti aumentano di un 24%.",
+        "JP": "敵に命中した時、自身の攻撃力+6%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+24%。",
+        "KR": "적 명중 시 자신의 공격력이 6% 증가한다. 지속 시간: 6초. 최대 중첩수: 7회. 해당 효과는 0.3초마다 1번 발동한다. 최대 중첩 시 피해가 24% 증가한다",
+        "PT": "Ao acertar, aumenta o ATQ em 6% por 6s. Pode acumular até 7 vezes. Pode ocorrer uma vez a cada 0.3s. O acúmulo máximo aumenta o Dano em 24%.",
+        "RU": "При попадании увеличивает силу атаки на 6% в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще чем раз в 0,3 сек. На 7 уровне складывания увеличивает урон на 24%.",
+        "TH": "เพิ่มพลังโจมตีขึ้น 6% เมื่อโจมตีถูกศัตรู เป็นเวลา 6 วินาที และมากสุดถึง 7 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 0.3 วินาที โดยความเสียหายจะเพิ่มขึ้น 24% เมื่ออยู่ในสภาวะเต็มชั้น",
+        "TR": "Darbe vurduğunda, 6 saniyeliğine Saldırıyı %6 artırır. 7 kademeye kadar birikir. Bu etki sadece 0,3 saniyede bir uygulanabilir. En yüksek kademeye sahip olunduğunda verilen Hasar %24 artar.",
+        "VI": "Khi đánh trúng kẻ địch tấn công của bản thân tăng 6%, kéo dài 6s, có thể cộng dồn 7 tầng. Mỗi 0.3s có hiệu quả 1 lần, khi cộng dồn đầy sẽ tăng 24% sát thương."
+      }
+    }
+  ]
+}

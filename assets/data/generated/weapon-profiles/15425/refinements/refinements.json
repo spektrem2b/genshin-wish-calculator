@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Benthic Pulse",
+    "CHS": "深海弦振",
+    "CHT": "深海弦振",
+    "DE": "Benthischer Puls",
+    "ES": "Tañido de las profundidades",
+    "FR": "Pulsion benthique",
+    "ID": "Benthic Pulse",
+    "IT": "Impulso bentonico",
+    "JP": "深海の鳴弦",
+    "KR": "심해의 활시위",
+    "PT": "Tremor Marinho",
+    "RU": "Пульсация глубин",
+    "TH": "Benthic Pulse",
+    "TR": "Derinliklerin Nabzı",
+    "VI": "Âm Điệu Biển Sâu"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After the wielder is healed, they will deal 16% more DMG for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，造成的伤害提升16%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，造成的傷害提升16%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den von der Figur verursachten Schaden um 16 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el daño infligido aumenta en un 16% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, les DGT qu'il inflige augmentent de 16 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, akan meningkatkan 16% DMG yang diakibatkan selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi lo utilizza riceve effetti di guarigione, infligge un 16% di DAN in più per 8 s. Questo effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、与えるダメージ+16%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 주는 피해가 16% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Ao ser curado, aumenta o Dano em 16% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo na batalha.",
+        "RU": "Наносимый урон после получения лечения увеличивается на 16% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา ความเสียหายที่สร้างจะเพิ่มขึ้น 16% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 8 saniyeliğine %16 daha fazla Hasar verir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, sát thương gây ra tăng 16%, duy trì 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After the wielder is healed, they will deal 20% more DMG for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，造成的伤害提升20%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，造成的傷害提升20%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den von der Figur verursachten Schaden um 20 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el daño infligido aumenta en un 20% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, les DGT qu'il inflige augmentent de 20 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, akan meningkatkan 20% DMG yang diakibatkan selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi lo utilizza riceve effetti di guarigione, infligge un 20% di DAN in più per 8 s. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、与えるダメージ+20%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 주는 피해가 20% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Ao ser curado, aumenta o Dano em 20% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo na batalha.",
+        "RU": "Наносимый урон после получения лечения увеличивается на 20% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา ความเสียหายที่สร้างจะเพิ่มขึ้น 20% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 8 saniyeliğine %20 daha fazla Hasar verir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, sát thương gây ra tăng 20%, duy trì 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After the wielder is healed, they will deal 24% more DMG for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，造成的伤害提升24%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，造成的傷害提升24%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den von der Figur verursachten Schaden um 24 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el daño infligido aumenta en un 24% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, les DGT qu'il inflige augmentent de 24 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, akan meningkatkan 24% DMG yang diakibatkan selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi lo utilizza riceve effetti di guarigione, infligge un 24% di DAN in più per 8 s. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、与えるダメージ+24%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 주는 피해가 24% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Ao ser curado, aumenta o Dano em 24% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo na batalha.",
+        "RU": "Наносимый урон после получения лечения увеличивается на 24% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา ความเสียหายที่สร้างจะเพิ่มขึ้น 24% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 8 saniyeliğine %24 daha fazla Hasar verir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, sát thương gây ra tăng 24%, duy trì 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After the wielder is healed, they will deal 28% more DMG for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，造成的伤害提升28%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，造成的傷害提升28%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den von der Figur verursachten Schaden um 28 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el daño infligido aumenta en un 28% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, les DGT qu'il inflige augmentent de 28 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, akan meningkatkan 28% DMG yang diakibatkan selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi lo utilizza riceve effetti di guarigione, infligge un 28% di DAN in più per 8 s. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、与えるダメージ+28%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 주는 피해가 28% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Ao ser curado, aumenta o Dano em 28% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo na batalha.",
+        "RU": "Наносимый урон после получения лечения увеличивается на 28% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา ความเสียหายที่สร้างจะเพิ่มขึ้น 28% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 8 saniyeliğine %28 daha fazla Hasar verir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, sát thương gây ra tăng 28%, duy trì 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After the wielder is healed, they will deal 32% more DMG for 8s. This can be triggered even when the character is not on the field.",
+        "CHS": "受到治疗后，造成的伤害提升32%，持续8秒。角色处于队伍后台也能触发。",
+        "CHT": "受到治療後，造成的傷害提升32%，持續8秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht nach erhaltener Heilung den von der Figur verursachten Schaden um 32 %, hält 8 s. Der Effekt kann auch noch ausgelöst werden, wenn die Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras recibir curación, el daño infligido aumenta en un 32% durante 8 s. Este efecto puede activarse incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage a reçu des soins, les DGT qu'il inflige augmentent de 32 % pendant 8 s. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah menerima pemulihan, akan meningkatkan 32% DMG yang diakibatkan selama 8 detik. Tetap dapat terpicu saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando chi lo utilizza riceve effetti di guarigione, infligge un 32% di DAN in più per 8 s. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "治療を受けた後、与えるダメージ+32%、継続時間8秒。キャラクターが待機中でも発動できる。",
+        "KR": "치유를 받은 후 주는 피해가 32% 증가한다. 지속 시간: 8초. 해당 효과는 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Ao ser curado, aumenta o Dano em 32% por 8s. Pode ser ativado mesmo quando o personagem não estiver em campo na batalha.",
+        "RU": "Наносимый урон после получения лечения увеличивается на 32% на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "หลังผู้สวมใส่ได้รับการรักษา ความเสียหายที่สร้างจะเพิ่มขึ้น 32% เป็นเวลา 8 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakter Can yenilediğinde 8 saniyeliğine %32 daha fazla Hasar verir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Sau khi nhận trị liệu, sát thương gây ra tăng 32%, duy trì 8s. Nhân vật không ra trận cũng có thể kích hoạt."
+      }
+    }
+  ]
+}

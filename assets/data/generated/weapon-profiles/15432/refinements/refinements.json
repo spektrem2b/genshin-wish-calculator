@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Silent Trigger",
+    "CHS": "静发",
+    "CHT": "靜發",
+    "DE": "Geräuschloser Abzug",
+    "ES": "Disparo silencioso",
+    "FR": "Déclencheur silencieux",
+    "ID": "Silent Trigger",
+    "IT": "Grilletto silenzioso",
+    "JP": "サイレント・トリガー",
+    "KR": "조용한 사격",
+    "PT": "Gatilho Silencioso",
+    "RU": "Бесшумный спуск",
+    "TH": "Silent Trigger",
+    "TR": "Suskun Tetik",
+    "VI": "Kích Hoạt Lặng Lẽ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When an attack hits an opponent, deal AoE DMG equal to 40% of Max HP at the target location. This effect can be triggered once every 15s.",
+        "CHS": "攻击命中敌人时，在目标位置基于生命值上限的40%，造成范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "攻擊命中敵人時，在目標位置基於生命值上限的40%，造成範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "#Verursacht beim Treffen von Gegnern mit Angriffen an der Stelle des Ziels Flächenschaden basierend auf 40 % der max. LP, 15 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo, inflige en su ubicación Daño en el AdE en una cantidad equivalente al 40% de la Vida Máx. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Lorsqu'une attaque touche un ennemi, des DGT de zone d'une valeur équivalant à 40 % des PV max sont infligés à l'emplacement de la cible. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat serangan mengenai musuh, akan mengakibatkan DMG Area sebesar 40% Max HP pada lokasi target. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Quando un attacco colpisce un avversario, infligge DAN ad area pari a un 40% dei PS max nel punto colpito. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "攻撃が敵に命中した時、目標の位置にHP上限の40%を基に範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "공격이 적에게 명중 시, 목표 위치에 HP 최대치의 40%에 해당하는 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Quando um ataque acerta um oponente, causa 40% da Vida Máxima como Dano em uma AdE no local do alvo. Este efeito pode ser desencadeado uma vez a cada 15s.",
+        "RU": "При попадании атаки по противнику на позиции цели наносится урон по площади, равный 40% от макс. HP. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "เมื่อโจมตีโดนศัตรู จะสร้างความเสียหายวงกว้าง 40% ของค่าพลังชีวิตสูงสุด ในตำแหน่งเป้าหมาย โดยเอฟเฟกต์นี้ จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Bir saldırı bir düşmana isabet ettiğinde hedef konumda Maks. Canın %40'ı kadar Alan Hasarı verir. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Khi đánh trúng kẻ địch, sẽ gây sát thương diện rộng bằng 40% Giới Hạn HP tại vị trí mục tiêu. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When an attack hits an opponent, deal AoE DMG equal to 50% of Max HP at the target's location. This effect can be triggered once every 15s.",
+        "CHS": "攻击命中敌人时，在目标位置基于生命值上限的50%，造成范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "攻擊命中敵人時，在目標位置基於生命值上限的50%，造成範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "#Verursacht beim Treffen von Gegnern mit Angriffen an der Stelle des Ziels Flächenschaden basierend auf 50 % der max. LP, 15 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo, inflige en su ubicación Daño en el AdE en una cantidad equivalente al 50% de la Vida Máx. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Lorsqu'une attaque touche un ennemi, des DGT de zone d'une valeur équivalant à 50 % des PV max sont infligés à l'emplacement de la cible. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat serangan mengenai musuh, akan mengakibatkan DMG Area sebesar 50% dari Max HP pada lokasi target. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Quando un attacco colpisce un avversario, infligge DAN ad area pari a un 50% dei PS max nel punto colpito. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "攻撃が敵に命中した時、目標の位置にHP上限の50%を基に範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "공격이 적에게 명중 시, 목표 위치에 HP 최대치의 50%에 해당하는 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Quando um ataque acerta um oponente, causa 50% da Vida Máxima como Dano em uma AdE no local do alvo. Este efeito pode ser desencadeado uma vez a cada 15s.",
+        "RU": "При попадании атаки по противнику на позиции цели наносится урон по площади, равный 50% от макс. HP. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "เมื่อโจมตีโดนศัตรู จะสร้างความเสียหายวงกว้าง 50% ของค่าพลังชีวิตสูงสุด ในตำแหน่งเป้าหมาย โดยเอฟเฟกต์นี้ จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Bir saldırı bir düşmana isabet ettiğinde hedef konumda Maks. Canın %50'si kadar Alan Hasarı verir. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Khi đánh trúng kẻ địch, sẽ gây sát thương diện rộng bằng 50% Giới Hạn HP tại vị trí mục tiêu. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When an attack hits an opponent, deal AoE DMG equal to 60% of Max HP at the target's location. This effect can be triggered once every 15s.",
+        "CHS": "攻击命中敌人时，在目标位置基于生命值上限的60%，造成范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "攻擊命中敵人時，在目標位置基於生命值上限的60%，造成範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "#Verursacht beim Treffen von Gegnern mit Angriffen an der Stelle des Ziels Flächenschaden basierend auf 60 % der max. LP, 15 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo, inflige en su ubicación Daño en el AdE en una cantidad equivalente al 60% de la Vida Máx. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Lorsqu'une attaque touche un ennemi, des DGT de zone d'une valeur équivalant à 60 % des PV max sont infligés à l'emplacement de la cible. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat serangan mengenai musuh, akan mengakibatkan DMG Area sebesar 60% dari Max HP pada lokasi target. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Quando un attacco colpisce un avversario, infligge DAN ad area pari a un 60% dei PS max nel punto colpito. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "攻撃が敵に命中した時、目標の位置にHP上限の60%を基に範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "공격이 적에게 명중 시, 목표 위치에 HP 최대치의 60%에 해당하는 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Quando um ataque acerta um oponente, causa 60% da Vida Máxima como Dano em uma AdE no local do alvo. Este efeito pode ser desencadeado uma vez a cada 15s.",
+        "RU": "При попадании атаки по противнику на позиции цели наносится урон по площади, равный 60% от макс. HP. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "เมื่อโจมตีโดนศัตรู จะสร้างความเสียหายวงกว้าง 60% ของค่าพลังชีวิตสูงสุด ในตำแหน่งเป้าหมาย โดยเอฟเฟกต์นี้ จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Bir saldırı bir düşmana isabet ettiğinde hedef konumda Maks. Canın %60'ı kadar Alan Hasarı verir. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Khi đánh trúng kẻ địch, sẽ gây sát thương diện rộng bằng 60% Giới Hạn HP tại vị trí mục tiêu. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When an attack hits an opponent, deal AoE DMG equal to 70% of Max HP at the target's location. This effect can be triggered once every 15s.",
+        "CHS": "攻击命中敌人时，在目标位置基于生命值上限的70%，造成范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "攻擊命中敵人時，在目標位置基於生命值上限的70%，造成範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "#Verursacht beim Treffen von Gegnern mit Angriffen an der Stelle des Ziels Flächenschaden basierend auf 70 % der max. LP, 15 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo, inflige en su ubicación Daño en el AdE en una cantidad equivalente al 70% de la Vida Máx. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Lorsqu'une attaque touche un ennemi, des DGT de zone d'une valeur équivalant à 70 % des PV max sont infligés à l'emplacement de la cible. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat serangan mengenai musuh, akan mengakibatkan DMG Area sebesar 70% dari Max HP pada lokasi target. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Quando un attacco colpisce un avversario, infligge DAN ad area pari a un 70% dei PS max nel punto colpito. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "攻撃が敵に命中した時、目標の位置にHP上限の70%を基に範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "공격이 적에게 명중 시, 목표 위치에 HP 최대치의 70%에 해당하는 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Quando um ataque acerta um oponente, causa 70% da Vida Máxima como Dano em uma AdE no local do alvo. Este efeito pode ser desencadeado uma vez a cada 15s.",
+        "RU": "При попадании атаки по противнику на позиции цели наносится урон по площади, равный 70% от макс. HP. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "เมื่อโจมตีโดนศัตรู จะสร้างความเสียหายวงกว้าง 70% ของค่าพลังชีวิตสูงสุด ในตำแหน่งเป้าหมาย โดยเอฟเฟกต์นี้ จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Bir saldırı bir düşmana isabet ettiğinde hedef konumda Maks. Canın %70'i kadar Alan Hasarı verir. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Khi đánh trúng kẻ địch, sẽ gây sát thương diện rộng bằng 70% Giới Hạn HP tại vị trí mục tiêu. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When an attack hits an opponent, deal AoE DMG equal to 80% of Max HP at the target's location. This effect can be triggered once every 15s.",
+        "CHS": "攻击命中敌人时，在目标位置基于生命值上限的80%，造成范围伤害。该效果每15秒至多触发一次。",
+        "CHT": "攻擊命中敵人時，在目標位置基於生命值上限的80%，造成範圍傷害。該效果每15秒至多觸發一次。",
+        "DE": "#Verursacht beim Treffen von Gegnern mit Angriffen an der Stelle des Ziels Flächenschaden basierend auf 80 % der max. LP, 15 s Abklingzeit.",
+        "ES": "#Al golpear a un enemigo, inflige en su ubicación Daño en el AdE en una cantidad equivalente al 80% de la Vida Máx. Este efecto solo se puede activar una vez cada 15 s.",
+        "FR": "Lorsqu'une attaque touche un ennemi, des DGT de zone d'une valeur équivalant à 80 % des PV max sont infligés à l'emplacement de la cible. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat serangan mengenai musuh, akan mengakibatkan DMG Area sebesar 80% dari Max HP pada lokasi target. Efek ini dapat terpicu sekali setiap 15 detik.",
+        "IT": "#Quando un attacco colpisce un avversario, infligge DAN ad area pari a un 80% dei PS max nel punto colpito. Quest'effetto può attivarsi una volta ogni 15 s.",
+        "JP": "攻撃が敵に命中した時、目標の位置にHP上限の80%を基に範囲ダメージを与える。この効果は15秒毎に1回のみ発動可能。",
+        "KR": "공격이 적에게 명중 시, 목표 위치에 HP 최대치의 80%에 해당하는 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동된다",
+        "PT": "Quando um ataque acerta um oponente, causa 80% da Vida Máxima como Dano em uma AdE no local do alvo. Este efeito pode ser desencadeado uma vez a cada 15s.",
+        "RU": "При попадании атаки по противнику на позиции цели наносится урон по площади, равный 80% от макс. HP. Этот эффект может возникнуть один раз в 15 сек.",
+        "TH": "เมื่อโจมตีโดนศัตรู จะสร้างความเสียหายวงกว้าง 80% ของค่าพลังชีวิตสูงสุด ในตำแหน่งเป้าหมาย โดยเอฟเฟกต์นี้ จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที",
+        "TR": "Bir saldırı bir düşmana isabet ettiğinde hedef konumda Maks. Canın %80'i kadar Alan Hasarı verir. Bu etki 15 saniyede bir tetiklenebilir.",
+        "VI": "Khi đánh trúng kẻ địch, sẽ gây sát thương diện rộng bằng 80% Giới Hạn HP tại vị trí mục tiêu. Hiệu quả này mỗi 15s tối đa kích hoạt một lần."
+      }
+    }
+  ]
+}

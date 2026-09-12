@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Wolfish Tracker",
+    "CHS": "如狼般狩猎者",
+    "CHT": "如狼般狩獵者",
+    "DE": "Jäger wie ein Wolf",
+    "ES": "Cazador salvaje",
+    "FR": "Chasse lupicale",
+    "ID": "Wolfish Tracker",
+    "IT": "Cacciatore famelico",
+    "JP": "狼のような狩人",
+    "KR": "늑대 같은 사냥꾼",
+    "PT": "Caçador Selvagem",
+    "RU": "Волк-охотник",
+    "TH": "Wolfish Tracker",
+    "TR": "Kurtvari İzci",
+    "VI": "Người Thợ Săn Như Sói"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases ATK by 20%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 40% for 12s. Can only occur once every 30s.",
+        "CHS": "攻击力提高20%；攻击命中生命值低于30%的敌人时，队伍中所有成员的攻击力提高40%，持续12秒。该效果30秒只能触发一次。",
+        "CHT": "攻擊力提高20%；攻擊命中生命值低於30%的敵人時，隊伍中所有成員的攻擊力提高40%，持續12秒。該效果30秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 20 %. Erhöht den ANG aller Truppenmitglieder beim Treffen eines Gegners mit weniger als 30 % LP 12 s lang um 40 %. 30 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 20%. Al atacar a enemigos con menos del 30% de su Vida, aumenta el ATQ de todos los miembros del equipo en un 40% durante 12 s. Este efecto solo puede ocurrir una vez cada 30 s.",
+        "FR": "Augmente l'ATQ de 20 %. Les attaques touchant les ennemis dont les PV sont inférieurs à 30 % augmentent l'ATQ de tous les membres de l'équipe de 40 % pendant 12 s. Cet effet peut être déclenché une fois toutes les 30 s.",
+        "ID": "Meningkatkan 20% ATK. Saat berhasil mengenai musuh dengan HP kurang dari 30%, meningkatkan 40% ATK seluruh anggota party selama 12 detik. Dapat terpicu setiap 30 detik.",
+        "IT": "#Aumenta l'ATT di un 20%. Per ogni colpo a segno, gli attacchi contro gli avversari con meno di un 30% di PS aumentano l'ATT di tutti i membri del gruppo di un 40% per 12 s. Si può verificare una sola volta ogni 30 s.",
+        "JP": "攻撃力+20%。HPが30%以下の敵に命中すると、チーム全員の攻撃力+40%、継続時間12秒。30秒に1回のみ発動可能。",
+        "KR": "공격력+20%. HP가 30% 미만인 적을 명중 시 모든 파티원의 공격력이 40% 증가한다. 지속 시간: 12초. 해당 효과는 30초마다 1번 발동한다",
+        "PT": "Aumenta o ATQ em 20%. Ao acertar o ataque em oponentes com Vida inferior a 30%, aumenta o ATQ de todos os companheiros em 40% por 12s. Este efeito pode ser ativado uma vez a cada 30s.",
+        "RU": "Увеличивает силу атаки на 20%. При попадании по цели с HP меньше 30% увеличивает силу атаки всех членов отряда на 40% в течение 12 сек. Может возникнуть не чаще 1 раза за 30 сек.",
+        "TH": "เพิ่มพลังโจมตี 20%; เมื่อโจมตีถูกศัตรูที่มีพลังชีวิตต่ำกว่า 30% พลังโจมตีของสมาชิกทั้งหมดในทีมจะเพิ่มขึ้น 40% เป็นเวลา 12 วินาที ซึ่งเอฟเฟกต์นี้จะใช้ได้หนึ่งครั้งในทุก 30 วินาที",
+        "TR": "Saldırıyı %20 artırır. Canı %30'un altında olan düşmanlara yapılan saldırılar isabet ettiğinde 12 saniyeliğine tüm grup üyelerinin Saldırısını %40 artırır. 30 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 20%; Khi tấn công đánh trúng kẻ địch có HP dưới 30%, lực tấn công của tất cả thành viên đội tăng 40%, kéo dài 12s. Mỗi 30s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases ATK by 25%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 50% for 12s. Can only occur once every 30s.",
+        "CHS": "攻击力提高25%；攻击命中生命值低于30%的敌人时，队伍中所有成员的攻击力提高50%，持续12秒。该效果30秒只能触发一次。",
+        "CHT": "攻擊力提高25%；攻擊命中生命值低於30%的敵人時，隊伍中所有成員的攻擊力提高50%，持續12秒。該效果30秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 25 %. Erhöht den ANG aller Truppenmitglieder beim Treffen eines Gegners mit weniger als 30 % LP 12 s lang um 50 %. 30 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 25%. Al atacar a enemigos con menos del 30% de su Vida, aumenta el ATQ de todos los miembros del equipo en un 50% durante 12 s. Este efecto solo puede ocurrir una vez cada 30 s.",
+        "FR": "Augmente l'ATQ de 25 %. Les attaques touchant les ennemis dont les PV sont inférieurs à 30 % augmentent l'ATQ de tous les membres de l'équipe de 50 % pendant 12 s. Cet effet peut être déclenché une fois toutes les 30 s.",
+        "ID": "Meningkatkan 25% ATK. Saat berhasil mengenai musuh dengan HP kurang dari 30%, meningkatkan 50% ATK seluruh anggota party selama 12 detik. Dapat terpicu setiap 30 detik.",
+        "IT": "#Aumenta l'ATT di un 25%. Per ogni colpo a segno, gli attacchi contro gli avversari con meno di un 30% di PS aumentano l'ATT di tutti i membri del gruppo di un 50% per 12 s. Si può verificare una sola volta ogni 30 s.",
+        "JP": "攻撃力+25%。HPが30%以下の敵に命中すると、チーム全員の攻撃力+50%、継続時間12秒。30秒に1回のみ発動可能。",
+        "KR": "공격력+25%. HP가 30% 미만인 적을 명중 시 모든 파티원의 공격력이 50% 증가한다. 지속 시간: 12초. 해당 효과는 30초마다 1번 발동한다",
+        "PT": "Aumenta o ATQ em 25%. Ao acertar o ataque em oponentes com Vida inferior a 30%, aumenta o ATQ de todos os companheiros em 50% por 12s. Este efeito pode ser ativado uma vez a cada 30s.",
+        "RU": "Увеличивает силу атаки на 25%. При попадании по цели с HP меньше 30% увеличивает силу атаки всех членов отряда на 50% в течение 12 сек. Может возникнуть не чаще 1 раза за 30 сек.",
+        "TH": "เพิ่มพลังโจมตี 25%; เมื่อโจมตีถูกศัตรูที่มีพลังชีวิตต่ำกว่า 30% พลังโจมตีของสมาชิกทั้งหมดในทีมจะเพิ่มขึ้น 50% เป็นเวลา 12 วินาที ซึ่งเอฟเฟกต์นี้จะใช้ได้หนึ่งครั้งในทุก 30 วินาที",
+        "TR": "Saldırıyı %25 artırır. Canı %30'un altında olan düşmanlara yapılan saldırılar isabet ettiğinde 12 saniyeliğine tüm grup üyelerinin Saldırısını %50 artırır. 30 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 25%; Khi đánh trúng kẻ địch có HP dưới 30%, lực tấn công của tất cả thành viên đội tăng 50%, kéo dài 12s. Mỗi 30s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases ATK by 30%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 60% for 12s. Can only occur once every 30s.",
+        "CHS": "攻击力提高30%；攻击命中生命值低于30%的敌人时，队伍中所有成员的攻击力提高60%，持续12秒。该效果30秒只能触发一次。",
+        "CHT": "攻擊力提高30%；攻擊命中生命值低於30%的敵人時，隊伍中所有成員的攻擊力提高60%，持續12秒。該效果30秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 30 %. Erhöht den ANG aller Truppenmitglieder beim Treffen eines Gegners mit weniger als 30 % LP 12 s lang um 60 %. 30 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 30%. Al atacar a enemigos con menos del 30% de su Vida, aumenta el ATQ de todos los miembros del equipo en un 60% durante 12 s. Este efecto solo puede ocurrir una vez cada 30 s.",
+        "FR": "Augmente l'ATQ de 30 %. Les attaques touchant les ennemis dont les PV sont inférieurs à 30 % augmentent l'ATQ de tous les membres de l'équipe de 60 % pendant 12 s. Cet effet peut être déclenché une fois toutes les 30 s.",
+        "ID": "Meningkatkan 30% ATK. Saat berhasil mengenai musuh dengan HP kurang dari 30%, meningkatkan 60% ATK seluruh anggota party selama 12 detik. Dapat terpicu setiap 30 detik.",
+        "IT": "#Aumenta l'ATT di un 30%. Per ogni colpo a segno, gli attacchi contro gli avversari con meno di un 30% di PS aumentano l'ATT di tutti i membri del gruppo di un 60% per 12 s. Si può verificare una sola volta ogni 30 s.",
+        "JP": "攻撃力+30%。HPが30%以下の敵に命中すると、チーム全員の攻撃力+60%、継続時間12秒。30秒に1回のみ発動可能。",
+        "KR": "공격력+30%. HP가 30% 미만인 적을 명중 시 모든 파티원의 공격력이 60% 증가한다. 지속 시간: 12초. 해당 효과는 30초마다 1번 발동한다",
+        "PT": "Aumenta o ATQ em 30%. Ao acertar o ataque em oponentes com menos de 30% de sua Vida, aumenta o ATQ de todos os companheiros em 60% por 12s. Este efeito pode ser ativado uma vez a cada 30s.",
+        "RU": "Увеличивает силу атаки на 30%. При попадании по цели с HP меньше 30% увеличивает силу атаки всех членов отряда на 60% в течение 12 сек. Может возникнуть не чаще 1 раза за 30 сек.",
+        "TH": "เพิ่มพลังโจมตี 30%; เมื่อโจมตีถูกศัตรูที่มีพลังชีวิตต่ำกว่า 30% พลังโจมตีของสมาชิกทั้งหมดในทีมจะเพิ่มขึ้น 60% เป็นเวลา 12 วินาที ซึ่งเอฟเฟกต์นี้จะใช้ได้หนึ่งครั้งในทุก 30 วินาที",
+        "TR": "Saldırıyı %30 artırır. Canı %30'un altında olan düşmanlara yapılan saldırılar isabet ettiğinde 12 saniyeliğine tüm grup üyelerinin Saldırısını %60 artırır. 30 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 30%; Khi đánh trúng kẻ địch có HP dưới 30%, lực tấn công của tất cả thành viên đội tăng 60%, kéo dài 12s. Mỗi 30s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases ATK by 35%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 70% for 12s. Can only occur once every 30s.",
+        "CHS": "攻击力提高35%；攻击命中生命值低于30%的敌人时，队伍中所有成员的攻击力提高70%，持续12秒。该效果30秒只能触发一次。",
+        "CHT": "攻擊力提高35%；攻擊命中生命值低於30%的敵人時，隊伍中所有成員的攻擊力提高70%，持續12秒。該效果30秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 35 %. Erhöht den ANG aller Truppenmitglieder beim Treffen eines Gegners mit weniger als 30 % LP 12 s lang um 70 %. 30 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 35%. Al atacar a enemigos con menos del 30% de su Vida, aumenta el ATQ de todos los miembros del equipo en un 70% durante 12 s. Este efecto solo puede ocurrir una vez cada 30 s.",
+        "FR": "Augmente l'ATQ de 35 %. Les attaques touchant les ennemis dont les PV sont inférieurs à 30 % augmentent l'ATQ de tous les membres de l'équipe de 70 % pendant 12 s. Cet effet peut être déclenché une fois toutes les 30 s.",
+        "ID": "Meningkatkan 35% ATK. Saat berhasil mengenai musuh dengan HP kurang dari 30%, meningkatkan 70% ATK seluruh anggota party selama 12 detik. Dapat terpicu setiap 30 detik.",
+        "IT": "#Aumenta l'ATT di un 35%. Per ogni colpo a segno, gli attacchi contro gli avversari con meno di un 30% di PS aumentano l'ATT di tutti i membri del gruppo di un 70% per 12 s. Si può verificare una sola volta ogni 30 s.",
+        "JP": "攻撃力+35%。HPが30%以下の敵に命中すると、チーム全員の攻撃力+70%、継続時間12秒。30秒に1回のみ発動可能。",
+        "KR": "공격력+35%. HP가 30% 미만인 적을 명중 시 모든 파티원의 공격력이 70% 증가한다. 지속 시간: 12초. 해당 효과는 30초마다 1번 발동한다",
+        "PT": "Aumenta o ATQ em 35%. Ao acertar o ataque em oponentes com menos de 30% de sua Vida, aumenta o ATQ de todos os companheiros em 70% por 12s. Este efeito pode ser ativado uma vez a cada 30s.",
+        "RU": "Увеличивает силу атаки на 35%. При попадании по цели с HP меньше 30% увеличивает силу атаки всех членов отряда на 70% в течение 12 сек. Может возникнуть не чаще 1 раза за 30 сек.",
+        "TH": "เพิ่มพลังโจมตี 35%; เมื่อโจมตีถูกศัตรูที่มีพลังชีวิตต่ำกว่า 30% พลังโจมตีของสมาชิกทั้งหมดในทีมจะเพิ่มขึ้น 70% เป็นเวลา 12 วินาที ซึ่งเอฟเฟกต์นี้จะใช้ได้หนึ่งครั้งในทุก 30 วินาที",
+        "TR": "Saldırıyı %35 artırır. Canı %30'un altında olan düşmanlara yapılan saldırılar isabet ettiğinde 12 saniyeliğine tüm grup üyelerinin Saldırısını %70 artırır. 30 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 35%; Khi tấn công đánh trúng kẻ địch có HP dưới 30%, lực tấn công của tất cả thành viên đội tăng 70%, kéo dài 12s. Mỗi 30s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases ATK by 40%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 80% for 12s. Can only occur once every 30s.",
+        "CHS": "攻击力提高40%；攻击命中生命值低于30%的敌人时，队伍中所有成员的攻击力提高80%，持续12秒。该效果30秒只能触发一次。",
+        "CHT": "攻擊力提高40%；攻擊命中生命值低於30%的敵人時，隊伍中所有成員的攻擊力提高80%，持續12秒。該效果30秒只能觸發一次。",
+        "DE": "Erhöht den ANG um 40 %. Erhöht den ANG aller Truppenmitglieder beim Treffen eines Gegners mit weniger als 30 % LP 12 s lang um 80 %. 30 s Abklingzeit.",
+        "ES": "Aumenta el ATQ en un 40%. Al atacar a enemigos con menos del 30% de su Vida, aumenta el ATQ de todos los miembros del equipo en un 80% durante 12 s. Este efecto solo puede ocurrir una vez cada 30 s.",
+        "FR": "Augmente l'ATQ de 40 %. Les attaques touchant les ennemis dont les PV sont inférieurs à 30 % augmentent l'ATQ de tous les membres de l'équipe de 80 % pendant 12 s. Cet effet peut être déclenché une fois toutes les 30 s.",
+        "ID": "Meningkatkan 40% ATK. Saat berhasil mengenai musuh dengan HP kurang dari 30%, meningkatkan 80% ATK seluruh anggota party selama 12 detik. Dapat terpicu setiap 30 detik.",
+        "IT": "#Aumenta l'ATT di un 40%. Per ogni colpo a segno, gli attacchi contro gli avversari con meno di un 30% di PS aumentano l'ATT di tutti i membri del gruppo di un 80% per 12 s. Si può verificare una sola volta ogni 30 s.",
+        "JP": "攻撃力+40%。HPが30%以下の敵に命中すると、チーム全員の攻撃力+80%、継続時間12秒。30秒に1回のみ発動可能。",
+        "KR": "공격력+40%. HP가 30% 미만인 적을 명중 시 모든 파티원의 공격력이 80% 증가한다. 지속 시간: 12초. 해당 효과는 30초마다 1번 발동한다",
+        "PT": "Aumenta o ATQ em 40%. Ao acertar o ataque em oponentes com Vida inferior a 30%, aumenta o ATQ de todos os companheiros em 80% por 12s. Este efeito pode ser ativado uma vez a cada 30s.",
+        "RU": "Увеличивает силу атаки на 40%. При попадании по цели с HP меньше 30% увеличивает силу атаки всех членов отряда на 80% в течение 12 сек. Может возникнуть не чаще 1 раза за 30 сек.",
+        "TH": "เพิ่มพลังโจมตี 40%; เมื่อโจมตีถูกศัตรูที่มีพลังชีวิตต่ำกว่า 30% พลังโจมตีของสมาชิกทั้งหมดในทีมจะเพิ่มขึ้น 80% เป็นเวลา 12 วินาที ซึ่งเอฟเฟกต์นี้จะใช้ได้หนึ่งครั้งในทุก 30 วินาที",
+        "TR": "Saldırıyı %40 artırır. Canı %30'un altında olan düşmanlara yapılan saldırılar isabet ettiğinde 12 saniyeliğine tüm grup üyelerinin Saldırısını %80 artırır. 30 saniyede bir uygulanabilir.",
+        "VI": "Tấn công tăng 40%; Khi đánh trúng kẻ địch có HP dưới 30%, lực tấn công của tất cả thành viên đội tăng 80%, kéo dài 12s. Mỗi 30s mới thi triển 1 lần."
+      }
+    }
+  ]
+}

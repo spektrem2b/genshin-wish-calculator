@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Offering Unto Wind and Sun",
+    "CHS": "奉予风阳的禋祀",
+    "CHT": "奉予風陽的禋祀",
+    "DE": "Opfer für den Wind und die Sonne",
+    "ES": "Ofrenda para el viento y el sol",
+    "FR": "Offrande au vent et au soleil",
+    "ID": "Offering Unto Wind and Sun",
+    "IT": "Offerte al vento e al sole",
+    "JP": "風と陽に捧げる祭儀",
+    "KR": "바람과 태양에 바치는 연기 제사",
+    "PT": "Oferenda ao Vento e ao Sol",
+    "RU": "Подношение ветру и солнцу",
+    "TH": "Offering Unto Wind and Sun",
+    "TR": "Rüzgara ve Güneşe Adak",
+    "VI": "Dâng Hiến Cho Gió Và Mặt Trời"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Mastery by 100. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 28% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+        "CHS": "元素精通提升100点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升28%，每14秒至多获得一次「照夜之镜」效果。",
+        "CHT": "元素精通提升100點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升28%，每14秒至多獲得一次「照夜之鏡」效果。",
+        "DE": "#Erhöht die Elementarkunde um 100 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 28 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+        "ES": "#Aumenta la Maestría Elemental en 100 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 28% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+        "FR": "#La maîtrise élémentaire augmente de 100 pts et le personnage équipé de l'arme obtient l'effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 28 %. L'effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+        "ID": "Elemental Mastery meningkat 100 poin. Setelah Karakter yang mengenakan menciptakan Perisai, akan mendapatkan efek \"Mirror of Night\" selama 15 detik: DMG yang diakibatkan Karakter aktif sendiri di dalam party meningkat 28% terhadap musuh di sekitar. Karakter bisa mendapatkan efek \"Mirror of Night\" sekali setiap 14 detik.",
+        "IT": "#Aumenta la maestria elementale di 100. Quando il personaggio che equipaggia l'arma crea uno scudo, ottiene l'effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 28% di DAN aumentati agli avversari vicini. È possibile ottenere l'effetto Specchio della Notte una volta ogni 14 s.",
+        "JP": "元素熟知+100。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+28%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+        "KR": "원소 마스터리가 100pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 28% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Proficiência Elemental em 100. Nos 15s após o personagem que está com essa arma equipada criar um escudo, obtém o efeito \"Espelho da Noite\": aumenta o Dano causado pelo personagem ativo da equipe contra os inimigos próximos em 28%. O efeito \"Espelho da Noite\" pode ser obtido uma vez a cada 14s.",
+        "RU": "Повышает мастерство стихий на 100 ед. После того как экипированный персонаж создаёт щит, на 15 сек. он получает эффект Зеркала ночи: урон активного персонажа вашего отряда по врагам поблизости повышается на 28%. Эффект Зеркала ночи можно получить один раз в 14 сек.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 100 หน่วย และภายใน 15 วินาที หลังจากผู้สวมใส่สร้างโล่ จะได้รับเอฟเฟกต์ \"Mirror of Night\": ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเอง จะสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้เคียงเพิ่มขึ้น 28% และจะได้รับเอฟเฟกต์ \"Mirror of Night\" มากสุดหนึ่งครั้ง ในทุก 14 วินาที",
+        "TR": "Element Ustalığını 100 artırır. Kuşanan karakter bir kalkan oluşturduktan sonra 15sn boyunca \"Gecenin Aynası\" etkisi kazanılır: Mevcut aktif grup üyesi, yakındaki düşmanlara %28 daha fazla Hasar verir. \"Gecenin Aynası\" etkisi her 14 saniyede bir kazanılabilir.",
+        "VI": "Tinh Thông Nguyên Tố tăng 100 điểm. Trong 15s sau khi người trang bị tạo khiên, sẽ nhận được hiệu quả \"Kính Đêm\": Nhân vật trong đội ra trận tăng 28% sát thương gây ra cho kẻ địch gần đó. Mỗi 14s tối đa nhận được một lần hiệu quả \"Kính Đêm\"."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Mastery by 125. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 35% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+        "CHS": "元素精通提升125点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升35%，每14秒至多获得一次「照夜之镜」效果。",
+        "CHT": "元素精通提升125點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升35%，每14秒至多獲得一次「照夜之鏡」效果。",
+        "DE": "#Erhöht die Elementarkunde um 125 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 35 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+        "ES": "#Aumenta la Maestría Elemental en 125 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 35% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+        "FR": "#La maîtrise élémentaire augmente de 125 pts et le personnage équipé de l'arme obtient l'effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 35 %. L'effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+        "ID": "Elemental Mastery meningkat 125 poin. Setelah Karakter yang mengenakan menciptakan Perisai, akan mendapatkan efek \"Mirror of Night\" selama 15 detik: DMG yang diakibatkan Karakter aktif sendiri di dalam party meningkat 35% terhadap musuh di sekitar. Karakter bisa mendapatkan efek \"Mirror of Night\" sekali setiap 14 detik.",
+        "IT": "#Aumenta la maestria elementale di 125. Quando il personaggio che equipaggia l'arma crea uno scudo, ottiene l'effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 35% di DAN aumentati agli avversari vicini. È possibile ottenere l'effetto Specchio della Notte una volta ogni 14 s.",
+        "JP": "元素熟知+125。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+35%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+        "KR": "원소 마스터리가 125pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 35% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Proficiência Elemental em 125. Nos 15s após o personagem que está com essa arma equipada criar um escudo, obtém o efeito \"Espelho da Noite\": aumenta o Dano causado pelo personagem ativo da equipe contra os inimigos próximos em 35%. O efeito \"Espelho da Noite\" pode ser obtido uma vez a cada 14s.",
+        "RU": "Повышает мастерство стихий на 125 ед. После того как экипированный персонаж создаёт щит, на 15 сек. он получает эффект Зеркала ночи: урон активного персонажа вашего отряда по врагам поблизости повышается на 35%. Эффект Зеркала ночи можно получить один раз в 14 сек.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 125 หน่วย และภายใน 15 วินาที หลังจากผู้สวมใส่สร้างโล่ จะได้รับเอฟเฟกต์ \"Mirror of Night\": ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเอง จะสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้เคียงเพิ่มขึ้น 35% และจะได้รับเอฟเฟกต์ \"Mirror of Night\" มากสุดหนึ่งครั้ง ในทุก 14 วินาที",
+        "TR": "Element Ustalığını 125 artırır. Kuşanan karakter bir kalkan oluşturduktan sonra 15sn boyunca \"Gecenin Aynası\" etkisi kazanılır: Mevcut aktif grup üyesi, yakındaki düşmanlara %35 daha fazla Hasar verir. \"Gecenin Aynası\" etkisi her 14 saniyede bir kazanılabilir.",
+        "VI": "Tinh Thông Nguyên Tố tăng 125 điểm. Trong 15s sau khi người trang bị tạo khiên, sẽ nhận được hiệu quả \"Kính Đêm\": Nhân vật trong đội ra trận tăng 35% sát thương gây ra cho kẻ địch gần đó. Mỗi 14s tối đa nhận được một lần hiệu quả \"Kính Đêm\"."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Mastery by 150. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 42% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+        "CHS": "元素精通提升150点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升42%，每14秒至多获得一次「照夜之镜」效果。",
+        "CHT": "元素精通提升150點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升42%，每14秒至多獲得一次「照夜之鏡」效果。",
+        "DE": "#Erhöht die Elementarkunde um 150 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 42 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+        "ES": "#Aumenta la Maestría Elemental en 150 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 42% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+        "FR": "#La maîtrise élémentaire augmente de 150 pts et le personnage équipé de l'arme obtient l'effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 42 %. L'effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+        "ID": "Elemental Mastery meningkat 150 poin. Setelah Karakter yang mengenakan menciptakan Perisai, akan mendapatkan efek \"Mirror of Night\" selama 15 detik: DMG yang diakibatkan Karakter aktif sendiri di dalam party meningkat 42% terhadap musuh di sekitar. Karakter bisa mendapatkan efek \"Mirror of Night\" sekali setiap 14 detik.",
+        "IT": "#Aumenta la maestria elementale di 150. Quando il personaggio che equipaggia l'arma crea uno scudo, ottiene l'effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 42% di DAN aumentati agli avversari vicini. È possibile ottenere l'effetto Specchio della Notte una volta ogni 14 s.",
+        "JP": "元素熟知+150。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+42%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+        "KR": "원소 마스터리가 150pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 42% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Proficiência Elemental em 150. Nos 15s após o personagem que está com essa arma equipada criar um escudo, obtém o efeito \"Espelho da Noite\": aumenta o Dano causado pelo personagem ativo da equipe contra os inimigos próximos em 42%. O efeito \"Espelho da Noite\" pode ser obtido uma vez a cada 14s.",
+        "RU": "Повышает мастерство стихий на 150 ед. После того как экипированный персонаж создаёт щит, на 15 сек. он получает эффект Зеркала ночи: урон активного персонажа вашего отряда по врагам поблизости повышается на 42%. Эффект Зеркала ночи можно получить один раз в 14 сек.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 150 หน่วย และภายใน 15 วินาที หลังจากผู้สวมใส่สร้างโล่ จะได้รับเอฟเฟกต์ \"Mirror of Night\": ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเอง จะสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้เคียงเพิ่มขึ้น 42% และจะได้รับเอฟเฟกต์ \"Mirror of Night\" มากสุดหนึ่งครั้ง ในทุก 14 วินาที",
+        "TR": "Element Ustalığını 150 artırır. Kuşanan karakter bir kalkan oluşturduktan sonra 15 sn boyunca \"Gecenin Aynası\" etkisi kazanılır: Mevcut aktif grup üyesi, yakındaki düşmanlara %42 daha fazla Hasar verir. \"Gecenin Aynası\" etkisi her 14 saniyede bir kazanılabilir.",
+        "VI": "Tinh Thông Nguyên Tố tăng 150 điểm. Trong 15s sau khi người trang bị tạo khiên, sẽ nhận được hiệu quả \"Kính Đêm\": Nhân vật trong đội ra trận tăng 42% sát thương gây ra cho kẻ địch gần đó. Mỗi 14s tối đa nhận được một lần hiệu quả \"Kính Đêm\"."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Mastery by 175. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 49% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+        "CHS": "元素精通提升175点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升49%，每14秒至多获得一次「照夜之镜」效果。",
+        "CHT": "元素精通提升175點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升49%，每14秒至多獲得一次「照夜之鏡」效果。",
+        "DE": "#Erhöht die Elementarkunde um 175 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 49 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+        "ES": "#Aumenta la Maestría Elemental en 175 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 49% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+        "FR": "#La maîtrise élémentaire augmente de 175 pts et le personnage équipé de l'arme obtient l'effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 49 %. L'effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+        "ID": "Elemental Mastery meningkat 175 poin. Setelah Karakter yang mengenakan menciptakan Perisai, akan mendapatkan efek \"Mirror of Night\" selama 15 detik: DMG yang diakibatkan Karakter aktif sendiri di dalam party meningkat 49% terhadap musuh di sekitar. Karakter bisa mendapatkan efek \"Mirror of Night\" sekali setiap 14 detik.",
+        "IT": "#Aumenta la maestria elementale di 175. Quando il personaggio che equipaggia l'arma crea uno scudo, ottiene l'effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 49% di DAN aumentati agli avversari vicini. È possibile ottenere l'effetto Specchio della Notte una volta ogni 14 s.",
+        "JP": "元素熟知+175。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+49%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+        "KR": "원소 마스터리가 175pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 49% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Proficiência Elemental em 175. Nos 15s após o personagem que está com essa arma equipada criar um escudo, obtém o efeito \"Espelho da Noite\": aumenta o Dano causado pelo personagem ativo da equipe contra os inimigos próximos em 49%. O efeito \"Espelho da Noite\" pode ser obtido uma vez a cada 14s.",
+        "RU": "Повышает мастерство стихий на 175 ед. После того как экипированный персонаж создаёт щит, на 15 сек. он получает эффект Зеркала ночи: урон активного персонажа вашего отряда по врагам поблизости повышается на 49%. Эффект Зеркала ночи можно получить один раз в 14 сек.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 175 หน่วย และภายใน 15 วินาที หลังจากผู้สวมใส่สร้างโล่ จะได้รับเอฟเฟกต์ \"Mirror of Night\": ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเอง จะสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้เคียงเพิ่มขึ้น 49% และจะได้รับเอฟเฟกต์ \"Mirror of Night\" มากสุดหนึ่งครั้ง ในทุก 14 วินาที",
+        "TR": "Element Ustalığını 175 artırır. Kuşanan karakter bir kalkan oluşturduktan sonra 15 sn boyunca \"Gecenin Aynası\" etkisi kazanılır: Mevcut aktif grup üyesi, yakındaki düşmanlara %49 daha fazla Hasar verir. \"Gecenin Aynası\" etkisi her 14 saniyede bir kazanılabilir.",
+        "VI": "Tinh Thông Nguyên Tố tăng 175 điểm. Trong 15s sau khi người trang bị tạo khiên, sẽ nhận được hiệu quả \"Kính Đêm\": Nhân vật trong đội ra trận tăng 49% sát thương gây ra cho kẻ địch gần đó. Mỗi 14s tối đa nhận được một lần hiệu quả \"Kính Đêm\"."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Mastery by 200. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 56% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+        "CHS": "元素精通提升200点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升56%，每14秒至多获得一次「照夜之镜」效果。",
+        "CHT": "元素精通提升200點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升56%，每14秒至多獲得一次「照夜之鏡」效果。",
+        "DE": "#Erhöht die Elementarkunde um 200 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 56 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+        "ES": "#Aumenta la Maestría Elemental en 200 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 56% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+        "FR": "#La maîtrise élémentaire augmente de 200 pts et le personnage équipé de l'arme obtient l'effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 56 %. L'effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+        "ID": "Elemental Mastery meningkat 200 poin. Setelah Karakter yang mengenakan menciptakan Perisai, akan mendapatkan efek \"Mirror of Night\" selama 15 detik: DMG yang diakibatkan Karakter aktif sendiri di dalam party meningkat 56% terhadap musuh di sekitar. Karakter bisa mendapatkan efek \"Mirror of Night\" sekali setiap 14 detik.",
+        "IT": "#Aumenta la maestria elementale di 200. Quando il personaggio che equipaggia l'arma crea uno scudo, ottiene l'effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 56% di DAN aumentati agli avversari vicini. È possibile ottenere l'effetto Specchio della Notte una volta ogni 14 s.",
+        "JP": "元素熟知+200。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+56%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+        "KR": "원소 마스터리가 200pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 56% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Proficiência Elemental em 200. Nos 15s após o personagem que está com essa arma equipada criar um escudo, obtém o efeito \"Espelho da Noite\": aumenta o Dano causado pelo personagem ativo da equipe contra os inimigos próximos em 56%. O efeito \"Espelho da Noite\" pode ser obtido uma vez a cada 14s.",
+        "RU": "Повышает мастерство стихий на 200 ед. После того как экипированный персонаж создаёт щит, на 15 сек. он получает эффект Зеркала ночи: урон активного персонажа вашего отряда по врагам поблизости повышается на 56%. Эффект Зеркала ночи можно получить один раз в 14 сек.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 200 หน่วย และภายใน 15 วินาที หลังจากผู้สวมใส่สร้างโล่ จะได้รับเอฟเฟกต์ \"Mirror of Night\": ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเอง จะสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้เคียงเพิ่มขึ้น 56% และจะได้รับเอฟเฟกต์ \"Mirror of Night\" มากสุดหนึ่งครั้ง ในทุก 14 วินาที",
+        "TR": "Element Ustalığını 200 artırır. Kuşanan karakter bir kalkan oluşturduktan sonra 15 sn boyunca \"Gecenin Aynası\" etkisi kazanılır: Mevcut aktif grup üyesi, yakındaki düşmanlara %56 daha fazla Hasar verir. \"Gecenin Aynası\" etkisi her 14 saniyede bir kazanılabilir.",
+        "VI": "Tinh Thông Nguyên Tố tăng 200 điểm. Trong 15s sau khi người trang bị tạo khiên, sẽ nhận được hiệu quả \"Kính Đêm\": Nhân vật trong đội ra trận tăng 56% sát thương gây ra cho kẻ địch gần đó. Mỗi 14s tối đa nhận được một lần hiệu quả \"Kính Đêm\"."
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 10005,
+  "name": {
+    "EN": "Berserker",
+    "CHS": "战狂",
+    "CHT": "戰狂",
+    "DE": "Berserker",
+    "ES": "Berserker",
+    "FR": "Berserker",
+    "ID": "Berserker",
+    "IT": "Berserker",
+    "JP": "狂戦士",
+    "KR": "전투광",
+    "PT": "Berserker",
+    "RU": "Берсерк",
+    "TH": "Berserker",
+    "TR": "Vahşi Savaşçı",
+    "VI": "Cuồng Chiến"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10005/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "CRIT Rate +12%",
+        "CHS": "暴击率提高12%。",
+        "CHT": "暴擊率提高12%。",
+        "DE": "Erhöht die KT um 12 %.",
+        "ES": "Prob. CRIT +12%.",
+        "FR": "Augmente le taux CRIT de 12 %.",
+        "ID": "CRIT Rate +12%.",
+        "IT": "Tasso di CRIT +12%.",
+        "JP": "会心率+12%。",
+        "KR": "치명타 확률+12%",
+        "PT": "Taxa Crítica +12%",
+        "RU": "Увеличивает шанс крит. попадания на 12%.",
+        "TH": "เพิ่มอัตราคริขึ้น 12%",
+        "TR": "+%12 Kritik Oranı.",
+        "VI": "Tỷ lệ bạo kích tăng 12%."
+      },
+      "affixId": "2100050"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When HP is below 70%, CRIT Rate increases by an additional 24%.",
+        "CHS": "生命值低于70%时，暴击率额外提升24%。",
+        "CHT": "生命值低於70%時，暴擊率額外提升24%。",
+        "DE": "Erhöht die KT bei weniger als 70 % LP zusätzlich um 24 %.",
+        "ES": "Cuando la Vida es inferior al 70%, aumenta la Prob. CRIT en un 24%.",
+        "FR": "Augmente le taux CRIT de 24 % lorsque les PV sont inférieurs à 70 %.",
+        "ID": "Saat HP kurang dari 70%, CRIT Rate meningkat 24%.",
+        "IT": "Quando i PS sono inferiori a un 70%, il tasso di CRIT aumenta di un ulteriore 24%.",
+        "JP": "HPが70%以下になると、会心率+24%。",
+        "KR": "HP 70% 미만 시 치명타 확률이 추가로 24% 증가한다",
+        "PT": "Quando a Vida estiver abaixo de 70%, a Taxa Crítica aumenta 24%.",
+        "RU": "Увеличивает шанс крит. попадания на 24% при HP ниже 70%.",
+        "TH": "เมื่อพลังชีวิตต่ำกว่า 70% อัตราคริจะเพิ่มขึ้นอีก 24%",
+        "TR": "Can %70'in altındayken Kritik Oranını ek %24 artırır.",
+        "VI": "Khi HP dưới 70%, tỷ lệ bạo kích tăng thêm 24%."
+      },
+      "affixId": "2100051"
+    }
+  ]
+}

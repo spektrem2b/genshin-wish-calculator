@@ -1,0 +1,69 @@
+{
+  "id": 15025,
+  "name": {
+    "EN": "Deepwood Memories",
+    "CHS": "深林的记忆",
+    "CHT": "深林的記憶",
+    "DE": "Erinnerungen des tiefen Waldes",
+    "ES": "Recuerdos del Bosque",
+    "FR": "Souvenir de forêt",
+    "ID": "Deepwood Memories",
+    "IT": "Memorie di Boscoprofondo",
+    "JP": "深林の記憶",
+    "KR": "숲의 기억",
+    "PT": "Memórias da Floresta",
+    "RU": "Воспоминания дремучего леса",
+    "TH": "Deepwood Memories",
+    "TR": "Derin Orman Hatıraları",
+    "VI": "Ký Ức Rừng Sâu"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15025/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Dendro DMG Bonus +15%.",
+        "CHS": "获得15%草元素伤害加成。",
+        "CHT": "獲得15%草元素傷害加成。",
+        "DE": "Erhöht den Dendro-Schaden um 15 %.",
+        "ES": "Bono de Daño Dendro +15%.",
+        "FR": "Confère un bonus de DGT Dendro de 15 %.",
+        "ID": "Dendro DMG Bonus +15%.",
+        "IT": "Bonus DAN da Dendro +15%.",
+        "JP": "草元素ダメージ+15%。",
+        "KR": "풀 원소 피해 보너스+15%",
+        "PT": "Bônus de Dano Dendro +15%",
+        "RU": "Даёт 15% бонус Дендро урона.",
+        "TH": "ได้รับโบนัสความเสียหายไม้ 15%",
+        "TR": "+%15 Doğa Hasarı Bonusu.",
+        "VI": "Nhận 15% buff sát thương nguyên tố Thảo."
+      },
+      "affixId": "2150250"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.",
+        "CHS": "元素战技或元素爆发命中敌人后，使命中目标的草元素抗性降低30%，持续8秒。装备者处于队伍后台时，依然能触发该效果。",
+        "CHT": "元素戰技或元素爆發命中敵人後，使命中目標的草元素抗性降低30%，持續8秒。裝備者處於隊伍後臺時，依然能觸發該效果。",
+        "DE": "Verringert nach Treffern mit der Elementarfähigkeit oder Spezialfähigkeit den Dendro-WDS des Ziels 8 s lang um 30 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv in der Truppe ist.",
+        "ES": "Tras golpear a un enemigo con una Habilidad Elemental o Definitiva, la RES Dendro de dicho enemigo se reduce en un 30% durante 8 s. Este efecto se puede activar incluso cuando el personaje que lleva este conjunto equipado está en tu equipo pero no en uso.",
+        "FR": "Après qu'une compétence ou un déchaînement élémentaires a touché un ennemi, sa RÉS Dendro diminue de 30 % pendant 8 s. Cet effet peut être déclenché même si le personnage équipé de l'artéfact fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Elemental Skill atau Elemental Burst mengenai musuh, Dendro RES dari target yang terkena akan berkurang 30% selama 8 detik. Efek ini tetap dapat terpicu meskipun penggunanya ada dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Se gli avversari vengono colpiti dalle abilità elementali o dai Tripudi elementali, la loro RES a Dendro sarà ridotta di un 30% per 8 s. Quest'effetto si applica anche se il personaggio che equipaggia questo set non è in campo.",
+        "JP": "元素スキルまたは元素爆発が敵に命中すると、その敵の草元素耐性-30%、継続時間8秒。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소전투 스킬 또는 원소폭발 공격에 명중된 적은 풀 원소 내성이 30% 감소한다. 지속 시간: 8초. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다",
+        "PT": "Depois que as Habilidades Elementais ou Supremos acertam os oponentes, a RES Dendro dos alvos serão reduzidas em 30% por 8s. Esse efeito pode ser desencadeado mesmo se o personagem equipando este conjunto não estiver em campo.",
+        "RU": "Попадание элементальным навыком или взрывом стихии снижает Дендро сопротивление врага на 30% на 8 сек. Этот эффект срабатывает, даже если экипированный этими артефактами персонаж не на поле боя.",
+        "TH": "หลังจากที่สกิลธาตุหรือท่าไม้ตายถูกศัตรู ความต้านทานไม้ของเป้าหมายที่ถูกโจมตีจะลดลง 30% เป็นเวลา 8 วินาที โดยที่เอฟเฟกต์นี้ จะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Element Becerileri veya Patlamaları düşmana isabet ettiğinde, 8 saniyeliğine hedefin Doğa Direnci %30 azalır. Bu etki, karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ sau khi đánh trúng kẻ địch, Kháng Nguyên Tố Thảo của mục tiêu sẽ giảm 30%, duy trì 8s. Nhân vật trang bị khi không ra trận cũng sẽ kích hoạt hiệu ứng."
+      },
+      "affixId": "2150251"
+    }
+  ]
+}

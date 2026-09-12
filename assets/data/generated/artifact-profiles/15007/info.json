@@ -1,0 +1,69 @@
+{
+  "id": 15007,
+  "name": {
+    "EN": "Noblesse Oblige",
+    "CHS": "昔日宗室之仪",
+    "CHT": "昔日宗室之儀",
+    "DE": "Altes Hofritual",
+    "ES": "Ritual Antiguo de la Nobleza",
+    "FR": "Ancien rituel royal",
+    "ID": "Noblesse Oblige",
+    "IT": "Noblesse oblige",
+    "JP": "旧貴族のしつけ",
+    "KR": "옛 왕실의 의식",
+    "PT": "Antigo Ritual Real",
+    "RU": "Церемония древней знати",
+    "TH": "Noblesse Oblige",
+    "TR": "Asil Minnettarlık",
+    "VI": "Nghi Thức Tông Thất Cổ"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15007/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Elemental Burst DMG +20%",
+        "CHS": "元素爆发造成的伤害提升20%。",
+        "CHT": "元素爆發造成的傷害提升20%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 20 %.",
+        "ES": "Daño de Habilidad Definitiva +20%.",
+        "FR": "Augmente les DGT infligés par le déchaînement élémentaire de 20 %.",
+        "ID": "Meningkatkan 20% DMG Elemental Burst.",
+        "IT": "DAN da Tripudio elementale +20%.",
+        "JP": "元素爆発のダメージ+20%。",
+        "KR": "원소폭발로 주는 피해+20%",
+        "PT": "Dano do Supremo +20%",
+        "RU": "Увеличивает урон взрыва стихии на 20%.",
+        "TH": "ความเสียหายของท่าไม้ตายเพิ่มขึ้น 20%",
+        "TR": "+%20 Element Patlaması Hasarı.",
+        "VI": "Sát thương Kỹ Năng Nộ tạo thành tăng 20%."
+      },
+      "affixId": "2150070"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.",
+        "CHS": "施放元素爆发后，队伍中所有角色攻击力提升20%，持续12秒。该效果不可叠加。",
+        "CHT": "施放元素爆發後，隊伍中所有角色攻擊力提升20%，持續12秒。該效果不可疊加。",
+        "DE": "Erhöht den ANG aller Truppenmitglieder nach Anwendung von Spezialfähigkeiten 12 s lang um 20 %, nicht stapelbar.",
+        "ES": "Después de lanzar una Habilidad Definitiva, aumenta el ATQ de todos los miembros del equipo en un 20% durante 12 s. Este efecto no puede acumularse.",
+        "FR": "Augmente l'ATQ de tous les personnages de l'équipe de 20 % pendant 12 s après un déchaînement élémentaire. Cet effet est non cumulable.",
+        "ID": "Setelah melancarkan Elemental Burst, meningkatkan 20% ATK semua anggota party selama 12 detik. Efek ini tidak dapat ditumpuk.",
+        "IT": "#L'uso di un Tripudio elementale aumenta di un 20% l'ATT di tutti i membri del gruppo per 12 s. Non cumulabile.",
+        "JP": "元素爆発を発動すると、チーム全員の攻撃力+20%、継続時間12秒、重ねがけ不可。",
+        "KR": "원소폭발 발동 후 파티 내 모든 캐릭터의 공격력이 20% 증가한다. 지속 시간: 12초. 해당 효과는 중첩되지 않는다",
+        "PT": "Usar o Supremo aumenta o ATQ de todos os membros da equipe em 20% por 12s. Este efeito não pode ser acumulado.",
+        "RU": "Активация взрыва стихии увеличивает силу атаки всех членов отряда на 20% в течение 12 сек. Эффект не складывается.",
+        "TH": "หลังจากใช้ท่าไม้ตาย เพิ่มพลังโจมตีของตัวละครทั้งหมดในทีม 20% เป็นเวลา 12 วิ โดยเอฟเฟกต์นี้จะไม่สามารถซ้อนทับได้",
+        "TR": "Bir Element Patlaması kullanıldığında tüm grup üyelerinin 12 saniyeliğine Saldırısı %20 artar. Bu etki birikemez.",
+        "VI": "Sau khi thi triển kỹ năng nộ, tấn công cả đội tăng 20%, kéo dài 12s, hiệu quả này không cộng dồn."
+      },
+      "affixId": "2150071"
+    }
+  ]
+}

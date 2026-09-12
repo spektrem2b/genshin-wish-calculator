@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Justice",
+    "CHS": "「正义」",
+    "CHT": "「正義」",
+    "DE": "„Gerechtigkeit“",
+    "ES": "Justicia",
+    "FR": "Justice",
+    "ID": "Justice",
+    "IT": "Giustizia",
+    "JP": "「正義」",
+    "KR": "「정의」",
+    "PT": "Justiça",
+    "RU": "Справедливость",
+    "TH": "Justice",
+    "TR": "Adalet",
+    "VI": "Chính Nghĩa"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases DMG dealt by Normal and Charged Attacks by 20%. Additionally, regenerates 60% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+        "CHS": "普通攻击与重击的造成的伤害提升20%；此外，普通攻击与重击暴击时，回复等同于攻击力60%的生命值。该效果每5秒至多发动一次。",
+        "CHT": "普通攻擊與重擊的造成的傷害提升20%；此外，普通攻擊與重擊暴擊時，回復等同於攻擊力60%的生命值。該效果每5秒至多發動一次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 20 %. Stellt bei KT von Standardangriffen und heftigen Schlägen LP in Höhe von 60 % ANG wieder her. 5 s Abklingzeit.",
+        "ES": "Aumenta el daño de Ataque Normal y Cargado en un 20%. Además, al asestar un golpe crítico con Ataque Normal o Cargado, recuperas Vida equivalente al 60% del ATQ. Este efecto puede activarse una vez cada 5 s.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 20 % et restaure 60 % de l'ATQ sous forme de PV en cas de coup CRIT. Cet effet peut être déclenché une fois toutes les 5 s.",
+        "ID": "Meningkatkan 20% DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak 60% dari ATK. Dapat terpicu setiap 5 detik.",
+        "IT": "#Aumenta i DAN inflitti da attacchi normali e caricati di un 20%. Inoltre, rigenera PS pari a un 60% dell'ATT quando gli attacchi normali e caricati mettono a segno un colpo CRIT. Quest'effetto si può verificare una volta ogni 5 s.",
+        "JP": "通常攻撃と重撃ダメージ+20%。さらに通常攻撃または重撃が会心時、攻撃力の60%分のHPを回復する。5秒に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격으로 주는 피해가 20% 증가한다. 또한 일반 공격과 강공격이 치명타 시 공격력의 60%에 해당하는 HP를 회복한다. 해당 효과는 5초마다 1번 발동한다",
+        "PT": "Aumenta o dano causado pelos Ataques Normais e Carregados em 20%, regenera 60% do ATQ como Vida quando o Ataque Normal ou Ataque Carregado atingir Crítico. Este efeito pode ser ativado uma vez a cada 5s.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 20%. Крит. попадания обычной и заряженной атакой восстанавливают HP, равное 60% от силы атаки. Может возникнуть раз в 5 сек.",
+        "TH": "การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 20%; นอกจากนี้เมื่อการโจมตีปกติและชาร์จโจมตีเกิดคริติคอล จะคืนพลังชีวิตให้ในปริมาณเท่ากับ 60% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 5 วินาที",
+        "TR": "Normal ve Yüklü Saldırılarla verilen Hasarı %20 artırır. Ayrıca Normal ve Yüklü Saldırılar bir Kritik Vuruş yaptığında Saldırının %60 kadarını Can olarak yeniler. Bu etki 5 saniyede bir uygulanabilir.",
+        "VI": "Tấn công thường và sát thương trọng kích tăng 20%, ngoài ra khi tấn công thường và bạo kích trọng kích sẽ hồi HP bằng 60% tấn công. Hiệu quả này mỗi 5s thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases DMG dealt by Normal and Charged Attacks by 25%. Additionally, regenerates 70% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+        "CHS": "普通攻击与重击的造成的伤害提升25%；此外，普通攻击与重击暴击时，回复等同于攻击力70%的生命值。该效果每5秒至多发动一次。",
+        "CHT": "普通攻擊與重擊的造成的傷害提升25%；此外，普通攻擊與重擊暴擊時，回復等同於攻擊力70%的生命值。該效果每5秒至多發動一次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 25 %. Stellt bei KT von Standardangriffen und heftigen Schlägen LP in Höhe von 70 % ANG wieder her. 5 s Abklingzeit.",
+        "ES": "Aumenta el daño de Ataque Normal y Cargado en un 25%. Además, al asestar un golpe crítico con Ataque Normal o Cargado, recuperas Vida equivalente al 70% del ATQ. Este efecto puede activarse una vez cada 5 s.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 25 % et restaure 70 % de l'ATQ sous forme de PV en cas de coup CRIT. Cet effet peut être déclenché une fois toutes les 5 s.",
+        "ID": "Meningkatkan 25% DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak 70% dari ATK. Dapat terpicu setiap 5 detik.",
+        "IT": "#Aumenta i DAN inflitti da attacchi normali e caricati di un 25%. Inoltre, rigenera PS pari a un 70% dell'ATT quando gli attacchi normali e caricati mettono a segno un colpo CRIT. Quest'effetto si può verificare una volta ogni 5 s.",
+        "JP": "通常攻撃と重撃ダメージ+25%。さらに通常攻撃または重撃が会心時、攻撃力の70%分のHPを回復する。5秒に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격으로 주는 피해가 25% 증가한다. 또한 일반 공격과 강공격이 치명타 시 공격력의 70%에 해당하는 HP를 회복한다. 해당 효과는 5초마다 1번 발동한다",
+        "PT": "Aumenta o dano causado pelos Ataques Normais e Carregados em 25%, regenera 70% do ATQ como Vida quando o Ataque Normal ou Ataque Carregado atingir Crítico. Este efeito pode ser ativado uma vez a cada 5s.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 25%. Крит. попадания обычной и заряженной атакой восстанавливают HP, равное 70% от силы атаки. Может возникнуть раз в 5 сек.",
+        "TH": "การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 25%; นอกจากนี้เมื่อการโจมตีปกติและชาร์จโจมตีเกิดคริติคอล จะคืนพลังชีวิตให้ในปริมาณเท่ากับ 70% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 5 วินาที",
+        "TR": "Normal ve Yüklü Saldırılarla verilen Hasarı %25 artırır. Ayrıca Normal ve Yüklü Saldırılar bir Kritik Vuruş yaptığında Saldırının %70 kadarını Can olarak yeniler. Bu etki 5 saniyede bir uygulanabilir.",
+        "VI": "Tấn công thường và sát thương trọng kích tăng 25%, ngoài ra khi tấn công thường và bạo kích trọng kích sẽ hồi HP bằng 70% tấn công. Hiệu quả này mỗi 5s thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases DMG dealt by Normal and Charged Attacks by 30%. Additionally, regenerates 80% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+        "CHS": "普通攻击与重击的造成的伤害提升30%；此外，普通攻击与重击暴击时，回复等同于攻击力80%的生命值。该效果每5秒至多发动一次。",
+        "CHT": "普通攻擊與重擊的造成的傷害提升30%；此外，普通攻擊與重擊暴擊時，回復等同於攻擊力80%的生命值。該效果每5秒至多發動一次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 30 %. Stellt bei KT von Standardangriffen und heftigen Schlägen LP in Höhe von 80 % ANG wieder her. 5 s Abklingzeit.",
+        "ES": "Aumenta el daño de Ataque Normal y Cargado en un 30%. Además, al asestar un golpe crítico con Ataque Normal o Cargado, recuperas Vida equivalente al 80% del ATQ. Este efecto puede activarse una vez cada 5 s.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 30 % et restaure 80 % de l'ATQ en PV en cas de coup CRIT. Cet effet peut être déclenché une fois toutes les 5 s.",
+        "ID": "Meningkatkan 30% DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak 80% dari ATK. Dapat terpicu setiap 5 detik.",
+        "IT": "#Aumenta i DAN inflitti da attacchi normali e caricati di un 30%. Inoltre, rigenera PS pari a un 80% dell'ATT quando gli attacchi normali e caricati mettono a segno un colpo CRIT. Quest'effetto si può verificare una volta ogni 5 s.",
+        "JP": "通常攻撃と重撃ダメージ+30%。さらに通常攻撃または重撃が会心時、攻撃力の80%分のHPを回復する。5秒に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격으로 주는 피해가 30% 증가한다. 또한 일반 공격과 강공격이 치명타 시 공격력의 80%에 해당하는 HP를 회복한다. 해당 효과는 5초마다 1번 발동한다",
+        "PT": "Aumenta o dano causado pelos Ataques Normais e Carregados em 30%, regenera 80% do ATQ como Vida quando o Ataque Normal ou Ataque Carregado atingir Crítico. Este efeito pode ser ativado uma vez a cada 5s.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 30%. Крит. попадания обычной и заряженной атакой восстанавливают HP, равное 80% от силы атаки. Может возникнуть раз в 5 сек.",
+        "TH": "การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 30%; นอกจากนี้เมื่อการโจมตีปกติและชาร์จโจมตีเกิดคริติคอล จะคืนพลังชีวิตให้ในปริมาณเท่ากับ 80% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 5 วินาที",
+        "TR": "Normal ve Yüklü Saldırılarla verilen Hasarı %30 artırır. Ayrıca Normal ve Yüklü Saldırılar bir Kritik Vuruş yaptığında Saldırının %80 kadarını Can olarak yeniler. Bu etki 5 saniyede bir uygulanabilir.",
+        "VI": "Sát thương tấn công thường và trọng kích gây ra tăng 30%, ngoài ra khi tấn công thường và trọng kích bạo kích sẽ hồi HP bằng 80% tấn công. Hiệu quả này mỗi 5s thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases DMG dealt by Normal and Charged Attacks by 35%. Additionally, regenerates 90% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+        "CHS": "普通攻击与重击的造成的伤害提升35%；此外，普通攻击与重击暴击时，回复等同于攻击力90%的生命值。该效果每5秒至多发动一次。",
+        "CHT": "普通攻擊與重擊的造成的傷害提升35%；此外，普通攻擊與重擊暴擊時，回復等同於攻擊力90%的生命值。該效果每5秒至多發動一次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 35 %. Stellt bei KT von Standardangriffen und heftigen Schlägen LP in Höhe von 90 % ANG wieder her. 5 s Abklingzeit.",
+        "ES": "Aumenta el daño de Ataque Normal y Cargado en un 35%. Además, al asestar un golpe crítico con Ataque Normal o Cargado, recuperas Vida equivalente al 90% del ATQ. Este efecto puede activarse una vez cada 5 s.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 35 % et restaure 90 % de l'ATQ sous forme de PV en cas de coup CRIT. Cet effet peut être déclenché une fois toutes les 5 s.",
+        "ID": "Meningkatkan 35% DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak 90% dari ATK. Dapat terpicu setiap 5 detik.",
+        "IT": "#Aumenta i DAN inflitti da attacchi normali e caricati di un 35%. Inoltre, rigenera PS pari a un 90% dell'ATT quando gli attacchi normali e caricati mettono a segno un colpo CRIT. Quest'effetto si può verificare una volta ogni 5 s.",
+        "JP": "通常攻撃と重撃ダメージ+35%。さらに通常攻撃または重撃が会心時、攻撃力の90%分のHPを回復する。5秒に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격으로 주는 피해가 35% 증가한다. 또한 일반 공격과 강공격이 치명타 시 공격력의 90%에 해당하는 HP를 회복한다. 해당 효과는 5초마다 1번 발동한다",
+        "PT": "Aumenta o dano causado pelos Ataques Normais e Carregados em 35%, regenera 90% do ATQ como Vida quando o Ataque Normal ou Ataque Carregado atingir Crítico. Este efeito pode ser ativado uma vez a cada 5s.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 35%. Крит. попадания обычной и заряженной атакой восстанавливают HP, равное 90% от силы атаки. Может возникнуть раз в 5 сек.",
+        "TH": "การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 35%; นอกจากนี้เมื่อการโจมตีปกติและชาร์จโจมตีเกิดคริติคอล จะคืนพลังชีวิตให้ในปริมาณเท่ากับ 90% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 5 วินาที",
+        "TR": "Normal ve Yüklü Saldırılarla verilen Hasarı %35 artırır. Ayrıca Normal ve Yüklü Saldırılar bir Kritik Vuruş yaptığında Saldırının %90 kadarını Can olarak yeniler. Bu etki 5 saniyede bir uygulanabilir.",
+        "VI": "Tấn công thường và sát thương trọng kích tăng 35%, ngoài ra khi tấn công thường và bạo kích trọng kích sẽ hồi HP bằng 90% tấn công. Hiệu quả này mỗi 5s thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases DMG dealt by Normal and Charged Attacks by 40%. Additionally, regenerates 100% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+        "CHS": "普通攻击与重击的造成的伤害提升40%；此外，普通攻击与重击暴击时，回复等同于攻击力100%的生命值。该效果每5秒至多发动一次。",
+        "CHT": "普通攻擊與重擊的造成的傷害提升40%；此外，普通攻擊與重擊暴擊時，回復等同於攻擊力100%的生命值。該效果每5秒至多發動一次。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 40 %. Stellt bei KT von Standardangriffen und heftigen Schlägen LP in Höhe von 100 % ANG wieder her. 5 s Abklingzeit.",
+        "ES": "Aumenta el daño de Ataque Normal y Cargado en un 40%. Además, al asestar un golpe crítico con Ataque Normal o Cargado, recuperas Vida equivalente al 100% del ATQ. Este efecto puede activarse una vez cada 5 s.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 40 % et restaure 100 % de l'ATQ sous forme de PV en cas de coup CRIT. Cet effet peut être déclenché une fois toutes les 5 s.",
+        "ID": "Meningkatkan 40% DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak 100% dari ATK. Dapat terpicu setiap 5 detik.",
+        "IT": "#Aumenta i DAN inflitti da attacchi normali e caricati di un 40%. Inoltre, rigenera PS pari a un 100% dell'ATT quando gli attacchi normali e caricati mettono a segno un colpo CRIT. Quest'effetto si può verificare una volta ogni 5 s.",
+        "JP": "通常攻撃と重撃ダメージ+40%。さらに通常攻撃または重撃が会心時、攻撃力の100%分のHPを回復する。5秒に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격으로 주는 피해가 40% 증가한다. 또한 일반 공격과 강공격이 치명타 시 공격력의 100%에 해당하는 HP를 회복한다. 해당 효과는 5초마다 1번 발동한다",
+        "PT": "Aumenta o dano causado pelos Ataques Normais e Carregados em 40%, regenera 100% do ATQ como Vida quando o Ataque Normal ou Ataque Carregado atingir Crítico. Este efeito pode ser ativado uma vez a cada 5s.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 40%. Крит. попадания обычной и заряженной атакой восстанавливают HP, равное 100% от силы атаки. Может возникнуть раз в 5 сек.",
+        "TH": "การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 40%; นอกจากนี้เมื่อการโจมตีปกติและชาร์จโจมตีเกิดคริติคอล จะคืนพลังชีวิตให้ในปริมาณเท่ากับ 100% ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 5 วินาที",
+        "TR": "Normal ve Yüklü Saldırılarla verilen Hasarı %40 artırır. Ayrıca Normal ve Yüklü Saldırılar bir Kritik Vuruş yaptığında Saldırının %100 kadarını Can olarak yeniler. Bu etki 5 saniyede bir uygulanabilir.",
+        "VI": "Tấn công thường và sát thương trọng kích tăng 40%, ngoài ra khi tấn công thường và bạo kích trọng kích sẽ hồi HP bằng 100% tấn công. Hiệu quả này mỗi 5s thi triển 1 lần."
+      }
+    }
+  ]
+}

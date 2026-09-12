@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Infusion Scroll",
+    "CHS": "注能之卷",
+    "CHT": "注能之卷",
+    "DE": "Energieschubspule",
+    "ES": "Pergamino de infusión",
+    "FR": "Rouleau énergisant",
+    "ID": "Infusion Scroll",
+    "IT": "Pergamena energizzante",
+    "JP": "注入の巻",
+    "KR": "에너지 주입 두루마리",
+    "PT": "Pergaminho Infundido",
+    "RU": "Заряженный свиток",
+    "TH": "Infusion Scroll",
+    "TR": "Tesirli Parşömen",
+    "VI": "Sách Năng Lượng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Triggering an Elemental reaction grants a 8% Elemental DMG Bonus for 10s. Max 2 stacks.",
+        "CHS": "触发元素反应后的10秒内，获得8%元素伤害加成，该效果最多可以叠加2层。",
+        "CHT": "觸發元素反應後的10秒內，獲得8%元素傷害加成，該效果最多可以疊加兩層。",
+        "DE": "Erhöht den Elementar-SCH beim Auslösen von Elementarreaktionen 10 s lang um 8 %. 2-fach stapelbar.",
+        "ES": "Causar una Reacción Elemental otorga un 8% de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+        "FR": "Déclencher une réaction élémentaire confère un bonus de DGT élémentaires de 8 % pendant 10 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Memicu Elemental reaction akan meningkatkan Elemental DMG sebanyak 8% selama 10 detik. Efek ini dapat ditumpuk maksimum 2 lapis.",
+        "IT": "#Innescare una reazione elementale garantisce un 8% di bonus DAN elementali per 10 s. Cumulabile 2 volte.",
+        "JP": "元素反応を起こした後、元素ダメージ+8%、継続時間10秒、最大2重まで。",
+        "KR": "원소 반응 후 10초 동안 원소 피해 보너스를 8% 획득한다. 최대 중첩수: 2회",
+        "PT": "Ativar uma reação Elemental concede um adicional de 8% de Dano Elemental por 10s, podendo acumular até 2 vezes.",
+        "RU": "В течение 10 сек. после вызова элементальной реакции даёт 8% бонус элементального урона. Может складываться до 2 раз.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ จะได้รับโบนัสความเสียหายธาตุ 8% ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonra 10 saniyeliğine %8 Element Hasarı Bonusu kazanılır. 2 kademeye kadar birikir.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng Nguyên Tố, nhận 8% buff sát thương Nguyên Tố, cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Triggering an Elemental reaction grants a 10% Elemental DMG Bonus for 10s. Max 2 stacks.",
+        "CHS": "触发元素反应后的10秒内，获得10%元素伤害加成，该效果最多可以叠加2层。",
+        "CHT": "觸發元素反應後的10秒內，獲得10%元素傷害加成，該效果最多可以疊加兩層。",
+        "DE": "Erhöht den Elementar-SCH beim Auslösen von Elementareffekten 10 s lang um 10 %. 2-fach stapelbar.",
+        "ES": "Causar una Reacción Elemental otorga un 10% de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+        "FR": "Déclencher une réaction élémentaire confère un bonus de DGT élémentaires de 10 % pendant 10 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Memicu Reaksi Elemental akan meningkatkan Elemental DMG sebanyak 10% selama 10 detik. Efek ini dapat ditumpuk maksimum 2 lapis.",
+        "IT": "#Innescare una reazione elementale garantisce un 10% di bonus DAN elementali per 10 s. Cumulabile 2 volte.",
+        "JP": "元素反応を起こした後、元素ダメージ+10%、継続時間10秒、最大2重まで。",
+        "KR": "원소 반응 후 10초 동안 원소 피해 보너스를 10% 획득한다. 최대 중첩수: 2회",
+        "PT": "Ativar uma reação Elemental, concede um adicional de 10% de Dano Elemental por 10s, podendo acumular até 2 vezes.",
+        "RU": "В течение 10 сек. после вызова элементальной реакции даёт 10% бонус элементального урона. Может складываться до 2 раз.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ จะได้รับโบนัสความเสียหายธาตุ 10% ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonra 10 saniyeliğine %10 Element Hasarı Bonusu kazanılır. 2 kademeye kadar birikir.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng nguyên tố, nhận 10% buff sát thương nguyên tố, cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Triggering an Elemental reaction grants a 12% Elemental DMG Bonus for 10s. Max 2 stacks.",
+        "CHS": "触发元素反应后的10秒内，获得12%元素伤害加成，该效果最多可以叠加2层。",
+        "CHT": "觸發元素反應後的10秒內，獲得12%元素傷害加成，該效果最多可以疊加兩層。",
+        "DE": "Erhöht den Elementar-SCH beim Auslösen von Elementarreaktionen 10 s lang um 12 %. 2-fach stapelbar.",
+        "ES": "Causar una Reacción Elemental otorga un 12% de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+        "FR": "Déclencher une réaction élémentaire confère un bonus de DGT élémentaires de 12 % pendant 10 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Memicu Reaksi Elemental akan meningkatkan Elemental DMG sebanyak 12% selama 10 detik. Efek ini dapat ditumpuk maksimum 2 lapis.",
+        "IT": "#Innescare una reazione elementale garantisce un 12% di bonus DAN elementali per 10 s. Cumulabile 2 volte.",
+        "JP": "元素反応を起こした後、元素ダメージ+12%、継続時間10秒、最大2重まで。",
+        "KR": "원소 반응 후 10초 동안 원소 피해 보너스를 12% 획득한다. 최대 중첩수: 2회",
+        "PT": "Ativar uma reação Elemental concede um adicional de 12% de Dano Elemental por 10s, podendo acumular até 2 vezes.",
+        "RU": "В течение 10 сек. после вызова элементальной реакции даёт 12% бонус элементального урона. Может складываться до 2 раз.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ จะได้รับโบนัสความเสียหายธาตุ 12% ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonra 10 saniyeliğine %12 Element Hasarı Bonusu kazanılır. 2 kademeye kadar birikir.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng Nguyên Tố, nhận 12% buff sát thương Nguyên Tố, cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Triggering an Elemental reaction grants a 14% Elemental DMG Bonus for 10s. Max 2 stacks.",
+        "CHS": "触发元素反应后的10秒内，获得14%元素伤害加成，该效果最多可以叠加2层。",
+        "CHT": "觸發元素反應後的10秒內，獲得14%元素傷害加成，該效果最多可以疊加兩層。",
+        "DE": "Erhöht den Elementar-SCH beim Auslösen von Elementarreaktionen 10 s lang um 14 %. 2-fach stapelbar.",
+        "ES": "Causar una Reacción Elemental otorga un 14% de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+        "FR": "Déclencher une réaction élémentaire confère un bonus de DGT élémentaires de 14 % pendant 10 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Memicu Reaksi Elemental akan meningkatkan Elemental DMG sebanyak 14% selama 10 detik. Efek ini dapat ditumpuk maksimum 2 lapis.",
+        "IT": "#Innescare una reazione elementale garantisce un 14% di bonus DAN elementali per 10 s. Cumulabile 2 volte.",
+        "JP": "元素反応を起こした後、元素ダメージ+14%、継続時間10秒、最大2重まで。",
+        "KR": "원소 반응 후 10초 동안 원소 피해 보너스를 14% 획득한다. 최대 중첩수: 2회",
+        "PT": "Ativar uma reação Elemental concede um adicional de 14% de Dano Elemental por 10s, podendo acumular até 2 vezes.",
+        "RU": "В течение 10 сек. после вызова элементальной реакции даёт 14% бонус элементального урона. Может складываться до 2 раз.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ จะได้รับโบนัสความเสียหายธาตุ 14% ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonra 10 saniyeliğine %14 Element Hasarı Bonusu kazanılır. 2 kademeye kadar birikir.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng Nguyên Tố, nhận 14% buff sát thương Nguyên Tố, cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Triggering an Elemental reaction grants a 16% Elemental DMG Bonus for 10s. Max 2 stacks.",
+        "CHS": "触发元素反应后的10秒内，获得16%元素伤害加成，该效果最多可以叠加2层。",
+        "CHT": "觸發元素反應後的10秒內，獲得16%元素傷害加成，該效果最多可以疊加兩層。",
+        "DE": "Erhöht den Elementar-SCH beim Auslösen von Elementarreaktionen 10 s lang um 16 %. 2-fach stapelbar.",
+        "ES": "Causar una Reacción Elemental otorga un 16% de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+        "FR": "Déclencher une réaction élémentaire confère un bonus de DGT élémentaires de 16 % pendant 10 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Memicu Reaksi Elemental akan meningkatkan Elemental DMG sebanyak 16% selama 10 detik. Efek ini dapat ditumpuk maksimum 2 lapis.",
+        "IT": "#Innescare una reazione elementale garantisce un 16% di bonus DAN elementali per 10 s. Cumulabile 2 volte.",
+        "JP": "元素反応を起こした後、元素ダメージ+16%、継続時間10秒、最大2重まで。",
+        "KR": "원소 반응 후 10초 동안 원소 피해 보너스를 16% 획득한다. 최대 중첩수: 2회",
+        "PT": "Ativar uma reação Elemental concede um adicional de 16% de Dano Elemental por 10s, podendo acumular até 2 vezes.",
+        "RU": "В течение 10 сек. после вызова элементальной реакции даёт 16% бонус элементального урона. Может складываться до 2 раз.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ จะได้รับโบนัสความเสียหายธาตุ 16% ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonra 10 saniyeliğine %16 Element Hasarı Bonusu kazanılır. 2 kademeye kadar birikir.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng Nguyên Tố, nhận 16% buff sát thương Nguyên Tố, cộng dồn 2 tầng."
+      }
+    }
+  ]
+}

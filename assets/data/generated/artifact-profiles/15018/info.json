@@ -1,0 +1,69 @@
+{
+  "id": 15018,
+  "name": {
+    "EN": "Pale Flame",
+    "CHS": "苍白之火",
+    "CHT": "蒼白之火",
+    "DE": "Fahle Flammen",
+    "ES": "Llamas Albinas",
+    "FR": "Flamme blême",
+    "ID": "Pale Flame",
+    "IT": "Fiamma fioca",
+    "JP": "蒼白の炎",
+    "KR": "창백의 화염",
+    "PT": "Chama Pálida",
+    "RU": "Бледный огонь",
+    "TH": "Pale Flame",
+    "TR": "Sönük Alev",
+    "VI": "Lửa Trắng Xám"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15018/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Physical DMG is increased by 25%.",
+        "CHS": "造成的物理伤害提高25%。",
+        "CHT": "造成的物理傷害提高25%。",
+        "DE": "Erhöht den verursachten physischen Schaden um 25 %.",
+        "ES": "Daño Físico +25%.",
+        "FR": "Augmente les DGT physiques de 25 %.",
+        "ID": "Meningkatkan 25% Physical DMG.",
+        "IT": "DAN fisici +25%.",
+        "JP": "物理ダメージ+25%。",
+        "KR": "주는 물리 피해+25%",
+        "PT": "Dano Físico causado +25%",
+        "RU": "Увеличивает физ. урон на 25%.",
+        "TH": "สร้างความเสียหายกายภาพ เพิ่มขึ้น 25%",
+        "TR": "Fiziksel Hasar %25 artar.",
+        "VI": "Sát thương vật lý tạo thành tăng 25%."
+      },
+      "affixId": "2150180"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
+        "CHS": "元素战技命中敌人后，攻击力提升9%。该效果持续7秒，至多叠加2层，每0.3秒至多触发一次。叠满2层时，2件套的效果提升100%。",
+        "CHT": "元素戰技命中敵人後，攻擊力提升9%。該效果持續7秒，至多疊加兩層，每0.3秒至多觸發一次。疊滿兩層時，2件套裝的效果提升100%。",
+        "DE": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 7 s lang um 9 %, 2-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Effekt des Sets mit 2 Teilen beim Erreichen des Limits von 2 Stapelungen um 100 %.",
+        "ES": "Al atacar a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 9% durante 7 s. Este efecto puede acumularse hasta 2 veces y activarse cada 0.3 s. Al alcanzar 2 acumulaciones, el efecto de dos piezas del conjunto aumenta en un 100%.",
+        "FR": "Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de 9 % pendant 7 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Une fois 2 cumuls atteints, l'effet du set de 2 pièces augmente de 100 %.",
+        "ID": "Saat Elemental Skill mengenai musuh, meningkatkan 9% ATK selama 7 detik. Efek ini dapat ditumpuk hingga 2 lapis dan dapat terpicu setiap 0,3 detik. Setelah menumpuk 2 lapis, efek dari Set 2 Bagian akan meningkat 100%.",
+        "IT": "#Quando un'abilità elementale colpisce un avversario, l'ATT aumenta di un 9% per 7 s. Cumulabile fino a 2 volte, si può attivare una volta ogni 0,3 s. Raggiunta la quantità massima cumulabile, l'effetto del set da 2 pezzi aumenta di un 100%.",
+        "JP": "元素スキルが敵に命中すると、攻撃力+9%。持続時間7秒、最大2重まで、0.3秒毎に1回のみ発動可能。2重まで重ねると、2セットの効果が2倍になる。",
+        "KR": "원소전투 스킬로 적을 명중하면 공격력이 9% 증가한다. 지속 시간: 7초, 최대 중첩수: 2회. 해당 효과는 0.3초마다 1회 발동되며, 2회 중첩 시 2세트의 효과가 100% 증가한다",
+        "PT": "Quando a Habilidade Elemental atinge um inimigo, o Ataque aumenta em 9% por 7s. Esse efeito acumula até 2 vezes e pode ser desencadeado uma vez a cada 0.3s. Quando se possui 2 acúmulos, o efeito do conjunto de 2 Artefatos é aumentado em 100%.",
+        "RU": "Когда элементальный навык попадает по врагам, атака увеличивается на 9% в течение 7 сек. Эффект может складываться до 2 раз и возникнуть не чаще 1 раза за 0,3 сек. На 2 уровне складывания эффект набора из 2 вещей увеличивается на 100%.",
+        "TH": "เมื่อสกิลธาตุโจมตีถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 9% โดยเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 7 วินาที และซ้อนทับกันได้มากสุด 2 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 0.3 วินาที เมื่อซ้อนทับครบ 2 ชั้นแล้ว เอฟเฟกต์ของเซ็ต 2 ชิ้น จะเพิ่มขึ้น 100%",
+        "TR": "Bir Element Becerisi bir düşmana isabet ettiğinde, 7 saniyeliğine Saldırı %9 artar. Bu etki 2 kademeye kadar birikir ve 0,3 saniyede bir tetiklenebilir. 2 kademeye ulaşıldığında, 2'li set etkisi %100 artar.",
+        "VI": "Sau khi kỹ năng nguyên tố đánh trúng kẻ địch, tấn công tăng 9%, kéo dài 7s, tối đa cộng dồn 2 tầng. Mỗi 0.3s tối đa kích hoạt 1 lần, sau khi tích đầy 2 tầng, hiệu quả bộ 2 món tăng 100%."
+      },
+      "affixId": "2150181"
+    }
+  ]
+}

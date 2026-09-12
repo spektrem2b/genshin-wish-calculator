@@ -1,0 +1,69 @@
+{
+  "id": 10001,
+  "name": {
+    "EN": "Resolution of Sojourner",
+    "CHS": "行者之心",
+    "CHT": "行者之心",
+    "DE": "Fernweh",
+    "ES": "Corazón del Viajero",
+    "FR": "Cœur du Voyageur",
+    "ID": "Resolution of Sojourner",
+    "IT": "Risoluzione del viandante",
+    "JP": "旅人の心",
+    "KR": "행자의 마음",
+    "PT": "Resolução de Sojourner",
+    "RU": "Решимость временщика",
+    "TH": "Resolution of Sojourner",
+    "TR": "Yolcunun Azmi",
+    "VI": "Trái Tim Hành Giả"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10001/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%.",
+        "RU": "Увеличивает силу атаки на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn công tăng 18%"
+      },
+      "affixId": "2100010"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases Charged Attack CRIT Rate by 30%.",
+        "CHS": "重击的暴击率提升30%。",
+        "CHT": "重擊的暴擊率提升30%。",
+        "DE": "Erhöht die KT heftiger Schläge um 30 %.",
+        "ES": "La Prob. CRIT de los Ataques Cargados aumenta en un 30%.",
+        "FR": "Augmente le taux CRIT des attaques chargées de 30 %.",
+        "ID": "Meningkatkan 30% CRIT Rate dari Charged Attack.",
+        "IT": "Aumenta il tasso di CRIT dell'attacco caricato di un 30%.",
+        "JP": "重撃の会心率+30%。",
+        "KR": "강공격의 치명타 확률+30%",
+        "PT": "Aumenta a Taxa Crítica do Ataque Carregado em 30%.",
+        "RU": "Увеличивает шанс крит. попадания заряженной атаки на 30%.",
+        "TH": "เพิ่มอัตราคริของ การชาร์จโจมตีขึ้น 30%",
+        "TR": "Yüklü Saldırı Kritik Oranını %30 artırır.",
+        "VI": "Tỷ lệ bạo kích của trọng kích tăng 30%"
+      },
+      "affixId": "2100011"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000059",
+  "name": {
+    "EN": "Shikanoin Heizou",
+    "CHS": "鹿野院平藏",
+    "CHT": "鹿野院平藏",
+    "DE": "Shikanoin Heizou",
+    "ES": "Shikanoin Heizou",
+    "FR": "Shikanoin Heizou",
+    "ID": "Shikanoin Heizou",
+    "IT": "Shikanoin Heizou",
+    "JP": "鹿野院平蔵",
+    "KR": "시카노인 헤이조",
+    "PT": "Shikanoin Heizou",
+    "RU": "Хэйдзо",
+    "TH": "Shikanoin Heizou",
+    "TR": "Shikanoin Heizou",
+    "VI": "Shikanoin Heizou"
+  },
+  "nameEn": "Shikanoin Heizou",
+  "element": "Anemo",
+  "weapon_type": "Catalyst",
+  "rarity": 4,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 7,
+    "day": 24
+  },
+  "release": "2022-07-12T21:00:00",
+  "icon": "generated/character-profiles/10000059/avatar.webp",
+  "fullWish": "generated/character-profiles/10000059/full_wish.webp",
+  "fullWishObjectPosition": "49.8% 19.9%",
+  "title": {
+    "EN": "Analytical Harmony",
+    "CHS": "心朝乂安",
+    "CHT": "心朝乂安",
+    "DE": "Mitfühlender Analytiker",
+    "ES": "El Detective de la Armonía",
+    "FR": "Harmonie analytique",
+    "ID": "Analytical Harmony",
+    "IT": "Armonia analitica",
+    "JP": "乂安を願う者",
+    "KR": "태평을 향한 마음",
+    "PT": "Mente Condizente",
+    "RU": "Невозмутимое спокойствие",
+    "TH": "สงบจิตผสานเชาวน์",
+    "TR": "Analitik Ahenk",
+    "VI": "Con Tim Giao Hòa"
+  },
+  "description": {
+    "EN": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+    "CHS": "天领奉行的天才少年侦探，直觉敏锐，心思玲珑。",
+    "CHT": "天領奉行的天才少年偵探，直覺敏銳，心思玲瓏。",
+    "DE": "Der begnadete junge Detektiv der Tenryou-Verwaltung, ausgestattet mit scharfem Instinkt und wachem Geist.",
+    "ES": "El joven y talentoso detective de la Comisión Tenryou. Intuitivo, sagaz y muy inteligente.",
+    "FR": "Un jeune détective prodige de la Commission administrative, aux sens aiguisés et aux pensées claires.",
+    "ID": "Seorang detektif jenius dari Tenryou Commission. Mempunyai intuisi yang kuat dan pemikiran yang tajam.",
+    "IT": "Un giovane investigatore prodigio della Commissione Tenryou dai sensi acuti e dalla mente chiara.",
+    "JP": "天領奉行の天才少年探偵。直感が鋭く、洞察力に優れている。",
+    "KR": "텐료 봉행의 천재 소년 탐정. 예민한 직감에 맑은 마음을 가지고 있다",
+    "PT": "Um jovem e talentoso detetive da Comissão Tenryou. Tem uma intuição astuta e aguçada.",
+    "RU": "Талантливый молодой детектив из комиссии Тэнрё. Отличается ясным умом и острым восприятием.",
+    "TH": "นักสืบหนุ่มอัจฉริยะของสำนัก Tenryou ผู้มาพร้อมกับสัญชาตญาณที่เฉียบแหลม และจิตใจที่งดงาม",
+    "TR": "Tenryou Heyetinden genç ve dahi bir dedektif. Hisleri oldukça kuvvetli, aklı başında biri.",
+    "VI": "Thám tử thiếu niên thiên tài của Hiệp Hội Tenryou, trực giác nhạy bén, tư duy sắc sảo."
+  },
+  "constellationName": {
+    "EN": "Cervus Minor",
+    "CHS": "幼鹿座",
+    "CHT": "幼鹿座",
+    "DE": "Cervus Minor",
+    "ES": "Cervus Minor",
+    "FR": "Cervus Minor",
+    "ID": "Cervus Minor",
+    "IT": "Cervus Minor",
+    "JP": "子鹿座",
+    "KR": "새끼사슴자리",
+    "PT": "Cervus Minor",
+    "RU": "Малый Олень",
+    "TH": "Cervus Minor",
+    "TR": "Küçük Geyik",
+    "VI": "Cung Ấu Lộc"
+  },
+  "native": {
+    "EN": "Tenryou Commission",
+    "CHS": "天领奉行",
+    "CHT": "天領奉行",
+    "DE": "Tenryou-Verwaltung",
+    "ES": "Comisión Tenryou",
+    "FR": "Commission admin.",
+    "ID": "Tenryou Commission",
+    "IT": "Commissione Tenryou",
+    "JP": "天領奉行",
+    "KR": "텐료 봉행",
+    "PT": "Comissão Tenryou",
+    "RU": "Комиссия Тэнрё",
+    "TH": "สำนัก Tenryou",
+    "TR": "Tenryou Heyeti",
+    "VI": "Hiệp Hội Tenryou"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kieran Regan"
+    },
+    {
+      "lang": "CHS",
+      "va": "林景"
+    },
+    {
+      "lang": "JP",
+      "va": "井口祐一"
+    },
+    {
+      "lang": "KR",
+      "va": "Jung Eui-jin"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_WIND_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 893.5552,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.87648,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 57.33945,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

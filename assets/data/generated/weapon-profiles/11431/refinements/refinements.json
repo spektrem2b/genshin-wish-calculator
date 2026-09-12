@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Smoke-and-Mirror Mystery",
+    "CHS": "镜与烟色的隐谜",
+    "CHT": "鏡與煙色的隱謎",
+    "DE": "Rätsel von Spiegel und Rauch",
+    "ES": "Enigma del espejo y el humo",
+    "FR": "Mystère d'écran de fumée",
+    "ID": "Smoke-and-Mirror Mystery",
+    "IT": "Mistero di fumo e specchi",
+    "JP": "鏡と煙色の謎",
+    "KR": "거울과 연기의 수수께끼",
+    "PT": "Mistério da Fumaça e do Espelho",
+    "RU": "Тайна дыма и зеркал",
+    "TH": "Smoke-and-Mirror Mystery",
+    "TR": "Gizemli Kandırmaca",
+    "VI": "Bí Ẩn Gương Và Khói"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Using an Elemental Skill increases DEF by 16% for 15s.",
+        "CHS": "施放元素战技时，防御力提升16%，持续15秒。",
+        "CHT": "施放元素戰技時，防禦力提升16%，持續15秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit die VTD 15 s lang um 16 %.",
+        "ES": "#Al usar la Habilidad Elemental, la DEF aumenta en un 16% durante 15 s.",
+        "FR": "Augmente la DÉF de 16 % pendant 15 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Melancarkan Elemental Skill, akan meningkatkan 16% DEF selama 15 detik.",
+        "IT": "#Usare un'abilità elementale aumenta la DIF di un 16% per 15 s.",
+        "JP": "元素スキル発動時、防御力+16%、継続時間15秒。",
+        "KR": "원소전투 스킬 발동 시, 방어력이 16% 증가한다. 지속 시간: 15초",
+        "PT": "Aumenta a DEF em 16% por 15s após utilizar a Habilidade Elemental.",
+        "RU": "Использование элементального навыка повышает защиту на 16% на 15 сек.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังป้องกันจะเพิ่มขึ้น 16% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Becerisi kullanmak 15 saniyeliğine Savunmayı %16 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, phòng ngự tăng 16% trong 15s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Using an Elemental Skill increases DEF by 20% for 15s.",
+        "CHS": "施放元素战技时，防御力提升20%，持续15秒。",
+        "CHT": "施放元素戰技時，防禦力提升20%，持續15秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit die VTD 15 s lang um 20 %.",
+        "ES": "#Al usar la Habilidad Elemental, la DEF aumenta en un 20% durante 15 s.",
+        "FR": "Augmente la DÉF de 20 % pendant 15 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Melancarkan Elemental Skill, akan meningkatkan 20% DEF selama 15 detik.",
+        "IT": "#Usare un'abilità elementale aumenta la DIF di un 20% per 15 s.",
+        "JP": "元素スキル発動時、防御力+20%、継続時間15秒。",
+        "KR": "원소전투 스킬 발동 시, 방어력이 20% 증가한다. 지속 시간: 15초",
+        "PT": "Aumenta a DEF deste personagem em 20% por 15s após utilizar a Habilidade Elemental.",
+        "RU": "Использование элементального навыка повышает защиту на 20% на 15 сек.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังป้องกันจะเพิ่มขึ้น 20% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Becerisi kullanmak 15 saniyeliğine Savunmayı %20 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, phòng ngự tăng 20% trong 15s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Using an Elemental Skill increases DEF by 24% for 15s.",
+        "CHS": "施放元素战技时，防御力提升24%，持续15秒。",
+        "CHT": "施放元素戰技時，防禦力提升24%，持續15秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit die VTD 15 s lang um 24 %.",
+        "ES": "#Al usar la Habilidad Elemental, la DEF aumenta en un 24% durante 15 s.",
+        "FR": "Augmente la DÉF de 24 % pendant 15 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Melancarkan Elemental Skill, akan meningkatkan 24% DEF selama 15 detik.",
+        "IT": "#Usare un'abilità elementale aumenta la DIF di un 24% per 15 s.",
+        "JP": "元素スキル発動時、防御力+24%、継続時間15秒。",
+        "KR": "원소전투 스킬 발동 시, 방어력이 24% 증가한다. 지속 시간: 15초",
+        "PT": "Aumenta a DEF em 24% por 15s após utilizar a Habilidade Elemental.",
+        "RU": "Использование элементального навыка повышает защиту на 24% на 15 сек.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังป้องกันจะเพิ่มขึ้น 24% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Becerisi kullanmak 15 saniyeliğine Savunmayı %24 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, phòng ngự tăng 24% trong 15s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Using an Elemental Skill increases DEF by 28% for 15s.",
+        "CHS": "施放元素战技时，防御力提升28%，持续15秒。",
+        "CHT": "施放元素戰技時，防禦力提升28%，持續15秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit die VTD 15 s lang um 28 %.",
+        "ES": "#Al usar la Habilidad Elemental, la DEF aumenta en un 28% durante 15 s.",
+        "FR": "Augmente la DÉF de 28 % pendant 15 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Melancarkan Elemental Skill, akan meningkatkan 28% DEF selama 15 detik.",
+        "IT": "#Usare un'abilità elementale aumenta la DIF di un 28% per 15 s.",
+        "JP": "元素スキル発動時、防御力+28%、継続時間15秒。",
+        "KR": "원소전투 스킬 발동 시, 방어력이 28% 증가한다. 지속 시간: 15초",
+        "PT": "Aumenta a DEF em 28% por 15s após utilizar a Habilidade Elemental.",
+        "RU": "Использование элементального навыка повышает защиту на 28% на 15 сек.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังป้องกันจะเพิ่มขึ้น 28% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Becerisi kullanmak 15 saniyeliğine Savunmayı %28 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, phòng ngự tăng 28% trong 15s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Using an Elemental Skill increases DEF by 32% for 15s.",
+        "CHS": "施放元素战技时，防御力提升32%，持续15秒。",
+        "CHT": "施放元素戰技時，防禦力提升32%，持續15秒。",
+        "DE": "#Erhöht beim Auslösen der Elementarfähigkeit die VTD 15 s lang um 32 %.",
+        "ES": "#Al usar la Habilidad Elemental, la DEF aumenta en un 32% durante 15 s.",
+        "FR": "Augmente la DÉF de 32 % pendant 15 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Melancarkan Elemental Skill, akan meningkatkan 32% DEF selama 15 detik.",
+        "IT": "#Usare un'abilità elementale aumenta la DIF di un 32% per 15 s.",
+        "JP": "元素スキル発動時、防御力+32%、継続時間15秒。",
+        "KR": "원소전투 스킬 발동 시, 방어력이 32% 증가한다. 지속 시간: 15초",
+        "PT": "Aumenta a DEF em 32% por 15s após utilizar a Habilidade Elemental.",
+        "RU": "Использование элементального навыка повышает защиту на 32% на 15 сек.",
+        "TH": "เมื่อปล่อยสกิลธาตุ พลังป้องกันจะเพิ่มขึ้น 32% เป็นเวลา 15 วินาที",
+        "TR": "Bir Element Becerisi kullanmak 15 saniyeliğine Savunmayı %32 artırır.",
+        "VI": "Khi thi triển Kỹ Năng Nguyên Tố, phòng ngự tăng 32% trong 15s."
+      }
+    }
+  ]
+}

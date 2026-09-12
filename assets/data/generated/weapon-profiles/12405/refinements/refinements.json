@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Bane of Storm and Tide",
+    "CHS": "止水息雷",
+    "CHT": "止水息雷",
+    "DE": "Bewährtheit von Wasser und Blitz",
+    "ES": "Perdición de la tormenta y la marea",
+    "FR": "Fléau d'eau et de foudre",
+    "ID": "Bane of Storm and Tide",
+    "IT": "Flagello della tempesta e delle maree",
+    "JP": "水と雷の破滅",
+    "KR": "첨벙첨벙 찌릿찌릿",
+    "PT": "Destruição de Tempestade e Maré",
+    "RU": "Погибель бури и волны",
+    "TH": "Bane of Storm and Tide",
+    "TR": "Fırtına ve Dalganın Laneti",
+    "VI": "Ngưng Thủy Diệt Lôi"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Electro by 20%.",
+        "CHS": "对处于水元素或雷元素影响下的敌人，造成的伤害提高20%。",
+        "CHT": "對處於水元素或雷元素影響下的敵人，造成的傷害提高20%。",
+        "DE": "Erhöht den von Hydro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 20 %.",
+        "ES": "Aumenta en un 20% el daño contra los enemigos afectados por Hydro o Electro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de 20 %.",
+        "ID": "Meningkatkan 20% DMG terhadap musuh yang terpengaruh Hydro atau Electro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Electro di un 20%.",
+        "JP": "水元素または雷元素の影響を受けた敵に対するダメージ+20%。",
+        "KR": "물 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 20% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Electro em 20%.",
+        "RU": "Увеличивает на 20% урон против врагов, находящихся под действием Гидро или Электро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรูที่ได้รับผลกระทบของธาตุน้ำและไฟฟ้าขึ้น 20%",
+        "TR": "Su veya Elektrikten etkilenen düşmanlara verilen Hasarı %20 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi Nguyên Tố Thủy hoặc Lôi tăng 20%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Electro by 24%.",
+        "CHS": "对处于水元素或雷元素影响下的敌人，造成的伤害提高24%。",
+        "CHT": "對受水元素或雷元素影響的敵人，造成的傷害提高24%。",
+        "DE": "Erhöht den von Hydro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 24 %.",
+        "ES": "Aumenta en un 24% el daño contra los enemigos afectados por Hydro o Electro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de 24 %.",
+        "ID": "Meningkatkan 24% DMG terhadap musuh yang terpengaruh Hydro atau Electro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Electro di un 24%.",
+        "JP": "水元素または雷元素の影響を受けた敵に対するダメージ+24%。",
+        "KR": "물 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 24% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Electro em 24%.",
+        "RU": "Увеличивает на 24% урон против врагов, находящихся под действием Гидро или Электро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรูที่ได้รับผลกระทบของธาตุน้ำและไฟฟ้าขึ้น 24%",
+        "TR": "Su veya Elektrikten etkilenen düşmanlara verilen Hasarı %24 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Lôi tăng 24%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Electro by 28%.",
+        "CHS": "对处于水元素或雷元素影响下的敌人，造成的伤害提高28%。",
+        "CHT": "對受水元素或雷元素影響的敵人，造成的傷害提高28%。",
+        "DE": "Erhöht den von Hydro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 28 %.",
+        "ES": "Aumenta en un 28% el daño contra los enemigos afectados por Hydro o Electro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de 28 %.",
+        "ID": "Meningkatkan 28% DMG terhadap musuh yang terpengaruh Hydro atau Electro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Electro di un 28%.",
+        "JP": "水元素または雷元素の影響を受けた敵に対するダメージ+28%。",
+        "KR": "물 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 28% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Electro em 28%.",
+        "RU": "Увеличивает на 28% урон против врагов, находящихся под действием Гидро или Электро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรูที่ได้รับผลกระทบของธาตุน้ำและไฟฟ้าขึ้น 28%",
+        "TR": "Su veya Elektrikten etkilenen düşmanlara verilen Hasarı %28 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Lôi tăng 28%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Electro by 32%.",
+        "CHS": "对处于水元素或雷元素影响下的敌人，造成的伤害提高32%。",
+        "CHT": "對受水元素或雷元素影響的敵人，造成的傷害提高32%。",
+        "DE": "Erhöht den von Hydro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 32 %.",
+        "ES": "Aumenta en un 32% el daño contra los enemigos afectados por Hydro o Electro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de 32 %.",
+        "ID": "Meningkatkan 32% DMG terhadap musuh yang terpengaruh Hydro atau Electro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Electro di un 32%.",
+        "JP": "水元素または雷元素の影響を受けた敵に対するダメージ+32%。",
+        "KR": "물 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 32% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Electro em 32%.",
+        "RU": "Увеличивает на 32% урон против врагов, находящихся под действием Гидро или Электро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรูที่ได้รับผลกระทบของธาตุน้ำและไฟฟ้าขึ้น 32%",
+        "TR": "Su veya Elektrikten etkilenen düşmanlara verilen Hasarı %32 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Lôi tăng 32%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Electro by 36%.",
+        "CHS": "对处于水元素或雷元素影响下的敌人，造成的伤害提高36%。",
+        "CHT": "對受水元素或雷元素影響的敵人，造成的傷害提高36%。",
+        "DE": "Erhöht den von Hydro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 36 %.",
+        "ES": "Aumenta en un 36% el daño contra los enemigos afectados por Hydro o Electro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de 36 %.",
+        "ID": "Meningkatkan 36% DMG terhadap musuh yang terpengaruh Hydro atau Electro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Electro di un 36%.",
+        "JP": "水元素または雷元素の影響を受けた敵に対するダメージ+36%。",
+        "KR": "물 원소 또는 번개 원소의 영향을 받은 적에게 주는 피해가 36% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Electro em 36%.",
+        "RU": "Увеличивает на 36% урон против врагов, находящихся под действием Гидро или Электро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรูที่ได้รับผลกระทบของธาตุน้ำและไฟฟ้าขึ้น 36%",
+        "TR": "Su veya Elektrikten etkilenen düşmanlara verilen Hasarı %36 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Lôi tăng 36%."
+      }
+    }
+  ]
+}

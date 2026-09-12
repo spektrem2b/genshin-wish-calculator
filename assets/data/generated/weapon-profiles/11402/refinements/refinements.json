@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Chord",
+    "CHS": "和弦",
+    "CHT": "和弦",
+    "DE": "Akkord",
+    "ES": "Acorde",
+    "FR": "Accord",
+    "ID": "Chord",
+    "IT": "Accordo",
+    "JP": "和音",
+    "KR": "화음",
+    "PT": "Acorde",
+    "RU": "Аккорд",
+    "TH": "Chord",
+    "TR": "Akor",
+    "VI": "Hợp Huyền"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals 100% ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s.",
+        "CHS": "普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成100%攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
+        "CHT": "普通攻擊或重擊命中時，會獲得一個和音。累積了五個和音後，釋放音律的力量，對周圍的敵人造成100%攻擊力的傷害。和音最多存在30秒，每0.5秒至多獲得一個和音。",
+        "DE": "Erzeugt bei Treffern mit Standardangriffen und heftigen Schlägen einen harmonischen Ton. Hast du insgesamt 5 harmonische Töne gesammelt, wird die Kraft der Klänge freigegeben und fügt den Gegnern in der Umgebung Schaden in Höhe von 100 % ANG zu. Harmonische Töne bestehen für 30 s. Erzeugt höchstens alle 0,5 s 1 harmonischen Ton.",
+        "ES": "Al golpear con Ataques Normales o Cargados, obtendrás un Armónico. 5 Armónicos activan el poder de la música, que inflige un 100% de daño de ATQ a los oponentes cercanos. Los Armónicos duran hasta 30 s y se puede obtener 1 cada 0.5 s.",
+        "FR": "Les attaques normales et chargées confèrent une harmonie à chaque fois qu'elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige 100 % de DGT d'ATQ aux ennemis proches. Les harmonies durent jusqu'à 30 s, et une harmonie peut être obtenue une fois toutes les 0,5 s.",
+        "ID": "Saat kena Normal atau Charged Attack akan memberikan 1 Harmonic. Setiap 5 Harmonic akan memicu kekuatan lagu, mengakibatkan 100% ATK DMG kepada musuh di sekitar. Setiap Harmonic dapat tersimpan selama 30 detik, dan dapat terciptakan setiap 0,5 detik.",
+        "IT": "#Colpire con gli attacchi normali o caricati conferisce un'Armonia. Acquisire 5 Armonie attiva il potere della musica e infligge un 100% di DAN da ATT agli avversari circostanti. Le Armonie durano fino a 30 s, ed è possibile acquisirne 1 ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、100%の確率で和音を1個獲得する。和音を5個集めると、音律の力を放ち、周囲の敵に攻撃力の100%のダメージを与える。和音は最大30秒存在し、0.5秒毎に最大1個獲得可能。",
+        "KR": "일반 공격 또는 강공격 명중 시 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주변의 적에게 공격력 100%의 피해를 준다. 화음 최대 유지 시간: 30초. 0.5초마다 최대 1개의 화음을 획득한다",
+        "PT": "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa 100% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s.",
+        "RU": "Попадания обычной или заряженной атакой дают музыкальную ноту. При накоплении 5 нот активируется сила музыки, которая наносит 100% урона окружающим врагам. Ноты исчезают через 30 сек. Новую ноту можно получить раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีจะได้รับโน้ตดนตรี 1 ตัว เมื่อเก็บโน้ตดนตรีครบ 5 ตัว จะทำให้เกิดพลังแห่งดนตรี ซึ่งจะสร้างความเสียหาย 100% ของพลังโจมตีแก่ศัตรูโดยรอบ โน้ตดนตรีจะมีเวลาคงอยู่ 30 วินาที ซึ่งจะได้รับ 1 ตัวในทุก 0.5 วินาที",
+        "TR": "İsabet eden Normal veya Yüklü Saldırılar bir Armonik kazandırır. 5 Armonik kazanıldığında müziğin gücü tetiklenerek çevredeki düşmanlara %100 Saldırı kadar Hasar verilir. Armonikler 30 saniyeye kadar bekler ve her 0,5 saniyede en fazla 1 tane kazanılır.",
+        "VI": "Khi tấn công thường hoặc trọng kích đánh trúng địch, sẽ nhận 1 hợp âm. Sau khi tích lũy đủ 5 hợp âm, phát ra sức mạnh của âm luật, tạo thành 100% sát thương công kích cho kẻ địch xung quanh. Hợp âm có thể tồn lại lâu nhất 30s, mỗi 0.5s nhiều nhất có thể nhận 1 hợp âm."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals 125% ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s.",
+        "CHS": "普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成125%攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
+        "CHT": "普通攻擊或重擊命中時，會獲得一個和音。累積了五個和音後，釋放音律的力量，對周圍的敵人造成125%攻擊力的傷害。和音最多存在30秒，每0.5秒至多獲得一個和音。",
+        "DE": "Erzeugt bei Treffern mit Standardangriffen und heftigen Schlägen einen harmonischen Ton. Hast du insgesamt 5 harmonische Töne gesammelt, wird die Kraft der Klänge freigegeben und fügt den Gegnern in der Umgebung Schaden in Höhe von 125 % ANG zu. Harmonische Töne bestehen für 30 s. Erzeugt höchstens alle 0,5 s 1 harmonischen Ton.",
+        "ES": "Al golpear con Ataques Normales o Cargados, obtendrás un Armónico. 5 Armónicos activan el poder de la música, que inflige un 125% de daño de ATQ a los oponentes cercanos. Los Armónicos duran hasta 30 s y se puede obtener 1 cada 0.5 s.",
+        "FR": "Les attaques normales et chargées confèrent une harmonie à chaque fois qu'elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige 125 % de DGT d'ATQ aux ennemis proches. Les harmonies durent jusqu'à 30 s, et une harmonie peut être obtenue une fois toutes les 0,5 s.",
+        "ID": "Saat kena, Normal atau Charged Attack akan memberikan 1 Harmonic. Setiap 5 Harmonic akan memicu kekuatan lagu, mengakibatkan 125% ATK DMG kepada musuh di sekitar. Setiap Harmonic dapat tersimpan selama 30 detik, dan dapat terciptakan setiap 0,5 detik.",
+        "IT": "#Colpire con gli attacchi normali o caricati conferisce un'Armonia. Acquisire 5 Armonie attiva il potere della musica e infligge un 125% di DAN da ATT agli avversari circostanti. Le Armonie durano fino a 30 s, ed è possibile acquisirne 1 ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、100%の確率で和音を1個獲得する。和音を5個集めると、音律の力を放ち、周囲の敵に攻撃力の125%のダメージを与える。和音は最大30秒存在し、0.5秒毎に最大1個獲得可能。",
+        "KR": "일반 공격 또는 강공격 명중 시 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주변의 적에게 공격력 125%의 피해를 준다. 화음 최대 유지 시간: 30초. 0.5초마다 최대 1개의 화음을 획득한다",
+        "PT": "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa 125% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s.",
+        "RU": "Попадания обычной или заряженной атакой дают музыкальную ноту. При накоплении 5 нот активируется сила музыки, которая наносит 125% урона окружающим врагам. Ноты исчезают через 30 сек. Новую ноту можно получить раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีจะได้รับโน้ตดนตรี 1 ตัว เมื่อเก็บโน้ตดนตรีครบ 5 ตัว จะทำให้เกิดพลังแห่งดนตรี ซึ่งจะสร้างความเสียหาย 125% ของพลังโจมตีแก่ศัตรูโดยรอบ โน้ตดนตรีจะมีเวลาคงอยู่ 30 วินาที ซึ่งจะได้รับ 1 ตัวในทุก 0.5 วินาที",
+        "TR": "İsabet eden Normal veya Yüklü Saldırılar bir Armonik kazandırır. 5 Armonik kazanıldığında müziğin gücü tetiklenerek çevredeki düşmanlara %125 Saldırı kadar Hasar verilir. Armonikler 30 saniyeye kadar bekler ve her 0,5 saniyede en fazla 1 tane kazanılır.",
+        "VI": "Khi tấn công thường hoặc trọng kích đánh trúng địch, sẽ nhận 1 hợp âm. Sau khi tích lũy đủ 5 hợp âm, phát ra sức mạnh của âm luật, tạo thành 125% sát thương công kích cho kẻ địch xung quanh. Hợp âm có thể tồn lại lâu nhất 30s, mỗi 0.5s nhiều nhất có thể nhận 1 hợp âm."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals 150% ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s.",
+        "CHS": "普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成150%攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
+        "CHT": "普通攻擊或重擊命中時，會獲得一個和音。累積了五個和音後，釋放音律的力量，對周圍的敵人造成150%攻擊力的傷害。和音最多存在30秒，每0.5秒至多獲得一個和音。",
+        "DE": "Erzeugt bei Treffern mit Standardangriffen und heftigen Schlägen einen harmonischen Ton. Hast du insgesamt 5 harmonische Töne gesammelt, wird die Kraft der Klänge freigegeben und fügt den Gegnern in der Umgebung Schaden in Höhe von 150 % ANG zu. Harmonische Töne bestehen für 30 s. Erzeugt höchstens alle 0,5 s 1 harmonischen Ton.",
+        "ES": "Al golpear con Ataques Normales o Cargados, obtendrás un Armónico. 5 Armónicos activan el poder de la música, que inflige un 150% de daño de ATQ a los oponentes cercanos. Los Armónicos duran hasta 30 s y se puede obtener 1 cada 0.5 s.",
+        "FR": "Les attaques normales et chargées confèrent une harmonie à chaque fois qu'elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige 150 % de DGT d'ATQ aux ennemis proches. Les harmonies durent jusqu'à 30 s, et une harmonie peut être obtenue une fois toutes les 0,5 s.",
+        "ID": "Saat kena, Normal atau Charged Attack akan memberikan 1 Harmonic. Setiap 5 Harmonic akan memicu kekuatan lagu, mengakibatkan 150% ATK DMG kepada musuh di sekitar. Setiap Harmonic dapat tersimpan selama 30 detik, dan dapat terciptakan setiap 0,5 detik.",
+        "IT": "#Colpire con gli attacchi normali o caricati conferisce un'Armonia. Acquisire 5 Armonie attiva il potere della musica e infligge un 150% di DAN da ATT agli avversari circostanti. Le Armonie durano fino a 30 s, ed è possibile acquisirne 1 ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、100%の確率で和音を1個獲得する。和音を5個集めると、音律の力を放ち、周囲の敵に攻撃力の150%のダメージを与える。和音は最大30秒存在し、0.5秒毎に最大1個獲得可能。",
+        "KR": "일반 공격 또는 강공격 명중 시 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주변의 적에게 공격력 150%의 피해를 준다. 화음 최대 유지 시간: 30초. 0.5초마다 최대 1개의 화음을 획득한다",
+        "PT": "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa 150% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s.",
+        "RU": "Попадания обычной или заряженной атакой дают музыкальную ноту. При накоплении 5 нот активируется сила музыки, которая наносит 150% урона окружающим врагам. Ноты исчезают через 30 сек. Новую ноту можно получить раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีจะได้รับโน้ตดนตรี 1 ตัว เมื่อเก็บโน้ตดนตรีครบ 5 ตัว จะทำให้เกิดพลังแห่งดนตรี ซึ่งจะสร้างความเสียหาย 150% ของพลังโจมตีแก่ศัตรูโดยรอบ โน้ตดนตรีจะมีเวลาคงอยู่ 30 วินาที ซึ่งจะได้รับ 1 ตัวในทุก 0.5 วินาที",
+        "TR": "İsabet eden Normal veya Yüklü Saldırılar bir Armonik kazandırır. 5 Armonik kazanıldığında müziğin gücü tetiklenerek çevredeki düşmanlara %150 Saldırı kadar Hasar verilir. Armonikler 30 saniyeye kadar bekler ve her 0,5 saniyede en fazla 1 tane kazanılır.",
+        "VI": "Khi tấn công thường hoặc trọng kích đánh trúng địch, sẽ nhận 1 hợp âm. Sau khi tích lũy đủ 5 hợp âm, phát ra sức mạnh của âm luật, tạo thành 150% sát thương công kích cho kẻ địch xung quanh. Hợp âm có thể tồn lại lâu nhất 30s, mỗi 0.5s nhiều nhất có thể nhận 1 hợp âm."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals 175% ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s.",
+        "CHS": "普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成175%攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
+        "CHT": "普通攻擊或重擊命中時，會獲得一個和音。累積了五個和音後，釋放音律的力量，對周圍的敵人造成175%攻擊力的傷害。和音最多存在30秒，每0.5秒至多獲得一個和音。",
+        "DE": "Erzeugt bei Treffern mit Standardangriffen und heftigen Schlägen einen harmonischen Ton. Hast du insgesamt 5 harmonische Töne gesammelt, wird die Kraft der Klänge freigegeben und fügt den Gegnern in der Umgebung Schaden in Höhe von 175 % ANG zu. Harmonische Töne bestehen für 30 s. Erzeugt höchstens alle 0,5 s 1 harmonischen Ton.",
+        "ES": "Al golpear con Ataques Normales o Cargados, obtendrás un Armónico. 5 Armónicos activan el poder de la música, que inflige un 175% de daño de ATQ a los oponentes cercanos. Los Armónicos duran hasta 30 s y se puede obtener 1 cada 0.5 s.",
+        "FR": "Les attaques normales et chargées confèrent une harmonie à chaque fois qu'elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige 175 % de DGT d'ATQ aux ennemis proches. Les harmonies durent jusqu'à 30 s, et une harmonie peut être obtenue une fois toutes les 0,5 s.",
+        "ID": "Saat kena, Normal atau Charged Attack akan memberikan 1 Harmonic. Setiap 5 Harmonic akan memicu kekuatan lagu, mengakibatkan 175% ATK DMG kepada musuh di sekitar. Setiap Harmonic dapat tersimpan selama 30 detik, dan dapat terciptakan setiap 0,5 detik.",
+        "IT": "#Colpire con gli attacchi normali o caricati conferisce un'Armonia. Acquisire 5 Armonie attiva il potere della musica e infligge un 175% di DAN da ATT agli avversari circostanti. Le Armonie durano fino a 30 s, ed è possibile acquisirne 1 ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、100%の確率で和音を1個獲得する。和音を5個集めると、音律の力を放ち、周囲の敵に攻撃力の175%のダメージを与える。和音は最大30秒存在し、0.5秒毎に最大1個獲得可能。",
+        "KR": "일반 공격 또는 강공격 명중 시 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주변의 적에게 공격력 175%의 피해를 준다. 화음 최대 유지 시간: 30초. 0.5초마다 최대 1개의 화음을 획득한다",
+        "PT": "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa 175% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s.",
+        "RU": "Попадания обычной или заряженной атакой дают музыкальную ноту. При накоплении 5 нот активируется сила музыки, которая наносит 175% урона окружающим врагам. Ноты исчезают через 30 сек. Новую ноту можно получить раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีจะได้รับโน้ตดนตรี 1 ตัว เมื่อเก็บโน้ตดนตรีครบ 5 ตัว จะทำให้เกิดพลังแห่งดนตรี ซึ่งจะสร้างความเสียหาย 175% ของพลังโจมตีแก่ศัตรูโดยรอบ โน้ตดนตรีจะมีเวลาคงอยู่ 30 วินาที ซึ่งจะได้รับ 1 ตัวในทุก 0.5 วินาที",
+        "TR": "İsabet eden Normal veya Yüklü Saldırılar bir Armonik kazandırır. 5 Armonik kazanıldığında müziğin gücü tetiklenerek çevredeki düşmanlara %175 Saldırı kadar Hasar verilir. Armonikler 30 saniyeye kadar bekler ve her 0,5 saniyede en fazla 1 tane kazanılır.",
+        "VI": "Khi tấn công thường hoặc trọng kích đánh trúng địch, sẽ nhận 1 hợp âm. Sau khi tích lũy đủ 5 hợp âm, phát ra sức mạnh của âm luật, tạo thành 175% sát thương công kích cho kẻ địch xung quanh. Hợp âm có thể tồn lại lâu nhất 30s, mỗi 0.5s nhiều nhất có thể nhận 1 hợp âm."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals 200% ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s.",
+        "CHS": "普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成200%攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
+        "CHT": "普通攻擊或重擊命中時，會獲得一個和音。累積了五個和音後，釋放音律的力量，對周圍的敵人造成200%攻擊力的傷害。和音最多存在30秒，每0.5秒至多獲得一個和音。",
+        "DE": "Erzeugt bei Treffern mit Standardangriffen und heftigen Schlägen einen harmonischen Ton. Hast du insgesamt 5 harmonische Töne gesammelt, wird die Kraft der Klänge freigegeben und fügt den Gegnern in der Umgebung Schaden in Höhe von 200 % ANG zu. Harmonische Töne bestehen für 30 s. Erzeugt höchstens alle 0,5 s 1 harmonischen Ton.",
+        "ES": "Al golpear con Ataques Normales o Cargados, obtendrás un Armónico. 5 Armónicos activan el poder de la música, que inflige un 200% de daño de ATQ a los oponentes cercanos. Los Armónicos duran hasta 30 s y se puede obtener 1 cada 0.5 s.",
+        "FR": "Les attaques normales et chargées confèrent une harmonie à chaque fois qu'elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige 200 % de DGT d'ATQ aux ennemis proches. Les harmonies durent jusqu'à 30 s, et une harmonie peut être obtenue une fois toutes les 0,5 s.",
+        "ID": "Saat kena, Normal atau Charged Attack akan memberikan 1 Harmonic. Setiap 5 Harmonic akan memicu kekuatan lagu, mengakibatkan 200% ATK DMG kepada musuh di sekitar. Setiap Harmonic dapat tersimpan selama 30 detik, dan dapat terciptakan setiap 0,5 detik.",
+        "IT": "#Colpire con gli attacchi normali o caricati conferisce un'Armonia. Acquisire 5 Armonie attiva il potere della musica e infligge un 200% di DAN da ATT agli avversari circostanti. Le Armonie durano fino a 30 s, ed è possibile acquisirne 1 ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、100%の確率で和音を1個獲得する。和音を5個集めると、音律の力を放ち、周囲の敵に攻撃力の200%のダメージを与える。和音は最大30秒存在し、0.5秒毎に最大1個獲得可能。",
+        "KR": "일반 공격 또는 강공격 명중 시 화음을 1개 획득한다. 5개의 화음을 모은 후 음률의 힘으로 주변의 적에게 공격력 200%의 피해를 준다. 화음 최대 유지 시간: 30초. 0.5초마다 최대 1개의 화음을 획득한다",
+        "PT": "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa 200% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s.",
+        "RU": "Попадания обычной или заряженной атакой дают музыкальную ноту. При накоплении 5 нот активируется сила музыки, которая наносит 200% урона окружающим врагам. Ноты исчезают через 30 сек. Новую ноту можно получить раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีจะได้รับโน้ตดนตรี 1 ตัว เมื่อเก็บโน้ตดนตรีครบ 5 ตัว จะทำให้เกิดพลังแห่งดนตรี ซึ่งจะสร้างความเสียหาย 200% ของพลังโจมตีแก่ศัตรูโดยรอบ โน้ตดนตรีจะมีเวลาคงอยู่ 30 วินาที ซึ่งจะได้รับ 1 ตัวในทุก 0.5 วินาที",
+        "TR": "İsabet eden Normal veya Yüklü Saldırılar bir Armonik kazandırır. 5 Armonik kazanıldığında müziğin gücü tetiklenerek çevredeki düşmanlara %200 Saldırı kadar Hasar verilir. Armonikler 30 saniyeye kadar bekler ve her 0,5 saniyede en fazla 1 tane kazanılır.",
+        "VI": "Khi tấn công thường hoặc trọng kích đánh trúng địch, sẽ nhận 1 hợp âm. Sau khi tích lũy đủ 5 hợp âm, phát ra sức mạnh của âm luật, tạo thành 200% sát thương công kích cho kẻ địch xung quanh. Hợp âm có thể tồn lại lâu nhất 30s, mỗi 0.5s nhiều nhất có thể nhận 1 hợp âm."
+      }
+    }
+  ]
+}

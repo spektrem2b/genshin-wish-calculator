@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Crag-Chiseled Forge",
+    "CHS": "镌岩为坊",
+    "CHT": "鐫岩為坊",
+    "DE": "Aus Fels wird Werkstatt",
+    "ES": "Roca tallada",
+    "FR": "Carré de roche",
+    "ID": "Crag-Chiseled Forge",
+    "IT": "Forgia della rupe",
+    "JP": "岩を彫りて工房とす",
+    "KR": "돌을 깎아 만든 공장",
+    "PT": "Padrões Entalhados na Rocha",
+    "RU": "Скальная кузница",
+    "TH": "Crag-Chiseled Forge",
+    "TR": "Yontma İşçiliği",
+    "VI": "Khối Vuông Điêu Khắc"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 40 for 18s. Max 2 stacks.",
+        "CHS": "元素能量减少后，装备者的元素精通提升40点。该效果持续18秒，至多叠加2层。",
+        "CHT": "元素能量減少後，裝備者的元素精通提升40點。該效果持續18秒，至多疊加2層。",
+        "DE": "#Erhöht die Elementarkunde des Trägers um 40 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+        "ES": "#Cuando se reduce la Energía Elemental, la Maestría Elemental del portador de esta arma aumenta en 40 pts. Este efecto dura 18 s y puede acumularse hasta 2 veces.",
+        "FR": "La maîtrise élémentaire du personnage équipé de l'arme augmente de 40 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 40 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+        "IT": "#Quando l'energia elementale si riduce, la maestria elementale del personaggio che equipaggia l'arma aumenta di 40 per 18 s. Massimo 2 accumuli.",
+        "JP": "元素エネルギーが減少した後、装備者の元素熟知+40。継続時間18秒、最大2層まで重ね掛け可能。",
+        "KR": "원소 에너지 감소 후, 장착 캐릭터의 원소 마스터리가 40pt 증가한다. 해당 효과 지속 시간: 18초, 최대 중첩수: 2스택",
+        "PT": "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 40. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+        "RU": "После понижения энергии мастерство стихий экипированного персонажа увеличивается на 40 ед. Эффект длится 18 сек. и складывается до 2 раз.",
+        "TH": "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 40 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 40 artar. En fazla 2 kademeye kadar birikir.",
+        "VI": "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 40 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 50 for 18s. Max 2 stacks.",
+        "CHS": "元素能量减少后，装备者的元素精通提升50点。该效果持续18秒，至多叠加2层。",
+        "CHT": "元素能量減少後，裝備者的元素精通提升50點。該效果持續18秒，至多疊加2層。",
+        "DE": "#Erhöht die Elementarkunde des Trägers um 50 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+        "ES": "#Cuando se reduce la Energía Elemental, la Maestría Elemental del portador de esta arma aumenta en 50 pts. Este efecto dura 18 s y puede acumularse hasta 2 veces.",
+        "FR": "La maîtrise élémentaire du personnage équipé de l'arme augmente de 50 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 50 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+        "IT": "#Quando l'energia elementale si riduce, la maestria elementale del personaggio che equipaggia l'arma aumenta di 50 per 18 s. Massimo 2 accumuli.",
+        "JP": "元素エネルギーが減少した後、装備者の元素熟知+50。継続時間18秒、最大2層まで重ね掛け可能。",
+        "KR": "원소 에너지 감소 후, 장착 캐릭터의 원소 마스터리가 50pt 증가한다. 해당 효과 지속 시간: 18초, 최대 중첩수: 2스택",
+        "PT": "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 50. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+        "RU": "После понижения энергии мастерство стихий экипированного персонажа увеличивается на 50 ед. Эффект длится 18 сек. и складывается до 2 раз.",
+        "TH": "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 50 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 50 artar. En fazla 2 kademeye kadar birikir.",
+        "VI": "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 50 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 60 for 18s. Max 2 stacks.",
+        "CHS": "元素能量减少后，装备者的元素精通提升60点。该效果持续18秒，至多叠加2层。",
+        "CHT": "元素能量減少後，裝備者的元素精通提升60點。該效果持續18秒，至多疊加2層。",
+        "DE": "#Erhöht die Elementarkunde des Trägers um 60 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+        "ES": "#Cuando se reduce la Energía Elemental, la Maestría Elemental del portador de esta arma aumenta en 60 pts. Este efecto dura 18 s y puede acumularse hasta 2 veces.",
+        "FR": "La maîtrise élémentaire du personnage équipé de l'arme augmente de 60 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 60 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+        "IT": "#Quando l'energia elementale si riduce, la maestria elementale del personaggio che equipaggia l'arma aumenta di 60 per 18 s. Massimo 2 accumuli.",
+        "JP": "元素エネルギーが減少した後、装備者の元素熟知+60。継続時間18秒、最大2層まで重ね掛け可能。",
+        "KR": "원소 에너지 감소 후, 장착 캐릭터의 원소 마스터리가 60pt 증가한다. 해당 효과 지속 시간: 18초, 최대 중첩수: 2스택",
+        "PT": "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 60. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+        "RU": "После понижения энергии мастерство стихий экипированного персонажа увеличивается на 60 ед. Эффект длится 18 сек. и складывается до 2 раз.",
+        "TH": "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 60 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 60 artar. En fazla 2 kademeye kadar birikir.",
+        "VI": "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 60 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 70 for 18s. Max 2 stacks.",
+        "CHS": "元素能量减少后，装备者的元素精通提升70点。该效果持续18秒，至多叠加2层。",
+        "CHT": "元素能量減少後，裝備者的元素精通提升70點。該效果持續18秒，至多疊加2層。",
+        "DE": "#Erhöht die Elementarkunde des Trägers um 70 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+        "ES": "#Cuando se reduce la Energía Elemental, la Maestría Elemental del portador de esta arma aumenta en 70 pts. Este efecto dura 18 s y puede acumularse hasta 2 veces.",
+        "FR": "La maîtrise élémentaire du personnage équipé de l'arme augmente de 70 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 70 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+        "IT": "#Quando l'energia elementale si riduce, la maestria elementale del personaggio che equipaggia l'arma aumenta di 70 per 18 s. Massimo 2 accumuli.",
+        "JP": "元素エネルギーが減少した後、装備者の元素熟知+70。継続時間18秒、最大2層まで重ね掛け可能。",
+        "KR": "원소 에너지 감소 후, 장착 캐릭터의 원소 마스터리가 70pt 증가한다. 해당 효과 지속 시간: 18초, 최대 중첩수: 2스택",
+        "PT": "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 70. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+        "RU": "После понижения энергии мастерство стихий экипированного персонажа увеличивается на 70 ед. Эффект длится 18 сек. и складывается до 2 раз.",
+        "TH": "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 70 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 70 artar. En fazla 2 kademeye kadar birikir.",
+        "VI": "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 70 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 80 for 18s. Max 2 stacks.",
+        "CHS": "元素能量减少后，装备者的元素精通提升80点。该效果持续18秒，至多叠加2层。",
+        "CHT": "元素能量減少後，裝備者的元素精通提升80點。該效果持續18秒，至多疊加2層。",
+        "DE": "#Erhöht die Elementarkunde des Trägers um 80 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+        "ES": "#Cuando se reduce la Energía Elemental, la Maestría Elemental del portador de esta arma aumenta en 80 pts. Este efecto dura 18 s y puede acumularse hasta 2 veces.",
+        "FR": "La maîtrise élémentaire du personnage équipé de l'arme augmente de 80 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 80 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+        "IT": "#Quando l'energia elementale si riduce, la maestria elementale del personaggio che equipaggia l'arma aumenta di 80 per 18 s. Massimo 2 accumuli.",
+        "JP": "元素エネルギーが減少した後、装備者の元素熟知+80。継続時間18秒、最大2層まで重ね掛け可能。",
+        "KR": "원소 에너지 감소 후, 장착 캐릭터의 원소 마스터리가 80pt 증가한다. 해당 효과 지속 시간: 18초, 최대 중첩수: 2스택",
+        "PT": "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 80. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+        "RU": "После понижения энергии мастерство стихий экипированного персонажа увеличивается на 80 ед. Эффект длится 18 сек. и складывается до 2 раз.",
+        "TH": "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 80 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+        "TR": "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 80 artar. En fazla 2 kademeye kadar birikir.",
+        "VI": "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 80 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng."
+      }
+    }
+  ]
+}

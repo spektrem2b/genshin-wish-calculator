@@ -1,0 +1,69 @@
+{
+  "id": 10012,
+  "name": {
+    "EN": "Scholar",
+    "CHS": "学士",
+    "CHT": "學士",
+    "DE": "Gelehrter",
+    "ES": "Erudita",
+    "FR": "Érudit",
+    "ID": "Scholar",
+    "IT": "Studiosa",
+    "JP": "学者",
+    "KR": "학사",
+    "PT": "O Estudioso",
+    "RU": "Учёный",
+    "TH": "Scholar",
+    "TR": "Alim",
+    "VI": "Học Sĩ"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10012/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Energy Recharge +20%",
+        "CHS": "元素充能效率提高20%。",
+        "CHT": "元素充能效率提高20%。",
+        "DE": "Erhöht die Aufladerate um 20 %.",
+        "ES": "Recarga de Energía +20%.",
+        "FR": "Augmente la recharge d'énergie de 20 %.",
+        "ID": "Energy Recharge +20%.",
+        "IT": "Ricarica d'energia +20%.",
+        "JP": "元素チャージ効率+20%。",
+        "KR": "원소 충전 효율+20%",
+        "PT": "Recarga de Energia +20%",
+        "RU": "Увеличивает скорость восстановления энергии на 20%.",
+        "TH": "เพิ่มประสิทธิภาพ การฟื้นฟูพลังงานขึ้น 20%",
+        "TR": "+%20 Enerji Yüklemesi.",
+        "VI": "Hiệu Quả Nạp Nguyên Tố tăng 20%"
+      },
+      "affixId": "2100120"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s.",
+        "CHS": "获得元素微粒或元素晶球时，队伍中所有弓箭和法器角色额外恢复3点元素能量。该效果每3秒只能触发一次。",
+        "CHT": "獲得元素微粒或元素晶球時，隊伍中所有弓箭和法器角色額外恢復3點元素能量。該效果每3秒只能觸發一次。",
+        "DE": "Stellt allen Truppenmitgliedern mit Bögen und Katalysatoren beim Erhalten von Elementarteilchen und Elementarkristallen zusätzlich 3 Punkte Elementarenergie wieder her. 3 s Abklingzeit.",
+        "ES": "Al obtener partículas u orbes elementales, los miembros del equipo que usen arco o catalizador recuperan 3 pts. adicionales de Energía Elemental. Solo puede suceder una vez cada 3 s.",
+        "FR": "Les personnages armés d'un arc ou d'un catalyseur récupèrent 3 pts d'énergie supplémentaire à chaque fois qu'une particule ou un orbe élémentaires sont récupérés. Cet effet peut être déclenché une fois toutes les 3 s.",
+        "ID": "Mendapatkan Elemental Particle/Orb akan memberikan 3 Energy kepada seluruh anggota party yang mengenakan bow atau catalyst. Dapat terpicu setiap 3 detik.",
+        "IT": "#Ottenere particelle o sfere elementali fornisce 3 di energia a tutti i membri del gruppo equipaggiati con un arco o un catalizzatore. Si può verificare una sola volta ogni 3 s.",
+        "JP": "元素オーブまたは元素粒子を獲得した時、チーム内全ての弓と法器キャラの元素エネルギーが3回復する。3秒毎に1回のみ発動可能。",
+        "KR": "원소 입자 혹은 원소 구슬 획득 시 파티 내 모든 활과 법구를 사용하는 캐릭터는 원소 에너지를 추가로 3pt 회복한다. 해당 효과는 3초마다 1번 발동한다",
+        "PT": "Obter Partículas ou Orbes Elementais confere 3 de Energia a todos os membros da equipe que possuem um arco ou catalisador equipado. Pode ser ativado uma vez a cada 3s.",
+        "RU": "Получение элементальных сфер или частиц восстанавливает 3 ед. энергии членам отряда, экипированным стрелковым оружием или катализатором. Может возникнуть раз в 3 сек.",
+        "TH": "เมื่อเก็บอณูธาตุ/ลูกแก้ว ตัวละครทั้งหมดในทีมที่ใช้ธนูและสื่อเวทจะได้รับการฟื้นฟูพลังงานธาตุเพิ่ม 3 หน่วย ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นเพียงหนึ่งครั้งในทุก 3 วินาที",
+        "TR": "Element Parçacıkları veya Küreleri kazanmak, bir yay veya katalizör kuşanan tüm grup üyelerine 3 Enerji verir. 3 saniyede bir uygulanabilir.",
+        "VI": "Khi nhận Nguyên Tố Hạt Nhân hoặc Nguyên Tố Tinh Cầu, tất cả nhân vật dùng cung tên và Pháp Khí trong đội sẽ hồi thêm 3 Năng Lượng Nguyên Tố. Mỗi 3s mới thi triển 1 lần."
+      },
+      "affixId": "2100121"
+    }
+  ]
+}

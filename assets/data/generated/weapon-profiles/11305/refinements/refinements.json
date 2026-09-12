@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Gash",
+    "CHS": "决",
+    "CHT": "決",
+    "DE": "Entschlossenheit",
+    "ES": "Determinación",
+    "FR": "Détermination",
+    "ID": "Gash",
+    "IT": "Risolutezza",
+    "JP": "切り捨て",
+    "KR": "결",
+    "PT": "Determinação",
+    "RU": "Решительный",
+    "TH": "Gash",
+    "TR": "Derin Yara",
+    "VI": "Quyết"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "On hit, has a 50% chance to deal 240% ATK DMG to a single opponent. Can only occur once every 15s.",
+        "CHS": "攻击命中时，有50%的概率对单个敌人造成240%攻击力的伤害。该效果每15秒只能触发一次。",
+        "CHT": "攻擊命中時，有50%的機率對單個敵人造成240%攻擊力的傷害。該效果每15秒只能觸發一次。",
+        "DE": "Fügt einem einzelnen Gegner bei einem Treffer mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von 240 % ANG zu. 15 s Abklingzeit.",
+        "ES": "Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un 240% de daño a un solo enemigo. Este efecto puede ocurrir una vez cada 15 s.",
+        "FR": "Les attaques ont 50 % de chances d'infliger 240 % de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat mengenai target, memiliki 50% persentase untuk mengakibatkan 240% ATK DMG ke suatu target. Dapat terpicu setiap 15 detik.",
+        "IT": "#Per colpo a segno, ha un 50% di probabilità d'infliggere un 240% di DAN da ATT a un singolo avversario. Si può verificare una sola volta ogni 15 s.",
+        "JP": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の240%のダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "공격 명중 시 50%의 확률로 단일 타깃에게 공격력 240%의 피해를 준다. 해당 효과는 15초마다 1회만 발동한다",
+        "PT": "Ao acertar, possui 50% de chance de infligir 240% de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada 15s.",
+        "RU": "При попадании с 50% вероятностью наносит 240% урона одной цели. Может возникнуть раз в 15 сек.",
+        "TH": "ในตอนที่โจมตีจะมีโอกาส 50% ที่จะสร้างความเสียหาย 240% ของการโจมตีพื้นฐานให้แก่ศัตรูหนึ่งตัว ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Darbe vurduğunda, tek bir düşmana %50 ihtimalle %240 Saldırı kadar Hasar verir. 15 saniyede bir uygulanabilir.",
+        "VI": "Khi đánh trúng, có 50% cơ hội tạo thành 240% sát thương tấn công vào mục tiêu đơn. Hiệu quả này 15s xuất hiện một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "On hit, has a 50% chance to deal 280% ATK DMG to a single opponent. Can only occur once every 14s.",
+        "CHS": "攻击命中时，有50%的概率对单个敌人造成280%攻击力的伤害。该效果每14秒只能触发一次。",
+        "CHT": "攻擊命中時，有50%的機率對單個敵人造成280%攻擊力的傷害。該效果每14秒只能觸發一次。",
+        "DE": "Fügt einem einzelnen Gegner bei einem Treffer mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von 280 % ANG zu. 14 s Abklingzeit.",
+        "ES": "Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un 280% de daño a un solo enemigo. Este efecto puede ocurrir una vez cada 14 s.",
+        "FR": "Les attaques ont 50 % de chances d'infliger 280 % de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 14 s.",
+        "ID": "Saat mengenai target, memiliki 50% persentase untuk mengakibatkan 280% ATK DMG ke suatu target. Dapat terpicu setiap 14 detik.",
+        "IT": "#Per colpo a segno, ha un 50% di probabilità d'infliggere un 280% di DAN da ATT a un singolo avversario. Si può verificare una sola volta ogni 14 s.",
+        "JP": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の280%のダメージを与える。14秒毎に1回のみ発動可能。",
+        "KR": "공격 명중 시 50%의 확률로 단일 타깃에게 공격력 280%의 피해를 준다. 해당 효과는 14초마다 1회만 발동한다",
+        "PT": "Ao acertar, possui 50% de chance de infligir 280% de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada 14s.",
+        "RU": "При попадании с 50% вероятностью наносит 280% урона одной цели. Может возникнуть раз в 14 сек.",
+        "TH": "ในตอนที่โจมตีจะมีโอกาส 50% ที่จะสร้างความเสียหาย 280% ของการโจมตีพื้นฐานให้แก่ศัตรูหนึ่งตัว ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 14 วินาที",
+        "TR": "Darbe vurduğunda, tek bir düşmana %50 ihtimalle %280 Saldırı kadar Hasar verir. 14 saniyede bir uygulanabilir.",
+        "VI": "Khi đánh trúng, có 50% cơ hội tạo thành 280% sát thương tấn công vào mục tiêu đơn. Hiệu quả này 14s xuất hiện một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "On hit, has a 50% chance to deal 320% ATK DMG to a single opponent. Can only occur once every 13s.",
+        "CHS": "攻击命中时，有50%的概率对单个敌人造成320%攻击力的伤害。该效果每13秒只能触发一次。",
+        "CHT": "攻擊命中時，有50%的機率對單個敵人造成320%攻擊力的傷害。該效果每13秒只能觸發一次。",
+        "DE": "Fügt einem einzelnen Gegner bei einem Treffer mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von 320 % ANG zu. 13 s Abklingzeit.",
+        "ES": "Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un 320% de daño a un solo enemigo. Este efecto puede ocurrir una vez cada 13 s.",
+        "FR": "Les attaques ont 50 % de chances d'infliger 320 % de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 13 s.",
+        "ID": "Saat mengenai target, memiliki 50% persentase untuk mengakibatkan 320% ATK DMG ke suatu target. Dapat terpicu setiap 13 detik.",
+        "IT": "#Per colpo a segno, ha un 50% di probabilità d'infliggere un 320% di DAN da ATT a un singolo avversario. Si può verificare una sola volta ogni 13 s.",
+        "JP": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の320%のダメージを与える。13秒毎に1回のみ発動可能。",
+        "KR": "공격 명중 시 50%의 확률로 단일 타깃에게 공격력 320%의 피해를 준다. 해당 효과는 13초마다 1회만 발동한다",
+        "PT": "Ao acertar, possui 50% de chance de infligir 320% de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada 13s.",
+        "RU": "При попадании с 50% вероятностью наносит 320% урона одной цели. Может возникнуть раз в 13 сек.",
+        "TH": "ในตอนที่โจมตีจะมีโอกาส 50% ที่จะสร้างความเสียหาย 320% ของการโจมตีพื้นฐานให้แก่ศัตรูหนึ่งตัว ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 13 วินาที",
+        "TR": "Darbe vurduğunda, tek bir düşmana %50 ihtimalle %320 Saldırı kadar Hasar verir. 13 saniyede bir uygulanabilir.",
+        "VI": "Khi đánh trúng, có 50% cơ hội tạo thành 320% sát thương tấn công vào mục tiêu đơn. Hiệu quả này 13s xuất hiện một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "On hit, has a 50% chance to deal 360% ATK DMG to a single opponent. Can only occur once every 12s.",
+        "CHS": "攻击命中时，有50%的概率对单个敌人造成360%攻击力的伤害。该效果每12秒只能触发一次。",
+        "CHT": "攻擊命中時，有50%的機率對單個敵人造成360%攻擊力的傷害。該效果每12秒只能觸發一次。",
+        "DE": "Fügt einem einzelnen Gegner bei einem Treffer mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von 360 % ANG zu. 12 s Abklingzeit.",
+        "ES": "Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un 360% de daño a un solo enemigo. Este efecto puede ocurrir una vez cada 12 s.",
+        "FR": "Les attaques ont 50 % de chances d'infliger 360 % de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 12 s.",
+        "ID": "Saat mengenai target, memiliki 50% persentase untuk mengakibatkan 360% ATK DMG ke suatu target. Dapat terpicu setiap 12 detik.",
+        "IT": "#Per colpo a segno, ha un 50% di probabilità d'infliggere un 360% di DAN da ATT a un singolo avversario. Si può verificare una sola volta ogni 12 s.",
+        "JP": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の360%のダメージを与える。12秒毎に1回のみ発動可能。",
+        "KR": "공격 명중 시 50%의 확률로 단일 타깃에게 공격력 360%의 피해를 준다. 해당 효과는 12초마다 1회만 발동한다",
+        "PT": "Ao acertar, possui 50% de chance de infligir 360% de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada 12s.",
+        "RU": "При попадании с 50% вероятностью наносит 360% урона одной цели. Может возникнуть раз в 12 сек.",
+        "TH": "ในตอนที่โจมตีจะมีโอกาส 50% ที่จะสร้างความเสียหาย 360% ของการโจมตีพื้นฐานให้แก่ศัตรูหนึ่งตัว ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 12 วินาที",
+        "TR": "Darbe vurduğunda, tek bir düşmana %50 ihtimalle %360 Saldırı kadar Hasar verir. 12 saniyede bir uygulanabilir.",
+        "VI": "Khi đánh trúng, có 50% cơ hội tạo thành 360% sát thương tấn công vào mục tiêu đơn. Hiệu quả này 12s xuất hiện một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "On hit, has a 50% chance to deal 400% ATK DMG to a single opponent. Can only occur once every 11s.",
+        "CHS": "攻击命中时，有50%的概率对单个敌人造成400%攻击力的伤害。该效果每11秒只能触发一次。",
+        "CHT": "攻擊命中時，有50%的機率對單個敵人造成400%攻擊力的傷害。該效果每11秒只能觸發一次。",
+        "DE": "Fügt einem einzelnen Gegner bei einem Treffer mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von 400 % ANG zu. 11 s Abklingzeit.",
+        "ES": "Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un 400% de daño a un solo enemigo. Este efecto puede ocurrir una vez cada 11 s.",
+        "FR": "Les attaques ont 50 % de chances d'infliger 400 % de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 11 s.",
+        "ID": "Saat mengenai target, memiliki 50% persentase untuk mengakibatkan 400% ATK DMG ke suatu target. Dapat terpicu setiap 11 detik.",
+        "IT": "#Per colpo a segno, ha un 50% di probabilità d'infliggere un 400% di DAN da ATT a un singolo avversario. Si può verificare una sola volta ogni 11 s.",
+        "JP": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の400%のダメージを与える。11秒毎に1回のみ発動可能。",
+        "KR": "공격 명중 시 50%의 확률로 단일 타깃에게 공격력 400%의 피해를 준다. 해당 효과는 11초마다 1회만 발동한다",
+        "PT": "Ao acertar, possui 50% de chance de infligir 400% de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada 11s.",
+        "RU": "При попадании с 50% вероятностью наносит 400% урона одной цели. Может возникнуть раз в 11 сек.",
+        "TH": "ในตอนที่โจมตีจะมีโอกาส 50% ที่จะสร้างความเสียหาย 400% ของการโจมตีพื้นฐานให้แก่ศัตรูหนึ่งตัว ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 11 วินาที",
+        "TR": "Darbe vurduğunda, tek bir düşmana %50 ihtimalle %400 Saldırı kadar Hasar verir. 11 saniyede bir uygulanabilir.",
+        "VI": "Khi đánh trúng, có 50% cơ hội tạo thành 400% sát thương tấn công vào mục tiêu đơn. Hiệu quả này 11s xuất hiện một lần."
+      }
+    }
+  ]
+}

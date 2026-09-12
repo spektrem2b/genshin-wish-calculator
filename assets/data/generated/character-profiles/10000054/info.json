@@ -1,0 +1,137 @@
+{
+  "id": "10000054",
+  "name": {
+    "EN": "Sangonomiya Kokomi",
+    "CHS": "珊瑚宫心海",
+    "CHT": "珊瑚宮心海",
+    "DE": "Sangonomiya Kokomi",
+    "ES": "Sangonomiya Kokomi",
+    "FR": "Sangonomiya Kokomi",
+    "ID": "Sangonomiya Kokomi",
+    "IT": "Sangonomiya Kokomi",
+    "JP": "珊瑚宮心海",
+    "KR": "산고노미야 코코미",
+    "PT": "Sangonomiya Kokomi",
+    "RU": "Кокоми",
+    "TH": "Sangonomiya Kokomi",
+    "TR": "Sangonomiya Kokomi",
+    "VI": "Sangonomiya Kokomi"
+  },
+  "nameEn": "Sangonomiya Kokomi",
+  "element": "Hydro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 2,
+    "day": 22
+  },
+  "release": "2021-09-21T15:00:00",
+  "icon": "generated/character-profiles/10000054/avatar.webp",
+  "fullWish": "generated/character-profiles/10000054/full_wish.webp",
+  "fullWishObjectPosition": "50.5% 42.6%",
+  "title": {
+    "EN": "Pearl of Wisdom",
+    "CHS": "真珠之智",
+    "CHT": "真珠之智",
+    "DE": "Perle der Weisheit",
+    "ES": "La Perla de la Sabiduría",
+    "FR": "Perle de connaissance",
+    "ID": "Pearl of Wisdom",
+    "IT": "Perla di saggezza",
+    "JP": "真珠の智",
+    "KR": "진주의 지혜",
+    "PT": "Pérolas de Sabedoria",
+    "RU": "Жемчужина мудрости",
+    "TH": "ไข่มุกแห่งปัญญา",
+    "TR": "Bilgelik İncisi",
+    "VI": "Trí Tuệ Trân Châu"
+  },
+  "description": {
+    "EN": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+    "CHS": "海祇岛的「现人神巫女」，统管海祇岛各项事宜的少女。",
+    "CHT": "海祇島的「現人神巫女」，統管海祇島各項事宜的少女。",
+    "DE": "Die göttliche Priesterin und das höchste Oberhaupt von Watatsumi.",
+    "ES": "La Sacerdotisa Divina y quien controla todos los asuntos de la Isla Watatsumi.",
+    "FR": "La Prêtresse divine de l'Île de Watatsumi, une jeune femme gérant toutes les affaires de l'île.",
+    "ID": "Sang Pemimpin Suci di Pulau Watatsumi. Segala urusan yang terjadi di pulau tersebut ada dalam genggaman nona muda ini.",
+    "IT": "La Sacerdotessa divina dell'Isola di Watatsumi. Ha l'ultima parola su ogni questione dell'isola.",
+    "JP": "海祇島の「現人神の巫女」、海祇島すべての事務を担当している少女。",
+    "KR": "와타츠미섬의 「아라히토가미 무녀」. 와타츠미섬의 각종 사항을 총괄하는 소녀이다",
+    "PT": "A Sacerdotisa Divina da Ilha Watatsumi. Todos os assuntos da ilha estão na ponta dos dedos desta jovem senhorita.",
+    "RU": "Божественная Жрица острова Ватацуми. Все дела острова находятся в руках этой молодой леди.",
+    "TH": "ผู้นำมิโกะคนปัจจุบันของเกาะ Watatsumi สาวน้อยผู้รับผิดชอบงานทุกอย่างบนเกาะ Watatsumi",
+    "TR": "Watatsumi Adası'nın Kutsal Rahibesi. Adadaki tüm meselelerden bu genç kadın sorumludur.",
+    "VI": "Thánh Pháp Sư của đảo Watatsumi, thiếu nữ quản lý mọi chuyện trên đảo Watatsumi."
+  },
+  "constellationName": {
+    "EN": "Dracaena Somnolenta",
+    "CHS": "眠龙座",
+    "CHT": "眠龍座",
+    "DE": "Dracaena Somnolenta",
+    "ES": "Dracaena Somnolenta",
+    "FR": "Dracaena Somnolenta",
+    "ID": "Dracaena Somnolenta",
+    "IT": "Dracaena Somnolenta",
+    "JP": "睡竜座",
+    "KR": "잠든 용자리",
+    "PT": "Dracaena Somnolenta",
+    "RU": "Спящий Дракон",
+    "TH": "Dracaena Somnolenta",
+    "TR": "Uykuya Yatan Ejder",
+    "VI": "Cung Miên Long"
+  },
+  "native": {
+    "EN": "Watatsumi Island",
+    "CHS": "海祇岛",
+    "CHT": "海祇島",
+    "DE": "Watatsumi",
+    "ES": "Isla Watatsumi",
+    "FR": "Île de Watatsumi",
+    "ID": "Watatsumi Island",
+    "IT": "Isola di Watatsumi",
+    "JP": "海祇島",
+    "KR": "와타츠미섬",
+    "PT": "Ilha Watatsumi",
+    "RU": "Ватацуми",
+    "TH": "เกาะ Watatsumi",
+    "TR": "Watatsumi Adası",
+    "VI": "Đảo Watatsumi"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Risa Mei"
+    },
+    {
+      "lang": "CHS",
+      "va": "龟娘"
+    },
+    {
+      "lang": "JP",
+      "va": "三森すずこ"
+    },
+    {
+      "lang": "KR",
+      "va": "Yeo Yoon-mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_WATER_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1048.652,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.2476,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 51.15465,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

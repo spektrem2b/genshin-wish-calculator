@@ -1,0 +1,137 @@
+{
+  "id": "10000016",
+  "name": {
+    "EN": "Diluc",
+    "CHS": "迪卢克",
+    "CHT": "迪盧克",
+    "DE": "Diluc",
+    "ES": "Diluc",
+    "FR": "Diluc",
+    "ID": "Diluc",
+    "IT": "Diluc",
+    "JP": "ディルック",
+    "KR": "다이루크",
+    "PT": "Diluc",
+    "RU": "Дилюк",
+    "TH": "Diluc",
+    "TR": "Diluc",
+    "VI": "Diluc"
+  },
+  "nameEn": "Diluc",
+  "element": "Pyro",
+  "weapon_type": "Claymore",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 4,
+    "day": 30
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000016/avatar.webp",
+  "fullWish": "generated/character-profiles/10000016/full_wish.webp",
+  "fullWishObjectPosition": "53.3% 27.1%",
+  "title": {
+    "EN": "Dark Side of Dawn",
+    "CHS": "晨曦的暗面",
+    "CHT": "晨曦的暗面",
+    "DE": "Dunkle Seite der Dämmerung",
+    "ES": "El Amanecer Oscuro",
+    "FR": "Ombre de l'Aurore",
+    "ID": "The Dark Side of Dawn",
+    "IT": "Lato oscuro dell'alba",
+    "JP": "アカツキの裏面",
+    "KR": "새벽의 어둠",
+    "PT": "O Lado Negro do Alvorecer",
+    "RU": "Тёмный рассвет",
+    "TH": "เงาแห่งรุ่งอรุณ",
+    "TR": "Şafağın Karanlık Yüzü",
+    "VI": "Mặt Tối Của Bình Minh"
+  },
+  "description": {
+    "EN": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+    "CHS": "坐拥蒙德大半酒业的贵公子，财力、人望、能力都令人无法小觑。",
+    "CHT": "坐擁蒙德大半酒業的貴公子，財力、人望、能力都令人無法小覷。",
+    "DE": "Der reiche Junggeselle, der den größten Teil der Getränkewirtschaft in Mondstadt kontrolliert. Sein Reichtum, seine Eleganz und seine Fähigkeiten sind bewundernswert.",
+    "ES": "El magnate del imperio vinícola de Mondstadt, inigualable en todos los sentidos.",
+    "FR": "Un jeune noble possédant la plupart des entreprises du vin de Mondstadt. Nul ne saurait sous-estimer sa richesse, sa réputation et ses capacités.",
+    "ID": "Pemilik dari kerajaan kilang anggur di Mondstadt, kekayaan, ketenaran, dan kekuatannya diakui oleh semua orang.",
+    "IT": "Il magnate di un impero vinicolo a Mondstadt, in possesso di ricchezza, reputazione e capacità senza eguali.",
+    "JP": "モンドの大半の酒造を掌握する貴公子。財力も人望も実力も、見くびってはならない。",
+    "KR": "몬드 주류업의 대부분을 차지하고 있는 귀공자. 재력, 인망, 능력 모두 무시할 수 없다",
+    "PT": "O magnata do império de vinhedos em Mondstadt, inigualável em todos os sentidos.",
+    "RU": "Магнат, построивший непревзойдённую винную империю в Мондштадте.",
+    "TH": "คุณชายสูงศักดิ์ผู้ครอบครองกิจการผลิตไวน์ใน Mondstadt ไปกว่าครึ่ง ไม่ว่าจะด้านกำลังทรัพย์ ชื่อเสียง หรือความสามารถ ก็ไม่มีใครเทียบเคียงได้ในสักทาง",
+    "TR": "Mondstadt'taki bir şaraphane imparatorluğunun sahibi. Her anlamda eşsiz biri.",
+    "VI": "Là công tử nắm trong tay hơn một nửa ngành rượu Mondstadt, tài lực, danh vọng, năng lực đều khiến người khác không thể coi thường."
+  },
+  "constellationName": {
+    "EN": "Noctua",
+    "CHS": "夜枭座",
+    "CHT": "夜梟座",
+    "DE": "Noctua",
+    "ES": "Noctua",
+    "FR": "Noctua",
+    "ID": "Noctua",
+    "IT": "Noctua",
+    "JP": "夜梟座",
+    "KR": "밤올빼미자리",
+    "PT": "Noctua",
+    "RU": "Мудрая Сова",
+    "TH": "Noctua",
+    "TR": "Gece Kuşu",
+    "VI": "Cung Dạ Hiêu"
+  },
+  "native": {
+    "EN": "Dawn Winery",
+    "CHS": "晨曦酒庄",
+    "CHT": "晨曦酒莊",
+    "DE": "Weingut Morgenröte",
+    "ES": "Viñedo del Amanecer",
+    "FR": "Domaine de l'Aurore",
+    "ID": "Dawn Winery",
+    "IT": "Vigneto Prima Luce",
+    "JP": "アカツキワイナリー",
+    "KR": "다운 와이너리",
+    "PT": "Adega do Alvorecer",
+    "RU": "Винокурня «Рассвет»",
+    "TH": "Dawn Winery",
+    "TR": "Şafak Şaraphanesi",
+    "VI": "Tửu Trang Dawn"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Sean Chiplock"
+    },
+    {
+      "lang": "CHS",
+      "va": "马洋"
+    },
+    {
+      "lang": "JP",
+      "va": "小野賢章"
+    },
+    {
+      "lang": "KR",
+      "va": "Choi Seung-hoon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1010.5192,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.068,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.0266,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

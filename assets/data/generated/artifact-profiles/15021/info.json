@@ -1,0 +1,69 @@
+{
+  "id": 15021,
+  "name": {
+    "EN": "Husk of Opulent Dreams",
+    "CHS": "华馆梦醒形骸记",
+    "CHT": "華館夢醒形骸記",
+    "DE": "Schale der üppigen Träume",
+    "ES": "Cáscara de Sueños Opulentos",
+    "FR": "Coquille des rêves opulents",
+    "ID": "Husk of Opulent Dreams",
+    "IT": "Guscio dei sogni opulenti",
+    "JP": "華館夢醒形骸記",
+    "KR": "풍요로운 꿈의 껍데기",
+    "PT": "Casca de Sonhos Opulentos",
+    "RU": "Кокон сладких грёз",
+    "TH": "Husk of Opulent Dreams",
+    "TR": "Bereketli Rüyaların Hatıraları",
+    "VI": "Giấc Mộng Phù Hoa"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15021/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "DEF +30%",
+        "CHS": "防御力提高30%。",
+        "CHT": "防禦力提高30%。",
+        "DE": "Erhöht die VTD um 30 %.",
+        "ES": "DEF +30%.",
+        "FR": "Augmente la DÉF de 30 %.",
+        "ID": "DEF +30%.",
+        "IT": "DIF +30%.",
+        "JP": "防御力+30%。",
+        "KR": "방어력+30%",
+        "PT": "DEF +30%",
+        "RU": "Увеличивает защиту на 30%.",
+        "TH": "เพิ่มพลังป้องกัน 30%",
+        "TR": "+%30 Savunma.",
+        "VI": "Phòng ngự tăng 30%."
+      },
+      "affixId": "2150210"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.",
+        "CHS": "装备此圣遗物套装的角色在以下情况下，将获得「问答」效果：在场上用岩元素攻击命中敌人后获得一层，每0.3秒至多触发一次；在队伍后台中，每3秒获得一层。问答至多叠加4层，每层能提供6%防御力与6%岩元素伤害加成。每6秒，若未获得问答效果，将损失一层。",
+        "CHT": "裝備此聖遺物套裝的角色在以下情況下，將獲得「問答」效果：在場上用岩元素攻擊命中敵人後獲得一層，每0.3秒至多觸發一次；在隊伍後台中，每3秒獲得一層。問答至多疊加4層，每層能提供6%防禦力與6%岩元素傷害加成。每6秒，若未獲得問答效果，將損失一層。",
+        "DE": "Die mit diesem Artefaktset ausgerüsteten Figuren erhalten unter den folgenden Umständen den Effekt „Neugier“: Aktuelle Figuren erhalten mit 0,3 s Abklingzeit eine Stapelung beim Treffen von Gegnern mit Geo-Angriffen, während die inaktiven Figuren in der Truppe alle 3 s eine Stapelung erhalten. 4-fach stapelbar. Jede Stapelung verleiht einen VTD-Bonus von 6 % und einen Geo-Schadens-Bonus von 6 %. Wenn kein neuer Effekt der „Neugier“ hinzukommt, erlischt alle 6 s eine Stapelung dieses Effekts.",
+        "ES": "El personaje que equipe este conjunto de artefactos obtendrá el efecto de “curiosidad” en las siguientes circunstancias: al golpear a un enemigo con un ataque Geo, obtiene una carga, lo cual solo puede ocurrir una vez cada 0.3 s; mientras está en tu equipo pero no en uso, obtiene una carga cada 3 s. Este efecto puede acumularse hasta 4 veces, y cada carga aumenta en un 6% la DEF y otorga un 6% de Bono de Daño Geo. Si el personaje no obtiene una carga de curiosidad en 6 s, perderá una acumulación.",
+        "FR": "Un personnage équipé de ce set d'artéfacts obtiendra 1 cumul de curiosité des façons suivantes : sur le champ de bataille, il obtient 1 cumul en touchant un ennemi avec une attaque Géo, ceci pouvant être déclenché une fois toutes les 0,3 s ; en faisant partie de l'équipe mais en n'étant pas déployé, il obtient 1 cumul toutes les 3 s. La curiosité peut être cumulée 4 fois maximum, chaque cumul accordant 6 % de bonus de DÉF et 6 % de bonus de DGT Géo. Si 6 s s'écoulent sans obtenir de cumul de curiosité, 1 cumul sera perdu.",
+        "ID": "Karakter yang mengenakan set Artefak ini akan mendapatkan efek Curiosity dalam kondisi berikut: Karakter aktif akan mendapatkan 1 lapis setelah serangan Geo-nya mengenai musuh, dapat terpicu setiap 0,3 detik. Karakter bisa mendapatkan 1 lapis setiap 3 detik jika tidak berada di medan pertempuran. Efek Curiosity dapat ditumpuk hingga 4 lapis, setiap lapis meningkatkan 6% DEF dan 6% Geo DMG Bonus. Karakter akan kehilangan 1 lapis setiap 6 detik jika tidak mendapatkan efek Curiosity baru.",
+        "IT": "#Un personaggio equipaggiato con questo set di manufatti ottiene l'effetto Curiosità come segue: quando è in campo, riceve 1 accumulo colpendo un avversario con un attacco di Geo, fino a una volta ogni 0,3 s; quando non è in campo, riceve 1 accumulo ogni 3 s. L'effetto Curiosità è cumulabile fino a 4 volte, e ciascun accumulo fornisce un 6% di DIF e di bonus DAN da Geo. Per ogni 6 s trascorsi senza ottenere un accumulo, ne perderai 1.",
+        "JP": "この聖遺物セットを装備したキャラクターは、以下の状況において「問答」効果を獲得する。「問答」効果：フィールド上で岩元素攻撃を敵に命中した後に1層獲得、0.3秒毎に1層のみ獲得できる。待機中の時は、3秒毎に自動で1層獲得する。重ね掛けできる「問答」は最大4層までとなり、1層につき防御力+6%、岩元素ダメージ+6%。6秒毎に「問答」効果を獲得していない場合は、1層失う。",
+        "KR": "해당 성유물 세트를 장착한 캐릭터는 아래 상황에서 「문답」 효과를 얻는다: 필드 위에서 바위 원소 공격으로 적 명중 시 1스택 획득, 0.3초마다 최대 1회 발동된다. 대기 상태일 때 3초마다 1스택 획득. 문답 효과는 최대 4스택까지 중첩 가능하고, 스택 당 6%의 방어력과 6%의 바위 원소 피해 보너스를 제공한다. 6초마다 문답 효과를 획득하지 못할 경우, 1스택이 차감된다",
+        "PT": "Um personagem com este conjunto de artefatos equipado obterá o efeito de Curiosidade nas seguintes condições: Quando estiver no campo de batalha, o personagem ganha 1 carga após atingir um adversário com um ataque Geo, isso pode ser desencadeado uma vez a cada 0.3s. Quando fora do campo de batalha, o personagem ganha 1 carga a cada 3s. A Curiosidade pode acumular em até 4 vezes, cada uma fornecendo 6% de DEF e um Bônus de Dano Geo de também 6%. Quando 6 segundos passam sem ganhar um acúmulo de Curiosidade, 1 acúmulo é perdido.",
+        "RU": "Персонаж, экипированный этим набором артефактов, получает эффект Любопытства в следующих ситуациях: 1 уровень Любопытства даётся активному персонажу после попадания по противнику атакой Гео (не чаще чем раз в 0,3 сек.); когда персонаж находится вне поля боя, он получает 1 ур. Любопытства каждые 3 сек. Любопытство может складываться до 4 ур., каждый ур. прибавляет 6% к защите и 6% к Гео урону. Если персонаж не получает Любопытство в течение 6 сек., то он теряет 1 накопленный уровень Любопытства.",
+        "TH": "ตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้จะได้รับเอฟเฟกต์ Curiosity ภายใต้สถานการณ์ต่อไปนี้: ในขณะที่อยู่ในการต่อสู้ จะได้รับหนึ่งชั้นหลังจากโจมตีถูกศัตรูด้วยธาตุหิน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.3 วินาที; เมื่ออยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้ ในทุก 3 วินาที จะได้รับหนึ่งชั้น โดยที่ Curiosity จะสามารถซ้อนทับได้มากสุด 4 ชั้น ซึ่งแต่ละชั้นจะมอบโบนัสพลังป้องกัน 6% และโบนัสความเสียหายธาตุหิน 6% และในทุก 6 วินาที หากไม่ได้รับเอฟเฟกต์ Curiosity จะสูญเสียหนึ่งชั้น",
+        "TR": "Bu Yadigar setini kuşanan bir karakter, aşağıdaki durumlarda Merak etkisi kazanır: Savaş alanındayken, karakter düşmanı bir Toprak saldırısıyla vurursa 1 kademe kazanır, 0,3 saniyede bir defa tetiklenebilir. Karakter savaş alanında değilken, her 3 saniyede 1 kademe kazanır. 4 kademeye kadar Merak birikebilir, her bir kademe %6 Savunma ve %6 Toprak Hasar Bonusu kazandırır. Bir Merak kademesi kazanılmadan 6 saniye geçtiğinde, 1 kademe kaybedilir.",
+        "VI": "Nhân vật trang bị bộ Thánh Di Vật này sẽ nhận hiệu quả \"Vấn Đáp\" trong các trường hợp sau đây: Sau khi nhân vật trong trận sử dụng tấn công Nguyên Tố Nham đánh trúng kẻ địch sẽ nhận 1 tầng, mỗi 0.3s tối đa kích hoạt 1 lần; trong đội chờ, mỗi 3s nhận 1 tầng. Vấn Đáp cộng dồn tối đa 4 tầng, mỗi tầng sẽ tăng 6% phòng ngự và 6% buff sát thương Nguyên Tố Nham. Mỗi 6s, nếu chưa nhận hiệu quả Vấn Đáp sẽ mất đi 1 tầng."
+      },
+      "affixId": "2150211"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Frost Burial",
+    "CHS": "霜葬",
+    "CHT": "霜葬",
+    "DE": "Frostgrab",
+    "ES": "Entierro helado",
+    "FR": "Deuil givré",
+    "ID": "Frost Burial",
+    "IT": "Sepoltura gelata",
+    "JP": "霜の埋葬",
+    "KR": "서리의 매장",
+    "PT": "Enterro Congelante",
+    "RU": "Морозное погребение",
+    "TH": "Frost Burial",
+    "TR": "Buzul Mezar",
+    "VI": "Sương Táng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Hitting an opponent with Normal and Charged Attacks has a 60% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 80% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 200% of ATK. Can only occur once every 10s.",
+        "CHS": "普通攻击与重击命中敌人时，有60%概率在敌人上方生成恒冰晶核并坠落，造成80%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%攻击力的伤害。该效果每10秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中敵人時，有60%機率在敵人上方生成恆冰晶核並墜落，造成80%攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成200%攻擊力的傷害。該效果每10秒至多觸發一次。",
+        "DE": "Erstellt beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 60 % über den Gegnern einen Kristallkern ewigen Eises, der herunterfällt und Flächenschaden in Höhe von 80 % ANG verursacht. Verursacht Schaden in Höhe von 200 % ANG, wenn die Gegner von Kryo-Effekten betroffen sind. 10 s Abklingzeit.",
+        "ES": "Al golpear a los enemigos con Ataques Normales y Cargados, hay un 60% de probabilidad de crear un carámbano sobre ellos. Al caer, el carámbano inflige un 80% de daño de ATQ en el AdE. Si los enemigos están afectados por Cryo, el daño de ATQ infligido será del 200%. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales et chargées ont 60 % de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à 80 % de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors 200 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, memiliki 60% persentase untuk menciptakan Everfrost Icicle di atas musuh, mengakibatkan DMG area sebesar 80% ATK. Jika musuh berada dalam efek Cryo, maka Everfrost Icicle akan mengakibatkan DMG sebesar 200% ATK. Efek ini dapat terpicu setiap 10 detik.",
+        "IT": "#Colpire un avversario con attacchi normali e caricati fornisce un 60% di probabilità di formare una stalattite di Etergelo sopra di esso, che infligge DAN ad area pari a un 80% dell'ATT. Se gli avversari sono sotto l'effetto di Cryo, subiscono DAN pari a un 200% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃または重撃が敵に命中した時、60%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の80%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の200%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격이 적에게 명중 시 60%의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 80%의 범위 피해를 준다. 적이 얼음 원소의 영향을 받으면 공격력 200%의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+        "PT": "Atingir um inimigo com um Ataque Normal e Ataque Carregado possui uma chance de 60% de formar e dropar um Núcleo de Cristal Eterno sobre eles, causando 80% de Dano de ATQ em uma AdE. Inimigos afetados por Cryo recebem 200% de Dano de ATQ. Pode ocorrer apenas uma vez a cada 10s.",
+        "RU": "Попадания обычной или заряженной атакой имеют 60% шанс создать над противником ледяной кристалл и уронить его, нанося 80% урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему 200% урона силы атаки. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกศัตรู จะมีโอกาส 60% ที่จะเกิด Everfrost Icicle ขึ้นบนตัวของศัตรูและร่วงลงมาใส่ เพื่อสร้างความเสียหายวงกว้างเป็น 80% ของพลังโจมตี หากศัตรูตกอยู่ภายใต้ผลกระทบของธาตุน้ำแข็ง จะสร้างความเสียหาย 200% ของพลังโจมตี โดยที่เอฟเฟกต์ดังกล่าวนี้จะเกิดได้ครั้งเดียวในทุก 10 วินาที",
+        "TR": "Bir düşmana Normal veya Yüklü Saldırılarla vurmak %60 ihtimalle düşmanın üzerine bir Hepbuzul Sarkıtı düşürerek %80 Saldırı kadar bir Alan Hasarı verir. Buz etkisi altındaki düşmanların aldığı Hasar %200 Saldırı kadar olur. 10 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng kẻ địch có tỷ lệ 60% tạo ra Đá Vĩnh Hằng phía trên kẻ địch và rơi xuống, gây sát thương phạm vi bằng 80% tấn công. Nếu địch bị ảnh hưởng bởi nguyên tố Băng, sẽ gây sát thương bằng 200% tấn công. Hiệu quả này mỗi 10s kích hoạt 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Hitting an opponent with Normal and Charged Attacks has a 70% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 95% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 240% of ATK. Can only occur once every 10s.",
+        "CHS": "普通攻击与重击命中敌人时，有70%概率在敌人上方生成恒冰晶核并坠落，造成95%攻击力的范围伤害。若敌人处于冰元素影响下，则造成240%攻击力的伤害。该效果每10秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中敵人時，有70%機率在敵人上方生成恆冰晶核並墜落，造成95%攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成240%攻擊力的傷害。該效果每10秒至多觸發一次。",
+        "DE": "Erstellt beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 70 % über den Gegnern einen Kristallkern ewigen Eises, der herunterfällt und Flächenschaden in Höhe von 95 % ANG verursacht. Verursacht Schaden in Höhe von 240 % ANG, wenn die Gegner von Kryo-Effekten betroffen sind. 10 s Abklingzeit.",
+        "ES": "Al golpear a los enemigos con Ataques Normales y Cargados, hay un 70% de probabilidad de crear un carámbano sobre ellos. Al caer, el carámbano inflige un 95% de daño de ATQ en el AdE. Si los enemigos están afectados por Cryo, el daño de ATQ infligido será del 240%. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales et chargées ont 70 % de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à 95 % de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors 240 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, memiliki 70% persentase untuk menciptakan Everfrost Icicle di atas musuh, mengakibatkan DMG area sebesar 95% ATK. Jika musuh berada dalam efek Cryo, maka Everfrost Icicle akan mengakibatkan DMG sebesar 240% ATK. Efek ini dapat terpicu setiap 10 detik.",
+        "IT": "#Colpire un avversario con attacchi normali e caricati fornisce un 70% di probabilità di formare una stalattite di Etergelo sopra di esso, che infligge DAN ad area pari a un 95% dell'ATT. Se gli avversari sono sotto l'effetto di Cryo, subiscono DAN pari a un 240% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃または重撃が敵に命中した時、70%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の95%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の240%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격이 적에게 명중 시 70%의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 95%의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 240%의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+        "PT": "Atingir um inimigo com um Ataque Normal e Ataque Carregado possui uma chance de 70% de formar e dropar um Núcleo de Cristal Eterno sobre eles, causando 95% de Dano de ATQ em uma AdE. Inimigos afetados por Cryo recebem 240% de Dano de ATQ. Pode ocorrer apenas uma vez a cada 10s.",
+        "RU": "Попадания обычной или заряженной атакой имеют 70% шанс создать над противником ледяной кристалл и уронить его, нанося 95% урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему 240% урона силы атаки. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกศัตรู จะมีโอกาส 70% ที่จะเกิด Everfrost Icicle ขึ้นบนตัวของศัตรูและร่วงลงมาใส่ เพื่อสร้างความเสียหายวงกว้างเป็น 95% ของพลังโจมตี หากศัตรูตกอยู่ภายใต้ผลกระทบของธาตุน้ำแข็ง จะสร้างความเสียหาย 240% ของพลังโจมตี โดยที่เอฟเฟกต์ดังกล่าวนี้จะเกิดได้ครั้งเดียวในทุก 10 วินาที",
+        "TR": "Bir düşmana Normal veya Yüklü Saldırılarla vurmak %70 ihtimalle düşmanın üzerine bir Hepbuzul Sarkıtı düşürerek %95 Saldırı kadar bir Alan Hasarı verir. Buz etkisi altındaki düşmanların aldığı Hasar %240 Saldırı kadar olur. 10 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng kẻ địch có tỷ lệ 70% tạo ra Đá Vĩnh Hằng phía trên kẻ địch và rơi xuống, gây sát thương phạm vi bằng 95% tấn công. Nếu địch bị ảnh hưởng bởi nguyên tố Băng, sẽ gây sát thương bằng 240% tấn công. Hiệu quả này mỗi 10s kích hoạt 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Hitting an opponent with Normal and Charged Attacks has an 80% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 110% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 280% of ATK. Can only occur once every 10s.",
+        "CHS": "普通攻击与重击命中敌人时，有80%概率在敌人上方生成恒冰晶核并坠落，造成110%攻击力的范围伤害。若敌人处于冰元素影响下，则造成280%攻击力的伤害。该效果每10秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中敵人時，有80%機率在敵人上方生成恆冰晶核並墜落，造成110%攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成280%攻擊力的傷害。該效果每10秒至多觸發一次。",
+        "DE": "Erstellt beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 80 % über den Gegnern einen Kristallkern ewigen Eises, der herunterfällt und Flächenschaden in Höhe von 110 % ANG verursacht. Verursacht Schaden in Höhe von 280 % ANG, wenn die Gegner von Kryo-Effekten betroffen sind. 10 s Abklingzeit.",
+        "ES": "Al golpear a los enemigos con Ataques Normales y Cargados, hay un 80% de probabilidad de crear un carámbano sobre ellos. Al caer, el carámbano inflige un 110% de daño de ATQ en el AdE. Si los enemigos están afectados por Cryo, el daño de ATQ infligido será del 280%. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales et chargées ont 80 % de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à 110 % de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors 280 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, memiliki 80% persentase untuk menciptakan Everfrost Icicle di atas musuh, mengakibatkan DMG area sebesar 110% ATK. Jika musuh berada dalam efek Cryo, maka Everfrost Icicle akan mengakibatkan DMG sebesar 280% ATK. Efek ini dapat terpicu setiap 10 detik.",
+        "IT": "#Colpire un avversario con attacchi normali e caricati fornisce un 80% di probabilità di formare una stalattite di Etergelo sopra di esso, che infligge DAN ad area pari a un 110% dell'ATT. Se gli avversari sono sotto l'effetto di Cryo, subiscono DAN pari a un 280% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃または重撃が敵に命中した時、80%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の110%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の280%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격이 적에게 명중 시 80%의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 110%의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 280%의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+        "PT": "Atingir um inimigo com um Ataque Normal e Ataque Carregado possui uma chance de 80% de formar e dropar um Núcleo de Cristal Eterno sobre eles, causando 110% de Dano de ATQ em uma AdE. Inimigos afetados por Cryo recebem 280% de Dano de ATQ. Pode ocorrer apenas uma vez a cada 10s.",
+        "RU": "Попадания обычной или заряженной атакой имеют 80% шанс создать над противником ледяной кристалл и уронить его, нанося 110% урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему 280% урона силы атаки. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกศัตรู จะมีโอกาส 80% ที่จะเกิด Everfrost Icicle ขึ้นบนตัวของศัตรูและร่วงลงมาใส่ เพื่อสร้างความเสียหายวงกว้างเป็น 110% ของพลังโจมตี หากศัตรูตกอยู่ภายใต้ผลกระทบของธาตุน้ำแข็ง จะสร้างความเสียหาย 280% ของพลังโจมตี โดยที่เอฟเฟกต์ดังกล่าวนี้จะเกิดได้ครั้งเดียวในทุก 10 วินาที",
+        "TR": "Bir düşmana Normal veya Yüklü Saldırılarla vurmak %80 ihtimalle düşmanın üzerine bir Hepbuzul Sarkıtı düşürerek %110 Saldırı kadar bir Alan Hasarı verir. Buz etkisi altındaki düşmanların aldığı Hasar %280 Saldırı kadar olur. 10 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng kẻ địch có tỷ lệ 80% tạo ra Đá Vĩnh Hằng phía trên kẻ địch và rơi xuống, gây sát thương phạm vi bằng 110% tấn công. Nếu địch bị ảnh hưởng bởi nguyên tố Băng, sẽ gây sát thương bằng 280% tấn công. Hiệu quả này mỗi 10s kích hoạt 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Hitting an opponent with Normal and Charged Attacks has a 90% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 125% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 320% of ATK. Can only occur once every 10s.",
+        "CHS": "普通攻击与重击命中敌人时，有90%概率在敌人上方生成恒冰晶核并坠落，造成125%攻击力的范围伤害。若敌人处于冰元素影响下，则造成320%攻击力的伤害。该效果每10秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中敵人時，有90%機率在敵人上方生成恆冰晶核並墜落，造成125%攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成320%攻擊力的傷害。該效果每10秒至多觸發一次。",
+        "DE": "Erstellt beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 90 % über den Gegnern einen Kristallkern ewigen Eises, der herunterfällt und Flächenschaden in Höhe von 125 % ANG verursacht. Verursacht Schaden in Höhe von 320 % ANG, wenn die Gegner von Kryo-Effekten betroffen sind. 10 s Abklingzeit.",
+        "ES": "Al golpear a los enemigos con Ataques Normales y Cargados, hay un 90% de probabilidad de crear un carámbano sobre ellos. Al caer, el carámbano inflige un 125% de daño de ATQ en el AdE. Si los enemigos están afectados por Cryo, el daño de ATQ infligido será del 320%. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales et chargées ont 90 % de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à 125 % de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors 320 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, memiliki 90% persentase untuk menciptakan Everfrost Icicle di atas musuh, mengakibatkan DMG area sebesar 125% ATK. Jika musuh berada dalam efek Cryo, maka Everfrost Icicle akan mengakibatkan DMG sebesar 320% ATK. Efek ini dapat terpicu setiap 10 detik.",
+        "IT": "#Colpire un avversario con attacchi normali e caricati fornisce un 90% di probabilità di formare una stalattite di Etergelo sopra di esso, che infligge DAN ad area pari a un 125% dell'ATT. Se gli avversari sono sotto l'effetto di Cryo, subiscono DAN pari a un 320% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃または重撃が敵に命中した時、90%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の125%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の320%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격이 적에게 명중 시 90%의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 125%의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 320%의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+        "PT": "Atingir um inimigo com um Ataque Normal e Ataque Carregado possui uma chance de 90% de formar e dropar um Núcleo de Cristal Eterno sobre eles, causando 125% de Dano de ATQ em uma AdE. Inimigos afetados por Cryo recebem 320% de Dano de ATQ. Pode ocorrer apenas uma vez a cada 10s.",
+        "RU": "Попадания обычной или заряженной атакой имеют 90% шанс создать над противником ледяной кристалл и уронить его, нанося 125% урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему 320% урона силы атаки. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกศัตรู จะมีโอกาส 90% ที่จะเกิด Everfrost Icicle ขึ้นบนตัวของศัตรูและร่วงลงมาใส่ เพื่อสร้างความเสียหายวงกว้างเป็น 125% ของพลังโจมตี หากศัตรูตกอยู่ภายใต้ผลกระทบของธาตุน้ำแข็ง จะสร้างความเสียหาย 320% ของพลังโจมตี โดยที่เอฟเฟกต์ดังกล่าวนี้จะเกิดได้ครั้งเดียวในทุก 10 วินาที",
+        "TR": "Bir düşmana Normal veya Yüklü Saldırılarla vurmak %90 ihtimalle düşmanın üzerine bir Hepbuzul Sarkıtı düşürerek %125 Saldırı kadar bir Alan Hasarı verir. Buz etkisi altındaki düşmanların aldığı Hasar %320 Saldırı kadar olur. 10 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng kẻ địch có tỷ lệ 90% tạo ra Đá Vĩnh Hằng phía trên kẻ địch và rơi xuống, gây sát thương phạm vi bằng 125% tấn công. Nếu địch bị ảnh hưởng bởi nguyên tố Băng, sẽ gây sát thương bằng 320% tấn công. Hiệu quả này mỗi 10s kích hoạt 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Hitting an opponent with Normal and Charged Attacks has a 100% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 140% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 360% of ATK. Can only occur once every 10s.",
+        "CHS": "普通攻击与重击命中敌人时，有100%概率在敌人上方生成恒冰晶核并坠落，造成140%攻击力的范围伤害。若敌人处于冰元素影响下，则造成360%攻击力的伤害。该效果每10秒至多触发一次。",
+        "CHT": "普通攻擊與重擊命中敵人時，有100%機率在敵人上方生成恆冰晶核並墜落，造成140%攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成360%攻擊力的傷害。該效果每10秒至多觸發一次。",
+        "DE": "Erstellt beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 100 % über den Gegnern einen Kristallkern ewigen Eises, der herunterfällt und Flächenschaden in Höhe von 140 % ANG verursacht. Verursacht Schaden in Höhe von 360 % ANG, wenn die Gegner von Kryo-Effekten betroffen sind. 10 s Abklingzeit.",
+        "ES": "Al golpear a los enemigos con Ataques Normales y Cargados, hay un 100% de probabilidad de crear un carámbano sobre ellos. Al caer, el carámbano inflige un 140% de daño de ATQ en el AdE. Si los enemigos están afectados por Cryo, el daño de ATQ infligido será del 360%. Este efecto solo puede ocurrir una vez cada 10 s.",
+        "FR": "Les attaques normales et chargées ont 100 % de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à 140 % de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors 360 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, memiliki 100% persentase untuk menciptakan Everfrost Icicle di atas musuh, mengakibatkan DMG area sebesar 140% ATK. Jika musuh berada dalam efek Cryo, maka Everfrost Icicle akan mengakibatkan DMG sebesar 360% ATK. Efek ini dapat terpicu setiap 10 detik.",
+        "IT": "#Colpire un avversario con attacchi normali e caricati fornisce un 100% di probabilità di formare una stalattite di Etergelo sopra di esso, che infligge DAN ad area pari a un 140% dell'ATT. Se gli avversari sono sotto l'effetto di Cryo, subiscono DAN pari a un 360% dell'ATT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "通常攻撃または重撃が敵に命中した時、100%の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の140%の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の360%のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격이 적에게 명중 시 100%의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 140%의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 360%의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+        "PT": "Atingir um inimigo com um Ataque Normal e Ataque Carregado possui uma chance de 100% de formar e dropar um Núcleo de Cristal Eterno sobre eles, causando 140% de Dano de ATQ em uma AdE. Inimigos afetados por Cryo recebem 360% de Dano de ATQ. Pode ocorrer apenas uma vez a cada 10s.",
+        "RU": "Попадания обычной или заряженной атакой имеют 100% шанс создать над противником ледяной кристалл и уронить его, нанося 140% урона силы атаки по площади. Если противник имеет эффект Крио, то наносит ему 360% урона силы атаки. Может возникнуть раз в 10 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกศัตรู จะมีโอกาส 100% ที่จะเกิด Everfrost Icicle ขึ้นบนตัวของศัตรูและร่วงลงมาใส่ เพื่อสร้างความเสียหายวงกว้างเป็น 140% ของพลังโจมตี หากศัตรูตกอยู่ภายใต้ผลกระทบของธาตุน้ำแข็ง จะสร้างความเสียหาย 360% ของพลังโจมตี โดยที่เอฟเฟกต์ดังกล่าวนี้จะเกิดได้ครั้งเดียวในทุก 10 วินาที",
+        "TR": "Bir düşmana Normal veya Yüklü Saldırılarla vurmak %100 ihtimalle düşmanın üzerine bir Hepbuzul Sarkıtı düşürerek %140 Saldırı kadar bir Alan Hasarı verir. Buz etkisi altındaki düşmanların aldığı Hasar %360 Saldırı kadar olur. 10 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng kẻ địch có tỷ lệ 100% tạo ra Đá Vĩnh Hằng phía trên kẻ địch và rơi xuống, gây sát thương phạm vi bằng 140% tấn công. Nếu địch bị ảnh hưởng bởi nguyên tố Băng, sẽ gây sát thương bằng 360% tấn công. Hiệu quả này mỗi 10s kích hoạt 1 lần."
+      }
+    }
+  ]
+}

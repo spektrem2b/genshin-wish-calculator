@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Echoing Ballad",
+    "CHS": "回响长天的诗歌",
+    "CHT": "迴響長天的詩歌",
+    "DE": "Widerhallende Ballade",
+    "ES": "Balada resonante",
+    "FR": "Ballade résonnante",
+    "ID": "Echoing Ballad",
+    "IT": "Ballata risonante",
+    "JP": "天に響く詩",
+    "KR": "하늘에 메아리치는 노래",
+    "PT": "Balada Retumbante",
+    "RU": "Эхо небесной поэзии",
+    "TH": "Echoing Ballad",
+    "TR": "Yankılanan Balat",
+    "VI": "Bài Thơ Vang Lên Trời Cao"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s.",
+        "CHS": "暴击伤害提高20%；攻击命中时有60%概率造成125%攻击力的小范围物理伤害，该效果每4秒只能触发一次。",
+        "CHT": "暴擊傷害提高20%；攻擊命中時有60%的機率造成125%攻擊力的小範圍物理傷害，該效果每4秒只能觸發一次。",
+        "DE": "Erhöht den KSCH um 20 % und verursacht bei einem Treffer mit einer Wahrscheinlichkeit von 60 % physischen Schaden mit geringer Reichweite in Höhe von 125 % ANG. 4 s Abklingzeit.",
+        "ES": "Aumenta el Daño CRIT en un 20%. Al golpear a un enemigo, hay un 60% de probabilidad de infligir un 125% de Daño Físico en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 4 s.",
+        "FR": "Augmente les DGT CRIT de 20 %. Toucher un ennemi a 60 % de chances d'infliger des DGT physiques équivalant à 125 % de l'ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 4 s.",
+        "ID": "Meningkatkan 20% CRIT DMG. Saat serangan mengenai musuh, memiliki 60% persentase untuk mengakibatkan DMG pada area kecil sebesar 125% ATK. Dapat terpicu setiap 4 detik.",
+        "IT": "#Aumenta i DAN da CRIT di un 20%. I colpi hanno un 60% di probabilità d'infliggere un 125% di DAN da ATT fisico in una piccola area d'effetto. Si può verificare una sola volta ogni 4 s.",
+        "JP": "会心ダメージ+20%。攻撃が命中した時、60%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。4秒毎に1回のみ発動可能。",
+        "KR": "치명타 피해+20%. 공격 명중 시 60%의 확률로 공격력 125%의 범위 물리 피해를 준다. 해당 효과는 4초마다 1번 발동한다",
+        "PT": "Aumenta o Dano Crítico em 20%. Ao acertar, possui 60% de chance de infligir um pequeno ataque AdE, causando 125% de Dano de ATQ Físico. Pode ser ativada uma vez a cada 4s.",
+        "RU": "Увеличивает крит. урон на 20%. При попадании есть 60% шанс нанести 125% физ. урона в небольшом радиусе. Может возникнуть раз в 4 сек.",
+        "TH": "เพิ่มความแรงคริขึ้น 20%; เมื่อการโจมตีโดนเป้าหมายจะมีโอกาส 60% ที่จะสร้างความเสียหายกายภาพเป็น 125% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในอาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 4 วินาที",
+        "TR": "Kritik Hasarı %20 artırır. Vuruşlar %60 ihtimalle küçük bir alanda etkili saldırıya dönüşerek %125 Fiziksel Saldırı kadar Hasar verir. 4 saniyede bir uygulanabilir.",
+        "VI": "Sát thương bạo kích tăng 20%; Khi đánh trúng có 60% tỷ lệ tạo thành sát thương vật lý 125% trong phạm vi nhỏ, mỗi 4s mới có hiệu quả một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases CRIT DMG by 25%. Hits have a 70% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 3.5s.",
+        "CHS": "暴击伤害提高25%；攻击命中时有70%概率造成125%攻击力的小范围物理伤害，该效果每3.5秒只能触发一次。",
+        "CHT": "暴擊傷害提高25%；攻擊命中時有70%的機率造成125%攻擊力的小範圍物理傷害，該效果每3.5秒只能觸發一次。",
+        "DE": "Erhöht den KSCH um 25 % und verursacht bei einem Treffer mit einer Wahrscheinlichkeit von 70 % physischen Schaden mit geringer Reichweite in Höhe von 125 % ANG. 3,5 s Abklingzeit.",
+        "ES": "Aumenta el Daño CRIT en un 25%. Al golpear a un enemigo, hay un 70% de probabilidad de infligir un 125% de Daño Físico en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 3.5 s.",
+        "FR": "#Augmente les DGT CRIT de 25 %. Toucher un ennemi a 70 % de chances d'infliger des DGT physiques équivalant à 125 % de l'ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 3,5 s.",
+        "ID": "Meningkatkan 25% CRIT DMG. Saat serangan mengenai musuh, memiliki 70% persentase untuk mengakibatkan DMG pada area kecil sebesar 125% ATK. Dapat terpicu setiap 3,5 detik.",
+        "IT": "#Aumenta i DAN da CRIT di un 25%. I colpi hanno un 70% di probabilità d'infliggere un 125% di DAN da ATT fisico in una piccola area d'effetto. Si può verificare una sola volta ogni 3,5 s.",
+        "JP": "会心ダメージ+25%。攻撃が命中した時、70%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。3.5秒毎に1回のみ発動可能。",
+        "KR": "치명타 피해+25%. 공격 명중 시 70%의 확률로 공격력 125%의 범위 물리 피해를 준다. 해당 효과는 3.5초마다 1번 발동한다",
+        "PT": "Aumenta o Dano Crítico em 25%. Ao acertar, possui 70% de chance de infligir um pequeno ataque AdE, causando 125% de Dano de ATQ Físico. Pode ser ativada uma vez a cada 3.5s.",
+        "RU": "Увеличивает крит. урон на 25%. При попадании есть 70% шанс нанести 125% физ. урона в небольшом радиусе. Может возникнуть раз в 3,5 сек.",
+        "TH": "เพิ่มความแรงคริขึ้น 25%; เมื่อการโจมตีโดนเป้าหมายจะมีโอกาส 70% ที่จะสร้างความเสียหายกายภาพเป็น 125% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในอาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 3.5 วินาที",
+        "TR": "Kritik Hasarı %25 artırır. Vuruşlar %70 ihtimalle küçük bir alanda etkili saldırıya dönüşerek %125 Fiziksel Saldırı kadar Hasar verir. 3,5 saniyede bir uygulanabilir.",
+        "VI": "Sát thương bạo kích tăng 25%; Khi đánh trúng có 70% tỷ lệ tạo thành sát thương vật lý 125% trong phạm vi nhỏ, mỗi 3.5s mới có hiệu quả một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases CRIT DMG by 30%. Hits have a 80% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 3s.",
+        "CHS": "暴击伤害提高30%；攻击命中时有80%概率造成125%攻击力的小范围物理伤害，该效果每3秒只能触发一次。",
+        "CHT": "暴擊傷害提高30%；攻擊命中時有80%的機率造成125%攻擊力的小範圍物理傷害，該效果每3秒只能觸發一次。",
+        "DE": "Erhöht den KSCH um 30 % und verursacht bei einem Treffer mit einer Wahrscheinlichkeit von 80 % physischen Schaden mit geringer Reichweite in Höhe von 125 % ANG. 3 s Abklingzeit.",
+        "ES": "Aumenta el Daño CRIT en un 30%. Al golpear a un enemigo, hay un 80% de probabilidad de infligir un 125% de Daño Físico en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 3 s.",
+        "FR": "#Augmente les DGT CRIT de 30 %. Toucher un ennemi a 80 % de chances d'infliger des DGT physiques équivalant à 125 % de l'ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 3 s.",
+        "ID": "Meningkatkan 30% CRIT DMG. Saat serangan mengenai musuh, memiliki 80% persentase untuk mengakibatkan DMG pada area kecil sebesar 125% ATK. Dapat terpicu setiap 3 detik.",
+        "IT": "#Aumenta i DAN da CRIT di un 30%. I colpi hanno un 80% di probabilità d'infliggere un 125% di DAN da ATT fisico in una piccola area d'effetto. Si può verificare una sola volta ogni 3 s.",
+        "JP": "会心ダメージ+30%。攻撃が命中した時、80%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。3秒毎に1回のみ発動可能。",
+        "KR": "치명타 피해+30%. 공격 명중 시 80%의 확률로 공격력 125%의 범위 물리 피해를 준다. 해당 효과는 3초마다 1번 발동한다",
+        "PT": "Aumenta o Dano Crítico em 30%. Ao acertar, possui 80% de chance de infligir um pequeno ataque AdE, causando 125% de Dano de ATQ Físico. Pode ser ativada uma vez a cada 3s.",
+        "RU": "Увеличивает крит. урон на 30%. При попадании есть 80% шанс нанести 125% физ. урона в небольшом радиусе. Может возникнуть раз в 3 сек.",
+        "TH": "เพิ่มความแรงคริขึ้น 30%; เมื่อการโจมตีโดนเป้าหมายจะมีโอกาส 80% ที่จะสร้างความเสียหายกายภาพเป็น 125% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในอาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 3 วินาที",
+        "TR": "Kritik Hasarı %30 artırır. Vuruşlar %80 ihtimalle küçük bir alanda etkili saldırıya dönüşerek %125 Fiziksel Saldırı kadar Hasar verir. 3 saniyede bir uygulanabilir.",
+        "VI": "Sát thương bạo kích tăng 30%; Khi đánh trúng có 80% tỷ lệ tạo thành sát thương vật lý 125% trong phạm vi nhỏ, mỗi 3s mới có hiệu quả một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases CRIT DMG by 35%. Hits have a 90% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2.5s.",
+        "CHS": "暴击伤害提高35%；攻击命中时有90%概率造成125%攻击力的小范围物理伤害，该效果每2.5秒只能触发一次。",
+        "CHT": "暴擊傷害提高35%；攻擊命中時有90%的機率造成125%攻擊力的小範圍物理傷害，該效果每2.5秒只能觸發一次。",
+        "DE": "Erhöht den KSCH um 35 % und verursacht bei einem Treffer mit einer Wahrscheinlichkeit von 90 % physischen Schaden mit geringer Reichweite in Höhe von 125 % ANG. 2,5 s Abklingzeit.",
+        "ES": "Aumenta el Daño CRIT en un 35%. Al golpear a un enemigo, hay un 90% de probabilidad de infligir un 125% de Daño Físico en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 2.5 s.",
+        "FR": "#Augmente les DGT CRIT de 35 %. Toucher un ennemi a 90 % de chances d'infliger des DGT physiques équivalant à 125 % de l'ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 2,5 s.",
+        "ID": "Meningkatkan 35% CRIT DMG. Saat serangan mengenai musuh, memiliki 90% persentase untuk mengakibatkan DMG pada area kecil sebesar 125% ATK. Dapat terpicu setiap 2,5 detik.",
+        "IT": "#Aumenta i DAN da CRIT di un 35%. I colpi hanno un 90% di probabilità d'infliggere un 125% di DAN da ATT fisico in una piccola area d'effetto. Si può verificare una sola volta ogni 2,5 s.",
+        "JP": "会心ダメージ+35%。攻撃が命中した時、90%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。2.5秒毎に1回のみ発動可能。",
+        "KR": "치명타 피해+35%. 공격 명중 시 90%의 확률로 공격력 125%의 범위 물리 피해를 준다. 해당 효과는 2.5초마다 1번 발동한다",
+        "PT": "Aumenta o Dano Crítico em 35%. Ao acertar, possui 90% de chance de infligir um pequeno ataque AdE, causando 125% de Dano de ATQ Físico. Pode ser ativada uma vez a cada 2.5s.",
+        "RU": "Увеличивает крит. урон на 35%. При попадании есть 90% шанс нанести 125% физ. урона в небольшом радиусе. Может возникнуть раз в 2,5 сек.",
+        "TH": "เพิ่มความแรงคริขึ้น 35%; เมื่อการโจมตีโดนเป้าหมายจะมีโอกาส 90% ที่จะสร้างความเสียหายกายภาพเป็น 125% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในอาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 2.5 วินาที",
+        "TR": "Kritik Hasarı %35 artırır. Vuruşlar %90 ihtimalle küçük bir alanda etkili saldırıya dönüşerek %125 Fiziksel Saldırı kadar Hasar verir. 2,5 saniyede bir uygulanabilir.",
+        "VI": "Sát thương bạo kích tăng 35%; Khi đánh trúng có 90% tỷ lệ tạo thành sát thương vật lý 125% trong phạm vi nhỏ, mỗi 2.5s mới có hiệu quả một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases CRIT DMG by 40%. Hits have a 100% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2s.",
+        "CHS": "暴击伤害提高40%；攻击命中时有100%概率造成125%攻击力的小范围物理伤害，该效果每2秒只能触发一次。",
+        "CHT": "暴擊傷害提高40%；攻擊命中時有100%的機率造成125%攻擊力的小範圍物理傷害，該效果每2秒只能觸發一次。",
+        "DE": "Erhöht den KSCH um 40 % und verursacht bei einem Treffer mit einer Wahrscheinlichkeit von 100 % physischen Schaden mit geringer Reichweite in Höhe von 125 % ANG. 2 s Abklingzeit.",
+        "ES": "Aumenta el Daño CRIT en un 40%. Al golpear a un enemigo, hay un 100% de probabilidad de infligir un 125% de Daño Físico en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 2 s.",
+        "FR": "#Augmente les DGT CRIT de 40 %. Toucher un ennemi a 100 % de chances d'infliger des DGT physiques équivalant à 125 % de l'ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 2 s.",
+        "ID": "Meningkatkan 40% CRIT DMG. Saat serangan mengenai musuh, memiliki 100% persentase untuk mengakibatkan DMG pada area kecil sebesar 125% ATK. Dapat terpicu setiap 2 detik.",
+        "IT": "#Aumenta i DAN da CRIT di un 40%. I colpi hanno un 100% di probabilità d'infliggere un 125% di DAN da ATT fisico in una piccola area d'effetto. Si può verificare una sola volta ogni 2 s.",
+        "JP": "会心ダメージ+40%。攻撃が命中した時、100%の確率で狭範囲内の敵に攻撃力の125%の物理ダメージを与える。2秒毎に1回のみ発動可能。",
+        "KR": "치명타 피해+40%. 공격 명중 시 100%의 확률로 공격력 125%의 범위 물리 피해를 준다. 해당 효과는 2초마다 1번 발동한다",
+        "PT": "Aumenta o Dano Crítico em 40%. Ao acertar, possui 125% de chance de infligir um pequeno ataque AdE, causando 100% de Dano de ATQ Físico. Pode ser ativada uma vez a cada 2s.",
+        "RU": "Увеличивает крит. урон на 40%. При попадании есть 100% шанс нанести 125% физ. урона в небольшом радиусе. Может возникнуть раз в 2 сек.",
+        "TH": "เพิ่มความแรงคริขึ้น 40%; เมื่อการโจมตีโดนเป้าหมายจะมีโอกาส 100% ที่จะสร้างความเสียหายกายภาพเป็น 125% ของพลังโจมตีให้แก่ศัตรูที่อยู่ในอาณาเขตเล็ก ๆ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 2 วินาที",
+        "TR": "Kritik Hasarı %40 artırır. Vuruşlar %100 ihtimalle küçük bir alanda etkili saldırıya dönüşerek %125 Fiziksel Saldırı kadar Hasar verir. 2 saniyede bir uygulanabilir.",
+        "VI": "Sát thương bạo kích tăng 40%; Khi đánh trúng có 100% tỷ lệ tạo thành sát thương vật lý 125% trong phạm vi nhỏ, mỗi 2s mới có hiệu quả một lần."
+      }
+    }
+  ]
+}

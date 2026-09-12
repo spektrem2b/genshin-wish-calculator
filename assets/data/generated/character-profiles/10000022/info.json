@@ -1,0 +1,137 @@
+{
+  "id": "10000022",
+  "name": {
+    "EN": "Venti",
+    "CHS": "温迪",
+    "CHT": "溫迪",
+    "DE": "Venti",
+    "ES": "Venti",
+    "FR": "Venti",
+    "ID": "Venti",
+    "IT": "Venti",
+    "JP": "ウェンティ",
+    "KR": "벤티",
+    "PT": "Venti",
+    "RU": "Венти",
+    "TH": "Venti",
+    "TR": "Venti",
+    "VI": "Venti"
+  },
+  "nameEn": "Venti",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 6,
+    "day": 16
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000022/avatar.webp",
+  "fullWish": "generated/character-profiles/10000022/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 18.5%",
+  "title": {
+    "EN": "Windborne Bard",
+    "CHS": "风色诗人",
+    "CHT": "風色詩人",
+    "DE": "Wandernder Barde",
+    "ES": "El Bardo Itinerante",
+    "FR": "Barde itinérant",
+    "ID": "Windborne Bard",
+    "IT": "Bardo itinerante",
+    "JP": "風色の詩人",
+    "KR": "바람의 시인",
+    "PT": "Bardo Itinerante",
+    "RU": "Поэт ветров",
+    "TH": "นักกวีแห่งสายลม",
+    "TR": "Rüzgarın Ozanı",
+    "VI": "Nhà Thơ Có Màu Của Gió"
+  },
+  "description": {
+    "EN": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+    "CHS": "蒙德城诸多吟游诗人中的一位，自由自在地穿行在街头巷尾。",
+    "CHT": "蒙德城諸多吟遊詩人中的一位，自由自在地穿行在街頭巷尾。",
+    "DE": "Einer der vielen Barden in Mondstadt, der frei und wohlgemut durch die Gassen schlendert.",
+    "ES": "Uno de los muchos bardos de Mondstadt que deambula libremente por las calles y callejones de la ciudad.",
+    "FR": "Un des nombreux bardes de Mondstadt, qui aime à se promener dans tous les recoins de la cité.",
+    "ID": "Salah satu dari banyaknya penyair di Mondstadt yang bisa dengan bebasnya ke sana kemari di antara lorong-lorong dan gang-gang Mondstadt.",
+    "IT": "Un bardo di Mondstadt, che vaga liberamente per le strade e le vie della città.",
+    "JP": "モンドの街にいる、数多くの自由な吟遊詩人の一人。",
+    "KR": "몬드성의 수많은 음유시인 중 한 명. 자유롭게 몬드의 구석구석을 드나든다",
+    "PT": "Um dos muitos bardos de Mondstadt que vagueia livremente pelas ruas e becos da cidade.",
+    "RU": "Обычный бард, слоняющийся по улочкам Мондштадта.",
+    "TH": "หนึ่งในนักกวีพเนจร ที่มีอยู่มากมายใน Mondstadt ผู้เดินเตร่ไปตามถนนซอกซอย อย่างอิสรเสรี",
+    "TR": "Mondstadt'ın cadde ve sokaklarında özgürce dolaşan, şehrin çok sayıdaki ozanından biri.",
+    "VI": "Một trong các nhà thơ thành Mondstadt, tự do tự tại đi khắp hang cùng ngõ hẻm."
+  },
+  "constellationName": {
+    "EN": "Carmen Dei",
+    "CHS": "歌仙座",
+    "CHT": "歌仙座",
+    "DE": "Carmen Dei",
+    "ES": "Carmen Dei",
+    "FR": "Carmen Dei",
+    "ID": "Carmen Dei",
+    "IT": "Carmen Dei",
+    "JP": "歌仙座",
+    "KR": "가선자리",
+    "PT": "Carmen Dei",
+    "RU": "Бог Песен",
+    "TH": "Carmen Dei",
+    "TR": "Tanrıların Şarkısı",
+    "VI": "Cung Ca Tiên"
+  },
+  "native": {
+    "EN": "Mondstadt",
+    "CHS": "蒙德城",
+    "CHT": "蒙德城",
+    "DE": "Mondstadt",
+    "ES": "Mondstadt",
+    "FR": "Cité de Mondstadt",
+    "ID": "Mondstadt",
+    "IT": "Mondstadt",
+    "JP": "モンド城",
+    "KR": "몬드성",
+    "PT": "Mondstadt",
+    "RU": "Мондштадт",
+    "TH": "Mondstadt",
+    "TR": "Mondstadt",
+    "VI": "Thành Mondstadt"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Erika Harlacher"
+    },
+    {
+      "lang": "CHS",
+      "va": "喵酱"
+    },
+    {
+      "lang": "JP",
+      "va": "村瀬歩"
+    },
+    {
+      "lang": "KR",
+      "va": "Jung Yoo-jung"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 819.8552,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 20.482,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 52.0521,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

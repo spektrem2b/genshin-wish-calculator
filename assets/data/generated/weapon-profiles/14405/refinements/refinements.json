@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Solar Shine",
+    "CHS": "日月辉",
+    "CHT": "日月輝",
+    "DE": "Himmlisches Leuchten",
+    "ES": "Brillo solar",
+    "FR": "Rayonnement céleste",
+    "ID": "Solar Shine",
+    "IT": "Splendore solare",
+    "JP": "日月の輝き",
+    "KR": "해와 달의 광휘",
+    "PT": "Brilho Celestial",
+    "RU": "Божественный свет",
+    "TH": "Solar Shine",
+    "TR": "Güneş Parıltısı",
+    "VI": "Nhật Nguyệt Huy"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 20% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 20% for 6s.",
+        "CHS": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高20%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高20%。",
+        "CHT": "普通攻擊命中後的6秒內，元素戰技與元素爆發的傷害提高20%；元素戰技與元素爆發命中後的6秒內，普通攻擊的傷害提高20%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten bei Treffern mit Standardangriffen 6 s lang um 20 %. Erhöht den Schaden von Standardangriffen bei Treffern mit Elementarfähigkeiten und Spezialfähigkeiten 6 s lang um 20 %.",
+        "ES": "Tras golpear a un enemigo con un Ataque Normal, el daño de la Habilidad Elemental y la Habilidad Definitiva aumenta en un 20% durante 6 s. Además, tras golpear a un enemigo con una Habilidad Elemental o Definitiva, el daño de Ataque Normal aumenta en un 20% durante 6 s.",
+        "FR": "Les attaques normales augmentent pendant 6 s les DGT des compétences et des déchaînements élémentaires de 20 % lorsqu'elles touchent. Les compétences et déchaînements élémentaires augmentent pendant 6 s les DGT des attaques normales de 20 % lorsqu'elles touchent.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 20% DMG Elemental Skill dan Elemental Burst selama 6 detik. Sebaliknya, saat Elemental Skill atau Elemental Burst mengenai musuh, meningkatkan 20% DMG Normal Attack selama 6 detik.",
+        "IT": "#I colpi da attacco normale aumentano i DAN da abilità elementale e Tripudio elementale di un 20% per 6 s. Allo stesso modo, i colpi da abilità elementale e Tripudio elementale aumentano i DAN da attacco normale di un 20% per 6 s.",
+        "JP": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+20%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+20%。",
+        "KR": "일반 공격 명중 후 6초 동안 원소전투 스킬과 원소폭발의 피해가 20% 증가한다. 원소전투 스킬과 원소폭발 명중 후 6초 동안 일반 공격 피해가 20% 증가한다",
+        "PT": "Dentro de 6s após acertar um Ataque Normal, o Dano da Habilidade Elemental e do Supremo aumentam em 20%. Dentro de 6s após acertar uma Habilidade Elemental e o Supremo, o Dano do Ataque Normal aumenta 20%.",
+        "RU": "Попадания обычной атакой увеличивают урон элементальных навыков и взрыва стихии на 20% в течение 6 сек. И наоборот, попадания элементальными навыками и взрывом стихии увеличивают урон обычной атаки на 20% в течение 6 сек.",
+        "TH": "ภายในเวลา 6 วินาที หลังจากที่การโจมตีปกติถูกเป้าหมาย ความเสียหายของสกิลธาตุและท่าไม้ตายจะเพิ่มขึ้น 20%; ภายในเวลา 6 วินาทีหลังจากสกิลธาตุและท่าไม้ตายถูกเป้าหมาย ความเสียหายของการโจมตีปกติจะเพิ่มขึ้น 20%",
+        "TR": "Normal Saldırı vuruşları 6 saniyeliğine Element Becerisi ve Element Patlaması Hasarını %20 artırır. Benzer şekilde Element Becerisi ve Element Patlaması vuruşları da 6 saniyeliğine Normal Saldırı Hasarını %20 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương kỹ năng Nguyên Tố và kỹ năng nộ tăng 20%; Trong 6s sau khi kỹ năng nguyên tố và kỹ năng nộ đánh trúng địch, sát thương tấn công thường tăng 20%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 25% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 25% for 6s.",
+        "CHS": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高25%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高25%。",
+        "CHT": "普通攻擊命中後的6秒內，元素戰技與元素爆發的傷害提高25%；元素戰技與元素爆發命中後的6秒內，普通攻擊的傷害提高25%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten bei Treffern mit Standardangriffen 6 s lang um 25 %. Erhöht den Schaden von Standardangriffen bei Treffern mit Elementarfähigkeiten und Spezialfähigkeiten 6 s lang um 25 %.",
+        "ES": "Tras golpear a un enemigo con un Ataque Normal, el daño de la Habilidad Elemental y la Habilidad Definitiva aumenta en un 25% durante 6 s. Además, tras golpear a un enemigo con una Habilidad Elemental o Definitiva, el daño de Ataque Normal aumenta en un 25% durante 6 s.",
+        "FR": "Les attaques normales augmentent pendant 6 s les DGT des compétences et des déchaînements élémentaires de 25 % lorsqu'elles touchent. Les compétences et déchaînements élémentaires augmentent pendant 6 s les DGT des attaques normales de 25 % lorsqu'elles touchent.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 25% DMG Elemental Skill dan Elemental Burst selama 6 detik. Sebaliknya, saat Elemental Skill atau Elemental Burst mengenai musuh, meningkatkan 25% DMG Normal Attack selama 6 detik.",
+        "IT": "#I colpi da attacco normale aumentano i DAN da abilità elementale e Tripudio elementale di un 25% per 6 s. Allo stesso modo, i colpi da abilità elementale e Tripudio elementale aumentano i DAN da attacco normale di un 25% per 6 s.",
+        "JP": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+25%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+25%。",
+        "KR": "일반 공격 명중 후 6초 동안 원소전투 스킬과 원소폭발의 피해가 25% 증가한다. 원소전투 스킬과 원소폭발 명중 후 6초 동안 일반 공격 피해가 25% 증가한다",
+        "PT": "Dentro de 6s após acertar um Ataque Normal, o Dano da Habilidade Elemental e do Supremo aumentam em 25%. Dentro de 6s após acertar uma Habilidade Elemental e o Supremo, o Dano do Ataque Normal aumenta 25%.",
+        "RU": "Попадания обычной атакой увеличивают урон элементальных навыков и взрыва стихии на 25% в течение 6 сек. И наоборот, попадания элементальными навыками и взрывом стихии увеличивают урон обычной атаки на 25% в течение 6 сек.",
+        "TH": "ภายในเวลา 6 วินาที หลังจากที่การโจมตีปกติถูกเป้าหมาย ความเสียหายของสกิลธาตุและท่าไม้ตายจะเพิ่มขึ้น 25%; ภายในเวลา 6 วินาทีหลังจากสกิลธาตุและท่าไม้ตายถูกเป้าหมาย ความเสียหายของการโจมตีปกติจะเพิ่มขึ้น 25%",
+        "TR": "Normal Saldırı vuruşları 6 saniyeliğine Element Becerisi ve Element Patlaması Hasarını %25 artırır. Benzer şekilde Element Becerisi ve Element Patlaması vuruşları da 6 saniyeliğine Normal Saldırı Hasarını %25 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương kỹ năng Nguyên Tố và kỹ năng nộ tăng 25%; Trong 6s sau khi kỹ năng nguyên tố và kỹ năng nộ đánh trúng địch, sát thương tấn công thường tăng 25%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 30% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 30% for 6s.",
+        "CHS": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高30%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高30%。",
+        "CHT": "普通攻擊命中後的6秒內，元素戰技與元素爆發的傷害提高30%；元素戰技與元素爆發命中後的6秒內，普通攻擊的傷害提高30%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten bei Treffern mit Standardangriffen 6 s lang um 30 %. Erhöht den Schaden von Standardangriffen bei Treffern mit Elementarfähigkeiten und Spezialfähigkeiten 6 s lang um 30 %.",
+        "ES": "Tras golpear a un enemigo con un Ataque Normal, el daño de la Habilidad Elemental y la Habilidad Definitiva aumenta en un 30% durante 6 s. Además, tras golpear a un enemigo con una Habilidad Elemental o Definitiva, el daño de Ataque Normal aumenta en un 30% durante 6 s.",
+        "FR": "Les attaques normales augmentent pendant 6 s les DGT des compétences et des déchaînements élémentaires de 30 % lorsqu'elles touchent. Les compétences et déchaînements élémentaires augmentent pendant 6 s les DGT des attaques normales de 30 % lorsqu'elles touchent.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 30% DMG Elemental Skill dan Elemental Burst selama 6 detik. Sebaliknya, saat Elemental Skill atau Elemental Burst mengenai musuh, meningkatkan 30% DMG Normal Attack selama 6 detik.",
+        "IT": "#I colpi da attacco normale aumentano i DAN da abilità elementale e Tripudio elementale di un 30% per 6 s. Allo stesso modo, i colpi da abilità elementale e Tripudio elementale aumentano i DAN da attacco normale di un 30% per 6 s.",
+        "JP": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+30%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+30%。",
+        "KR": "일반 공격 명중 후 6초 동안 원소전투 스킬과 원소폭발의 피해가 30% 증가한다. 원소전투 스킬과 원소폭발 명중 후 6초 동안 일반 공격 피해가 30% 증가한다",
+        "PT": "Dentro de 6s após acertar um Ataque Normal, o Dano da Habilidade Elemental e do Supremo aumentam em 30%. Dentro de 6s após acertar uma Habilidade Elemental e o Supremo, o Dano do Ataque Normal aumenta 30%.",
+        "RU": "Попадания обычной атакой увеличивают урон элементальных навыков и взрыва стихии на 30% в течение 6 сек. И наоборот, попадания элементальными навыками и взрывом стихии увеличивают урон обычной атаки на 30% в течение 6 сек.",
+        "TH": "ภายในเวลา 6 วินาที หลังจากที่การโจมตีปกติถูกเป้าหมาย ความเสียหายของสกิลธาตุและท่าไม้ตายจะเพิ่มขึ้น 30%; ภายในเวลา 6 วินาทีหลังจากสกิลธาตุและท่าไม้ตายถูกเป้าหมาย ความเสียหายของการโจมตีปกติจะเพิ่มขึ้น 30%",
+        "TR": "Normal Saldırı vuruşları 6 saniyeliğine Element Becerisi ve Element Patlaması Hasarını %30 artırır. Benzer şekilde Element Becerisi ve Element Patlaması vuruşları da 6 saniyeliğine Normal Saldırı Hasarını %30 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương kỹ năng Nguyên Tố và kỹ năng nộ tăng 30%; Trong 6s sau khi kỹ năng nguyên tố và kỹ năng nộ đánh trúng địch, sát thương tấn công thường tăng 30%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 35% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 35% for 6s.",
+        "CHS": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高35%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高35%。",
+        "CHT": "普通攻擊命中後的6秒內，元素戰技與元素爆發的傷害提高35%；元素戰技與元素爆發命中後的6秒內，普通攻擊的傷害提高35%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten bei Treffern mit Standardangriffen 6 s lang um 35 %. Erhöht den Schaden von Standardangriffen bei Treffern mit Elementarfähigkeiten und Spezialfähigkeiten 6 s lang um 35 %.",
+        "ES": "Tras golpear a un enemigo con un Ataque Normal, el daño de la Habilidad Elemental y la Habilidad Definitiva aumenta en un 35% durante 6 s. Además, tras golpear a un enemigo con una Habilidad Elemental o Definitiva, el daño de Ataque Normal aumenta en un 35% durante 6 s.",
+        "FR": "Les attaques normales augmentent pendant 6 s les DGT des compétences et des déchaînements élémentaires de 35 % lorsqu'elles touchent. Les compétences et déchaînements élémentaires augmentent pendant 6 s les DGT des attaques normales de 35 % lorsqu'elles touchent.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 35% DMG Elemental Skill dan Elemental Burst selama 6 detik. Sebaliknya, saat Elemental Skill atau Elemental Burst mengenai musuh, meningkatkan 35% DMG Normal Attack selama 6 detik.",
+        "IT": "#I colpi da attacco normale aumentano i DAN da abilità elementale e Tripudio elementale di un 35% per 6 s. Allo stesso modo, i colpi da abilità elementale e Tripudio elementale aumentano i DAN da attacco normale di un 35% per 6 s.",
+        "JP": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+35%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+35%。",
+        "KR": "일반 공격 명중 후 6초 동안 원소전투 스킬과 원소폭발의 피해가 35% 증가한다. 원소전투 스킬과 원소폭발 명중 후 6초 동안 일반 공격 피해가 35% 증가한다",
+        "PT": "Dentro de 6s após acertar um Ataque Normal, o Dano da Habilidade Elemental e do Supremo aumentam em 35%. Dentro de 6s após acertar uma Habilidade Elemental e o Supremo, o Dano do Ataque Normal aumenta 35%.",
+        "RU": "Попадания обычной атакой увеличивают урон элементальных навыков и взрыва стихии на 35% в течение 6 сек. И наоборот, попадания элементальными навыками и взрывом стихии увеличивают урон обычной атаки на 35% в течение 6 сек.",
+        "TH": "ภายในเวลา 6 วินาที หลังจากที่การโจมตีปกติถูกเป้าหมาย ความเสียหายของสกิลธาตุและท่าไม้ตายจะเพิ่มขึ้น 35%; ภายในเวลา 6 วินาทีหลังจากสกิลธาตุและท่าไม้ตายถูกเป้าหมาย ความเสียหายของการโจมตีปกติจะเพิ่มขึ้น 35%",
+        "TR": "Normal Saldırı vuruşları 6 saniyeliğine Element Becerisi ve Element Patlaması Hasarını %35 artırır. Benzer şekilde Element Becerisi ve Element Patlaması vuruşları da 6 saniyeliğine Normal Saldırı Hasarını %35 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương kỹ năng Nguyên Tố và kỹ năng nộ tăng 35%; Trong 6s sau khi kỹ năng nguyên tố và kỹ năng nộ đánh trúng địch, sát thương tấn công thường tăng 35%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 40% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 40% for 6s.",
+        "CHS": "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高40%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高40%。",
+        "CHT": "普通攻擊命中後的6秒內，元素戰技與元素爆發的傷害提高40%；元素戰技與元素爆發命中後的6秒內，普通攻擊的傷害提高40%。",
+        "DE": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten bei Treffern mit Standardangriffen 6 s lang um 40 %. Erhöht den Schaden von Standardangriffen bei Treffern mit Elementarfähigkeiten und Spezialfähigkeiten 6 s lang um 40 %.",
+        "ES": "Tras golpear a un enemigo con un Ataque Normal, el daño de la Habilidad Elemental y la Habilidad Definitiva aumenta en un 40% durante 6 s. Además, tras golpear a un enemigo con una Habilidad Elemental o Definitiva, el daño de Ataque Normal aumenta en un 40% durante 6 s.",
+        "FR": "Les attaques normales augmentent pendant 6 s les DGT des compétences et des déchaînements élémentaires de 40 % lorsqu'elles touchent. Les compétences et déchaînements élémentaires augmentent pendant 6 s les DGT des attaques normales de 40 % lorsqu'elles touchent.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 40% DMG Elemental Skill dan Elemental Burst selama 6 detik. Sebaliknya, saat Elemental Skill atau Elemental Burst mengenai musuh, meningkatkan 40% DMG Normal Attack selama 6 detik.",
+        "IT": "#I colpi da attacco normale aumentano i DAN da abilità elementale e Tripudio elementale di un 40% per 6 s. Allo stesso modo, i colpi da abilità elementale e Tripudio elementale aumentano i DAN da attacco normale di un 40% per 6 s.",
+        "JP": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+40%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+40%。",
+        "KR": "일반 공격 명중 후 6초 동안 원소전투 스킬과 원소폭발의 피해가 40% 증가한다. 원소전투 스킬과 원소폭발 명중 후 6초 동안 일반 공격 피해가 40% 증가한다",
+        "PT": "Dentro de 6s após acertar um Ataque Normal, o Dano da Habilidade Elemental e do Supremo aumentam em 40%. Dentro de 6s após acertar uma Habilidade Elemental e o Supremo, o Dano do Ataque Normal aumenta 40%.",
+        "RU": "Попадания обычной атакой увеличивают урон элементальных навыков и взрыва стихии на 40% в течение 6 сек. И наоборот, попадания элементальными навыками и взрывом стихии увеличивают урон обычной атаки на 40% в течение 6 сек.",
+        "TH": "ภายในเวลา 6 วินาที หลังจากที่การโจมตีปกติถูกเป้าหมาย ความเสียหายของสกิลธาตุและท่าไม้ตายจะเพิ่มขึ้น 40%; ภายในเวลา 6 วินาทีหลังจากสกิลธาตุและท่าไม้ตายถูกเป้าหมาย ความเสียหายของการโจมตีปกติจะเพิ่มขึ้น 40%",
+        "TR": "Normal Saldırı vuruşları 6 saniyeliğine Element Becerisi ve Element Patlaması Hasarını %40 artırır. Benzer şekilde Element Becerisi ve Element Patlaması vuruşları da 6 saniyeliğine Normal Saldırı Hasarını %40 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương kỹ năng Nguyên Tố và kỹ năng nộ tăng 40%; Trong 6s sau khi kỹ năng nguyên tố và kỹ năng nộ đánh trúng địch, sát thương tấn công thường tăng 40%."
+      }
+    }
+  ]
+}

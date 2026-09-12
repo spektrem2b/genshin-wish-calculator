@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Whitehill's Bestowal",
+    "CHS": "白山的馈赐",
+    "CHT": "白山的饋賜",
+    "DE": "Belohnung des weißen Berges",
+    "ES": "Gracia de la montaña blanca",
+    "FR": "Munificence de la colline blanche",
+    "ID": "Whitehill's Bestowal",
+    "IT": "Concessione del Biancocolle",
+    "JP": "白山の贈り物",
+    "KR": "하얀 산의 선물",
+    "PT": "Dádiva da Montanha Branca",
+    "RU": "Дар Белой горы",
+    "TH": "Whitehill's Bestowal",
+    "TR": "Ak Tepenin Bereketi",
+    "VI": "Quà Tặng Của Núi Trắng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Within 12s after an Elemental Skill is used, ATK is increased by 24%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 24%, and CRIT DMG will be increased by 40%.",
+        "CHS": "施放元素战技后的12秒内，攻击力提升24%。持续期间，装备者的元素能量为0时，攻击力还会提升24%，且暴击伤害提升40%。",
+        "CHT": "施放元素戰技後的12秒內，攻擊力提升24%。持續期間，裝備者的元素能量為0時，攻擊力還會提升24%，且暴擊傷害提升40%。",
+        "DE": "#Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 24 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 24 % erhöht und der KSCH wird um 40 % erhöht.",
+        "ES": "#Tras usar la Habilidad Elemental, el ATQ aumenta en un 24% durante 12 s. Mientras este efecto está activo, si el portador de esta arma tiene 0 pts. de Energía Elemental, su ATQ aumentará en un 24% adicional y su Daño CRIT aumentará en un 40%.",
+        "FR": "L'ATQ augmente de 24 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l'arme n'a plus d'énergie élémentaire pendant cette période, son ATQ augmente de 24 % supplémentaires et ses DGT CRIT de 40 %.",
+        "ID": "Setelah melancarkan Elemental Skill, ATK meningkat 24% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 24% dan CRIT DMG meningkat 40%.",
+        "IT": "#Per 12 s dall'utilizzo di un'abilità elementale, l'ATT aumenta di un 24%. In questo lasso di tempo, quando il personaggio che equipaggia l'arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 24% e i suoi DAN da CRIT di un 40%.",
+        "JP": "元素スキルを発動した後の12秒間、攻撃力+24%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+24%、会心ダメージ+40%。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 공격력이 24% 증가한다. 지속 시간 동안 장착 캐릭터의 원소 에너지가 0이 되면, 추가로 공격력이 24%, 치명타 피해가 40% 증가한다",
+        "PT": "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 24%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 24%, e o Dano CRIT será aumentado em 40%.",
+        "RU": "На 12 сек. после применения элементального навыка сила атаки повышается на 24%. Если в это время у экипированного персонажа энергия равна 0, сила атаки дополнительно повышается на 24%, а крит. урон - на 40%.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 24% ในช่วงเวลาต่อเนื่อง เมื่อพลังงานธาตุของผู้สวมใส่เป็น 0 พลังโจมตีจะเพิ่มขึ้นอีก 24% และความแรงคริจะเพิ่มขึ้น 40%",
+        "TR": "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %24 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %24, Kritik Hasar %40 artar.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tấn Công tăng 24%. Trong thời gian duy trì, khi Năng Lượng Nguyên Tố của người trang bị là 0, Tấn Công sẽ tăng thêm 24%, đồng thời Sát Thương Bạo Kích tăng 40%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Within 12s after an Elemental Skill is used, ATK is increased by 30%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 30%, and CRIT DMG will be increased by 50%.",
+        "CHS": "施放元素战技后的12秒内，攻击力提升30%。持续期间，装备者的元素能量为0时，攻击力还会提升30%，且暴击伤害提升50%。",
+        "CHT": "施放元素戰技後的12秒內，攻擊力提升30%。持續期間，裝備者的元素能量為0時，攻擊力還會提升30%，且暴擊傷害提升50%。",
+        "DE": "#Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 30 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 30 % erhöht und der KSCH wird um 50 % erhöht.",
+        "ES": "#Tras usar la Habilidad Elemental, el ATQ aumenta en un 30% durante 12 s. Mientras este efecto está activo, si el portador de esta arma tiene 0 pts. de Energía Elemental, su ATQ aumentará en un 30% adicional y su Daño CRIT aumentará en un 50%.",
+        "FR": "L'ATQ augmente de 30 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l'arme n'a plus d'énergie élémentaire pendant cette période, son ATQ augmente de 30 % supplémentaires et ses DGT CRIT de 50 %.",
+        "ID": "Setelah melancarkan Elemental Skill, ATK meningkat 30% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 30% dan CRIT DMG meningkat 50%.",
+        "IT": "#Per 12 s dall'utilizzo di un'abilità elementale, l'ATT aumenta di un 30%. In questo lasso di tempo, quando il personaggio che equipaggia l'arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 30% e i suoi DAN da CRIT di un 50%.",
+        "JP": "元素スキルを発動した後の12秒間、攻撃力+30%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+30%、会心ダメージ+50%。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 공격력이 30% 증가한다. 지속 시간 동안 장착 캐릭터의 원소 에너지가 0이 되면, 추가로 공격력이 30% , 치명타 피해가 50% 증가한다",
+        "PT": "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 30%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 30%, e o Dano CRIT será aumentado em 50%.",
+        "RU": "На 12 сек. после применения элементального навыка сила атаки повышается на 30%. Если в это время у экипированного персонажа энергия равна 0, сила атаки дополнительно повышается на 30%, а крит. урон - на 50%.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 30% ในช่วงเวลาต่อเนื่อง เมื่อพลังงานธาตุของผู้สวมใส่เป็น 0 พลังโจมตีจะเพิ่มขึ้นอีก 30% และความแรงคริจะเพิ่มขึ้น 50%",
+        "TR": "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %30 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %30, Kritik Hasar %50 artar.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tấn Công tăng 30%. Trong thời gian duy trì, khi Năng Lượng Nguyên Tố của người trang bị là 0, Tấn Công sẽ tăng thêm 30%, đồng thời Sát Thương Bạo Kích tăng 50%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Within 12s after an Elemental Skill is used, ATK is increased by 36%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 36%, and CRIT DMG will be increased by 60%.",
+        "CHS": "施放元素战技后的12秒内，攻击力提升36%。持续期间，装备者的元素能量为0时，攻击力还会提升36%，且暴击伤害提升60%。",
+        "CHT": "施放元素戰技後的12秒內，攻擊力提升36%。持續期間，裝備者的元素能量為0時，攻擊力還會提升36%，且暴擊傷害提升60%。",
+        "DE": "#Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 36 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 36 % erhöht und der KSCH wird um 60 % erhöht.",
+        "ES": "#Tras usar la Habilidad Elemental, el ATQ aumenta en un 36% durante 12 s. Mientras este efecto está activo, si el portador de esta arma tiene 0 pts. de Energía Elemental, su ATQ aumentará en un 36% adicional y su Daño CRIT aumentará en un 60%.",
+        "FR": "L'ATQ augmente de 36 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l'arme n'a plus d'énergie élémentaire pendant cette période, son ATQ augmente de 36 % supplémentaires et ses DGT CRIT de 60 %.",
+        "ID": "Setelah melancarkan Elemental Skill, ATK meningkat 36% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 36% dan CRIT DMG meningkat 60%.",
+        "IT": "#Per 12 s dall'utilizzo di un'abilità elementale, l'ATT aumenta di un 36%. In questo lasso di tempo, quando il personaggio che equipaggia l'arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 36% e i suoi DAN da CRIT di un 60%.",
+        "JP": "元素スキルを発動した後の12秒間、攻撃力+36%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+36%、会心ダメージ+60%。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 공격력이 36% 증가한다. 지속 시간 동안 장착 캐릭터의 원소 에너지가 0이 되면, 추가로 공격력이 36%, 치명타 피해가 60% 증가한다",
+        "PT": "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 36%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 36%, e o Dano CRIT será aumentado em 60%.",
+        "RU": "На 12 сек. после применения элементального навыка сила атаки повышается на 36%. Если в это время у экипированного персонажа энергия равна 0, сила атаки дополнительно повышается на 36%, а крит. урон - на 60%.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 36% ในช่วงเวลาต่อเนื่อง เมื่อพลังงานธาตุของผู้สวมใส่เป็น 0 พลังโจมตีจะเพิ่มขึ้นอีก 36% และความแรงคริจะเพิ่มขึ้น 60%",
+        "TR": "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %36 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %36, Kritik Hasar %60 artar.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tấn Công tăng 36%. Trong thời gian duy trì, khi Năng Lượng Nguyên Tố của người trang bị là 0, Tấn Công sẽ tăng thêm 36%, đồng thời Sát Thương Bạo Kích tăng 60%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Within 12s after an Elemental Skill is used, ATK is increased by 42%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 42%, and CRIT DMG will be increased by 70%.",
+        "CHS": "施放元素战技后的12秒内，攻击力提升42%。持续期间，装备者的元素能量为0时，攻击力还会提升42%，且暴击伤害提升70%。",
+        "CHT": "施放元素戰技後的12秒內，攻擊力提升42%。持續期間，裝備者的元素能量為0時，攻擊力還會提升42%，且暴擊傷害提升70%。",
+        "DE": "#Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 42 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 42 % erhöht und der KSCH wird um 70 % erhöht.",
+        "ES": "#Tras usar la Habilidad Elemental, el ATQ aumenta en un 42% durante 12 s. Mientras este efecto está activo, si el portador de esta arma tiene 0 pts. de Energía Elemental, su ATQ aumentará en un 42% adicional y su Daño CRIT aumentará en un 70%.",
+        "FR": "L'ATQ augmente de 42 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l'arme n'a plus d'énergie élémentaire pendant cette période, son ATQ augmente de 42 % supplémentaires et ses DGT CRIT de 70 %.",
+        "ID": "Setelah melancarkan Elemental Skill, ATK meningkat 42% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 42% dan CRIT DMG meningkat 70%.",
+        "IT": "#Per 12 s dall'utilizzo di un'abilità elementale, l'ATT aumenta di un 42%. In questo lasso di tempo, quando il personaggio che equipaggia l'arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 42% e i suoi DAN da CRIT di un 70%.",
+        "JP": "元素スキルを発動した後の12秒間、攻撃力+42%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+42%、会心ダメージ+70%。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 공격력이 42% 증가한다. 지속 시간 동안 장착 캐릭터의 원소 에너지가 0이 되면, 추가로 공격력이 42%, 치명타 피해가 70% 증가한다",
+        "PT": "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 42%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 42%, e o Dano CRIT será aumentado em 70%.",
+        "RU": "На 12 сек. после применения элементального навыка сила атаки повышается на 42%. Если в это время у экипированного персонажа энергия равна 0, сила атаки дополнительно повышается на 42%, а крит. урон - на 70%.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 42% ในช่วงเวลาต่อเนื่อง เมื่อพลังงานธาตุของผู้สวมใส่เป็น 0 พลังโจมตีจะเพิ่มขึ้นอีก 42% และความแรงคริจะเพิ่มขึ้น 70%",
+        "TR": "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %42 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %42, Kritik Hasar %70 artar.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tấn Công tăng 42%. Trong thời gian duy trì, khi Năng Lượng Nguyên Tố của người trang bị là 0, Tấn Công sẽ tăng thêm 42%, đồng thời Sát Thương Bạo Kích tăng 70%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Within 12s after an Elemental Skill is used, ATK is increased by 48%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 48%, and CRIT DMG will be increased by 80%.",
+        "CHS": "施放元素战技后的12秒内，攻击力提升48%。持续期间，装备者的元素能量为0时，攻击力还会提升48%，且暴击伤害提升80%。",
+        "CHT": "施放元素戰技後的12秒內，攻擊力提升48%。持續期間，裝備者的元素能量為0時，攻擊力還會提升48%，且暴擊傷害提升80%。",
+        "DE": "#Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 48 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 48 % erhöht und der KSCH wird um 80 % erhöht.",
+        "ES": "#Tras usar la Habilidad Elemental, el ATQ aumenta en un 48% durante 12 s. Mientras este efecto está activo, si el portador de esta arma tiene 0 pts. de Energía Elemental, su ATQ aumentará en un 48% adicional y su Daño CRIT aumentará en un 80%.",
+        "FR": "L'ATQ augmente de 48 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l'arme n'a plus d'énergie élémentaire pendant cette période, son ATQ augmente de 48 % supplémentaires et ses DGT CRIT de 80 %.",
+        "ID": "Setelah melancarkan Elemental Skill, ATK meningkat 48% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 48% dan CRIT DMG meningkat 80%.",
+        "IT": "#Per 12 s dall'utilizzo di un'abilità elementale, l'ATT aumenta di un 48%. In questo lasso di tempo, quando il personaggio che equipaggia l'arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 48% e i suoi DAN da CRIT di un 80%.",
+        "JP": "元素スキルを発動した後の12秒間、攻撃力+48%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+48%、会心ダメージ+80%。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 공격력이 48% 증가한다. 지속 시간 동안 장착 캐릭터의 원소 에너지가 0이 되면, 추가로 공격력이 48%, 치명타 피해가 80% 증가한다",
+        "PT": "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 48%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 48%, e o Dano CRIT será aumentado em 80%.",
+        "RU": "На 12 сек. после применения элементального навыка сила атаки повышается на 48%. Если в это время у экипированного персонажа энергия равна 0, сила атаки дополнительно повышается на 48%, а крит. урон - на 80%.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 48% ในช่วงเวลาต่อเนื่อง เมื่อพลังงานธาตุของผู้สวมใส่เป็น 0 พลังโจมตีจะเพิ่มขึ้นอีก 48% และความแรงคริจะเพิ่มขึ้น 80%",
+        "TR": "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %48 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %48, Kritik Hasar %80 artar.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tấn Công tăng 48%. Trong thời gian duy trì, khi Năng Lượng Nguyên Tố của người trang bị là 0, Tấn Công sẽ tăng thêm 48%, đồng thời Sát Thương Bạo Kích tăng 80%."
+      }
+    }
+  ]
+}

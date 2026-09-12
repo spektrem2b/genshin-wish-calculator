@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Melussistance!",
+    "CHS": "加油！",
+    "CHT": "加油！",
+    "DE": "Melusinen-Unterstützung",
+    "ES": "¡Tú puedes!",
+    "FR": "Mélusaide !",
+    "ID": "Melussistance!",
+    "IT": "Assistenza Melusina!",
+    "JP": "がんばって！",
+    "KR": "파이팅!",
+    "PT": "Você consegue!",
+    "RU": "Мы верим в тебя!",
+    "TH": "Melussistance!",
+    "TR": "Melusinalar Arkanda!",
+    "VI": "Cố Lên Nào!"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "ATK increased by 12%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 12%.",
+        "CHS": "攻击力提升12%。不仅如此！海沫村中曾蒙你帮助的美露莘们的声援心意充满了力量，依照她们的数目，攻击力至多进一步提升12%。",
+        "CHT": "#攻擊力提升12%。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升12%。",
+        "DE": "#Erhöht den ANG um 12 %. Das ist noch nicht alles! Die Unterstützung durch alle Melusinen, denen du im Dorf Mérusea geholfen hast, erfüllt dich mit Kraft! Erhöht den ANG basierend auf der Anzahl der Melusinen, denen du geholfen hast, zusätzlich um bis zu 12 %.",
+        "ES": "El ATQ aumenta en un 12%. ¡Pero aún hay más! Las melusinas de la Aldea Espumarina te ofrecen todo su apoyo, de manera que, en función de la cantidad de melusinas que hayas ayudado, el ATQ aumenta en un máximo de un 12% adicional.",
+        "FR": "Augmente l'ATQ de 12 %. Mais ce n'est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d'un maximum de 12 % supplémentaires selon la quantité de mélusines que vous avez aidées au Village Mérusea.",
+        "ID": "ATK meningkat 12%. Bukan hanya itu! Para Melusine dari Merusea Village yang pernah kamu bantu menyemangatimu dengan penuh semangat, dan berdasarkan jumlah mereka, ATK-mu akan mendapatkan peningkatan tambahan hingga 12%.",
+        "IT": "L'ATT aumenta di un 12%. E non finisce qui! Tutte le Melusine che hai aiutato al Villaggio di Merusea ti daranno la loro forza! In base al loro numero, l'ATT riceve un bonus ulteriore, fino a un 12% massimo.",
+        "JP": "攻撃力+12%。それだけじゃない！メリュシー村であなたに助けられたメリュジーヌたちの声援が力を与え、満たしてくれる。助けた彼女たちの数を基に、攻撃力がさらに最大12%アップする。",
+        "KR": "공격력이 12% 증가한다. 그뿐만이 아니다! 바다 거품 마을 멜뤼진의 응원에 힘입어, 도와줬던 멜뤼진의 수에 따라 공격력이 최대 12% 더 증가한다",
+        "PT": "Aumenta o ATQ em 12%. Mas não só isso! As Melusines da Vila Marusea lhe oferecem todo seu apoio, de forma que segundo a quantidade de Melusines que você já ajudou, o ATQ pode aumentar em até 12% a mais.",
+        "RU": "Повышает силу атаки на 12%. Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, сила атаки может дополнительно увеличиться максимум на 12%.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 12% ไม่ใช่เพียงแค่นั้น! การสนับสนุนของเหล่าเมลูซีนจากหมู่บ้าน Merusea ทุกตนที่คุณเคยช่วยไว้เต็มเปี่ยมไปด้วยพลัง สามารถเพิ่มพลังโจมตีได้อีกขั้น สูงสุด 12% ตามจำนวนของเหล่าเมลูซีน",
+        "TR": "Saldırı %12 artar. Hepsi bu kadar değil tabii! Merusea Köyü'nde yardım ettiğin bütün Melusinaların desteği sana güç kazandırır! Yardım ettiğin Melusinaların sayısına göre Saldırın ek olarak %12'ye kadar artabilir.",
+        "VI": "Tấn công tăng 12%. Không những vậy, tiếng lòng của các Melusine ở Làng Merusea sẽ cung cấp thêm sức mạnh. Căn cứ vào số lượng Melusine đã giúp đỡ, tấn công sẽ tăng thêm tối đa 12%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "ATK increased by 15%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 15%.",
+        "CHS": "攻击力提升15%。不仅如此！海沫村中曾蒙你帮助的美露莘们的声援心意充满了力量，依照她们的数目，攻击力至多进一步提升15%。",
+        "CHT": "#攻擊力提升15%。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升15%。",
+        "DE": "#Erhöht den ANG um 15 %. Das ist noch nicht alles! Die Unterstützung durch alle Melusinen, denen du im Dorf Mérusea geholfen hast, erfüllt dich mit Kraft! Erhöht den ANG basierend auf der Anzahl der Melusinen, denen du geholfen hast, zusätzlich um bis zu 15 %.",
+        "ES": "El ATQ aumenta en un 15%. ¡Pero aún hay más! Las melusinas de la Aldea Espumarina te ofrecen todo su apoyo, de manera que, en función de la cantidad de melusinas que hayas ayudado, el ATQ aumenta en un máximo de un 15% adicional.",
+        "FR": "Augmente l'ATQ de 15 %. Mais ce n'est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d'un maximum de 15 % supplémentaires selon la quantité de mélusines que vous avez aidées au Village Mérusea.",
+        "ID": "ATK meningkat 15%. Bukan hanya itu! Para Melusine dari Merusea Village yang pernah kamu bantu menyemangatimu dengan penuh semangat, dan berdasarkan jumlah mereka, ATK-mu akan mendapatkan peningkatan tambahan hingga 15%.",
+        "IT": "L'ATT aumenta di un 15%. E non finisce qui! Tutte le Melusine che hai aiutato al Villaggio di Merusea ti daranno la loro forza! In base al loro numero, l'ATT riceve un bonus ulteriore, fino a un 15% massimo.",
+        "JP": "攻撃力+15%。それだけじゃない！メリュシー村であなたに助けられたメリュジーヌたちの声援が力を与え、満たしてくれる。助けた彼女たちの数を基に、攻撃力がさらに最大15%アップする。",
+        "KR": "공격력이 15% 증가한다. 그뿐만이 아니다! 바다 거품 마을 멜뤼진의 응원에 힘입어, 도와줬던 멜뤼진의 수에 따라 공격력이 최대 15% 더 증가한다",
+        "PT": "Aumenta o ATQ em 15%. Mas não só isso! As Melusines da Vila Marusea lhe oferecem todo seu apoio, de forma que segundo a quantidade de Melusines que você já ajudou, o ATQ pode aumentar em até 15% a mais.",
+        "RU": "Повышает силу атаки на 15%. Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, сила атаки может дополнительно увеличиться максимум на 15%.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 15% ไม่ใช่เพียงแค่นั้น! การสนับสนุนของเหล่าเมลูซีนจากหมู่บ้าน Merusea ทุกตนที่คุณเคยช่วยไว้เต็มเปี่ยมไปด้วยพลัง สามารถเพิ่มพลังโจมตีได้อีกขั้น สูงสุด 15% ตามจำนวนของเหล่าเมลูซีน",
+        "TR": "Saldırı %15 artar. Hepsi bu kadar değil tabii! Merusea Köyü'nde yardım ettiğin bütün Melusinaların desteği sana güç kazandırır! Yardım ettiğin Melusinaların sayısına göre Saldırın ek olarak %15'e kadar artabilir.",
+        "VI": "Tấn công tăng 15%. Không những vậy, tiếng lòng của các Melusine ở Làng Merusea sẽ cung cấp thêm sức mạnh. Căn cứ vào số lượng Melusine đã giúp đỡ, tấn công sẽ tăng thêm tối đa 15%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "ATK increased by 18%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 18%.",
+        "CHS": "攻击力提升18%。不仅如此！海沫村中曾蒙你帮助的美露莘们的声援心意充满了力量，依照她们的数目，攻击力至多进一步提升18%。",
+        "CHT": "#攻擊力提升18%。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升18%。",
+        "DE": "#Erhöht den ANG um 18 %. Das ist noch nicht alles! Die Unterstützung durch alle Melusinen, denen du im Dorf Mérusea geholfen hast, erfüllt dich mit Kraft! Erhöht den ANG basierend auf der Anzahl der Melusinen, denen du geholfen hast, zusätzlich um bis zu 18 %.",
+        "ES": "El ATQ aumenta en un 18%. ¡Pero aún hay más! Las melusinas de la Aldea Espumarina te ofrecen todo su apoyo, de manera que, en función de la cantidad de melusinas que hayas ayudado, el ATQ aumenta en un máximo de un 18% adicional.",
+        "FR": "Augmente l'ATQ de 18 %. Mais ce n'est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d'un maximum de 18 % supplémentaires selon la quantité de mélusines que vous avez aidées au Village Mérusea.",
+        "ID": "ATK meningkat 18%. Bukan hanya itu! Para Melusine dari Merusea Village yang pernah kamu bantu menyemangatimu dengan penuh semangat, dan berdasarkan jumlah mereka, ATK-mu akan mendapatkan peningkatan tambahan hingga 18%.",
+        "IT": "L'ATT aumenta di un 18%. E non finisce qui! Tutte le Melusine che hai aiutato al Villaggio di Merusea ti daranno la loro forza! In base al loro numero, l'ATT riceve un bonus ulteriore, fino a un 18% massimo.",
+        "JP": "攻撃力+18%。それだけじゃない！メリュシー村であなたに助けられたメリュジーヌたちの声援が力を与え、満たしてくれる。助けた彼女たちの数を基に、攻撃力がさらに最大18%アップする。",
+        "KR": "공격력이 18% 증가한다. 그뿐만이 아니다! 바다 거품 마을 멜뤼진의 응원에 힘입어, 도와줬던 멜뤼진의 수에 따라 공격력이 최대 18% 더 증가한다",
+        "PT": "Aumenta o ATQ em 18%. Mas não só isso! As Melusines da Vila Marusea lhe oferecem todo seu apoio, de forma que segundo a quantidade de Melusines que você já ajudou, o ATQ pode aumentar em até 18% a mais.",
+        "RU": "Повышает силу атаки на 18%. Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, сила атаки может дополнительно увеличиться максимум на 18%.",
+        "TH": "พลังโจมตีเพิ่มขึ้น18% ไม่ใช่เพียงแค่นั้น! การสนับสนุนของเหล่าเมลูซีนจากหมู่บ้าน Merusea ทุกตนที่คุณเคยช่วยไว้เต็มเปี่ยมไปด้วยพลัง สามารถเพิ่มพลังโจมตีได้อีกขั้น สูงสุด 18% ตามจำนวนของเหล่าเมลูซีน",
+        "TR": "Saldırı %18 artar. Hepsi bu kadar değil tabii! Merusea Köyü'nde yardım ettiğin bütün Melusinaların desteği sana güç kazandırır! Yardım ettiğin Melusinaların sayısına göre Saldırın ek olarak %18'e kadar artabilir.",
+        "VI": "Tấn công tăng 18%. Không những vậy, tiếng lòng của các Melusine ở Làng Merusea sẽ cung cấp thêm sức mạnh. Căn cứ vào số lượng Melusine đã giúp đỡ, tấn công sẽ tăng thêm tối đa 18%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "ATK increased by 21%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 21%.",
+        "CHS": "攻击力提升21%。不仅如此！海沫村中曾蒙你帮助的美露莘们的声援心意充满了力量，依照她们的数目，攻击力至多进一步提升21%。",
+        "CHT": "#攻擊力提升21%。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升21%。",
+        "DE": "#Erhöht den ANG um 21 %. Das ist noch nicht alles! Die Unterstützung durch alle Melusinen, denen du im Dorf Mérusea geholfen hast, erfüllt dich mit Kraft! Erhöht den ANG basierend auf der Anzahl der Melusinen, denen du geholfen hast, zusätzlich um bis zu 21 %.",
+        "ES": "El ATQ aumenta en un 21%. ¡Pero aún hay más! Las melusinas de la Aldea Espumarina te ofrecen todo su apoyo, de manera que, en función de la cantidad de melusinas que hayas ayudado, el ATQ aumenta en un máximo de un 21% adicional.",
+        "FR": "Augmente l'ATQ de 21 %. Mais ce n'est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d'un maximum de 21 % supplémentaires selon la quantité de mélusines que vous avez aidées au Village Mérusea.",
+        "ID": "ATK meningkat 21%. Bukan hanya itu! Para Melusine dari Merusea Village yang pernah kamu bantu menyemangatimu dengan penuh semangat, dan berdasarkan jumlah mereka, ATK-mu akan mendapatkan peningkatan tambahan hingga 21%.",
+        "IT": "L'ATT aumenta di un 21%. E non finisce qui! Tutte le Melusine che hai aiutato al Villaggio di Merusea ti daranno la loro forza! In base al loro numero, l'ATT riceve un bonus ulteriore, fino a un 21% massimo.",
+        "JP": "攻撃力+21%。それだけじゃない！メリュシー村であなたに助けられたメリュジーヌたちの声援が力を与え、満たしてくれる。助けた彼女たちの数を基に、攻撃力がさらに最大21%アップする。",
+        "KR": "공격력이 21% 증가한다. 그뿐만이 아니다! 바다 거품 마을 멜뤼진의 응원에 힘입어, 도와줬던 멜뤼진의 수에 따라 공격력이 최대 21% 더 증가한다",
+        "PT": "Aumenta o ATQ em 21%. Mas não só isso! As Melusines da Vila Marusea lhe oferecem todo seu apoio, de forma que segundo a quantidade de Melusines que você já ajudou, o ATQ pode aumentar em até 21% a mais.",
+        "RU": "Повышает силу атаки на 21%. Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, сила атаки может дополнительно увеличиться максимум на 21%.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 21% ไม่ใช่เพียงแค่นั้น! การสนับสนุนของเหล่าเมลูซีนจากหมู่บ้าน Merusea ทุกตนที่คุณเคยช่วยไว้เต็มเปี่ยมไปด้วยพลัง สามารถเพิ่มพลังโจมตีได้อีกขั้น สูงสุด 21% ตามจำนวนของเหล่าเมลูซีน",
+        "TR": "Saldırı %21 artar. Hepsi bu kadar değil tabii! Merusea Köyü'nde yardım ettiğin bütün Melusinaların desteği sana güç kazandırır! Yardım ettiğin Melusinaların sayısına göre Saldırın ek olarak %21'e kadar artabilir.",
+        "VI": "Tấn công tăng 21%. Không những vậy, tiếng lòng của các Melusine ở Làng Merusea sẽ cung cấp thêm sức mạnh. Căn cứ vào số lượng Melusine đã giúp đỡ, tấn công sẽ tăng thêm tối đa 21%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "ATK increased by 24%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 24%.",
+        "CHS": "攻击力提升24%。不仅如此！海沫村中曾蒙你帮助的美露莘们的声援心意充满了力量，依照她们的数目，攻击力至多进一步提升24%。",
+        "CHT": "#攻擊力提升24%。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升24%。",
+        "DE": "#Erhöht den ANG um 24 %. Das ist noch nicht alles! Die Unterstützung durch alle Melusinen, denen du im Dorf Mérusea geholfen hast, erfüllt dich mit Kraft! Erhöht den ANG basierend auf der Anzahl der Melusinen, denen du geholfen hast, zusätzlich um bis zu 24 %.",
+        "ES": "El ATQ aumenta en un 24%. ¡Pero aún hay más! Las melusinas de la Aldea Espumarina te ofrecen todo su apoyo, de manera que, en función de la cantidad de melusinas que hayas ayudado, el ATQ aumenta en un máximo de un 24% adicional.",
+        "FR": "Augmente l'ATQ de 24 %. Mais ce n'est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d'un maximum de 24 % supplémentaires selon la quantité de mélusines que vous avez aidées au Village Mérusea.",
+        "ID": "ATK meningkat 24%. Bukan hanya itu! Para Melusine dari Merusea Village yang pernah kamu bantu menyemangatimu dengan penuh semangat, dan berdasarkan jumlah mereka, ATK-mu akan mendapatkan peningkatan tambahan hingga 24%.",
+        "IT": "L'ATT aumenta di un 24%. E non finisce qui! Tutte le Melusine che hai aiutato al Villaggio di Merusea ti daranno la loro forza! In base al loro numero, l'ATT riceve un bonus ulteriore, fino a un 24% massimo.",
+        "JP": "攻撃力+24%。それだけじゃない！メリュシー村であなたに助けられたメリュジーヌたちの声援が力を与え、満たしてくれる。助けた彼女たちの数を基に、攻撃力がさらに最大24%アップする。",
+        "KR": "공격력이 24% 증가한다. 그뿐만이 아니다! 바다 거품 마을 멜뤼진의 응원에 힘입어, 도와줬던 멜뤼진의 수에 따라 공격력이 최대 24% 더 증가한다",
+        "PT": "Aumenta o ATQ em 24%. Mas não só isso! As Melusines da Vila Marusea lhe oferecem todo seu apoio, de forma que segundo a quantidade de Melusines que você já ajudou, o ATQ pode aumentar em até 24% a mais.",
+        "RU": "Повышает силу атаки на 24%. Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, сила атаки может дополнительно увеличиться максимум на 24%.",
+        "TH": "พลังโจมตีเพิ่มขึ้น 24% ไม่ใช่เพียงแค่นั้น! การสนับสนุนของเหล่าเมลูซีนจากหมู่บ้าน Merusea ทุกตนที่คุณเคยช่วยไว้เต็มเปี่ยมไปด้วยพลัง สามารถเพิ่มพลังโจมตีได้อีกขั้น สูงสุด 24% ตามจำนวนของเหล่าเมลูซีน",
+        "TR": "Saldırı %24 artar. Hepsi bu kadar değil tabii! Merusea Köyü'nde yardım ettiğin bütün Melusinaların desteği sana güç kazandırır! Yardım ettiğin Melusinaların sayısına göre Saldırın ek olarak %24'e kadar artabilir.",
+        "VI": "Tấn công tăng 24%. Không những vậy, tiếng lòng của các Melusine ở Làng Merusea sẽ cung cấp thêm sức mạnh. Căn cứ vào số lượng Melusine đã giúp đỡ, tấn công sẽ tăng thêm tối đa 24%."
+      }
+    }
+  ]
+}

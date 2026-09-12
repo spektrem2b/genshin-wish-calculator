@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Whitemoon Bristle",
+    "CHS": "白月枝芒",
+    "CHT": "白月枝芒",
+    "DE": "Zweig des weißen Mondes",
+    "ES": "Arista perlada",
+    "FR": "Soie de blanchelune",
+    "ID": "Whitemoon Bristle",
+    "IT": "Setola Lunabianca",
+    "JP": "白月に輝く枝",
+    "KR": "하얀 달 가지",
+    "PT": "Ponta do Galho da Lua Branca",
+    "RU": "Остриё белой луны",
+    "TH": "Whitemoon Bristle",
+    "TR": "Beyaz Ay Fırçası",
+    "VI": "Râu Rễ Trăng Bạc"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "CRIT Rate is increased by 4%. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by 120% of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
+        "CHS": "暴击率提升4%；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的120%。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。",
+        "CHT": "暴擊率提升4%；普通攻擊造成元素傷害後，獲得「裁葉」效果：普通攻擊和元素戰技造成的傷害提高，提高值相當於元素精通的120%。該效果在生效28次或12秒後消失，每12秒至多獲得一次「裁葉」效果。",
+        "DE": "Erhöht die KT um 4 %. Erhält, nachdem durch Standardangriffe Elementar-Schaden verursacht wurde, den Effekt „Blattschneider“: Erhöht den von Standardangriffen und Elementarfähigkeit verursachten Schaden um 120 % der Elementarkunde. Dieser Effekt verschwindet nach 12 s oder nach 28 Auslösungen des Bonus. 12 s Abklingzeit auf das Erhalten des Effekts „Blattschneider“.",
+        "ES": "#La Prob. CRIT aumenta en un 4%. Tras infligir Daño Elemental con un Ataque Normal, el personaje obtiene el efecto de “corte foliáceo”, el cual aumenta el daño del Ataque Normal y de la Habilidad Elemental en una cantidad equivalente al 120% de la Maestría Elemental. Este efecto desaparece tras activarse 28 veces o después de 12 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Augmente le taux CRIT de 4 %. Lorsqu'une attaque normale a infligé des DGT élémentaires, l'effet Sanction foliaire est obtenu, augmentant les DGT infligés par les attaques normales et les compétences élémentaires d'une valeur équivalant à 120 % de la maîtrise élémentaire. Cet effet disparaît après 12 s ou après avoir été déclenché 28 fois, et l'effet Sanction foliaire peut être obtenu une fois toutes les 12 s.",
+        "ID": "CRIT Rate meningkat 4%; Setelah Normal Attack mengakibatkan Elemental DMG, akan mendapatkan efek Foliar Incision: DMG yang diakibatkan Normal Attack dan Elemental Skill meningkat sebesar 120% Elemental Mastery. Efek ini akan hilang setelah terpicu 28 kali atau setelah 12 detik. Efek Foliar Incision maksimum didapatkan sekali setiap 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 4%. Quando gli attacchi normali infliggono DAN elementali, si ottiene l'effetto Taglio frondoso che aumenta i DAN inflitti dagli attacchi normali e dalle abilità elementali di un 120% della maestria elementale. Questo effetto svanisce dopo aver inflitto DAN per 28 volte oppure dopo 12 s. È possibile ottenere Taglio frondoso una volta ogni 12 s.",
+        "JP": "会心率+4%。通常攻撃で元素ダメージを与えた後、「裁葉」効果を獲得し、通常攻撃および元素スキルによるダメージが元素熟知の120%分アップする。「裁葉」効果は28回発動または12秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "치명타 확률이 4% 증가한다. 일반 공격으로 적에게 원소 피해를 준 후, 일반 공격과 원소전투 스킬로 주는 피해가 원소 마스터리의 120%만큼 증가하는 「가지치기」 효과를 획득한다. 해당 효과는 28회 발동하거나 12초가 지나면 사라진다. 「가지치기」 효과는 12초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Taxa CRIT em 4%; quando o Ataque Normal causa Dano elemental, obtém o efeito \"Poda\": aumenta o Dano causado pelos Ataques Normais e pela Habilidade Elemental. O aumento de Dano é equivalente a 120% da Proficiência Elemental. Esse efeito desaparecerá depois de ser ativado 28 vezes ou após 12s. Só é possível desencadear o efeito \"Poda\" uma vez a cada 12s.",
+        "RU": "Шанс крит. попадания увеличивается на 4%. Когда обычная атака наносит элементальный урон, она даёт эффект Лиственного выреза: урон обычных атак и элементальных навыков повышается на 120% от мастерства стихий. После 28 активаций или через 12 сек. эффект исчезнет. Лиственный вырез можно получить не чаще одного раза в 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 4%; หลังจากที่การโจมตีปกติ ทำให้เกิดความเสียหายธาตุ จะได้รับเอฟเฟกต์ \"Foliar Incision\": การโจมตีปกติ และสกิลธาตุสร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่มจะเท่ากับ 120% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปหลังจากเกิดผลแล้ว 28 ครั้ง หรือหลังจากผ่านไป 12 วินาที และในทุก 12 วินาที จะได้รับเอฟเฟกต์ \"Foliar Incision\" มากสุดหนึ่งครั้ง",
+        "TR": "Kritik Oranı %4 artar. Normal Saldırılar, Element Hasarı verdikten sonra Normal Saldırı ve Element Becerilerinin Hasarını, Element Ustalığının %120'si oranında artıran Yaprak Kesen etkisi kazanılır. Bu etki, 28 defa Hasar verdiğinde veya 12 saniye sonra kaybolur. Yaprak Kesen her 12 saniyede bir tetiklenebilir.",
+        "VI": "Tỉ lệ bạo kích tăng 4%; Khi tấn công thường gây Sát Thương Nguyên Tố sẽ nhận được hiệu quả \"Tán Lá Phán Quyết\": Tăng sát thương gây ra từ tấn công thường và Kỹ Năng Nguyên Tố dựa vào 120% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi hiệu lực 28 lần hoặc sau 12s, mỗi 12s tối đa nhận được hiệu quả \"Tán Lá Phán Quyết\" một lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "CRIT Rate is increased by 5%. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by 150% of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
+        "CHS": "暴击率提升5%；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的150%。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。",
+        "CHT": "暴擊率提升5%；普通攻擊造成元素傷害後，獲得「裁葉」效果：普通攻擊和元素戰技造成的傷害提高，提高值相當於元素精通的150%。該效果在生效28次或12秒後消失，每12秒至多獲得一次「裁葉」效果。",
+        "DE": "Erhöht die KT um 5 %. Erhält, nachdem durch Standardangriffe Elementar-Schaden verursacht wurde, den Effekt „Blattschneider“: Erhöht den von Standardangriffen und Elementarfähigkeit verursachten Schaden um 150 % der Elementarkunde. Dieser Effekt verschwindet nach 12 s oder nach 28 Auslösungen des Bonus. 12 s Abklingzeit auf das Erhalten des Effekts „Blattschneider“.",
+        "ES": "#La Prob. CRIT aumenta en un 5%. Tras infligir Daño Elemental con un Ataque Normal, el personaje obtiene el efecto de “corte foliáceo”, el cual aumenta el daño del Ataque Normal y de la Habilidad Elemental en una cantidad equivalente al 150% de la Maestría Elemental. Este efecto desaparece tras activarse 28 veces o después de 12 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Augmente le taux CRIT de 5 %. Lorsqu'une attaque normale a infligé des DGT élémentaires, l'effet Sanction foliaire est obtenu, augmentant les DGT infligés par les attaques normales et les compétences élémentaires d'une valeur équivalant à 150 % de la maîtrise élémentaire. Cet effet disparaît après 12 s ou après avoir été déclenché 28 fois, et l'effet Sanction foliaire peut être obtenu une fois toutes les 12 s.",
+        "ID": "CRIT Rate meningkat 5%; Setelah Normal Attack mengakibatkan Elemental DMG, akan mendapatkan efek Foliar Incision: DMG yang diakibatkan Normal Attack dan Elemental Skill meningkat sebesar 150% Elemental Mastery. Efek ini akan hilang setelah terpicu 28 kali atau setelah 12 detik. Efek Foliar Incision maksimum didapatkan sekali setiap 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 5%. Quando gli attacchi normali infliggono DAN elementali, si ottiene l'effetto Taglio frondoso che aumenta i DAN inflitti dagli attacchi normali e dalle abilità elementali di un 150% della maestria elementale. Questo effetto svanisce dopo aver inflitto DAN per 28 volte oppure dopo 12 s. È possibile ottenere Taglio frondoso una volta ogni 12 s.",
+        "JP": "会心率+5%。通常攻撃で元素ダメージを与えた後、「裁葉」効果を獲得し、通常攻撃および元素スキルによるダメージが元素熟知の150%分アップする。「裁葉」効果は28回発動または12秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "치명타 확률이 5% 증가한다. 일반 공격으로 적에게 원소 피해를 준 후, 일반 공격과 원소전투 스킬로 주는 피해가 원소 마스터리의 150%만큼 증가하는 「가지치기」 효과를 획득한다. 해당 효과는 28회 발동하거나 12초가 지나면 사라진다. 「가지치기」 효과는 12초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Taxa CRIT em 5%; quando o Ataque Normal causa Dano elemental, obtém o efeito \"Poda\": aumenta o Dano causado pelos Ataques Normais e pela Habilidade Elemental. O aumento de Dano é equivalente a 150% da Proficiência Elemental. Este efeito desaparecerá depois de ser ativado 28 vezes ou após 12s. Só é possível desencadear o efeito \"Poda\" uma vez a cada 12s.",
+        "RU": "Шанс крит. попадания увеличивается на 5%. Когда обычная атака наносит элементальный урон, она даёт эффект Лиственного выреза: урон обычных атак и элементальных навыков повышается на 150% от мастерства стихий. После 28 активаций или через 12 сек. эффект исчезнет. Лиственный вырез можно получить не чаще одного раза в 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 5%; หลังจากที่การโจมตีปกติ ทำให้เกิดความเสียหายธาตุ จะได้รับเอฟเฟกต์ \"Foliar Incision\": การโจมตีปกติ และสกิลธาตุสร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่มจะเท่ากับ 150% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปหลังจากเกิดผลแล้ว 28 ครั้ง หรือหลังจากผ่านไป 12 วินาที และในทุก 12 วินาที จะได้รับเอฟเฟกต์ \"Foliar Incision\" มากสุดหนึ่งครั้ง",
+        "TR": "Kritik Oranı %5 artar. Normal Saldırılar, Element Hasarı verdikten sonra Normal Saldırı ve Element Becerilerinin Hasarını, Element Ustalığının %150'si oranında artıran Yaprak Kesen etkisi kazanılır. Bu etki, 28 defa Hasar verdiğinde veya 12 saniye sonra kaybolur. Yaprak Kesen her 12 saniyede bir tetiklenebilir.",
+        "VI": "Tỉ lệ bạo kích tăng 5%; Khi tấn công thường gây Sát Thương Nguyên Tố sẽ nhận được hiệu quả \"Tán Lá Phán Quyết\": Tăng sát thương gây ra từ tấn công thường và Kỹ Năng Nguyên Tố dựa vào 150% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi hiệu lực 28 lần hoặc sau 12s, mỗi 12s tối đa nhận được hiệu quả \"Tán Lá Phán Quyết\" một lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "CRIT Rate is increased by 6%. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by 180% of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
+        "CHS": "暴击率提升6%；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的180%。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。",
+        "CHT": "暴擊率提升6%；普通攻擊造成元素傷害後，獲得「裁葉」效果：普通攻擊和元素戰技造成的傷害提高，提高值相當於元素精通的180%。該效果在生效28次或12秒後消失，每12秒至多獲得一次「裁葉」效果。",
+        "DE": "Erhöht die KT um 6 %. Erhält, nachdem durch Standardangriffe Elementar-Schaden verursacht wurde, den Effekt „Blattschneider“: Erhöht den von Standardangriffen und Elementarfähigkeit verursachten Schaden um 180 % der Elementarkunde. Dieser Effekt verschwindet nach 12 s oder nach 28 Auslösungen des Bonus. 12 s Abklingzeit auf das Erhalten des Effekts „Blattschneider“.",
+        "ES": "#La Prob. CRIT aumenta en un 6%. Tras infligir Daño Elemental con un Ataque Normal, el personaje obtiene el efecto de “corte foliáceo”, el cual aumenta el daño del Ataque Normal y de la Habilidad Elemental en una cantidad equivalente al 180% de la Maestría Elemental. Este efecto desaparece tras activarse 28 veces o después de 12 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Augmente le taux CRIT de 6 %. Lorsqu'une attaque normale a infligé des DGT élémentaires, l'effet Sanction foliaire est obtenu, augmentant les DGT infligés par les attaques normales et les compétences élémentaires d'une valeur équivalant à 180 % de la maîtrise élémentaire. Cet effet disparaît après 12 s ou après avoir été déclenché 28 fois, et l'effet Sanction foliaire peut être obtenu une fois toutes les 12 s.",
+        "ID": "CRIT Rate meningkat 6%; Setelah Normal Attack mengakibatkan Elemental DMG, akan mendapatkan efek Foliar Incision: DMG yang diakibatkan Normal Attack dan Elemental Skill meningkat sebesar 180% Elemental Mastery. Efek ini akan hilang setelah terpicu 28 kali atau setelah 12 detik. Efek Foliar Incision maksimum didapatkan sekali setiap 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 6%. Quando gli attacchi normali infliggono DAN elementali, si ottiene l'effetto Taglio frondoso che aumenta i DAN inflitti dagli attacchi normali e dalle abilità elementali di un 180% della maestria elementale. Questo effetto svanisce dopo aver inflitto DAN per 28 volte oppure dopo 12 s. È possibile ottenere Taglio frondoso una volta ogni 12 s.",
+        "JP": "会心率+6%。通常攻撃で元素ダメージを与えた後、「裁葉」効果を獲得し、通常攻撃および元素スキルによるダメージが元素熟知の180%分アップする。「裁葉」効果は28回発動または12秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "치명타 확률이 6% 증가한다. 일반 공격으로 적에게 원소 피해를 준 후, 일반 공격과 원소전투 스킬로 주는 피해가 원소 마스터리의 180%만큼 증가하는 「가지치기」 효과를 획득한다. 해당 효과는 28회 발동하거나 12초가 지나면 사라진다. 「가지치기」 효과는 12초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Taxa CRIT em 6%; quando o Ataque Normal causa Dano elemental, obtém o efeito \"Poda\": aumenta o Dano causado pelos Ataques Normais e pela Habilidade Elemental. O aumento de Dano é equivalente a 180% da Proficiência Elemental. Este efeito desaparecerá depois de ser ativado 28 vezes ou após 12s. Só é possível desencadear o efeito \"Poda\" uma vez a cada 12s.",
+        "RU": "Шанс крит. попадания увеличивается на 6%. Когда обычная атака наносит элементальный урон, она даёт эффект Лиственного выреза: урон обычных атак и элементальных навыков повышается на 180% от мастерства стихий. После 28 активаций или через 12 сек. эффект исчезнет. Лиственный вырез можно получить не чаще одного раза в 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 6%; หลังจากที่การโจมตีปกติ ทำให้เกิดความเสียหายธาตุ จะได้รับเอฟเฟกต์ \"Foliar Incision\": การโจมตีปกติ และสกิลธาตุสร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่มจะเท่ากับ 180% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปหลังจากเกิดผลแล้ว 28 ครั้ง หรือหลังจากผ่านไป 12 วินาที และในทุก 12 วินาที จะได้รับเอฟเฟกต์ \"Foliar Incision\" มากสุดหนึ่งครั้ง",
+        "TR": "Kritik Oranı %6 artar. Normal Saldırılar, Element Hasarı verdikten sonra Normal Saldırı ve Element Becerilerinin Hasarını, Element Ustalığının %180'i oranında artıran Yaprak Kesen etkisi kazanılır. Bu etki, 28 defa Hasar verdiğinde veya 12 saniye sonra kaybolur. Yaprak Kesen her 12 saniyede bir tetiklenebilir.",
+        "VI": "Tỉ lệ bạo kích tăng 6%; Khi tấn công thường gây Sát Thương Nguyên Tố sẽ nhận được hiệu quả \"Tán Lá Phán Quyết\": Tăng sát thương gây ra từ tấn công thường và Kỹ Năng Nguyên Tố dựa vào 180% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi hiệu lực 28 lần hoặc sau 12s, mỗi 12s tối đa nhận được hiệu quả \"Tán Lá Phán Quyết\" một lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "CRIT Rate is increased by 7%. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by 210% of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
+        "CHS": "暴击率提升7%；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的210%。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。",
+        "CHT": "暴擊率提升7%；普通攻擊造成元素傷害後，獲得「裁葉」效果：普通攻擊和元素戰技造成的傷害提高，提高值相當於元素精通的210%。該效果在生效28次或12秒後消失，每12秒至多獲得一次「裁葉」效果。",
+        "DE": "Erhöht die KT um 7 %. Erhält, nachdem durch Standardangriffe Elementar-Schaden verursacht wurde, den Effekt „Blattschneider“: Erhöht den von Standardangriffen und Elementarfähigkeit verursachten Schaden um 210 % der Elementarkunde. Dieser Effekt verschwindet nach 12 s oder nach 28 Auslösungen des Bonus. 12 s Abklingzeit auf das Erhalten des Effekts „Blattschneider“.",
+        "ES": "#La Prob. CRIT aumenta en un 7%. Tras infligir Daño Elemental con un Ataque Normal, el personaje obtiene el efecto de “corte foliáceo”, el cual aumenta el daño del Ataque Normal y de la Habilidad Elemental en una cantidad equivalente al 210% de la Maestría Elemental. Este efecto desaparece tras activarse 28 veces o después de 12 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Augmente le taux CRIT de 7 %. Lorsqu'une attaque normale a infligé des DGT élémentaires, l'effet Sanction foliaire est obtenu, augmentant les DGT infligés par les attaques normales et les compétences élémentaires d'une valeur équivalant à 210 % de la maîtrise élémentaire. Cet effet disparaît après 12 s ou après avoir été déclenché 28 fois, et l'effet Sanction foliaire peut être obtenu une fois toutes les 12 s.",
+        "ID": "CRIT Rate meningkat 7%; Setelah Normal Attack mengakibatkan Elemental DMG, akan mendapatkan efek Foliar Incision: DMG yang diakibatkan Normal Attack dan Elemental Skill meningkat sebesar 210% Elemental Mastery. Efek ini akan hilang setelah terpicu 28 kali atau setelah 12 detik. Efek Foliar Incision maksimum didapatkan sekali setiap 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 7%. Quando gli attacchi normali infliggono DAN elementali, si ottiene l'effetto Taglio frondoso che aumenta i DAN inflitti dagli attacchi normali e dalle abilità elementali di un 210% della maestria elementale. Questo effetto svanisce dopo aver inflitto DAN per 28 volte oppure dopo 12 s. È possibile ottenere Taglio frondoso una volta ogni 12 s.",
+        "JP": "会心率+7%。通常攻撃で元素ダメージを与えた後、「裁葉」効果を獲得し、通常攻撃および元素スキルによるダメージが元素熟知の210%分アップする。「裁葉」効果は28回発動または12秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "치명타 확률이 7% 증가한다. 일반 공격으로 적에게 원소 피해를 준 후, 일반 공격과 원소전투 스킬로 주는 피해가 원소 마스터리의 210%만큼 증가하는 「가지치기」 효과를 획득한다. 해당 효과는 28회 발동하거나 12초가 지나면 사라진다. 「가지치기」 효과는 12초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Taxa CRIT em 7%; quando o Ataque Normal causa Dano elemental, obtém o efeito \"Poda\": aumenta o Dano causado pelos Ataques Normais e pela Habilidade Elemental. O aumento de Dano é equivalente a 210% da Proficiência Elemental. Este efeito desaparecerá depois de ser ativado 28 vezes ou após 12s. Só é possível desencadear o efeito \"Poda\" uma vez a cada 12s.",
+        "RU": "Шанс крит. попадания увеличивается на 7%. Когда обычная атака наносит элементальный урон, она даёт эффект Лиственного выреза: урон обычных атак и элементальных навыков повышается на 210% от мастерства стихий. После 28 активаций или через 12 сек. эффект исчезнет. Лиственный вырез можно получить не чаще одного раза в 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 7%; หลังจากที่การโจมตีปกติ ทำให้เกิดความเสียหายธาตุ จะได้รับเอฟเฟกต์ \"Foliar Incision\": การโจมตีปกติ และสกิลธาตุสร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่มจะเท่ากับ 210% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปหลังจากเกิดผลแล้ว 28 ครั้ง หรือหลังจากผ่านไป 12 วินาที และในทุก 12 วินาที จะได้รับเอฟเฟกต์ \"Foliar Incision\" มากสุดหนึ่งครั้ง",
+        "TR": "Kritik Oranı %7 artar. Normal Saldırılar, Element Hasarı verdikten sonra Normal Saldırı ve Element Becerilerinin Hasarını, Element Ustalığının %210'u oranında artıran Yaprak Kesen etkisi kazanılır. Bu etki, 28 defa Hasar verdiğinde veya 12 saniye sonra kaybolur. Yaprak Kesen her 12 saniyede bir tetiklenebilir.",
+        "VI": "Tỉ lệ bạo kích tăng 7%; Khi tấn công thường gây Sát Thương Nguyên Tố sẽ nhận được hiệu quả \"Tán Lá Phán Quyết\": Tăng sát thương gây ra từ tấn công thường và Kỹ Năng Nguyên Tố dựa vào 210% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi hiệu lực 28 lần hoặc sau 12s, mỗi 12s tối đa nhận được hiệu quả \"Tán Lá Phán Quyết\" một lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "CRIT Rate is increased by 8%. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by 240% of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
+        "CHS": "暴击率提升8%；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的240%。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。",
+        "CHT": "暴擊率提升8%；普通攻擊造成元素傷害後，獲得「裁葉」效果：普通攻擊和元素戰技造成的傷害提高，提高值相當於元素精通的240%。該效果在生效28次或12秒後消失，每12秒至多獲得一次「裁葉」效果。",
+        "DE": "Erhöht die KT um 8 %. Erhält, nachdem durch Standardangriffe Elementar-Schaden verursacht wurde, den Effekt „Blattschneider“: Erhöht den von Standardangriffen und Elementarfähigkeit verursachten Schaden um 240 % der Elementarkunde. Dieser Effekt verschwindet nach 12 s oder nach 28 Auslösungen des Bonus. 12 s Abklingzeit auf das Erhalten des Effekts „Blattschneider“.",
+        "ES": "#La Prob. CRIT aumenta en un 8%. Tras infligir Daño Elemental con un Ataque Normal, el personaje obtiene el efecto de “corte foliáceo”, el cual aumenta el daño del Ataque Normal y de la Habilidad Elemental en una cantidad equivalente al 240% de la Maestría Elemental. Este efecto desaparece tras activarse 28 veces o después de 12 s, y solo se puede obtener una vez cada 12 s.",
+        "FR": "Augmente le taux CRIT de 8 %. Lorsqu'une attaque normale a infligé des DGT élémentaires, l'effet Sanction foliaire est obtenu, augmentant les DGT infligés par les attaques normales et les compétences élémentaires d'une valeur équivalant à 240 % de la maîtrise élémentaire. Cet effet disparaît après 12 s ou après avoir été déclenché 28 fois, et l'effet Sanction foliaire peut être obtenu une fois toutes les 12 s.",
+        "ID": "CRIT Rate meningkat 8%; Setelah Normal Attack mengakibatkan Elemental DMG, akan mendapatkan efek Foliar Incision: DMG yang diakibatkan Normal Attack dan Elemental Skill meningkat sebesar 240% Elemental Mastery. Efek ini akan hilang setelah terpicu 28 kali atau setelah 12 detik. Efek Foliar Incision maksimum didapatkan sekali setiap 12 detik.",
+        "IT": "#Il tasso di CRIT aumenta di un 8%. Quando gli attacchi normali infliggono DAN elementali, si ottiene l'effetto Taglio frondoso che aumenta i DAN inflitti dagli attacchi normali e dalle abilità elementali di un 240% della maestria elementale. Questo effetto svanisce dopo aver inflitto DAN per 28 volte oppure dopo 12 s. È possibile ottenere Taglio frondoso una volta ogni 12 s.",
+        "JP": "会心率+8%。通常攻撃で元素ダメージを与えた後、「裁葉」効果を獲得し、通常攻撃および元素スキルによるダメージが元素熟知の240%分アップする。「裁葉」効果は28回発動または12秒後にクリアされ、12秒毎に1回のみ獲得できる。",
+        "KR": "치명타 확률이 8% 증가한다. 일반 공격으로 적에게 원소 피해를 준 후, 일반 공격과 원소전투 스킬로 주는 피해가 원소 마스터리의 240%만큼 증가하는 「가지치기」 효과를 획득한다. 해당 효과는 28회 발동하거나 12초가 지나면 사라진다. 「가지치기」 효과는 12초마다 최대 1회 획득할 수 있다",
+        "PT": "Aumenta a Taxa CRIT em 8%; quando o Ataque Normal causa Dano elemental, obtém o efeito \"Poda\": aumenta o Dano causado pelos Ataques Normais e pela Habilidade Elemental. O aumento de Dano é equivalente a 240% da Proficiência Elemental. Este efeito desaparecerá depois de ser ativado 28 vezes ou após 12s. Só é possível desencadear o efeito \"Poda\" uma vez a cada 12s.",
+        "RU": "Шанс крит. попадания увеличивается на 8%. Когда обычная атака наносит элементальный урон, она даёт эффект Лиственного выреза: урон обычных атак и элементальных навыков повышается на 240% от мастерства стихий. После 28 активаций или через 12 сек. эффект исчезнет. Лиственный вырез можно получить не чаще одного раза в 12 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 8%; หลังจากที่การโจมตีปกติ ทำให้เกิดความเสียหายธาตุ จะได้รับเอฟเฟกต์ \"Foliar Incision\": การโจมตีปกติ และสกิลธาตุสร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่มจะเท่ากับ 240% ของความชำนาญธาตุ ซึ่งเอฟเฟกต์นี้ จะหายไปหลังจากเกิดผลแล้ว 28 ครั้ง หรือหลังจากผ่านไป 12 วินาที และในทุก 12 วินาที จะได้รับเอฟเฟกต์ \"Foliar Incision\" มากสุดหนึ่งครั้ง",
+        "TR": "Kritik Oranı %8 artar. Normal Saldırılar, Element Hasarı verdikten sonra Normal Saldırı ve Element Becerilerinin Hasarını, Element Ustalığının %240'ı oranında artıran Yaprak Kesen etkisi kazanılır. Bu etki, 28 defa Hasar verdiğinde veya 12 saniye sonra kaybolur. Yaprak Kesen her 12 saniyede bir tetiklenebilir.",
+        "VI": "Tỉ lệ bạo kích tăng 8%; Khi tấn công thường gây Sát Thương Nguyên Tố sẽ nhận được hiệu quả \"Tán Lá Phán Quyết\": Tăng sát thương gây ra từ tấn công thường và Kỹ Năng Nguyên Tố dựa vào 240% Tinh Thông Nguyên Tố. Hiệu quả này sẽ biến mất sau khi hiệu lực 28 lần hoặc sau 12s, mỗi 12s tối đa nhận được hiệu quả \"Tán Lá Phán Quyết\" một lần."
+      }
+    }
+  ]
+}
