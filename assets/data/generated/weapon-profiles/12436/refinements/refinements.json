@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Repentance and Redemption",
+    "CHS": "罪责的悔赎",
+    "CHT": "罪責的悔贖",
+    "DE": "Vergebung der Sünden",
+    "ES": "Redención del pecado",
+    "FR": "Repentir et rédemption",
+    "ID": "Repentance and Redemption",
+    "IT": "Penitenza e redenzione",
+    "JP": "罪業の贖い",
+    "KR": "속죄",
+    "PT": "Arrependimento e Redenção",
+    "RU": "Искупление грехов",
+    "TH": "Repentance and Redemption",
+    "TR": "Tövbe ve Kurtuluş",
+    "VI": "Ăn Năn Chuộc Tội"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's Elemental Mastery by 64 for 12s, while triggering a Stellar Glimmer reaction increases their ATK by 16% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的元素精通提升64点；触发星烁反应的12秒内，装备者的攻击力提升16%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的元素精通提升64點。觸發星爍反應的12秒內，裝備者的攻擊力提升16%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion die Elementarkunde des Trägers um 64 Punkte. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 16 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental del portador de esta arma aumenta en 64 pts. durante 12 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 16% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire du personnage équipé de l'arme de 64 pts pendant 12 s, et déclencher une réaction astrale augmente son ATQ de 16 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery Karakter yang mengenakan +64 poin selama 12 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +16% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meski ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta la maestria elementale del personaggio che equipaggia l'arma di 64 per 12 s, mentre innescare una reazione di Barlume astrale ne aumenta l'ATT di un 16% per la medesima durata. Gli effetti sopracitati possono innescarsi anche quando il personaggio non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の元素熟知+64。星反応を起こしてからの12秒間、装備者の攻撃力+16%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 64pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 16% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma Reação Elemental, aumenta a Proficiência Elemental do portador em 64. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 16%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий экипированного персонажа повышается на 64 ед. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 16%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 64 หน่วย; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 16% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Element Ustalığı 64 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %16 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 64 điểm Tinh Thông Nguyên Tố cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 16% Tấn Công trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's Elemental Mastery by 80 for 12s, while triggering a Stellar Glimmer reaction increases their ATK by 20% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的元素精通提升80点；触发星烁反应的12秒内，装备者的攻击力提升20%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的元素精通提升80點。觸發星爍反應的12秒內，裝備者的攻擊力提升20%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion die Elementarkunde des Trägers um 80 Punkte. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 20 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental del portador de esta arma aumenta en 80 pts. durante 12 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 20% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire du personnage équipé de l'arme de 80 pts pendant 12 s, et déclencher une réaction astrale augmente son ATQ de 20 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery Karakter yang mengenakan +80 poin selama 12 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +20% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meski ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta la maestria elementale del personaggio che equipaggia l'arma di 80 per 12 s, mentre innescare una reazione di Barlume astrale ne aumenta l'ATT di un 20% per la medesima durata. Gli effetti sopracitati possono innescarsi anche quando il personaggio non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の元素熟知+80。星反応を起こしてからの12秒間、装備者の攻撃力+20%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 80pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 20% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma Reação Elemental, aumenta a Proficiência Elemental do portador em 80. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 20%. Esses efeitos podem ser desencadeados, mesmo quando o portador não é o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий экипированного персонажа повышается на 80 ед. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 20%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 80 หน่วย; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 20% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Element Ustalığı 80 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %20 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 80 điểm Tinh Thông Nguyên Tố cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 20% Tấn Công trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's Elemental Mastery by 96 for 12s, while triggering a Stellar Glimmer reaction increases their ATK by 24% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的元素精通提升96点；触发星烁反应的12秒内，装备者的攻击力提升24%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的元素精通提升96點。觸發星爍反應的12秒內，裝備者的攻擊力提升24%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion die Elementarkunde des Trägers um 96 Punkte. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 24 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental del portador de esta arma aumenta en 96 pts. durante 12 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 24% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire du personnage équipé de l'arme de 96 pts pendant 12 s, et déclencher une réaction astrale augmente son ATQ de 24 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery Karakter yang mengenakan +96 poin selama 12 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +24% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meski ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta la maestria elementale del personaggio che equipaggia l'arma di 96 per 12 s, mentre innescare una reazione di Barlume astrale ne aumenta l'ATT di un 24% per la medesima durata. Gli effetti sopracitati possono innescarsi anche quando il personaggio non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の元素熟知+96。星反応を起こしてからの12秒間、装備者の攻撃力+24%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 96pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 24% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma Reação Elemental, aumenta a Proficiência Elemental do portador em 96. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 24%. Esses efeitos podem ser desencadeados, mesmo quando o portador não é o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий экипированного персонажа повышается на 96 ед. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 24%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 96 หน่วย; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 24% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Element Ustalığı 96 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %24 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 96 điểm Tinh Thông Nguyên Tố cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 24% Tấn Công trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's Elemental Mastery by 112 for 12s, while triggering a Stellar Glimmer reaction increases their ATK by 28% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的元素精通提升112点；触发星烁反应的12秒内，装备者的攻击力提升28%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的元素精通提升112點。觸發星爍反應的12秒內，裝備者的攻擊力提升28%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion die Elementarkunde des Trägers um 112 Punkte. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 28 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental del portador de esta arma aumenta en 112 pts. durante 12 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 28% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire du personnage équipé de l'arme de 112 pts pendant 12 s, et déclencher une réaction astrale augmente son ATQ de 28 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery Karakter yang mengenakan +112 poin selama 12 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +28% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meski ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta la maestria elementale del personaggio che equipaggia l'arma di 112 per 12 s, mentre innescare una reazione di Barlume astrale ne aumenta l'ATT di un 28% per la medesima durata. Gli effetti sopracitati possono innescarsi anche quando il personaggio non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の元素熟知+112。星反応を起こしてからの12秒間、装備者の攻撃力+28%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 112pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 28% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma Reação Elemental, aumenta a Proficiência Elemental do portador em 112. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 28%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий экипированного персонажа повышается на 112 ед. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 28%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 112 หน่วย; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 28% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Element Ustalığı 112 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %28 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 112 điểm Tinh Thông Nguyên Tố cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 28% Tấn Công trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Triggering an Elemental Reaction increases the equipping character's Elemental Mastery by 128 for 12s, while triggering a Stellar Glimmer reaction increases their ATK by 32% for 12s. The aforementioned effects can trigger even when the character is not on the field.",
+        "CHS": "触发元素反应的12秒内，装备者的元素精通提升128点；触发星烁反应的12秒内，装备者的攻击力提升32%。装备者处于队伍后台时，依然能触发上述效果。",
+        "CHT": "觸發元素反應的12秒內，裝備者的元素精通提升128點。觸發星爍反應的12秒內，裝備者的攻擊力提升32%。裝備者處於隊伍後臺時，依然能觸發上述效果。",
+        "DE": "#Erhöht innerhalb von 12 s nach dem Auslösen einer Elementarreaktion die Elementarkunde des Trägers um 128 Punkte. Erhöht innerhalb von 12 s nach dem Auslösen einer Stellarfunkeln-Reaktion den ANG des Trägers um 32 %. Die oben genannten Effekte können auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+        "ES": "#Tras causar una Reacción Elemental, la Maestría Elemental del portador de esta arma aumenta en 128 pts. durante 12 s. Tras causar una reacción de Destello Estelar, el ATQ del portador aumenta en un 32% durante 12 s. Estos efectos se pueden activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Déclencher une réaction élémentaire augmente la maîtrise élémentaire du personnage équipé de l'arme de 128 pts pendant 12 s, et déclencher une réaction astrale augmente son ATQ de 32 % pendant 12 s. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah memicu Reaksi Elemental, Elemental Mastery Karakter yang mengenakan +128 poin selama 12 detik. Setelah memicu reaksi Stellar Glimmer, ATK Karakter yang mengenakan +32% selama 12 detik. Karakter yang mengenakan tetap dapat memicu efek di atas meski ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Innescare una reazione elementale aumenta la maestria elementale del personaggio che equipaggia l'arma di 128 per 12 s, mentre innescare una reazione di Barlume astrale ne aumenta l'ATT di un 32% per la medesima durata. Gli effetti sopracitati possono innescarsi anche quando il personaggio non è in campo.",
+        "JP": "元素反応を起こしてからの12秒間、装備者の元素熟知+128。星反応を起こしてからの12秒間、装備者の攻撃力+32%。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소 반응 발동 후 12초 동안 장착 캐릭터의 원소 마스터리가 128pt 증가하며, 별빛 반응 발동 후 12초 동안, 장착 캐릭터의 공격력이 32% 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과가 발동된다",
+        "PT": "Nos 12s após desencadear uma Reação Elemental, aumenta a Proficiência Elemental do portador em 128. Nos 12s após desencadear uma reação de Brilho Estelar, aumenta o ATQ do portador em 32%. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo.",
+        "RU": "На 12 сек. после активации элементальной реакции мастерство стихий экипированного персонажа повышается на 128 ед. Активация реакций Звёздного блеска на 12 сек. повышает его силу атаки на 32%. Эффект срабатывает, даже если экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาธาตุ ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 128 หน่วย; ภายใน 12 วินาทีหลังจากทำให้เกิดปฏิกิริยาประกายดาว พลังโจมตีของผู้สวมใส่จะเพิ่มขึ้น 32% เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Tepkimesi tetiklediğinde 12sn boyunca kuşanan karakterin Element Ustalığı 128 artar. Bir Yıldız Parıltısı tepkimesi tetiklediğinde ise 12sn boyunca kuşanan karakterin Saldırısı %32 artar. Bu etkiler karakter alanda olmasa bile tetiklenebilir.",
+        "VI": "Kích hoạt phản ứng nguyên tố sẽ tăng 128 điểm Tinh Thông Nguyên Tố cho người trang bị trong 12s; Kích hoạt phản ứng Tinh Tú Lấp Lánh, người trang bị sẽ tăng 32% Tấn Công trong 12s. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+      }
+    }
+  ]
+}

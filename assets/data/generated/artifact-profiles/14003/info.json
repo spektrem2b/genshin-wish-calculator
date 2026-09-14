@@ -1,0 +1,69 @@
+{
+  "id": 14003,
+  "name": {
+    "EN": "Lavawalker",
+    "CHS": "渡过烈火的贤人",
+    "CHT": "渡過烈火的賢人",
+    "DE": "Feuer durchwandernder Heiliger",
+    "ES": "Virtuoso Corredor de Lava",
+    "FR": "Marcheur du feu",
+    "ID": "Lavawalker",
+    "IT": "Attraversafuochi",
+    "JP": "烈火を渡る賢者",
+    "KR": "불 위를 걷는 현인",
+    "PT": "Atravessador do Fogo",
+    "RU": "Ступающий по лаве",
+    "TH": "Lavawalker",
+    "TR": "Lavdagezen",
+    "VI": "Hiền Nhân Bốc Lửa"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/14003/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Pyro RES increased by 40%.",
+        "CHS": "火元素抗性提高40%。",
+        "CHT": "火元素抗性提高40%。",
+        "DE": "Erhöht den Pyro-WDS um 40 %.",
+        "ES": "RES Pyro +40%.",
+        "FR": "Augmente la RÉS Pyro de 40 %.",
+        "ID": "Pyro RES +40%.",
+        "IT": "RES a Pyro +40%.",
+        "JP": "炎元素耐性+40%。",
+        "KR": "불 원소 내성+40%",
+        "PT": "RES Pyro +40%",
+        "RU": "Повышает Пиро сопротивление на +40%.",
+        "TH": "เพิ่มความต้านทานไฟ 40%",
+        "TR": "Ateş Direnci %40 artar.",
+        "VI": "Kháng nguyên tố Hỏa tăng 40%."
+      },
+      "affixId": "2140030"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases DMG against opponents affected by Pyro by 35%.",
+        "CHS": "对处于火元素影响下的敌人造成的伤害提升35%。",
+        "CHT": "對處於火元素影響下的敵人造成的傷害提升35%。",
+        "DE": "Erhöht den von Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 35 %.",
+        "ES": "Aumenta en un 35% el daño contra los enemigos afectados por Pyro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par l'élément Pyro de 35 %.",
+        "ID": "Meningkatkan 35% DMG terhadap musuh yang terpengaruh Pyro.",
+        "IT": "I DAN contro gli avversari affetti da Pyro aumentano di un 35%.",
+        "JP": "炎元素の影響を受けた敵に対するダメージ+35%。",
+        "KR": "불 원소의 영향을 받은 적에게 주는 피해가 35% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Pyro em 35%.",
+        "RU": "Увеличивает урон против врагов, находящихся под действием Пиро, на 35%.",
+        "TH": "สร้างความเสียหายเพิ่มขึ้น 35% แก่ศัตรูที่ได้รับผลกระทบต่อธาตุไฟ",
+        "TR": "Ateşten etkilenen düşmanlara verilen Hasarı %35 artırır.",
+        "VI": "Tăng 35% sát thương tạo thành cho kẻ địch bị ảnh hưởng nguyên tố Hỏa."
+      },
+      "affixId": "2140031"
+    }
+  ]
+}

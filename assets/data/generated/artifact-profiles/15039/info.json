@@ -1,0 +1,69 @@
+{
+  "id": 15039,
+  "name": {
+    "EN": "Long Night's Oath",
+    "CHS": "长夜之誓",
+    "CHT": "長夜之誓",
+    "DE": "Eid der Nacht",
+    "ES": "Juramento de la Noche",
+    "FR": "Serment de la longue nuit",
+    "ID": "Long Night's Oath",
+    "IT": "Giuramento della lunga notte",
+    "JP": "長き夜の誓い",
+    "KR": "긴 밤의 맹세",
+    "PT": "Juramento da Noite Eterna",
+    "RU": "Клятва долгой ночи",
+    "TH": "Long Night's Oath",
+    "TR": "Uzun Gecenin Yemini",
+    "VI": "Lời Thề Đêm Dài"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15039/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Plunging Attack DMG increased by 25%.",
+        "CHS": "下落攻击造成的伤害提升25%。",
+        "CHT": "下落攻擊造成的傷害提升25%。",
+        "DE": "#Erhöht den mit Angriffen aus dem Fall verursachten Schaden um 25 %.",
+        "ES": "Aumenta en un 25% el daño del Ataque Descendente.",
+        "FR": "#Les DGT infligés par les attaques plongeantes augmentent de 25 %.",
+        "ID": "DMG Plunging Attack meningkat 25%.",
+        "IT": "DAN da attacco in picchiata +25%.",
+        "JP": "落下攻撃の与えるダメージ+25%。",
+        "KR": "낙하 공격으로 주는 피해+25%",
+        "PT": "Dano do Ataque Imersivo aumenta em 25%.",
+        "RU": "Урон атак в падении увеличивается на 25%.",
+        "TH": "การโจมตีพุ่งลงจากอากาศสร้างความเสียหายเพิ่มขึ้น 25%",
+        "TR": "Havadan Saldırı Hasarı %25 artar.",
+        "VI": "Tăng 25% sát thương Tấn Công Khi Đáp."
+      },
+      "affixId": "2150390"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of \"Radiance Everlasting.\" Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently.",
+        "CHS": "装备者的下落攻击/重击/元素战技命中敌人后，获得1/2/2层「永照的流辉」，由下落攻击、重击或元素战技产生的该效果分别每1秒至多触发一次。永照的流辉：下落攻击造成的伤害提升15%，持续6秒，至多叠加5层，每层持续时间独立计算。",
+        "CHT": "裝備者的下落攻擊/重擊/元素戰技命中敵人後，獲得1/2/2層「永照的流輝」，由下落攻擊、重擊或元素戰技產生的該效果分別每1秒至多觸發一次。永照的流輝：下落攻擊造成的傷害提升15%，持續6秒，至多疊加5層，每層持續時間獨立計算。",
+        "DE": "#Erhält beim Treffen von Gegnern mit Angriffen aus dem Fall, heftigen Schlägen oder Elementarfähigkeiten des Trägers 1/2/2 Stapelung(en) „Ewiger Glanz“. 1 s Abklingzeit für jeden durch die oben genannten Angriffe erzeugten Effekt. Ewiger Glanz: Erhöht den mit Angriffen aus dem Fall verursachten Schaden 6 s um 15 %, 5-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.",
+        "ES": "#Cuando el portador de este conjunto golpea a un enemigo con un Ataque Descendente/Ataque Cargado/Habilidad Elemental, obtiene 1/2/2 cargas de “resplandor eterno”. Los Ataques Descendentes, Ataques Cargados o Habilidades Elementales pueden activar este efecto una vez por segundo de forma independiente. Resplandor eterno: el daño de los Ataques Descendentes aumenta en un 15% durante 6 s. Este efecto puede acumularse hasta 5 veces y la duración de cada acumulación se calcula de manera independiente.",
+        "FR": "Lorsque le personnage équipé de l'artéfact a touché un ennemi avec une attaque plongeante, une attaque chargée ou une compétence élémentaire, il obtient respectivement 1, 2 ou 2 cumuls de radiance éternelle, ces différents types d'attaque pouvant chacun déclencher cet effet une fois toutes les secondes. La radiance éternelle augmente les DGT infligés par les attaques plongeantes de 15 % pendant 6 s et peut se cumuler 5 fois maximum, la durée de chaque cumul étant calculée de façon indépendante.",
+        "ID": "Setelah Plunging Attack/Charged Attack/Elemental Skill dari Karakter yang mengenakan mengenai musuh, akan mendapatkan 1/2/2 lapis efek \"Radiance Everlasting\". Masing-masing Plunging Attack, Charged Attack, atau Elemental Skill dapat memicu efek ini sekali setiap detik. Efek \"Radiance Everlasting\": DMG Plunging Attack meningkat 15% selama 6 detik, dapat ditumpuk sampai 5 lapis dan durasi setiap lapisannya dihitung terpisah.",
+        "IT": "#Quando colpisce un avversario con attacchi in picchiata/attacchi caricati/abilità elementali, il personaggio che equipaggia il set ottiene 1/2/2 accumuli di Radiosità perenne. Tutti e tre i tipi di attacco possono innescare l'effetto una volta ogni 1 s. Radiosità perenne: gli attacchi in picchiata infliggono un 15% di DAN aumentati per 6 s. Cumulabile fino a 5 volte. La durata di ogni accumulo è indipendente dalle altre.",
+        "JP": "装備者の落下攻撃/重撃/元素スキルが敵に命中した後、「永遠に輝く流光」効果を1/2/2層獲得する。落下攻撃、重撃、または元素スキルによるこの効果はそれぞれ1秒毎に1回のみ発動可能。「永遠に輝く流光」：落下攻撃ダメージ+15%、継続時間6秒、最大5層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。",
+        "KR": "장착 캐릭터의 낙하 공격/강공격/원소전투 스킬이 적에게 명중 후, 「영원한 광휘」를 1/2/2스택 획득한다. 해당 효과는 낙하 공격, 강공격 또는 원소전투 스킬로 1초마다 각각 최대 1회 발동된다. 「영원한 광휘」: 낙하 공격으로 주는 피해가 15% 증가한다. 지속 시간: 6초, 최대 중첩수: 5스택, 스택마다 지속 시간은 독립적으로 계산한다",
+        "PT": "Quando o personagem que está com esse conjunto equipado atinge um Ataque Imersivo/Carregado/Habilidade Elemental no inimigo, obtém 1/2/2 acúmulo(s) de Brilho Eterno. Ataques Imersivos, Carregados ou Habilidades Elementais podem gerar esse efeito uma vez por segundo. Brilho Eterno: aumenta o Dano causado por Ataques Imersivos em 15% por 6s, acumula até 5 vezes. A duração de cada acúmulo é contada independentemente.",
+        "RU": "После того как атака в падении, заряженная атака или элементальный навык экипированного персонажа поражают противника, экипированный персонаж получает 1/2/2 уровня Вечного сияния. Атаки в падении, заряженные атаки и элементальные навыки могут по отдельности вызывать этот эффект один раз в 1 сек. Вечное сияние: урон атаки в падении повышается на 15%. Эффект длится 6 сек. и складывается до 5 раз. Длительность каждого уровня рассчитывается отдельно.",
+        "TH": "หลังจากการโจมตีพุ่งลงจากอากาศ/ชาร์จโจมตี/สกิลธาตุของผู้สวมใส่ถูกศัตรู จะได้รับ \"Radiance Everlasting\" 1/2/2 ชั้น โดยเอฟเฟกต์นี้ที่เกิดจากการโจมตีพุ่งลงจากอากาศ/ชาร์จโจมตี/สกิลธาตุ จะแยกกันเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 1 วินาที; Radiance Everlasting: ความเสียหายจากการโจมตีพุ่งลงจากอากาศเพิ่มขึ้น 15% เป็นเวลา 6 วินาที ซ้อนทับได้สูงสุด 5 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาต่อเนื่องแยกกัน",
+        "TR": "Kuşanan karakterin Havadan Saldırısı/Yüklü Saldırısı/Element Becerisi bir düşmana isabet ettiğinde 1/2/2 kademe \"Ebedi İhtişam\" kazanır. Havadan Saldırılar, Yüklü Saldırılar veya Element Becerileri bu etkiyi her 1 saniyede bir tetikleyebilir. Ebedi İhtişam: 6 saniyeliğine Havadan Saldırı Hasarı %15 artar. 5 kademeye kadar birikir. Her kademenin süresi birbirinden bağımsızdır.",
+        "VI": "Sau khi đòn Tấn Công Khi Đáp/Trọng Kích/Kỹ Năng Nguyên Tố của người trang bị đánh trúng kẻ địch, sẽ nhận được 1/2/2 tầng \"Rạng Rỡ Vĩnh Cửu\". Tấn Công Khi Đáp, Trọng Kích hoặc Kỹ Năng Nguyên Tố mỗi 1s tối đa kích hoạt riêng biệt hiệu quả này một lần. Rạng Rỡ Vĩnh Cửu: Tăng 15% sát thương Tấn Công Khi Đáp trong 6s, tối đa cộng dồn 5 tầng, mỗi tầng tính giờ riêng."
+      },
+      "affixId": "2150391"
+    }
+  ]
+}

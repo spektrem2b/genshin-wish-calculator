@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Hope Beyond the Peaks",
+    "CHS": "越峰之望",
+    "CHT": "越峰之望",
+    "DE": "Hoffnung jenseits der Gipfel",
+    "ES": "Esperanza más allá de las cumbres",
+    "FR": "Espoir au-delà des sommets",
+    "ID": "Hope Beyond the Peaks",
+    "IT": "Speranza oltre le sommità",
+    "JP": "峰越の眺め",
+    "KR": "산 너머의 희망",
+    "PT": "Esperança Além dos Picos",
+    "RU": "Надежда выше гор",
+    "TH": "Hope Beyond the Peaks",
+    "TR": "Tepenin Ardındaki Umut",
+    "VI": "Hy Vọng Vượt Qua Đỉnh Núi"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 12%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 12% for 8s.",
+        "CHS": "攀爬消耗的体力降低15%，元素战技造成的伤害提升12%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升12%，持续8秒。",
+        "CHT": "攀爬消耗的體力降低15%，元素戰技造成的傷害提升12%；此外，隊伍中附近的其他角色施放元素戰技後，裝備者的元素戰技造成的傷害還會提升12%，持續8秒。",
+        "DE": "#Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 12 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 12 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+        "ES": "#El Coste de Aguante al escalar se reduce en un 15% y el daño de la Habilidad Elemental aumenta en un 12%. Además, cuando otro personaje cercano del equipo usa su Habilidad Elemental, el daño de la Habilidad Elemental del portador de esta arma aumenta en un 12% adicional durante 8 s.",
+        "FR": "La consommation d'endurance lors de l'escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 12 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l'arme augmentent de 12 % supplémentaires pendant 8 s lorsqu'un autre personnage de l'équipe à proximité a utilisé une compétence élémentaire.",
+        "ID": "Konsumsi Stamina saat memanjat berkurang 15%, DMG Elemental Skill meningkat 12%; Selain itu, setelah anggota party lain di sekitar melancarkan Elemental Skill, DMG Elemental Skill Karakter yang mengenakan akan meningkat 12% lagi selama 8 detik.",
+        "IT": "#Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 12%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 12% per 8 s.",
+        "JP": "登りに消費するスタミナ-15%、元素スキルダメージ+12%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+12%、継続時間8秒。",
+        "KR": "등반으로 소모하는 스태미나가 15% 감소하고 원소전투 스킬로 주는 피해가 12% 증가한다. 또한 주변에 있는 파티 내 다른 캐릭터가 원소전투 스킬 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 추가로 12% 증가한다. 지속 시간: 8초",
+        "PT": "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 12%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 12% por 8s.",
+        "RU": "Снижает потребление выносливости при карабканье на 15% и повышает урон элементального навыка на 12%. Кроме того, после того как другие члены отряда поблизости используют элементальные навыки, урон элементального навыка экипированного персонажа повышается на 12% на 8 сек.",
+        "TH": "การใช้พลังกายขณะปีนลดลง 15% และความเสียหายที่เกิดจากสกิลธาตุเพิ่มขึ้น 12%; นอกจากนี้ หลังจากตัวละครอื่น ๆ ในทีมที่อยู่ใกล้เคียงปล่อยสกิลธาตุ สกิลธาตุของผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้นอีก 12% เป็นเวลา 8 วินาที",
+        "TR": "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %12 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %12 artar.",
+        "VI": "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 12% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 12% trong 8s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 15%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 15% for 8s.",
+        "CHS": "攀爬消耗的体力降低15%，元素战技造成的伤害提升15%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升15%，持续8秒。",
+        "CHT": "攀爬消耗的體力降低15%，元素戰技造成的傷害提升15%；此外，隊伍中附近的其他角色施放元素戰技後，裝備者的元素戰技造成的傷害還會提升15%，持續8秒。",
+        "DE": "#Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 15 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 15 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+        "ES": "#El Coste de Aguante al escalar se reduce en un 15% y el daño de la Habilidad Elemental aumenta en un 15%. Además, cuando otro personaje cercano del equipo usa su Habilidad Elemental, el daño de la Habilidad Elemental del portador de esta arma aumenta en un 15% adicional durante 8 s.",
+        "FR": "La consommation d'endurance lors de l'escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 15 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l'arme augmentent de 15 % supplémentaires pendant 8 s lorsqu'un autre personnage de l'équipe à proximité a utilisé une compétence élémentaire.",
+        "ID": "Konsumsi Stamina saat Memanjat berkurang 15%, DMG Elemental Skill meningkat 15%; Selain itu, setelah anggota party lain di sekitar melancarkan Elemental Skill, DMG Elemental Skill Karakter yang mengenakan akan meningkat 15% lagi selama 8 detik.",
+        "IT": "#Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 15%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 15% per 8 s.",
+        "JP": "登りに消費するスタミナ-15%、元素スキルダメージ+15%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+15%、継続時間8秒。",
+        "KR": "등반으로 소모하는 스태미나가 15% 감소하고 원소전투 스킬로 주는 피해가 15% 증가한다. 또한 주변에 있는 파티 내 다른 캐릭터가 원소전투 스킬 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 추가로 15% 증가한다. 지속 시간: 8초",
+        "PT": "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 15%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 15% por 8s.",
+        "RU": "Снижает потребление выносливости при карабканье на 15% и повышает урон элементального навыка на 15%. Кроме того, после того как другие члены отряда поблизости используют элементальные навыки, урон элементального навыка экипированного персонажа повышается на 15% на 8 сек.",
+        "TH": "การใช้พลังกายขณะปีนลดลง 15% และความเสียหายที่เกิดจากสกิลธาตุเพิ่มขึ้น 15%; นอกจากนี้ หลังจากตัวละครอื่น ๆ ในทีมที่อยู่ใกล้เคียงปล่อยสกิลธาตุ สกิลธาตุของผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้นอีก 15% เป็นเวลา 8 วินาที",
+        "TR": "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %15 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %15 artar.",
+        "VI": "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 15% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 15% trong 8s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 18%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 18% for 8s.",
+        "CHS": "攀爬消耗的体力降低15%，元素战技造成的伤害提升18%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升18%，持续8秒。",
+        "CHT": "攀爬消耗的體力降低15%，元素戰技造成的傷害提升18%；此外，隊伍中附近的其他角色施放元素戰技後，裝備者的元素戰技造成的傷害還會提升18%，持續8秒。",
+        "DE": "#Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 18 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 18 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+        "ES": "#El Coste de Aguante al escalar se reduce en un 15% y el daño de la Habilidad Elemental aumenta en un 18%. Además, cuando otro personaje cercano del equipo usa su Habilidad Elemental, el daño de la Habilidad Elemental del portador de esta arma aumenta en un 18% adicional durante 8 s.",
+        "FR": "La consommation d'endurance lors de l'escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 18 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l'arme augmentent de 18 % supplémentaires pendant 8 s lorsqu'un autre personnage de l'équipe à proximité a utilisé une compétence élémentaire.",
+        "ID": "Konsumsi Stamina saat Memanjat berkurang 15%, DMG Elemental Skill meningkat 18%; Selain itu, setelah anggota party lain di sekitar melancarkan Elemental Skill, DMG Elemental Skill Karakter yang mengenakan akan meningkat 18% lagi selama 8 detik.",
+        "IT": "#Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 18%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 18% per 8 s.",
+        "JP": "登りに消費するスタミナ-15%、元素スキルダメージ+18%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+18%、継続時間8秒。",
+        "KR": "등반으로 소모하는 스태미나가 15% 감소하고 원소전투 스킬로 주는 피해가 18% 증가한다. 또한 주변에 있는 파티 내 다른 캐릭터가 원소전투 스킬 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 추가로 18% 증가한다. 지속 시간: 8초",
+        "PT": "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 18%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 18% por 8s.",
+        "RU": "Снижает потребление выносливости при карабканье на 15% и повышает урон элементального навыка на 18%. Кроме того, после того как другие члены отряда поблизости используют элементальные навыки, урон элементального навыка экипированного персонажа повышается на 18% на 8 сек.",
+        "TH": "การใช้พลังกายขณะปีนลดลง 15% และความเสียหายที่เกิดจากสกิลธาตุเพิ่มขึ้น 18%; นอกจากนี้ หลังจากตัวละครอื่น ๆ ในทีมที่อยู่ใกล้เคียงปล่อยสกิลธาตุ สกิลธาตุของผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้นอีก 18% เป็นเวลา 8 วินาที",
+        "TR": "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %18 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %18 artar.",
+        "VI": "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 18% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 18% trong 8s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 21%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 21% for 8s.",
+        "CHS": "攀爬消耗的体力降低15%，元素战技造成的伤害提升21%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升21%，持续8秒。",
+        "CHT": "攀爬消耗的體力降低15%，元素戰技造成的傷害提升21%；此外，隊伍中附近的其他角色施放元素戰技後，裝備者的元素戰技造成的傷害還會提升21%，持續8秒。",
+        "DE": "#Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 21 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 21 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+        "ES": "#El Coste de Aguante al escalar se reduce en un 15% y el daño de la Habilidad Elemental aumenta en un 21%. Además, cuando otro personaje cercano del equipo usa su Habilidad Elemental, el daño de la Habilidad Elemental del portador de esta arma aumenta en un 21% adicional durante 8 s.",
+        "FR": "La consommation d'endurance lors de l'escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 21 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l'arme augmentent de 21 % supplémentaires pendant 8 s lorsqu'un autre personnage de l'équipe à proximité a utilisé une compétence élémentaire.",
+        "ID": "Konsumsi Stamina saat Memanjat berkurang 15%, DMG Elemental Skill meningkat 21%; Selain itu, setelah anggota party lain di sekitar melancarkan Elemental Skill, DMG Elemental Skill Karakter yang mengenakan akan meningkat 21% lagi selama 8 detik.",
+        "IT": "#Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 21%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 21% per 8 s.",
+        "JP": "登りに消費するスタミナ-15%、元素スキルダメージ+21%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+21%、継続時間8秒。",
+        "KR": "등반으로 소모하는 스태미나가 15% 감소하고 원소전투 스킬로 주는 피해가 21% 증가한다. 또한 주변에 있는 파티 내 다른 캐릭터가 원소전투 스킬 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 추가로 21% 증가한다. 지속 시간: 8초",
+        "PT": "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 21%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 21% por 8s.",
+        "RU": "Снижает потребление выносливости при карабканье на 15% и повышает урон элементального навыка на 21%. Кроме того, после того как другие члены отряда поблизости используют элементальные навыки, урон элементального навыка экипированного персонажа повышается на 21% на 8 сек.",
+        "TH": "การใช้พลังกายขณะปีนลดลง 15% และความเสียหายที่เกิดจากสกิลธาตุเพิ่มขึ้น 21%; นอกจากนี้ หลังจากตัวละครอื่น ๆ ในทีมที่อยู่ใกล้เคียงปล่อยสกิลธาตุ สกิลธาตุของผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้นอีก 21% เป็นเวลา 8 วินาที",
+        "TR": "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %21 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %21 artar.",
+        "VI": "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 21% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 21% trong 8s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 24%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 24% for 8s.",
+        "CHS": "攀爬消耗的体力降低15%，元素战技造成的伤害提升24%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升24%，持续8秒。",
+        "CHT": "攀爬消耗的體力降低15%，元素戰技造成的傷害提升24%；此外，隊伍中附近的其他角色施放元素戰技後，裝備者的元素戰技造成的傷害還會提升24%，持續8秒。",
+        "DE": "#Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 24 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 24 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+        "ES": "#El Coste de Aguante al escalar se reduce en un 15% y el daño de la Habilidad Elemental aumenta en un 24%. Además, cuando otro personaje cercano del equipo usa su Habilidad Elemental, el daño de la Habilidad Elemental del portador de esta arma aumenta en un 24% adicional durante 8 s.",
+        "FR": "La consommation d'endurance lors de l'escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 24 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l'arme augmentent de 24 % supplémentaires pendant 8 s lorsqu'un autre personnage de l'équipe à proximité a utilisé une compétence élémentaire.",
+        "ID": "Konsumsi Stamina saat Memanjat berkurang 15%, DMG Elemental Skill meningkat 24%; Selain itu, setelah anggota party lain di sekitar melancarkan Elemental Skill, DMG Elemental Skill Karakter yang mengenakan akan meningkat 24% lagi selama 8 detik.",
+        "IT": "#Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 24%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l'arma aumentano di un 24% per 8 s.",
+        "JP": "登りに消費するスタミナ-15%、元素スキルダメージ+24%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+24%、継続時間8秒。",
+        "KR": "등반으로 소모하는 스태미나가 15% 감소하고 원소전투 스킬로 주는 피해가 24% 증가한다. 또한 주변에 있는 파티 내 다른 캐릭터가 원소전투 스킬 발동 후, 장착 캐릭터의 원소전투 스킬로 주는 피해가 추가로 24% 증가한다. 지속 시간: 8초",
+        "PT": "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 24%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 24% por 8s.",
+        "RU": "Снижает потребление выносливости при карабканье на 15% и повышает урон элементального навыка на 24%. Кроме того, после того как другие члены отряда поблизости используют элементальные навыки, урон элементального навыка экипированного персонажа повышается на 24% на 8 сек.",
+        "TH": "การใช้พลังกายขณะปีนลดลง 15% และความเสียหายที่เกิดจากสกิลธาตุเพิ่มขึ้น 24%; นอกจากนี้ หลังจากตัวละครอื่น ๆ ในทีมที่อยู่ใกล้เคียงปล่อยสกิลธาตุ สกิลธาตุของผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้นอีก 24% เป็นเวลา 8 วินาที",
+        "TR": "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %24 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %24 artar.",
+        "VI": "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 24% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 24% trong 8s."
+      }
+    }
+  ]
+}

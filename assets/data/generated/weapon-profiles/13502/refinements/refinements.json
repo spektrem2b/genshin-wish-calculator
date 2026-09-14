@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Black Wing",
+    "CHS": "斫断黑翼的利齿",
+    "CHT": "斫斷黑翼的利齒",
+    "DE": "Flügelbrecher",
+    "ES": "Colmillo quebrantador",
+    "FR": "Plume de jais",
+    "ID": "Black Wing",
+    "IT": "Ala nera",
+    "JP": "黒翼を切り裂く鋭牙",
+    "KR": "검은 날개를 절단하는 이빨",
+    "PT": "Asas Negras",
+    "RU": "Клык, пронзивший тьму",
+    "TH": "Black Wing",
+    "TR": "Kara Kanat",
+    "VI": "Răng Nanh Đen Vỡ Nát"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 40% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+        "CHS": "暴击率提升8%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外40%攻击力的伤害。该效果每2秒至多触发一次。",
+        "CHT": "暴擊率提升8%，普通攻擊速度提升12%。此外，普通攻擊與重擊命中敵人時，有50%的機率觸發真空刃，在小範圍內造成額外40%攻擊力的傷害。該效果每2秒至多觸發一次。",
+        "DE": "Erhöht die KT um 8 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 40 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+        "ES": "Aumenta la Prob. CRIT en un 8% y aumenta la Vel. de Ataque Normal en un 12%. Además, los Ataques Normales y Cargados contra los enemigos tienen una probabilidad del 50% de disparar una cuchilla de vacío que inflige un 40% de daño de ATQ en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 2 s.",
+        "FR": "Augmente le taux CRIT de 8 % et la VIT d'attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de générer une lame de vide qui inflige des DGT équivalant à 40 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+        "ID": "Meningkatkan 8% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 40% ATK. Efek ini dapat terpicu setiap 2 detik.",
+        "IT": "#Aumenta il tasso di CRIT di un 8% e la VEL d'ATT normale di un 12%. Inoltre, gli attacchi normali e caricati andati a segno sugli avversari hanno un 50% di probabilità di attivare una lama aspirante che infligge DAN pari a un 40% dell'ATT in una piccola area d'effetto. Si può verificare una volta ogni 2 s.",
+        "JP": "会心率+8%、通常攻撃速度+12%。通常攻撃または重撃が命中時、50%の確率で真空刃を発動し、攻撃力の40%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+        "KR": "치명타 확률이 8%, 일반 공격 속도가 12% 증가한다. 또한 일반 공격과 강공격이 적을 명중 시 50%의 확률로 진공 칼날을 날려 작은 범위 내의 적에게 추가로 공격력 40%의 피해를 준다. 해당 효과는 2초마다 1회 발동한다",
+        "PT": "A Taxa Crítica aumenta 8%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 40% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+        "RU": "Увеличивает шанс крит. попадания на 8% и скорость обычной атаки на 12%. При попадании обычной или заряженной атакой есть 50% шанс активировать неосязаемое лезвие, которое наносит 40% урона в небольшом радиусе. Может возникнуть раз в 2 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 8% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 40% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+        "TR": "Kritik Oranını %8, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %40 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+        "VI": "Tỷ lệ bạo kích tăng 8%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 40% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases CRIT Rate by 10% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 55% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+        "CHS": "暴击率提升10%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外55%攻击力的伤害。该效果每2秒至多触发一次。",
+        "CHT": "暴擊率提升10%，普通攻擊速度提升12%。此外，普通攻擊與重擊命中敵人時，有50%的機率觸發真空刃，在小範圍內造成額外55%攻擊力的傷害。該效果每2秒至多觸發一次。",
+        "DE": "Erhöht die KT um 10 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 55 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+        "ES": "Aumenta la Prob. CRIT en un 10% y aumenta la Vel. de Ataque Normal en un 12%. Además, los Ataques Normales y Cargados contra los enemigos tienen una probabilidad del 50% de disparar una cuchilla de vacío que inflige un 55% de daño de ATQ en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 2 s.",
+        "FR": "Augmente le taux CRIT de 10 % et la VIT d'attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de générer une lame de vide qui inflige des DGT équivalant à 55 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+        "ID": "Meningkatkan 10% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 55% ATK. Efek ini dapat terpicu setiap 2 detik.",
+        "IT": "#Aumenta il tasso di CRIT di un 10% e la VEL d'ATT normale di un 12%. Inoltre, gli attacchi normali e caricati andati a segno sugli avversari hanno un 50% di probabilità di attivare una lama aspirante che infligge DAN pari a un 55% dell'ATT in una piccola area d'effetto. Si può verificare una volta ogni 2 s.",
+        "JP": "会心率+10%、通常攻撃速度+12%。通常攻撃または重撃が命中時、50%の確率で真空刃を発動し、攻撃力の55%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+        "KR": "치명타 확률이 10%, 일반 공격 속도가 12% 증가한다. 또한 일반 공격과 강공격이 적을 명중 시 50%의 확률로 진공 칼날을 날려 작은 범위 내의 적에게 추가로 공격력 55%의 피해를 준다. 해당 효과는 2초마다 1회 발동한다",
+        "PT": "A Taxa Crítica aumenta 10%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 55% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+        "RU": "Увеличивает шанс крит. попадания на 10% и скорость обычной атаки на 12%. При попадании обычной или заряженной атакой есть 50% шанс активировать неосязаемое лезвие, которое наносит 55% урона в небольшом радиусе. Может возникнуть раз в 2 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 10% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 55% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+        "TR": "Kritik Oranını %10, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %55 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+        "VI": "Tỷ lệ bạo kích tăng 10%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 55% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases CRIT Rate by 12% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 70% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+        "CHS": "暴击率提升12%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外70%攻击力的伤害。该效果每2秒至多触发一次。",
+        "CHT": "暴擊率提升12%，普通攻擊速度提升12%。此外，普通攻擊與重擊命中敵人時，有50%的機率觸發真空刃，在小範圍內造成額外70%攻擊力的傷害。該效果每2秒至多觸發一次。",
+        "DE": "Erhöht die KT um 12 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 70 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+        "ES": "Aumenta la Prob. CRIT en un 12% y aumenta la Vel. de Ataque Normal en un 12%. Además, los Ataques Normales y Cargados contra los enemigos tienen una probabilidad del 50% de disparar una cuchilla de vacío que inflige un 70% de daño de ATQ en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 2 s.",
+        "FR": "Augmente le taux CRIT de 12 % et la VIT d'attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de générer une lame de vide qui inflige des DGT équivalant à 70 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+        "ID": "Meningkatkan 12% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 70% ATK. Efek ini dapat terpicu setiap 2 detik.",
+        "IT": "#Aumenta il tasso di CRIT di un 12% e la VEL d'ATT normale di un 12%. Inoltre, gli attacchi normali e caricati andati a segno sugli avversari hanno un 50% di probabilità di attivare una lama aspirante che infligge DAN pari a un 70% dell'ATT in una piccola area d'effetto. Si può verificare una volta ogni 2 s.",
+        "JP": "会心率+12%、通常攻撃速度+12%。通常攻撃または重撃が命中時、50%の確率で真空刃を発動し、攻撃力の70%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+        "KR": "치명타 확률이 12%, 일반 공격 속도가 12% 증가한다. 또한 일반 공격과 강공격이 적을 명중 시 50%의 확률로 진공 칼날을 날려 작은 범위 내의 적에게 추가로 공격력 70%의 피해를 준다. 해당 효과는 2초마다 1회 발동한다",
+        "PT": "A Taxa Crítica aumenta 12%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 70% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+        "RU": "Увеличивает шанс крит. попадания на 12% и скорость обычной атаки на 12%. При попадании обычной или заряженной атакой есть 50% шанс активировать неосязаемое лезвие, которое наносит 70% урона в небольшом радиусе. Может возникнуть раз в 2 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 12% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 70% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+        "TR": "Kritik Oranını %12, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %70 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+        "VI": "Tỷ lệ bạo kích tăng 12%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 70% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases CRIT Rate by 14% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 85% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+        "CHS": "暴击率提升14%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外85%攻击力的伤害。该效果每2秒至多触发一次。",
+        "CHT": "暴擊率提升14%，普通攻擊速度提升12%。此外，普通攻擊與重擊命中敵人時，有50%的機率觸發真空刃，在小範圍內造成額外85%攻擊力的傷害。該效果每2秒至多觸發一次。",
+        "DE": "Erhöht die KT um 14 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 85 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+        "ES": "Aumenta la Prob. CRIT en un 14% y aumenta la Vel. de Ataque Normal en un 12%. Además, los Ataques Normales y Cargados contra los enemigos tienen una probabilidad del 50% de disparar una cuchilla de vacío que inflige un 85% de daño de ATQ en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 2 s.",
+        "FR": "Augmente le taux CRIT de 14 % et la VIT d'attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de générer une lame de vide qui inflige des DGT équivalant à 85 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+        "ID": "Meningkatkan 14% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 85% ATK. Efek ini dapat terpicu setiap 2 detik.",
+        "IT": "#Aumenta il tasso di CRIT di un 14% e la VEL d'ATT normale di un 12%. Inoltre, gli attacchi normali e caricati andati a segno sugli avversari hanno un 50% di probabilità di attivare una lama aspirante che infligge DAN pari a un 85% dell'ATT in una piccola area d'effetto. Si può verificare una volta ogni 2 s.",
+        "JP": "会心率+14%、通常攻撃速度+12%。通常攻撃または重撃が命中時、50%の確率で真空刃を発動し、攻撃力の85%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+        "KR": "치명타 확률이 14%, 일반 공격 속도가 12% 증가한다. 또한 일반 공격과 강공격이 적을 명중 시 50%의 확률로 진공 칼날을 날려 작은 범위 내의 적에게 추가로 공격력 85%의 피해를 준다. 해당 효과는 2초마다 1회 발동한다",
+        "PT": "A Taxa Crítica aumenta 14%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 85% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+        "RU": "Увеличивает шанс крит. попадания на 14% и скорость обычной атаки на 12%. При попадании обычной или заряженной атакой есть 50% шанс активировать неосязаемое лезвие, которое наносит 85% урона в небольшом радиусе. Может возникнуть раз в 2 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 14% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 85% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+        "TR": "Kritik Oranını %14, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %85 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+        "VI": "Tỷ lệ bạo kích tăng 14%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 85% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases CRIT Rate by 16% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 100% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+        "CHS": "暴击率提升16%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外100%攻击力的伤害。该效果每2秒至多触发一次。",
+        "CHT": "暴擊率提升16%，普通攻擊速度提升12%。此外，普通攻擊與重擊命中敵人時，有50%的機率觸發真空刃，在小範圍內造成額外100%攻擊力的傷害。該效果每2秒至多觸發一次。",
+        "DE": "Erhöht die KT um 16 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 100 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+        "ES": "Aumenta la Prob. CRIT en un 16% y aumenta la Vel. de Ataque Normal en un 12%. Además, los Ataques Normales y Cargados contra los enemigos tienen una probabilidad del 50% de disparar una cuchilla de vacío que inflige un 100% de daño de ATQ en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 2 s.",
+        "FR": "Augmente le taux CRIT de 16 % et la VIT d'attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de générer une lame de vide qui inflige des DGT équivalant à 100 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+        "ID": "Meningkatkan 16% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 100% ATK. Efek ini dapat terpicu setiap 2 detik.",
+        "IT": "#Aumenta il tasso di CRIT di un 16% e la VEL d'ATT normale di un 12%. Inoltre, gli attacchi normali e caricati andati a segno sugli avversari hanno un 50% di probabilità di attivare una lama aspirante che infligge DAN pari a un 100% dell'ATT in una piccola area d'effetto. Si può verificare una volta ogni 2 s.",
+        "JP": "会心率+16%、通常攻撃速度+12%。通常攻撃または重撃が命中時、50%の確率で真空刃を発動し、攻撃力の100%の狭範囲ダメージを与える。2秒毎に1回のみ発動可能。",
+        "KR": "치명타 확률이 16%, 일반 공격 속도가 12% 증가한다. 또한 일반 공격과 강공격이 적을 명중 시 50%의 확률로 진공 칼날을 날려 작은 범위 내의 적에게 추가로 공격력 100%의 피해를 준다. 해당 효과는 2초마다 1회 발동한다",
+        "PT": "A Taxa Crítica aumenta 16%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 100% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+        "RU": "Увеличивает шанс крит. попадания на 16% и скорость обычной атаки на 12%. При попадании обычной или заряженной атакой есть 50% шанс активировать неосязаемое лезвие, которое наносит 100% урона в небольшом радиусе. Может возникнуть раз в 2 сек.",
+        "TH": "อัตราคริเพิ่มขึ้น 16% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 100% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+        "TR": "Kritik Oranını %16, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %100 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+        "VI": "Tỷ lệ bạo kích tăng 16%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 100% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần."
+      }
+    }
+  ]
+}

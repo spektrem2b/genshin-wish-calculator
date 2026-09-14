@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Composed",
+    "CHS": "气定神闲",
+    "CHT": "氣定神閒",
+    "DE": "Göttliche Fügung",
+    "ES": "Serenidad",
+    "FR": "Sang-froid",
+    "ID": "Composed",
+    "IT": "Compostezza",
+    "JP": "落ち着き",
+    "KR": "침착",
+    "PT": "Composto",
+    "RU": "Безмятежный",
+    "TH": "Composed",
+    "TR": "Soğukkanlı",
+    "VI": "Khí Định Thần"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s.",
+        "CHS": "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。",
+        "CHT": "元素戰技造成傷害時，有40%的機率重置該技能的冷卻時間，該效果每30秒只能觸發一次。",
+        "DE": "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 40 %, 30 s Abklingzeit.",
+        "ES": "Al hacer daño por medio de una Habilidad Elemental, hay un 40% de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada 30 s.",
+        "FR": "Les compétences élémentaires ont 40 % de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 30 s.",
+        "ID": "Setelah Elemental Skill mengakibatkan DMG, terdapat 40% persentase CD Skill langsung selesai. Dapat terpicu setiap 30 detik.",
+        "IT": "#Dopo aver inflitto danni a un avversario con un'abilità elementale, questa ha un 40% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 30 s.",
+        "JP": "元素スキルが敵にダメージを与えた時、40%の確率で該当スキルのクールタイムをリセットする。30秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬로 피해를 줄 때 40%의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 30초마다 1회만 발동한다",
+        "PT": "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 40% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 30 segundos.",
+        "RU": "Когда элементальный навык наносит урон, есть 40% вероятность, что его откат моментально восстановится. Может возникнуть раз в 30 сек.",
+        "TH": "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส 40% ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 30 วินาที",
+        "TR": "Bir düşmana bir Element Becerisi ile hasar verildikten sonra becerinin Bekleme Süresi %40 ihtimalle sıfırlanır. 30 saniyede bir uygulanabilir.",
+        "VI": "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 40% làm mới thời gian CD kỹ năng đó, mỗi 30s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After damaging an opponent with an Elemental Skill, the skill has a 50% chance to end its own CD. Can only occur once every 26s.",
+        "CHS": "元素战技造成伤害时，有50%的概率重置该技能的冷却时间，该效果每26秒只能触发一次。",
+        "CHT": "元素戰技造成傷害時，有50%的機率重置該技能的冷卻時間，該效果每26秒只能觸發一次。",
+        "DE": "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 50 %, 26 s Abklingzeit.",
+        "ES": "Al hacer daño por medio de una Habilidad Elemental, hay un 50% de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada 26 s.",
+        "FR": "Les compétences élémentaires ont 50 % de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 26 s.",
+        "ID": "Setelah Elemental Skill mengakibatkan DMG, terdapat 50% persentase CD Skill langsung selesai. Dapat terpicu setiap 26 detik.",
+        "IT": "#Dopo aver inflitto danni a un avversario con un'abilità elementale, questa ha un 50% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 26 s.",
+        "JP": "元素スキルが敵にダメージを与えた時、50%の確率で該当スキルのクールタイムをリセットする。26秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬로 피해를 줄 때 50%의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 26초마다 1회만 발동한다",
+        "PT": "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 50% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 26 segundos.",
+        "RU": "Когда элементальный навык наносит урон, есть 50% вероятность, что его откат моментально восстановится. Может возникнуть раз в 26 сек.",
+        "TH": "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส 50% ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ โดยที่เอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 26 วินาที",
+        "TR": "Bir düşmana bir Element Becerisi ile hasar verildikten sonra becerinin Bekleme Süresi %50 ihtimalle sıfırlanır. 26 saniyede bir uygulanabilir.",
+        "VI": "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 50% làm mới thời gian CD kỹ năng đó, mỗi 26s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s.",
+        "CHS": "元素战技造成伤害时，有60%的概率重置该技能的冷却时间，该效果每22秒只能触发一次。",
+        "CHT": "元素戰技造成傷害時，有60%的機率重置該技能的冷卻時間，該效果每22秒只能觸發一次。",
+        "DE": "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 60 %, 22 s Abklingzeit.",
+        "ES": "Al hacer daño por medio de una Habilidad Elemental, hay un 60% de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada 22 s.",
+        "FR": "Les compétences élémentaires ont 60 % de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 22 s.",
+        "ID": "Setelah Elemental Skill mengakibatkan DMG, terdapat 60% persentase CD Skill langsung selesai. Dapat terpicu setiap 22 detik.",
+        "IT": "#Dopo aver inflitto danni a un avversario con un'abilità elementale, questa ha un 60% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 22 s.",
+        "JP": "元素スキルが敵にダメージを与えた時、60%の確率で該当スキルのクールタイムをリセットする。22秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬로 피해를 줄 때 60%의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 22초마다 1회만 발동한다",
+        "PT": "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 60% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 22 segundos.",
+        "RU": "Когда элементальный навык наносит урон, есть 60% вероятность, что его откат моментально восстановится. Может возникнуть раз в 22 сек.",
+        "TH": "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส 60% ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 22 วินาที",
+        "TR": "Bir düşmana bir Element Becerisi ile hasar verildikten sonra becerinin Bekleme Süresi %60 ihtimalle sıfırlanır. 22 saniyede bir uygulanabilir.",
+        "VI": "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 60% làm mới thời gian CD kỹ năng đó, mỗi 22s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After damaging an opponent with an Elemental Skill, the skill has a 70% chance to end its own CD. Can only occur once every 19s.",
+        "CHS": "元素战技造成伤害时，有70%的概率重置该技能的冷却时间，该效果每19秒只能触发一次。",
+        "CHT": "元素戰技造成傷害時，有70%的機率重置該技能的冷卻時間，該效果每19秒只能觸發一次。",
+        "DE": "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 70 %, 19 s Abklingzeit.",
+        "ES": "Al hacer daño por medio de una Habilidad Elemental, hay un 70% de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada 19 s.",
+        "FR": "Les compétences élémentaires ont 70 % de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 19 s.",
+        "ID": "Setelah Elemental Skill mengakibatkan DMG, terdapat 70% persentase CD Skill langsung selesai. Dapat terpicu setiap 19 detik.",
+        "IT": "#Dopo aver inflitto danni a un avversario con un'abilità elementale, questa ha un 70% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 19 s.",
+        "JP": "元素スキルが敵にダメージを与えた時、70%の確率で該当スキルのクールタイムをリセットする。19秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬로 피해를 줄 때 70%의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 19초마다 1번 발동한다",
+        "PT": "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 70% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 19 segundos.",
+        "RU": "Когда элементальный навык наносит урон, есть 70% вероятность, что его откат моментально восстановится. Может возникнуть раз в 19 сек.",
+        "TH": "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส 70% ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 19 วินาที",
+        "TR": "Bir düşmana bir Element Becerisi ile hasar verildikten sonra becerinin Bekleme Süresi %70 ihtimalle sıfırlanır. 19 saniyede bir uygulanabilir.",
+        "VI": "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 70% làm mới thời gian CD kỹ năng đó, mỗi 19s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After damaging an opponent with an Elemental Skill, the skill has a 80% chance to end its own CD. Can only occur once every 16s.",
+        "CHS": "元素战技造成伤害时，有80%的概率重置该技能的冷却时间，该效果每16秒只能触发一次。",
+        "CHT": "元素戰技造成傷害時，有80%的機率重置該技能的冷卻時間，該效果每16秒只能觸發一次。",
+        "DE": "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 80 %, 16 s Abklingzeit.",
+        "ES": "Al hacer daño por medio de una Habilidad Elemental, hay un 80% de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada 16 s.",
+        "FR": "Les compétences élémentaires ont 80 % de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 16 s.",
+        "ID": "Setelah Elemental Skill mengakibatkan DMG, terdapat 80% persentase CD Skill langsung selesai. Dapat terpicu setiap 16 detik.",
+        "IT": "#Dopo aver inflitto danni a un avversario con un'abilità elementale, questa ha un 80% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 16 s.",
+        "JP": "元素スキルが敵にダメージを与えた時、80%の確率で該当スキルのクールタイムをリセットする。16秒毎に1回のみ発動可能。",
+        "KR": "원소전투 스킬로 피해를 줄 때 80%의 확률로 해당 스킬의 재발동 대기시간이 초기화된다. 해당 효과는 16초마다 1회만 발동한다",
+        "PT": "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 80% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 16 segundos.",
+        "RU": "Когда элементальный навык наносит урон, есть 80% вероятность, что его откат моментально восстановится. Может возникнуть раз в 16 сек.",
+        "TH": "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส 80% ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 16 วินาที",
+        "TR": "Bir düşmana bir Element Becerisi ile hasar verildikten sonra becerinin Bekleme Süresi %80 ihtimalle sıfırlanır. 16 saniyede bir uygulanabilir.",
+        "VI": "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 80% làm mới thời gian CD kỹ năng đó, mỗi 16s mới thi triển 1 lần."
+      }
+    }
+  ]
+}

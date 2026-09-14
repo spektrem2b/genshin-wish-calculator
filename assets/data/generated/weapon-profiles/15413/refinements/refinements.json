@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Windblume Wish",
+    "CHS": "风花之愿",
+    "CHT": "風花之願",
+    "DE": "Windblumenwunsch",
+    "ES": "Anhelo de las flores de viento",
+    "FR": "Faveur des alizées",
+    "ID": "Windblume Wish",
+    "IT": "Desiderio del Florvento",
+    "JP": "風花の願い",
+    "KR": "바람 꽃의 염원",
+    "PT": "Desejo da Brisa Florescente",
+    "RU": "Желание анемонии",
+    "TH": "Windblume Wish",
+    "TR": "Rüzgarçiçeği Dileği",
+    "VI": "Ước Nguyện Hoa Gió"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by 16% for 6s.",
+        "CHS": "施放元素战技时，获得风之花的悠古愿望加持，攻击力提升16%，持续6秒。",
+        "CHT": "施放元素戰技時，獲得風之花的悠古願望加持，攻擊力提升16%，持續6秒。",
+        "DE": "Verleiht beim Auslösen von Elementarfähigkeiten den alten Wunsch der Windblumen und erhöht den ANG 6 s lang um 16 %.",
+        "ES": "Al usar una Habilidad Elemental, obtienes la gracia de las flores de viento, que aumenta el ATQ en un 16% durante 6 s.",
+        "FR": "Libérer une compétence élémentaire confère la faveur des alizées. L'ATQ augmente de 16 % pendant 6 s.",
+        "ID": "Saat menggunakan Elemental Skill, pengguna busur ini akan mendapatkan berkat dari harapan kuno Windblume, meningkatkan 16% ATK selama 6 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale, ricevi un dono dall'antico Desiderio del Florvento, aumentando l'ATT di un 16% per 6 s.",
+        "JP": "元素スキルを発動した後、風の花の悠久なる願いの加護を獲得し、攻撃力+16%、持続時間6秒。",
+        "KR": "원소전투 스킬 발동 시, 바람의 꽃의 오랜 염원으로 공격력이 16% 증가한다. 지속 시간: 6초",
+        "PT": "Ao lançar uma Habilidade Elemental, se obtém o desejo antigo da Flor do Vento, e o Ataque aumenta 16% por 6s.",
+        "RU": "Использование элементального навыка накладывает Древнее желание анемонии, которое увеличивает силу атаки на 16% в течение 6 сек.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับพรจากความปรารถนาแห่งอดีตกาลของดอก Windblume โดยพลังโจมตีจะเพิ่มขึ้น 16% เป็นเวลา 6 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra Rüzgarçiçeğinin kadim dileği gerçekleşir ve 6 saniyeliğine Saldırı %16 artar.",
+        "VI": "Khi thi triển kỹ năng nguyên tố, nhận được lời chúc của Hoa Gió cổ xưa, tấn công tăng 16%, kéo dài 6s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by 20% for 6s.",
+        "CHS": "施放元素战技时，获得风之花的悠古愿望加持，攻击力提升20%，持续6秒。",
+        "CHT": "施放元素戰技時，獲得風之花的悠古願望加持，攻擊力提升20%，持續6秒。",
+        "DE": "Verleiht beim Auslösen von Elementarfähigkeiten den alten Wunsch der Windblumen und erhöht den ANG 6 s lang um 20 %.",
+        "ES": "Al usar una Habilidad Elemental, obtienes la gracia de las flores de viento, que aumenta el ATQ en un 20% durante 6 s.",
+        "FR": "Libérer une compétence élémentaire confère la faveur des alizées. L'ATQ augmente de 20 % pendant 6 s.",
+        "ID": "Saat menggunakan Elemental Skill, akan mendapatkan hadiah dari harapan Windblume, meningkatkan 20% ATK selama 6 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale, ricevi un dono dall'antico Desiderio del Florvento, aumentando l'ATT di un 20% per 6 s.",
+        "JP": "元素スキルを発動した後、風の花の悠久なる願いの加護を獲得し、攻撃力+20%、持続時間6秒。",
+        "KR": "원소전투 스킬 발동 시, 바람의 꽃의 오랜 염원으로 공격력이 20% 증가한다. 지속 시간: 6초",
+        "PT": "Ao lançar uma Habilidade Elemental, se obtém o desejo antigo da Flor do Vento, e o Ataque aumenta 20% por 6s.",
+        "RU": "Использование элементального навыка накладывает Древнее желание анемонии, которое увеличивает силу атаки на 20% в течение 6 сек.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับพรจากความปรารถนาแห่งอดีตกาลของดอก Windblume โดยพลังโจมตีจะเพิ่มขึ้น 20% เป็นเวลา 6 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra Rüzgarçiçeğinin kadim dileği gerçekleşir ve 6 saniyeliğine Saldırı %20 artar.",
+        "VI": "Khi thi triển kỹ năng nguyên tố, nhận được lời chúc của Hoa Gió cổ xưa, tấn công tăng 20%, kéo dài 6s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by 24% for 6s.",
+        "CHS": "施放元素战技时，获得风之花的悠古愿望加持，攻击力提升24%，持续6秒。",
+        "CHT": "施放元素戰技時，獲得風之花的悠古願望加持，攻擊力提升24%，持續6秒。",
+        "DE": "Verleiht beim Auslösen von Elementarfähigkeiten den alten Wunsch der Windblumen und erhöht den ANG 6 s lang um 24 %.",
+        "ES": "Al usar una Habilidad Elemental, obtienes la gracia de las flores de viento, que aumenta el ATQ en un 24% durante 6 s.",
+        "FR": "Libérer une compétence élémentaire confère la faveur des alizées. L'ATQ augmente de 24 % pendant 6 s.",
+        "ID": "Saat menggunakan Elemental Skill, akan mendapatkan hadiah dari harapan Windblume, meningkatkan 24% ATK selama 6 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale, ricevi un dono dall'antico Desiderio del Florvento, aumentando l'ATT di un 24% per 6 s.",
+        "JP": "元素スキルを発動した後、風の花の悠久なる願いの加護を獲得し、攻撃力+24%、持続時間6秒。",
+        "KR": "원소전투 스킬 발동 시, 바람의 꽃의 오랜 염원으로 공격력이 24% 증가한다. 지속 시간: 6초",
+        "PT": "Ao lançar uma Habilidade Elemental, se obtém o desejo antigo da Flor do Vento, e o Ataque aumenta 24% por 6s.",
+        "RU": "Использование элементального навыка накладывает Древнее желание анемонии, которое увеличивает силу атаки на 24% в течение 6 сек.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับพรจากความปรารถนาแห่งอดีตกาลของดอก Windblume โดยพลังโจมตีจะเพิ่มขึ้น 24% เป็นเวลา 6 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra Rüzgarçiçeğinin kadim dileği gerçekleşir ve 6 saniyeliğine Saldırı %24 artar.",
+        "VI": "Khi thi triển kỹ năng nguyên tố, nhận được lời chúc của Hoa Gió cổ xưa, tấn công tăng 24%, kéo dài 6s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by 28% for 6s.",
+        "CHS": "施放元素战技时，获得风之花的悠古愿望加持，攻击力提升28%，持续6秒。",
+        "CHT": "施放元素戰技時，獲得風之花的悠古願望加持，攻擊力提升28%，持續6秒。",
+        "DE": "Verleiht beim Auslösen von Elementarfähigkeiten den alten Wunsch der Windblumen und erhöht den ANG 6 s lang um 28 %.",
+        "ES": "Al usar una Habilidad Elemental, obtienes la gracia de las flores de viento, que aumenta el ATQ en un 28% durante 6 s.",
+        "FR": "Libérer une compétence élémentaire confère la faveur des alizées. L'ATQ augmente de 28 % pendant 6 s.",
+        "ID": "Saat menggunakan Elemental Skill, akan mendapatkan hadiah dari harapan Windblume, meningkatkan 28% ATK selama 6 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale, ricevi un dono dall'antico Desiderio del Florvento, aumentando l'ATT di un 28% per 6 s.",
+        "JP": "元素スキルを発動した後、風の花の悠久なる願いの加護を獲得し、攻撃力+28%、持続時間6秒。",
+        "KR": "원소전투 스킬 발동 시, 바람의 꽃의 오랜 염원으로 공격력이 28% 증가한다. 지속 시간: 6초",
+        "PT": "Ao lançar uma Habilidade Elemental, se obtém o desejo antigo da Flor do Vento, e o Ataque aumenta 28% por 6s.",
+        "RU": "Использование элементального навыка накладывает Древнее желание анемонии, которое увеличивает силу атаки на 28% в течение 6 сек.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับพรจากความปรารถนาแห่งอดีตกาลของดอก Windblume โดยพลังโจมตีจะเพิ่มขึ้น 28% เป็นเวลา 6 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra Rüzgarçiçeğinin kadim dileği gerçekleşir ve 6 saniyeliğine Saldırı %28 artar.",
+        "VI": "Khi thi triển kỹ năng nguyên tố, nhận được lời chúc của Hoa Gió cổ xưa, tấn công tăng 28%, kéo dài 6s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by 32% for 6s.",
+        "CHS": "施放元素战技时，获得风之花的悠古愿望加持，攻击力提升32%，持续6秒。",
+        "CHT": "施放元素戰技時，獲得風之花的悠古願望加持，攻擊力提升32%，持續6秒。",
+        "DE": "Verleiht beim Auslösen von Elementarfähigkeiten den alten Wunsch der Windblumen und erhöht den ANG 6 s lang um 32 %.",
+        "ES": "Al usar una Habilidad Elemental, obtienes la gracia de las flores de viento, que aumenta el ATQ en un 32% durante 6 s.",
+        "FR": "Libérer une compétence élémentaire confère la faveur des alizées. L'ATQ augmente de 32 % pendant 6 s.",
+        "ID": "Saat menggunakan Elemental Skill, akan mendapatkan hadiah dari harapan Windblume, meningkatkan 32% ATK selama 6 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale, ricevi un dono dall'antico Desiderio del Florvento, aumentando l'ATT di un 32% per 6 s.",
+        "JP": "元素スキルを発動した後、風の花の悠久なる願いの加護を獲得し、攻撃力+32%、持続時間6秒。",
+        "KR": "원소전투 스킬 발동 시, 바람의 꽃의 오랜 염원으로 공격력이 32% 증가한다. 지속 시간: 6초",
+        "PT": "Ao lançar uma Habilidade Elemental, se obtém o desejo antigo da Flor do Vento, e o Ataque aumenta 32% por 6s.",
+        "RU": "Использование элементального навыка накладывает Древнее желание анемонии, которое увеличивает силу атаки на 32% в течение 6 сек.",
+        "TH": "เมื่อใช้สกิลธาตุ จะได้รับพรจากความปรารถนาแห่งอดีตกาลของดอก Windblume โดยพลังโจมตีจะเพิ่มขึ้น 32% เป็นเวลา 6 วินาที",
+        "TR": "Bir Element Becerisi kullandıktan sonra Rüzgarçiçeğinin kadim dileği gerçekleşir ve 6 saniyeliğine Saldırı %32 artar.",
+        "VI": "Khi thi triển kỹ năng nguyên tố, nhận được lời chúc của Hoa Gió cổ xưa, tấn công tăng 32%, kéo dài 6s."
+      }
+    }
+  ]
+}

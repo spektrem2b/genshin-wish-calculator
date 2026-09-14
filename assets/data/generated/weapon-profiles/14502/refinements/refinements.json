@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Boundless Blessing",
+    "CHS": "无边际的眷顾",
+    "CHT": "無邊際的眷顧",
+    "DE": "Grenzenlose Gunst",
+    "ES": "Bendición infinita",
+    "FR": "Bénédiction infinie",
+    "ID": "Boundless Blessing",
+    "IT": "Benedizione smisurata",
+    "JP": "果てしない恵み",
+    "KR": "끝없는 은혜",
+    "PT": "Bênção Sem Fronteiras",
+    "RU": "Опека ветров",
+    "TH": "Boundless Blessing",
+    "TR": "Sonsuz Lütuf",
+    "VI": "Sự Chăm Sóc Vô Biên"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Movement SPD by 10%. When in battle, gain an 8% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+        "CHS": "移动速度提高10%；在场上每4秒获得8%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+        "CHT": "移動速度提高10%；在場上每4秒獲得8%元素傷害加成。該效果最多疊加四層，持續直到角色倒下或離場。",
+        "DE": "Erhöht die Bewegungs-GSW um 10 % und den Elementar-SCH nach dem Einwechseln alle 4 s um 8 %. 4-fach stapelbar, hält bis zum Auswechseln oder, bis die Figur ohnmächtig wird.",
+        "ES": "#Aumenta la Vel. Movimiento en un 10%. Mientras estés en combate, obtienes un 8% de Bono de Daño Elemental cada 4 s, pudiéndose acumular hasta 4 veces. Dura hasta que el personaje es derrotado o al abandonar el combate.",
+        "FR": "Augmente la VIT de déplacement de 10 %. Confère un bonus de DGT élémentaires de 8 % toutes les 4 s tant que le personnage est en combat. Cet effet peut être cumulé 4 fois maximum et perdure jusqu'à ce que le personnage soit vaincu ou quitte le combat.",
+        "ID": "Meningkatkan 10% Movement SPD. Saat di dalam pertarungan, meningkatkan 8% Elemental DMG setiap 4 detik. Maksimum 4 lapis. Efek bertahan sampai karakter gugur atau meninggalkan pertarungan.",
+        "IT": "#Aumenta la VEL di movimento di un 10%. In battaglia, ottieni un 8% di bonus DAN elementali ogni 4 s. Cumulabile fino a 4 volte. Dura finché il personaggio non muore o abbandona il combattimento.",
+        "JP": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+8%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+        "KR": "이동 속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 8% 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+        "PT": "Aumenta a Veloc. Mov. em 10%. Durante a batalha, ganha um adicional de 8% de Dano Elemental a cada 4s, sendo capaz de acumular até 4 vezes. Dura até o último personagem ser abatido ou trocar de personagem.",
+        "RU": "Увеличивает скорость передвижения на 10%. Во время битвы даёт 8% бонус элементального урона каждые 4 сек. Может складываться до 4 раз. Эффект оканчивается, если персонаж погибает или покидает поле боя.",
+        "TH": "เพิ่มความเร็วในการเคลื่อนที่ 10%; ในการต่อสู้จะได้รับโบนัสความเสียหายธาตุ 8% ในทุก 4 วินาที ซึ่งเอฟเฟกต์นี้จะมีมากสุด 4 ชั้น และจะเกิดขึ้นจนกว่าตัวละครจะหมดสติหรือออกจากการต่อสู้",
+        "TR": "Hareket Hızını %10 artırır. Savaştayken her 4 saniyede bir %8 Element Hasarı Bonusu kazandırır. 4 kademeye kadar birikir. Karakter yenilene veya savaştan ayrılana kadar devam eder.",
+        "VI": "Tốc độ di chuyển tăng 10%; Lên trận mỗi 4s nhận 8% buff sát thương Nguyên Tố. Cộng dồn tối đa 4 lần, kéo dài đến khi nhân vật ngã xuống hoặc rời trận."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Movement SPD by 10%. When in battle, earn a 10% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+        "CHS": "移动速度提高10%；在场上每4秒获得10%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+        "CHT": "移動速度提高10%；在場上每4秒獲得10%元素傷害加成。該效果最多疊加四層，持續直到角色倒下或離場。",
+        "DE": "Erhöht die Bewegungs-GSW um 10 % und erhält alle 4 s nach dem Einwechseln einen Elementar-SCH-Bonus in Höhe von 10 %. 4-fach stapelbar, hält bis zum Auswechseln oder, bis die Figur ohnmächtig wird.",
+        "ES": "Aumenta la Vel. Movimiento un 10%. Mientras estés en combate, obtienes un 10% de Daño Elemental adicional cada 4 s, pudiéndose acumular hasta 4 veces. Dura hasta que el personaje es derrotado o al abandonar el combate.",
+        "FR": "Augmente la VIT de déplacement de 10 %. Confère un bonus de DGT élémentaires de 10 % toutes les 4 s tant que le personnage est en combat. Cet effet peut être cumulé 4 fois maximum et perdure jusqu'à ce que le personnage soit vaincu ou quitte le combat.",
+        "ID": "Meningkatkan 10% Movement SPD. Saat di dalam pertarungan, meningkatkan 10% Elemental DMG setiap 4 detik. Maksimum 4 lapis. Efek bertahan sampai karakter gugur atau meninggalkan pertarungan.",
+        "IT": "#Aumenta la VEL di movimento di un 10%. In battaglia, ottieni un 10% di bonus DAN elementali ogni 4 s. Cumulabile fino a 4 volte. Dura finché il personaggio non muore o abbandona il combattimento.",
+        "JP": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+10%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+        "KR": "이동 속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 10% 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+        "PT": "Aumenta a Veloc. Mov. em 10%. Durante a batalha, ganha um adicional de 10% de Dano Elemental a cada 4s, sendo capaz de acumular até 4 vezes. Dura até o último personagem ser abatido ou trocar de personagem.",
+        "RU": "Увеличивает скорость передвижения на 10%. Во время битвы даёт 10% бонус элементального урона каждые 4 сек. Может складываться до 4 раз. Эффект оканчивается, если персонаж погибает или покидает поле боя.",
+        "TH": "เพิ่มความเร็วในการเคลื่อนที่ 10%; ในการต่อสู้จะได้รับโบนัสความเสียหายธาตุ 10% ในทุก 4 วินาที ซึ่งเอฟเฟกต์นี้จะมีมากสุด 4 ชั้น และจะเกิดขึ้นจนกว่าตัวละครจะหมดสติหรือออกจากการต่อสู้",
+        "TR": "Hareket Hızını %10 artırır. Savaştayken her 4 saniyede bir %10 Element Hasarı Bonusu kazandırır. 4 kademeye kadar birikir. Karakter yenilene veya savaştan ayrılana kadar devam eder.",
+        "VI": "Tốc độ di chuyển tăng 10%; Lên trận mỗi 4s nhận 10% buff sát thương nguyên tố. Cộng dồn tối đa 4 lần, kéo dài đến khi nhân vật ngã xuống hoặc rời trận."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Movement SPD by 10%. When in battle, gain a 12% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+        "CHS": "移动速度提高10%；在场上每4秒获得12%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+        "CHT": "移動速度提高10%；在場上每4秒獲得12%元素傷害加成。該效果最多疊加四層，持續直到角色倒下或離場。",
+        "DE": "Erhöht die Bewegungs-GSW um 10 % und den Elementar-SCH nach dem Einwechseln alle 4 s um 12 %. 4-fach stapelbar, hält bis zum Auswechseln oder, bis die Figur ohnmächtig wird.",
+        "ES": "#Aumenta la Vel. Movimiento en un 10%. Mientras estés en combate, obtienes un 12% de Bono de Daño Elemental cada 4 s, pudiéndose acumular hasta 4 veces. Dura hasta que el personaje es derrotado o al abandonar el combate.",
+        "FR": "Augmente la VIT de déplacement de 10 %. Confère un bonus de DGT élémentaires de 12 % toutes les 4 s tant que le personnage est en combat. Cet effet peut être cumulé 4 fois maximum et perdure jusqu'à ce que le personnage soit vaincu ou quitte le combat.",
+        "ID": "Meningkatkan 10% Movement SPD. Saat di dalam pertarungan, meningkatkan 12% Elemental DMG setiap 4 detik. Maksimum 4 lapis. Efek bertahan sampai karakter gugur atau meninggalkan pertarungan.",
+        "IT": "#Aumenta la VEL di movimento di un 10%. In battaglia, ottieni un 12% di bonus DAN elementali ogni 4 s. Cumulabile fino a 4 volte. Dura finché il personaggio non muore o abbandona il combattimento.",
+        "JP": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+12%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+        "KR": "이동 속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 12% 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+        "PT": "Aumenta a Veloc. Mov. em 10%. Durante a batalha, ganha um adicional de 12% de Dano Elemental a cada 4s, sendo capaz de acumular até 4 vezes. Dura até o último personagem ser abatido ou trocar de personagem.",
+        "RU": "Увеличивает скорость передвижения на 10%. Во время битвы даёт 12% бонус элементального урона каждые 4 сек. Может складываться до 4 раз. Эффект оканчивается, если персонаж погибает или покидает поле боя.",
+        "TH": "เพิ่มความเร็วในการเคลื่อนที่ 10%; ในการต่อสู้จะได้รับโบนัสความเสียหายธาตุ 12% ในทุก 4 วินาที ซึ่งเอฟเฟกต์นี้จะมีมากสุด 4 ชั้น และจะเกิดขึ้นจนกว่าตัวละครจะหมดสติหรือออกจากการต่อสู้",
+        "TR": "Hareket Hızını %10 artırır. Savaştayken her 4 saniyede bir %12 Element Hasarı Bonusu kazandırır. 4 kademeye kadar birikir. Karakter yenilene veya savaştan ayrılana kadar devam eder.",
+        "VI": "Tốc độ di chuyển tăng 10%; Lên trận mỗi 4s nhận 12% buff sát thương Nguyên Tố. Cộng dồn tối đa 4 lần, kéo dài đến khi nhân vật ngã xuống hoặc rời trận."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Movement SPD by 10%. When in battle, gain a 14% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+        "CHS": "移动速度提高10%；在场上每4秒获得14%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+        "CHT": "移動速度提高10%；在場上每4秒獲得14%元素傷害加成。該效果最多疊加四層，持續直到角色倒下或離場。",
+        "DE": "Erhöht die Bewegungs-GSW um 10 % und den Elementar-SCH nach dem Einwechseln alle 4 s um 14 %. 4-fach stapelbar, hält bis zum Auswechseln oder, bis die Figur ohnmächtig wird.",
+        "ES": "#Aumenta la Vel. Movimiento en un 10%. Mientras estés en combate, obtienes un 14% de Bono de Daño Elemental cada 4 s, pudiéndose acumular hasta 4 veces. Dura hasta que el personaje es derrotado o al abandonar el combate.",
+        "FR": "Augmente la VIT de déplacement de 10 %. Confère un bonus de DGT élémentaires de 14 % toutes les 4 s tant que le personnage est en combat. Cet effet peut être cumulé 4 fois maximum et perdure jusqu'à ce que le personnage soit vaincu ou quitte le combat.",
+        "ID": "Meningkatkan 10% Movement SPD. Saat di dalam pertarungan, meningkatkan 14% Elemental DMG setiap 4 detik. Maksimum 4 lapis. Efek bertahan sampai karakter gugur atau meninggalkan pertarungan.",
+        "IT": "#Aumenta la VEL di movimento di un 10%. In battaglia, ottieni un 14% di bonus DAN elementali ogni 4 s. Cumulabile fino a 4 volte. Dura finché il personaggio non muore o abbandona il combattimento.",
+        "JP": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+14%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+        "KR": "이동 속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 14% 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+        "PT": "Aumenta a Veloc. Mov. em 10%. Durante a batalha, ganha um adicional de 14% de Dano Elemental a cada 4s, sendo capaz de acumular até 4 vezes. Dura até o último personagem ser abatido ou trocar de personagem.",
+        "RU": "Увеличивает скорость передвижения на 10%. Во время битвы даёт 14% бонус элементального урона каждые 4 сек. Может складываться до 4 раз. Эффект оканчивается, если персонаж погибает или покидает поле боя.",
+        "TH": "เพิ่มความเร็วในการเคลื่อนที่ 10%; ในการต่อสู้จะได้รับโบนัสความเสียหายธาตุ 14% ในทุก 4 วินาที ซึ่งเอฟเฟกต์นี้จะมีมากสุด 4 ชั้น และจะเกิดขึ้นจนกว่าตัวละครจะหมดสติหรือออกจากการต่อสู้",
+        "TR": "Hareket Hızını %10 artırır. Savaştayken her 4 saniyede bir %14 Element Hasarı Bonusu kazandırır. 4 kademeye kadar birikir. Karakter yenilene veya savaştan ayrılana kadar devam eder.",
+        "VI": "Tốc độ di chuyển tăng 10%; Lên trận mỗi 4s nhận 14% buff sát thương Nguyên Tố. Cộng dồn tối đa 4 lần, kéo dài đến khi nhân vật ngã xuống hoặc rời trận."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Movement SPD by 10%. When in battle, gain a 16% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+        "CHS": "移动速度提高10%；在场上每4秒获得16%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
+        "CHT": "移動速度提高10%；在場上每4秒獲得16%元素傷害加成。該效果最多疊加四層，持續直到角色倒下或離場。",
+        "DE": "Erhöht die Bewegungs-GSW um 10 % und den Elementar-SCH nach dem Einwechseln alle 4 s um 16 %. 4-fach stapelbar, hält bis zum Auswechseln oder, bis die Figur ohnmächtig wird.",
+        "ES": "#Aumenta la Vel. Movimiento en un 10%. Mientras estés en combate, obtienes un 16% de Bono de Daño Elemental cada 4 s, pudiéndose acumular hasta 4 veces. Dura hasta que el personaje es derrotado o al abandonar el combate.",
+        "FR": "Augmente la VIT de déplacement de 10 %. Confère un bonus de DGT élémentaires de 16 % toutes les 4 s tant que le personnage est en combat. Cet effet peut être cumulé 4 fois maximum et perdure jusqu'à ce que le personnage soit vaincu ou quitte le combat.",
+        "ID": "Meningkatkan 10% Movement SPD. Saat di dalam pertarungan, meningkatkan 16% Elemental DMG setiap 4 detik. Maksimum 4 lapis. Efek bertahan sampai karakter gugur atau meninggalkan pertarungan.",
+        "IT": "#Aumenta la VEL di movimento di un 10%. In battaglia, ottieni un 16% di bonus DAN elementali ogni 4 s. Cumulabile fino a 4 volte. Dura finché il personaggio non muore o abbandona il combattimento.",
+        "JP": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+16%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+        "KR": "이동 속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 16% 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+        "PT": "Aumenta a Veloc. Mov. em 10%. Durante a batalha, ganha um adicional de 16% de Dano Elemental a cada 4s, sendo capaz de acumular até 4 vezes. Dura até o último personagem ser abatido ou trocar de personagem.",
+        "RU": "Увеличивает скорость передвижения на 10%. Во время битвы даёт 16% бонус элементального урона каждые 4 сек. Может складываться до 4 раз. Эффект оканчивается, если персонаж погибает или покидает поле боя.",
+        "TH": "เพิ่มความเร็วในการเคลื่อนที่ 10%; ในการต่อสู้จะได้รับโบนัสความเสียหายธาตุ 16% ในทุก 4 วินาที ซึ่งเอฟเฟกต์นี้จะมีมากสุด 4 ชั้น และจะเกิดขึ้นจนกว่าตัวละครจะหมดสติหรือออกจากการต่อสู้",
+        "TR": "Hareket Hızını %10 artırır. Savaştayken her 4 saniyede bir %16 Element Hasarı Bonusu kazandırır. 4 kademeye kadar birikir. Karakter yenilene veya savaştan ayrılana kadar devam eder.",
+        "VI": "Tốc độ di chuyển tăng 10%; Lên trận mỗi 4s nhận 16% buff sát thương Nguyên Tố. Cộng dồn tối đa 4 lần, kéo dài đến khi nhân vật ngã xuống hoặc rời trận."
+      }
+    }
+  ]
+}

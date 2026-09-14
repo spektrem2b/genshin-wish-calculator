@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Golden Majesty",
+    "CHS": "金璋皇极",
+    "CHT": "金璋皇極",
+    "DE": "Majestätische Größe",
+    "ES": "Majestad dorada",
+    "FR": "Majesté dorée",
+    "ID": "Golden Majesty",
+    "IT": "Maestà dorata",
+    "JP": "金璋君臨",
+    "KR": "금빛의 옥·제군의 길",
+    "PT": "Majestade Dourada",
+    "RU": "Золочёное величество",
+    "TH": "Golden Majesty",
+    "TR": "Altın İhtişam",
+    "VI": "Hoàng Cực Chương Vàng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Shield Strength by 20%. Scoring hits on opponents increases ATK by 4% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+        "CHS": "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+        "CHT": "護盾強效提升20%。攻擊命中後的8秒內，攻擊力提升4%。該效果至多可疊加5層，每0.3秒只能觸發一次。此外，處於護盾庇護下時，該效果的攻擊力提升效果提高100%。",
+        "DE": "Erhöht die Schildeffizienz um 20 %. Erhöht den ANG nach Treffern 8 s lang um 4 %. 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %.",
+        "ES": "Aumenta en un 20% la Protección de Escudo. Tras atacar a un enemigo, el ATQ aumenta en un 4% durante 8 s. Este efecto puede acumularse hasta 5 veces y activarse una vez cada 0.3 s. Además, al estar bajo la protección de un escudo, el efecto de aumento de ATQ aumenta en un 100%.",
+        "FR": "Augmente la force du bouclier de 20 %. Toucher un ennemi augmente l'ATQ de 4 % pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %.",
+        "ID": "Meningkatkan kekuatan Perisai sebesar 20%. Serangan yang mengenai musuh meningkatkan ATK sebesar 4% selama 8 detik. Maksimal 5 lapis. Dapat terpicu setiap 0,3 detik. Saat dilindungi oleh Perisai, efek ATK ini meningkat sebesar 100%.",
+        "IT": "#Aumenta l'efficacia dello scudo di un 20%. Mandare a segno un colpo contro gli avversari aumenta l'ATT di un 4% per 8 s. Cumulabile fino a 5 volte. Si può verificare una sola volta ogni 0,3 s. Mentre la protezione dello scudo è attiva, l'effetto di quest'ATT aumenta di un 100%.",
+        "JP": "シールド強化+20%。攻撃が命中した8秒間、攻撃力+4%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+        "KR": "보호막 강화 효과가 20% 증가한다. 공격 명중 후 공격력이 4% 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+        "PT": "Aumenta a Força do Escudo em 20%. Acertar ataques em inimigos aumenta o ataque em 4% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%.",
+        "RU": "Увеличивает прочность щита на 20%. При попадании увеличивает силу атаки на 4% в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%.",
+        "TH": "เพิ่มประสิทธิภาพโล่ป้องกัน 20% ภายในเวลา 8 วินาที หลังจากโจมตีถูกเป้าหมาย จะเพิ่มพลังโจมตี 4% โดยเอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น ซึ่งจะเกิดขึ้นหนึ่งครั้งในทุก 0.3 วินาที เมื่อได้รับการป้องกันจากโล่ พลังโจมตีของเอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Kalkan Gücünü %20 artırır. Düşmanlara isabet eden vuruşlar 8 saniyeliğine Saldırıyı %4 artırır. 5 kademeye kadar birikir ve 0,3 saniyede bir uygulanabilir. Bir kalkan tarafından korunurken bu Saldırı artışı etkisi %100 daha güçlü olur.",
+        "VI": "Hiệu quả khiên tăng 20%. Trong vòng 8s sau khi đánh trúng, tấn công tăng 4%. Cộng dồn 5 tầng, mỗi 0.3s chỉ được thi triển 1 lần. Ngoài ra, khi được khiên bảo vệ, hiệu quả tăng tấn công sẽ tăng 100%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Shield Strength by 25%. Scoring hits on opponents increases ATK by 5% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+        "CHS": "护盾强效提升25%。攻击命中后的8秒内，攻击力提升5%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+        "CHT": "護盾強效提升25%。攻擊命中後的8秒內，攻擊力提升5%。該效果至多可疊加5層，每0.3秒只能觸發一次。此外，處於護盾庇護下時，該效果的攻擊力提升效果提高100%。",
+        "DE": "Erhöht die Schildeffizienz um 25 %. Erhöht den ANG nach Treffern 8 s lang um 5 %. 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %.",
+        "ES": "Aumenta en un 25% la Protección de Escudo. Tras atacar a un enemigo, el ATQ aumenta en un 5% durante 8 s. Este efecto puede acumularse hasta 5 veces y activarse una vez cada 0.3 s. Además, al estar bajo la protección de un escudo, el efecto de aumento de ATQ aumenta en un 100%.",
+        "FR": "#Augmente la force du bouclier de 25 %. Toucher un ennemi augmente l'ATQ de 5 % pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %.",
+        "ID": "Meningkatkan kekuatan Perisai sebesar 25%. Serangan yang mengenai musuh meningkatkan ATK sebesar 5% selama 8 detik. Maksimal 5 lapis. Dapat terpicu setiap 0,3 detik. Saat dilindungi oleh Perisai, efek ATK ini meningkat sebesar 100%.",
+        "IT": "#Aumenta l'efficacia dello scudo di un 25%. Mandare a segno un colpo contro gli avversari aumenta l'ATT di un 5% per 8 s. Cumulabile fino a 5 volte. Si può verificare una sola volta ogni 0,3 s. Mentre la protezione dello scudo è attiva, l'effetto di quest'ATT aumenta di un 100%.",
+        "JP": "シールド強化+25%。攻撃が命中した8秒間、攻撃力+5%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+        "KR": "보호막 강화 효과가 25% 증가한다. 공격 명중 후 공격력이 5% 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+        "PT": "Aumenta a força do Escudo em 25%. Acertar ataques em inimigos aumenta o ataque em 5% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%.",
+        "RU": "Увеличивает прочность щита на 25%. При попадании увеличивает силу атаки на 5% в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%.",
+        "TH": "เพิ่มประสิทธิภาพโล่ป้องกัน 25% ภายในเวลา 8 วินาที หลังจากโจมตีถูกเป้าหมาย จะเพิ่มพลังโจมตี 5% โดยเอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น ซึ่งจะเกิดขึ้นหนึ่งครั้งในทุก 0.3 วินาที เมื่อได้รับการป้องกันจากโล่ พลังโจมตีของเอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Kalkan Gücünü %25 artırır. Düşmanlara isabet eden vuruşlar 8 saniyeliğine Saldırıyı %5 artırır. 5 kademeye kadar birikir ve 0,3 saniyede bir uygulanabilir. Bir kalkan tarafından korunurken bu Saldırı artışı etkisi %100 daha güçlü olur.",
+        "VI": "Hiệu quả khiên tăng 25%. Trong vòng 8s sau khi đánh trúng, tấn công tăng 5%. Cộng dồn 5 tầng, mỗi 0.3s chỉ được thi triển 1 lần. Ngoài ra, khi được khiên bảo vệ, hiệu quả tăng tấn công sẽ tăng 100%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Shield Strength by 30%. Scoring hits on opponents increases ATK by 6% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+        "CHS": "护盾强效提升30%。攻击命中后的8秒内，攻击力提升6%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+        "CHT": "護盾強效提升30%。攻擊命中後的8秒內，攻擊力提升6%。該效果至多可疊加5層，每0.3秒只能觸發一次。此外，處於護盾庇護下時，該效果的攻擊力提升效果提高100%。",
+        "DE": "Erhöht die Schildeffizienz um 30 %. Erhöht den ANG nach Treffern 8 s lang um 6 %. 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %.",
+        "ES": "Aumenta en un 30% la Protección de Escudo. Tras atacar a un enemigo, el ATQ aumenta en un 6% durante 8 s. Este efecto puede acumularse hasta 5 veces y activarse una vez cada 0.3 s. Además, al estar bajo la protección de un escudo, el efecto de aumento de ATQ aumenta en un 100%.",
+        "FR": "#Augmente la force du bouclier de 30 %. Toucher un ennemi augmente l'ATQ de 6 % pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %.",
+        "ID": "Meningkatkan kekuatan Perisai sebesar 30%. Serangan yang mengenai musuh meningkatkan ATK sebesar 6% selama 8 detik. Maksimal 5 lapis. Dapat terpicu setiap 0,3 detik. Saat dilindungi oleh Perisai, efek ATK ini meningkat sebesar 100%.",
+        "IT": "#Aumenta l'efficacia dello scudo di un 30%. Mandare a segno un colpo contro gli avversari aumenta l'ATT di un 6% per 8 s. Cumulabile fino a 5 volte. Si può verificare una sola volta ogni 0,3 s. Mentre la protezione dello scudo è attiva, l'effetto di quest'ATT aumenta di un 100%.",
+        "JP": "シールド強化+30%。攻撃が命中した8秒間、攻撃力+6%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+        "KR": "보호막 강화 효과가 30% 증가한다. 공격 명중 후 공격력이 6% 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+        "PT": "Aumenta a força do Escudo em 30%. Acertar ataques em inimigos aumenta o ataque em 6% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%.",
+        "RU": "Увеличивает прочность щита на 30%. При попадании увеличивает силу атаки на 6% в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%.",
+        "TH": "เพิ่มประสิทธิภาพโล่ป้องกัน 30% ภายในเวลา 8 วินาที หลังจากโจมตีถูกเป้าหมาย จะเพิ่มพลังโจมตี 6% โดยเอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น ซึ่งจะเกิดขึ้นหนึ่งครั้งในทุก 0.3 วินาที เมื่อได้รับการป้องกันจากโล่ พลังโจมตีของเอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Kalkan Gücünü %30 artırır. Düşmanlara isabet eden vuruşlar 8 saniyeliğine Saldırıyı %6 artırır. 5 kademeye kadar birikir ve 0,3 saniyede bir uygulanabilir. Bir kalkan tarafından korunurken bu Saldırı artışı etkisi %100 daha güçlü olur.",
+        "VI": "Hiệu quả khiên tăng 30%. Trong vòng 8s sau khi đánh trúng, tấn công tăng 6%. Cộng dồn 5 tầng, mỗi 0.3s chỉ được thi triển 1 lần. Ngoài ra, khi được khiên bảo vệ, hiệu quả tăng tấn công sẽ tăng 100%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Shield Strength by 35%. Scoring hits on opponents increases ATK by 7% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+        "CHS": "护盾强效提升35%。攻击命中后的8秒内，攻击力提升7%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+        "CHT": "護盾強效提升35%。攻擊命中後的8秒內，攻擊力提升7%。該效果至多可疊加5層，每0.3秒只能觸發一次。此外，處於護盾庇護下時，該效果的攻擊力提升效果提高100%。",
+        "DE": "Erhöht die Schildeffizienz um 35 %. Erhöht den ANG nach Treffern 8 s lang um 7 %. 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %.",
+        "ES": "Aumenta en un 35% la Protección de Escudo. Tras atacar a un enemigo, el ATQ aumenta en un 7% durante 8 s. Este efecto puede acumularse hasta 5 veces y activarse una vez cada 0.3 s. Además, al estar bajo la protección de un escudo, el efecto de aumento de ATQ aumenta en un 100%.",
+        "FR": "#Augmente la force du bouclier de 35 %. Toucher un ennemi augmente l'ATQ de 7 % pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %.",
+        "ID": "Meningkatkan kekuatan Perisai sebesar 35%. Serangan yang mengenai musuh meningkatkan ATK sebesar 7% selama 8 detik. Maksimal 5 lapis. Dapat terpicu setiap 0,3 detik. Saat dilindungi oleh Perisai, efek ATK ini meningkat sebesar 100%.",
+        "IT": "#Aumenta l'efficacia dello scudo di un 35%. Mandare a segno un colpo contro gli avversari aumenta l'ATT di un 7% per 8 s. Cumulabile fino a 5 volte. Si può verificare una sola volta ogni 0,3 s. Mentre la protezione dello scudo è attiva, l'effetto di quest'ATT aumenta di un 100%.",
+        "JP": "シールド強化+35%。攻撃が命中した8秒間、攻撃力+7%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+        "KR": "보호막 강화 효과가 35% 증가한다. 공격 명중 후 공격력이 7% 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+        "PT": "Aumenta a força do Escudo em 35%. Acertar ataques em inimigos aumenta o ataque em 7% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%.",
+        "RU": "Увеличивает прочность щита на 35%. При попадании увеличивает силу атаки на 7% в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%.",
+        "TH": "เพิ่มประสิทธิภาพโล่ป้องกัน 35% ภายในเวลา 8 วินาที หลังจากโจมตีถูกเป้าหมาย จะเพิ่มพลังโจมตี 7% โดยเอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น ซึ่งจะเกิดขึ้นหนึ่งครั้งในทุก 0.3 วินาที เมื่อได้รับการป้องกันจากโล่ พลังโจมตีของเอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Kalkan Gücünü %35 artırır. Düşmanlara isabet eden vuruşlar 8 saniyeliğine Saldırıyı %7 artırır. 5 kademeye kadar birikir ve 0,3 saniyede bir uygulanabilir. Bir kalkan tarafından korunurken bu Saldırı artışı etkisi %100 daha güçlü olur.",
+        "VI": "Hiệu quả khiên tăng 35%. Trong vòng 8s sau khi đánh trúng, tấn công tăng 7%. Cộng dồn 5 tầng, mỗi 0.3s chỉ được thi triển 1 lần. Ngoài ra, khi được khiên bảo vệ, hiệu quả tăng tấn công sẽ tăng 100%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Shield Strength by 40%. Scoring hits on opponents increases ATK by 8% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+        "CHS": "护盾强效提升40%。攻击命中后的8秒内，攻击力提升8%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
+        "CHT": "護盾強效提升40%。攻擊命中後的8秒內，攻擊力提升8%。該效果至多可疊加5層，每0.3秒只能觸發一次。此外，處於護盾庇護下時，該效果的攻擊力提升效果提高100%。",
+        "DE": "Erhöht die Schildeffizienz um 40 %. Erhöht den ANG nach Treffern 8 s lang um 8 %. 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %.",
+        "ES": "Aumenta en un 40% la Protección de Escudo.. Tras atacar a un enemigo, el ATQ aumenta en un 8% durante 8 s. Este efecto puede acumularse hasta 5 veces y activarse una vez cada 0.3 s. Además, al estar bajo la protección de un escudo, el efecto de aumento de ATQ aumenta en un 100%.",
+        "FR": "#Augmente la force du bouclier de 40 %. Toucher un ennemi augmente l'ATQ de 8 % pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l'augmentation d'ATQ de cet effet est de 100 %.",
+        "ID": "Meningkatkan kekuatan Perisai sebesar 40%. Serangan yang mengenai musuh meningkatkan ATK sebesar 8% selama 8 detik. Maksimal 5 lapis. Dapat terpicu setiap 0,3 detik. Saat dilindungi oleh Perisai, efek ATK ini meningkat sebesar 100%.",
+        "IT": "#Aumenta l'efficacia dello scudo di un 40%. Mandare a segno un colpo contro gli avversari aumenta l'ATT di un 8% per 8 s. Cumulabile fino a 5 volte. Si può verificare una sola volta ogni 0,3 s. Mentre la protezione dello scudo è attiva, l'effetto di quest'ATT aumenta di un 100%.",
+        "JP": "シールド強化+40%。攻撃が命中した8秒間、攻撃力+8%。この効果は最大5重まで、0.3秒毎に1回のみ発動可能。また、シールド状態の時、攻撃力アップの効果量が2倍になる。",
+        "KR": "보호막 강화 효과가 40% 증가한다. 공격 명중 후 공격력이 8% 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+        "PT": "Aumenta a força do Escudo em 40%. Acertar ataques em inimigos aumenta o ataque em 8% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%.",
+        "RU": "Увеличивает прочность щита на 40%. При попадании увеличивает силу атаки на 8% в течение 8 сек. Эффект может складываться до 5 раз и возникнуть раз в 0,3 сек. Кроме того, под защитой щита бонус силы атаки данного эффекта увеличивается на 100%.",
+        "TH": "เพิ่มประสิทธิภาพโล่ป้องกัน 40% ภายในเวลา 8 วินาที หลังจากโจมตีถูกเป้าหมาย จะเพิ่มพลังโจมตี 8% โดยเอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น ซึ่งจะเกิดขึ้นหนึ่งครั้งในทุก 0.3 วินาที เมื่อได้รับการป้องกันจากโล่ พลังโจมตีของเอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Kalkan Gücünü %40 artırır. Düşmanlara isabet eden vuruşlar 8 saniyeliğine Saldırıyı %8 artırır. 5 kademeye kadar birikir ve 0,3 saniyede bir uygulanabilir. Bir kalkan tarafından korunurken bu Saldırı artışı etkisi %100 daha güçlü olur.",
+        "VI": "Hiệu quả khiên tăng 40%. Trong vòng 8s sau khi đánh trúng, tấn công tăng 8%. Cộng dồn 5 tầng, mỗi 0.3s chỉ được thi triển 1 lần. Ngoài ra, khi được khiên bảo vệ, hiệu quả tăng tấn công sẽ tăng 100%."
+      }
+    }
+  ]
+}

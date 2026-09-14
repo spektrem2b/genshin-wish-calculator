@@ -1,0 +1,69 @@
+{
+  "id": 15046,
+  "name": {
+    "EN": "Disenchantment in Deep Shadow",
+    "CHS": "影中沉凝的幻灭",
+    "CHT": "影中沉凝的幻滅",
+    "DE": "Bedrückende Desillusionierung im Schatten",
+    "ES": "Desilusión Congelada en las Sombras",
+    "FR": "Désenchantement dans l'ombre profonde",
+    "ID": "Disenchantment in Deep Shadow",
+    "IT": "Disincanto nell'ombra profonda",
+    "JP": "影に沈む幻",
+    "KR": "그림자 속 산산조각 난 꿈",
+    "PT": "Desencantamento na Sombra Profunda",
+    "RU": "Застывшее в тени разочарование",
+    "TH": "Disenchantment in Deep Shadow",
+    "TR": "Derin Gölgelerde Uyanış",
+    "VI": "Ảo Tưởng Vụn Vỡ Trong Bóng Tối"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15046/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "#Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%",
+        "RU": "Увеличивает силу атаки на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn Công tăng 18%."
+      },
+      "affixId": "2150460"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases Superconduct Reaction DMG by 80% and Stellar-Conduct Reaction DMG by 40%. When the wielder attacks opponents affected by Superconduct or Stellar-Conduct, this attack's CRIT Rate is increased by 16%.",
+        "CHS": "超导反应造成的伤害提升80%，星超导反应造成的伤害提升40%；装备者攻击受到超导或星超导反应影响的敌人时，本次攻击的暴击率提高16%。",
+        "CHT": "超導反應造成的傷害提升80%，星超導反應造成的傷害提升40%。裝備者攻擊受到超導或星超導反應影響的敵人時，本次攻擊的暴擊率提高16%。",
+        "DE": "#Erhöht den durch die Reaktion Supraleiter verursachten Schaden um 80 % und den durch die Reaktion Stellar-Supraleiter verursachten Schaden um 40 %. Erhöht, wenn der Träger einen Gegner angreift, der von der Reaktion Supraleiter oder Stellar-Supraleiter betroffen ist, die KT dieses Angriffs um 16 %.",
+        "ES": "El daño infligido por la reacción de Superconductor aumenta en un 80%, y el de la reacción de Superconductor Estelar aumenta en un 40%. Cuando el portador de este conjunto de artefactos ataca a un enemigo afectado por Superconductor o Superconductor Estelar, la Prob. CRIT de dicho ataque aumenta en un 16%.",
+        "FR": "#Augmente les DGT infligés par les réactions de Supraconduction de 80 % et ceux infligés par les réactions d'Astroconduction de 40 %. Lorsque le personnage équipé de l'artéfact attaque un ennemi affecté par une réaction de Supraconduction ou d'Astroconduction, le taux CRIT de cette attaque augmente de 16 %.",
+        "ID": "DMG yang diakibatkan reaksi Superconduct +80%, DMG yang diakibatkan reaksi Stellar-Conduct +40%. Saat Karakter yang mengenakan menyerang musuh yang terpengaruh oleh reaksi Superconduct atau Stellar-Conduct, CRIT Rate serangan ini +16%.",
+        "IT": "I DAN da reazione di Superconduzione e Astroconduzione aumentano rispettivamente di un 80% e di un 40%. Quando il personaggio che equipaggia il set sferra un attacco a un avversario affetto da Superconduzione o Astroconduzione, il tasso di CRIT di tale attacco aumenta di un 16%.",
+        "JP": "超電導反応によるダメージ+80%、星電導反応によるダメージ+40%。装備者が超電導または星電導反応の影響を受けた敵を攻撃する時、その攻撃の会心率+16%。",
+        "KR": "초전도 반응으로 주는 피해가 80% 증가하고, 별 초전도 반응으로 주는 피해가 40% 증가한다. 장착 캐릭터가 초전도 또는 별 초전도 반응의 영향을 받은 적 공격 시, 해당 공격의 치명타 확률이 16% 증가한다",
+        "PT": "Aumenta o Dano de Reação de Supercondutor em 80%. Aumenta o Dano de Supercondutor Estelar em 40%. Quando o portador ataca inimigos afetados por Supercondutor ou Supercondutor Estelar, aumenta a Taxa CRIT desse ataque em 16%.",
+        "RU": "Повышает урон реакции Сверхпроводник на 80%, реакции Звёздный проводник - на 40%. Когда экипированный персонаж атакует врага со статусом Сверхпроводник или Звёздный проводник, шанс крит. попадания данной атаки повышается на 16%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยานำไฟฟ้าเพิ่มขึ้น 80%, ความเสียหายที่เกิดจากปฏิกิริยานำไฟฟ้าดาราเพิ่มขึ้น 40%; เมื่อผู้สวมใส่โจมตีศัตรูที่ได้รับผลกระทบจากปฏิกิริยานำไฟฟ้าหรือนำไฟฟ้าดารา อัตราคริของการโจมตีในครั้งนี้จะเพิ่มขึ้น 16%",
+        "TR": "Süper İletim Tepkimesi Hasarını %80 ve Yıldız İletimi Tepkimesi Hasarını %40 artırır. Kuşanan karakter Süper İletim veya Yıldız İletiminden etkilenen düşmanlara saldırdığında bu saldırının Kritik Oranı %16 artar.",
+        "VI": "Sát thương phản ứng Siêu Dẫn tăng 80%, sát thương phản ứng Tinh-Siêu Dẫn tăng 40%. Khi người trang bị tấn công kẻ địch bị ảnh hưởng bởi phản ứng Siêu Dẫn hoặc Tinh-Siêu Dẫn, lần tấn công này tăng 16% Tỷ Lệ Bạo Kích."
+      },
+      "affixId": "2150461"
+    }
+  ]
+}

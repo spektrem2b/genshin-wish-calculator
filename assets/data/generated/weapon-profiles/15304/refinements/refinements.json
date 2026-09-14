@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Slingshot",
+    "CHS": "弹弓",
+    "CHT": "彈弓",
+    "DE": "Steinschleuder",
+    "ES": "Tirachinas",
+    "FR": "Lance-pierres",
+    "ID": "Slingshot",
+    "IT": "Fionda",
+    "JP": "弾弓",
+    "KR": "탄궁",
+    "PT": "Estilingue",
+    "RU": "Рогатка",
+    "TH": "Slingshot",
+    "TR": "Sapan",
+    "VI": "Nỏ Kéo"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 36%. Otherwise, decreases DMG by 10%.",
+        "CHS": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加36%；否则，造成的伤害下降10%。",
+        "CHT": "普通攻擊與重擊的箭矢若在發射後的0.3秒內擊中敵人，則造成的傷害增加36%；否則，造成的傷害下降10%。",
+        "DE": "Erhöht den Schaden beim Treffen von Gegnern mit Pfeilen von Standardangriffen und heftigen Schlägen innerhalb von 0,3 s nach dem Abschießen eines Pfeils um 36 %, verringert den verursachten Schaden ansonsten jedoch um 10 %.",
+        "ES": "Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un 36%. Si se excede este tiempo, el daño disminuirá en un 10%.",
+        "FR": "Les DGT infligés par les flèches des attaques normales et chargées infligent 36 % de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.",
+        "ID": "Jika Normal atau Charged Attack mengenai target dalam waktu 0,3 detik setelah dilancarkan, DMG meningkat sebesar 36%. Sebaliknya jika tidak, maka DMG menurun sebesar 10%.",
+        "IT": "Se un attacco normale o caricato colpisce un bersaglio entro 0,3 s dal tiro, aumenta i DAN di un 36%. In caso contrario, li riduce di un 10%.",
+        "JP": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+36%。0.3秒以上の場合、与えるダメージ-10%。",
+        "KR": "일반 공격과 강공격 화살은 발사 후 0.3초 내에 적을 명중하면 주는 피해가 36% 증가한다. 반대일 경우 주는 피해가 10% 감소한다",
+        "PT": "Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em 36%. Caso contrário, o Dano é diminuído em 10%.",
+        "RU": "Если обычная или заряженная стрела поразила цель в течение 0,3 сек. после выстрела, то её урон увеличивается на 36%. В противном случае урон уменьшается на 10%.",
+        "TH": "หากลูกธนูของการโจมตีปกติหรือชาร์จโจมตีถูกศัตรูภายใน 0.3 วินาที หลังจากที่ปล่อยออกไป จะสร้างโบนัสความเสียหาย 36%; มิฉะนั้นความเสียหายที่สร้างจะลดลง 10%",
+        "TR": "Normal veya Yüklü Saldırılar, ateşlendikten sonra 0,3 saniye içinde bir düşmanı vurursa Hasar %36 artar. Aksi takdirde Hasar %10 azalır.",
+        "VI": "Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng 36%; Nếu không, sát thương tạo thành giảm 10%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 42%. Otherwise, decreases DMG by 10%.",
+        "CHS": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加42%；否则，造成的伤害下降10%。",
+        "CHT": "普通攻擊與重擊的箭矢若在發射後的0.3秒內擊中敵人，則造成的傷害增加42%；否則，造成的傷害下降10%。",
+        "DE": "Erhöht den Schaden beim Treffen von Gegnern mit Pfeilen von Standardangriffen und heftigen Schlägen innerhalb von 0,3 s nach dem Abschießen eines Pfeils um 42 %, verringert den verursachten Schaden ansonsten jedoch um 10 %.",
+        "ES": "Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un 42%. Si se excede este tiempo, el daño disminuirá en un 10%.",
+        "FR": "Les DGT infligés par les flèches des attaques normales et chargées infligent 42 % de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.",
+        "ID": "Jika Normal atau Charged Attack mengenai target dalam waktu 0,3 detik setelah dilancarkan, DMG meningkat sebesar 42%. Sebaliknya jika tidak, maka DMG menurun sebesar 10%.",
+        "IT": "Se un attacco normale o caricato colpisce un bersaglio entro 0,3 s dal tiro, aumenta i DAN di un 42%. In caso contrario, li riduce di un 10%.",
+        "JP": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+42%。0.3秒以上の場合、与えるダメージ-10%。",
+        "KR": "일반 공격과 강공격 화살은 발사 후 0.3초 내에 적을 명중하면 주는 피해가 42% 증가한다. 반대일 경우 주는 피해가 10% 감소한다",
+        "PT": "Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em 42%. Caso contrário, o Dano é diminuído em 10%.",
+        "RU": "Если обычная или заряженная стрела поразила цель в течение 0,3 сек. после выстрела, то её урон увеличивается на 42%. В противном случае урон уменьшается на 10%.",
+        "TH": "หากลูกธนูของการโจมตีปกติหรือชาร์จโจมตีถูกศัตรูภายใน 0.3 วินาที หลังจากที่ปล่อยออกไป จะสร้างโบนัสความเสียหาย 42%; มิฉะนั้นความเสียหายที่สร้างจะลดลง 10%",
+        "TR": "Normal veya Yüklü Saldırılar, ateşlendikten sonra 0,3 saniye içinde bir düşmanı vurursa Hasar %42 artar. Aksi takdirde Hasar %10 azalır.",
+        "VI": "Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng 42%; Nếu không, sát thương tạo thành giảm 10%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 48%. Otherwise, decreases DMG by 10%.",
+        "CHS": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加48%；否则，造成的伤害下降10%。",
+        "CHT": "普通攻擊與重擊的箭矢若在發射後的0.3秒內擊中敵人，則造成的傷害增加48%；否則，造成的傷害下降10%。",
+        "DE": "Erhöht den Schaden beim Treffen von Gegnern mit Pfeilen von Standardangriffen und heftigen Schlägen innerhalb von 0,3 s nach dem Abschießen eines Pfeils um 48 %, verringert den verursachten Schaden ansonsten jedoch um 10 %.",
+        "ES": "Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un 48%. Si se excede este tiempo, el daño disminuirá en un 10%.",
+        "FR": "Les DGT infligés par les flèches des attaques normales et chargées infligent 48 % de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.",
+        "ID": "Jika Normal atau Charged Attack mengenai target dalam waktu 0,3 detik setelah dilancarkan, DMG meningkat sebesar 48%. Sebaliknya jika tidak, maka DMG menurun sebesar 10%.",
+        "IT": "Se un attacco normale o caricato colpisce un bersaglio entro 0,3 s dal tiro, aumenta i DAN di un 48%. In caso contrario, li riduce di un 10%.",
+        "JP": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+48%。0.3秒以上の場合、与えるダメージ-10%。",
+        "KR": "일반 공격과 강공격 화살은 발사 후 0.3초 내에 적을 명중하면 주는 피해가 48% 증가한다. 반대일 경우 주는 피해가 10% 감소한다",
+        "PT": "Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em 48%. Caso contrário, o Dano é diminuído em 10%.",
+        "RU": "Если обычная или заряженная стрела поразила цель в течение 0,3 сек. после выстрела, то её урон увеличивается на 48%. В противном случае урон уменьшается на 10%.",
+        "TH": "หากลูกธนูของการโจมตีปกติหรือชาร์จโจมตีถูกศัตรูภายใน 0.3 วินาที หลังจากที่ปล่อยออกไป จะสร้างโบนัสความเสียหาย 48%; มิฉะนั้นความเสียหายที่สร้างจะลดลง 10%",
+        "TR": "Normal veya Yüklü Saldırılar, ateşlendikten sonra 0,3 saniye içinde bir düşmanı vurursa Hasar %48 artar. Aksi takdirde Hasar %10 azalır.",
+        "VI": "Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng 48%; Nếu không, sát thương tạo thành giảm 10%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 54%. Otherwise, decreases DMG by 10%.",
+        "CHS": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加54%；否则，造成的伤害下降10%。",
+        "CHT": "普通攻擊與重擊的箭矢若在發射後的0.3秒內擊中敵人，則造成的傷害增加54%；否則，造成的傷害下降10%。",
+        "DE": "Erhöht den Schaden beim Treffen von Gegnern mit Pfeilen von Standardangriffen und heftigen Schlägen innerhalb von 0,3 s nach dem Abschießen eines Pfeils um 54 %, verringert den verursachten Schaden ansonsten jedoch um 10 %.",
+        "ES": "Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un 54%. Si se excede este tiempo, el daño disminuirá en un 10%.",
+        "FR": "Les DGT infligés par les flèches des attaques normales et chargées infligent 54 % de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.",
+        "ID": "Jika Normal atau Charged Attack mengenai target dalam waktu 0,3 detik setelah dilancarkan, DMG meningkat sebesar 54%. Sebaliknya jika tidak, maka DMG menurun sebesar 10%.",
+        "IT": "Se un attacco normale o caricato colpisce un bersaglio entro 0,3 s dal tiro, aumenta i DAN di un 54%. In caso contrario, li riduce di un 10%.",
+        "JP": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+54%。0.3秒以上の場合、与えるダメージ-10%。",
+        "KR": "일반 공격과 강공격 화살은 발사 후 0.3초 내에 적을 명중하면 주는 피해가 54% 증가한다. 반대일 경우 주는 피해가 10% 감소한다",
+        "PT": "Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em 54%. Caso contrário, o Dano é diminuído em 10%.",
+        "RU": "Если обычная или заряженная стрела поразила цель в течение 0,3 сек. после выстрела, то её урон увеличивается на 54%. В противном случае урон уменьшается на 10%.",
+        "TH": "หากลูกธนูของการโจมตีปกติหรือชาร์จโจมตีถูกศัตรูภายใน 0.3 วินาที หลังจากที่ปล่อยออกไป จะสร้างโบนัสความเสียหาย 54%; มิฉะนั้นความเสียหายที่สร้างจะลดลง 10%",
+        "TR": "Normal veya Yüklü Saldırılar, ateşlendikten sonra 0,3 saniye içinde bir düşmanı vurursa Hasar %54 artar. Aksi takdirde Hasar %10 azalır.",
+        "VI": "Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng 54%; Nếu không, sát thương tạo thành giảm 10%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 60%. Otherwise, decreases DMG by 10%.",
+        "CHS": "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加60%；否则，造成的伤害下降10%。",
+        "CHT": "普通攻擊與重擊的箭矢若在發射後的0.3秒內擊中敵人，則造成的傷害增加60%；否則，造成的傷害下降10%。",
+        "DE": "Erhöht den Schaden beim Treffen von Gegnern mit Pfeilen von Standardangriffen und heftigen Schlägen innerhalb von 0,3 s nach dem Abschießen eines Pfeils um 60 %, verringert den verursachten Schaden ansonsten jedoch um 10 %.",
+        "ES": "Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un 60%. Si se excede este tiempo, el daño disminuirá en un 10%.",
+        "FR": "Les DGT infligés par les flèches des attaques normales et chargées infligent 60 % de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.",
+        "ID": "Jika Normal atau Charged Attack mengenai target dalam waktu 0,3 detik setelah dilancarkan, DMG meningkat sebesar 60%. Sebaliknya jika tidak, maka DMG menurun sebesar 10%.",
+        "IT": "Se un attacco normale o caricato colpisce un bersaglio entro 0,3 s dal tiro, aumenta i DAN di un 60%. In caso contrario, li riduce di un 10%.",
+        "JP": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+60%。0.3秒以上の場合、与えるダメージ-10%。",
+        "KR": "일반 공격과 강공격 화살은 발사 후 0.3초 내에 적을 명중하면 주는 피해가 60% 증가한다. 반대일 경우 주는 피해가 10% 감소한다",
+        "PT": "Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em 60%. Caso contrário, o Dano é diminuído em 10%.",
+        "RU": "Если обычная или заряженная стрела поразила цель в течение 0,3 сек. после выстрела, то её урон увеличивается на 60%. В противном случае урон уменьшается на 10%.",
+        "TH": "หากลูกธนูของการโจมตีปกติหรือชาร์จโจมตีถูกศัตรูภายใน 0.3 วินาที หลังจากที่ปล่อยออกไป จะสร้างโบนัสความเสียหาย 60%; มิฉะนั้นความเสียหายที่สร้างจะลดลง 10%",
+        "TR": "Normal veya Yüklü Saldırılar, ateşlendikten sonra 0,3 saniye içinde bir düşmanı vurursa Hasar %60 artar. Aksi takdirde Hasar %10 azalır.",
+        "VI": "Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng 60%; Nếu không, sát thương tạo thành giảm 10%."
+      }
+    }
+  ]
+}

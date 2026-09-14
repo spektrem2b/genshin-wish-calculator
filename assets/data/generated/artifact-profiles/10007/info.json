@@ -1,0 +1,69 @@
+{
+  "id": 10007,
+  "name": {
+    "EN": "Instructor",
+    "CHS": "教官",
+    "CHT": "教官",
+    "DE": "Ausbilder",
+    "ES": "Instructor",
+    "FR": "Instructeur",
+    "ID": "Instructor",
+    "IT": "Istruttore",
+    "JP": "教官",
+    "KR": "교관",
+    "PT": "Instrutor",
+    "RU": "Инструктор",
+    "TH": "Instructor",
+    "TR": "Eğitmen",
+    "VI": "Giáo Quan"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10007/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Elemental Mastery by 80.",
+        "CHS": "元素精通提高80点。",
+        "CHT": "元素精通提高80點。",
+        "DE": "Erhöht Elementarkunde um 80 Punkte.",
+        "ES": "Maestría Elemental +80 pts.",
+        "FR": "Augmente la maîtrise élémentaire de 80 pts.",
+        "ID": "Elemental Mastery +80.",
+        "IT": "Maestria elementale +80.",
+        "JP": "元素熟知+80。",
+        "KR": "원소 마스터리+80pt",
+        "PT": "Proficiência Elemental +80",
+        "RU": "Увеличивает мастерство стихий на 80 ед.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย",
+        "TR": "Element Ustalığını 80 artırır.",
+        "VI": "Tăng 80 điểm tinh thông nguyên tố."
+      },
+      "affixId": "2100070"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.",
+        "CHS": "触发元素反应后，队伍中所有角色的元素精通提高120点，持续8秒。",
+        "CHT": "觸發元素反應後，隊伍中所有角色的元素精通提高120點，持續8秒。",
+        "DE": "Erhöht die Elementarkunde aller Truppenmitglieder nach Auslösen von Elementarreaktionen 8 s lang um 120 Punkte.",
+        "ES": "Después de activar una Reacción Elemental, aumenta la Maestría Elemental de todos los miembros del equipo en 120 pts. durante 8 s.",
+        "FR": "Augmente la maîtrise élémentaire de tous les personnages de l'équipe de 120 pts pendant 8 s après avoir déclenché une réaction élémentaire.",
+        "ID": "Setelah memicu Reaksi Elemental, akan meningkatkan 120 Elemental Mastery seluruh anggota party selama 8 detik.",
+        "IT": "#Dopo l'innesco di una reazione elementale, aumenta la maestria elementale di tutti i membri del gruppo di 120 per 8 s.",
+        "JP": "元素反応を引き起こした後、チーム全員の元素熟知+120、継続時間8秒。",
+        "KR": "원소 반응 후 파티 내 모든 캐릭터의 원소 마스터리가 120pt 증가한다. 지속 시간: 8초",
+        "PT": "Após uma Reação Elemental aumenta a Proficiência Elemental de todos os membros da Equipe em 120 por 8s.",
+        "RU": "Вызов элементальной реакции увеличивает мастерство стихий всех членов отряда на 120 ед. в течение 8 сек.",
+        "TH": "หลังจากทำให้เกิดปฏิกิริยาธาตุแล้ว ตัวละครทั้งหมดในทีม จะมีความชำนาญธาตุเพิ่มขึ้น 120 หน่วย เป็นเวลา 8 วินาที",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonra, 8 saniyeliğine tüm grup üyelerinin Element Ustalığını 120 artırır.",
+        "VI": "Sau khi kích hoạt phản ứng Nguyên Tố, tinh thông Nguyên Tố tất cả thành viên đội tăng 120 điểm, kéo dài 8s."
+      },
+      "affixId": "2100071"
+    }
+  ]
+}

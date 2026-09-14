@@ -1,0 +1,69 @@
+{
+  "id": 15042,
+  "name": {
+    "EN": "Silken Moon's Serenade",
+    "CHS": "纺月的夜歌",
+    "CHT": "紡月的夜歌",
+    "DE": "Serenade des seidenen Mondes",
+    "ES": "Serenata de la Luna Tejida",
+    "FR": "Sérénade de la lune soyeuse",
+    "ID": "Silken Moon's Serenade",
+    "IT": "Serenata della luna di seta",
+    "JP": "月を紡ぐ夜の歌",
+    "KR": "달을 엮는 밤노래",
+    "PT": "Serenata da Lua de Seda",
+    "RU": "Серенада шёлковой луны",
+    "TH": "Silken Moon's Serenade",
+    "TR": "İpeksi Ayın Serenadı",
+    "VI": "Khúc Ca Trăng Lụa"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15042/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Energy Recharge +20%.",
+        "CHS": "元素充能效率提高20%。",
+        "CHT": "元素充能效率提高20%。",
+        "DE": "#Erhöht die Aufladerate um 20 %.",
+        "ES": "Recarga de Energía +20%.",
+        "FR": "Augmente la recharge d'énergie de 20 %.",
+        "ID": "Energy Recharge +20%.",
+        "IT": "Ricarica d'energia +20%.",
+        "JP": "元素チャージ効率+20%。",
+        "KR": "원소 충전 효율+20%",
+        "PT": "Recarga de Energia +20%",
+        "RU": "Увеличивает скорость восстановления энергии на 20%.",
+        "TH": "เพิ่มประสิทธิภาพ การฟื้นฟูพลังงานขึ้น 20%",
+        "TR": "+%20 Enerji Yüklemesi.",
+        "VI": "Hiệu Quả Nạp Nguyên Tố tăng 20%."
+      },
+      "affixId": "2150420"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When dealing Elemental DMG, gain the Gleaming Moon: Devotion effect for 8s: Increases all party members' Elemental Mastery by 60/120 when the party's Moonsign is Nascent Gleam/Ascendant Gleam. The equipping character can trigger this effect while off-field. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack.",
+        "CHS": "造成元素伤害时，获得持续8秒的「月辉明光·崇信」效果：队伍的月兆为初辉/满辉时，队伍中的所有角色的元素精通提高60点/120点。装备者处于后台时也能触发上述效果。队伍中的角色每拥有一种不同的「月辉明光」效果，队伍中的所有角色触发的月曜反应造成的伤害提升10%。由「月辉明光」产生的效果无法叠加。",
+        "CHT": "造成元素傷害時，獲得持續8秒的「月輝明光·崇信」效果：隊伍的月兆為初輝/滿輝時，隊伍中的所有角色的元素精通提高60點/120點。裝備者處於後臺時也能觸發上述效果。隊伍中的角色每擁有一種不同的「月輝明光」效果，隊伍中的所有角色觸發的月曜反應造成的傷害提升10%。由「月輝明光」產生的效果無法疊加。",
+        "DE": "#Verleiht beim Verursachen von Elementar-Schaden 8 s lang den Effekt „Helles Mondlicht – Hohe Überzeugung“: Erhöht, wenn das Mondomen der Truppe „Anfänglicher Glanz“ / „Reifer Glanz“ ist, die Elementarkunde aller Figuren in der Truppe um 60/120 Punkte. Dieser Effekt kann auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Erhöht für jeden unterschiedlichen Effekt des „Hellen Mondlichts“ der Truppenmitglieder den Schaden der von allen Truppenmitgliedern ausgelösten Mondleuchten-Reaktionen um 10 %. Der durch „Helles Mondlicht“ ausgelöste Effekt ist nicht stapelbar.",
+        "ES": "#Infligir Daño Elemental otorga durante 8 s el efecto de “luna refulgente: veneración”, de manera que, cuando el presagio lunar del equipo es resplandor naciente/resplandor ascendente, la Maestría Elemental de todos los personajes del equipo aumenta en 60/120 pts. respectivamente. Este efecto se puede activar incluso cuando el portador de este conjunto está en tu equipo pero no en uso. Por cada efecto de luna refulgente diferente que tengan los personajes, el daño de las Reacciones Lunares de todos los miembros del equipo aumentará en un 10%. Los efectos producidos por luna refulgente no se pueden acumular.",
+        "FR": "Infliger des DGT élémentaires accorde l'effet Lune étincelante « Dévotion » pendant 8 s : augmente la maîtrise élémentaire de tous les personnages de l'équipe de 60 pts ou de 120 pts lorsque la signelune de l'équipe est respectivement de type Lueur naissante ou ascendante. L'effet ci-dessus peut être déclenché même si le personnage équipé de l'artéfact n'est pas déployé. De plus, les DGT infligés par les réactions sélènes déclenchées par tous les personnages de l'équipe augmentent de 10 % pour chaque lune étincelante de type différent des personnages de l'équipe. Les bonus accordés par l'effet Lune étincelante ne se cumulent pas.",
+        "ID": "Saat mengakibatkan Elemental DMG, akan mendapatkan efek Gleaming Moon: Devotion selama 8 detik. Gleaming Moon: Devotion: Saat Moonsign milik party adalah Nascent Gleam/Ascendant Gleam, maka Elemental Mastery seluruh Karakter dalam party +60/120 poin. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan berada di dalam party namun tidak berada di medan pertempuran. Untuk setiap efek Gleaming Moon berbeda yang dimiliki Karakter di dalam party, DMG reaksi Lunar yang diakibatkan seluruh Karakter dalam party +10%. Efek yang dihasilkan oleh Gleaming Moon tidak dapat ditumpuk.",
+        "IT": "#Quando vengono inflitti DAN elementali, si ottiene l'effetto Luna splendente: Devozione per 8 s, che aumenta la maestria elementale di tutti i membri del gruppo di 60/120 quando il Presagio lunare del gruppo è Barlume nascente/Barlume ascendente. L'effetto si può innescare anche quando il personaggio che equipaggia il set non è in campo. I DAN delle reazioni lunari di tutti i membri del gruppo aumentano di un 10% per ciascun tipo di effetto Luna splendente presente nel gruppo. Gli effetti di Luna splendente non sono cumulabili.",
+        "JP": "元素ダメージを与えた時、8秒間継続する「月輝明光・崇拝」効果を獲得する。「月輝明光・崇拝」：チームの月兆が初照/満照の時、チーム全員の元素熟知+60/120。装備者が待機中でも、上記効果を発動できる。チーム内キャラクターの「月輝明光」効果が1種類存在するごとに、チーム内キャラクターが起こす月反応のダメージ+10%。「月輝明光」によって生じた効果は重ね掛け不可。",
+        "KR": "원소 피해를 줄 시, 8초 동안 지속되는 「월광·신앙」 효과를 획득한다: 파티의 달빛 징조가 초승/보름인 경우, 파티 내 모든 캐릭터의 원소 마스터리가 60pt/120pt 증가한다. 상술한 효과는 장착 캐릭터가 대기 상태일 때도 발동한다. 파티 내 캐릭터가 서로 다른 「월광」 효과를 1개 보유할 때마다, 파티 내 모든 캐릭터가 발동한 달빛 반응으로 주는 피해가 10% 증가한다. 「월광」으로 생성된 효과는 중첩되지 않는다",
+        "PT": "Ao causar Dano Elemental, obtém por 8s o efeito Resplandecer Lunar: Missiva Sublime: quando o Presságio Lunar da equipe estiver no Reluzir Inicial/Cheio, aumenta a Proficiência Elemental de todos os personagens em 60/120. Esse efeito pode ser desencadeado, mesmo se o personagem que está com esse conjunto equipado não estiver ativo. Quando um personagem possuir efeitos de Resplandecer Lunar diferentes, aumenta o Dano causado pelas Reações Lunares em 10% para todos os personagens. O efeito gerado por Resplandecer Lunar não é acumulável.",
+        "RU": "При нанесении элементального урона на 8 сек. возникает эффект Сияющей луны: Доверие: если Лунное знамение отряда - Зарождающееся сияние/Высшее сияние, мастерство стихий всех персонажей отряда повышается на 60/120 ед. Такой эффект может возникнуть, даже если экипированный персонаж не находится на поле боя. За каждый активный эффект Сияющей луны разных видов в отряде урон Лунных реакций всех персонажей отряда увеличивается на 10%. Эффекты Сияющей луны не складываются.",
+        "TH": "เมื่อสร้างความเสียหายธาตุ จะได้รับเอฟเฟกต์ Gleaming Moon: Devotion เป็นเวลา 8 วินาที: เมื่อลัคนาจันทร์ของทีมเป็นแย้มแสง/จรัสแสง ความชำนาญธาตุของตัวละครทั้งหมดในทีมจะเพิ่มขึ้น 60/120 หน่วย โดยสามารถทำให้เกิดเอฟเฟกต์นี้ได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ทั้งนี้ ความเสียหายของปฏิกิริยาประกายจันทร์ที่ตัวละครทั้งหมดในทีมสร้างจะเพิ่มขึ้น 10% ตามเอฟเฟกต์ Gleaming Moon แต่ละชนิดที่ตัวละครในทีมมี โดยเอฟเฟกต์ที่เกิดจาก Gleaming Moon จะไม่สามารถซ้อนทับกันได้",
+        "TR": "Element Hasarı verildiğinde 8sn boyunca Ay Parıltısı: Adanmışlık etkisi kazanılır: Ay Sembolü İlk Parıltı/Yükselen Parıltı olduğunda tüm grup üyelerinin Element Ustalığı 60/120 artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir. Tüm grup üyelerinin Ay Tepkimesi Hasarı, üyelerin sahip olduğu farklı her Ay Parıltısı etkisi için %10 artar. Ay Parıltısı etkileri birikmez.",
+        "VI": "Khi gây sát thương nguyên tố, sẽ nhận hiệu quả \"Trăng Sáng - Tín Ngưỡng\" trong 8s: Khi Nguyệt Triệu của đội là Hé Sáng/Rực Sáng, tất cả nhân vật trong đội sẽ tăng 60/120 điểm Tinh Thông Nguyên Tố. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên. Với mỗi hiệu quả \"Trăng Sáng\" khác nhau mà nhân vật trong đội sở hữu, tất cả nhân vật trong đội sẽ tăng 10% sát thương phản ứng Nguyệt. Hiệu quả sản sinh từ \"Trăng Sáng\" sẽ không thể cộng dồn."
+      },
+      "affixId": "2150421"
+    }
+  ]
+}

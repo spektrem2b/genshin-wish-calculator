@@ -1,0 +1,69 @@
+{
+  "id": 15001,
+  "name": {
+    "EN": "Gladiator's Finale",
+    "CHS": "角斗士的终幕礼",
+    "CHT": "角鬥士的終幕禮",
+    "DE": "Verbeugung des Gladiators",
+    "ES": "Final del Gladiador",
+    "FR": "Rideau du Gladiateur",
+    "ID": "Gladiator's Finale",
+    "IT": "Ultimo atto del gladiatore",
+    "JP": "剣闘士のフィナーレ",
+    "KR": "검투사의 피날레",
+    "PT": "Último Juramento do Gladiador",
+    "RU": "Конец гладиатора",
+    "TH": "Gladiator's Finale",
+    "TR": "Gladyatörün Son Yemini",
+    "VI": "Lễ Bế Mạc Của Giác Đấu Sĩ"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15001/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%.",
+        "RU": "Увеличивает силу атаки на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn công tăng 18%"
+      },
+      "affixId": "2150010"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+        "CHS": "装备该圣遗物套装的角色为单手剑、双手剑、长柄武器角色时，角色普通攻击造成的伤害提高35%。",
+        "CHT": "裝備該聖遺物套裝的角色為單手劍、雙手劍、長柄武器角色時，角色普通攻擊造成的傷害提高35%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden, wenn die mit diesem Artefaktset ausgestattete Figur einen Einhänder, einen Zweihänder oder eine Stangenwaffe trägt, um 35 %.",
+        "ES": "Aumenta el daño de Ataque Normal en un 35% si el personaje usa una espada ligera, mandoble o lanza.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 35 % lorsque ce set d'artéfacts est équipé par les personnages armés d'une épée à une main, à deux mains ou d'une arme d'hast.",
+        "ID": "Meningkatkan 35% DMG Normal Attack karakter yang menggunakan Sword, Claymore, Polearm.",
+        "IT": "Se chi possiede questo set di manufatti usa una spada, una claymore o una lancia, i DAN inflitti dal suo attacco normale aumentano di un 35%.",
+        "JP": "該当聖遺物セットを装備したキャラが片手剣、両手剣、長柄武器キャラの場合、通常攻撃ダメージ+35%。",
+        "KR": "해당 성유물 세트를 장착한 캐릭터가 한손검, 양손검, 장병기를 사용 시 캐릭터의 일반 공격으로 주는 피해가 35% 증가한다",
+        "PT": "Se o portador deste conjunto de artefato usar uma Espada, Espadão ou Lança, aumenta o Dano de seus Ataques Normais em 35%.",
+        "RU": "Увеличивает урон обычной атаки на 35%, если персонаж использует одноручное, двуручное или древковое оружие.",
+        "TH": "เมื่อตัวละครที่สวมเซ็ตอาร์ติแฟกต์นี้ใช้ดาบ, ดาบใหญ่, หอก ตัวละครจะสร้างความเสียหายจากการโจมตีปกติเพิ่มขึ้น 35%",
+        "TR": "Bu yadigar setini kuşanan karakter bir Kılıç, Çift Elli Kılıç veya Mızrak kullandığında Normal Saldırı Hasarı %35 artar.",
+        "VI": "Khi nhân vật trang bị bộ Thánh Di Vật này dùng kiếm đơn, trọng kiếm, vũ khí cán dài, sát thương tấn công thường nhân vật tạo thành tăng 35%."
+      },
+      "affixId": "2150011"
+    }
+  ]
+}

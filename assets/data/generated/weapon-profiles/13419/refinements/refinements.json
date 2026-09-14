@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "The Wind Unattained",
+    "CHS": "不至之风",
+    "CHT": "不至之風",
+    "DE": "Nicht ankommender Wind",
+    "ES": "Viento inalcanzable",
+    "FR": "Vent de nulle part",
+    "ID": "The Wind Unattained",
+    "IT": "Vento irrealizzato",
+    "JP": "訪れぬ風",
+    "KR": "오지 않는 바람",
+    "PT": "Vento Inalcançável",
+    "RU": "Недошедший ветер",
+    "TH": "The Wind Unattained",
+    "TR": "Rüzgarın Özgürlüğü",
+    "VI": "Ngọn Gió Không Đến"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Within 10s after an Elemental Reaction is triggered, ATK is increased by 12% and Elemental Mastery is increased by 48.",
+        "CHS": "触发元素反应后的10秒内，攻击力提升12%，元素精通提升48点。",
+        "CHT": "觸發元素反應後的10秒內，攻擊力提升12%，元素精通提升48點。",
+        "DE": "Erhöht 10 s lang nach Auslösen einer Elementarreaktion den ANG um 12 % und die Elementarkunde um 48 Punkte.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ aumenta en un 12% y la Maestría Elemental aumenta en 48 pts. durante 10 s.",
+        "FR": "Déclencher une réaction élémentaire augmente pendant 10 s l'ATQ de 12 % et la maîtrise élémentaire de 48 pts.",
+        "ID": "Selama 10 detik setelah Reaksi Elemental terpicu, ATK meningkat 12%, Elemental Mastery meningkat 48 poin.",
+        "IT": "Entro 10 s dall'innesco di una reazione elementale, l'ATT aumenta di un 12% e la maestria elementale di 48.",
+        "JP": "元素反応を起こした後の10秒間、攻撃力+12%、元素熟知+48。",
+        "KR": "원소 반응 발동 후 10초 동안 공격력이 12% 증가하고, 원소 마스터리가 48pt 증가한다",
+        "PT": "Nos 10s depois de desencadear uma Reação Elemental, aumenta o ATQ em 12% e a Proficiência Elemental em 48 pontos.",
+        "RU": "В течение 10 сек. после активации элементальной реакции сила атаки повысится на 12%, мастерство стихий - на 48 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 12% และความชำนาญธาตุจะเพิ่มขึ้น 48 หน่วย",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonraki 10sn boyunca Saldırı %12, Element Ustalığı 48 artar.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng nguyên tố, tấn công tăng 12%, Tinh Thông Nguyên Tố tăng 48 điểm."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Within 10s after an Elemental Reaction is triggered, ATK is increased by 15% and Elemental Mastery is increased by 60.",
+        "CHS": "触发元素反应后的10秒内，攻击力提升15%，元素精通提升60点。",
+        "CHT": "觸發元素反應後的10秒內，攻擊力提升15%，元素精通提升60點。",
+        "DE": "Erhöht 10 s lang nach Auslösen einer Elementarreaktion den ANG um 15 % und die Elementarkunde um 60 Punkte.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ aumenta en un 15% y la Maestría Elemental aumenta en 60 pts. durante 10 s.",
+        "FR": "Déclencher une réaction élémentaire augmente pendant 10 s l'ATQ de 15 % et la maîtrise élémentaire de 60 pts.",
+        "ID": "Selama 10 detik setelah Reaksi Elemental terpicu, ATK meningkat 15%, Elemental Mastery meningkat 60 poin.",
+        "IT": "Entro 10 s dall'innesco di una reazione elementale, l'ATT aumenta di un 15% e la maestria elementale di 60.",
+        "JP": "元素反応を起こした後の10秒間、攻撃力+15%、元素熟知+60。",
+        "KR": "원소 반응 발동 후 10초 동안 공격력이 15% 증가하고, 원소 마스터리가 60pt 증가한다",
+        "PT": "Nos 10s depois de desencadear uma Reação Elemental, aumenta o ATQ em 15% e a Proficiência Elemental em 60 pontos.",
+        "RU": "В течение 10 сек. после активации элементальной реакции сила атаки повысится на 15%, мастерство стихий - на 60 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 15% และความชำนาญธาตุจะเพิ่มขึ้น 60 หน่วย",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonraki 10sn boyunca Saldırı %15, Element Ustalığı 60 artar.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng nguyên tố, tấn công tăng 15%, Tinh Thông Nguyên Tố tăng 60 điểm."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Within 10s after an Elemental Reaction is triggered, ATK is increased by 18% and Elemental Mastery is increased by 72.",
+        "CHS": "触发元素反应后的10秒内，攻击力提升18%，元素精通提升72点。",
+        "CHT": "觸發元素反應後的10秒內，攻擊力提升18%，元素精通提升72點。",
+        "DE": "Erhöht 10 s lang nach Auslösen einer Elementarreaktion den ANG um 18 % und die Elementarkunde um 72 Punkte.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ aumenta en un 18% y la Maestría Elemental aumenta en 72 pts. durante 10 s.",
+        "FR": "Déclencher une réaction élémentaire augmente pendant 10 s l'ATQ de 18 % et la maîtrise élémentaire de 72 pts.",
+        "ID": "Selama 10 detik setelah Reaksi Elemental terpicu, ATK meningkat 18%, Elemental Mastery meningkat 72 poin.",
+        "IT": "Entro 10 s dall'innesco di una reazione elementale, l'ATT aumenta di un 18% e la maestria elementale di 72.",
+        "JP": "元素反応を起こした後の10秒間、攻撃力+18%、元素熟知+72。",
+        "KR": "원소 반응 발동 후 10초 동안 공격력이 18% 증가하고, 원소 마스터리가 72pt 증가한다",
+        "PT": "Nos 10s depois de desencadear uma Reação Elemental, aumenta o ATQ em 18% e a Proficiência Elemental em 72 pontos.",
+        "RU": "В течение 10 сек. после активации элементальной реакции сила атаки повысится на 18%, мастерство стихий - на 72 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 18% และความชำนาญธาตุจะเพิ่มขึ้น 72 หน่วย",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonraki 10sn boyunca Saldırı %18, Element Ustalığı 72 artar.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng nguyên tố, tấn công tăng 18%, Tinh Thông Nguyên Tố tăng 72 điểm."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Within 10s after an Elemental Reaction is triggered, ATK is increased by 21% and Elemental Mastery is increased by 84.",
+        "CHS": "触发元素反应后的10秒内，攻击力提升21%，元素精通提升84点。",
+        "CHT": "觸發元素反應後的10秒內，攻擊力提升21%，元素精通提升84點。",
+        "DE": "Erhöht 10 s lang nach Auslösen einer Elementarreaktion den ANG um 21 % und die Elementarkunde um 84 Punkte.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ aumenta en un 21% y la Maestría Elemental aumenta en 84 pts. durante 10 s.",
+        "FR": "Déclencher une réaction élémentaire augmente pendant 10 s l'ATQ de 21 % et la maîtrise élémentaire de 84 pts.",
+        "ID": "Selama 10 detik setelah Reaksi Elemental terpicu, ATK meningkat 21%, Elemental Mastery meningkat 84 poin.",
+        "IT": "Entro 10 s dall'innesco di una reazione elementale, l'ATT aumenta di un 21% e la maestria elementale di 84.",
+        "JP": "元素反応を起こした後の10秒間、攻撃力+21%、元素熟知+84。",
+        "KR": "원소 반응 발동 후 10초 동안 공격력이 21% 증가하고, 원소 마스터리가 84pt 증가한다",
+        "PT": "Nos 10s depois de desencadear uma Reação Elemental, aumenta o ATQ em 21% e a Proficiência Elemental em 84 pontos.",
+        "RU": "В течение 10 сек. после активации элементальной реакции сила атаки повысится на 21%, мастерство стихий - на 84 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 21% และความชำนาญธาตุจะเพิ่มขึ้น 84 หน่วย",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonraki 10sn boyunca Saldırı %21, Element Ustalığı 84 artar.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng nguyên tố, tấn công tăng 21%, Tinh Thông Nguyên Tố tăng 84 điểm."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Within 10s after an Elemental Reaction is triggered, ATK is increased by 24% and Elemental Mastery is increased by 96.",
+        "CHS": "触发元素反应后的10秒内，攻击力提升24%，元素精通提升96点。",
+        "CHT": "觸發元素反應後的10秒內，攻擊力提升24%，元素精通提升96點。",
+        "DE": "Erhöht 10 s lang nach Auslösen einer Elementarreaktion den ANG um 24 % und die Elementarkunde um 96 Punkte.",
+        "ES": "#Tras causar una Reacción Elemental, el ATQ aumenta en un 24% y la Maestría Elemental aumenta en 96 pts. durante 10 s.",
+        "FR": "Déclencher une réaction élémentaire augmente pendant 10 s l'ATQ de 24 % et la maîtrise élémentaire de 96 pts.",
+        "ID": "Selama 10 detik setelah Reaksi Elemental terpicu, ATK meningkat 24%, Elemental Mastery meningkat 96 poin.",
+        "IT": "Entro 10 s dall'innesco di una reazione elementale, l'ATT aumenta di un 24% e la maestria elementale di 96.",
+        "JP": "元素反応を起こした後の10秒間、攻撃力+24%、元素熟知+96。",
+        "KR": "원소 반응 발동 후 10초 동안 공격력이 24% 증가하고, 원소 마스터리가 96pt 증가한다",
+        "PT": "Nos 10s depois de desencadear uma Reação Elemental, aumenta o ATQ em 24% e a Proficiência Elemental em 96 pontos.",
+        "RU": "В течение 10 сек. после активации элементальной реакции сила атаки повысится на 24%, мастерство стихий - на 96 ед.",
+        "TH": "ภายใน 10 วินาที หลังจากทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 24% และความชำนาญธาตุจะเพิ่มขึ้น 96 หน่วย",
+        "TR": "Bir Element Tepkimesi tetiklendikten sonraki 10sn boyunca Saldırı %24, Element Ustalığı 96 artar.",
+        "VI": "Trong 10s sau khi kích hoạt phản ứng nguyên tố, tấn công tăng 24%, Tinh Thông Nguyên Tố tăng 96 điểm."
+      }
+    }
+  ]
+}

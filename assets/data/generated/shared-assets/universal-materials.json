@@ -1,0 +1,78 @@
+{
+  "104001": {
+    "name": {
+      "EN": "Wanderer's Advice",
+      "CHS": "流浪者的经验",
+      "CHT": "流浪者的經驗",
+      "DE": "Eines Streuners Gedanken",
+      "ES": "Consejo del errante",
+      "FR": "Astuces du voyageur",
+      "ID": "Wanderer's Advice",
+      "IT": "Consiglio del vagabondo",
+      "JP": "流浪者の経験",
+      "KR": "방랑자의 경험",
+      "PT": "Conselho do Andarilho",
+      "RU": "Опыт странника",
+      "TH": "Wanderer's Advice",
+      "TR": "Gezginin Tavsiyesi",
+      "VI": "Kinh Nghiệm Kẻ Lang Thang"
+    }
+  },
+  "104002": {
+    "name": {
+      "EN": "Adventurer's Experience",
+      "CHS": "冒险家的经验",
+      "CHT": "冒險家的經驗",
+      "DE": "Eines Abenteurers Worte",
+      "ES": "Experiencia del aventurero",
+      "FR": "Conseils de l'aventurier",
+      "ID": "Adventurer's Experience",
+      "IT": "Esperienza dell'avventuriere",
+      "JP": "冒険家の経験",
+      "KR": "모험가의 경험",
+      "PT": "EXP do Aventureiro",
+      "RU": "Опыт искателя приключений",
+      "TH": "Adventurer's Experience",
+      "TR": "Maceracının Tecrübesi",
+      "VI": "EXP Nhà Mạo Hiểm"
+    }
+  },
+  "104003": {
+    "name": {
+      "EN": "Hero's Wit",
+      "CHS": "大英雄的经验",
+      "CHT": "大英雄的經驗",
+      "DE": "Eines Helden Weisheit",
+      "ES": "Ingenio del héroe",
+      "FR": "Leçons du héros",
+      "ID": "Hero's Wit",
+      "IT": "Ingegno dell'eroe",
+      "JP": "大英雄の経験",
+      "KR": "영웅의 경험",
+      "PT": "EXP do Herói",
+      "RU": "Опыт героя",
+      "TH": "Hero's Wit",
+      "TR": "Kahramanın Bilgeliği",
+      "VI": "Kinh Nghiệm Anh Hùng"
+    }
+  },
+  "104013": {
+    "name": {
+      "EN": "Mystic Enhancement Ore",
+      "CHS": "精锻用魔矿",
+      "CHT": "精鍛用魔礦",
+      "DE": "Mystisches Verstärkungserz",
+      "ES": "Mineral de refinamiento místico",
+      "FR": "Minerai de renforcement mystique",
+      "ID": "Mystic Enhancement Ore",
+      "IT": "Minerale di potenziamento mistico",
+      "JP": "仕上げ用魔鉱",
+      "KR": "정제용 마법 광물",
+      "PT": "Minério de Refinamento Místico",
+      "RU": "Волшебная руда усиления",
+      "TH": "Mystic Enhancement Ore",
+      "TR": "Mistik Geliştirme Cevheri",
+      "VI": "Ma Khoáng Tinh Đúc"
+    }
+  }
+}

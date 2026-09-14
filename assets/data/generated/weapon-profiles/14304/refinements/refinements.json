@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Rapids",
+    "CHS": "激流",
+    "CHT": "激流",
+    "DE": "Stromschnelle",
+    "ES": "Rápidos",
+    "FR": "Torrent",
+    "ID": "Rapids",
+    "IT": "Rapide",
+    "JP": "激流",
+    "KR": "급류",
+    "PT": "Corrente Torrencial",
+    "RU": "Воронка",
+    "TH": "Rapids",
+    "TR": "Akıntılar",
+    "VI": "Kích Lưu"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom, or a Hydro-infused Swirl reaction, ATK is increased by 20% for 12s.",
+        "CHS": "触发蒸发、感电、冰冻、绽放、月感电、月绽放或水元素扩散后的12秒内，攻击力提高20%。",
+        "CHT": "觸發蒸發、感電、冰凍、綻放、月感電、月綻放或水元素擴散後的12秒內，攻擊力提高20%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“, „Mondspross“ und „Hydro-Verwirbelung“ 12 s lang um 20 %.",
+        "ES": "#Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento, Electrocargado Lunar, Florecimiento Lunar o Torbellino Hydro, el ATQ aumenta en un 20% durante 12 s.",
+        "FR": "Augmente l'ATQ de 20 % pendant 12 s après avoir déclenché une réaction d'Évaporation, d'Électrocution, de Sélénocution, de Gel, de Fleurissement, de Sélénofleurissement ou de Dispersion Hydro.",
+        "ID": "Saat memicu reaksi Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom atau Hydro Swirl, ATK +20% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare, Fioritura lunare o Turbinio di Hydro, l'ATT aumenta di un 20% per 12 s.",
+        "JP": "蒸発、感電、凍結、開花、月感電、月開花、または水元素拡散反応を起こした後12秒間、攻撃力+20%。",
+        "KR": "증발, 감전, 빙결, 개화, 달 감전 달 개화 또는 물 원소 확산 반응 발동 후 12초 동안 공격력이 20% 증가한다",
+        "PT": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar, Florescimento Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 20% por 12s.",
+        "RU": "Увеличивает силу атаки на 20% на 12 сек. после активации реакций Пар, Заряжен, Заморозка, Бутонизация, Лунный заряд, Лунная бутонизация или Гидро рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย, ชาร์จจันทรา, งอกเงยจันทรา หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น 20% เป็นเวลา 12 วินาที",
+        "TR": "Bir Buharlaşma, Elektrik Yüklü, Donma, Çiçeklenme, Ay Yüklü, Ay Çiçeklenmesi veya Su Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %20 artar.",
+        "VI": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm, Nguyệt-Sum Suê hoặc Khuếch Tán Nguyên Tố Thủy, Tấn Công tăng 20%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom, or a Hydro-infused Swirl reaction, ATK is increased by 25% for 12s.",
+        "CHS": "触发蒸发、感电、冰冻、绽放、月感电、月绽放或水元素扩散后的12秒内，攻击力提高25%。",
+        "CHT": "觸發蒸發、感電、冰凍、綻放、月感電、月綻放或水元素擴散後的12秒內，攻擊力提高25%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“, „Mondspross“ und „Hydro-Verwirbelung“ 12 s lang um 25 %.",
+        "ES": "#Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento, Electrocargado Lunar, Florecimiento Lunar o Torbellino Hydro, el ATQ aumenta en un 25% durante 12 s.",
+        "FR": "Augmente l'ATQ de 25 % pendant 12 s après avoir déclenché une réaction d'Évaporation, d'Électrocution, de Sélénocution, de Gel, de Fleurissement, de Sélénofleurissement ou de Dispersion Hydro.",
+        "ID": "Saat memicu reaksi Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom atau Hydro Swirl, ATK +25% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare, Fioritura lunare o Turbinio di Hydro, l'ATT aumenta di un 25% per 12 s.",
+        "JP": "蒸発、感電、凍結、開花、月感電、月開花、または水元素拡散反応を起こした後12秒間、攻撃力+25%。",
+        "KR": "증발, 감전, 빙결, 개화, 달 감전 달 개화 또는 물 원소 확산 반응 발동 후 12초 동안 공격력이 25% 증가한다",
+        "PT": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar, Florescimento Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 25% por 12s.",
+        "RU": "Увеличивает силу атаки на 25% на 12 сек. после активации реакций Пар, Заряжен, Заморозка, Бутонизация, Лунный заряд, Лунная бутонизация или Гидро рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย, ชาร์จจันทรา, งอกเงยจันทรา หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น 25% เป็นเวลา 12 วินาที",
+        "TR": "Bir Buharlaşma, Elektrik Yüklü, Donma, Çiçeklenme, Ay Yüklü, Ay Çiçeklenmesi veya Su Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %25 artar.",
+        "VI": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm, Nguyệt-Sum Suê hoặc Khuếch Tán Nguyên Tố Thủy, Tấn Công tăng 25%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom, or a Hydro-infused Swirl reaction, ATK is increased by 30% for 12s.",
+        "CHS": "触发蒸发、感电、冰冻、绽放、月感电、月绽放或水元素扩散后的12秒内，攻击力提高30%。",
+        "CHT": "觸發蒸發、感電、冰凍、綻放、月感電、月綻放或水元素擴散後的12秒內，攻擊力提高30%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“, „Mondspross“ und „Hydro-Verwirbelung“ 12 s lang um 30 %.",
+        "ES": "#Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento, Electrocargado Lunar, Florecimiento Lunar o Torbellino Hydro, el ATQ aumenta en un 30% durante 12 s.",
+        "FR": "Augmente l'ATQ de 30 % pendant 12 s après avoir déclenché une réaction d'Évaporation, d'Électrocution, de Sélénocution, de Gel, de Fleurissement, de Sélénofleurissement ou de Dispersion Hydro.",
+        "ID": "Saat memicu reaksi Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom atau Hydro Swirl, ATK +30% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare, Fioritura lunare o Turbinio di Hydro, l'ATT aumenta di un 30% per 12 s.",
+        "JP": "蒸発、感電、凍結、開花、月感電、月開花、または水元素拡散反応を起こした後12秒間、攻撃力+30%。",
+        "KR": "증발, 감전, 빙결, 개화, 달 감전 달 개화 또는 물 원소 확산 반응 발동 후 12초 동안 공격력이 30% 증가한다",
+        "PT": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar, Florescimento Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 30% por 12s.",
+        "RU": "Увеличивает силу атаки на 30% на 12 сек. после активации реакций Пар, Заряжен, Заморозка, Бутонизация, Лунный заряд, Лунная бутонизация или Гидро рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย, ชาร์จจันทรา, งอกเงยจันทรา หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น 30% เป็นเวลา 12 วินาที",
+        "TR": "Bir Buharlaşma, Elektrik Yüklü, Donma, Çiçeklenme, Ay Yüklü, Ay Çiçeklenmesi veya Su Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %30 artar.",
+        "VI": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm, Nguyệt-Sum Suê hoặc Khuếch Tán Nguyên Tố Thủy, Tấn Công tăng 30%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom, or a Hydro-infused Swirl reaction, ATK is increased by 35% for 12s.",
+        "CHS": "触发蒸发、感电、冰冻、绽放、月感电、月绽放或水元素扩散后的12秒内，攻击力提高35%。",
+        "CHT": "觸發蒸發、感電、冰凍、綻放、月感電、月綻放或水元素擴散後的12秒內，攻擊力提高35%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“, „Mondspross“ und „Hydro-Verwirbelung“ 12 s lang um 35 %.",
+        "ES": "#Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento, Electrocargado Lunar, Florecimiento Lunar o Torbellino Hydro, el ATQ aumenta en un 35% durante 12 s.",
+        "FR": "Augmente l'ATQ de 35 % pendant 12 s après avoir déclenché une réaction d'Évaporation, d'Électrocution, de Sélénocution, de Gel, de Fleurissement, de Sélénofleurissement ou de Dispersion Hydro.",
+        "ID": "Saat memicu reaksi Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom atau Hydro Swirl, ATK +35% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare, Fioritura lunare o Turbinio di Hydro, l'ATT aumenta di un 35% per 12 s.",
+        "JP": "蒸発、感電、凍結、開花、月感電、月開花、または水元素拡散反応を起こした後12秒間、攻撃力+35%。",
+        "KR": "증발, 감전, 빙결, 개화, 달 감전 달 개화 또는 물 원소 확산 반응 발동 후 12초 동안 공격력이 35% 증가한다",
+        "PT": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar, Florescimento Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 35% por 12s.",
+        "RU": "Увеличивает силу атаки на 35% на 12 сек. после активации реакций Пар, Заряжен, Заморозка, Бутонизация, Лунный заряд, Лунная бутонизация или Гидро рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย, ชาร์จจันทรา, งอกเงยจันทรา หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น 35% เป็นเวลา 12 วินาที",
+        "TR": "Bir Buharlaşma, Elektrik Yüklü, Donma, Çiçeklenme, Ay Yüklü, Ay Çiçeklenmesi veya Su Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %35 artar.",
+        "VI": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm, Nguyệt-Sum Suê hoặc Khuếch Tán Nguyên Tố Thủy, Tấn Công tăng 35%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom, or a Hydro-infused Swirl reaction, ATK is increased by 40% for 12s.",
+        "CHS": "触发蒸发、感电、冰冻、绽放、月感电、月绽放或水元素扩散后的12秒内，攻击力提高40%。",
+        "CHT": "觸發蒸發、感電、冰凍、綻放、月感電、月綻放或水元素擴散後的12秒內，攻擊力提高40%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“, „Mondspross“ und „Hydro-Verwirbelung“ 12 s lang um 40 %.",
+        "ES": "#Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento, Electrocargado Lunar, Florecimiento Lunar o Torbellino Hydro, el ATQ aumenta en un 40% durante 12 s.",
+        "FR": "Augmente l'ATQ de 40 % pendant 12 s après avoir déclenché une réaction d'Évaporation, d'Électrocution, de Sélénocution, de Gel, de Fleurissement, de Sélénofleurissement ou de Dispersion Hydro.",
+        "ID": "Saat memicu reaksi Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, Lunar-Bloom atau Hydro Swirl, ATK +40% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare, Fioritura lunare o Turbinio di Hydro, l'ATT aumenta di un 40% per 12 s.",
+        "JP": "蒸発、感電、凍結、開花、月感電、月開花、または水元素拡散反応を起こした後12秒間、攻撃力+40%。",
+        "KR": "증발, 감전, 빙결, 개화, 달 감전 달 개화 또는 물 원소 확산 반응 발동 후 12초 동안 공격력이 40% 증가한다",
+        "PT": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar, Florescimento Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 40% por 12s.",
+        "RU": "Увеличивает силу атаки на 40% на 12 сек. после активации реакций Пар, Заряжен, Заморозка, Бутонизация, Лунный заряд, Лунная бутонизация или Гидро рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย, ชาร์จจันทรา, งอกเงยจันทรา หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น 40% เป็นเวลา 12 วินาที",
+        "TR": "Bir Buharlaşma, Elektrik Yüklü, Donma, Çiçeklenme, Ay Yüklü, Ay Çiçeklenmesi veya Su Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %40 artar.",
+        "VI": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm, Nguyệt-Sum Suê hoặc Khuếch Tán Nguyên Tố Thủy, Tấn Công tăng 40%."
+      }
+    }
+  ]
+}

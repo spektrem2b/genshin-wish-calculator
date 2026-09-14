@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Oppidan Ambush",
+    "CHS": "街巷伏击",
+    "CHT": "街巷伏擊",
+    "DE": "Angriff aus der Gasse",
+    "ES": "Emboscada",
+    "FR": "Embuscade de rue",
+    "ID": "Oppidan Ambush",
+    "IT": "Imboscata urbana",
+    "JP": "路地奇襲",
+    "KR": "골목의 매복자",
+    "PT": "Emboscada nos Becos",
+    "RU": "Уличная засада",
+    "TH": "Oppidan Ambush",
+    "TR": "Sokak Saldırısı",
+    "VI": "Phục Kích Ngõ Hẹp"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 2% every second up to a max of 20%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 4% per second until it reaches 0%.",
+        "CHS": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升2%，最多通过这种方式获得20%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失4%，直到降低至0%。",
+        "CHT": "裝備該武器的角色處於隊伍後臺時，每1秒角色造成的傷害提升2%，最多可透過這種方式獲得20%的傷害提升；在場上超過4秒後，上述傷害提升效果每1秒會流失4%，直到降低至0%。",
+        "DE": "Erhöht den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden, wenn diese Figur in der Truppe, aber nicht eingewechselt ist, pro s um 2 % und insgesamt um bis zu 20 %. Verringert diesen Schadensbonus 4 s nach Einwechseln dieser Figur pro s um 4 %, bis der Bonus auf 0 % gefallen ist.",
+        "ES": "Cuando el personaje que lleva esta arma equipada está en tu equipo pero no en uso, el daño de dicho personaje aumenta en un 2% cada 1 s. Como máximo, solo se puede obtener un aumento del 20% de daño de esta manera. 4 s después de que dicho personaje esté en uso, el aumento de daño irá reduciéndose en un 4% cada 1 s hasta llegar al 0%.",
+        "FR": "Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, ses DGT augmentent de 2 % toutes les secondes, jusqu'à 20 % maximum. 4 s après le déploiement du personnage, l'effet diminue de 4 % toutes les secondes, jusqu'à atteindre 0 %.",
+        "ID": "Saat Karakter yang menggunakan senjata ini ada dalam party tapi tidak berada di medan pertempuran, DMG Karakter tersebut akan meningkat 2% setiap detik, hingga maksimal 20%. Saat Karakter tersebut memasuki medan pertempuran selama lebih dari 4 detik, peningkatan DMG akan berkurang 4% setiap detik, sampai kembali ke 0%.",
+        "IT": "#Quando il personaggio equipaggiato con quest'arma è nel gruppo ma non sul campo, i suoi DAN aumentano di un 2% ogni secondo fino a un 20% max. Quando il personaggio è sul campo per oltre 4 s, l'aumento dei DAN si riduce di un 4% al secondo fino ad azzerarsi.",
+        "JP": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+2%。この方法で獲得できるダメージアップ効果は20%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に4%ダウンする。",
+        "KR": "해당 무기를 장착한 캐릭터가 대기 상태일 때, 캐릭터가 주는 피해가 1초에 2%씩 증가한다. 이 효과로 최대 20%까지 피해를 증가시킬 수 있다. 캐릭터가 필드에 4초 이상 머무를 시, 피해 증가 효과는 1초마다 4%씩 감소하여, 0%까지 떨어진다",
+        "PT": "Quando o personagem com essa arma equipada estiver na equipe mas não no campo da batalha, o Dano causado por personagem será aumentado em 2% a cada 1s, a quantidade máxima do aumento do Dano desta maneira é de 20%. Depois de 4s de ficar no campo, o efeito de aumento do Dano será reduzido em 4% a cada 1s até que seja reduzido para 0%.",
+        "RU": "Увеличивает урон экипированного этим оружием персонажа, когда тот не на поле боя, на 2% в сек. Таким способом макс. количество наносимого урона может быть увеличено до 20%. Через 4 сек. после появления персонажа на поле боя бонус повышения урона от данного эффекта начнёт убывать по 4% в сек., пока не опустится до 0%.",
+        "TH": "เมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 2% ในทุก 1 วินาที โดยจะได้รับการเพิ่มความเสียหายด้วยวิธีนี้ได้มากสุดถึง 20%; เมื่อตัวละครเข้าสู่การต่อสู้เกิน 4 วินาที เอฟเฟกต์เพิ่มความเสียหายข้างต้นจะลดลง 4% ในทุก 1 วินาที ไปจนกว่าจะถึง 0%",
+        "TR": "Bu silahı kuşanan karakter savaş alanında değilken, Hasarı her saniye %2 artarak en fazla %20'ye ulaşır. Karakter savaş alanına çıktıktan 4 saniye sonra, kazandığı güçlendirme %0'a ulaşana kadar saniyede %4 azalır.",
+        "VI": "Khi nhân vật trang bị vũ khí này ở trong đội, cứ mỗi giây nhân vật sẽ tăng 2% sát thương tạo thành, tối đa có thể dùng cách này để tăng 20% sát thương; Sau khi ra trận quá 4s, hiệu quả sát thương tăng thêm nêu trên sẽ mất đi 4% sau mỗi giây, cho đến khi giảm xuống còn 0%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 2.5% every second up to a max of 25%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 5% per second until it reaches 0%.",
+        "CHS": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升2.5%，最多通过这种方式获得25%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失5%，直到降低至0%。",
+        "CHT": "裝備該武器的角色處於隊伍後臺時，每1秒角色造成的傷害提升2.5%，最多可透過這種方式獲得25%的傷害提升；在場上超過4秒後，上述傷害提升效果每1秒會流失5%，直到降低至0%。",
+        "DE": "Erhöht den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden, wenn diese Figur in der Truppe, aber nicht eingewechselt ist, pro s um 2,5 % und insgesamt um bis zu 25 %. Verringert diesen Schadensbonus 4 s nach Einwechseln dieser Figur pro s um 5 %, bis der Bonus auf 0 % gefallen ist.",
+        "ES": "Cuando el personaje que lleva esta arma equipada está en tu equipo pero no en uso, el daño de dicho personaje aumenta en un 2.5% cada 1 s. Como máximo, solo se puede obtener un aumento del 25% de daño de esta manera. 4 s después de que dicho personaje esté en uso, el aumento de daño irá reduciéndose en un 5% cada 1 s hasta llegar al 0%.",
+        "FR": "Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, ses DGT augmentent de 2,5 % toutes les secondes, jusqu'à 25 % maximum. 4 s après le déploiement du personnage, l'effet diminue de 5 % toutes les secondes, jusqu'à atteindre 0 %.",
+        "ID": "Saat Karakter yang menggunakan senjata ini ada dalam party tapi tidak berada di medan pertempuran, DMG Karakter tersebut akan meningkat 2,5% setiap detik, hingga maksimal 25%. Saat Karakter tersebut memasuki medan pertempuran selama lebih dari 4 detik, peningkatan DMG akan berkurang 5% setiap detik, sampai kembali ke 0%.",
+        "IT": "#Quando il personaggio equipaggiato con quest'arma è nel gruppo ma non sul campo, i suoi DAN aumentano di un 2,5% ogni secondo fino a un 25% max. Quando il personaggio è sul campo per oltre 4 s, l'aumento dei DAN si riduce di un 5% al secondo fino ad azzerarsi.",
+        "JP": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+2.5%。この方法で獲得できるダメージアップ効果は25%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に5%ダウンする。",
+        "KR": "해당 무기를 장착한 캐릭터가 대기 상태일 때, 캐릭터가 주는 피해가 1초에 2.5%씩 증가한다. 이 효과로 최대 25%까지 피해를 증가시킬 수 있다. 캐릭터가 필드에 4초 이상 머무를 시, 피해 증가 효과는 1초마다 5%씩 감소하여, 0%까지 떨어진다",
+        "PT": "Quando o personagem com essa arma equipada estiver na equipe mas não no campo da batalha, o Dano causado por personagem será aumentado em 2.5% a cada 1s, a quantidade máxima do aumento do Dano desta maneira é de 25%. Depois de 4s de ficar no campo, o efeito de aumento do Dano será reduzido em 5% a cada 1s até que seja reduzido para 0%.",
+        "RU": "Увеличивает урон экипированного этим оружием персонажа, когда тот не на поле боя, на 2,5% в сек. Таким способом макс. количество наносимого урона может быть увеличено до 25%. Через 4 сек. после появления персонажа на поле боя бонус повышения урона от данного эффекта начнёт убывать по 5% в сек., пока не опустится до 0%.",
+        "TH": "เมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 2.5% ในทุก 1 วินาที โดยจะได้รับการเพิ่มความเสียหายด้วยวิธีนี้ได้มากสุดถึง 25%; เมื่อตัวละครเข้าสู่การต่อสู้เกิน 4 วินาที เอฟเฟกต์เพิ่มความเสียหายข้างต้นจะลดลง 5% ในทุก 1 วินาที ไปจนกว่าจะถึง 0%",
+        "TR": "Bu silahı kuşanan karakter savaş alanında değilken, Hasarı her saniye %2,5 artarak en fazla %25'e ulaşır. Karakter savaş alanına çıktıktan 4 saniye sonra, kazandığı güçlendirme %0'a ulaşana kadar saniyede %5 azalır.",
+        "VI": "Khi nhân vật trang bị vũ khí này ở trong đội, cứ mỗi giây nhân vật sẽ tăng 2.5% sát thương tạo thành, tối đa có thể dùng cách này để tăng 25% sát thương; Sau khi ra trận 4s, hiệu quả sát thương tăng thêm nêu trên sẽ mất đi 5% sau mỗi giây, cho đến khi giảm xuống còn 0%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 3% every second up to a max of 30%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 6% per second until it reaches 0%.",
+        "CHS": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升3%，最多通过这种方式获得30%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失6%，直到降低至0%。",
+        "CHT": "裝備該武器的角色處於隊伍後臺時，每1秒角色造成的傷害提升3%，最多可透過這種方式獲得30%的傷害提升；在場上超過4秒後，上述傷害提升效果每1秒會流失6%，直到降低至0%。",
+        "DE": "Erhöht den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden, wenn diese Figur in der Truppe, aber nicht eingewechselt ist, pro s um 3 % und insgesamt um bis zu 30 %. Verringert diesen Schadensbonus 4 s nach Einwechseln dieser Figur pro s um 6 %, bis der Bonus auf 0 % gefallen ist.",
+        "ES": "Cuando el personaje que lleva esta arma equipada está en tu equipo pero no en uso, el daño de dicho personaje aumenta en un 3% cada 1 s. Como máximo, solo se puede obtener un aumento del 30% de daño de esta manera. 4 s después de que dicho personaje esté en uso, el aumento de daño irá reduciéndose en un 6% cada 1 s hasta llegar al 0%.",
+        "FR": "Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, ses DGT augmentent de 3 % toutes les secondes, jusqu'à 30 % maximum. 4 s après le déploiement du personnage, l'effet diminue de 6 % toutes les secondes, jusqu'à atteindre 0 %.",
+        "ID": "Saat Karakter yang menggunakan senjata ini ada dalam party tapi tidak berada di medan pertempuran, DMG Karakter tersebut akan meningkat 3% setiap detik, hingga maksimal 30%. Saat Karakter tersebut memasuki medan pertempuran selama lebih dari 4 detik, peningkatan DMG akan berkurang 6% setiap detik, sampai kembali ke 0%.",
+        "IT": "#Quando il personaggio equipaggiato con quest'arma è nel gruppo ma non sul campo, i suoi DAN aumentano di un 3% ogni secondo fino a un 30% max. Quando il personaggio è sul campo per oltre 4 s, l'aumento dei DAN si riduce di un 6% al secondo fino ad azzerarsi.",
+        "JP": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+3%。この方法で獲得できるダメージアップ効果は30%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に6%ダウンする。",
+        "KR": "해당 무기를 장착한 캐릭터가 대기 상태일 때, 캐릭터가 주는 피해가 1초에 3%씩 증가한다. 이 효과로 최대 30%까지 피해를 증가시킬 수 있다. 캐릭터가 필드에 4초 이상 머무를 시, 피해 증가 효과는 1초마다 6%씩 감소하여, 0%까지 떨어진다",
+        "PT": "Quando o personagem com essa arma equipada estiver na equipe mas não no campo da batalha, o Dano causado por personagem será aumentado em 3% a cada 1s, a quantidade máxima do aumento do Dano desta maneira é de 30%. Depois de 4s de ficar no campo, o efeito de aumento do Dano será reduzido em 6% a cada 1s até que seja reduzido para 0%.",
+        "RU": "Увеличивает урон экипированного этим оружием персонажа, когда тот не на поле боя, на 3% в сек. Таким способом макс. количество наносимого урона может быть увеличено до 30%. Через 4 сек. после появления персонажа на поле боя бонус повышения урона от данного эффекта начнёт убывать по 6% в сек., пока не опустится до 0%.",
+        "TH": "เมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 3% ในทุก 1 วินาที โดยจะได้รับการเพิ่มความเสียหายด้วยวิธีนี้ได้มากสุดถึง 30%; เมื่อตัวละครเข้าสู่การต่อสู้เกิน 4 วินาที เอฟเฟกต์เพิ่มความเสียหายข้างต้นจะลดลง 6% ในทุก 1 วินาที ไปจนกว่าจะถึง 0%",
+        "TR": "Bu silahı kuşanan karakter savaş alanında değilken, Hasarı her saniye %3 artarak en fazla %30'a ulaşır. Karakter savaş alanına çıktıktan 4 saniye sonra, kazandığı güçlendirme %0'a ulaşana kadar saniyede %6 azalır.",
+        "VI": "Khi nhân vật trang bị vũ khí này ở trong đội, cứ mỗi giây nhân vật sẽ tăng 3% sát thương tạo thành, tối đa có thể dùng cách này để tăng 30% sát thương; Sau khi ra trận 4s, hiệu quả sát thương tăng thêm nêu trên sẽ mất đi 6% sau mỗi giây, cho đến khi giảm xuống còn 0%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 3.5% every second up to a max of 35%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 7% per second until it reaches 0%.",
+        "CHS": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升3.5%，最多通过这种方式获得35%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失7%，直到降低至0%。",
+        "CHT": "裝備該武器的角色處於隊伍後臺時，每1秒角色造成的傷害提升3.5%，最多可透過這種方式獲得35%的傷害提升；在場上超過4秒後，上述傷害提升效果每1秒會流失7%，直到降低至0%。",
+        "DE": "Erhöht den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden, wenn diese Figur in der Truppe, aber nicht eingewechselt ist, pro s um 3,5 % und insgesamt um bis zu 35 %. Verringert diesen Schadensbonus 4 s nach Einwechseln dieser Figur pro s um 7 %, bis der Bonus auf 0 % gefallen ist.",
+        "ES": "Cuando el personaje que lleva esta arma equipada está en tu equipo pero no en uso, el daño de dicho personaje aumenta en un 3.5% cada 1 s. Como máximo, solo se puede obtener un aumento del 35% de daño de esta manera. 4 s después de que dicho personaje esté en uso, el aumento de daño irá reduciéndose en un 7% cada 1 s hasta llegar al 0%.",
+        "FR": "Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, ses DGT augmentent de 3,5 % toutes les secondes, jusqu'à 35 % maximum. 4 s après le déploiement du personnage, l'effet diminue de 7 % toutes les secondes, jusqu'à atteindre 0 %.",
+        "ID": "Saat Karakter yang menggunakan senjata ini ada dalam party tapi tidak berada di medan pertempuran, DMG Karakter tersebut akan meningkat 3,5% setiap detik, hingga maksimal 35%. Saat Karakter tersebut memasuki medan pertempuran selama lebih dari 4 detik, peningkatan DMG akan berkurang 7% setiap detik, sampai kembali ke 0%.",
+        "IT": "#Quando il personaggio equipaggiato con quest'arma è nel gruppo ma non sul campo, i suoi DAN aumentano di un 3,5% ogni secondo fino a un 35% max. Quando il personaggio è sul campo per oltre 4 s, l'aumento dei DAN si riduce di un 7% al secondo fino ad azzerarsi.",
+        "JP": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+3.5%。この方法で獲得できるダメージアップ効果は35%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に7%ダウンする。",
+        "KR": "해당 무기를 장착한 캐릭터가 대기 상태일 때, 캐릭터가 주는 피해가 1초에 3.5%씩 증가한다. 이 효과로 최대 35%까지 피해를 증가시킬 수 있다. 캐릭터가 필드에 4초 이상 머무를 시, 피해 증가 효과는 1초마다 7%씩 감소하여, 0%까지 떨어진다",
+        "PT": "Quando o personagem com essa arma equipada estiver na equipe mas não no campo da batalha, o Dano causado por personagem será aumentado em 3.5% a cada 1s, a quantidade máxima do aumento do Dano desta maneira é de 35%. Depois de 4s de ficar no campo, o efeito de aumento do Dano será reduzido em 7% a cada 1s até que seja reduzido para 0%.",
+        "RU": "Увеличивает урон экипированного этим оружием персонажа, когда тот не на поле боя, на 3,5% в сек. Таким способом макс. количество наносимого урона может быть увеличено до 35%. Через 4 сек. после появления персонажа на поле боя бонус повышения урона от данного эффекта начнёт убывать по 7% в сек., пока не опустится до 0%.",
+        "TH": "เมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 3.5% ในทุก 1 วินาที โดยจะได้รับการเพิ่มความเสียหายด้วยวิธีนี้ได้มากสุดถึง 35%; เมื่อตัวละครเข้าสู่การต่อสู้เกิน 4 วินาที เอฟเฟกต์เพิ่มความเสียหายข้างต้นจะลดลง 7% ในทุก 1 วินาที ไปจนกว่าจะถึง 0%",
+        "TR": "Bu silahı kuşanan karakter savaş alanında değilken, Hasarı her saniye %3,5 artarak en fazla %35'e ulaşır. Karakter savaş alanına çıktıktan 4 saniye sonra, kazandığı güçlendirme %0'a ulaşana kadar saniyede %7 azalır.",
+        "VI": "Khi nhân vật trang bị vũ khí này ở trong đội, cứ mỗi giây nhân vật sẽ tăng 3.5% sát thương tạo thành, tối đa có thể dùng cách này để tăng 35% sát thương; Sau khi ra trận 4s, hiệu quả sát thương tăng thêm nêu trên sẽ mất đi 7% sau mỗi giây, cho đến khi giảm xuống còn 0%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 4% every second up to a max of 40%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 8% per second until it reaches 0%.",
+        "CHS": "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升4%，最多通过这种方式获得40%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失8%，直到降低至0%。",
+        "CHT": "裝備該武器的角色處於隊伍後臺時，每1秒角色造成的傷害提升4%，最多可透過這種方式獲得40%的傷害提升；在場上超過4秒後，上述傷害提升效果每1秒會流失8%，直到降低至0%。",
+        "DE": "Erhöht den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden, wenn diese Figur in der Truppe, aber nicht eingewechselt ist, pro s um 4 % und insgesamt um bis zu 40 %. Verringert diesen Schadensbonus 4 s nach Einwechseln dieser Figur pro s um 8 %, bis der Bonus auf 0 % gefallen ist.",
+        "ES": "Cuando el personaje que lleva esta arma equipada está en tu equipo pero no en uso, el daño de dicho personaje aumenta en un 4% cada 1 s. Como máximo, solo se puede obtener un aumento del 40% de daño de esta manera. 4 s después de que dicho personaje esté en uso, el aumento de daño irá reduciéndose en un 8% cada 1 s hasta llegar al 0%.",
+        "FR": "Lorsque le personnage équipé de cette arme fait partie de l'équipe mais n'est pas déployé, ses DGT augmentent de 4 % toutes les secondes, jusqu'à 40 % maximum. 4 s après le déploiement du personnage, l'effet diminue de 8 % toutes les secondes, jusqu'à atteindre 0 %.",
+        "ID": "Saat Karakter yang menggunakan senjata ini ada dalam party tapi tidak berada di medan pertempuran, DMG Karakter tersebut akan meningkat 4% setiap detik, hingga maksimal 40%. Saat Karakter tersebut memasuki medan pertempuran selama lebih dari 4 detik, peningkatan DMG akan berkurang 8% setiap detik, sampai kembali ke 0%.",
+        "IT": "#Quando il personaggio equipaggiato con quest'arma è nel gruppo ma non sul campo, i suoi DAN aumentano di un 4% ogni secondo fino a un 40% max. Quando il personaggio è sul campo per oltre 4 s, l'aumento dei DAN si riduce di un 8% al secondo fino ad azzerarsi.",
+        "JP": "この武器を装備したキャラクターが待機している時、1秒ごとに自身の与えるダメージ+4%。この方法で獲得できるダメージアップ効果は40%まで。4秒以上フィールド上にいると、上記ダメージアップ効果は0%になるまで、1秒毎に8%ダウンする。",
+        "KR": "해당 무기를 장착한 캐릭터가 대기 상태일 때, 캐릭터가 주는 피해가 1초에 4%씩 증가하며, 최대 40%까지 증가할 수 있다. 캐릭터가 필드에 4초 이상 머무를 시, 해당 피해 증가 효과는 1초마다 8%씩 감소하여, 0%까지 떨어진다",
+        "PT": "Quando o personagem com essa arma equipada estiver na equipe mas não no campo da batalha, o Dano causado por personagem será aumentado em 4% a cada 1s, a quantidade máxima do aumento do Dano desta maneira é de 40%. Depois de 4s de ficar no campo, o efeito de aumento do Dano será reduzido em 8% a cada 1s até que seja reduzido para 0%.",
+        "RU": "Увеличивает урон экипированного этим оружием персонажа, когда тот не на поле боя, на 4% в сек. Таким способом макс. количество наносимого урона может быть увеличено до 40%. Через 4 сек. после появления персонажа на поле боя бонус повышения урона от данного эффекта начнёт убывать по 8% в сек., пока не опустится до 0%.",
+        "TH": "เมื่อตัวละครที่ใช้อาวุธนี้อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น 4% ในทุก 1 วินาที โดยจะได้รับการเพิ่มความเสียหายด้วยวิธีนี้ได้มากสุดถึง 40%; เมื่อตัวละครเข้าสู่การต่อสู้เกิน 4 วินาที เอฟเฟกต์เพิ่มความเสียหายข้างต้นจะลดลง 8% ในทุก 1 วินาที ไปจนกว่าจะถึง 0%",
+        "TR": "Bu silahı kuşanan karakter savaş alanında değilken, Hasarı her saniye %4 artarak en fazla %40'a ulaşır. Karakter savaş alanına çıktıktan 4 saniye sonra, kazandığı güçlendirme %0'a ulaşana kadar saniyede %8 azalır.",
+        "VI": "Khi nhân vật trang bị vũ khí này ở trong đội, cứ mỗi giây nhân vật sẽ tăng 4% sát thương tạo thành, tối đa có thể dùng cách này để tăng 40% sát thương; Sau khi ra trận 4s, hiệu quả sát thương tăng thêm nêu trên sẽ mất đi 8% sau mỗi giây, cho đến khi giảm xuống còn 0%."
+      }
+    }
+  ]
+}

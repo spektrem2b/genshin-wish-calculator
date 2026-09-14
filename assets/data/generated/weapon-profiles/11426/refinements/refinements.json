@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Ironbone",
+    "CHS": "铁骨",
+    "CHT": "鐵骨",
+    "DE": "Eisenknochen",
+    "ES": "Tuétano ferroso",
+    "FR": "Os de fer",
+    "ID": "Ironbone",
+    "IT": "Ossa di ferro",
+    "JP": "鉄のような気骨",
+    "KR": "철골",
+    "PT": "Ossos de Aço",
+    "RU": "Железная кость",
+    "TH": "Ironbone",
+    "TR": "Demir Kemik",
+    "VI": "Xương Thép"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Skill CRIT Rate by 8%. Additionally, increases Energy Recharge by 16% for 5s after using an Elemental Skill.",
+        "CHS": "元素战技暴击率提升8%；此外，施放元素战技后的5秒内，元素充能效率提升16%。",
+        "CHT": "元素戰技暴擊率提升8%；此外，施放元素戰技後的5秒內，元素充能效率提升16%。",
+        "DE": "#Erhöht die KT der Elementarfähigkeit um 8 %. Erhöht außerdem die Aufladerate nach dem Auslösen der Elementarfähigkeit 5 s lang um 16 %.",
+        "ES": "#La Prob. CRIT de la Habilidad Elemental aumenta en un 8%. Además, tras usar dicha habilidad, la Recarga de Energía aumenta en un 16% durante 5 s.",
+        "FR": "Le taux CRIT des compétences élémentaires augmente de 8 %. De plus, utiliser une compétence élémentaire augmente la recharge d'énergie de 16 % pendant 5 s.",
+        "ID": "Meningkatkan CRIT Rate Elemental Skill sebesar 8%. Selain itu, Energy Recharge meningkat 16% selama 5 detik setelah melancarkan Elemental Skill.",
+        "IT": "#Aumenta il tasso di CRIT dell'abilità elementale di un 8%. In più, aumenta la ricarica d'energia di un 16% per 5 s dopo l'utilizzo dell'abilità elementale.",
+        "JP": "元素スキルの会心率+8%。また、元素スキルを発動した後の5秒間、元素チャージ効率+16%。",
+        "KR": "원소전투 스킬의 치명타 확률이 8% 증가한다. 또한 원소전투 스킬 발동 후 5초 동안 원소 충전 효율이 16% 증가한다",
+        "PT": "Aumenta a Taxa CRIT da Habilidade Elemental em 8%. Além disso, após utilizar a Habilidade Elemental, aumenta a Recarga de Energia em 16% por 5s.",
+        "RU": "Увеличивает шанс крит. попадания элементального навыка на 8%. Кроме того, после применения элементального навыка восстановление энергии повышается на 16% на 5 сек.",
+        "TH": "อัตราคริของสกิลธาตุเพิ่มขึ้น 8%; นอกจากนี้ ภายใน 5 วินาที หลังใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 16%",
+        "TR": "Element Becerisinin Kritik Oranını %8 artırır. Ek olarak bir Element Becerisi kullanıldıktan sonra 5 saniyeliğine Enerji Yüklemesini %16 artırır.",
+        "VI": "Tỉ lệ bạo kích của Kỹ Năng Nguyên Tố tăng 8%; Ngoài ra, trong 5s sau khi thi triển Kỹ Năng Nguyên Tố, hiệu quả nạp nguyên tố tăng 16%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Skill CRIT Rate by 10%. Additionally, increases Energy Recharge by 20% for 5s after using an Elemental Skill.",
+        "CHS": "元素战技暴击率提升10%；此外，施放元素战技后的5秒内，元素充能效率提升20%。",
+        "CHT": "元素戰技暴擊率提升10%；此外，施放元素戰技後的5秒內，元素充能效率提升20%。",
+        "DE": "#Erhöht die KT der Elementarfähigkeit um 10 %. Erhöht außerdem die Aufladerate nach dem Auslösen der Elementarfähigkeit 5 s lang um 20 %.",
+        "ES": "#La Prob. CRIT de la Habilidad Elemental aumenta en un 10%. Además, tras usar dicha habilidad, la Recarga de Energía aumenta en un 20% durante 5 s.",
+        "FR": "Le taux CRIT des compétences élémentaires augmente de 10 %. De plus, utiliser une compétence élémentaire augmente la recharge d'énergie de 20 % pendant 5 s.",
+        "ID": "Meningkatkan CRIT Rate Elemental Skill sebesar 10%. Selain itu, Energy Recharge meningkat 20% selama 5 detik setelah melancarkan Elemental Skill.",
+        "IT": "#Aumenta il tasso di CRIT dell'abilità elementale di un 10%. In più, aumenta la ricarica d'energia di un 20% per 5 s dopo l'utilizzo dell'abilità elementale.",
+        "JP": "元素スキルの会心率+10%。また、元素スキルを発動した後の5秒間、元素チャージ効率+20%。",
+        "KR": "원소전투 스킬의 치명타 확률이 10% 증가한다. 또한 원소전투 스킬 발동 후 5초 동안 원소 충전 효율이 20% 증가한다",
+        "PT": "Aumenta a Taxa CRIT da Habilidade Elemental em 10%. Além disso, após utilizar a Habilidade Elemental, aumenta a Recarga de Energia em 20% por 5s.",
+        "RU": "Увеличивает шанс крит. попадания элементального навыка на 10%. Кроме того, после применения элементального навыка восстановление энергии повышается на 20% на 5 сек.",
+        "TH": "อัตราคริของสกิลธาตุเพิ่มขึ้น 10%; นอกจากนี้ ภายใน 5 วินาที หลังใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 20%",
+        "TR": "Element Becerisinin Kritik Oranını %10 artırır. Ek olarak bir Element Becerisi kullanıldıktan sonra 5 saniyeliğine Enerji Yüklemesini %20 artırır.",
+        "VI": "Tỉ lệ bạo kích của Kỹ Năng Nguyên Tố tăng 10%; Ngoài ra, trong 5s sau khi thi triển Kỹ Năng Nguyên Tố, hiệu quả nạp nguyên tố tăng 20%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Skill CRIT Rate by 12%. Additionally, increases Energy Recharge by 24% for 5s after using an Elemental Skill.",
+        "CHS": "元素战技暴击率提升12%；此外，施放元素战技后的5秒内，元素充能效率提升24%。",
+        "CHT": "元素戰技暴擊率提升12%；此外，施放元素戰技後的5秒內，元素充能效率提升24%。",
+        "DE": "#Erhöht die KT der Elementarfähigkeit um 12 %. Erhöht außerdem die Aufladerate nach dem Auslösen der Elementarfähigkeit 5 s lang um 24 %.",
+        "ES": "#La Prob. CRIT de la Habilidad Elemental aumenta en un 12%. Además, tras usar dicha habilidad, la Recarga de Energía aumenta en un 24% durante 5 s.",
+        "FR": "Le taux CRIT des compétences élémentaires augmente de 12 %. De plus, utiliser une compétence élémentaire augmente la recharge d'énergie de 24 % pendant 5 s.",
+        "ID": "Meningkatkan CRIT Rate Elemental Skill sebesar 12%. Selain itu, Energy Recharge meningkat 24% selama 5 detik setelah melancarkan Elemental Skill.",
+        "IT": "#Aumenta il tasso di CRIT dell'abilità elementale di un 12%. In più, aumenta la ricarica d'energia di un 24% per 5 s dopo l'utilizzo dell'abilità elementale.",
+        "JP": "元素スキルの会心率+12%。また、元素スキルを発動した後の5秒間、元素チャージ効率+24%。",
+        "KR": "원소전투 스킬의 치명타 확률이 12% 증가한다. 또한 원소전투 스킬 발동 후 5초 동안 원소 충전 효율이 24% 증가한다",
+        "PT": "Aumenta a Taxa CRIT da Habilidade Elemental em 12%. Além disso, após utilizar a Habilidade Elemental, aumenta a Recarga de Energia em 24% por 5s.",
+        "RU": "Увеличивает шанс крит. попадания элементального навыка на 12%. Кроме того, после применения элементального навыка восстановление энергии повышается на 24% на 5 сек.",
+        "TH": "อัตราคริของสกิลธาตุเพิ่มขึ้น 12%; นอกจากนี้ ภายใน 5 วินาที หลังใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 24%",
+        "TR": "Element Becerisinin Kritik Oranını %12 artırır. Ek olarak bir Element Becerisi kullanıldıktan sonra 5 saniyeliğine Enerji Yüklemesini %24 artırır.",
+        "VI": "Tỉ lệ bạo kích của Kỹ Năng Nguyên Tố tăng 12%; Ngoài ra, trong 5s sau khi thi triển Kỹ Năng Nguyên Tố, hiệu quả nạp nguyên tố tăng 24%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Skill CRIT Rate by 14%. Additionally, increases Energy Recharge by 28% for 5s after using an Elemental Skill.",
+        "CHS": "元素战技暴击率提升14%；此外，施放元素战技后的5秒内，元素充能效率提升28%。",
+        "CHT": "元素戰技暴擊率提升14%；此外，施放元素戰技後的5秒內，元素充能效率提升28%。",
+        "DE": "#Erhöht die KT der Elementarfähigkeit um 14 %. Erhöht außerdem die Aufladerate nach dem Auslösen der Elementarfähigkeit 5 s lang um 28 %.",
+        "ES": "#La Prob. CRIT de la Habilidad Elemental aumenta en un 14%. Además, tras usar dicha habilidad, la Recarga de Energía aumenta en un 28% durante 5 s.",
+        "FR": "Le taux CRIT des compétences élémentaires augmente de 14 %. De plus, utiliser une compétence élémentaire augmente la recharge d'énergie de 28 % pendant 5 s.",
+        "ID": "Meningkatkan CRIT Rate Elemental Skill sebesar 14%. Selain itu, Energy Recharge meningkat 28% selama 5 detik setelah melancarkan Elemental Skill.",
+        "IT": "#Aumenta il tasso di CRIT dell'abilità elementale di un 14%. In più, aumenta la ricarica d'energia di un 28% per 5 s dopo l'utilizzo dell'abilità elementale.",
+        "JP": "元素スキルの会心率+14%。また、元素スキルを発動した後の5秒間、元素チャージ効率+28%。",
+        "KR": "원소전투 스킬의 치명타 확률이 14% 증가한다. 또한 원소전투 스킬 발동 후 5초 동안 원소 충전 효율이 28% 증가한다",
+        "PT": "Aumenta a Taxa CRIT da Habilidade Elemental em 14%. Além disso, após utilizar a Habilidade Elemental, aumenta a Recarga de Energia em 28% por 5s.",
+        "RU": "Увеличивает шанс крит. попадания элементального навыка на 14%. Кроме того, после применения элементального навыка восстановление энергии повышается на 28% на 5 сек.",
+        "TH": "อัตราคริของสกิลธาตุเพิ่มขึ้น 14%; นอกจากนี้ ภายใน 5 วินาที หลังใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 28%",
+        "TR": "Element Becerisinin Kritik Oranını %14 artırır. Ek olarak bir Element Becerisi kullanıldıktan sonra 5 saniyeliğine Enerji Yüklemesini %28 artırır.",
+        "VI": "Tỉ lệ bạo kích của Kỹ Năng Nguyên Tố tăng 14%; Ngoài ra, trong 5s sau khi thi triển Kỹ Năng Nguyên Tố, hiệu quả nạp nguyên tố tăng 28%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Skill CRIT Rate by 16%. Additionally, increases Energy Recharge by 32% for 5s after using an Elemental Skill.",
+        "CHS": "元素战技暴击率提升16%；此外，施放元素战技后的5秒内，元素充能效率提升32%。",
+        "CHT": "元素戰技暴擊率提升16%；此外，施放元素戰技後的5秒內，元素充能效率提升32%。",
+        "DE": "#Erhöht die KT der Elementarfähigkeit um 16 %. Erhöht außerdem die Aufladerate nach dem Auslösen der Elementarfähigkeit 5 s lang um 32 %.",
+        "ES": "#La Prob. CRIT de la Habilidad Elemental aumenta en un 16%. Además, tras usar dicha habilidad, la Recarga de Energía aumenta en un 32% durante 5 s.",
+        "FR": "Le taux CRIT des compétences élémentaires augmente de 16 %. De plus, utiliser une compétence élémentaire augmente la recharge d'énergie de 32 % pendant 5 s.",
+        "ID": "Meningkatkan CRIT Rate Elemental Skill sebesar 16%. Selain itu, Energy Recharge meningkat 32% selama 5 detik setelah melancarkan Elemental Skill.",
+        "IT": "#Aumenta il tasso di CRIT dell'abilità elementale di un 16%. In più, aumenta la ricarica d'energia di un 32% per 5 s dopo l'utilizzo dell'abilità elementale.",
+        "JP": "元素スキルの会心率+16%。また、元素スキルを発動した後の5秒間、元素チャージ効率+32%。",
+        "KR": "원소전투 스킬의 치명타 확률이 16% 증가한다. 또한 원소전투 스킬 발동 후 5초 동안 원소 충전 효율이 32% 증가한다",
+        "PT": "Aumenta a Taxa CRIT da Habilidade Elemental em 16%. Além disso, após utilizar a Habilidade Elemental, aumenta a Recarga de Energia em 32% por 5s.",
+        "RU": "Увеличивает шанс крит. попадания элементального навыка на 16%. Кроме того, после применения элементального навыка восстановление энергии повышается на 32% на 5 сек.",
+        "TH": "อัตราคริของสกิลธาตุเพิ่มขึ้น 16%; นอกจากนี้ ภายใน 5 วินาที หลังใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 32%",
+        "TR": "Element Becerisinin Kritik Oranını %16 artırır. Ek olarak bir Element Becerisi kullanıldıktan sonra 5 saniyeliğine Enerji Yüklemesini %32 artırır.",
+        "VI": "Tỉ lệ bạo kích của Kỹ Năng Nguyên Tố tăng 16%; Ngoài ra, trong 5s sau khi thi triển Kỹ Năng Nguyên Tố, hiệu quả nạp nguyên tố tăng 32%."
+      }
+    }
+  ]
+}

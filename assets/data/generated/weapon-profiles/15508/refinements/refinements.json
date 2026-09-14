@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "The Cleansing Form",
+    "CHS": "洗濯诸类之形",
+    "CHT": "洗濯諸類之形",
+    "DE": "Form der Reinigung",
+    "ES": "Purificaformas",
+    "FR": "Forme purifiante",
+    "ID": "The Cleansing Form",
+    "IT": "Forma purificante",
+    "JP": "濯ぎし諸般の形",
+    "KR": "만물 정화의 형상",
+    "PT": "Forma Purificadora",
+    "RU": "Очищающая форма",
+    "TH": "The Cleansing Form",
+    "TR": "Arınma Formu",
+    "VI": "Dạng Gột Rửa"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "HP is increased by 16%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 20%. This will take effect whether the character is on-field or not.",
+        "CHS": "生命值提升16%。周围存在敌人时，装备该武器的角色造成的伤害都会提升20%，不论该角色处于场上或是处于队伍后台。",
+        "CHT": "生命值提升16%。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升20%，不論該角色處於場上或是處於隊伍後台。",
+        "DE": "Erhöht die LP um 16 %. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um 20 %, ganz gleich, ob sie aktiv oder inaktiv ist.",
+        "ES": "Aumenta la Vida en un 16%. Cuando haya algún enemigo cerca, el daño del personaje que lleva esta arma equipada aumenta en un 20%. Este efecto se puede activar cuando dicho personaje está en uso o cuando está en tu equipo pero no en uso.",
+        "FR": "#Les PV sont augmentés de 16 %. Si des ennemis sont proches, les DGT infligés par le personnage équipé de l'arme augmentent de 20 %, qu'il soit déployé ou non.",
+        "ID": "HP meningkat 16%. Saat ada musuh di sekitar, maka DMG yang diakibatkan oleh Karakter pengguna Senjata ini meningkat 20% baik saat Karakter-nya aktif, maupun hanya ada dalam party namun sedang tidak bertempur.",
+        "IT": "I PS aumentano di un 16%. Quando ci sono avversari vicini, i DAN inflitti da chi brandisce quest'arma aumentano di un 20%. Questo effetto si attiva anche se il personaggio non è in campo.",
+        "JP": "HP+16%。周囲に敵がいる時、装備キャラクターの与えるダメージ+20%、この効果はキャラクターが待機状態でも発動する。",
+        "KR": "HP가 16% 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 주는 피해가 20% 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
+        "PT": "Aumenta a Vida em 16%. Se existirem inimigos próximos, o personagem que tem esta arma equipada terá um aumento de Dano de 20%, independentemente do personagem estar ativo no campo de batalha ou não.",
+        "RU": "Увеличивает HP на 16%. Когда рядом есть враги, урон, наносимый персонажем, экипированным этим оружием, увеличивается на 20%. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "พลังชีวิตเพิ่มขึ้น 16% และเมื่อมีศัตรูอยู่ในบริเวณใกล้เคียง ความเสียหายที่ตัวละครที่ใช้อาวุธนี้สร้าง จะเพิ่มขึ้น 20% ไม่ว่าตัวละครนี้จะอยู่ในการต่อสู้ หรืออยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Can %16 artar. Yakında düşman varsa bu silahı kullanan kişinin Hasarı %20 artar. Karakter savaş alanında olmasa bile bu etki uygulanır.",
+        "VI": "HP tăng 16%. Khi xung quanh có kẻ địch, sát thương gây ra của nhân vật trang bị vũ khí này tăng 20%, bất kể nhân vật này có trong trận hay không."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "HP is increased by 20%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 25%. This will take effect whether the character is on-field or not.",
+        "CHS": "生命值提升20%。周围存在敌人时，装备该武器的角色造成的伤害都会提升25%，不论该角色处于场上或是处于队伍后台。",
+        "CHT": "生命值提升20%。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升25%，不論該角色處於場上或是處於隊伍後台。",
+        "DE": "Erhöht die LP um 20 %. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um 25 %, ganz gleich, ob sie aktiv oder inaktiv ist.",
+        "ES": "Aumenta la Vida en un 20%. Cuando haya algún enemigo cerca, el daño del personaje que lleva esta arma equipada aumenta en un 25%. Este efecto se puede activar cuando dicho personaje está en uso o cuando está en tu equipo pero no en uso.",
+        "FR": "#Les PV sont augmentés de 20 %. Si des ennemis sont proches, les DGT infligés par le personnage équipé de l'arme augmentent de 25 %, qu'il soit déployé ou non.",
+        "ID": "HP meningkat 20%. Saat ada musuh di sekitar, maka DMG yang diakibatkan oleh Karakter pengguna Senjata ini meningkat 25% baik saat Karakter-nya aktif, maupun hanya ada dalam party namun sedang tidak bertempur.",
+        "IT": "I PS aumentano di un 20%. Quando ci sono avversari vicini, i DAN inflitti da chi brandisce quest'arma aumentano di un 25%. Questo effetto si attiva anche se il personaggio non è in campo.",
+        "JP": "HP+20%。周囲に敵がいる時、装備キャラクターの与えるダメージ+25%、この効果はキャラクターが待機状態でも発動する。",
+        "KR": "HP가 20% 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 주는 피해가 25% 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
+        "PT": "Aumenta a Vida em 20%. Se existirem inimigos próximos, o personagem que tem esta arma equipada terá um aumento de Dano de 25%, independentemente do personagem estar ativo no campo de batalha ou não.",
+        "RU": "Увеличивает HP на 20%. Когда рядом есть враги, урон, наносимый персонажем, экипированным этим оружием, увеличивается на 25%. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "พลังชีวิตเพิ่มขึ้น 20% และเมื่อมีศัตรูอยู่ในบริเวณใกล้เคียง ความเสียหายที่ตัวละครที่ใช้อาวุธนี้สร้าง จะเพิ่มขึ้น 25% ไม่ว่าตัวละครนี้จะอยู่ในการต่อสู้ หรืออยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Can %20 artar. Yakında düşman varsa bu silahı kullanan kişinin Hasarı %25 artar. Karakter savaş alanında olmasa bile bu etki uygulanır.",
+        "VI": "HP tăng 20%. Khi xung quanh có kẻ địch, sát thương gây ra của nhân vật trang bị vũ khí này tăng 25%, bất kể nhân vật này có trong trận hay không."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "HP is increased by 24%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 30%. This will take effect whether the character is on-field or not.",
+        "CHS": "生命值提升24%。周围存在敌人时，装备该武器的角色造成的伤害都会提升30%，不论该角色处于场上或是处于队伍后台。",
+        "CHT": "生命值提升24%。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升30%，不論該角色處於場上或是處於隊伍後台。",
+        "DE": "Erhöht die LP um 24 %. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um 30 %, ganz gleich, ob sie aktiv oder inaktiv ist.",
+        "ES": "Aumenta la Vida en un 24%. Cuando haya algún enemigo cerca, el daño del personaje que lleva esta arma equipada aumenta en un 30%. Este efecto se puede activar cuando dicho personaje está en uso o cuando está en tu equipo pero no en uso.",
+        "FR": "#Les PV sont augmentés de 24 %. Si des ennemis sont proches, les DGT infligés par le personnage équipé de l'arme augmentent de 30 %, qu'il soit déployé ou non.",
+        "ID": "HP meningkat 24%. Saat ada musuh di sekitar, maka DMG yang diakibatkan oleh Karakter pengguna Senjata ini meningkat 30% baik saat Karakter-nya aktif, maupun hanya ada dalam party namun sedang tidak bertempur.",
+        "IT": "I PS aumentano di un 24%. Quando ci sono avversari vicini, i DAN inflitti da chi brandisce quest'arma aumentano di un 30%. Questo effetto si attiva anche se il personaggio non è in campo.",
+        "JP": "HP+24%。周囲に敵がいる時、装備キャラクターの与えるダメージ+30%、この効果はキャラクターが待機状態でも発動する。",
+        "KR": "HP가 24% 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 주는 피해가 30% 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
+        "PT": "Aumenta a Vida em 24%. Se existirem inimigos próximos, o personagem que tem esta arma equipada terá um aumento de Dano de 30%, independentemente do personagem estar ativo no campo de batalha ou não.",
+        "RU": "Увеличивает HP на 24%. Когда рядом есть враги, урон, наносимый персонажем, экипированным этим оружием, увеличивается на 30%. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "พลังชีวิตเพิ่มขึ้น 24% และเมื่อมีศัตรูอยู่ในบริเวณใกล้เคียง ความเสียหายที่ตัวละครที่ใช้อาวุธนี้สร้าง จะเพิ่มขึ้น 30% ไม่ว่าตัวละครนี้จะอยู่ในการต่อสู้ หรืออยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Can %24 artar. Yakında düşman varsa bu silahı kullanan kişinin Hasarı %30 artar. Karakter savaş alanında olmasa bile bu etki uygulanır.",
+        "VI": "HP tăng 24%. Khi xung quanh có kẻ địch, sát thương gây ra của nhân vật trang bị vũ khí này tăng 30%, bất kể nhân vật này có trong trận hay không."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "HP is increased by 28%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 35%. This will take effect whether the character is on-field or not.",
+        "CHS": "生命值提升28%。周围存在敌人时，装备该武器的角色造成的伤害都会提升35%，不论该角色处于场上或是处于队伍后台。",
+        "CHT": "生命值提升28%。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升35%，不論該角色處於場上或是處於隊伍後台。",
+        "DE": "Erhöht die LP um 28 %. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um 35 %, ganz gleich, ob sie aktiv oder inaktiv ist.",
+        "ES": "Aumenta la Vida en un 28%. Cuando haya algún enemigo cerca, el daño del personaje que lleva esta arma equipada aumenta en un 35%. Este efecto se puede activar cuando dicho personaje está en uso o cuando está en tu equipo pero no en uso.",
+        "FR": "#Les PV sont augmentés de 28 %. Si des ennemis sont proches, les DGT infligés par le personnage équipé de l'arme augmentent de 35 %, qu'il soit déployé ou non.",
+        "ID": "HP meningkat 28%. Saat ada musuh di sekitar, maka DMG yang diakibatkan oleh Karakter pengguna Senjata ini meningkat 35% baik saat Karakter-nya aktif, maupun hanya ada dalam party namun sedang tidak bertempur.",
+        "IT": "I PS aumentano di un 28%. Quando ci sono avversari vicini, i DAN inflitti da chi brandisce quest'arma aumentano di un 35%. Questo effetto si attiva anche se il personaggio non è in campo.",
+        "JP": "HP+28%。周囲に敵がいる時、装備キャラクターの与えるダメージ+35%、この効果はキャラクターが待機状態でも発動する。",
+        "KR": "HP가 28% 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 주는 피해가 35% 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
+        "PT": "Aumenta a Vida em 28%. Se existirem inimigos próximos, o personagem que tem esta arma equipada terá um aumento de Dano de 35%, independentemente do personagem estar ativo no campo de batalha ou não.",
+        "RU": "Увеличивает HP на 28%. Когда рядом есть враги, урон, наносимый персонажем, экипированным этим оружием, увеличивается на 35%. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "พลังชีวิตเพิ่มขึ้น 28% และเมื่อมีศัตรูอยู่ในบริเวณใกล้เคียง ความเสียหายที่ตัวละครที่ใช้อาวุธนี้สร้าง จะเพิ่มขึ้น 35% ไม่ว่าตัวละครนี้จะอยู่ในการต่อสู้ หรืออยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Can %28 artar. Yakında düşman varsa bu silahı kullanan kişinin Hasarı %35 artar. Karakter savaş alanında olmasa bile bu etki uygulanır.",
+        "VI": "HP tăng 28%. Khi xung quanh có kẻ địch, sát thương gây ra của nhân vật trang bị vũ khí này tăng 35%, bất kể nhân vật này có trong trận hay không."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "HP is increased by 32%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 40%. This will take effect whether the character is on-field or not.",
+        "CHS": "生命值提升32%。周围存在敌人时，装备该武器的角色造成的伤害都会提升40%，不论该角色处于场上或是处于队伍后台。",
+        "CHT": "生命值提升32%。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升40%，不論該角色處於場上或是處於隊伍後台。",
+        "DE": "Erhöht die LP um 32 %. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um 40 %, ganz gleich, ob sie aktiv oder inaktiv ist.",
+        "ES": "Aumenta la Vida en un 32%. Cuando haya algún enemigo cerca, el daño del personaje que lleva esta arma equipada aumenta en un 40%. Este efecto se puede activar cuando dicho personaje está en uso o cuando está en tu equipo pero no en uso.",
+        "FR": "#Les PV sont augmentés de 32 %. Si des ennemis sont proches, les DGT infligés par le personnage équipé de l'arme augmentent de 40 %, qu'il soit déployé ou non.",
+        "ID": "HP meningkat 32%. Saat ada musuh di sekitar, maka DMG yang diakibatkan oleh Karakter pengguna Senjata ini meningkat 40% baik saat Karakter-nya aktif, maupun hanya ada dalam party namun sedang tidak bertempur.",
+        "IT": "I PS aumentano di un 32%. Quando ci sono avversari vicini, i DAN inflitti da chi brandisce quest'arma aumentano di un 40%. Questo effetto si attiva anche se il personaggio non è in campo.",
+        "JP": "HP+32%。周囲に敵がいる時、装備キャラクターの与えるダメージ+40%、この効果はキャラクターが待機状態でも発動する。",
+        "KR": "HP가 32% 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 주는 피해가 40% 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
+        "PT": "Aumenta a Vida em 32%. Se existirem inimigos próximos, o personagem que tem esta arma equipada terá um aumento de Dano de 40%, independentemente do personagem estar ativo no campo de batalha ou não.",
+        "RU": "Увеличивает HP на 32%. Когда рядом есть враги, урон, наносимый персонажем, экипированным этим оружием, увеличивается на 40%. Эффект срабатывает, даже когда персонаж не на поле боя.",
+        "TH": "พลังชีวิตเพิ่มขึ้น 32% และเมื่อมีศัตรูอยู่ในบริเวณใกล้เคียง ความเสียหายที่ตัวละครที่ใช้อาวุธนี้สร้าง จะเพิ่มขึ้น 40% ไม่ว่าตัวละครนี้จะอยู่ในการต่อสู้ หรืออยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Can %32 artar. Yakında düşman varsa bu silahı kullanan kişinin Hasarı %40 artar. Karakter savaş alanında olmasa bile bu etki uygulanır.",
+        "VI": "HP tăng 32%. Khi xung quanh có kẻ địch, sát thương gây ra của nhân vật trang bị vũ khí này tăng 40%, bất kể nhân vật này có trong trận hay không."
+      }
+    }
+  ]
+}

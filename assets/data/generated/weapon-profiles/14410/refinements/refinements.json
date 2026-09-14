@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Ever-Changing",
+    "CHS": "变化万端",
+    "CHT": "變化萬端",
+    "DE": "Unaufhörlicher Wandel",
+    "ES": "Versatilidad",
+    "FR": "Versatile",
+    "ID": "Ever-Changing",
+    "IT": "Mutevolezza",
+    "JP": "千変万化",
+    "KR": "변화무쌍",
+    "PT": "Mudança Constante",
+    "RU": "Тысяча форм",
+    "TH": "Ever-Changing",
+    "TR": "Sürekli Değişim",
+    "VI": "Thiên Biến Vạn Hóa"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 14% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 20% for 5s.",
+        "CHS": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低14%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升20%，持续5秒。",
+        "CHT": "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低14%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升20%，持續5秒。",
+        "DE": "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 14 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 20 %.",
+        "ES": "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 14% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 20% durante 5 s.",
+        "FR": "Lorsqu'une attaque normale a touché un ennemi, la consommation d'endurance du sprint ou du sprint alternatif diminue de 14 % pendant 5 s. De plus, après l'utilisation du sprint ou de l'aptitude qui le remplace, l'ATQ augmente de 20 % pendant 5 s.",
+        "ID": "Setelah Normal Attack mengenai musuh, konsumsi Stamina saat Berlari atau Alternate Sprint berkurang 14% selama 5 detik. Lalu, setelah Berlari atau Alternate Sprint, ATK meningkat 20% selama 5 detik.",
+        "IT": "#Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 14% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l'ATT di un 20% per 5 s.",
+        "JP": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-14%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+20%、持続時間5秒。",
+        "KR": "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 14% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 20% 증가한다. 지속 시간: 5초",
+        "PT": "Quando um Ataque Normal atingir um inimigo, o consumo de Stamina ao Correr ou utilizar uma habilidade que substitua Correr reduz em 14% por 5s. Além disso, depois de Correr ou utilizar uma habilidade que substitua Correr aumenta o Ataque em 20% durante 5s.",
+        "RU": "Попадания обычной атакой уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на 14% в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает силу атаки на 20% в течение 5 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู การใช้พลังกายของการวิ่งหรือ Alternate Sprint จะลดลง 14% เป็นเวลา 5 วินาที นอกจากนี้หลังจากที่วิ่งหรือใช้ Alternate Sprint แล้ว พลังโจมตีจะเพิ่มขึ้น 20% เป็นเวลา 5 วินาที",
+        "TR": "Bir düşmana bir Normal Saldırıyla vurmak 5 saniyeliğine Depar veya Alternatif Depar için Dayanıklılık tüketimini %14 azaltır. Ayrıca bir Depar veya Alternatif Depar kullanıldığında 5 saniyeliğine Saldırı %20 artar.",
+        "VI": "Sau khi đánh thường trúng kẻ địch, thể lực tiêu hao của xung kích hoặc kỹ năng thay thế của xung kích giảm 14%, kéo dài 5s. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế của xung kích, tấn công tăng 20%, kéo dài 5s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 16% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 25% for 5s.",
+        "CHS": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低16%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升25%，持续5秒。",
+        "CHT": "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低16%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升25%，持續5秒。",
+        "DE": "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 16 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 25 %.",
+        "ES": "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 16% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 25% durante 5 s.",
+        "FR": "Lorsqu'une attaque normale a touché un ennemi, la consommation d'endurance du sprint ou du sprint alternatif diminue de 16 % pendant 5 s. De plus, après l'utilisation du sprint ou de l'aptitude qui le remplace, l'ATQ augmente de 25 % pendant 5 s.",
+        "ID": "Setelah Normal Attack mengenai musuh, konsumsi Stamina saat Berlari atau Alternate Sprint berkurang 16% selama 5 detik. Lalu, setelah Berlari atau Alternate Sprint, ATK meningkat 25% selama 5 detik.",
+        "IT": "#Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 16% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l'ATT di un 25% per 5 s.",
+        "JP": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-16%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+25%、持続時間5秒。",
+        "KR": "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 16% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 25% 증가한다. 지속 시간: 5초",
+        "PT": "Quando um Ataque Normal atingir um inimigo, o consumo de Stamina ao Correr ou utilizar uma habilidade que substitua Correr reduz em 16% por 5s. Além disso, depois de Correr ou utilizar uma habilidade que substitua Correr aumenta o Ataque em 25% durante 5s.",
+        "RU": "Попадания обычной атакой уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на 16% в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает силу атаки на 25% в течение 5 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู การใช้พลังกายของการวิ่งหรือ Alternate Sprint จะลดลง 16% เป็นเวลา 5 วินาที นอกจากนี้หลังจากที่วิ่งหรือใช้ Alternate Sprint แล้ว พลังโจมตีจะเพิ่มขึ้น 25% เป็นเวลา 5 วินาที",
+        "TR": "Bir düşmana bir Normal Saldırıyla vurmak 5 saniyeliğine Depar veya Alternatif Depar için Dayanıklılık tüketimini %16 azaltır. Ayrıca bir Depar veya Alternatif Depar kullanıldığında 5 saniyeliğine Saldırı %25 artar.",
+        "VI": "Sau khi đánh thường trúng kẻ địch, thể lực tiêu hao của xung kích hoặc kỹ năng thay thế của xung kích giảm 16%, kéo dài 5s. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế của xung kích, tấn công tăng 25%, kéo dài 5s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 18% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 30% for 5s.",
+        "CHS": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低18%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升30%，持续5秒。",
+        "CHT": "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低18%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升30%，持續5秒。",
+        "DE": "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 18 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 30 %.",
+        "ES": "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 18% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 30% durante 5 s.",
+        "FR": "Lorsqu'une attaque normale a touché un ennemi, la consommation d'endurance du sprint ou du sprint alternatif diminue de 18 % pendant 5 s. De plus, après l'utilisation du sprint ou de l'aptitude qui le remplace, l'ATQ augmente de 30 % pendant 5 s.",
+        "ID": "Setelah Normal Attack mengenai musuh, konsumsi Stamina saat Berlari atau Alternate Sprint berkurang 18% selama 5 detik. Lalu, setelah Berlari atau Alternate Sprint, ATK meningkat 30% selama 5 detik.",
+        "IT": "#Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 18% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l'ATT di un 30% per 5 s.",
+        "JP": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-18%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+30%、持続時間5秒。",
+        "KR": "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 18% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 30% 증가한다. 지속 시간: 5초",
+        "PT": "Quando um Ataque Normal atingir um inimigo, o consumo de Stamina ao Correr ou utilizar uma habilidade que substitua Correr reduz em 18% por 5s. Além disso, depois de Correr ou utilizar uma habilidade que substitua Correr aumenta o Ataque em 30% durante 5s.",
+        "RU": "Попадания обычной атакой уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на 18% в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает силу атаки на 30% в течение 5 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู การใช้พลังกายของการวิ่งหรือ Alternate Sprint จะลดลง 18% เป็นเวลา 5 วินาที นอกจากนี้หลังจากที่วิ่งหรือใช้ Alternate Sprint แล้ว พลังโจมตีจะเพิ่มขึ้น 30% เป็นเวลา 5 วินาที",
+        "TR": "Bir düşmana bir Normal Saldırıyla vurmak 5 saniyeliğine Depar veya Alternatif Depar için Dayanıklılık tüketimini %18 azaltır. Ayrıca bir Depar veya Alternatif Depar kullanıldığında 5 saniyeliğine Saldırı %30 artar.",
+        "VI": "Sau khi đánh thường trúng kẻ địch, thể lực tiêu hao của xung kích hoặc kỹ năng thay thế của xung kích giảm 18%, kéo dài 5s. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế của xung kích, tấn công tăng 30%, kéo dài 5s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 20% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 35% for 5s.",
+        "CHS": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低20%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升35%，持续5秒。",
+        "CHT": "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低20%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升35%，持續5秒。",
+        "DE": "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 20 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 35 %.",
+        "ES": "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 20% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 35% durante 5 s.",
+        "FR": "Lorsqu'une attaque normale a touché un ennemi, la consommation d'endurance du sprint ou du sprint alternatif diminue de 20 % pendant 5 s. De plus, après l'utilisation du sprint ou de l'aptitude qui le remplace, l'ATQ augmente de 35 % pendant 5 s.",
+        "ID": "Setelah Normal Attack mengenai musuh, konsumsi Stamina saat Berlari atau Alternate Sprint berkurang 20% selama 5 detik. Lalu, setelah Berlari atau Alternate Sprint, ATK meningkat 35% selama 5 detik.",
+        "IT": "#Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 20% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l'ATT di un 35% per 5 s.",
+        "JP": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-20%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+35%、持続時間5秒。",
+        "KR": "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 20% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 35% 증가한다. 지속 시간: 5초",
+        "PT": "Quando um Ataque Normal atingir um inimigo, o consumo de Stamina ao Correr ou utilizar uma habilidade que substitua Correr reduz em 20% por 5s. Além disso, depois de Correr ou utilizar uma habilidade que substitua Correr aumenta o Ataque em 35% durante 5s.",
+        "RU": "Попадания обычной атакой уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на 20% в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает силу атаки на 35% в течение 5 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู การใช้พลังกายของการวิ่งหรือ Alternate Sprint จะลดลง 20% เป็นเวลา 5 วินาที นอกจากนี้หลังจากที่วิ่งหรือใช้ Alternate Sprint แล้ว พลังโจมตีจะเพิ่มขึ้น 35% เป็นเวลา 5 วินาที",
+        "TR": "Bir düşmana bir Normal Saldırıyla vurmak 5 saniyeliğine Depar veya Alternatif Depar için Dayanıklılık tüketimini %20 azaltır. Ayrıca bir Depar veya Alternatif Depar kullanıldığında 5 saniyeliğine Saldırı %35 artar.",
+        "VI": "Sau khi đánh thường trúng kẻ địch, thể lực tiêu hao của xung kích hoặc kỹ năng thay thế của xung kích giảm 20%, kéo dài 5s. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế của xung kích, tấn công tăng 35%, kéo dài 5s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by 22% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by 40% for 5s.",
+        "CHS": "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低22%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升40%，持续5秒。",
+        "CHT": "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低22%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升40%，持續5秒。",
+        "DE": "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 22 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 40 %.",
+        "ES": "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 22% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 40% durante 5 s.",
+        "FR": "Lorsqu'une attaque normale a touché un ennemi, la consommation d'endurance du sprint ou du sprint alternatif diminue de 22 % pendant 5 s. De plus, après l'utilisation du sprint ou de l'aptitude qui le remplace, l'ATQ augmente de 40 % pendant 5 s.",
+        "ID": "Setelah Normal Attack mengenai musuh, konsumsi Stamina saat Berlari atau Alternate Sprint berkurang 22% selama 5 detik. Lalu, setelah Berlari atau Alternate Sprint, ATK meningkat 40% selama 5 detik.",
+        "IT": "#Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 22% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l'ATT di un 40% per 5 s.",
+        "JP": "通常攻撃が敵に命中すると、ダッシュまたはダッシュを代替する能力のスタミナ消費-22%、持続時間5秒。また、ダッシュまたはダッシュを代替する能力を使用すると、攻撃力+40%、持続時間5秒。",
+        "KR": "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 22% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 40% 증가한다. 지속 시간: 5초",
+        "PT": "Quando um Ataque Normal atingir um inimigo, o consumo de Stamina ao Correr ou utilizar uma habilidade que substitua Correr reduz em 22% por 5s. Além disso, depois de Correr ou utilizar uma habilidade que substitua Correr aumenta o Ataque em 40% durante 5s.",
+        "RU": "Попадания обычной атакой уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на 22% в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает силу атаки на 40% в течение 5 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู การใช้พลังกายของการวิ่งหรือ Alternate Sprint จะลดลง 22% เป็นเวลา 5 วินาที นอกจากนี้หลังจากที่วิ่งหรือใช้ Alternate Sprint แล้ว พลังโจมตีจะเพิ่มขึ้น 40% เป็นเวลา 5 วินาที",
+        "TR": "Bir düşmana bir Normal Saldırıyla vurmak 5 saniyeliğine Depar veya Alternatif Depar için Dayanıklılık tüketimini %22 azaltır. Ayrıca bir Depar veya Alternatif Depar kullanıldığında 5 saniyeliğine Saldırı %40 artar.",
+        "VI": "Sau khi đánh thường trúng kẻ địch, thể lực tiêu hao của xung kích hoặc kỹ năng thay thế của xung kích giảm 22%, kéo dài 5s. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế của xung kích, tấn công tăng 40%, kéo dài 5s."
+      }
+    }
+  ]
+}

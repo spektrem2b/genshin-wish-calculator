@@ -1,0 +1,137 @@
+{
+  "id": "10000032",
+  "name": {
+    "EN": "Bennett",
+    "CHS": "班尼特",
+    "CHT": "班尼特",
+    "DE": "Bennett",
+    "ES": "Bennett",
+    "FR": "Bennett",
+    "ID": "Bennett",
+    "IT": "Bennett",
+    "JP": "ベネット",
+    "KR": "베넷",
+    "PT": "Bennett",
+    "RU": "Беннет",
+    "TH": "Bennett",
+    "TR": "Bennett",
+    "VI": "Bennett"
+  },
+  "nameEn": "Bennett",
+  "element": "Pyro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 2,
+    "day": 29
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000032/avatar.webp",
+  "fullWish": "generated/character-profiles/10000032/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 34.5%",
+  "title": {
+    "EN": "Trial by Fire",
+    "CHS": "命运试金石",
+    "CHT": "命運試金石",
+    "DE": "Prüfling des Schicksals",
+    "ES": "El Tentador del Destino",
+    "FR": "Prince de la guigne",
+    "ID": "Trial by Fire",
+    "IT": "Prova del fuoco",
+    "JP": "運命の試金石",
+    "KR": "운명의 시금석",
+    "PT": "Julgamento por Fogo",
+    "RU": "Испытание огнём",
+    "TH": "ไฟแห่งโชคชะตา",
+    "TR": "Ateşle İmtihan",
+    "VI": "Thử Thách Của Vận Mệnh"
+  },
+  "description": {
+    "EN": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+    "CHS": "蒙德的冒险家少年，拥有与他的善良毫不相称的霉运。",
+    "CHT": "蒙德的冒險家少年，擁有與他的善良毫不相稱的霉運。",
+    "DE": "Ein junger Abenteurer aus Mondstadt, der trotz seiner ungewöhnlichen Güte vom Pech verfolgt wird.",
+    "ES": "El chico aventurero de Mondstadt. Su naturaleza amable no va acorde con su mala suerte.",
+    "FR": "Un jeune aventurier originaire de Mondstadt. Sa gentillesse n'a d'égale que sa guigne.",
+    "ID": "Seorang petualang yang berhati baik, tetapi kerap dihantui oleh nasib yang tidak mujur.",
+    "IT": "Un giovane avventuriere di Mondstadt estremamente sfortunato.",
+    "JP": "モンドの少年冒険者。その優しさにそぐわない不運の持ち主。",
+    "KR": "몬드의 모험가 소년. 선량하지만 항상 운이 나쁘다",
+    "PT": "Um aventureiro de Mondstadt justo e bondoso, mas muito azarado.",
+    "RU": "Добросердечный и порядочный искатель приключений из Мондштадта, который, к несчастью, сказочно невезуч.",
+    "TH": "เด็กหนุ่มนักผจญภัยแห่ง Mondstadt ผู้มาพร้อมความซวย ซึ่งไม่เข้ากันกับนิสัยใจดีมีเมตตาของเขาเลย",
+    "TR": "Ne yazık ki son derece şanssız, Mondstadtlı iyi huylu bir maceracı.",
+    "VI": "Nhà mạo hiểm trẻ tuổi của Mondstadt, có vận đen luôn đi cùng sự lương thiện của anh ấy."
+  },
+  "constellationName": {
+    "EN": "Rota Calamitas",
+    "CHS": "险路座",
+    "CHT": "險路座",
+    "DE": "Rota Calamitas",
+    "ES": "Rota Calamitas",
+    "FR": "Rota Calamitas",
+    "ID": "Rota Calamitas",
+    "IT": "Rota Calamitas",
+    "JP": "岐路座",
+    "KR": "험로자리",
+    "PT": "Rota Calamitas",
+    "RU": "Дорога Опасностей",
+    "TH": "Rota Calamitas",
+    "TR": "Çarkıfelaket",
+    "VI": "Cung Hiểm Lộ"
+  },
+  "native": {
+    "EN": "Adventurers' Guild",
+    "CHS": "冒险家协会",
+    "CHT": "冒險家協會",
+    "DE": "Abenteurergilde",
+    "ES": "Gremio de Aventureros",
+    "FR": "Guilde des aventuriers",
+    "ID": "Adventurers' Guild",
+    "IT": "Gilda degli avventurieri",
+    "JP": "冒険者協会",
+    "KR": "모험가 길드",
+    "PT": "Guilda de Aventureiros",
+    "RU": "Искатели приключений",
+    "TH": "กิลด์นักผจญภัย",
+    "TR": "Maceracılar Loncası",
+    "VI": "Hiệp Hội Nhà Mạo Hiểm"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Cristina Vee Valenzuela"
+    },
+    {
+      "lang": "CHS",
+      "va": "穆雪婷"
+    },
+    {
+      "lang": "JP",
+      "va": "逢坂良太"
+    },
+    {
+      "lang": "KR",
+      "va": "Song Ha-rim"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.4418,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.0272,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 64.66425,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

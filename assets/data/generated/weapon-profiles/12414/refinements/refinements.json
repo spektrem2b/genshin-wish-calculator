@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Samurai Conduct",
+    "CHS": "名士振舞",
+    "CHT": "名士振舞",
+    "DE": "Verhalten eines Samurais",
+    "ES": "Conducta de samurái",
+    "FR": "Code du samouraï",
+    "ID": "Samurai Conduct",
+    "IT": "Codice dei samurai",
+    "JP": "名士の振舞",
+    "KR": "명사의 거동",
+    "PT": "Conduta do Samurai",
+    "RU": "Мастерство самурая",
+    "TH": "Samurai Conduct",
+    "TR": "Samuray Yasaları",
+    "VI": "Vũ Điệu Samurai"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 6%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 3 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+        "CHS": "元素战技造成的伤害提升6%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复3点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+        "CHT": "元素戰技造成的傷害提升6%。元素戰技命中後，角色流失3點元素能量，並在此後的6秒內，每2秒恢復3點元素能量。該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 6 %. Zieht der Figur bei Treffern mit einer Elementarfähigkeit 3 Punkte Elementarenergie ab und stellt im Gegenzug 6 s lang alle 2 s 3 Punkte Elementarenergie wieder her. Dieser Effekt kann nur einmal alle 10 s ausgelöst werden, auch von Figuren, die sich in deiner Truppe, aber nicht im Kampf befinden.",
+        "ES": "Aumenta en un 6% el daño infligido por la Habilidad Elemental. Al golpear a un enemigo con dicha habilidad, el personaje pierde 3 pts. de Energía Elemental, pero recupera 3 pts. cada 2 s durante 6 s. Este efecto puede ocurrir una vez cada 10 s incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires de 6 %. Lorsqu'une compétence élémentaire touche un ennemi, le personnage perd 3 pts d'énergie élémentaire, mais récupère 3 pts d'énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Meningkatkan 6% Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan 3 Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan pertempuran.",
+        "IT": "#Aumenta i DAN da abilità elementale di un 6%. Se l'abilità colpisce un avversario, il personaggio perde 3 di energia ma ne rigenera 3 ogni 2 s per i 6 s successivi. Si può verificare una volta ogni 10 s ed è attivabile anche quando il personaggio non si trova sul campo.",
+        "JP": "元素スキルのダメージ+6%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを3ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+        "KR": "원소전투 스킬로 주는 피해가 6% 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 3pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Aumenta o Dano causado pela Habilidade Elemental em 6%. Quando o personagem acerta no inimigo com sua Habilidade Elemental, ele perde 3 pontos de Energia Elemental e dentro dos 6s posteriores ele restaura 3 pontos de Energia Elemental a cada 2s. Esse efeito só pode ser ativado uma vez a cada 10s. Quando o personagem não está em campo ele também pode ser ativado.",
+        "RU": "Увеличивает урон элементального навыка на 6%. Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает 3 единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 6% และหลังจากที่สกิลธาตุถูกเป้าหมาย ตัวละครจะเสียพลังงานธาตุ 3 หน่วย และหลังจากนั้น จะทำการฟื้นฟูพลังธาตุ 3 หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที และสามารถเกิดขึ้นได้ แม้ตัวละครจะอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Element Becerisi Hasarını %6 artırır. Bir Element Becerisi bir düşmana isabet ettiğinde karakter 3 Enerji kaybeder ama sonraki 6 saniye boyunca her 2 saniyede 3 Enerji kazanır. Bu etki 10 saniyede bir uygulanabilir. Karakter savaş alanında değilken de tetiklenebilir.",
+        "VI": "Tăng sát thương Kỹ Năng Nguyên Tố 6%. Sau khi Kỹ Năng Nguyên Tố đánh trúng, nhân vật mất 3 điểm Năng Lượng Nguyên Tố, đồng thời 6 giây tiếp theo mỗi 2 giây hồi phục 3 điểm. Hiệu quả này mỗi 10 giây kích hoạt 1 lần, nhân vật ở trong đội nhưng không ra trận vẫn có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 7.5%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 3.5 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+        "CHS": "元素战技造成的伤害提升7.5%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复3.5点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+        "CHT": "元素戰技造成的傷害提升7.5%。元素戰技命中後，角色流失3點元素能量，並在此後的6秒內，每2秒恢復3.5點元素能量。該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 7,5 %. Zieht der Figur bei Treffern mit einer Elementarfähigkeit 3 Punkte Elementarenergie ab und stellt im Gegenzug 6 s lang alle 2 s 3,5 Punkte Elementarenergie wieder her. Dieser Effekt kann nur einmal alle 10 s ausgelöst werden, auch von Figuren, die sich in deiner Truppe, aber nicht im Kampf befinden.",
+        "ES": "Aumenta en un 7.5% el daño infligido por la Habilidad Elemental. Al golpear a un enemigo con dicha habilidad, el personaje pierde 3 pts. de Energía Elemental, pero recupera 3.5 pts. cada 2 s durante 6 s. Este efecto puede ocurrir una vez cada 10 s incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires de 7,5 %. Lorsqu'une compétence élémentaire touche un ennemi, le personnage perd 3 pts d'énergie élémentaire, mais récupère 3,5 pts d'énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Meningkatkan 7,5% Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan 3,5 Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.",
+        "IT": "#Aumenta i DAN da abilità elementale di un 7,5%. Se l'abilità colpisce un avversario, il personaggio perde 3 di energia ma ne rigenera 3,5 ogni 2 s per i 6 s successivi. Si può verificare una volta ogni 10 s ed è attivabile anche quando il personaggio non si trova sul campo.",
+        "JP": "元素スキルのダメージ+7.5%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを3.5ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+        "KR": "원소전투 스킬로 주는 피해가 7.5% 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 3.5pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Aumenta o Dano causado pela Habilidade Elemental em 7.5%. Quando o personagem acerta no inimigo com sua Habilidade Elemental, ele perde 3 pontos de Energia Elemental e dentro dos 6s posteriores ele restaura 3.5 pontos de Energia Elemental a cada 2s. Esse efeito só pode ser ativado uma vez a cada 10s. Quando o personagem não está em campo ele também pode ser ativado.",
+        "RU": "Увеличивает урон элементального навыка на 7,5%. Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает 3,5 единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 7.5% และหลังจากที่สกิลธาตุถูกเป้าหมาย ตัวละครจะเสียพลังงานธาตุ 3 หน่วย และหลังจากนั้น จะทำการฟื้นฟูพลังธาตุ 3.5 หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที และสามารถเกิดขึ้นได้ แม้ตัวละครจะอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Element Becerisi Hasarını %7,5 artırır. Bir Element Becerisi bir düşmana isabet ettiğinde karakter 3 Enerji kaybeder ama sonraki 6 saniye boyunca her 2 saniyede 3,5 Enerji kazanır. Bu etki 10 saniyede bir uygulanabilir. Karakter savaş alanında değilken de tetiklenebilir.",
+        "VI": "Tăng sát thương Kỹ Năng Nguyên Tố 7.5%. Sau khi Kỹ Năng Nguyên Tố đánh trúng, nhân vật mất 3 điểm Năng Lượng Nguyên Tố, đồng thời 6 giây tiếp theo mỗi 2 giây hồi phục 3.5 điểm. Hiệu quả này mỗi 10 giây kích hoạt 1 lần, nhân vật ở trong đội nhưng không ra trận vẫn có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 9%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 4 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+        "CHS": "元素战技造成的伤害提升9%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复4点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+        "CHT": "元素戰技造成的傷害提升9%。元素戰技命中後，角色流失3點元素能量，並在此後的6秒內，每2秒恢復4點元素能量。該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 9 %. Zieht der Figur bei Treffern mit einer Elementarfähigkeit 3 Punkte Elementarenergie ab und stellt im Gegenzug 6 s lang alle 2 s 4 Punkte Elementarenergie wieder her. Dieser Effekt kann nur einmal alle 10 s ausgelöst werden, auch von Figuren, die sich in deiner Truppe, aber nicht im Kampf befinden.",
+        "ES": "Aumenta en un 9% el daño infligido por la Habilidad Elemental. Al golpear a un enemigo con dicha habilidad, el personaje pierde 3 pts. de Energía Elemental, pero recupera 4 pts. cada 2 s durante 6 s. Este efecto puede ocurrir una vez cada 10 s incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires de 9 %. Lorsqu'une compétence élémentaire touche un ennemi, le personnage perd 3 pts d'énergie élémentaire, mais récupère 4 pts d'énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Meningkatkan 9% Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan 4 Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.",
+        "IT": "#Aumenta i DAN da abilità elementale di un 9%. Se l'abilità colpisce un avversario, il personaggio perde 3 di energia ma ne rigenera 4 ogni 2 s per i 6 s successivi. Si può verificare una volta ogni 10 s ed è attivabile anche quando il personaggio non si trova sul campo.",
+        "JP": "元素スキルのダメージ+9%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを4ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+        "KR": "원소전투 스킬로 주는 피해가 9% 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 4pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Aumenta o Dano causado pela Habilidade Elemental em 9%. Quando o personagem acerta no inimigo com sua Habilidade Elemental, ele perde 3 pontos de Energia Elemental e dentro dos 6s posteriores ele restaura 4 pontos de Energia Elemental a cada 2s. Esse efeito só pode ser ativado uma vez a cada 10s. Quando o personagem não está em campo ele também pode ser ativado.",
+        "RU": "Увеличивает урон элементального навыка на 9%. Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает 4 единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 9% และหลังจากที่สกิลธาตุถูกเป้าหมาย ตัวละครจะเสียพลังงานธาตุ 3 หน่วย และหลังจากนั้น จะทำการฟื้นฟูพลังธาตุ 4 หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที และสามารถเกิดขึ้นได้ แม้ตัวละครจะอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Element Becerisi Hasarını %9 artırır. Bir Element Becerisi bir düşmana isabet ettiğinde karakter 3 Enerji kaybeder ama sonraki 6 saniye boyunca her 2 saniyede 4 Enerji kazanır. Bu etki 10 saniyede bir uygulanabilir. Karakter savaş alanında değilken de tetiklenebilir.",
+        "VI": "Tăng sát thương Kỹ Năng Nguyên Tố 9%. Sau khi Kỹ Năng Nguyên Tố đánh trúng, nhân vật mất 3 điểm Năng Lượng Nguyên Tố, đồng thời 6 giây tiếp theo mỗi 2 giây hồi phục 4 điểm. Hiệu quả này mỗi 10 giây kích hoạt 1 lần, nhân vật ở trong đội nhưng không ra trận vẫn có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 10.5%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 4.5 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+        "CHS": "元素战技造成的伤害提升10.5%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复4.5点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+        "CHT": "元素戰技造成的傷害提升10.5%。元素戰技命中後，角色流失3點元素能量，並在此後的6秒內，每2秒恢復4.5點元素能量。該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 10,5 %. Zieht der Figur bei Treffern mit einer Elementarfähigkeit 3 Punkte Elementarenergie ab und stellt im Gegenzug 6 s lang alle 2 s 4,5 Punkte Elementarenergie wieder her. Dieser Effekt kann nur einmal alle 10 s ausgelöst werden, auch von Figuren, die sich in deiner Truppe, aber nicht im Kampf befinden.",
+        "ES": "Aumenta en un 10.5% el daño infligido por la Habilidad Elemental. Al golpear a un enemigo con dicha habilidad, el personaje pierde 3 pts. de Energía Elemental, pero recupera 4.5 pts. cada 2 s durante 6 s. Este efecto puede ocurrir una vez cada 10 s incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires de 10,5 %. Lorsqu'une compétence élémentaire touche un ennemi, le personnage perd 3 pts d'énergie élémentaire, mais récupère 4,5 pts d'énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Meningkatkan 10,5% Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan 4,5 Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.",
+        "IT": "#Aumenta i DAN da abilità elementale di un 10,5%. Se l'abilità colpisce un avversario, il personaggio perde 3 di energia ma ne rigenera 4,5 ogni 2 s per i 6 s successivi. Si può verificare una volta ogni 10 s ed è attivabile anche quando il personaggio non si trova sul campo.",
+        "JP": "元素スキルのダメージ+10.5%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを4.5ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+        "KR": "원소전투 스킬로 주는 피해가 10.5% 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 4.5pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Aumenta o Dano causado pela Habilidade Elemental em 10.5%. Quando o personagem acerta no inimigo com sua Habilidade Elemental, ele perde 3 pontos de Energia Elemental e dentro dos 6s posteriores ele restaura 4.5 pontos de Energia Elemental a cada 2s. Esse efeito só pode ser ativado uma vez a cada 10s. Quando o personagem não está em campo ele também pode ser ativado.",
+        "RU": "Увеличивает урон элементального навыка на 10,5%. Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает 4,5 единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 10.5% และหลังจากที่สกิลธาตุถูกเป้าหมาย ตัวละครจะเสียพลังงานธาตุ 3 หน่วย และหลังจากนั้น จะทำการฟื้นฟูพลังธาตุ 4.5 หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที และสามารถเกิดขึ้นได้ แม้ตัวละครจะอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Element Becerisi Hasarını %10,5 artırır. Bir Element Becerisi bir düşmana isabet ettiğinde karakter 3 Enerji kaybeder ama sonraki 6 saniye boyunca her 2 saniyede 4,5 Enerji kazanır. Bu etki 10 saniyede bir uygulanabilir. Karakter savaş alanında değilken de tetiklenebilir.",
+        "VI": "Tăng sát thương Kỹ Năng Nguyên Tố 10.5%. Sau khi Kỹ Năng Nguyên Tố đánh trúng, nhân vật mất 3 điểm Năng Lượng Nguyên Tố, đồng thời 6 giây tiếp theo mỗi 2 giây hồi phục 4.5 điểm. Hiệu quả này mỗi 10 giây kích hoạt 1 lần, nhân vật ở trong đội nhưng không ra trận vẫn có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 12%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 5 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+        "CHS": "元素战技造成的伤害提升12%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复5点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
+        "CHT": "元素戰技造成的傷害提升12%。元素戰技命中後，角色流失3點元素能量，並在此後的6秒內，每2秒恢復5點元素能量。該效果每10秒至多觸發一次，角色處於隊伍後臺時也能觸發。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 12 %. Zieht der Figur bei Treffern mit einer Elementarfähigkeit 3 Punkte Elementarenergie ab und stellt im Gegenzug 6 s lang alle 2 s 5 Punkte Elementarenergie wieder her. Dieser Effekt kann nur einmal alle 10 s ausgelöst werden, auch von Figuren, die sich in deiner Truppe, aber nicht im Kampf befinden.",
+        "ES": "Aumenta en un 12% el daño infligido por la Habilidad Elemental. Al golpear a un enemigo con dicha habilidad, el personaje pierde 3 pts. de Energía Elemental, pero recupera 5 pts. cada 2 s durante 6 s. Este efecto puede ocurrir una vez cada 10 s incluso cuando el personaje está en tu equipo pero no en uso.",
+        "FR": "Augmente les DGT infligés par les compétences élémentaires de 12 %. Lorsqu'une compétence élémentaire touche un ennemi, le personnage perd 3 pts d'énergie élémentaire, mais récupère 5 pts d'énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Meningkatkan 12% Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan 5 Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.",
+        "IT": "#Aumenta i DAN da abilità elementale di un 12%. Se l'abilità colpisce un avversario, il personaggio perde 3 di energia ma ne rigenera 5 ogni 2 s per i 6 s successivi. Si può verificare una volta ogni 10 s ed è attivabile anche quando il personaggio non si trova sul campo.",
+        "JP": "元素スキルのダメージ+12%。元素スキルが命中した時、キャラクターは元素エネルギーを3ポイント失う。その後の6秒間、2秒毎に元素エネルギーを5ポイント獲得する。この効果は10秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。",
+        "KR": "원소전투 스킬로 주는 피해가 12% 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 5pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Aumenta o Dano causado pela Habilidade Elemental em 12%. Quando o personagem acerta no inimigo com sua Habilidade Elemental, ele perde 3 pontos de Energia Elemental e dentro dos 6s posteriores ele restaura 5 pontos de Energia Elemental a cada 2s. Esse efeito só pode ser ativado uma vez a cada 10s. Quando o personagem não está em campo ele também pode ser ativado.",
+        "RU": "Увеличивает урон элементального навыка на 12%. Когда элементальный навык поражает противника, персонаж теряет 3 единицы энергии, но восстанавливает 5 единицы энергии каждые 2 сек. в течение следующих 6 сек. Эффект может возникнуть один раз в 10 сек. Эффект может сработать, даже когда персонаж не находится на поле боя.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 12% และหลังจากที่สกิลธาตุถูกเป้าหมาย ตัวละครจะเสียพลังงานธาตุ 3 หน่วย และหลังจากนั้น จะทำการฟื้นฟูพลังธาตุ 5 หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที และสามารถเกิดขึ้นได้ แม้ตัวละครจะอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+        "TR": "Element Becerisi Hasarını %12 artırır. Bir Element Becerisi bir düşmana isabet ettiğinde karakter 3 Enerji kaybeder ama sonraki 6 saniye boyunca her 2 saniyede 5 Enerji kazanır. Bu etki 10 saniyede bir uygulanabilir. Karakter savaş alanında değilken de tetiklenebilir.",
+        "VI": "Tăng sát thương Kỹ Năng Nguyên Tố 12%. Sau khi Kỹ Năng Nguyên Tố đánh trúng, nhân vật mất 3 điểm Năng Lượng Nguyên Tố, đồng thời 6 giây tiếp theo mỗi 2 giây hồi phục 5 điểm. Hiệu quả này mỗi 10 giây kích hoạt 1 lần, nhân vật ở trong đội nhưng không ra trận vẫn có thể kích hoạt."
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "10000072",
+  "name": {
+    "EN": "Candace",
+    "CHS": "坎蒂丝",
+    "CHT": "坎蒂絲",
+    "DE": "Candace",
+    "ES": "Candace",
+    "FR": "Candace",
+    "ID": "Candace",
+    "IT": "Candace",
+    "JP": "キャンディス",
+    "KR": "캔디스",
+    "PT": "Candace",
+    "RU": "Кандакия",
+    "TH": "Candace",
+    "TR": "Candace",
+    "VI": "Candace"
+  },
+  "nameEn": "Candace",
+  "element": "Hydro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 5,
+    "day": 3
+  },
+  "release": "2022-09-26T21:00:00",
+  "icon": "generated/character-profiles/10000072/avatar.webp",
+  "fullWish": "generated/character-profiles/10000072/full_wish.webp",
+  "fullWishObjectPosition": "52.4% 67.5%",
+  "title": {
+    "EN": "Golden Vow",
+    "CHS": "浮金的誓愿",
+    "CHT": "浮金的誓願",
+    "DE": "Gelübde beim treibenden Gold",
+    "ES": "La Devota Áurea",
+    "FR": "Serment doré",
+    "ID": "Golden Vow",
+    "IT": "Voto dorato",
+    "JP": "浮金の誓願",
+    "KR": "수면 위 금빛 결의",
+    "PT": "Promessa Dourada",
+    "RU": "Позолоченная клятва",
+    "TH": "บุหลันดั้นปฏิญาณ",
+    "TR": "Altın Yemin",
+    "VI": "Thề Nguyện Ánh Kim"
+  },
+  "description": {
+    "EN": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+    "CHS": "有着琥珀色左眼的赤王后裔，阿如村的守护者。",
+    "CHT": "有著琥珀色左眼的赤王後裔，阿如村的守護者。",
+    "DE": "Beschützerin des Aaru-Dorfs, die Nachfahrin von König Deshret, deren linkes Auge golden wie Bernstein strahlt.",
+    "ES": "Custodia de la Aldea Aaru. Esta muchacha con un ojo color ámbar es descendiente del Rey Deshret.",
+    "FR": "Descendante du roi Deshret avec un œil gauche de couleur ambre, c'est la protectrice du Village d'Aaru.",
+    "ID": "Keturunan Raja Deshret yang memiliki mata kiri berwarna kuning keemasan. Pelindung Desa Aaru.",
+    "IT": "Una discendente di Re Deshret, nonché protettrice del Villaggio di Aaru. Il suo occhio sinistro ha il colore dell'ambra.",
+    "JP": "琥珀色の左目を持つ、キングデシェレトの末裔。アアル村のガーディアンをしている。",
+    "KR": "호박색 왼쪽 눈을 가진 적왕의 후예. 아루 마을의 수호자다",
+    "PT": "Guardiã da Vila Aaru, descendente do Rei Deshret, seu olho esquerdo é da cor do âmbar.",
+    "RU": "Наследница царя Дешрета с левым глазом цвета янтаря, защитница деревни Аару.",
+    "TH": "ลูกหลานของราชา Deshret ผู้มีนัยน์ตาซ้ายสีเหลืองอำพัน ผู้คุ้มกันของหมู่บ้าน Aaru",
+    "TR": "Kral Deshret'in soyundan gelen ve sol gözü kehribar olan, Aaru Köyü'nün koruyucusu.",
+    "VI": "Hậu duệ của Vua Deshret với con mắt bên trái màu hổ phách, là người thủ hộ của Làng Aaru."
+  },
+  "constellationName": {
+    "EN": "Sagitta Scutum",
+    "CHS": "箭盾座",
+    "CHT": "箭盾座",
+    "DE": "Sagitta Scutum",
+    "ES": "Sagitta Scutum",
+    "FR": "Sagitta Scutum",
+    "ID": "Sagitta Scutum",
+    "IT": "Sagitta Scutum",
+    "JP": "矢盾座",
+    "KR": "화살방패자리",
+    "PT": "Sagitta Scutum",
+    "RU": "Щит Заступницы",
+    "TH": "Sagitta Scutum",
+    "TR": "Ok Kalkanı",
+    "VI": "Cung Tiễn Thuẫn"
+  },
+  "native": {
+    "EN": "Aaru Village",
+    "CHS": "阿如村",
+    "CHT": "阿如村",
+    "DE": "Aaru-Dorf",
+    "ES": "Aldea Aaru",
+    "FR": "Village d'Aaru",
+    "ID": "Aaru Village",
+    "IT": "Villaggio di Aaru",
+    "JP": "アアル村",
+    "KR": "아루 마을",
+    "PT": "Vila Aaru",
+    "RU": "Деревня Аару",
+    "TH": "Aaru Village",
+    "TR": "Aaru Köyü",
+    "VI": "Làng Aaru"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Heather Gonzalez"
+    },
+    {
+      "lang": "CHS",
+      "va": "张琦"
+    },
+    {
+      "lang": "JP",
+      "va": "柚木涼香"
+    },
+    {
+      "lang": "KR",
+      "va": "Jun Young-soo"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 911.791,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.808,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 57.225,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

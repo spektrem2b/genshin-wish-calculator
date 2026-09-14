@@ -1,0 +1,137 @@
+{
+  "id": "10000103",
+  "name": {
+    "EN": "Xilonen",
+    "CHS": "希诺宁",
+    "CHT": "希諾寧",
+    "DE": "Xilonen",
+    "ES": "Xilonen",
+    "FR": "Xilonen",
+    "ID": "Xilonen",
+    "IT": "Xilonen",
+    "JP": "シロネン",
+    "KR": "실로닌",
+    "PT": "Xilonen",
+    "RU": "Шилонен",
+    "TH": "Xilonen",
+    "TR": "Xilonen",
+    "VI": "Xilonen"
+  },
+  "nameEn": "Xilonen",
+  "element": "Geo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "NATLAN",
+  "birthday": {
+    "month": 3,
+    "day": 13
+  },
+  "release": "2024-10-07T21:00:00",
+  "icon": "generated/character-profiles/10000103/avatar.webp",
+  "fullWish": "generated/character-profiles/10000103/full_wish.webp",
+  "fullWishObjectPosition": "50.3% 19.5%",
+  "title": {
+    "EN": "Ardent Flames Forge the Soul",
+    "CHS": "焮火铸魂",
+    "CHT": "焮火鑄魂",
+    "DE": "Im Feuer geschmiedete Seele",
+    "ES": "La Forjaalmas Candente",
+    "FR": "Âme forgée par les vives flammes",
+    "ID": "Ardent Flames Forge the Soul",
+    "IT": "Anima forgiata da fiamme ardenti",
+    "JP": "魂を鋳る烈火",
+    "KR": "영혼을 벼리는 불꽃",
+    "PT": "Fogo Ardente Forja a Alma",
+    "RU": "Закалённая пламенем душа",
+    "TH": "เปลวเพลิงหลอมวิญญาณ",
+    "TR": "Harlı Alevlerle Dövülmüş Ruh",
+    "VI": "Lửa Nung Đúc Hồn"
+  },
+  "description": {
+    "EN": "A Name Engraver of the Nanatzcayan, she is especially skilled at finding a good balance between the heavy responsibilities of her job and living well.",
+    "CHS": "纳茨卡延的铸名师，善于在工作的重担与舒适的生活之间找到平衡点。",
+    "CHT": "納茨卡延的鑄名師，善於在工作的重擔與舒適的生活之間找到平衡點。",
+    "DE": "Als Namenschmiedin von Nanatzcayan ist sie besonders geschickt darin, ein gutes Gleichgewicht zwischen der schweren Verantwortung ihres Berufs und einem angenehmen Leben zu finden.",
+    "ES": "Una maestra forjanombres de Nanatzcayan experta en encontrar el equilibrio entre el ajetreo del trabajo y una vida cómoda.",
+    "FR": "Une forgeuse-nomenclatrice des Nanatzcayens. Elle est particulièrement douée pour trouver l'équilibre entre les lourdes responsabilités de son travail et son envie de mener une vie agréable.",
+    "ID": "Seorang Pengukir Marga Nanatzcayan yang sangat terampil dalam mencari keseimbangan antara beban kerja yang berat dan hidup dengan nyaman.",
+    "IT": "Una Forgianomi dei Nanatzcayan, particolarmente brava nel trovare l'equilibrio tra le pesanti responsabilità del lavoro e i piaceri della vita.",
+    "JP": "ナナツカヤンの名鋳り師。山積みの仕事と快適な暮らしのバランスを取るのが得意。",
+    "KR": "나나치카얀의 이름 단조사. 작업량의 압박과 삶의 안락함 사이에서 절묘한 균형점을 능숙하게 찾아낸다",
+    "PT": "Uma Forjadora de Nome de Nanatzcayan, ela é especialmente habilidosa em encontrar um bom equilíbrio entre as pesadas responsabilidades de seu trabalho e viver bem.",
+    "RU": "Гравёр имён Нанацкайана. Хорошо умеет находить баланс между тяжким бременем работы и комфортной жизнью.",
+    "TH": "ช่างสลักนามของ Nanatzcayan เชี่ยวชาญในการหาความสมดุล ระหว่างภาระงานที่หนักอึ้ง และชีวิตที่สะดวกสบาย",
+    "TR": "Nanatzcayan'ın Ad Oymacısı. Mesleğinin getirdiği ağır sorumluluklar ve kaliteli bir yaşam arasındaki dengeyi korumakta çok iyidir.",
+    "VI": "Thợ rèn tên của Nanatzcayan, giỏi cân bằng giữa gánh nặng công việc và cuộc sống thoải mái."
+  },
+  "constellationName": {
+    "EN": "Panthera Ocelota",
+    "CHS": "豹猫座",
+    "CHT": "豹貓座",
+    "DE": "Panthera Ocelota",
+    "ES": "Panthera Ocelota",
+    "FR": "Panthera Ocelota",
+    "ID": "Panthera Ocelota",
+    "IT": "Panthera Ocelota",
+    "JP": "オセロット座",
+    "KR": "오셀롯자리",
+    "PT": "Panthera Ocelota",
+    "RU": "Оцелот",
+    "TH": "Panthera Ocelota",
+    "TR": "Pars Kedisi",
+    "VI": "Cung Báo Miêu"
+  },
+  "native": {
+    "EN": "Nanatzcayan",
+    "CHS": "纳茨卡延",
+    "CHT": "納茨卡延",
+    "DE": "Nanatzcayan",
+    "ES": "Nanatzcayan",
+    "FR": "Nanatzcayens",
+    "ID": "Nanatzcayan",
+    "IT": "Nanatzcayan",
+    "JP": "ナナツカヤン",
+    "KR": "나나치카얀",
+    "PT": "Nanatzcayan",
+    "RU": "Нанацкайан",
+    "TH": "Nanatzcayan",
+    "TR": "Nanatzcayan",
+    "VI": "Nanatzcayan"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Elizabeth Dean"
+    },
+    {
+      "lang": "CHS",
+      "va": "弭洋"
+    },
+    {
+      "lang": "JP",
+      "va": "ファイルーズあい"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim I-an"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_DEFENSE_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 965.71313,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 21.413,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 72.3943,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

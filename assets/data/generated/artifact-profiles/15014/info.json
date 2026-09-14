@@ -1,0 +1,69 @@
+{
+  "id": 15014,
+  "name": {
+    "EN": "Archaic Petra",
+    "CHS": "悠古的磐岩",
+    "CHT": "悠古的磐岩",
+    "DE": "Archaischer Fels",
+    "ES": "Petra Arcaica",
+    "FR": "Roche ancienne",
+    "ID": "Archaic Petra",
+    "IT": "Roccia arcaica",
+    "JP": "悠久の磐岩",
+    "KR": "유구한 반암",
+    "PT": "Pedra Arcaica",
+    "RU": "Архаичный камень",
+    "TH": "Archaic Petra",
+    "TR": "Arkaik Taşlar",
+    "VI": "Phiến Đá Lâu Đời"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15014/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Gain a 15% Geo DMG Bonus.",
+        "CHS": "获得15%岩元素伤害加成。",
+        "CHT": "獲得15%岩元素傷害加成。",
+        "DE": "Erhöht den Geo-Schaden um 15 %.",
+        "ES": "Bono de Daño Geo +15%.",
+        "FR": "Confère un bonus de DGT Géo de 15 %.",
+        "ID": "Geo DMG Bonus +15%.",
+        "IT": "Bonus DAN da Geo +15%.",
+        "JP": "岩元素ダメージ+15%。",
+        "KR": "바위 원소 피해 보너스+15%",
+        "PT": "Obtém 15% de Bônus de Dano Geo.",
+        "RU": "Даёт 15% бонус Гео урона.",
+        "TH": "ได้รับโบนัสความเสียหายหิน 15%",
+        "TR": "+%15 Toprak Hasarı Bonusu.",
+        "VI": "Nhận 15% buff sát thương nguyên tố Nham."
+      },
+      "affixId": "2150140"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Upon obtaining an Elemental Shard created through Crystallize or triggering a Lunar-Crystallize reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.",
+        "CHS": "获得结晶反应形成的晶片或触发月结晶反应时，队伍中所有角色获得35%对应元素伤害加成，持续10秒。同时只能通过该效果获得一种元素伤害加成。",
+        "CHT": "獲得結晶反應形成的晶片或觸發月結晶反應時，隊伍中所有角色獲得35%對應元素傷害加成，持續10秒。同時只能透過該效果獲得一種元素傷害加成。",
+        "DE": "#Erhöht beim Erhalten von durch die Reaktion Kristallisation erschaffenen Splittern oder beim Auslösen der Reaktion Mond-Kristallisation den mit dem jeweiligen Element verursachten Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen.",
+        "ES": "#Al obtener un fragmento creado a través de la reacción de Cristalización o al causar una reacción de Cristalización Lunar, todos los miembros del equipo obtienen durante 10 s un 35% de bono de daño del elemento correspondiente. Solo se puede obtener un tipo de Bono de Daño Elemental a la vez mediante este efecto.",
+        "FR": "Lorsque vous obtenez un cristal issu d'une Cristallisation ou déclenchez une réaction de Sélénocristallisation, tous les personnages de l'équipe bénéficient d'un bonus de DGT du second élément de la réaction de 35 % pendant 10 s. Cet effet ne peut s'appliquer qu'à un seul élément à la fois.",
+        "ID": "Saat memperoleh Elemental Shard yang terbentuk dari Reaksi Elemental Crystallize atau memicu reaksi Lunar-Crystallize, seluruh anggota party memperoleh 35% Elemental DMG Bonus untuk elemen tersebut selama 10 detik. Hanya satu jenis Elemental DMG Bonus yang bisa didapatkan dengan cara ini.",
+        "IT": "#Quando si ottiene un frammento elementale tramite Cristallizzazione o innescando una reazione di Cristallizzazione lunare, tutti i membri del gruppo ricevono un 35% di bonus DAN per l'elemento corrispondente della durata di 10 s. È possibile ottenere un solo bonus DAN elementali alla volta.",
+        "JP": "結晶反応で形成された欠片を獲得、または月結晶反応を起こすと、チーム全員の該当元素ダメージ+35%、継続時間10秒。元素ダメージアップは1種類のみ獲得可能。",
+        "KR": "결정 반응으로 생성된 결정 조각을 획득하거나 달 결정 반응 발동 시, 파티 내 모든 캐릭터가 상응하는 원소 피해 보너스를 35% 획득한다. 지속 시간: 10초. 해당 효과로 동시에 한 가지 타입의 원소 피해 보너스만 획득할 수 있다",
+        "PT": "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização ou ao desencadear uma Reação de Cristalização Lunar, todos os personagens na equipe ganham 35% de Bônus de Dano para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento.",
+        "RU": "Получение элементального осколка, образованного реакцией Кристалл, либо активация реакции Лунный кристалл, даёт 35% бонус элементального урона соответствующего элемента всем членам отряда на 10 сек. Одновременно можно иметь бонус урона только одного элемента.",
+        "TH": "เมื่อได้รับเศษเสี้ยวที่เกิดจากปฏิกิริยาตกผลึก หรือทำให้เกิดปฏิกิริยาตกผลึกจันทรา ตัวละครทั้งหมดในทีมจะได้รับโบนัสความเสียหายของธาตุที่เกี่ยวข้อง 35% เป็นเวลา 10 วินาที โดยจะได้รับบัฟเพิ่มความเสียหายธาตุดังกล่าวนี้ได้ทีละหนึ่งธาตุเท่านั้น",
+        "TR": "Kristalleşme ile oluşan bir Element Parçası elde edildiğinde veya bir Ay Kristalleşmesi tepkimesi tetiklendiğinde 10 saniyeliğine tüm grup üyeleri o element için %35 Hasar Bonusu kazanır. Bu yöntemle aynı anda yalnızca bir tür Element Hasarı Bonusu kazanılabilir.",
+        "VI": "Khi nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, tất cả nhân vật trong đội nhận 35% buff sát thương nguyên tố tương ứng, duy trì 10s. Chỉ được nhận một loại buff sát thương nguyên tố cùng lúc."
+      },
+      "affixId": "2150141"
+    }
+  ]
+}

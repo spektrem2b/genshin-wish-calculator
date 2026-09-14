@@ -1,0 +1,137 @@
+{
+  "id": "10000060",
+  "name": {
+    "EN": "Yelan",
+    "CHS": "夜兰",
+    "CHT": "夜蘭",
+    "DE": "Yelan",
+    "ES": "Yelan",
+    "FR": "Yelan",
+    "ID": "Yelan",
+    "IT": "Yelan",
+    "JP": "夜蘭",
+    "KR": "야란",
+    "PT": "Yelan",
+    "RU": "Е Лань",
+    "TH": "Yelan",
+    "TR": "Yelan",
+    "VI": "Yelan"
+  },
+  "nameEn": "Yelan",
+  "element": "Hydro",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 4,
+    "day": 20
+  },
+  "release": "2022-05-30T21:00:00",
+  "icon": "generated/character-profiles/10000060/avatar.webp",
+  "fullWish": "generated/character-profiles/10000060/full_wish.webp",
+  "fullWishObjectPosition": "49.8% 19.9%",
+  "title": {
+    "EN": "Valley Orchid",
+    "CHS": "兰生幽谷",
+    "CHT": "蘭生幽谷",
+    "DE": "Orchidee im tiefen Tal",
+    "ES": "La Orquídea del Valle",
+    "FR": "Orchidée de la vallée",
+    "ID": "Valley Orchid",
+    "IT": "Orchidea della valle",
+    "JP": "幽谷に咲く蘭",
+    "KR": "유곡에 피어난 난초",
+    "PT": "Vale das Orquídeas",
+    "RU": "Орхидея долины",
+    "TH": "กล้วยไม้งามกลางหุบเขา",
+    "TR": "Vadi Orkidesi",
+    "VI": "Lan Sinh U Cốc"
+  },
+  "description": {
+    "EN": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
+    "CHS": "自称供职于总务司的神秘人士，却又是总务司名录里的「不存在之人」。",
+    "CHT": "自稱供職於總務司的神秘人士，卻又是總務司名錄裡的「不存在之人」。",
+    "DE": "Eine mysteriöse Person, die behauptet, für den Rat für Allgemeine Angelegenheiten zu arbeiten, aber auf der Liste des Rats für Allgemeine Angelegenheiten als „nicht existent“ geführt wird.",
+    "ES": "Una misteriosa persona que dice trabajar para el Ministerio de Asuntos Civiles, pero que “no existe” según los registros del propio Ministerio.",
+    "FR": "Une mystérieuse personne qui prétend travailler pour le Bureau des affaires civiles. Cependant, elle n'apparaît nulle part dans leur registre.",
+    "ID": "Orang misterius yang mengaku bekerja di Bagian Urusan Sipil, tetapi \"tidak terdaftar\" di data Bagian Urusan Sipil.",
+    "IT": "Una persona misteriosa che sostiene di lavorare per il Ministero degli Affari Civili, ma che risulta \"inesistente\" nella lista dello stesso Ministero.",
+    "JP": "総務司所属を称する謎の人物。しかし、総務司の名簿上では「存在しない人」となっている。",
+    "KR": "자신을 총무부 직원이라고 소개하지만 총무부 명단에는 「존재하지 않는」 의문의 인물",
+    "PT": "Uma pessoa misteriosa que afirma trabalhar para o Ministério dos Assuntos Civis, mas \"não existe\" nos registros deles.",
+    "RU": "Таинственная девушка, утверждающая, что работает в Департаменте по делам граждан, но в списках Департамента её нет.",
+    "TH": "บุคคลลึกลับที่อ้างตัวว่าทำงานในฝ่ายกิจการทั่วไป แต่กลับเป็น \"บุคคลที่ไม่มีตัวตน\" ในรายชื่อพนักงานของฝ่ายกิจการทั่วไป",
+    "TR": "Sivil İşler Bakanlığında çalıştığını iddia eden gizemli biri ama Sivil İşler Bakanlığı listesinde \"yer almıyor\".",
+    "VI": "Nhân sĩ thần bí tự xưng làm việc cho Tổng Vụ, nhưng lại là \"người không tồn tại\" trong danh sách của Tổng Vụ."
+  },
+  "constellationName": {
+    "EN": "Umbrabilis Orchis",
+    "CHS": "幽客座",
+    "CHT": "幽客座",
+    "DE": "Umbrabilis Orchis",
+    "ES": "Umbrabilis Orchis",
+    "FR": "Umbrabilis Orchis",
+    "ID": "Umbrabilis Orchis",
+    "IT": "Umbrabilis Orchis",
+    "JP": "幽客座",
+    "KR": "유객(幽客)자리",
+    "PT": "Umbrabilis Orchis",
+    "RU": "Призрачная Орхидея",
+    "TH": "Umbrabilis Orchis",
+    "TR": "Gölgeli Orkide",
+    "VI": "Cung U Khách"
+  },
+  "native": {
+    "EN": "Yanshang Teahouse",
+    "CHS": "岩上茶室",
+    "CHT": "岩上茶室",
+    "DE": "Teestube Yanshang",
+    "ES": "Salón de Té Yanshang",
+    "FR": "Maison de thé Yanshang",
+    "ID": "Yanshang Teahouse",
+    "IT": "Sala da tè Yanshang",
+    "JP": "岩上茶室",
+    "KR": "암상 찻집",
+    "PT": "Casa de Chá Yanshang",
+    "RU": "Чайный дом «Яньшан»",
+    "TH": "โรงน้ำชา Yanshang",
+    "TR": "Yanshang Çayevi",
+    "VI": "Tiệm Trà Trên Đá"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Laura Post"
+    },
+    {
+      "lang": "CHS",
+      "va": "徐慧"
+    },
+    {
+      "lang": "JP",
+      "va": "遠藤綾"
+    },
+    {
+      "lang": "KR",
+      "va": "Min Ah"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1124.9176,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.9924,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 42.65879,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}
