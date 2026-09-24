@@ -1,0 +1,137 @@
+{
+  "id": "10000140",
+  "name": {
+    "EN": "Vodyanitsa",
+    "CHS": "沃雅妮莎",
+    "CHT": "沃雅妮莎",
+    "DE": "Vodyanitsa",
+    "ES": "Vodyanitsa",
+    "FR": "Vodyanitsa",
+    "ID": "Vodyanitsa",
+    "IT": "Vodyanitsa",
+    "JP": "ヴォジャニーツァ",
+    "KR": "보댜니차",
+    "PT": "Vodyanitsa",
+    "RU": "Водяница",
+    "TH": "Vodyanitsa",
+    "TR": "Vodyanitsa",
+    "VI": "Vodyanitsa"
+  },
+  "nameEn": "Vodyanitsa",
+  "element": "Hydro",
+  "weapon_type": "Catalyst",
+  "rarity": 5,
+  "region": "SNEZHNAYA",
+  "birthday": {
+    "month": 3,
+    "day": 29
+  },
+  "release": "2026-09-21T21:00:00",
+  "icon": "generated/character-profiles/10000140/avatar.webp",
+  "fullWish": "generated/character-profiles/10000140/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Lingering Siren-Song",
+    "CHS": "幽歌萦渊",
+    "CHT": "幽歌縈淵",
+    "DE": "Nachhallendes Sirenenlied",
+    "ES": "La Cantante Sirena",
+    "FR": "Chant envoûtant de la sirène",
+    "ID": "Lingering Siren-Song",
+    "IT": "Canto persistente della sirena",
+    "JP": "水底に響く歌声",
+    "KR": "깊은 호수의 노래",
+    "PT": "Canção de Sereia que Perdura",
+    "RU": "Песня над бездной",
+    "TH": "เพลงลับในห้วงลึก",
+    "TR": "Derinliklerde Yankılanan Ezgi",
+    "VI": "U Ca Vương Vấn"
+  },
+  "description": {
+    "EN": "Prima Donna of the Korolevskiy Troupe and a Water Imp who has parted from her kin.",
+    "CHS": "科洛列夫茨基剧团的首席女高音，离群的水妖。",
+    "CHT": "科洛列夫茨基劇團的首席女高音，離群的水妖。",
+    "DE": "Die Primadonna der Korolevskiy-Theaterkompanie, eine Wasser-Unholdin, die sich von ihresgleichen entfernt hat.",
+    "ES": "Soprano principal de la Compañía Korolevski y una nixie separada de los suyos.",
+    "FR": "Première soprano de la Troupe Korolevskiy et diableautine séparée des siens.",
+    "ID": "Prima Donna Rombongan Teater Korolevskiy, sang Imp Air yang terpisahkan dari sesamanya.",
+    "IT": "Primadonna della Compagnia Korolevskiy e Folletto dell'acqua separatosi dai suoi simili.",
+    "JP": "コロレフスキー劇団のプリマドンナを務める、群れを離れた水の精。",
+    "KR": "코롤료프스키 극단의 수석 소프라노이자, 무리에서 벗어난 물 님프",
+    "PT": "Prima donna da Companhia Korolevskiy e uma Sereia que deixou seu bando.",
+    "RU": "Одинокая русалка, примадонна Королевской труппы.",
+    "TH": "พรีมาดอนนาแห่งคณะละคร Korolevskiy และอิมป์น้ำผู้แยกตัวจากฝูง",
+    "TR": "Korolevskiy Topluluğunun primadonnası ve soyundan ayrı düşmüş bir Su İfriti.",
+    "VI": "Nữ giọng cao hàng đầu của Đoàn Kịch Korolevskiy, một thủy yêu đơn độc."
+  },
+  "constellationName": {
+    "EN": "Piscicula Aurea",
+    "CHS": "金鳍座",
+    "CHT": "金鰭座",
+    "DE": "Piscicula Aurea",
+    "ES": "Piscicula Aurea",
+    "FR": "Piscicula Aurea",
+    "ID": "Piscicula Aurea",
+    "IT": "Piscicula Aurea",
+    "JP": "ザラターヤ・ルイープカ座",
+    "KR": "황금물고기자리",
+    "PT": "Piscicula Aurea",
+    "RU": "Золотой Плавник",
+    "TH": "Piscicula Aurea",
+    "TR": "Küçük Altın Balık",
+    "VI": "Cung Kim Kỳ"
+  },
+  "native": {
+    "EN": "Korolevskiy Troupe",
+    "CHS": "科洛列夫茨基剧团",
+    "CHT": "科洛列夫茨基劇團",
+    "DE": "Korolevskiy-Theaterkompanie",
+    "ES": "Compañía Korolevski",
+    "FR": "Troupe Korolevskiy",
+    "ID": "Rombongan Teater Korolevskiy",
+    "IT": "Compagnia Korolevskiy",
+    "JP": "コロレフスキー劇団",
+    "KR": "코롤료프스키 극단",
+    "PT": "Companhia Korolevskiy",
+    "RU": "Королевская труппа",
+    "TH": "คณะละคร Korolevskiy",
+    "TR": "Korolevskiy Topluluğu",
+    "VI": "Đoàn Kịch Korolevskiy"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Suzie Yeung"
+    },
+    {
+      "lang": "CHS",
+      "va": "苏婉"
+    },
+    {
+      "lang": "JP",
+      "va": "伊藤かな恵"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Ye-ryeong"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1153.5172,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 8.379,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 37.6929,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

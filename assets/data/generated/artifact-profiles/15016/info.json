@@ -1,0 +1,69 @@
+{
+  "id": 15016,
+  "name": {
+    "EN": "Heart of Depth",
+    "CHS": "沉沦之心",
+    "CHT": "沉淪之心",
+    "DE": "Tief im Herzen",
+    "ES": "Corazón de las Profundidades",
+    "FR": "Âme des profondeurs",
+    "ID": "Heart of Depth",
+    "IT": "Cuore profondo",
+    "JP": "沈淪の心",
+    "KR": "몰락한 마음",
+    "PT": "Profundezas do Coração",
+    "RU": "Сердце глубин",
+    "TH": "Heart of Depth",
+    "TR": "Derinliğin Kalbi",
+    "VI": "Trái Tim Trầm Luân"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15016/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Hydro DMG Bonus +15%",
+        "CHS": "获得15%水元素伤害加成。",
+        "CHT": "獲得15%水元素傷害加成。",
+        "DE": "Erhöht den Hydro-Schaden um 15 %.",
+        "ES": "Bono de Daño Hydro +15%.",
+        "FR": "Confère un bonus de DGT Hydro de 15 %.",
+        "ID": "Hydro DMG Bonus +15%.",
+        "IT": "Bonus DAN da Hydro +15%.",
+        "JP": "水元素ダメージ+15%。",
+        "KR": "물 원소 피해 보너스+15%",
+        "PT": "Bônus de Dano Hydro +15%",
+        "RU": "Даёт 15% бонус Гидро урона.",
+        "TH": "ได้รับโบนัสความเสียหายน้ำ 15%",
+        "TR": "+%15 Su Hasarı Bonusu.",
+        "VI": "Nhận 15% buff sát thương nguyên tố Thủy."
+      },
+      "affixId": "2150160"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+        "CHS": "施放元素战技后的15秒内，普通攻击与重击造成的伤害提高30%。",
+        "CHT": "施放元素戰技後的15秒內，普通攻擊與重擊造成的傷害提高30%。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 15 s lang um 30 %.",
+        "ES": "Tras usar la Habilidad Elemental, aumenta el daño de Ataque Normal y Ataque Cargado en un 30% durante 15 s.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 30 % pendant 15 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Setelah melancarkan Elemental Skill, meningkatkan 30% DMG Normal dan Charged Attack selama 15 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale, aumenta di un 30% i DAN da attacchi normali e caricati per 15 s.",
+        "JP": "元素スキルを発動した後の15秒間、通常攻撃と重撃のダメージ+30%。",
+        "KR": "원소전투 스킬 발동 후 15초 동안 일반 공격과 강공격으로 주는 피해가 30% 증가한다",
+        "PT": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Carregado em 30% por 15s.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 30% в течение 15 сек. после использования элементального навыка.",
+        "TH": "ภายใน 15 วินาที หลังจากใช้สกิลธาตุ ความเสียหายของการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 30%",
+        "TR": "Element Becerisi kullandıktan sonra, 15 saniyeliğine Normal Saldırı ve Yüklü Saldırı Hasarı %30 artar.",
+        "VI": "Trong 15s sau khi sử dụng kỹ năng Nguyên Tố, tấn công thường và trọng kích tăng 30% sát thương."
+      },
+      "affixId": "2150161"
+    }
+  ]
+}

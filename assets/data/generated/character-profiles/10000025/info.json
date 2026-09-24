@@ -1,0 +1,137 @@
+{
+  "id": "10000025",
+  "name": {
+    "EN": "Xingqiu",
+    "CHS": "行秋",
+    "CHT": "行秋",
+    "DE": "Xingqiu",
+    "ES": "Xingchiu",
+    "FR": "Xingqiu",
+    "ID": "Xingqiu",
+    "IT": "Xingqiu",
+    "JP": "行秋",
+    "KR": "행추",
+    "PT": "Xingqiu",
+    "RU": "Син Цю",
+    "TH": "Xingqiu",
+    "TR": "Xingqiu",
+    "VI": "Xingqiu"
+  },
+  "nameEn": "Xingqiu",
+  "element": "Hydro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 10,
+    "day": 9
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000025/avatar.webp",
+  "fullWish": "generated/character-profiles/10000025/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 18.5%",
+  "title": {
+    "EN": "Juvenile Galant",
+    "CHS": "少年春衫薄",
+    "CHT": "少年春衫薄",
+    "DE": "Edelmütiger Jüngling",
+    "ES": "El Joven Galante",
+    "FR": "Jeune galant",
+    "ID": "Juvenile Galant",
+    "IT": "Giovane paladino",
+    "JP": "少壮気鋭",
+    "KR": "의기충천",
+    "PT": "Galante Juvenil",
+    "RU": "Галантный юноша",
+    "TH": "หนุ่มน้อยนักธุรกิจ",
+    "TR": "Gençliğin Baharı",
+    "VI": "Tuổi Trẻ Tài Cao"
+  },
+  "description": {
+    "EN": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+    "CHS": "经常能在书摊看到的少年人。手执长剑，胸中常怀侠义之心。",
+    "CHT": "經常能在書攤看到的少年人。手執長劍，胸中常懷俠義之心。",
+    "DE": "Ein junger Mann, der häufig in der Nähe von Bücherständen gesehen werden kann. In der Hand trägt er ein Langschwert, in seiner Brust ein Herz für die Schwachen.",
+    "ES": "Un joven con una espada larga al que puede verse frecuentemente en las librerías. Tiene un corazón de oro y anhela la justicia y la igualdad para todos.",
+    "FR": "Un jeune homme intègre et serviable, que l'on voit souvent dans les librairies. Il porte une longue épée, et poursuit un idéal de justice.",
+    "ID": "Seorang pria muda yang membawa sebilah pedang panjang, sering terlihat di kios buku. Memiliki hati mulia yang menjunjung tinggi keadilan dan kebenaran.",
+    "IT": "Un ragazzo con una grande passione per i libri che brandisce una lunga spada. Vanta un cuore cavalleresco e una smania per la giustizia e la lealtà.",
+    "JP": "よく本売り場で見かける少年。手には剣を、胸の中には義侠心を。",
+    "KR": "책을 파는 노점에서 자주 보이는 소년. 손에는 장검, 가슴엔 협객의 마음을 품고 있다",
+    "PT": "Um jovem carregando uma espada longa que é frequentemente visto em estantes de livros. Ele tem um coração de ouro e anseia por justiça e equidade para todos.",
+    "RU": "Молодой любитель книг с благородным сердцем и длинным мечом.",
+    "TH": "เด็กหนุ่มผู้มักจะปรากฏตัวตามแผงขายหนังสือ ในมือถือดาบยาว ในใจมีจิตวิญญาณแห่งความกล้าสถิตอยู่",
+    "TR": "Kitap tezgahlarında sıkça görülen, uzun kılıç taşıyan genç bir adam. Cesur yüreklidir ve herkes için adalet ister.",
+    "VI": "Vị thiếu niên thường được bắt gặp nơi quầy sách. Tay cầm kiếm, với một trái tim nghĩa hiệp thổn thức trong lồng ngực."
+  },
+  "constellationName": {
+    "EN": "Fabulae Textile",
+    "CHS": "锦织座",
+    "CHT": "錦織座",
+    "DE": "Fabulae Textile",
+    "ES": "Fabulae Textile",
+    "FR": "Fabulae Textile",
+    "ID": "Fabulae Textile",
+    "IT": "Fabulae Textile",
+    "JP": "錦織座",
+    "KR": "금직자리",
+    "PT": "Fabulae Textile",
+    "RU": "Пёстрый Гобелен",
+    "TH": "Fabulae Textile",
+    "TR": "Dokuma Hikayeleri",
+    "VI": "Cung Cẩm Chức"
+  },
+  "native": {
+    "EN": "Feiyun Commerce Guild",
+    "CHS": "飞云商会",
+    "CHT": "飛雲商會",
+    "DE": "Händlergilde Feiyun",
+    "ES": "Gremio de Comerciantes de Feiyun",
+    "FR": "Guilde des marchands de Feiyun",
+    "ID": "Feiyun Commerce Guild",
+    "IT": "Gilda dei commercianti di Feiyun",
+    "JP": "飛雲商会",
+    "KR": "비운 상회",
+    "PT": "Guilda de Comerciantes de Feiyun",
+    "RU": "Торговая гильдия «Фэйюнь»",
+    "TH": "สมาคมการค้า Feiyun",
+    "TR": "Feiyun Ticaret Loncası",
+    "VI": "Thương Hội Phi Vân"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Cristina Vee Valenzuela"
+    },
+    {
+      "lang": "CHS",
+      "va": "唐雅菁"
+    },
+    {
+      "lang": "JP",
+      "va": "皆川純子"
+    },
+    {
+      "lang": "KR",
+      "va": "Kwak Kyu-mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 857.08356,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.9176,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 63.51975,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

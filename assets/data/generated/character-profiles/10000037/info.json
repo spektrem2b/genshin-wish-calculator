@@ -1,0 +1,137 @@
+{
+  "id": "10000037",
+  "name": {
+    "EN": "Ganyu",
+    "CHS": "甘雨",
+    "CHT": "甘雨",
+    "DE": "Ganyu",
+    "ES": "Ganyu",
+    "FR": "Ganyu",
+    "ID": "Ganyu",
+    "IT": "Ganyu",
+    "JP": "甘雨",
+    "KR": "감우",
+    "PT": "Ganyu",
+    "RU": "Гань Юй",
+    "TH": "Ganyu",
+    "TR": "Ganyu",
+    "VI": "Ganyu"
+  },
+  "nameEn": "Ganyu",
+  "element": "Cryo",
+  "weapon_type": "Bow",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 12,
+    "day": 2
+  },
+  "release": "2021-01-12T16:00:00",
+  "icon": "generated/character-profiles/10000037/avatar.webp",
+  "fullWish": "generated/character-profiles/10000037/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 20.8%",
+  "title": {
+    "EN": "Plenilune Gaze",
+    "CHS": "循循守月",
+    "CHT": "循循守月",
+    "DE": "Mondhüter",
+    "ES": "La Vigía del Plenilunio",
+    "FR": "Défense fervente",
+    "ID": "Plenilune Gaze",
+    "IT": "Sguardo del plenilunio",
+    "JP": "循々守月",
+    "KR": "리월의 수호자",
+    "PT": "Defensora Devota",
+    "RU": "Взгляд полнолуния",
+    "TH": "ผู้พิทักษ์แห่งจันทรา",
+    "TR": "Dolunay Gözcüsü",
+    "VI": "Người Bảo Vệ Tận Tâm"
+  },
+  "description": {
+    "EN": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+    "CHS": "月海亭的秘书，体内流淌着仙兽「麒麟」的血脉。",
+    "CHT": "月海亭的秘書，體內流淌著仙獸「麒麟」的血脈。",
+    "DE": "Eine Sekretärin im Yuehai-Pavillon, in deren Adern das Blut eines Qilins, einer göttlichen Bestie, fließt.",
+    "ES": "La secretaria del Pabellón Yuehai. La sangre de bestia iluminada Chilin fluye por sus venas.",
+    "FR": "Secrétaire du Pavillon Yuehai ; du sang de Qilin, la créature mythique, coule dans ses veines.",
+    "ID": "Seorang sekretaris di Yuehai Pavilion. Darah hewan pusaka Qilin mengalir di dalam tubuhnya.",
+    "IT": "La segretaria del Padiglione Yuehai. Nelle sue vene scorre il sangue del Qilin, una bestia illuminata.",
+    "JP": "月海亭の秘書。その身には仙獣「麒麟」の血が流れている。",
+    "KR": "월해정의 비서. 몸 안에 신수 「기린」의 피가 흐르고 있다",
+    "PT": "Secretária do Pavilhão Yuehai. O sangue da besta iluminada Qilin flui nas suas veias.",
+    "RU": "Главный секретарь павильона Лунного моря. В её жилах течёт кровь мифического зверя цилиня.",
+    "TH": "เลขาของ Yuehai Pavilion มีเลือดของสัตว์เวท \"กิเลน\" ไหลเวียนอยู่ในร่างกาย",
+    "TR": "Yuehai Konağı sekreteri. Damarlarında aydınlanmış bir yaratık olan qilin'in kanı akar.",
+    "VI": "Thư ký tại Nguyệt Hải Đình, trong người chứa huyết mạch của tiên thú Kỳ Lân."
+  },
+  "constellationName": {
+    "EN": "Sinae Unicornis",
+    "CHS": "仙麟座",
+    "CHT": "仙麟座",
+    "DE": "Sinae Unicornis",
+    "ES": "Sinae Unicornis",
+    "FR": "Sinae Unicornis",
+    "ID": "Sinae Unicornis",
+    "IT": "Sinae Unicornis",
+    "JP": "仙麟座",
+    "KR": "선린자리",
+    "PT": "Sinae Unicornis",
+    "RU": "Священная Лань",
+    "TH": "Sinae Unicornis",
+    "TR": "Kadim Tekboynuz",
+    "VI": "Cung Tiên Lân"
+  },
+  "native": {
+    "EN": "Yuehai Pavilion",
+    "CHS": "月海亭",
+    "CHT": "月海亭",
+    "DE": "Yuehai-Pavillon",
+    "ES": "Pabellón Yuehai",
+    "FR": "Pavillon Yuehai",
+    "ID": "Yuehai Pavilion",
+    "IT": "Padiglione Yuehai",
+    "JP": "月海亭",
+    "KR": "월해정",
+    "PT": "Pavilhão Yuehai",
+    "RU": "Павильон Лунного моря",
+    "TH": "Yuehai Pavilion",
+    "TR": "Yuehai Konağı",
+    "VI": "Nguyệt Hải Đình"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Rachel Lepore & Jennifer Losi"
+    },
+    {
+      "lang": "CHS",
+      "va": "林簌"
+    },
+    {
+      "lang": "JP",
+      "va": "上田麗奈"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Seon-hye"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 762.656,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.068,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 49.0606,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

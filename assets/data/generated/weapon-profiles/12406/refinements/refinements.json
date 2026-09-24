@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Crush",
+    "CHS": "粉碎",
+    "CHT": "粉碎",
+    "DE": "Zermalmen",
+    "ES": "Pulverizar",
+    "FR": "Pulvérisation",
+    "ID": "Crush",
+    "IT": "Polverizzazione",
+    "JP": "粉砕",
+    "KR": "분쇄",
+    "PT": "Esmagar",
+    "RU": "Громила",
+    "TH": "Crush",
+    "TR": "Parçalama",
+    "VI": "Vụn Vỡ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 240% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+        "CHS": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成240%攻击力的额外伤害。该效果每15秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，有50%的機率對小範圍內的敵人造成240%攻擊力的額外傷害。該效果每15秒只能觸發一次。",
+        "DE": "Fügt Gegnern bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % zusätzlichen Schaden in Höhe von 240 % ANG mit geringer Reichweite zu. 15 s Abklingzeit.",
+        "ES": "Al atacar con un Ataque Normal o Cargado, hay un 50% de probabilidad de infligir un 240% de daño de ATQ adicional en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances d'infliger 240 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat mengenai musuh, Normal atau Charged Attack memiliki 50% persentase untuk mengakibatkan DMG tambahan sebesar 240% ATK di area kecil. Dapat terpicu setiap 15 detik",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati hanno un 50% di probabilità d'infliggere un 240% di DAN da ATT aggiuntivi agli avversari in una piccola area d'effetto. Si può verificare una sola volta ogni 15 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の240%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 후 50%의 확률로 작은 범위 내의 적에게 공격력 240%의 추가 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou um Ataque Carregado, possui 50% de chance de causar 240% de Dano de ATQ adicional em uma área pequena. Este efeito pode ser ativado uma vez a cada 15s.",
+        "RU": "При попадании обычной или заряженной атакой имеет 50% шанс нанести дополнительные 240% урона в небольшом радиусе. Может возникнуть раз в 15 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมายจะมีโอกาส 50% ที่จะสร้างความเสียหายเพิ่มเติม 240% ของพลังโจมตีแก่ศัตรูที่อยู่ในพื้นที่วงแคบ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Darbe vurduğunda, Normal veya Yüklü Saldırılar %50 ihtimalle küçük bir alandaki düşmanlara ek olarak %240 Saldırı kadar Hasar verir. 15 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, có tỷ lệ 50% tạo thành 240% sát thương thêm trong phạm vi nhỏ. Mỗi 15s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 300% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+        "CHS": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成300%攻击力的额外伤害。该效果每15秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，有50%的機率對小範圍內的敵人造成300%攻擊力的額外傷害。該效果每15秒只能觸發一次。",
+        "DE": "Fügt Gegnern bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % zusätzlichen Schaden in Höhe von 300 % ANG mit geringer Reichweite zu. 15 s Abklingzeit.",
+        "ES": "Al atacar con un Ataque Normal o Cargado, hay un 50% de probabilidad de infligir un 300% de daño de ATQ adicional en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances d'infliger 300 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat mengenai musuh, Normal atau Charged Attack memiliki 50% persentase untuk mengakibatkan DMG tambahan sebesar 300% ATK di area kecil. Dapat terpicu setiap 15 detik",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati hanno un 50% di probabilità d'infliggere un 300% di DAN da ATT aggiuntivi agli avversari in una piccola area d'effetto. Si può verificare una sola volta ogni 15 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の300%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 후 50%의 확률로 작은 범위 내의 적에게 공격력 300%의 추가 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou um Ataque Carregado, possui 50% de chance de causar 300% de Dano de ATQ adicional em uma área pequena. Este efeito pode ser ativado uma vez a cada 15s.",
+        "RU": "При попадании обычной или заряженной атакой имеет 50% шанс нанести дополнительные 300% урона в небольшом радиусе. Может возникнуть раз в 15 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมายจะมีโอกาส 50% ที่จะสร้างความเสียหายเพิ่มเติม 300% ของพลังโจมตีแก่ศัตรูที่อยู่ในพื้นที่วงแคบ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Darbe vurduğunda, Normal veya Yüklü Saldırılar %50 ihtimalle küçük bir alandaki düşmanlara ek olarak %300 Saldırı kadar Hasar verir. 15 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, có tỷ lệ 50% tạo thành 300% sát thương thêm trong phạm vi nhỏ. Mỗi 15s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 360% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+        "CHS": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成360%攻击力的额外伤害。该效果每15秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，有50%的機率對小範圍內的敵人造成360%攻擊力的額外傷害。該效果每15秒只能觸發一次。",
+        "DE": "Fügt Gegnern bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % zusätzlichen Schaden in Höhe von 360 % ANG mit geringer Reichweite zu. 15 s Abklingzeit.",
+        "ES": "Al atacar con un Ataque Normal o Cargado, hay un 50% de probabilidad de infligir un 360% de daño de ATQ adicional en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances d'infliger 360 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat mengenai musuh, Normal atau Charged Attack memiliki 50% persentase untuk mengakibatkan DMG tambahan sebesar 360% ATK di area kecil. Dapat terpicu setiap 15 detik",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati hanno un 50% di probabilità d'infliggere un 360% di DAN da ATT aggiuntivi agli avversari in una piccola area d'effetto. Si può verificare una sola volta ogni 15 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の360%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 후 50%의 확률로 작은 범위 내의 적에게 공격력 360%의 추가 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou um Ataque Carregado, possui 50% de chance de causar 360% de Dano de ATQ adicional em uma área pequena. Este efeito pode ser ativado uma vez a cada 15s.",
+        "RU": "При попадании обычной или заряженной атакой имеет 50% шанс нанести дополнительные 360% урона в небольшом радиусе. Может возникнуть раз в 15 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมายจะมีโอกาส 50% ที่จะสร้างความเสียหายเพิ่มเติม 360% ของพลังโจมตีแก่ศัตรูที่อยู่ในพื้นที่วงแคบ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Darbe vurduğunda, Normal veya Yüklü Saldırılar %50 ihtimalle küçük bir alandaki düşmanlara ek olarak %360 Saldırı kadar Hasar verir. 15 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, có tỷ lệ 50% tạo thành 360% sát thương thêm trong phạm vi nhỏ. Mỗi 15s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 420% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+        "CHS": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成420%攻击力的额外伤害。该效果每15秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，有50%的機率對小範圍內的敵人造成420%攻擊力的額外傷害。該效果每15秒只能觸發一次。",
+        "DE": "Fügt Gegnern bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % zusätzlichen Schaden in Höhe von 420 % ANG mit geringer Reichweite zu. 15 s Abklingzeit.",
+        "ES": "Al atacar con un Ataque Normal o Cargado, hay un 50% de probabilidad de infligir un 420% de daño de ATQ adicional en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances d'infliger 420 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat mengenai musuh, Normal atau Charged Attack memiliki 50% persentase untuk mengakibatkan DMG tambahan sebesar 420% ATK di area kecil. Dapat terpicu setiap 15 detik",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati hanno un 50% di probabilità d'infliggere un 420% di DAN da ATT aggiuntivi agli avversari in una piccola area d'effetto. Si può verificare una sola volta ogni 15 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の420%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 후 50%의 확률로 작은 범위 내의 적에게 공격력 420%의 추가 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou um Ataque Carregado, possui 50% de chance de causar 420% de Dano de ATQ adicional em uma área pequena. Este efeito pode ser ativado uma vez a cada 15s.",
+        "RU": "При попадании обычной или заряженной атакой имеет 50% шанс нанести дополнительные 420% урона в небольшом радиусе. Может возникнуть раз в 15 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมายจะมีโอกาส 50% ที่จะสร้างความเสียหายเพิ่มเติม 420% ของพลังโจมตีแก่ศัตรูที่อยู่ในพื้นที่วงแคบ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Darbe vurduğunda, Normal veya Yüklü Saldırılar %50 ihtimalle küçük bir alandaki düşmanlara ek olarak %420 Saldırı kadar Hasar verir. 15 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, có tỷ lệ 50% tạo thành 420% sát thương thêm trong phạm vi nhỏ. Mỗi 15s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 480% ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+        "CHS": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成480%攻击力的额外伤害。该效果每15秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，有50%的機率對小範圍內的敵人造成480%攻擊力的額外傷害。該效果每15秒只能觸發一次。",
+        "DE": "Fügt Gegnern bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % zusätzlichen Schaden in Höhe von 480 % ANG mit geringer Reichweite zu. 15 s Abklingzeit.",
+        "ES": "Al atacar con un Ataque Normal o Cargado, hay un 50% de probabilidad de infligir un 480% de daño de ATQ adicional en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 15 s.",
+        "FR": "Les attaques normales et chargées ont 50 % de chances d'infliger 480 % de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "ID": "Saat mengenai musuh, Normal atau Charged Attack memiliki 50% persentase untuk mengakibatkan DMG tambahan sebesar 480% ATK di area kecil. Dapat terpicu setiap 15 detik",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati hanno un 50% di probabilità d'infliggere un 480% di DAN da ATT aggiuntivi agli avversari in una piccola area d'effetto. Si può verificare una sola volta ogni 15 s.",
+        "JP": "通常攻撃または重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の480%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 후 50%의 확률로 작은 범위 내의 적에게 공격력 480%의 추가 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou um Ataque Carregado, possui 50% de chance de causar 480% de Dano de ATQ adicional em uma área pequena. Este efeito pode ser ativado uma vez a cada 15s.",
+        "RU": "При попадании обычной или заряженной атакой имеет 50% шанс нанести дополнительные 480% урона в небольшом радиусе. Может возникнуть раз в 15 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมายจะมีโอกาส 50% ที่จะสร้างความเสียหายเพิ่มเติม 480% ของพลังโจมตีแก่ศัตรูที่อยู่ในพื้นที่วงแคบ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+        "TR": "Darbe vurduğunda, Normal veya Yüklü Saldırılar %50 ihtimalle küçük bir alandaki düşmanlara ek olarak %480 Saldırı kadar Hasar verir. 15 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, có tỷ lệ 50% tạo thành 480% sát thương thêm trong phạm vi nhỏ. Mỗi 15s mới thi triển 1 lần."
+      }
+    }
+  ]
+}

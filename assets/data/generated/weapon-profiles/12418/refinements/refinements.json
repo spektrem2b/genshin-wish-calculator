@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Whispers of Wind and Flower",
+    "CHS": "风与花的密语",
+    "CHT": "風與花的密語",
+    "DE": "Flüstern von Wind und Blumen",
+    "ES": "Código vientoflorido",
+    "FR": "Murmure des vents et des fleurs",
+    "ID": "Whispers of Wind and Flower",
+    "IT": "Sussurri di vento e fiori",
+    "JP": "風と花の合言葉",
+    "KR": "바람과 꽃의 속삭임",
+    "PT": "Código do Vento e das Flores",
+    "RU": "Тайный язык ветра и цветов",
+    "TH": "Whispers of Wind and Flower",
+    "TR": "Rüzgar ile Çiçeğin Fısıltıları",
+    "VI": "Lời Thì Thầm Hoa Gió"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 12% and 48 respectively.",
+        "CHS": "元素战技命中敌人或触发元素反应后的8秒内，攻击力提升12%，元素精通提升48点。",
+        "CHT": "元素戰技命中敵人或觸發元素反應後的8秒內，攻擊力提升12%，元素精通提升48點。",
+        "DE": "Erhöht 8 s lang, nachdem Gegner mit einer Elementarfähigkeit getroffen wurden, oder nach dem Auslösen einer Elementarreaktion den ANG um 12 % und die Elementarkunde um 48 Punkte.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental o tras causar una Reacción Elemental, el ATQ aumenta en un 12% y la Maestría Elemental aumenta en 48 pts. durante 8 s.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire ou déclencher une réaction élémentaire augmente pendant 8 s l'ATQ de 12 % et la maîtrise élémentaire de 48 pts.",
+        "ID": "Selama 8 detik setelah Elemental Skill mengenai musuh atau Reaksi Elemental terpicu, ATK meningkat 12%, Elemental Mastery meningkat 48 poin.",
+        "IT": "#Entro 8 s dopo che l'abilità elementale del personaggio colpisce un avversario o che il personaggio innesca una reazione elementale, l'ATT e la maestria elementale del personaggio aumentano rispettivamente di un 12% e di 48.",
+        "JP": "元素スキルが敵に命中する、または元素反応を起こした後の8秒間、攻撃力+12%、元素熟知+48。",
+        "KR": "원소전투 스킬이 적에게 명중하거나 원소 반응 발동 후, 8초 동안 공격력이 12% 증가하고, 원소 마스터리가 48pt 증가한다",
+        "PT": "Nos 8s depois da Habilidade Elemental atingir um inimigo ou desencadear uma Reação Elemental, aumenta o ATQ em 12% e a Proficiência Elemental em 48.",
+        "RU": "После попадания элементальным навыком по противнику или активации элементальной реакции, на 8 сек. сила атаки повышается на 12%, а мастерство стихий - на 48 ед.",
+        "TH": "ภายใน 8 วินาที หลังจากที่สกิลธาตุถูกศัตรู หรือทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 12% และความชำนาญธาตุจะเพิ่มขึ้น 48 หน่วย",
+        "TR": "Karakterin Element Becerisi bir düşmana isabet ettikten veya karakter bir Element Tepkimesi tetikledikten sonraki 8sn boyunca karakterin Saldırı ve Element Ustalığı sırasıyla %12 ve 48 artar.",
+        "VI": "Trong 8s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch hoặc kích hoạt phản ứng nguyên tố, tấn công tăng 12%, Tinh Thông Nguyên Tố tăng 48 điểm."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 15% and 60 respectively.",
+        "CHS": "元素战技命中敌人或触发元素反应后的8秒内，攻击力提升15%，元素精通提升60点。",
+        "CHT": "元素戰技命中敵人或觸發元素反應後的8秒內，攻擊力提升15%，元素精通提升60點。",
+        "DE": "Erhöht 8 s lang, nachdem Gegner mit einer Elementarfähigkeit getroffen wurden, oder nach dem Auslösen einer Elementarreaktion den ANG um 15 % und die Elementarkunde um 60 Punkte.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental o tras causar una Reacción Elemental, el ATQ aumenta en un 15% y la Maestría Elemental aumenta en 60 pts. durante 8 s.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire ou déclencher une réaction élémentaire augmente pendant 8 s l'ATQ de 15 % et la maîtrise élémentaire de 60 pts.",
+        "ID": "Selama 8 detik setelah Elemental Skill mengenai musuh atau Reaksi Elemental terpicu, ATK meningkat 15%, Elemental Mastery meningkat 60 poin.",
+        "IT": "#Entro 8 s dopo che l'abilità elementale del personaggio colpisce un avversario o che il personaggio innesca una reazione elementale, l'ATT e la maestria elementale del personaggio aumentano rispettivamente di un 15% e di 60.",
+        "JP": "元素スキルが敵に命中する、または元素反応を起こした後の8秒間、攻撃力+15%、元素熟知+60。",
+        "KR": "원소전투 스킬이 적에게 명중하거나 원소 반응 발동 후, 8초 동안 공격력이 15% 증가하고, 원소 마스터리가 60pt 증가한다",
+        "PT": "Nos 8s depois da Habilidade Elemental atingir um inimigo ou desencadear uma Reação Elemental, aumenta o ATQ em 15% e a Proficiência Elemental em 60.",
+        "RU": "После попадания элементальным навыком по противнику или активации элементальной реакции, на 8 сек. сила атаки повышается на 15%, а мастерство стихий - на 60 ед.",
+        "TH": "ภายใน 8 วินาที หลังจากที่สกิลธาตุถูกศัตรู หรือทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 15% และความชำนาญธาตุจะเพิ่มขึ้น 60 หน่วย",
+        "TR": "Karakterin Element Becerisi bir düşmana isabet ettikten veya karakter bir Element Tepkimesi tetikledikten sonraki 8sn boyunca karakterin Saldırı ve Element Ustalığı sırasıyla %15 ve 60 artar.",
+        "VI": "Trong 8s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch hoặc kích hoạt phản ứng nguyên tố, tấn công tăng 15%, Tinh Thông Nguyên Tố tăng 60 điểm."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 18% and 72 respectively.",
+        "CHS": "元素战技命中敌人或触发元素反应后的8秒内，攻击力提升18%，元素精通提升72点。",
+        "CHT": "元素戰技命中敵人或觸發元素反應後的8秒內，攻擊力提升18%，元素精通提升72點。",
+        "DE": "Erhöht 8 s lang, nachdem Gegner mit einer Elementarfähigkeit getroffen wurden, oder nach dem Auslösen einer Elementarreaktion den ANG um 18 % und die Elementarkunde um 72 Punkte.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental o tras causar una Reacción Elemental, el ATQ aumenta en un 18% y la Maestría Elemental aumenta en 72 pts. durante 8 s.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire ou déclencher une réaction élémentaire augmente pendant 8 s l'ATQ de 18 % et la maîtrise élémentaire de 72 pts.",
+        "ID": "Selama 8 detik setelah Elemental Skill mengenai musuh atau Reaksi Elemental terpicu, ATK meningkat 18%, Elemental Mastery meningkat 72 poin.",
+        "IT": "#Entro 8 s dopo che l'abilità elementale del personaggio colpisce un avversario o che il personaggio innesca una reazione elementale, l'ATT e la maestria elementale del personaggio aumentano rispettivamente di un 18% e di 72.",
+        "JP": "元素スキルが敵に命中する、または元素反応を起こした後の8秒間、攻撃力+18%、元素熟知+72。",
+        "KR": "원소전투 스킬이 적에게 명중하거나 원소 반응 발동 후, 8초 동안 공격력이 18% 증가하고, 원소 마스터리가 72pt 증가한다",
+        "PT": "Nos 8s depois da Habilidade Elemental atingir um inimigo ou desencadear uma Reação Elemental, aumenta o ATQ em 18% e a Proficiência Elemental em 72.",
+        "RU": "После попадания элементальным навыком по противнику или активации элементальной реакции, на 8 сек. сила атаки повышается на 18%, а мастерство стихий - на 72 ед.",
+        "TH": "ภายใน 8 วินาที หลังจากที่สกิลธาตุถูกศัตรู หรือทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 18% และความชำนาญธาตุจะเพิ่มขึ้น 72 หน่วย",
+        "TR": "Karakterin Element Becerisi bir düşmana isabet ettikten veya karakter bir Element Tepkimesi tetikledikten sonraki 8sn boyunca karakterin Saldırı ve Element Ustalığı sırasıyla %18 ve 72 artar.",
+        "VI": "Trong 8s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch hoặc kích hoạt phản ứng nguyên tố, tấn công tăng 18%, Tinh Thông Nguyên Tố tăng 72 điểm."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 21% and 84 respectively.",
+        "CHS": "元素战技命中敌人或触发元素反应后的8秒内，攻击力提升21%，元素精通提升84点。",
+        "CHT": "元素戰技命中敵人或觸發元素反應後的8秒內，攻擊力提升21%，元素精通提升84點。",
+        "DE": "Erhöht 8 s lang, nachdem Gegner mit einer Elementarfähigkeit getroffen wurden, oder nach dem Auslösen einer Elementarreaktion den ANG um 21 % und die Elementarkunde um 84 Punkte.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental o tras causar una Reacción Elemental, el ATQ aumenta en un 21% y la Maestría Elemental aumenta en 84 pts. durante 8 s.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire ou déclencher une réaction élémentaire augmente pendant 8 s l'ATQ de 21 % et la maîtrise élémentaire de 84 pts.",
+        "ID": "Selama 8 detik setelah Elemental Skill mengenai musuh atau Reaksi Elemental terpicu, ATK meningkat 21%, Elemental Mastery meningkat 84 poin.",
+        "IT": "#Entro 8 s dopo che l'abilità elementale del personaggio colpisce un avversario o che il personaggio innesca una reazione elementale, l'ATT e la maestria elementale del personaggio aumentano rispettivamente di un 21% e di 84.",
+        "JP": "元素スキルが敵に命中する、または元素反応を起こした後の8秒間、攻撃力+21%、元素熟知+84。",
+        "KR": "원소전투 스킬이 적에게 명중하거나 원소 반응 발동 후, 8초 동안 공격력이 21% 증가하고, 원소 마스터리가 84pt 증가한다",
+        "PT": "Nos 8s depois da Habilidade Elemental atingir um inimigo ou desencadear uma Reação Elemental, aumenta o ATQ em 21% e a Proficiência Elemental em 84.",
+        "RU": "После попадания элементальным навыком по противнику или активации элементальной реакции, на 8 сек. сила атаки повышается на 21%, а мастерство стихий - на 84 ед.",
+        "TH": "ภายใน 8 วินาที หลังจากที่สกิลธาตุถูกศัตรู หรือทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 21% และความชำนาญธาตุจะเพิ่มขึ้น 84 หน่วย",
+        "TR": "Karakterin Element Becerisi bir düşmana isabet ettikten veya karakter bir Element Tepkimesi tetikledikten sonraki 8sn boyunca karakterin Saldırı ve Element Ustalığı sırasıyla %21 ve 84 artar.",
+        "VI": "Trong 8s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch hoặc kích hoạt phản ứng nguyên tố, tấn công tăng 21%, Tinh Thông Nguyên Tố tăng 84 điểm."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 24% and 96 respectively.",
+        "CHS": "元素战技命中敌人或触发元素反应后的8秒内，攻击力提升24%，元素精通提升96点。",
+        "CHT": "元素戰技命中敵人或觸發元素反應後的8秒內，攻擊力提升24%，元素精通提升96點。",
+        "DE": "Erhöht 8 s lang, nachdem Gegner mit einer Elementarfähigkeit getroffen wurden, oder nach dem Auslösen einer Elementarreaktion den ANG um 24 % und die Elementarkunde um 96 Punkte.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental o tras causar una Reacción Elemental, el ATQ aumenta en un 24% y la Maestría Elemental aumenta en 96 pts. durante 8 s.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire ou déclencher une réaction élémentaire augmente pendant 8 s l'ATQ de 24 % et la maîtrise élémentaire de 96 pts.",
+        "ID": "Selama 8 detik setelah Elemental Skill mengenai musuh atau Reaksi Elemental terpicu, ATK meningkat 24%, Elemental Mastery meningkat 96 poin.",
+        "IT": "#Entro 8 s dopo che l'abilità elementale del personaggio colpisce un avversario o che il personaggio innesca una reazione elementale, l'ATT e la maestria elementale del personaggio aumentano rispettivamente di un 24% e di 96.",
+        "JP": "元素スキルが敵に命中する、または元素反応を起こした後の8秒間、攻撃力+24%、元素熟知+96。",
+        "KR": "원소전투 스킬이 적에게 명중하거나 원소 반응 발동 후, 8초 동안 공격력이 24% 증가하고, 원소 마스터리가 96pt 증가한다",
+        "PT": "Nos 8s depois da Habilidade Elemental atingir um inimigo ou desencadear uma Reação Elemental, aumenta o ATQ em 24% e a Proficiência Elemental em 96.",
+        "RU": "После попадания элементальным навыком по противнику или активации элементальной реакции, на 8 сек. сила атаки повышается на 24%, а мастерство стихий - на 96 ед.",
+        "TH": "ภายใน 8 วินาที หลังจากที่สกิลธาตุถูกศัตรู หรือทำให้เกิดปฏิกิริยาธาตุ พลังโจมตีจะเพิ่มขึ้น 24% และความชำนาญธาตุจะเพิ่มขึ้น 96 หน่วย",
+        "TR": "Karakterin Element Becerisi bir düşmana isabet ettikten veya karakter bir Element Tepkimesi tetikledikten sonraki 8sn boyunca karakterin Saldırı ve Element Ustalığı sırasıyla %24 ve 96 artar.",
+        "VI": "Trong 8s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch hoặc kích hoạt phản ứng nguyên tố, tấn công tăng 24%, Tinh Thông Nguyên Tố tăng 96 điểm."
+      }
+    }
+  ]
+}

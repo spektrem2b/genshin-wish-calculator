@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Windfall",
+    "CHS": "顺风而行",
+    "CHT": "順風而行",
+    "DE": "Folge dem Wind",
+    "ES": "Avanza con el viento",
+    "FR": "Charge critique",
+    "ID": "Wind Companion",
+    "IT": "Vento propizio",
+    "JP": "追い風が吹く",
+    "KR": "바람과 함께",
+    "PT": "Companhia do Vento",
+    "RU": "Дружественный бриз",
+    "TH": "Windfall",
+    "TR": "Talih Kuşu",
+    "VI": "Đi Cùng Với Gió"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.",
+        "CHS": "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
+        "CHT": "攻擊造成暴擊時，有60%的機率產生少量元素微粒，能為角色恢復6點元素能量。該效果每12秒只能觸發一次。",
+        "DE": "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 60 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 12 s Abklingzeit.",
+        "ES": "Los Golpes CRIT tienen un 60% de probabilidad de generar una pequeña cantidad de partículas elementales, las cuales regenerarán 6 pts. de Energía para el personaje. Solo puede ocurrir una vez cada 12 s.",
+        "FR": "Les coups CRIT des attaques ont 60 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les 12 s.",
+        "ID": "Serangan CRIT memiliki 60% persentase untuk memunculkan sejumlah kecil Elemental Particle yang bisa memulihkan energy karakter sebanyak 6 pt. Dapat terpicu setiap 12 detik.",
+        "IT": "#I colpi CRIT hanno un 60% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l'energia del personaggio. Si può verificare una sola volta ogni 12 s.",
+        "JP": "会心攻撃をした時、60%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。12秒毎に1回のみ発動可能。",
+        "KR": "치명타 시 60%의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 12초마다 1회만 발동한다",
+        "PT": "Os Acertos Críticos possuem 60% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 12s.",
+        "RU": "Критические атаки имеют 60% шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в 12 сек.",
+        "TH": "เมื่อโจมตีคริติคอล จะมีโอกาส 60% ที่จะ สร้างอณูธาตุ ซึ่งใช้ฟื้นฟู พลังงานธาตุได้ 6 หน่วย โดยเอฟเฟกต์นี้จะใช้ได้ หนึ่งครั้งในทุก 12 วินาที",
+        "TR": "Kritik Vuruşlar, %60 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 12 saniyede bir uygulanabilir.",
+        "VI": "Khi tạo thành bạo kích có tỷ lệ 60% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 12s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "CRIT Hits have a 70% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 10.5s.",
+        "CHS": "攻击造成暴击时，有70%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每10.5秒只能触发一次。",
+        "CHT": "攻擊造成暴擊時，有70%的機率產生少量元素微粒，能為角色恢復6點元素能量。該效果每10.5秒只能觸發一次。",
+        "DE": "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 70 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 10,5 s Abklingzeit.",
+        "ES": "Los Golpes CRIT tienen un 70% de probabilidad de generar una pequeña cantidad de partículas elementales, las cuales regenerarán 6 pts. de Energía para el personaje. Solo puede ocurrir una vez cada 10.5 s.",
+        "FR": "Les coups CRIT des attaques ont 70 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les 10,5 s.",
+        "ID": "Serangan CRIT memiliki 70% persentase untuk memunculkan sejumlah kecil Elemental Orb yang bisa memulihkan energy karakter sebanyak 6 pt. Dapat terpicu setiap 10,5 detik.",
+        "IT": "#I colpi CRIT hanno un 70% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l'energia del personaggio. Si può verificare una sola volta ogni 10,5 s.",
+        "JP": "会心攻撃をした時、70%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。10.5秒毎に1回のみ発動可能。",
+        "KR": "치명타 시 70%의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 10.5초마다 1회만 발동한다",
+        "PT": "Os Acertos Críticos possuem 70% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 10.5s.",
+        "RU": "Критические атаки имеют 70% шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в 10,5 сек.",
+        "TH": "เมื่อโจมตีคริติคอล จะมีโอกาส 70% ที่จะ สร้างอณูธาตุ ซึ่งใช้ฟื้นฟู พลังงานธาตุได้ 6 หน่วย โดยเอฟเฟกต์นี้จะใช้ได้ หนึ่งครั้งในทุก 10.5 วินาที",
+        "TR": "Kritik Vuruşlar, %70 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 10,5 saniyede bir uygulanabilir.",
+        "VI": "Khi tạo thành bạo kích có tỷ lệ 70% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 10.5s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "CRIT Hits have a 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s.",
+        "CHS": "攻击造成暴击时，有80%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每9秒只能触发一次。",
+        "CHT": "攻擊造成暴擊時，有80%的機率產生少量元素微粒，能為角色恢復6點元素能量。該效果每9秒只能觸發一次。",
+        "DE": "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 80 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 9 s Abklingzeit.",
+        "ES": "Los Golpes CRIT tienen un 80% de probabilidad de generar una pequeña cantidad de partículas elementales, las cuales regenerarán 6 pts. de Energía para el personaje. Solo puede ocurrir una vez cada 9 s.",
+        "FR": "Les coups CRIT des attaques ont 80 % de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les 9 s.",
+        "ID": "Serangan CRIT memiliki 80% persentase untuk memunculkan sejumlah kecil Elemental Particle yang bisa memulihkan energy karakter sebanyak 6 pt. Dapat terpicu setiap 9 detik.",
+        "IT": "#I colpi CRIT hanno un 80% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l'energia del personaggio. Si può verificare una sola volta ogni 9 s.",
+        "JP": "会心攻撃をした時、80%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。9秒毎に1回のみ発動可能。",
+        "KR": "치명타 시 80%의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 9초마다 1회만 발동한다",
+        "PT": "Os Acertos Críticos possuem 80% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 9s.",
+        "RU": "Критические атаки имеют 80% шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в 9 сек.",
+        "TH": "เมื่อโจมตีคริติคอล จะมีโอกาส 80% ที่จะ สร้างอณูธาตุ ซึ่งใช้ฟื้นฟู พลังงานธาตุได้ 6 หน่วย โดยเอฟเฟกต์นี้จะใช้ได้ หนึ่งครั้งในทุก 9 วินาที",
+        "TR": "Kritik Vuruşlar, %80 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 9 saniyede bir uygulanabilir.",
+        "VI": "Khi tạo thành bạo kích có tỷ lệ 80% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 9s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "CRIT Hits have a 90% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 7.5s.",
+        "CHS": "攻击造成暴击时，有90%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每7.5秒只能触发一次。",
+        "CHT": "攻擊造成暴擊時，有90%的機率產生少量元素微粒，能為角色恢復6點元素能量。該效果每7.5秒只能觸發一次。",
+        "DE": "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 90 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 7,5 s Abklingzeit.",
+        "ES": "Los Golpes CRIT tienen un 90% de probabilidad de generar una pequeña cantidad de partículas elementales, las cuales regenerarán 6 pts. de Energía para el personaje. Solo puede ocurrir una vez cada 7.5 s.",
+        "FR": "Les coups CRIT des attaques ont 90 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les 7,5 s.",
+        "ID": "Serangan CRIT memiliki 90% persentase untuk memunculkan sejumlah kecil Elemental Orb yang bisa memulihkan energy karakter sebanyak 6 pt. Dapat terpicu setiap 7,5 detik.",
+        "IT": "#I colpi CRIT hanno un 90% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l'energia del personaggio. Si può verificare una sola volta ogni 7,5 s.",
+        "JP": "会心攻撃をした時、90%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。7.5秒毎に1回のみ発動可能。",
+        "KR": "치명타 시 90%의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 7.5초마다 1회만 발동한다",
+        "PT": "Os Acertos Críticos possuem 90% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 7.5s.",
+        "RU": "Критические атаки имеют 90% шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в 7,5 сек.",
+        "TH": "เมื่อโจมตีคริติคอล จะมีโอกาส 90% ที่จะ สร้างอณูธาตุ ซึ่งใช้ฟื้นฟู พลังงานธาตุได้ 6 หน่วย โดยเอฟเฟกต์นี้จะใช้ได้ หนึ่งครั้งในทุก 7.5 วินาที",
+        "TR": "Kritik Vuruşlar, %90 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 7,5 saniyede bir uygulanabilir.",
+        "VI": "Khi tạo thành bạo kích có tỷ lệ 90% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 7.5s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.",
+        "CHS": "攻击造成暴击时，有100%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每6秒只能触发一次。",
+        "CHT": "攻擊造成暴擊時，有100%的機率產生少量元素微粒，能為角色恢復6點元素能量。該效果每6秒只能觸發一次。",
+        "DE": "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 100 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 6 s Abklingzeit.",
+        "ES": "Los Golpes CRIT tienen un 100% de probabilidad de generar una pequeña cantidad de partículas elementales, las cuales regenerarán 6 pts. de Energía para el personaje. Solo puede ocurrir una vez cada 6 s.",
+        "FR": "Les coups CRIT des attaques ont 100 % de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d'énergie. Cet effet peut être déclenché une fois toutes les 6 s.",
+        "ID": "Serangan CRIT memiliki 100% persentase untuk memunculkan sejumlah kecil Elemental Particle yang bisa memulihkan energy karakter sebanyak 6 pt. Dapat terpicu setiap 6 detik.",
+        "IT": "#I colpi CRIT hanno un 100% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l'energia del personaggio. Si può verificare una sola volta ogni 6 s.",
+        "JP": "会心攻撃をした時、100%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。6秒毎に1回のみ発動可能。",
+        "KR": "치명타 시 100%의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 6초마다 1회만 발동한다",
+        "PT": "Os Acertos Críticos possuem 100% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 6s.",
+        "RU": "Критические атаки имеют 100% шанс создать элементальные частицы, которые восстанавливают 6 ед. энергии. Возникает раз в 6 сек.",
+        "TH": "เมื่อโจมตีคริติคอล จะมีโอกาส 100% ที่จะ สร้างอณูธาตุ ซึ่งใช้ฟื้นฟู พลังงานธาตุได้ 6 หน่วย โดยเอฟเฟกต์นี้จะใช้ได้ หนึ่งครั้งในทุก 6 วินาที",
+        "TR": "Kritik Vuruşlar, %100 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 6 saniyede bir uygulanabilir.",
+        "VI": "Khi tạo thành bạo kích có tỷ lệ 100% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 6s mới thi triển 1 lần."
+      }
+    }
+  ]
+}

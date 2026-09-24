@@ -1,0 +1,137 @@
+{
+  "id": "10000003",
+  "name": {
+    "EN": "Jean",
+    "CHS": "琴",
+    "CHT": "琴",
+    "DE": "Jean",
+    "ES": "Jean",
+    "FR": "Jean",
+    "ID": "Jean",
+    "IT": "Jean",
+    "JP": "ジン",
+    "KR": "진",
+    "PT": "Jean",
+    "RU": "Джинн",
+    "TH": "Jean",
+    "TR": "Jean",
+    "VI": "Jean"
+  },
+  "nameEn": "Jean",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 3,
+    "day": 14
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000003/avatar.webp",
+  "fullWish": "generated/character-profiles/10000003/full_wish.webp",
+  "fullWishObjectPosition": "53.3% 27.1%",
+  "title": {
+    "EN": "Dandelion Knight",
+    "CHS": "蒲公英骑士",
+    "CHT": "蒲公英騎士",
+    "DE": "Löwenzahnritter",
+    "ES": "La Caballera de Dandelion",
+    "FR": "Chevalier au Pissenlit",
+    "ID": "Dandelion Knight",
+    "IT": "Cavaliere del Dente di leone",
+    "JP": "蒲公英騎士",
+    "KR": "민들레 기사",
+    "PT": "Cavaleira de Dandelion",
+    "RU": "Рыцарь Одуванчик",
+    "TH": "อัศวิน Dandelion",
+    "TR": "Karahindiba Şövalyesi",
+    "VI": "Kỵ Sĩ Bồ Công Anh"
+  },
+  "description": {
+    "EN": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.",
+    "CHS": "正直严谨的蒲公英骑士，蒙德西风骑士团的代理团长。",
+    "CHT": "正直嚴謹的蒲公英騎士，蒙德西風騎士團的代理團長。",
+    "DE": "Der aufrichtige und gewissenhafte Löwenzahnritter, der stellvertretender Großmeister des Ordo Favonius.",
+    "ES": "La justa y rigurosa Caballera de Dandelion, y Gran Maestra Intendente de los Caballeros de Favonius de Mondstadt.",
+    "FR": "Le Chevalier au Pissenlit, loyal et rigoureux, et la Grande Maîtresse suppléante de l'Ordre de Favonius.",
+    "ID": "Dandelion Knight yang menjunjung tinggi keadilan dan kebenaran. Menjabat sebagai Grand Master Knights of Favonius di Mondstadt.",
+    "IT": "Virtuosa e rigorosa Cavaliere del Dente di leone, oltre che Gran Maestra Reggente dei Cavalieri di Favonius di Mondstadt.",
+    "JP": "正直で真面目な蒲公英騎士。モンド西風騎士団の代理団長。",
+    "KR": "정직하고 빈틈없는 민들레 기사, 몬드 페보니우스 기사단의 단장 대행이다",
+    "PT": "A justa e rigorosa Cavaleira de Dandelion, a Grande Mestre Intendente dos Cavaleiros de Favonius em Mondstadt.",
+    "RU": "Справедливый и искренний Рыцарь Одуванчик, действующий магистр Ордо Фавониус.",
+    "TH": "อัศวิน Dandelion ผู้ยึดมั่นในความถูกต้อง และเป็นรักษาการผู้บัญชาการของกองอัศวินแห่ง Favonius",
+    "TR": "Dürüst ve titiz Karahindiba Şövalyesi, aynı zamanda Mondstadt'ın Favonius Şövalyelerinin Büyük Kumandan Vekili.",
+    "VI": "Kỵ sĩ Bồ Công Anh chính trực nghiêm nghị, đội trưởng đại diện Đội Kỵ Sĩ Tây Phong của Mondstadt."
+  },
+  "constellationName": {
+    "EN": "Leo Minor",
+    "CHS": "幼狮座",
+    "CHT": "幼獅座",
+    "DE": "Leo Minor",
+    "ES": "Leo Minor",
+    "FR": "Leo Minor",
+    "ID": "Leo Minor",
+    "IT": "Leo Minor",
+    "JP": "仔獅子座",
+    "KR": "새끼사자자리",
+    "PT": "Leo Menor",
+    "RU": "Благородная Львица",
+    "TH": "Leo Minor",
+    "TR": "Küçük Aslan",
+    "VI": "Cung Ấu Sư"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Stephanie Southerland"
+    },
+    {
+      "lang": "CHS",
+      "va": "林簌"
+    },
+    {
+      "lang": "JP",
+      "va": "斎藤千和"
+    },
+    {
+      "lang": "KR",
+      "va": "Ahn Young-mi"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HEAL_ADD",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1143.984,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 18.62,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.83,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

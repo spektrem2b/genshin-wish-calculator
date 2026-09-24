@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Legacy of Lang-Gan",
+    "CHS": "琅玕衍义",
+    "CHT": "琅玕衍義",
+    "DE": "Erbe vom Lang-Gan",
+    "ES": "Legado de Lang Gan",
+    "FR": "Héritage de Lang-Gan",
+    "ID": "Legacy of Lang-Gan",
+    "IT": "Eredità di Lang-Gan",
+    "JP": "琅玕演義",
+    "KR": "낭간의 유물",
+    "PT": "Legado do Reino de Jade",
+    "RU": "Наследие Лан-гань",
+    "TH": "Legacy of Lang-Gan",
+    "TR": "Lang-Gan'ın Mirası",
+    "VI": "Lang-Gan Diễn Nghĩa"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases DEF by 20%. DMG inflicted by Lunar-Crystallize reactions increases by 64% for 5s after the equipping character uses an Elemental Skill.",
+        "CHS": "防御力提高20%。装备者施放元素战技后的5秒内，月结晶反应伤害提升64%。",
+        "CHT": "防禦力提高20%。裝備者施放元素戰技後的5秒內，月結晶反應傷害提升64%。",
+        "DE": "#Erhöht die VTD um 20 %. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5 s lang den Schaden der Reaktion Mond-Kristallisation um 64 %.",
+        "ES": "#La DEF aumenta en un 20%. Después de que el portador de esta arma use su Habilidad Elemental, el daño de la reacción de Cristalización Lunar aumentará en un 64% durante 5 s.",
+        "FR": "Augmente la DÉF de 20 %. Lorsque le personnage équipé de l'arme a déclenché une compétence élémentaire, les DGT des réactions de Sélénocristallisation augmentent de 64 % pendant 5 s.",
+        "ID": "DEF +20%. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +64% selama 5 detik.",
+        "IT": "#Aumenta la DIF di un 20%. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un 64% per 5 s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale.",
+        "JP": "防御力+20%。装備者が元素スキルを発動した後の5秒間、月結晶反応によるダメージ+64%。",
+        "KR": "방어력이 20% 증가한다. 장착 캐릭터가 원소전투 스킬 발동 후 5초 동안 달 결정 반응 피해가 64% 증가한다",
+        "PT": "Aumenta a DEF em 20%. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em 64%.",
+        "RU": "Увеличивает защиту на 20%. На 5 сек. после того, как экипированный персонаж использует элементальный навык, урон реакции Лунный кристалл увеличивается на 64%.",
+        "TH": "เพิ่มพลังป้องกัน 20%; ภายใน 5 วินาที หลังจากผู้สวมใส่ใช้สกิลธาตุ ความเสียหายจากปฏิกิริยาตกผลึกจันทราจะเพิ่มขึ้น 64%",
+        "TR": "Savunmayı %20 artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar %64 artar.",
+        "VI": "Phòng Ngự tăng 20%. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng 64%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases DEF by 25%. DMG inflicted by Lunar-Crystallize reactions increases by 80% for 5s after the equipping character uses an Elemental Skill.",
+        "CHS": "防御力提高25%。装备者施放元素战技后的5秒内，月结晶反应伤害提升80%。",
+        "CHT": "防禦力提高25%。裝備者施放元素戰技後的5秒內，月結晶反應傷害提升80%。",
+        "DE": "#Erhöht die VTD um 25 %. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5 s lang den Schaden der Reaktion Mond-Kristallisation um 80 %.",
+        "ES": "#La DEF aumenta en un 25%. Después de que el portador de esta arma use su Habilidad Elemental, el daño de la reacción de Cristalización Lunar aumentará en un 80% durante 5 s.",
+        "FR": "Augmente la DÉF de 25 %. Lorsque le personnage équipé de l'arme a déclenché une compétence élémentaire, les DGT des réactions de Sélénocristallisation augmentent de 80 % pendant 5 s.",
+        "ID": "DEF +25%. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +80% selama 5 detik.",
+        "IT": "#Aumenta la DIF di un 25%. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un 80% per 5 s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale.",
+        "JP": "防御力+25%。装備者が元素スキルを発動した後の5秒間、月結晶反応によるダメージ+80%。",
+        "KR": "방어력이 25% 증가한다. 장착 캐릭터가 원소전투 스킬 발동 후 5초 동안 달 결정 반응 피해가 80% 증가한다",
+        "PT": "Aumenta a DEF em 25%. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em 80%.",
+        "RU": "Увеличивает защиту на 25%. На 5 сек. после того, как экипированный персонаж использует элементальный навык, урон реакции Лунный кристалл увеличивается на 80%.",
+        "TH": "เพิ่มพลังป้องกัน 25%; ภายใน 5 วินาที หลังจากผู้สวมใส่ใช้สกิลธาตุ ความเสียหายจากปฏิกิริยาตกผลึกจันทราจะเพิ่มขึ้น 80%",
+        "TR": "Savunmayı %25 artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar %80 artar.",
+        "VI": "Phòng Ngự tăng 25%. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng 80%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases DEF by 30%. DMG inflicted by Lunar-Crystallize reactions increases by 96% for 5s after the equipping character uses an Elemental Skill.",
+        "CHS": "防御力提高30%。装备者施放元素战技后的5秒内，月结晶反应伤害提升96%。",
+        "CHT": "防禦力提高30%。裝備者施放元素戰技後的5秒內，月結晶反應傷害提升96%。",
+        "DE": "#Erhöht die VTD um 30 %. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5 s lang den Schaden der Reaktion Mond-Kristallisation um 96 %.",
+        "ES": "#La DEF aumenta en un 30%. Después de que el portador de esta arma use su Habilidad Elemental, el daño de la reacción de Cristalización Lunar aumentará en un 96% durante 5 s.",
+        "FR": "Augmente la DÉF de 30 %. Lorsque le personnage équipé de l'arme a déclenché une compétence élémentaire, les DGT des réactions de Sélénocristallisation augmentent de 96 % pendant 5 s.",
+        "ID": "DEF +30%. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +96% selama 5 detik.",
+        "IT": "#Aumenta la DIF di un 30%. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un 96% per 5 s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale.",
+        "JP": "防御力+30%。装備者が元素スキルを発動した後の5秒間、月結晶反応によるダメージ+96%。",
+        "KR": "방어력이 30% 증가한다. 장착 캐릭터가 원소전투 스킬 발동 후 5초 동안 달 결정 반응 피해가 96% 증가한다",
+        "PT": "Aumenta a DEF em 30%. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em 96%.",
+        "RU": "Увеличивает защиту на 30%. На 5 сек. после того, как экипированный персонаж использует элементальный навык, урон реакции Лунный кристалл увеличивается на 96%.",
+        "TH": "เพิ่มพลังป้องกัน 30%; ภายใน 5 วินาที หลังจากผู้สวมใส่ใช้สกิลธาตุ ความเสียหายจากปฏิกิริยาตกผลึกจันทราจะเพิ่มขึ้น 96%",
+        "TR": "Savunmayı %30 artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar %96 artar.",
+        "VI": "Phòng Ngự tăng 30%. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng 96%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases DEF by 35%. DMG inflicted by Lunar-Crystallize reactions increases by 112% for 5s after the equipping character uses an Elemental Skill.",
+        "CHS": "防御力提高35%。装备者施放元素战技后的5秒内，月结晶反应伤害提升112%。",
+        "CHT": "防禦力提高35%。裝備者施放元素戰技後的5秒內，月結晶反應傷害提升112%。",
+        "DE": "#Erhöht die VTD um 35 %. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5 s lang den Schaden der Reaktion Mond-Kristallisation um 112 %.",
+        "ES": "#La DEF aumenta en un 35%. Después de que el portador de esta arma use su Habilidad Elemental, el daño de la reacción de Cristalización Lunar aumentará en un 112% durante 5 s.",
+        "FR": "Augmente la DÉF de 35 %. Lorsque le personnage équipé de l'arme a déclenché une compétence élémentaire, les DGT des réactions de Sélénocristallisation augmentent de 112 % pendant 5 s.",
+        "ID": "DEF +35%. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +112% selama 5 detik.",
+        "IT": "#Aumenta la DIF di un 35%. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un 112% per 5 s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale.",
+        "JP": "防御力+35%。装備者が元素スキルを発動した後の5秒間、月結晶反応によるダメージ+112%。",
+        "KR": "방어력이 35% 증가한다. 장착 캐릭터가 원소전투 스킬 발동 후 5초 동안 달 결정 반응 피해가 112% 증가한다",
+        "PT": "Aumenta a DEF em 35%. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em 112%.",
+        "RU": "Увеличивает защиту на 35%. На 5 сек. после того, как экипированный персонаж использует элементальный навык, урон реакции Лунный кристалл увеличивается на 112%.",
+        "TH": "เพิ่มพลังป้องกัน 35%; ภายใน 5 วินาที หลังจากผู้สวมใส่ใช้สกิลธาตุ ความเสียหายจากปฏิกิริยาตกผลึกจันทราจะเพิ่มขึ้น 112%",
+        "TR": "Savunmayı %35 artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar %112 artar.",
+        "VI": "Phòng Ngự tăng 35%. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng 112%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases DEF by 40%. DMG inflicted by Lunar-Crystallize reactions increases by 128% for 5s after the equipping character uses an Elemental Skill.",
+        "CHS": "防御力提高40%。装备者施放元素战技后的5秒内，月结晶反应伤害提升128%。",
+        "CHT": "防禦力提高40%。裝備者施放元素戰技後的5秒內，月結晶反應傷害提升128%。",
+        "DE": "#Erhöht die VTD um 40 %. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5 s lang den Schaden der Reaktion Mond-Kristallisation um 128 %.",
+        "ES": "#La DEF aumenta en un 40%. Después de que el portador de esta arma use su Habilidad Elemental, el daño de la reacción de Cristalización Lunar aumentará en un 128% durante 5 s.",
+        "FR": "Augmente la DÉF de 40 %. Lorsque le personnage équipé de l'arme a déclenché une compétence élémentaire, les DGT des réactions de Sélénocristallisation augmentent de 128 % pendant 5 s.",
+        "ID": "DEF +40%. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +128% selama 5 detik.",
+        "IT": "#Aumenta la DIF di un 40%. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un 128% per 5 s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale.",
+        "JP": "防御力+40%。装備者が元素スキルを発動した後の5秒間、月結晶反応によるダメージ+128%。",
+        "KR": "방어력이 40% 증가한다. 장착 캐릭터가 원소전투 스킬 발동 후 5초 동안 달 결정 반응 피해가 128% 증가한다",
+        "PT": "Aumenta a DEF em 40%. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em 128%.",
+        "RU": "Увеличивает защиту на 40%. На 5 сек. после того, как экипированный персонаж использует элементальный навык, урон реакции Лунный кристалл увеличивается на 128%.",
+        "TH": "เพิ่มพลังป้องกัน 40%; ภายใน 5 วินาที หลังจากผู้สวมใส่ใช้สกิลธาตุ ความเสียหายจากปฏิกิริยาตกผลึกจันทราจะเพิ่มขึ้น 128%",
+        "TR": "Savunmayı %40 artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar %128 artar.",
+        "VI": "Phòng Ngự tăng 40%. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng 128%."
+      }
+    }
+  ]
+}

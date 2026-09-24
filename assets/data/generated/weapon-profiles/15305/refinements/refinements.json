@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Archer's Message",
+    "CHS": "飞矢传书",
+    "CHT": "飛矢傳書",
+    "DE": "Flugpost",
+    "ES": "Mensaje del arquero",
+    "FR": "Message de l'archer",
+    "ID": "Message by Flying Arrow",
+    "IT": "Messaggio dell'Arciere",
+    "JP": "矢文",
+    "KR": "명적 발사",
+    "PT": "Mensagem da Flecha Voadora",
+    "RU": "Шальная почта",
+    "TH": "Archer's Message",
+    "TR": "Okçunun Mesajı",
+    "VI": "Mũi Tên Truyền Tin"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Charged Attack hits on weak points deal an additional 100% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+        "CHS": "重击若命中要害，则额外造成100%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+        "CHT": "重擊若命中要害，則額外造成100%攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+        "DE": "Verursacht beim Treffen von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von 100 % ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, inflige un 100% adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à 100 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar 100% ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli infliggono un 100% di DAN da ATT come DAN da CRIT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "重撃が弱点に命中した場合、追加で攻撃力100%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+        "KR": "강공격이 약점에 명중하면 추가로 공격력 100%의 피해를 주고 반드시 치명타가 터진다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de 100% de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "При попадании заряженной атакой по слабому месту дополнительно наносит 100% урона в качестве крит. урона. Может возникнуть раз в 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะสร้างความเสียหายเพิ่มเติมอีก 100% ของพลังโจมตี ซึ่งความเสียหายนี้นับเป็นความเสียหายคริติคอล โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar, Kritik Hasar olarak ek %100 Saldırı kadar Hasar verir. 10 saniyede bir uygulanabilir.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tạo thành thêm sát thương bằng 100% tấn công, sát thương này chắc chắn bạo kích. Mỗi 10s chỉ có hiệu quả 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Charged Attack hits on weak points deal an additional 125% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+        "CHS": "重击若命中要害，则额外造成125%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+        "CHT": "重擊若命中要害，則額外造成125%攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+        "DE": "Verursacht beim Treffen von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von 125 % ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, inflige un 125% adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à 125 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar 125% ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli infliggono un 125% di DAN da ATT come DAN da CRIT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "重撃が弱点に命中した場合、追加で攻撃力125%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+        "KR": "강공격이 약점에 명중하면 추가로 공격력 125%의 피해를 주고 반드시 치명타가 터진다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de 125% de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "При попадании заряженной атакой по слабому месту дополнительно наносит 125% урона в качестве крит. урона. Может возникнуть раз в 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะสร้างความเสียหายเพิ่มเติมอีก 125% ของพลังโจมตี ซึ่งความเสียหายนี้นับเป็นความเสียหายคริติคอล โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar, Kritik Hasar olarak ek %125 Saldırı kadar Hasar verir. 10 saniyede bir uygulanabilir.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tạo thành thêm sát thương bằng 125% tấn công, sát thương này chắc chắn bạo kích. Mỗi 10s chỉ có hiệu quả 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Charged Attack hits on weak points deal an additional 150% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+        "CHS": "重击若命中要害，则额外造成150%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+        "CHT": "重擊若命中要害，則額外造成150%攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+        "DE": "Verursacht beim Treffen von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von 150 % ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, inflige un 150% adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à 150 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar 150% ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli infliggono un 150% di DAN da ATT come DAN da CRIT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "重撃が弱点に命中した場合、追加で攻撃力150%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+        "KR": "강공격이 약점에 명중하면 추가로 공격력 150%의 피해를 주고 반드시 치명타가 터진다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de 150% de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "При попадании заряженной атакой по слабому месту дополнительно наносит 150% урона в качестве крит. урона. Может возникнуть раз в 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะสร้างความเสียหายเพิ่มเติมอีก 150% ของพลังโจมตี ซึ่งความเสียหายนี้นับเป็นความเสียหายคริติคอล โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar, Kritik Hasar olarak ek %150 Saldırı kadar Hasar verir. 10 saniyede bir uygulanabilir.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tạo thành thêm sát thương bằng 150% tấn công, sát thương này chắc chắn bạo kích. Mỗi 10s chỉ có hiệu quả 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Charged Attack hits on weak points deal an additional 175% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+        "CHS": "重击若命中要害，则额外造成175%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+        "CHT": "重擊若命中要害，則額外造成175%攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+        "DE": "Verursacht beim Treffen von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von 175 % ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, inflige un 175% adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à 175 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar 175% ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli infliggono un 175% di DAN da ATT come DAN da CRIT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "重撃が弱点に命中した場合、追加で攻撃力175%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+        "KR": "강공격이 약점에 명중하면 추가로 공격력 175%의 피해를 주고 반드시 치명타가 터진다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de 175% de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "При попадании заряженной атакой по слабому месту дополнительно наносит 175% урона в качестве крит. урона. Может возникнуть раз в 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะสร้างความเสียหายเพิ่มเติมอีก 175% ของพลังโจมตี ซึ่งความเสียหายนี้นับเป็นความเสียหายคริติคอล โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar, Kritik Hasar olarak ek %175 Saldırı kadar Hasar verir. 10 saniyede bir uygulanabilir.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tạo thành thêm sát thương bằng 175% tấn công, sát thương này chắc chắn bạo kích. Mỗi 10s chỉ có hiệu quả 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Charged Attack hits on weak points deal an additional 200% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+        "CHS": "重击若命中要害，则额外造成200%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
+        "CHT": "重擊若命中要害，則額外造成200%攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+        "DE": "Verursacht beim Treffen von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von 200 % ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.",
+        "ES": "Al golpear un punto débil con un Ataque Cargado, inflige un 200% adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.",
+        "FR": "Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à 200 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "ID": "Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar 200% ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.",
+        "IT": "#I colpi da attacco caricato sui punti deboli infliggono un 200% di DAN da ATT come DAN da CRIT. Si può verificare una sola volta ogni 10 s.",
+        "JP": "重撃が弱点に命中した場合、追加で攻撃力200%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+        "KR": "강공격이 약점에 명중하면 추가로 공격력 200%의 피해를 주고 반드시 치명타가 터진다. 해당 효과는 10초마다 1번 발동한다",
+        "PT": "Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de 200% de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.",
+        "RU": "При попадании заряженной атакой по слабому месту дополнительно наносит 200% урона в качестве крит. урона. Может возникнуть раз в 10 сек.",
+        "TH": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะสร้างความเสียหายเพิ่มเติมอีก 200% ของพลังโจมตี ซึ่งความเสียหายนี้นับเป็นความเสียหายคริติคอล โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 10 วินาที",
+        "TR": "Zayıf noktalara yapılan Yüklü Saldırılar, Kritik Hasar olarak ek %200 Saldırı kadar Hasar verir. 10 saniyede bir uygulanabilir.",
+        "VI": "Nếu trọng kích đánh trúng điểm yếu, sẽ tạo thành thêm sát thương bằng 200% tấn công, sát thương này chắc chắn bạo kích. Mỗi 10s chỉ có hiệu quả 1 lần."
+      }
+    }
+  ]
+}

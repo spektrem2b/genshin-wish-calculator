@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Dodoventure!",
+    "CHS": "嘟嘟！大冒险",
+    "CHT": "嘟嘟！大冒險",
+    "DE": "Dodo-Abenteuer!",
+    "ES": "¡Dodo-aventura!",
+    "FR": "Aventure dodo !",
+    "ID": "Dodoventure!",
+    "IT": "Dodavventura!",
+    "JP": "ドドベンチャー！",
+    "KR": "도도! 대모험",
+    "PT": "Dodo-aventura!",
+    "RU": "Додоприключения!",
+    "TH": "Dodoventure!",
+    "TR": "Dodo'nun Macerası!",
+    "VI": "Dodo! Đi Mạo Hiểm Thôi"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Normal Attack hits on opponents increase Charged Attack DMG by 16% for 6s. Charged Attack hits on opponents increase ATK by 8% for 6s.",
+        "CHS": "普通攻击命中敌人后的6秒内，重击造成的伤害提升16%；重击命中敌人后的6秒内，攻击力提升8%。",
+        "CHT": "普通攻擊命中敵人後的6秒內，重擊造成的傷害提高16%；重擊命中敵人後的6秒內，攻擊力提高8%。",
+        "DE": "Erhöht den mit heftigen Schlägen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen 6 s lang um 16 %. Erhöht den ANG nach dem Treffen von Gegnern mit heftigen Schlägen 6 s lang um 8 %.",
+        "ES": "Al golpear a un enemigo con un Ataque Normal, el daño infligido con Ataque Cargado aumenta en un 16% durante 6 s. Además, tras golpear a un objetivo con un Ataque Cargado, el ATQ aumenta en un 8% durante 6 s.",
+        "FR": "Lorsque vous touchez des ennemis avec des attaques normales, les DGT infligés par les attaques chargées sont augmentés de 16 % pendant 6 s. Lorsque vous touchez des ennemis avec des attaques chargées, l'ATQ est augmentée de 8 % pendant 6 s.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 16% DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan 8% ATK selama 6 detik.",
+        "IT": "#I colpi da attacco normale sugli avversari aumentano i DAN da attacco caricato di un 16% per 6 s, mentre quelli da attacco caricato aumentano l'ATT di un 8% per 6 s.",
+        "JP": "通常攻撃が敵に命中した後の6秒間、重撃ダメージ+16%。重撃が敵に命中した後の6秒間、攻撃力+8%。",
+        "KR": "일반 공격으로 적을 명중 후 6초 동안 강공격 피해가 16% 증가한다. 강공격으로 적을 명중 후 6초 동안 공격력이 8% 증가한다",
+        "PT": "Dentro de 6s após acertar um inimigo com o Ataque Normal, o Dano causado pelo Ataque Carregado aumenta em 16%. Dentro de 6s após acertar um inimigo com o Ataque Carregado, o ATQ aumenta em 8%.",
+        "RU": "Попадания обычной атакой увеличивают урон заряженной атаки на 16% в течение 6 сек., а попадания заряженной атакой увеличивают силу атаки на 8% в течение 6 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู จะทำให้ความเสียหายของการชาร์จโจมตีเพิ่มขึ้น 16% เป็นเวลา 6 วินาที; เมื่อชาร์จโจมตีถูกศัตรู จะทำให้พลังโจมตีจะเพิ่มขึ้น 8% เป็นเวลา 6 วินาที",
+        "TR": "Normal Saldırılar düşmanlara isabet ettiğinde 6 saniyeliğine Yüklü Saldırı Hasarını %16 artırır. Düşmanlara isabet eden Yüklü Saldırılar da 6 saniyeliğine Saldırıyı %8 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương trọng kích tạo thành tăng 16%; Trong 6s sau khi trọng kích đánh trúng địch, tấn công tăng 8%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Normal Attack hits on opponents increase Charged Attack DMG by 20% for 6s. Charged Attack hits on opponents increase ATK by 10% for 6s.",
+        "CHS": "普通攻击命中敌人后的6秒内，重击造成的伤害提升20%；重击命中敌人后的6秒内，攻击力提升10%。",
+        "CHT": "普通攻擊命中敵人後的6秒內，重擊造成的傷害提高20%；重擊命中敵人後的6秒內，攻擊力提高10%。",
+        "DE": "Erhöht den mit heftigen Schlägen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen 6 s lang um 20 %. Erhöht den ANG nach dem Treffen von Gegnern mit heftigen Schlägen 6 s lang um 10 %.",
+        "ES": "Al golpear a un enemigo con un Ataque Normal, el daño infligido con Ataque Cargado aumenta en un 20% durante 6 s. Además, tras golpear a un objetivo con un Ataque Cargado, el ATQ aumenta en un 10% durante 6 s.",
+        "FR": "Lorsque vous touchez des ennemis avec des attaques normales, les DGT infligés par les attaques chargées sont augmentés de 20 % pendant 6 s. Lorsque vous touchez des ennemis avec des attaques chargées, l'ATQ est augmentée de 10 % pendant 6 s.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 20% DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan 10% ATK selama 6 detik.",
+        "IT": "#I colpi da attacco normale sugli avversari aumentano i DAN da attacco caricato di un 20% per 6 s, mentre quelli da attacco caricato aumentano l'ATT di un 10% per 6 s.",
+        "JP": "通常攻撃が敵に命中した後の6秒間、重撃ダメージ+20%。重撃が敵に命中した後の6秒間、攻撃力+10%。",
+        "KR": "일반 공격으로 적을 명중 후 6초 동안 강공격 피해가 20% 증가한다. 강공격으로 적을 명중 후 6초 동안 공격력이 10% 증가한다",
+        "PT": "Dentro de 6s após acertar um inimigo com o Ataque Normal, o Dano causado pelo Ataque Carregado aumenta em 20%. Dentro de 6s após acertar um inimigo com o Ataque Carregado, o ATQ aumenta em 10%.",
+        "RU": "Попадания обычной атакой увеличивают урон заряженной атаки на 20% в течение 6 сек., а попадания заряженной атакой увеличивают силу атаки на 10% в течение 6 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู จะทำให้ความเสียหายของการชาร์จโจมตีเพิ่มขึ้น 20% เป็นเวลา 6 วินาที; เมื่อชาร์จโจมตีถูกศัตรู จะทำให้พลังโจมตีจะเพิ่มขึ้น 10% เป็นเวลา 6 วินาที",
+        "TR": "Normal Saldırılar düşmanlara isabet ettiğinde 6 saniyeliğine Yüklü Saldırı Hasarını %20 artırır. Düşmanlara isabet eden Yüklü Saldırılar da 6 saniyeliğine Saldırıyı %10 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương trọng kích tạo thành tăng 20%; Trong 6s sau khi trọng kích đánh trúng địch, tấn công tăng 10%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Normal Attack hits on opponents increase Charged Attack DMG by 24% for 6s. Charged Attack hits on opponents increase ATK by 12% for 6s.",
+        "CHS": "普通攻击命中敌人后的6秒内，重击造成的伤害提升24%；重击命中敌人后的6秒内，攻击力提升12%。",
+        "CHT": "普通攻擊命中敵人後的6秒內，重擊造成的傷害提高24%；重擊命中敵人後的6秒內，攻擊力提高12%。",
+        "DE": "Erhöht den mit heftigen Schlägen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen 6 s lang um 24 %. Erhöht den ANG nach dem Treffen von Gegnern mit heftigen Schlägen 6 s lang um 12 %.",
+        "ES": "Al golpear a un enemigo con un Ataque Normal, el daño infligido con Ataque Cargado aumenta en un 24% durante 6 s. Además, tras golpear a un objetivo con un Ataque Cargado, el ATQ aumenta en un 12% durante 6 s.",
+        "FR": "Lorsque vous touchez des ennemis avec des attaques normales, les DGT infligés par les attaques chargées sont augmentés de 24 % pendant 6 s. Lorsque vous touchez des ennemis avec des attaques chargées, l'ATQ est augmentée de 12 % pendant 6 s.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 24% DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan 12% ATK selama 6 detik.",
+        "IT": "#I colpi da attacco normale sugli avversari aumentano i DAN da attacco caricato di un 24% per 6 s, mentre quelli da attacco caricato aumentano l'ATT di un 12% per 6 s.",
+        "JP": "通常攻撃が敵に命中した後の6秒間、重撃ダメージ+24%。重撃が敵に命中した後の6秒間、攻撃力+12%。",
+        "KR": "일반 공격으로 적을 명중 후 6초 동안 강공격 피해가 24% 증가한다. 강공격으로 적을 명중 후 6초 동안 공격력이 12% 증가한다",
+        "PT": "Dentro de 6s após acertar um inimigo com o Ataque Normal, o Dano causado pelo Ataque Carregado aumenta em 24%. Dentro de 6s após acertar um inimigo com o Ataque Carregado, o ATQ aumenta em 12%.",
+        "RU": "Попадания обычной атакой увеличивают урон заряженной атаки на 24% в течение 6 сек., а попадания заряженной атакой увеличивают силу атаки на 12% в течение 6 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู จะทำให้ความเสียหายของการชาร์จโจมตีเพิ่มขึ้น 24% เป็นเวลา 6 วินาที; เมื่อชาร์จโจมตีถูกศัตรู จะทำให้พลังโจมตีจะเพิ่มขึ้น 12% เป็นเวลา 6 วินาที",
+        "TR": "Normal Saldırılar düşmanlara isabet ettiğinde 6 saniyeliğine Yüklü Saldırı Hasarını %24 artırır. Düşmanlara isabet eden Yüklü Saldırılar da 6 saniyeliğine Saldırıyı %12 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương trọng kích tạo thành tăng 24%; Trong 6s sau khi trọng kích đánh trúng địch, tấn công tăng 12%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Normal Attack hits on opponents increase Charged Attack DMG by 28% for 6s. Charged Attack hits on opponents increase ATK by 14% for 6s.",
+        "CHS": "普通攻击命中敌人后的6秒内，重击造成的伤害提升28%；重击命中敌人后的6秒内，攻击力提升14%。",
+        "CHT": "普通攻擊命中敵人後的6秒內，重擊造成的傷害提高28%；重擊命中敵人後的6秒內，攻擊力提高14%。",
+        "DE": "Erhöht den mit heftigen Schlägen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen 6 s lang um 28 %. Erhöht den ANG nach dem Treffen von Gegnern mit heftigen Schlägen 6 s lang um 14 %.",
+        "ES": "Al golpear a un enemigo con un Ataque Normal, el daño infligido con Ataque Cargado aumenta en un 28% durante 6 s. Además, tras golpear a un objetivo con un Ataque Cargado, el ATQ aumenta en un 14% durante 6 s.",
+        "FR": "Lorsque vous touchez des ennemis avec des attaques normales, les DGT infligés par les attaques chargées sont augmentés de 28 % pendant 6 s. Lorsque vous touchez des ennemis avec des attaques chargées, l'ATQ est augmentée de 14 % pendant 6 s.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 28% DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan 14% ATK selama 6 detik.",
+        "IT": "#I colpi da attacco normale sugli avversari aumentano i DAN da attacco caricato di un 28% per 6 s, mentre quelli da attacco caricato aumentano l'ATT di un 14% per 6 s.",
+        "JP": "通常攻撃が敵に命中した後の6秒間、重撃ダメージ+28%。重撃が敵に命中した後の6秒間、攻撃力+14%。",
+        "KR": "일반 공격으로 적을 명중 후 6초 동안 강공격 피해가 28%증가한다. 강공격으로 적을 명중 후 6초 동안 공격력이 14%증가한다",
+        "PT": "Dentro de 6s após acertar um inimigo com o Ataque Normal, o Dano causado pelo Ataque Carregado aumenta em 28%. Dentro de 6s após acertar um inimigo com o Ataque Carregado, o ATQ aumenta em 14%.",
+        "RU": "Попадания обычной атакой увеличивают урон заряженной атаки на 28% в течение 6 сек., а попадания заряженной атакой увеличивают силу атаки на 14% в течение 6 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู จะทำให้ความเสียหายของการชาร์จโจมตีเพิ่มขึ้น 28% เป็นเวลา 6 วินาที; เมื่อชาร์จโจมตีถูกศัตรู จะทำให้พลังโจมตีจะเพิ่มขึ้น 14% เป็นเวลา 6 วินาที",
+        "TR": "Normal Saldırılar düşmanlara isabet ettiğinde 6 saniyeliğine Yüklü Saldırı Hasarını %28 artırır. Düşmanlara isabet eden Yüklü Saldırılar da 6 saniyeliğine Saldırıyı %14 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương trọng kích tạo thành tăng 28%; Trong 6s sau khi trọng kích đánh trúng địch, tấn công tăng 14%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Normal Attack hits on opponents increase Charged Attack DMG by 32% for 6s. Charged Attack hits on opponents increase ATK by 16% for 6s.",
+        "CHS": "普通攻击命中敌人后的6秒内，重击造成的伤害提升32%；重击命中敌人后的6秒内，攻击力提升16%。",
+        "CHT": "普通攻擊命中敵人後的6秒內，重擊造成的傷害提高32%；重擊命中敵人後的6秒內，攻擊力提高16%。",
+        "DE": "Erhöht den mit heftigen Schlägen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen 6 s lang um 32 %. Erhöht den ANG nach dem Treffen von Gegnern mit heftigen Schlägen 6 s lang um 16 %.",
+        "ES": "Al golpear a un enemigo con un Ataque Normal, el daño infligido con Ataque Cargado aumenta en un 32% durante 6 s. Además, tras golpear a un objetivo con un Ataque Cargado, el ATQ aumenta en un 16% durante 6 s.",
+        "FR": "Lorsque vous touchez des ennemis avec des attaques normales, les DGT infligés par les attaques chargées sont augmentés de 32 % pendant 6 s. Lorsque vous touchez des ennemis avec des attaques chargées, l'ATQ est augmentée de 16 % pendant 6 s.",
+        "ID": "Saat Normal Attack mengenai musuh, meningkatkan 32% DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan 16% ATK selama 6 detik.",
+        "IT": "#I colpi da attacco normale sugli avversari aumentano i DAN da attacco caricato di un 32% per 6 s, mentre quelli da attacco caricato aumentano l'ATT di un 16% per 6 s.",
+        "JP": "通常攻撃が敵に命中した後の6秒間、重撃ダメージ+32%。重撃が敵に命中した後の6秒間、攻撃力+16%。",
+        "KR": "일반 공격으로 적을 명중 후 6초 동안 강공격 피해가 32% 증가한다. 강공격으로 적을 명중 후 6초 동안 공격력이 16% 증가한다",
+        "PT": "Dentro de 6s após acertar um inimigo com o Ataque Normal, o Dano causado pelo Ataque Carregado aumenta em 32%. Dentro de 6s após acertar um inimigo com o Ataque Carregado, o ATQ aumenta em 16%.",
+        "RU": "Попадания обычной атакой увеличивают урон заряженной атаки на 32% в течение 6 сек., а попадания заряженной атакой увеличивают силу атаки на 16% в течение 6 сек.",
+        "TH": "เมื่อโจมตีปกติถูกศัตรู จะทำให้ความเสียหายของการชาร์จโจมตีเพิ่มขึ้น 32% เป็นเวลา 6 วินาที; เมื่อชาร์จโจมตีถูกศัตรู จะทำให้พลังโจมตีจะเพิ่มขึ้น 16% เป็นเวลา 6 วินาที",
+        "TR": "Normal Saldırılar düşmanlara isabet ettiğinde 6 saniyeliğine Yüklü Saldırı Hasarını %32 artırır. Düşmanlara isabet eden Yüklü Saldırılar da 6 saniyeliğine Saldırıyı %16 artırır.",
+        "VI": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương trọng kích tạo thành tăng 32%; Trong 6s sau khi trọng kích đánh trúng địch, tấn công tăng 16%."
+      }
+    }
+  ]
+}

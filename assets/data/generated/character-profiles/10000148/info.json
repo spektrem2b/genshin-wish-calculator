@@ -1,0 +1,137 @@
+{
+  "id": "10000148",
+  "name": {
+    "EN": "Alyosha",
+    "CHS": "阿罗夏",
+    "CHT": "阿羅夏",
+    "DE": "Alyosha",
+    "ES": "Aliosha",
+    "FR": "Alyosha",
+    "ID": "Alyosha",
+    "IT": "Alyosha",
+    "JP": "アリョーシャ",
+    "KR": "알료샤",
+    "PT": "Alyosha",
+    "RU": "Алёша",
+    "TH": "Alyosha",
+    "TR": "Alyosha",
+    "VI": "Alyosha"
+  },
+  "nameEn": "Alyosha",
+  "element": "Electro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "SNEZHNAYA",
+  "birthday": {
+    "month": 2,
+    "day": 9
+  },
+  "release": "2026-08-10T21:00:00",
+  "icon": "generated/character-profiles/10000148/avatar.webp",
+  "fullWish": "generated/character-profiles/10000148/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Swift-Striding Hound",
+    "CHS": "疾掠弋缇",
+    "CHT": "疾掠弋緹",
+    "DE": "Flinker Jagdhund",
+    "ES": "El Sabueso Veloz",
+    "FR": "Limier au pas vif",
+    "ID": "Swift-Striding Hound",
+    "IT": "Segugio dal passo rapido",
+    "JP": "迅雷の猟犬",
+    "KR": "섬광의 추적자",
+    "PT": "Lupino de Passos Ligeiros",
+    "RU": "Стремительная гончая",
+    "TH": "สุนัขล่าโฉบอัสนี",
+    "TR": "Çevik Pençe",
+    "VI": "Chiến Khuyển Thần Tốc"
+  },
+  "description": {
+    "EN": "A \"professional hunter\" and master of the Snezhnayan snowfields. A fierce, distinct \"idealism\" burns beneath his calm demeanor.",
+    "CHS": "纵横于至冬雪原的「职业猎手」。其冷静的外表下，似乎隐藏着别样炙热的「理想」。",
+    "CHT": "縱橫於至冬雪原的「職業獵手」。其冷靜的外表下，似乎隱藏著別樣炙熱的「理想」。",
+    "DE": "Ein „Berufsjäger“, der die Schneefelder von Snezhnaya durchstreift. Unter seinem ruhigen Äußeren scheint sich ein besonders feuriges „Ideal“ zu verbergen.",
+    "ES": "Un cazador profesional que conoce a la perfección las llanuras nevadas de Snezhnaya. Bajo su disposición tranquila, arde un distintivo y fiero ideal.",
+    "FR": "Un chasseur professionnel qui connaît mieux que quiconque les paysages enneigés de Snezhnaya. Derrière son tempérament calme, un idéal bien précis semble brûler avec ardeur.",
+    "ID": "Seorang \"pemburu profesional\" yang mahir menjelajah hamparan salju Snezhnaya. Di balik sikapnya yang tenang, berkobar sebuah \"idealisme\" yang membara.",
+    "IT": "Un \"cacciatore professionista\" e maestro delle distese innevate di Snezhnaya. Sotto la sua apparente calma arde un idealismo fiero e inconfondibile.",
+    "JP": "スネージナヤの雪原を縦横無尽に駆ける熟練の狩人。その冷静な面差しの下には、人一倍熱い「理想」を秘めている。",
+    "KR": "스네즈나야 설원을 누비는 「전문 사냥꾼」. 냉철한 겉모습 아래에는 뜨겁게 타오르는 「이상」이 숨겨져 있는 듯하다",
+    "PT": "Um \"caçador profissional\" que domina os campos de neve de Snezhnaya. Sob sua aparência calma, parece arder um \"ideal\" intenso e distinto.",
+    "RU": "Профессиональный охотник, странствующий по морозным равнинам Снежной. За хладнокровной внешностью скрываются пылкие идеалы.",
+    "TH": "\"นักล่ามืออาชีพ\" ผู้ฝ่าทุ่งหิมะแห่ง Snezhnaya ภายใต้เปลือกนอกที่เยือกเย็นนั้น ดูเหมือนจะซ่อน \"อุดมการณ์\" อันแรงกล้าเอาไว้",
+    "TR": "Snezhnaya'nın karlı ovalarının ustası ve bir \"profesyonel avcı\". Sakin görünüşünün altında hırçın ve kendine has bir \"idealizm\" yanmaktadır.",
+    "VI": "Thợ săn chuyên nghiệp tung hoành trên cánh đồng tuyết của Snezhnaya. Ẩn sau vẻ ngoài điềm tĩnh ấy, dường như là một \"lý tưởng\" cháy bỏng khác biệt."
+  },
+  "constellationName": {
+    "EN": "Canis Borzoides",
+    "CHS": "迅捷犬座",
+    "CHT": "迅捷犬座",
+    "DE": "Canis Borzoides",
+    "ES": "Canis Borzoides",
+    "FR": "Canis Borzoides",
+    "ID": "Canis Borzoides",
+    "IT": "Canis Borzoides",
+    "JP": "カニス・バルゾーイ座",
+    "KR": "보르조이자리",
+    "PT": "Canis Borzoides",
+    "RU": "Борзая",
+    "TH": "Canis Borzoides",
+    "TR": "Yıldırım Tazısı",
+    "VI": "Cung Tấn Tiệp Khuyển"
+  },
+  "native": {
+    "EN": "Snezhnaya",
+    "CHS": "至冬",
+    "CHT": "至冬",
+    "DE": "Snezhnaya",
+    "ES": "Snezhnaya",
+    "FR": "Snezhnaya",
+    "ID": "Snezhnaya",
+    "IT": "Snezhnaya",
+    "JP": "スネージナヤ",
+    "KR": "스네즈나야",
+    "PT": "Snezhnaya",
+    "RU": "Снежная",
+    "TH": "Snezhnaya",
+    "TR": "Snezhnaya",
+    "VI": "Snezhnaya"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kevin Andrew Rivera"
+    },
+    {
+      "lang": "CHS",
+      "va": "王辅平"
+    },
+    {
+      "lang": "JP",
+      "va": "佐藤元"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Hye-sung"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1002.9701,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 22.26,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 58.94175,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

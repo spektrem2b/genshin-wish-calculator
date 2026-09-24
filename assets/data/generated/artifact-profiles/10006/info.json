@@ -1,0 +1,69 @@
+{
+  "id": 10006,
+  "name": {
+    "EN": "Martial Artist",
+    "CHS": "武人",
+    "CHT": "武人",
+    "DE": "Kampfkünstler",
+    "ES": "Artista Marcial",
+    "FR": "Artiste martial",
+    "ID": "Martial Artist",
+    "IT": "Marzialista",
+    "JP": "武人",
+    "KR": "무인",
+    "PT": "Artista Marcial",
+    "RU": "Воин",
+    "TH": "Martial Artist",
+    "TR": "Dövüş Ustası",
+    "VI": "Võ Nhân"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10006/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Normal and Charged Attack DMG +15%",
+        "CHS": "普通攻击与重击造成的伤害提高15%。",
+        "CHT": "普通攻擊與重擊造成的傷害提高15%。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15 %.",
+        "ES": "Daño de ATQ Normal y ATQ Cargado +15%.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 15 %.",
+        "ID": "Meningkatkan 15% DMG Normal Attack dan Charged Attack.",
+        "IT": "DAN da attacchi normali e caricati +15%.",
+        "JP": "通常攻撃と重擊ダメージ+15%。",
+        "KR": "일반 공격과 강공격으로 주는 피해+15%",
+        "PT": "Aumenta o Dano do Ataque Normal e do Ataque Carregado em 15%.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 15%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติและการชาร์จโจมตี 15%",
+        "TR": "+%15 Normal ve Yüklü Saldırı Hasarı.",
+        "VI": "Tăng 15% sát thương tấn công thường và trọng kích."
+      },
+      "affixId": "2100060"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s.",
+        "CHS": "施放元素战技后的8秒内，普通攻击和重击造成的伤害提升25%。",
+        "CHT": "施放元素戰技後的8秒內，普通攻擊和重擊造成的傷害提升25%。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 8 s lang um 25 %.",
+        "ES": "Tras usar la Habilidad Elemental, aumenta el daño de Ataque Normal y Ataque Cargado en un 25% durante 8 s.",
+        "FR": "Augmente les DGT infligés par les attaques normales et chargées de 25 % pendant 8 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Setelah melancarkan Elemental Skill, meningkatkan 25% DMG Normal dan Charged Attack selama 8 detik.",
+        "IT": "#Dopo l'uso di un'abilità elementale, aumenta di un 25% i DAN da attacchi normali e caricati per 8 s.",
+        "JP": "元素スキル発動後、通常攻撃と重撃ダメージ+25%、継続時間8秒。",
+        "KR": "원소전투 스킬 발동 후 8초 동안 일반 공격과 강공격으로 주는 피해가 25% 증가한다",
+        "PT": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 25% por 8s.",
+        "RU": "Увеличивает урон обычной и заряженной атаки на 25% в течение 8 сек. после использования элементального навыка.",
+        "TH": "ภายใน 8 วินาที หลังจากใช้สกิลธาตุ ความเสียหายของการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 25%",
+        "TR": "Element Becerisi kullandıktan sonra, 8 saniyeliğine Normal Saldırı ve Yüklü Saldırı Hasarını %25 artırır.",
+        "VI": "Trong 8s sau khi sử dụng kỹ năng Nguyên Tố, tấn công thường và trọng kích tăng 25% sát thương."
+      },
+      "affixId": "2100061"
+    }
+  ]
+}

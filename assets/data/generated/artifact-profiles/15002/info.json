@@ -1,0 +1,69 @@
+{
+  "id": 15002,
+  "name": {
+    "EN": "Viridescent Venerer",
+    "CHS": "翠绿之影",
+    "CHT": "翠綠之影",
+    "DE": "Grünlicher Schatten",
+    "ES": "Sombra Verde Esmeralda",
+    "FR": "Ombre de la Verte Chasseuse",
+    "ID": "Viridescent Venerer",
+    "IT": "Cacciatrice smeraldo",
+    "JP": "翠緑の影",
+    "KR": "청록색 그림자",
+    "PT": "Sombra Verde",
+    "RU": "Изумрудная тень",
+    "TH": "Viridescent Venerer",
+    "TR": "Yeşil Gölge",
+    "VI": "Bóng Hình Màu Xanh"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15002/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Anemo DMG Bonus +15%",
+        "CHS": "获得15%风元素伤害加成。",
+        "CHT": "獲得15%風元素傷害加成。",
+        "DE": "Erhöht den Anemo-Schaden um 15 %.",
+        "ES": "Bono de Daño Anemo +15%.",
+        "FR": "Confère un bonus de DGT Anémo de 15 %.",
+        "ID": "Anemo DMG Bonus +15%.",
+        "IT": "Bonus DAN da Anemo +15%.",
+        "JP": "風元素ダメージ+15%。",
+        "KR": "바람 원소 피해 보너스+15%",
+        "PT": "Bônus de Dano Anemo +15%",
+        "RU": "Даёт 15% бонус Анемо урона.",
+        "TH": "ได้รับโบนัสความเสียหายลม 15%",
+        "TR": "+%15 Rüzgar Hasarı Bonusu.",
+        "VI": "Nhận 15% buff sát thương nguyên tố Phong."
+      },
+      "affixId": "2150020"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases Swirl reaction DMG dealt by 60%, and Stellar Swirl reaction DMG dealt by 20%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s. Upon triggering a Stellar Swirl in the opponent, will also decrease their Cryo RES by 40%. RES debuffs of the same elemental type do not stack.",
+        "CHS": "扩散反应造成的伤害提升60%，星扩散反应造成的伤害提升20%。根据扩散的元素类型，降低受到影响的敌人40%的对应元素抗性，持续10秒。对敌人触发星扩散反应时，也会降低其40%的冰元素抗性。同元素类型的抗性降低效果无法叠加。",
+        "CHT": "擴散反應造成的傷害提升60%，星擴散反應造成的傷害提升20%。根據擴散的元素類型，降低受到影響的敵人40%的對應元素抗性，持續10秒。對敵人觸發星擴散反應時，也會降低其40%的冰元素抗性。同元素類型的抗性降低效果無法疊加。",
+        "DE": "#Erhöht den durch die Reaktion Verwirbelung verursachten Schaden um 60 % sowie den durch die Reaktion Stellar-Verwirbelung verursachten Schaden um 20 %. Verringert den dem jeweiligen Elementartyp der Verwirbelung entsprechenden WDS des betroffenen Gegners 10 s lang um 40 %. Verringert, wenn eine Stellar-Verwirbelung auf einen Gegner ausgelöst wird, dessen Kryo-WDS um 40 %. WDS-Verringerungen desselben Elementartyps können nicht gestapelt werden.",
+        "ES": "#El daño de la reacción de Torbellino aumenta en un 60%, y el de Torbellino Estelar aumenta en un 20%. Dependiendo del tipo elemental del Torbellino, la RES Elemental correspondiente del enemigo se reduce en un 40% durante 10 s. Al causar una reacción de Torbellino Estelar contra un enemigo, su RES Cryo también se reduce en un 40%. Las reducciones del mismo tipo de RES Elemental no se pueden acumular.",
+        "FR": "Augmente les DGT infligés par les réactions de Dispersion de 60 % et ceux des réactions d'Astrodispersion de 20 %, et diminue la RÉS de l'élément dispersé correspondant des ennemis de 40 % pendant 10 s. De plus, déclencher une réaction d'Astrodispersion sur un ennemi diminue également sa RÉS Cryo de 40 %, les diminutions de RÉS du même type élémentaire ne se cumulant pas.",
+        "ID": "DMG yang diakibatkan reaksi Swirl +60% dan DMG yang diakibatkan reaksi Stellar Swirl +20%. Elemental RES musuh yang terpengaruh -40% selama 10 detik untuk jenis elemen yang terlibat dalam reaksi Swirl. Saat memicu reaksi Stellar Swirl terhadap musuh, Cryo RES mereka juga akan berkurang 40%. Efek pengurangan RES dengan jenis elemen yang sama tidak dapat ditumpuk.",
+        "IT": "#Aumenta i DAN da reazione di Turbinio di un 60%, e quelli da Turbinio astrale di un 20%. Riduce di un 40% la RES dell'avversario all'elemento infuso dal Turbinio per 10 s. Dopo aver innescato Turbinio astrale su un avversario, diminuisce anche la RES a Cryo di un 40%. Le riduzioni alla RES dello stesso tipo elementale non si accumulano.",
+        "JP": "拡散反応によるダメージ+60%、星拡散反応によるダメージ+20%。拡散された元素タイプに応じて、影響を受けた敵の当該元素耐性-40%。継続時間10秒。敵に対して星拡散反応を起こした時も、その氷元素耐性-40%。同じ元素タイプの耐性ダウン効果は重ね掛けできない。",
+        "KR": "확산 반응으로 주는 피해가 60% 증가하고, 별 확산 반응으로 주는 피해가 20% 증가한다. 확산된 원소 타입에 따라 영향을 받은 적의 해당 원소 내성이 40% 감소한다. 지속 시간: 10초. 적에게 별 확산 반응 발동 시 얼음 원소 내성도 40% 감소한다. 동일한 원소 타입의 내성 감소 효과는 중첩되지 않는다",
+        "PT": "Aumenta o Dano causado por Redemoinho em 60% e aumenta o Dano causado por Redemoinho Estelar em 20%. De acordo com o Tipo Elemental do Redemoinho, reduz a RES Elemental correspondente do inimigo afetado em 40% por 10s. Ao desencadear Redemoinho Estelar, também reduz sua RES Cryo em 40%. Efeitos de redução de RES de mesmo Tipo Elemental não acumulam.",
+        "RU": "Повышает урон Рассеивания на 60%, Звёздного рассеивания - на 20%. В зависимости от элемента Рассеивания снижает соответствующее элементальное сопротивление поражённого врага на 40% на 10 сек. Активация Звёздного рассеивания на враге также понижает его Крио сопротивление на 40%. Снижение сопротивления одним и тем же элементам не суммируется.",
+        "TH": "ความเสียหายจากปฏิกิริยากระจายเพิ่มขึ้น 60% ความเสียหายกระจายดาราเพิ่มขึ้น 20% ลดความต้านทานธาตุที่เกี่ยวข้องของศัตรูที่ได้รับผลกระทบลง 40% ตามประเภทของธาตุที่กระจาย เป็นเวลา 10 วินาที เมื่อทำให้เกิดปฏิกิริยากระจายดารากับศัตรู จะลดความต้านทานน้ำแข็งของศัตรูลง 40% ด้วยเช่นกัน ทั้งนี้ เอฟเฟกต์ลดความต้านทานธาตุเดียวกันไม่สามารถซ้อนทับกันได้",
+        "TR": "Girdap Tepkimesi Hasarını %60, Yıldız Girdabı Tepkimesi Hasarını ise %20 artırır. 10sn boyunca Girdaptaki elemente karşı düşmanın Element Direncini %40 azaltır. Düşman üzerinde bir Yıldız Girdabı tetiklediğinde ayrıca düşmanın Buz Direnci %40 azalır. Direnç azaltma, aynı element türleri için birikmez.",
+        "VI": "Sát thương phản ứng Khuếch Tán tăng 60%, sát thương phản ứng Tinh-Khuếch Tán tăng 20%. Dựa theo loại nguyên tố khuếch tán, giảm 40% Kháng Nguyên Tố tương ứng của kẻ địch bị ảnh hưởng, duy trì 10s. Khi kích hoạt phản ứng Tinh-Khuếch Tán lên kẻ địch, cũng sẽ giảm 40% Kháng Nguyên Tố Băng của mục tiêu. Hiệu quả giảm Kháng Nguyên Tố cùng loại sẽ không thể cộng dồn."
+      },
+      "affixId": "2150021"
+    }
+  ]
+}

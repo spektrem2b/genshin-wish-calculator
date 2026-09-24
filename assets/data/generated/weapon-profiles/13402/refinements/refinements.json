@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Magic Affinity",
+    "CHS": "嗜魔",
+    "CHT": "嗜魔",
+    "DE": "Magiesauger",
+    "ES": "Fanático de la magia",
+    "FR": "Soif de magie",
+    "ID": "Magic Eater",
+    "IT": "Interazione magica",
+    "JP": "魔力親和",
+    "KR": "마력의 갈증",
+    "PT": "Viciado em Magia",
+    "RU": "Влечение магии",
+    "TH": "Magic Affinity",
+    "TR": "Büyü Bağımlısı",
+    "VI": "Thị Ma"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 8% for 12s. Max 2 stacks.",
+        "CHS": "施放元素战技后，普通攻击和重击造成的伤害提高8%。该效果持续12秒，最多叠加2层。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊造成的傷害提高8%。該效果持續12秒，最多疊加兩層。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 12 s lang um 8 %, 2-fach stapelbar.",
+        "ES": "Después de usar una Habilidad Elemental, aumenta el daño de Ataque Normal y Cargado en un 8% durante 12 s. Puede acumularse hasta 2 veces.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les DGT des attaques normales et chargées augmentent de 8 % pendant 12 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah melancarkan Elemental Skill, meningkatkan 8% Normal dan Charged Attack selama 12 detik. Efek ini dapat ditumpuk maksimum 2 lapis.",
+        "IT": "#Dopo l'uso di un'abilità elementale, aumenta i DAN da attacchi normali e caricati di un 8% per 12 s. Cumulabile fino a 2 volte.",
+        "JP": "元素スキルを発動した後、通常攻撃と重撃のダメージ+8%、継続時間12秒、最大2重まで。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격 피해가 8% 증가한다. 지속 시간: 12초. 최대 중첩수: 2회",
+        "PT": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 8% por 12s, podendo acumular até 2 vezes.",
+        "RU": "Использование элементального навыка увеличивает урон обычной и заряженной атаки на 8% в течение 12 сек. Эффект может складываться до 2 раз.",
+        "TH": "หลังจากโจมตีโดยใช้สกิลธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 8% ซึ่งเอฟเฟกต์นี้จะมีระยะเวลาต่อเนื่อง 12 วินาที และเกิดมากสุด 2 ชั้น",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra, 12 saniyeliğine Normal ve Yüklü Saldırı Hasarını %8 artırır. 2 kademeye kadar birikir.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, sát thương tấn công thường và trọng kích tăng 8%. Kéo dài 12s, tối đa cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 10% for 12s. Max 2 stacks.",
+        "CHS": "施放元素战技后，普通攻击和重击造成的伤害提高10%。该效果持续12秒，最多叠加2层。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊造成的傷害提高10%。該效果持續12秒，最多疊加兩層。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 12 s lang um 10 %, 2-fach stapelbar.",
+        "ES": "Después de usar una Habilidad Elemental, aumenta el daño de Ataque Normal y Cargado en un 10% durante 12 s. Puede acumularse hasta 2 veces.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les DGT des attaques normales et chargées augmentent de 10 % pendant 12 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah melancarkan Elemental Skill, meningkatkan 10% Normal dan Charged Attack selama 12 detik. Efek ini dapat ditumpuk maksimum 2 lapis.",
+        "IT": "#Dopo l'uso di un'abilità elementale, aumenta i DAN da attacchi normali e caricati di un 10% per 12 s. Cumulabile fino a 2 volte.",
+        "JP": "元素スキルを発動した後、通常攻撃と重撃のダメージ+10%、継続時間12秒、最大2重まで。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격 피해가 10% 증가한다. 지속 시간: 12초. 최대 중첩수: 2회",
+        "PT": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 10% por 12s, podendo acumular até 2 vezes.",
+        "RU": "Использование элементального навыка увеличивает урон обычной и заряженной атаки на 10% в течение 12 сек. Эффект может складываться до 2 раз.",
+        "TH": "หลังจากโจมตีโดยใช้สกิลธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 10% ซึ่งเอฟเฟกต์นี้จะมีระยะเวลาต่อเนื่อง 12 วินาที และเกิดมากสุด 2 ชั้น",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra, 12 saniyeliğine Normal ve Yüklü Saldırı Hasarını %10 artırır. 2 kademeye kadar birikir.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, sát thương tấn công thường và trọng kích tăng 10%. Kéo dài 12s, tối đa cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 12% for 12s. Max 2 stacks.",
+        "CHS": "施放元素战技后，普通攻击和重击造成的伤害提高12%。该效果持续12秒，最多叠加2层。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊造成的傷害提高12%。該效果持續12秒，最多疊加兩層。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 12 s lang um 12 %, 2-fach stapelbar.",
+        "ES": "Después de usar una Habilidad Elemental, aumenta el daño de Ataque Normal y Cargado en un 12% durante 12 s. Puede acumularse hasta 2 veces.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les DGT des attaques normales et chargées augmentent de 12 % pendant 12 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah melancarkan Elemental Skill, meningkatkan 12% Normal dan Charged Attack selama 12 detik. Maksimum 2 lapis.",
+        "IT": "#Dopo l'uso di un'abilità elementale, aumenta i DAN da attacchi normali e caricati di un 12% per 12 s. Cumulabile fino a 2 volte.",
+        "JP": "元素スキルを発動した後、通常攻撃と重撃のダメージ+12%、継続時間12秒、最大2重まで。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격 피해가 12% 증가한다. 지속 시간: 12초. 최대 중첩수: 2회",
+        "PT": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 12% por 12s, podendo acumular até 2 vezes.",
+        "RU": "Использование элементального навыка увеличивает урон обычной и заряженной атаки на 12% в течение 12 сек. Эффект может складываться до 2 раз.",
+        "TH": "หลังจากโจมตีโดยใช้สกิลธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 12% ซึ่งเอฟเฟกต์นี้จะมีระยะเวลาต่อเนื่อง 12 วินาที และเกิดมากสุด 2 ชั้น",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra, 12 saniyeliğine Normal ve Yüklü Saldırı Hasarını %12 artırır. 2 kademeye kadar birikir.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, sát thương tấn công thường và trọng kích tăng 12%. Kéo dài 12s, tối đa cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 14% for 12s. Max 2 stacks.",
+        "CHS": "施放元素战技后，普通攻击和重击造成的伤害提高14%。该效果持续12秒，最多叠加2层。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊造成的傷害提高14%。該效果持續12秒，最多疊加兩層。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 12 s lang um 14 %, 2-fach stapelbar.",
+        "ES": "Después de usar una Habilidad Elemental, aumenta el daño de Ataque Normal y Cargado en un 14% durante 12 s. Puede acumularse hasta 2 veces.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les DGT des attaques normales et chargées augmentent de 14 % pendant 12 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah melancarkan Elemental Skill, meningkatkan 14% Normal dan Charged Attack selama 12 detik. Maksimum 2 lapis.",
+        "IT": "#Dopo l'uso di un'abilità elementale, aumenta i DAN da attacchi normali e caricati di un 14% per 12 s. Cumulabile fino a 2 volte.",
+        "JP": "元素スキルを発動した後、通常攻撃と重撃のダメージ+14%、継続時間12秒、最大2重まで。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격 피해가 14% 증가한다. 지속 시간: 12초. 최대 중첩수: 2회",
+        "PT": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 14% por 12s, podendo acumular até 2 vezes.",
+        "RU": "Использование элементального навыка увеличивает урон обычной и заряженной атаки на 14% в течение 12 сек. Эффект может складываться до 2 раз.",
+        "TH": "หลังจากโจมตีโดยใช้สกิลธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 14% ซึ่งเอฟเฟกต์นี้จะมีระยะเวลาต่อเนื่อง 12 วินาที และเกิดมากสุด 2 ชั้น",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra, 12 saniyeliğine Normal ve Yüklü Saldırı Hasarını %14 artırır. 2 kademeye kadar birikir.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, sát thương tấn công thường và trọng kích tăng 14%. Kéo dài 12s, tối đa cộng dồn 2 tầng."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 16% for 12s. Max 2 stacks.",
+        "CHS": "施放元素战技后，普通攻击和重击造成的伤害提高16%。该效果持续12秒，最多叠加2层。",
+        "CHT": "施放元素戰技後，普通攻擊和重擊造成的傷害提高16%。該效果持續12秒，最多疊加兩層。",
+        "DE": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 12 s lang um 16 %, 2-fach stapelbar.",
+        "ES": "Después de usar una Habilidad Elemental, aumenta el daño de Ataque Normal y Cargado en un 16% durante 12 s. Puede acumularse hasta 2 veces.",
+        "FR": "Après l'utilisation d'une compétence élémentaire, les DGT des attaques normales et chargées augmentent de 16 % pendant 12 s. Cet effet peut être cumulé 2 fois maximum.",
+        "ID": "Setelah melancarkan Elemental Skill, meningkatkan 16% Normal dan Charged Attack selama 12 detik. Maksimum 2 lapis.",
+        "IT": "#Dopo l'uso di un'abilità elementale, aumenta i DAN da attacchi normali e caricati di un 16% per 12 s. Cumulabile fino a 2 volte.",
+        "JP": "元素スキルを発動した後、通常攻撃と重撃のダメージ+16%、継続時間12秒、最大2重まで。",
+        "KR": "원소전투 스킬 발동 후 일반 공격과 강공격 피해가 16% 증가한다. 지속 시간: 12초. 최대 중첩수: 2회",
+        "PT": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 16% por 12s, podendo acumular até 2 vezes.",
+        "RU": "Использование элементального навыка увеличивает урон обычной и заряженной атаки на 16% в течение 12 сек. Эффект может складываться до 2 раз.",
+        "TH": "หลังจากโจมตีโดยใช้สกิลธาตุ การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น 16% ซึ่งเอฟเฟกต์นี้จะมีระยะเวลาต่อเนื่อง 12 วินาที และเกิดมากสุด 2 ชั้น",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra, 12 saniyeliğine Normal ve Yüklü Saldırı Hasarını %16 artırır. 2 kademeye kadar birikir.",
+        "VI": "Sau khi thi triển kỹ năng nguyên tố, sát thương tấn công thường và trọng kích tăng 16%. Kéo dài 12s, tối đa cộng dồn 2 tầng."
+      }
+    }
+  ]
+}

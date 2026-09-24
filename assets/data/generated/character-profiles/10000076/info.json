@@ -1,0 +1,137 @@
+{
+  "id": "10000076",
+  "name": {
+    "EN": "Faruzan",
+    "CHS": "珐露珊",
+    "CHT": "琺露珊",
+    "DE": "Faruzan",
+    "ES": "Faruzán",
+    "FR": "Faruzan",
+    "ID": "Faruzan",
+    "IT": "Faruzan",
+    "JP": "ファルザン",
+    "KR": "파루잔",
+    "PT": "Faruzan",
+    "RU": "Фарузан",
+    "TH": "Faruzan",
+    "TR": "Faruzan",
+    "VI": "Faruzan"
+  },
+  "nameEn": "Faruzan",
+  "element": "Anemo",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 8,
+    "day": 20
+  },
+  "release": "2022-12-05T22:00:00",
+  "icon": "generated/character-profiles/10000076/avatar.webp",
+  "fullWish": "generated/character-profiles/10000076/full_wish.webp",
+  "fullWishObjectPosition": "52.4% 67.5%",
+  "title": {
+    "EN": "Enigmatic Machinist",
+    "CHS": "机逐封秘",
+    "CHT": "機逐封秘",
+    "DE": "Einfallsreiche Mechanismen",
+    "ES": "La Ingeniera Enigmática",
+    "FR": "Machiniste énigmatique",
+    "ID": "Enigmatic Machinist",
+    "IT": "Enigmatica esperta di macchine",
+    "JP": "機求封秘",
+    "KR": "수수께끼의 장치학자",
+    "PT": "Maquinista Enigmática",
+    "RU": "Загадочный механик",
+    "TH": "กลไกลึกปริศนาลับ",
+    "TR": "Esrarengiz Makinist",
+    "VI": "Người Giải Bí Ẩn"
+  },
+  "description": {
+    "EN": "A researcher from \"one hundred years ago.\" She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
+    "CHS": "来自「一百年前」的学者，喜欢以前辈自居，对各类古老文字与古典机关都颇有研究。",
+    "CHT": "來自「一百年前」的學者，喜歡以前輩自居，對各類古老文字與古典機關都頗有研究。",
+    "DE": "Eine Gelehrte von „vor hundert Jahren“, die sich gern als angesehene Gelehrte ausgibt und über umfangreiche Kenntnisse über alte Schriften und Vorrichtungen aller Arten verfügt.",
+    "ES": "Una erudita “con cien años de antigüedad” a la que le encanta recalcar que tiene más experiencia que los demás. Posee unos amplios conocimientos sobre textos antiguos y sobre todo tipo de mecanismos.",
+    "FR": "Une chercheuse qui vient « du siècle dernier ». Elle aime être l'aînée de tous et possède de vastes connaissances sur les textes anciens et la mécanique classique.",
+    "ID": "Peneliti dari \"seratus tahun lalu\". Dia suka mengaku diri sebagai seniornya semua orang dan punya pengetahuan luas tentang berbagai naskah kuno dan segala jenis mesin.",
+    "IT": "Una ricercatrice di \"un secolo fa\". Le piace autodefinirsi un'esperta, e possiede una vasta conoscenza di ogni genere di scritti e macchinari antichi.",
+    "JP": "「百年前」から訪れた学者。自ら好んで先輩と名乗り、各種古代文字や古典ギミックに精通している。",
+    "KR": "「백 년 전」에서 온 학자. 선배를 자처하며, 각종 고대 문자와 장치에 상당한 지식을 가지고 있다",
+    "PT": "Uma pesquisadora de \"cem anos atrás\". Ela gosta de se identificar como a mais velha de todas, com um conhecimento significativo de escrituras antigas e máquinas de todos os tipos.",
+    "RU": "Исследовательница из «прошлого века». Ей нравится считать себя старше всех. Она обладает обширными познаниями о старинных письменах и древних механизмах.",
+    "TH": "นักวิชาการจากเมื่อ \"หนึ่งร้อยปีก่อน\" ชื่นชอบที่จะตั้งตนเป็นรุ่นพี่ ทั้งยังมีงานวิจัยเกี่ยวข้องกับอักษรโบราณ และกลศาสตร์โบราณต่าง ๆ",
+    "TR": "\"Yüzyıl öncesinden\" bir araştırmacı. Kendisini herkesten daha kıdemli görmeyi sever ve eski yazılar ve her türden makina hakkında önemli bilgilere sahiptir.",
+    "VI": "Học giả đến từ \"trăm năm trước\", thích được gọi là tiền bối, chuyên nghiên cứu về các loại văn tự cổ xưa và cơ quan cổ điển."
+  },
+  "constellationName": {
+    "EN": "Flosculi Implexi",
+    "CHS": "蔓藤花饰座",
+    "CHT": "蔓藤花飾座",
+    "DE": "Flosculi Implexi",
+    "ES": "Flosculi Implexi",
+    "FR": "Flosculi Implexi",
+    "ID": "Flosculi Implexi",
+    "IT": "Flosculi Implexi",
+    "JP": "藤蔓の花飾座",
+    "KR": "아라베스크자리",
+    "PT": "Flosculi Implexi",
+    "RU": "Переплетённые Цветы",
+    "TH": "Flosculi Implexi",
+    "TR": "Çiçek Sarmaşığı",
+    "VI": "Cung Man Đằng Hoa Sức"
+  },
+  "native": {
+    "EN": "Haravatat",
+    "CHS": "室罗婆耽学院",
+    "CHT": "室羅婆耽學院",
+    "DE": "Haravatat-Institut",
+    "ES": "Facultad Haravatat",
+    "FR": "Haravatat",
+    "ID": "Haravatat",
+    "IT": "Haravatat",
+    "JP": "ハルヴァタット学院",
+    "KR": "하라바타트 학부",
+    "PT": "Haravatat",
+    "RU": "Хараватат",
+    "TH": "คณะ Haravatat",
+    "TR": "Haravatat",
+    "VI": "Học viện Haravatat"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Chandni Parekh"
+    },
+    {
+      "lang": "CHS",
+      "va": "阎萌萌"
+    },
+    {
+      "lang": "JP",
+      "va": "堀江由衣"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Yu-rim"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 802.3761,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.4724,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 52.647,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

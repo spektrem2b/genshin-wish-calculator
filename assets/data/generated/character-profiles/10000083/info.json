@@ -1,0 +1,137 @@
+{
+  "id": "10000083",
+  "name": {
+    "EN": "Lynette",
+    "CHS": "琳妮特",
+    "CHT": "琳妮特",
+    "DE": "Lynette",
+    "ES": "Lynette",
+    "FR": "Lynette",
+    "ID": "Lynette",
+    "IT": "Lynette",
+    "JP": "リネット",
+    "KR": "리넷",
+    "PT": "Lynette",
+    "RU": "Линетт",
+    "TH": "Lynette",
+    "TR": "Lynette",
+    "VI": "Lynette"
+  },
+  "nameEn": "Lynette",
+  "element": "Anemo",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "FONTAINE",
+  "birthday": {
+    "month": 2,
+    "day": 2
+  },
+  "release": "2023-08-14T21:00:00",
+  "icon": "generated/character-profiles/10000083/avatar.webp",
+  "fullWish": "generated/character-profiles/10000083/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Elegance in the Shadows",
+    "CHS": "丽影绮行",
+    "CHT": "麗影綺行",
+    "DE": "Eleganz im Schatten",
+    "ES": "La Elegancia de las Sombras",
+    "FR": "Élégance parmi les ombres",
+    "ID": "Elegance in the Shadows",
+    "IT": "Eleganza nell'ombra",
+    "JP": "綺影で魅せるエレガンス",
+    "KR": "그림자 속 우아한 걸음",
+    "PT": "Elegância nas Sombras",
+    "RU": "Изящество среди теней",
+    "TH": "เงาฉายงามสง่า",
+    "TR": "Gölgedeki Zarafet",
+    "VI": "Bóng Hình Trang Nhã"
+  },
+  "description": {
+    "EN": "A magic assistant of few words, her emotions are as inscrutable as any cat's.",
+    "CHS": "寡言少语，罕有表情的魔术助手，性情像猫一样难以猜测。",
+    "CHT": "寡言少語，罕有表情的魔術助手，性情像貓一樣難以猜測。",
+    "DE": "Eine wortkarge Zauberassistentin. Ihre Mimik lässt sich kaum ergründen und ihr Temperament ist so unergründlich wie das einer Katze.",
+    "ES": "Una ayudante de magia poco habladora y expresiva. Es tan impredecible como un felino.",
+    "FR": "Une assistante magique au verbe laconique, dont les émotions sont aussi impénétrables que celles d'un chat.",
+    "ID": "Asisten pesulap yang tidak banyak bicara. Emosinya sulit ditebak, persis seperti kucing.",
+    "IT": "Un'assistente magica di poche parole, le cui emozioni sono imperscrutabili come quelle di un gatto.",
+    "JP": "口数が少なく、表情に乏しいマジックアシスタント。その性格は猫のようにつかみどころがない。",
+    "KR": "과묵하고 표정 변화가 적은 마술 조수. 고양이처럼 그 속을 알기 힘들다",
+    "PT": "Uma assistente de mágico de poucas palavras. Sua personalidade é tão difícil de adivinhar como um gato.",
+    "RU": "Немногословная ассистентка иллюзиониста, редко выражающая эмоции. Она похожа на кошку тем, как сложно разобраться в её характере.",
+    "TH": "ผู้ช่วยนักมายากลที่พูดจาน้อยคำ และมักมีสีหน้าไร้อารมณ์ นิสัยก็ยากจะคาดเดา ไม่ต่างอะไรไปจากแมวเลยสักนิด",
+    "TR": "Sessiz bir sihirbaz asistanı. Duyguları bir kedinininki kadar tahmin edilemezdir.",
+    "VI": "Trợ lý ảo thuật ít nói, hiếm khi biểu đạt cảm xúc, tính khí khó đoán như loài mèo."
+  },
+  "constellationName": {
+    "EN": "Felis Alba",
+    "CHS": "白尾猫座",
+    "CHT": "白尾貓座",
+    "DE": "Felis Alba",
+    "ES": "Felis Alba",
+    "FR": "Felis Alba",
+    "ID": "Felis Alba",
+    "IT": "Felis Alba",
+    "JP": "白尾猫座",
+    "KR": "흰꼬리고양이자리",
+    "PT": "Felis Alba",
+    "RU": "Белохвостая Кошка",
+    "TH": "Felis Alba",
+    "TR": "Beyaz Kedi",
+    "VI": "Cung Bạch Vỹ Miêu"
+  },
+  "native": {
+    "EN": "Hotel Bouffes d'ete",
+    "CHS": "布法蒂公馆",
+    "CHT": "布法蒂公館",
+    "DE": "Hotel Bouffes d’été",
+    "ES": "Hotel Bouffes d'Été",
+    "FR": "Hôtel Bouffes d'été",
+    "ID": "Hotel Bouffes d'ete",
+    "IT": "Hotel Bouffes d'Été",
+    "JP": "ブーフ·ド·エテの館",
+    "KR": "부프 데테 저택",
+    "PT": "Hotel Bouffes d'ete",
+    "RU": "Особняк «Буфф д'эте»",
+    "TH": "โรงแรม Bouffes d'ete",
+    "TR": "Bouffes d'Été Otel",
+    "VI": "Khách Sạn Bouffes d'ete"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Anairis Quiñones"
+    },
+    {
+      "lang": "CHS",
+      "va": "可可味"
+    },
+    {
+      "lang": "JP",
+      "va": "篠原侑"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Serena"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_WIND_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1039.4418,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.41072,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 59.685677,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

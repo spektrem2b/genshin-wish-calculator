@@ -1,0 +1,69 @@
+{
+  "id": 15027,
+  "name": {
+    "EN": "Desert Pavilion Chronicle",
+    "CHS": "沙上楼阁史话",
+    "CHT": "沙上樓閣史話",
+    "DE": "Chronik des Wüstenpavillons",
+    "ES": "Épica del Pabellón del Desierto",
+    "FR": "Chronique du Pavillon du désert",
+    "ID": "Desert Pavilion Chronicle",
+    "IT": "Cronache del Padiglione nel deserto",
+    "JP": "砂上の楼閣の史話",
+    "KR": "모래 위 누각의 역사",
+    "PT": "Crônicas do Pavilhão do Deserto",
+    "RU": "Хроники Чертогов в пустыне",
+    "TH": "Desert Pavilion Chronicle",
+    "TR": "Çöl Konağı Günlükleri",
+    "VI": "Sử Ký Đình Đài Cát"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15027/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Anemo DMG Bonus +15%",
+        "CHS": "获得15%风元素伤害加成。",
+        "CHT": "獲得15%風元素傷害加成。",
+        "DE": "Erhöht den Anemo-Schaden um 15 %.",
+        "ES": "Bono de Daño Anemo +15%.",
+        "FR": "Confère un bonus de DGT Anémo de 15 %.",
+        "ID": "Anemo DMG Bonus +15%.",
+        "IT": "Bonus DAN da Anemo +15%.",
+        "JP": "風元素ダメージ+15%。",
+        "KR": "바람 원소 피해 보너스+15%",
+        "PT": "Bônus de Dano Anemo +15%",
+        "RU": "Даёт 15% бонус Анемо урона.",
+        "TH": "ได้รับโบนัสความเสียหายลม 15%",
+        "TR": "+%15 Rüzgar Hasarı Bonusu.",
+        "VI": "Nhận 15% buff sát thương nguyên tố Phong."
+      },
+      "affixId": "2150270"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.",
+        "CHS": "重击命中敌人后，该角色的普通攻击速度提升10%，普通攻击、重击与下落攻击造成的伤害提升40%，持续15秒。",
+        "CHT": "重擊命中敵人後，該角色的普通攻擊速度提升10%，普通攻擊、重擊與下落攻擊造成的傷害提升40%，持續15秒。",
+        "DE": "Erhöht die Standardangriffs-GSW der damit ausgerüsteten Figur nach dem Treffen von Gegnern mit heftigen Schlägen um 10 % und erhöht den von Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um 40 %, hält 15 s.",
+        "ES": "#Tras golpear a un enemigo con un Ataque Cargado, la Vel. de Ataque Normal del personaje aumenta en un 10%, y el daño de Ataque Normal, Cargado y Descendente aumenta en un 40% durante 15 s.",
+        "FR": "#Lorsqu'une attaque chargée a touché un ennemi, la VIT d'attaque normale du personnage augmente de 10 % et les DGT infligés par ses attaques normales, chargées et plongeantes augmentent de 40 %, pendant 15 s.",
+        "ID": "Setelah Charged Attack mengenai musuh, Normal Attack SPD Karakter ini meningkat 10%, dan DMG yang diakibatkan Normal Attack, Charged Attack, serta Plunging Attack meningkat 40%, berlangsung selama 15 detik.",
+        "IT": "#Quando gli attacchi caricati colpiscono gli avversari, la VEL dell'attacco normale del personaggio aumenta di un 10%, mentre i DAN da attacco normale, caricato e in picchiata aumentano di un 40% per 15 s.",
+        "JP": "重撃が敵に命中すると、該当キャラクターの通常攻撃の攻撃速度+10%、通常攻撃、重撃および落下攻撃ダメージ+40%、継続時間15秒。",
+        "KR": "강공격이 적을 명중 후, 해당 캐릭터의 일반 공격 속도가 10% 증가하고 일반 공격, 강공격, 낙하 공격으로 주는 피해가 40% 증가한다. 지속 시간: 15초",
+        "PT": "Quando um Ataque Carregado atinge um inimigo, aumenta a Vel. de ATQ do Ataque Normal desse Personagem em 10% e aumenta o Dano infligido por Ataques Normais, Carregados e Imersivos em 40% por 15s.",
+        "RU": "Попадание заряженной атакой на 15 сек. повышает скорость обычной атаки на 10%, а урон обычной атаки, заряженной атаки и атаки в падении - на 40%.",
+        "TH": "หลังจากที่การชาร์จโจมตีถูกศัตรู ความเร็วของการโจมตีปกติของตัวละครนี้ จะเพิ่มขึ้น 10% โดยที่การโจมตีปกติ, การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศ จะสร้างความเสียหายเพิ่มขึ้น 40% เป็นเวลา 15 วินาที",
+        "TR": "Yüklü Saldırı bir düşmana isabet ettiğinde 15 saniyeliğine bunu kuşanan karakterin Normal Saldırı Hızı %10 artarken Normal, Yüklü ve Havadan Saldırı Hasarı %40 artar.",
+        "VI": "Khi trọng kích trúng kẻ địch, tốc độ tấn công thường của nhân vật này tăng 10%; sát thương gây ra từ tấn công thường, trọng kích, tấn công khi đáp tăng 40%, duy trì 15s."
+      },
+      "affixId": "2150271"
+    }
+  ]
+}

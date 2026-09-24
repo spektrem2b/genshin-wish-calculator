@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Overloaded",
+    "CHS": "过载",
+    "CHT": "過載",
+    "DE": "Hochspannung",
+    "ES": "Sobrecarga",
+    "FR": "Surcapacité",
+    "ID": "Overloaded",
+    "IT": "Sovraccarico",
+    "JP": "オーバーロード",
+    "KR": "과전류",
+    "PT": "Sobrecarga",
+    "RU": "Перегружен",
+    "TH": "Overloaded",
+    "TR": "Yüksek Voltaj",
+    "VI": "Quá Tải"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Upon causing an Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 20% for 12s.",
+        "CHS": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高20%。",
+        "CHT": "觸發超載、超導、星超導、感電、原激化、超激化、超綻放、月感電或雷元素擴散反應後的12秒內，攻擊力提高20%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Stellar-Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ oder „Elektro-Verwirbelung“ 12 s lang um 20 %.",
+        "ES": "#Tras causar una reacción de Sobrecarga, Superconductor, Superconductor Estelar, Electrocargado, Aceleración, Intensificación, Sobreflorecimiento, Electrocargado Lunar o Torbellino Electro, el ATQ aumenta en un 20% durante 12 s.",
+        "FR": "Augmente l'ATQ de 20 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d'Astroconduction, d'Électrocution, de Sélénocution, de Stimulation, de Suractivation, d'Exubérance ou de Dispersion Électro.",
+        "ID": "Saat memicu reaksi Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau Swirl dengan Electro, ATK +20% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Sovraccarico, Superconduzione, Astroconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l'ATT aumenta di un 20% per 12 s.",
+        "JP": "過負荷、超電導、星電導、感電、原激化、超激化、超開花、月感電、または雷元素拡散反応を起こした後12秒間、攻撃力+20%。",
+        "KR": "과부하, 초전도, 별 초전도, 감전, 활성, 촉진, 만개, 달 감전 혹은 번개 원소 확산 반응 발동 후 12초 동안 공격력이 20% 증가한다",
+        "PT": "Após causar uma reação elemental de Sobrecarga, Supercondutor, Supercondutor Estelar, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 20% por 12s.",
+        "RU": "Увеличивает силу атаки на 20% на 12 сек. после активации реакций Перегрузка, Звёздный проводник, Сверхпроводник, Заряжен, Стимуляция, Обострение, Вегетация, Лунный заряд или Электро Рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, นำไฟฟ้า, นำไฟฟ้าดารา, ชาร์จไฟฟ้า, ชาร์จจันทรา, ปลุกเร้า, บีบอัด, ไฮเปอร์บลูม หรือกระจายธาตุไฟฟ้า จะเพิ่มพลังโจมตีขึ้น 20% เป็นเวลา 12 วินาที",
+        "TR": "Bir Yüksek Voltaj, Süper İletim, Yıldız İletimi, Elektrik Yüklü, Hızlanma, Şiddetlenme, Aşırı Çiçeklenme, Ay Yüklü veya Elektrik Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %20 artar.",
+        "VI": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Tinh-Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán Nguyên Tố Lôi, Tấn Công tăng 20%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Upon causing an Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 25% for 12s.",
+        "CHS": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高25%。",
+        "CHT": "觸發超載、超導、星超導、感電、原激化、超激化、超綻放、月感電或雷元素擴散反應後的12秒內，攻擊力提高25%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Stellar-Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ oder „Elektro-Verwirbelung“ 12 s lang um 25 %.",
+        "ES": "#Tras causar una reacción de Sobrecarga, Superconductor, Superconductor Estelar, Electrocargado, Aceleración, Intensificación, Sobreflorecimiento, Electrocargado Lunar o Torbellino Electro, el ATQ aumenta en un 25% durante 12 s.",
+        "FR": "Augmente l'ATQ de 25 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d'Astroconduction, d'Électrocution, de Sélénocution, de Stimulation, de Suractivation, d'Exubérance ou de Dispersion Électro.",
+        "ID": "Saat memicu reaksi Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau Swirl dengan Electro, ATK +25% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Sovraccarico, Superconduzione, Astroconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l'ATT aumenta di un 25% per 12 s.",
+        "JP": "過負荷、超電導、星電導、感電、原激化、超激化、超開花、月感電、または雷元素拡散反応を起こした後12秒間、攻撃力+25%。",
+        "KR": "과부하, 초전도, 별 초전도, 감전, 활성, 촉진, 만개, 달 감전 혹은 번개 원소 확산 반응 발동 후 12초 동안 공격력이 25% 증가한다",
+        "PT": "Após causar uma reação elemental de Sobrecarga, Supercondutor, Supercondutor Estelar, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 25% por 12s.",
+        "RU": "Увеличивает силу атаки на 25% на 12 сек. после активации реакций Перегрузка, Звёздный проводник, Сверхпроводник, Заряжен, Стимуляция, Обострение, Вегетация, Лунный заряд или Электро Рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, นำไฟฟ้า, นำไฟฟ้าดารา, ชาร์จไฟฟ้า, ชาร์จจันทรา, ปลุกเร้า, บีบอัด, ไฮเปอร์บลูม หรือกระจายธาตุไฟฟ้า จะเพิ่มพลังโจมตีขึ้น 25% เป็นเวลา 12 วินาที",
+        "TR": "Bir Yüksek Voltaj, Süper İletim, Yıldız İletimi, Elektrik Yüklü, Hızlanma, Şiddetlenme, Aşırı Çiçeklenme, Ay Yüklü veya Elektrik Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %25 artar.",
+        "VI": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Tinh-Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán Nguyên Tố Lôi, Tấn Công tăng 25%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Upon causing an Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 30% for 12s.",
+        "CHS": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高30%。",
+        "CHT": "觸發超載、超導、星超導、感電、原激化、超激化、超綻放、月感電或雷元素擴散反應後的12秒內，攻擊力提高30%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Stellar-Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ oder „Elektro-Verwirbelung“ 12 s lang um 30 %.",
+        "ES": "#Tras causar una reacción de Sobrecarga, Superconductor, Superconductor Estelar, Electrocargado, Aceleración, Intensificación, Sobreflorecimiento, Electrocargado Lunar o Torbellino Electro, el ATQ aumenta en un 30% durante 12 s.",
+        "FR": "Augmente l'ATQ de 30 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d'Astroconduction, d'Électrocution, de Sélénocution, de Stimulation, de Suractivation, d'Exubérance ou de Dispersion Électro.",
+        "ID": "Saat memicu reaksi Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau Swirl dengan Electro, ATK +30% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Sovraccarico, Superconduzione, Astroconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l'ATT aumenta di un 30% per 12 s.",
+        "JP": "過負荷、超電導、星電導、感電、原激化、超激化、超開花、月感電、または雷元素拡散反応を起こした後12秒間、攻撃力+30%。",
+        "KR": "과부하, 초전도, 별 초전도, 감전, 활성, 촉진, 만개, 달 감전 혹은 번개 원소 확산 반응 발동 후 12초 동안 공격력이 30% 증가한다",
+        "PT": "Após causar uma reação elemental de Sobrecarga, Supercondutor, Supercondutor Estelar, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 30% por 12s.",
+        "RU": "Увеличивает силу атаки на 30% на 12 сек. после активации реакций Перегрузка, Звёздный проводник, Сверхпроводник, Заряжен, Стимуляция, Обострение, Вегетация, Лунный заряд или Электро Рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, นำไฟฟ้า, นำไฟฟ้าดารา, ชาร์จไฟฟ้า, ชาร์จจันทรา, ปลุกเร้า, บีบอัด, ไฮเปอร์บลูม หรือกระจายธาตุไฟฟ้า จะเพิ่มพลังโจมตีขึ้น 30% เป็นเวลา 12 วินาที",
+        "TR": "Bir Yüksek Voltaj, Süper İletim, Yıldız İletimi, Elektrik Yüklü, Hızlanma, Şiddetlenme, Aşırı Çiçeklenme, Ay Yüklü veya Elektrik Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %30 artar.",
+        "VI": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Tinh-Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán Nguyên Tố Lôi, Tấn Công tăng 30%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Upon causing an Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 35% for 12s.",
+        "CHS": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高35%。",
+        "CHT": "觸發超載、超導、星超導、感電、原激化、超激化、超綻放、月感電或雷元素擴散反應後的12秒內，攻擊力提高35%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Stellar-Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ oder „Elektro-Verwirbelung“ 12 s lang um 35 %.",
+        "ES": "#Tras causar una reacción de Sobrecarga, Superconductor, Superconductor Estelar, Electrocargado, Aceleración, Intensificación, Sobreflorecimiento, Electrocargado Lunar o Torbellino Electro, el ATQ aumenta en un 35% durante 12 s.",
+        "FR": "Augmente l'ATQ de 35 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d'Astroconduction, d'Électrocution, de Sélénocution, de Stimulation, de Suractivation, d'Exubérance ou de Dispersion Électro.",
+        "ID": "Saat memicu reaksi Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau Swirl dengan Electro, ATK +35% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Sovraccarico, Superconduzione, Astroconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l'ATT aumenta di un 35% per 12 s.",
+        "JP": "過負荷、超電導、星電導、感電、原激化、超激化、超開花、月感電、または雷元素拡散反応を起こした後12秒間、攻撃力+35%。",
+        "KR": "과부하, 초전도, 별 초전도, 감전, 활성, 촉진, 만개, 달 감전 혹은 번개 원소 확산 반응 발동 후 12초 동안 공격력이 35% 증가한다",
+        "PT": "Após causar uma reação elemental de Sobrecarga, Supercondutor, Supercondutor Estelar, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 35% por 12s.",
+        "RU": "Увеличивает силу атаки на 35% на 12 сек. после активации реакций Перегрузка, Звёздный проводник, Сверхпроводник, Заряжен, Стимуляция, Обострение, Вегетация, Лунный заряд или Электро Рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, นำไฟฟ้า, นำไฟฟ้าดารา, ชาร์จไฟฟ้า, ชาร์จจันทรา, ปลุกเร้า, บีบอัด, ไฮเปอร์บลูม หรือกระจายธาตุไฟฟ้า จะเพิ่มพลังโจมตีขึ้น 35% เป็นเวลา 12 วินาที",
+        "TR": "Bir Yüksek Voltaj, Süper İletim, Yıldız İletimi, Elektrik Yüklü, Hızlanma, Şiddetlenme, Aşırı Çiçeklenme, Ay Yüklü veya Elektrik Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %35 artar.",
+        "VI": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Tinh-Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán Nguyên Tố Lôi, Tấn Công tăng 35%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Upon causing an Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 40% for 12s.",
+        "CHS": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高40%。",
+        "CHT": "觸發超載、超導、星超導、感電、原激化、超激化、超綻放、月感電或雷元素擴散反應後的12秒內，攻擊力提高40%。",
+        "DE": "#Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Stellar-Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ oder „Elektro-Verwirbelung“ 12 s lang um 40 %.",
+        "ES": "#Tras causar una reacción de Sobrecarga, Superconductor, Superconductor Estelar, Electrocargado, Aceleración, Intensificación, Sobreflorecimiento, Electrocargado Lunar o Torbellino Electro, el ATQ aumenta en un 40% durante 12 s.",
+        "FR": "Augmente l'ATQ de 40 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d'Astroconduction, d'Électrocution, de Sélénocution, de Stimulation, de Suractivation, d'Exubérance ou de Dispersion Électro.",
+        "ID": "Saat memicu reaksi Overloaded, Superconduct, Stellar-Conduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau Swirl dengan Electro, ATK +40% selama 12 detik.",
+        "IT": "#Dopo aver causato una reazione di Sovraccarico, Superconduzione, Astroconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l'ATT aumenta di un 40% per 12 s.",
+        "JP": "過負荷、超電導、星電導、感電、原激化、超激化、超開花、月感電、または雷元素拡散反応を起こした後12秒間、攻撃力+40%。",
+        "KR": "과부하, 초전도, 별 초전도, 감전, 활성, 촉진, 만개, 달 감전 혹은 번개 원소 확산 반응 발동 후 12초 동안 공격력이 40% 증가한다",
+        "PT": "Após causar uma reação elemental de Sobrecarga, Supercondutor, Supercondutor Estelar, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 40% por 12s.",
+        "RU": "Увеличивает силу атаки на 40% на 12 сек. после активации реакций Перегрузка, Звёздный проводник, Сверхпроводник, Заряжен, Стимуляция, Обострение, Вегетация, Лунный заряд или Электро Рассеивание.",
+        "TH": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, นำไฟฟ้า, นำไฟฟ้าดารา, ชาร์จไฟฟ้า, ชาร์จจันทรา, ปลุกเร้า, บีบอัด, ไฮเปอร์บลูม หรือกระจายธาตุไฟฟ้า จะเพิ่มพลังโจมตีขึ้น 40% เป็นเวลา 12 วินาที",
+        "TR": "Bir Yüksek Voltaj, Süper İletim, Yıldız İletimi, Elektrik Yüklü, Hızlanma, Şiddetlenme, Aşırı Çiçeklenme, Ay Yüklü veya Elektrik Tesirli Girdap tepkimesi tetikledikten sonra 12 saniyeliğine Saldırı %40 artar.",
+        "VI": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Tinh-Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán Nguyên Tố Lôi, Tấn Công tăng 40%."
+      }
+    }
+  ]
+}

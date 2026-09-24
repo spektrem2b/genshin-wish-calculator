@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "The Law's Equilibrium",
+    "CHS": "法度的制衡",
+    "CHT": "法度的制衡",
+    "DE": "Gleichgewicht der Gesetze",
+    "ES": "Contrapeso de la ley",
+    "FR": "Équilibre de la loi",
+    "ID": "The Law's Equilibrium",
+    "IT": "L'equilibrio della legge",
+    "JP": "律法の均衡",
+    "KR": "법의 균형",
+    "PT": "O Equilíbrio da Lei",
+    "RU": "Равновесие законов",
+    "TH": "The Law's Equilibrium",
+    "TR": "Kanunun Dengesi",
+    "VI": "Pháp Độ Cân Bằng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "For 12s after the equipping character uses an Elemental Skill, their Elemental Mastery is increased by 120.",
+        "CHS": "装备者施放元素战技后的12秒内，元素精通提升120点。",
+        "CHT": "裝備者施放元素戰技後的12秒內，元素精通提升120點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 12 s lang um 120 Punkte.",
+        "ES": "#Tras usar su Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 120 pts. durante 12 s.",
+        "FR": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, sa maîtrise élémentaire augmente de 120 pts pendant 12 s.",
+        "ID": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, Elemental Mastery +120 poin selama 12 detik.",
+        "IT": "#Per 12 s dopo che il personaggio che equipaggia l'arma ha usato l'abilità elementale, la sua maestria elementale aumenta di 120.",
+        "JP": "装備者が元素スキルを発動した後の12秒間、元素熟知+120。",
+        "KR": "장착 캐릭터가 원소전투 스킬 발동 후 12초 동안 원소 마스터리가 120pt 증가한다",
+        "PT": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 120.",
+        "RU": "После использования экипированным персонажем элементального навыка его мастерство стихий повышается на 120 ед. на 12 сек.",
+        "TH": "ภายใน 12 วินาทีหลังจากผู้สวมใส่ใช้สกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 120 หน่วย",
+        "TR": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 12sn boyunca Element Ustalığı 120 artar.",
+        "VI": "Sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 120 điểm trong 12s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "For 12s after the equipping character uses an Elemental Skill, their Elemental Mastery is increased by 150.",
+        "CHS": "装备者施放元素战技后的12秒内，元素精通提升150点。",
+        "CHT": "裝備者施放元素戰技後的12秒內，元素精通提升150點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 12 s lang um 150 Punkte.",
+        "ES": "#Tras usar su Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 150 pts. durante 12 s.",
+        "FR": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, sa maîtrise élémentaire augmente de 150 pts pendant 12 s.",
+        "ID": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, Elemental Mastery +150 poin selama 12 detik.",
+        "IT": "#Per 12 s dopo che il personaggio che equipaggia l'arma ha usato l'abilità elementale, la sua maestria elementale aumenta di 150.",
+        "JP": "装備者が元素スキルを発動した後の12秒間、元素熟知+150。",
+        "KR": "장착 캐릭터가 원소전투 스킬 발동 후 12초 동안 원소 마스터리가 150pt 증가한다",
+        "PT": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 150.",
+        "RU": "После использования экипированным персонажем элементального навыка его мастерство стихий повышается на 150 ед. на 12 сек.",
+        "TH": "ภายใน 12 วินาทีหลังจากผู้สวมใส่ใช้สกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 150 หน่วย",
+        "TR": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 12sn boyunca Element Ustalığı 150 artar.",
+        "VI": "Sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 150 điểm trong 12s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "For 12s after the equipping character uses an Elemental Skill, their Elemental Mastery is increased by 180.",
+        "CHS": "装备者施放元素战技后的12秒内，元素精通提升180点。",
+        "CHT": "裝備者施放元素戰技後的12秒內，元素精通提升180點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 12 s lang um 180 Punkte.",
+        "ES": "#Tras usar su Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 180 pts. durante 12 s.",
+        "FR": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, sa maîtrise élémentaire augmente de 180 pts pendant 12 s.",
+        "ID": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, Elemental Mastery +180 poin selama 12 detik.",
+        "IT": "#Per 12 s dopo che il personaggio che equipaggia l'arma ha usato l'abilità elementale, la sua maestria elementale aumenta di 180.",
+        "JP": "装備者が元素スキルを発動した後の12秒間、元素熟知+180。",
+        "KR": "장착 캐릭터가 원소전투 스킬 발동 후 12초 동안 원소 마스터리가 180pt 증가한다",
+        "PT": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 180.",
+        "RU": "После использования экипированным персонажем элементального навыка его мастерство стихий повышается на 180 ед. на 12 сек.",
+        "TH": "ภายใน 12 วินาทีหลังจากผู้สวมใส่ใช้สกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 180 หน่วย",
+        "TR": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 12sn boyunca Element Ustalığı 180 artar.",
+        "VI": "Sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 180 điểm trong 12s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "For 12s after the equipping character uses an Elemental Skill, their Elemental Mastery is increased by 210.",
+        "CHS": "装备者施放元素战技后的12秒内，元素精通提升210点。",
+        "CHT": "裝備者施放元素戰技後的12秒內，元素精通提升210點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 12 s lang um 210 Punkte.",
+        "ES": "#Tras usar su Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 210 pts. durante 12 s.",
+        "FR": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, sa maîtrise élémentaire augmente de 210 pts pendant 12 s.",
+        "ID": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, Elemental Mastery +210 poin selama 12 detik.",
+        "IT": "#Per 12 s dopo che il personaggio che equipaggia l'arma ha usato l'abilità elementale, la sua maestria elementale aumenta di 210.",
+        "JP": "装備者が元素スキルを発動した後の12秒間、元素熟知+210。",
+        "KR": "장착 캐릭터가 원소전투 스킬 발동 후 12초 동안 원소 마스터리가 210pt 증가한다",
+        "PT": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 210.",
+        "RU": "После использования экипированным персонажем элементального навыка его мастерство стихий повышается на 210 ед. на 12 сек.",
+        "TH": "ภายใน 12 วินาทีหลังจากผู้สวมใส่ใช้สกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 210 หน่วย",
+        "TR": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 12sn boyunca Element Ustalığı 210 artar.",
+        "VI": "Sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 210 điểm trong 12s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "For 12s after the equipping character uses an Elemental Skill, their Elemental Mastery is increased by 240.",
+        "CHS": "装备者施放元素战技后的12秒内，元素精通提升240点。",
+        "CHT": "裝備者施放元素戰技後的12秒內，元素精通提升240點。",
+        "DE": "#Erhöht nach Anwenden der Elementarfähigkeit die Elementarkunde des Trägers 12 s lang um 240 Punkte.",
+        "ES": "#Tras usar su Habilidad Elemental, la Maestría Elemental del portador de esta arma aumenta en 240 pts. durante 12 s.",
+        "FR": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, sa maîtrise élémentaire augmente de 240 pts pendant 12 s.",
+        "ID": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, Elemental Mastery +240 poin selama 12 detik.",
+        "IT": "#Per 12 s dopo che il personaggio che equipaggia l'arma ha usato l'abilità elementale, la sua maestria elementale aumenta di 240.",
+        "JP": "装備者が元素スキルを発動した後の12秒間、元素熟知+240。",
+        "KR": "장착 캐릭터가 원소전투 스킬 발동 후 12초 동안 원소 마스터리가 240pt 증가한다",
+        "PT": "Nos 12s após o portador lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 240.",
+        "RU": "После использования экипированным персонажем элементального навыка его мастерство стихий повышается на 240 ед. на 12 сек.",
+        "TH": "ภายใน 12 วินาทีหลังจากผู้สวมใส่ใช้สกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 240 หน่วย",
+        "TR": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 12sn boyunca Element Ustalığı 240 artar.",
+        "VI": "Sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 240 điểm trong 12s."
+      }
+    }
+  ]
+}

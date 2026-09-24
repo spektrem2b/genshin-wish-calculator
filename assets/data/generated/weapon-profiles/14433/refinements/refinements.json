@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Token of Covenant",
+    "CHS": "结契的凭证",
+    "CHT": "結契的憑證",
+    "DE": "Beweis der Bindung",
+    "ES": "Prueba del pacto",
+    "FR": "Gage de pacte",
+    "ID": "Token of Covenant",
+    "IT": "Pegno del patto",
+    "JP": "契約の証",
+    "KR": "결맹의 증표",
+    "PT": "Prova do Contrato",
+    "RU": "Свидетельство союза",
+    "TH": "Token of Covenant",
+    "TR": "Antlaşma Nişanesi",
+    "VI": "Chứng Nhận Giao Ước"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Bloom DMG is increased by 48%, and Lunar-Bloom DMG is increased by 12%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 12%.",
+        "CHS": "绽放反应造成的伤害提升48%，月绽放反应伤害提升12%。月兆·满辉：月绽放反应伤害额外提升12%。",
+        "CHT": "綻放反應造成的傷害提升48%，月綻放反應傷害提升12%。月兆·滿輝：月綻放反應傷害額外提升12%。",
+        "DE": "#Erhöht den durch die Reaktion „Sprießen“ verursachten Schaden um 48 % und den Schaden durch die Reaktion „Mondspross“ um 12 %. Mondomen – Reifer Glanz: Erhöht den Schaden durch die Reaktion „Mondspross“ zusätzlich um 12 %.",
+        "ES": "Aumenta en un 48% el daño de la reacción de Florecimiento, y en un 12% el de Florecimiento Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Florecimiento Lunar aumenta en un 12% adicional.",
+        "FR": "#Les DGT infligés par les réactions de Fleurissement augmentent de 48 % et ceux des réactions de Sélénofleurissement de 12 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénofleurissement augmentent de 12 % supplémentaires.",
+        "ID": "DMG reaksi Bloom +48% dan DMG reaksi Lunar-Bloom +12%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Bloom meningkat 12% lagi.",
+        "IT": "I DAN da Fioritura aumentano di un 48% e i DAN da Fioritura lunare di un 12%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Fioritura lunare aumentano di un ulteriore 12%.",
+        "JP": "開花反応ダメージ+48%、月開花反応ダメージ+12%。月兆・満照：上記の月開花反応ダメージアップ効果がさらに+12%。",
+        "KR": "개화 반응으로 주는 피해가 48% 증가하고, 달 개화 반응으로 주는 피해가 12% 증가한다. 달빛 징조·보름: 달 개화 반응으로 주는 피해가 추가로 12% 증가한다",
+        "PT": "Dano de Florescimento é aumentado em 48%. Dano de Florescimento Lunar é aumentado em 12%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Florescimento Lunar em mais 12%.",
+        "RU": "Повышает урон реакции Бутонизация на 48%, а реакции Лунная бутонизация - на 12%. Лунное знамение - Высшее сияние: урон реакции Лунная бутонизация дополнительно повышается на 12%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยางอกเงยเพิ่มขึ้น 48% และความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราเพิ่มขึ้น 12% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราจะเพิ่มขึ้นอีก 12%",
+        "TR": "Çiçeklenme Hasarı %48 artar, Ay Çiçeklenmesi Hasarı ise %12 artar. Ay Sembolü: Yükselen Parıltı: Ay Çiçeklenmesi Hasarı %12 daha artar.",
+        "VI": "Sát thương phản ứng Sum Suê tăng 48%, sát thương phản ứng Nguyệt-Sum Suê tăng 12%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Sum Suê tăng thêm 12%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Bloom DMG is increased by 60%, and Lunar-Bloom DMG is increased by 15%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 15%.",
+        "CHS": "绽放反应造成的伤害提升60%，月绽放反应伤害提升15%。月兆·满辉：月绽放反应伤害额外提升15%。",
+        "CHT": "綻放反應造成的傷害提升60%，月綻放反應傷害提升15%。月兆·滿輝：月綻放反應傷害額外提升15%。",
+        "DE": "#Erhöht den durch die Reaktion „Sprießen“ verursachten Schaden um 60 % und den Schaden durch die Reaktion „Mondspross“ um 15 %. Mondomen – Reifer Glanz: Erhöht den Schaden durch die Reaktion „Mondspross“ zusätzlich um 15 %.",
+        "ES": "Aumenta en un 60% el daño de la reacción de Florecimiento, y en un 15% el de Florecimiento Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Florecimiento Lunar aumenta en un 15% adicional.",
+        "FR": "#Les DGT infligés par les réactions de Fleurissement augmentent de 60 % et ceux des réactions de Sélénofleurissement de 15 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénofleurissement augmentent de 15 % supplémentaires.",
+        "ID": "DMG reaksi Bloom +60% dan DMG reaksi Lunar-Bloom +15%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Bloom meningkat 15% lagi.",
+        "IT": "I DAN da Fioritura aumentano di un 60% e i DAN da Fioritura lunare di un 15%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Fioritura lunare aumentano di un ulteriore 15%.",
+        "JP": "開花反応ダメージ+60%、月開花反応ダメージ+15%。月兆・満照：上記の月開花反応ダメージアップ効果がさらに+15%。",
+        "KR": "개화 반응으로 주는 피해가 60% 증가하고, 달 개화 반응으로 주는 피해가 15% 증가한다. 달빛 징조·보름: 달 개화 반응으로 주는 피해가 추가로 15% 증가한다",
+        "PT": "Dano de Florescimento é aumentado em 60%. Dano de Florescimento Lunar é aumentado em 15%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Florescimento Lunar em mais 15%.",
+        "RU": "Повышает урон реакции Бутонизация на 60%, а реакции Лунная бутонизация - на 15%. Лунное знамение - Высшее сияние: урон реакции Лунная бутонизация дополнительно повышается на 15%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยางอกเงยเพิ่มขึ้น 60% และความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราเพิ่มขึ้น 15% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราจะเพิ่มขึ้นอีก 15%",
+        "TR": "Çiçeklenme Hasarı %60 artar, Ay Çiçeklenmesi Hasarı ise %15 artar. Ay Sembolü: Yükselen Parıltı: Ay Çiçeklenmesi Hasarı %15 daha artar.",
+        "VI": "Sát thương phản ứng Sum Suê tăng 60%, sát thương phản ứng Nguyệt-Sum Suê tăng 15%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Sum Suê tăng thêm 15%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Bloom DMG is increased by 72%, and Lunar-Bloom DMG is increased by 18%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 18%.",
+        "CHS": "绽放反应造成的伤害提升72%，月绽放反应伤害提升18%。月兆·满辉：月绽放反应伤害额外提升18%。",
+        "CHT": "綻放反應造成的傷害提升72%，月綻放反應傷害提升18%。月兆·滿輝：月綻放反應傷害額外提升18%。",
+        "DE": "#Erhöht den durch die Reaktion „Sprießen“ verursachten Schaden um 72 % und den Schaden durch die Reaktion „Mondspross“ um 18 %. Mondomen – Reifer Glanz: Erhöht den Schaden durch die Reaktion „Mondspross“ zusätzlich um 18 %.",
+        "ES": "Aumenta en un 72% el daño de la reacción de Florecimiento, y en un 18% el de Florecimiento Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Florecimiento Lunar aumenta en un 18% adicional.",
+        "FR": "#Les DGT infligés par les réactions de Fleurissement augmentent de 72 % et ceux des réactions de Sélénofleurissement de 18 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénofleurissement augmentent de 18 % supplémentaires.",
+        "ID": "DMG reaksi Bloom +72% dan DMG reaksi Lunar-Bloom +18%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Bloom meningkat 18% lagi.",
+        "IT": "I DAN da Fioritura aumentano di un 72% e i DAN da Fioritura lunare di un 18%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Fioritura lunare aumentano di un ulteriore 18%.",
+        "JP": "開花反応ダメージ+72%、月開花反応ダメージ+18%。月兆・満照：上記の月開花反応ダメージアップ効果がさらに+18%。",
+        "KR": "개화 반응으로 주는 피해가 72% 증가하고, 달 개화 반응으로 주는 피해가 18% 증가한다. 달빛 징조·보름: 달 개화 반응으로 주는 피해가 추가로 18% 증가한다",
+        "PT": "Dano de Florescimento é aumentado em 72%. Dano de Florescimento Lunar é aumentado em 18%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Florescimento Lunar em mais 18%.",
+        "RU": "Повышает урон реакции Бутонизация на 72%, а реакции Лунная бутонизация - на 18%. Лунное знамение - Высшее сияние: урон реакции Лунная бутонизация дополнительно повышается на 18%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยางอกเงยเพิ่มขึ้น 72% และความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราเพิ่มขึ้น 18% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราจะเพิ่มขึ้นอีก 18%",
+        "TR": "Çiçeklenme Hasarı %72 artar, Ay Çiçeklenmesi Hasarı ise %18 artar. Ay Sembolü: Yükselen Parıltı: Ay Çiçeklenmesi Hasarı %18 daha artar.",
+        "VI": "Sát thương phản ứng Sum Suê tăng 72%, sát thương phản ứng Nguyệt-Sum Suê tăng 18%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Sum Suê tăng thêm 18%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Bloom DMG is increased by 84%, and Lunar-Bloom DMG is increased by 21%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 21%.",
+        "CHS": "绽放反应造成的伤害提升84%，月绽放反应伤害提升21%。月兆·满辉：月绽放反应伤害额外提升21%。",
+        "CHT": "綻放反應造成的傷害提升84%，月綻放反應傷害提升21%。月兆·滿輝：月綻放反應傷害額外提升21%。",
+        "DE": "#Erhöht den durch die Reaktion „Sprießen“ verursachten Schaden um 84 % und den Schaden durch die Reaktion „Mondspross“ um 21 %. Mondomen – Reifer Glanz: Erhöht den Schaden durch die Reaktion „Mondspross“ zusätzlich um 21 %.",
+        "ES": "Aumenta en un 84% el daño de la reacción de Florecimiento, y en un 21% el de Florecimiento Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Florecimiento Lunar aumenta en un 21% adicional.",
+        "FR": "#Les DGT infligés par les réactions de Fleurissement augmentent de 84 % et ceux des réactions de Sélénofleurissement de 21 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénofleurissement augmentent de 21 % supplémentaires.",
+        "ID": "DMG reaksi Bloom +84% dan DMG reaksi Lunar-Bloom +21%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Bloom meningkat 21% lagi.",
+        "IT": "I DAN da Fioritura aumentano di un 84% e i DAN da Fioritura lunare di un 21%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Fioritura lunare aumentano di un ulteriore 21%.",
+        "JP": "開花反応ダメージ+84%、月開花反応ダメージ+21%。月兆・満照：上記の月開花反応ダメージアップ効果がさらに+21%。",
+        "KR": "개화 반응으로 주는 피해가 84% 증가하고, 달 개화 반응으로 주는 피해가 21% 증가한다. 달빛 징조·보름: 달 개화 반응으로 주는 피해가 추가로 21% 증가한다",
+        "PT": "Dano de Florescimento é aumentado em 84%. Dano de Florescimento Lunar é aumentado em 21%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Florescimento Lunar em mais 21%.",
+        "RU": "Повышает урон реакции Бутонизация на 84%, а реакции Лунная бутонизация - на 21%. Лунное знамение - Высшее сияние: урон реакции Лунная бутонизация дополнительно повышается на 21%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยางอกเงยเพิ่มขึ้น 84% และความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราเพิ่มขึ้น 21% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราจะเพิ่มขึ้นอีก 21%",
+        "TR": "Çiçeklenme Hasarı %84 artar, Ay Çiçeklenmesi Hasarı ise %21 artar. Ay Sembolü: Yükselen Parıltı: Ay Çiçeklenmesi Hasarı %21 daha artar.",
+        "VI": "Sát thương phản ứng Sum Suê tăng 84%, sát thương phản ứng Nguyệt-Sum Suê tăng 21%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Sum Suê tăng thêm 21%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Bloom DMG is increased by 96%, and Lunar-Bloom DMG is increased by 24%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 24%.",
+        "CHS": "绽放反应造成的伤害提升96%，月绽放反应伤害提升24%。月兆·满辉：月绽放反应伤害额外提升24%。",
+        "CHT": "綻放反應造成的傷害提升96%，月綻放反應傷害提升24%。月兆·滿輝：月綻放反應傷害額外提升24%。",
+        "DE": "#Erhöht den durch die Reaktion „Sprießen“ verursachten Schaden um 96 % und den Schaden durch die Reaktion „Mondspross“ um 24 %. Mondomen – Reifer Glanz: Erhöht den Schaden durch die Reaktion „Mondspross“ zusätzlich um 24 %.",
+        "ES": "Aumenta en un 96% el daño de la reacción de Florecimiento, y en un 24% el de Florecimiento Lunar. Con “presagio lunar: resplandor ascendente”, el daño de la reacción de Florecimiento Lunar aumenta en un 24% adicional.",
+        "FR": "#Les DGT infligés par les réactions de Fleurissement augmentent de 96 % et ceux des réactions de Sélénofleurissement de 24 %. Signelune « Lueur ascendante » : les DGT des réactions de Sélénofleurissement augmentent de 24 % supplémentaires.",
+        "ID": "DMG reaksi Bloom +96% dan DMG reaksi Lunar-Bloom +24%. Moonsign: Ascendant Gleam: DMG reaksi Lunar-Bloom meningkat 24% lagi.",
+        "IT": "I DAN da Fioritura aumentano di un 96% e i DAN da Fioritura lunare di un 24%. Quando Presagio lunare: Barlume ascendente è attivo, i DAN da Fioritura lunare aumentano di un ulteriore 24%.",
+        "JP": "開花反応ダメージ+96%、月開花反応ダメージ+24%。月兆・満照：上記の月開花反応ダメージアップ効果がさらに+24%。",
+        "KR": "개화 반응으로 주는 피해가 96% 증가하고, 달 개화 반응으로 주는 피해가 24% 증가한다. 달빛 징조·보름: 달 개화 반응으로 주는 피해가 추가로 24% 증가한다",
+        "PT": "Dano de Florescimento é aumentado em 96%. Dano de Florescimento Lunar é aumentado em 24%. Presságio Lunar: Reluzir Cheio: aumenta o Dano de Florescimento Lunar em mais 24%.",
+        "RU": "Повышает урон реакции Бутонизация на 96%, а реакции Лунная бутонизация - на 24%. Лунное знамение - Высшее сияние: урон реакции Лунная бутонизация дополнительно повышается на 24%.",
+        "TH": "ความเสียหายที่เกิดจากปฏิกิริยางอกเงยเพิ่มขึ้น 96% และความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราเพิ่มขึ้น 24% ลัคนาจันทร์ - จรัสแสง: ความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราจะเพิ่มขึ้นอีก 24%",
+        "TR": "Çiçeklenme Hasarı %96 artar, Ay Çiçeklenmesi Hasarı ise %24 artar. Ay Sembolü: Yükselen Parıltı: Ay Çiçeklenmesi Hasarı %24 daha artar.",
+        "VI": "Sát thương phản ứng Sum Suê tăng 96%, sát thương phản ứng Nguyệt-Sum Suê tăng 24%. Nguyệt Triệu - Rực Sáng: Sát thương phản ứng Nguyệt-Sum Suê tăng thêm 24%."
+      }
+    }
+  ]
+}

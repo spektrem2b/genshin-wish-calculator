@@ -1,0 +1,137 @@
+{
+  "id": "10000039",
+  "name": {
+    "EN": "Diona",
+    "CHS": "迪奥娜",
+    "CHT": "迪奧娜",
+    "DE": "Diona",
+    "ES": "Diona",
+    "FR": "Diona",
+    "ID": "Diona",
+    "IT": "Diona",
+    "JP": "ディオナ",
+    "KR": "디오나",
+    "PT": "Diona",
+    "RU": "Диона",
+    "TH": "Diona",
+    "TR": "Diona",
+    "VI": "Diona"
+  },
+  "nameEn": "Diona",
+  "element": "Cryo",
+  "weapon_type": "Bow",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 1,
+    "day": 18
+  },
+  "release": "2020-11-11T02:00:00",
+  "icon": "generated/character-profiles/10000039/avatar.webp",
+  "fullWish": "generated/character-profiles/10000039/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 20.8%",
+  "title": {
+    "EN": "Kätzlein Cocktail",
+    "CHS": "猫尾特调",
+    "CHT": "貓尾特調",
+    "DE": "Putzige Mischung",
+    "ES": "La Cantinera Felina",
+    "FR": "Cocktail façon Queue de Chat",
+    "ID": "Kätzlein Cocktail",
+    "IT": "Barista Kätzlein",
+    "JP": "キャッツテールスペシャル",
+    "KR": "캐츠라인 칵테일",
+    "PT": "Coquetel da Cauda do Gato",
+    "RU": "Кошкин коктейль",
+    "TH": "เหมียวน้อยบาร์เทนเดอร์",
+    "TR": "Kätzlein Kokteyli",
+    "VI": "Đặc Chế Quán Rượu Đuôi Mèo"
+  },
+  "description": {
+    "EN": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
+    "CHS": "遗传了稀薄的「非人」血统的少女，「猫尾酒馆」的超人气调酒师。",
+    "CHT": "遺傳了稀薄「非人」血統的少女，「貓尾酒館」的超人氣調酒師。",
+    "DE": "Ein Mädchen, das nicht-menschliches Blut in sich trägt. Zudem ist sie die äußerst beliebte Wirtin der Taverne „Zum Katzenschwanz“.",
+    "ES": "Una joven cuya sangre no es humana por completo. Es la popular cantinera de la taberna Cola de Gato.",
+    "FR": "Une jeune fille au sang pas tout à fait humain. Elle travaille comme barmaid à La Queue de Chat où elle est très appréciée.",
+    "ID": "Seorang wanita muda yang mewarisi darah yang bukan manusia. Dia adalah bartender terkenal di Cat's Tail.",
+    "IT": "Una fanciulla che ha ereditato in minima parte sangue non umano. È la barista della taverna Coda di Gatto, ed è incredibilmente popolare.",
+    "JP": "稀な「非人類」の血統を引いている少女、「キャッツテール」の超人気バーテンダー。",
+    "KR": "「사람이 아닌」 혈통을 조금 물려받은 소녀. 「캣테일 술집」의 인기 바텐더이다",
+    "PT": "Uma jovem que herdou pequenas quantidades de sangue não humano. Ela é a Barmaid incrivelmente popular da taverna da Cauda do Gato.",
+    "RU": "Молодая девушка, унаследовавшая остаточную долю нечеловеческой крови. Она невероятно популярный бармен таверны «Кошкин хвост».",
+    "TH": "เด็กสาวผู้มีเชื้อสายของ \"อมนุษย์\" อยู่น้อยนิด บาร์เทนเดอร์ชื่อดังแห่ง \"Cat's Tail\"",
+    "TR": "İnsan dışı türlerin kanını taşıyan genç bir kadın. Kedi Kuyruğu Hanının son derece popüler barmeni.",
+    "VI": "Thiếu nữ có dòng máu \"không phải người\" hiếm có, người pha chế rượu rất được yêu thích của Quán Rượu Đuôi Mèo."
+  },
+  "constellationName": {
+    "EN": "Feles",
+    "CHS": "小猫座",
+    "CHT": "小貓座",
+    "DE": "Feles",
+    "ES": "Feles",
+    "FR": "Feles",
+    "ID": "Feles",
+    "IT": "Feles",
+    "JP": "子猫座",
+    "KR": "고양이자리",
+    "PT": "Feles",
+    "RU": "Милый Котёнок",
+    "TH": "Feles",
+    "TR": "Kedicik",
+    "VI": "Cung Tiểu Miêu"
+  },
+  "native": {
+    "EN": "The Cat's Tail",
+    "CHS": "猫尾酒馆",
+    "CHT": "貓尾酒館",
+    "DE": "Taverne Zum Katzenschwanz",
+    "ES": "Taberna Cola de Gato",
+    "FR": "La Queue de Chat",
+    "ID": "Cat's Tail Tavern",
+    "IT": "Coda di Gatto",
+    "JP": "キャッツテール",
+    "KR": "캣테일 술집",
+    "PT": "A Cauda do Gato",
+    "RU": "Таверна «Кошкин хвост»",
+    "TH": "ร้านเหล้า Cat's Tail",
+    "TR": "Kedi Kuyruğu",
+    "VI": "Quán Rượu Đuôi Mèo"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Dina Sherman"
+    },
+    {
+      "lang": "CHS",
+      "va": "诺亚"
+    },
+    {
+      "lang": "JP",
+      "va": "井澤詩織"
+    },
+    {
+      "lang": "KR",
+      "va": "Woo Jeong-shin"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ICE_ADD_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 802.3761,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.808,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 50.358,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

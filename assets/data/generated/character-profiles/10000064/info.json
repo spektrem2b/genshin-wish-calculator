@@ -1,0 +1,137 @@
+{
+  "id": "10000064",
+  "name": {
+    "EN": "Yun Jin",
+    "CHS": "云堇",
+    "CHT": "雲堇",
+    "DE": "Yun Jin",
+    "ES": "Yun Jin",
+    "FR": "Yun Jin",
+    "ID": "Yun Jin",
+    "IT": "Yun Jin",
+    "JP": "雲菫",
+    "KR": "운근",
+    "PT": "Yunjin",
+    "RU": "Юнь Цзинь",
+    "TH": "Yun Jin",
+    "TR": "Yun Jin",
+    "VI": "Yun Jin"
+  },
+  "nameEn": "Yun Jin",
+  "element": "Geo",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 5,
+    "day": 21
+  },
+  "release": "2022-01-04T22:00:00",
+  "icon": "generated/character-profiles/10000064/avatar.webp",
+  "fullWish": "generated/character-profiles/10000064/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 23.5%",
+  "title": {
+    "EN": "Stage Lucida",
+    "CHS": "红毹婵娟",
+    "CHT": "紅毹嬋娟",
+    "DE": "Bühnenschönheit",
+    "ES": "La Prima Donna del Escenario",
+    "FR": "Nova de scène",
+    "ID": "Stage Lucida",
+    "IT": "Stella del palcoscenico",
+    "JP": "紅絨毯に舞う麗姿",
+    "KR": "무대를 빛내는 가인",
+    "PT": "Palco Lúcida",
+    "RU": "Изящество на сцене",
+    "TH": "สาวน้อยในม่านแดง",
+    "TR": "Sahnelerin Parlayan Güneşi",
+    "VI": "Mỹ Nhân Trên Sân Khấu"
+  },
+  "description": {
+    "EN": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
+    "CHS": "集剧作与演唱能力于一身的璃月戏曲名角。风格自成一派，雅致柔美，恰如其人。",
+    "CHT": "集劇作與演唱能力於一身的璃月戲曲名角。風格自成一派，雅致柔美，恰如其人。",
+    "DE": "Eine berühmte Opernsängerin in Liyue, die sowohl im Schreiben als auch im Gesang erfahren ist. Ihr Stil ist einzigartig, exquisit und sanft, genauso wie sie selbst.",
+    "ES": "Una renombrada cantante de ópera de Liyue que es experta tanto en la composición de obras como en el canto. Su estilo es único, exquisito y delicado, como su propia persona.",
+    "FR": "Une talentueuse chanteuse d'opéra et une dramaturge très célèbre à Liyue. Son style unique, doux et élégant, lui ressemble beaucoup.",
+    "ID": "Seorang penyanyi opera Liyue yang mahir bernyanyi dan pintar menulis sandiwara. Gayanya lain dari yang lain — elegan dan lembut, persis seperti karakternya.",
+    "IT": "Una celebre cantante d'opera di Liyue dalle doti canore e drammaturgiche. Il suo stile è unico, raffinato e delicato, proprio come la sua persona.",
+    "JP": "演技と創作の二つの才を持つ璃月劇の看板役者。雲菫の演じる姿は優雅でたおやかであり、まるで彼女の風格を表しているかのようである。",
+    "KR": "극작과 연기, 노래 실력을 모두 갖춘 리월극의 명배우. 그녀의 독보적인 스타일은 마치 그녀 본인처럼 우아하고도 부드럽다",
+    "PT": "Uma renomada cantora de ópera de Liyue, hábil tanto em dramaturgia quanto em canto. Seu estilo é único, requintado e delicado, exatamente como ela.",
+    "RU": "Прославленная оперная певица Ли Юэ, которая искусна как в написании пьес, так и в пении. Её неповторимый стиль, изысканный и нежный, - это отражение глубин её души.",
+    "TH": "นักแสดงชื่อดังแห่งท่าเรือ Liyue ที่ถนัดทั้งด้านการเขียนบทและการแสดง สไตล์ของเธอเป็นเอกลักษณ์ไม่เหมือนใคร ทั้งสง่างามและนุ่มนวล เช่นเดียวกับตัวตนของเธอ",
+    "TR": "Hem oyun yazarlığı hem de şarkı söyleme becerisine sahip ünlü bir Liyue opera sanatçısı. Tıpkı kendisi gibi zarif ve narin tarzı, türünün tek örneğidir.",
+    "VI": "Diễn viên hát kịch nổi tiếng Liyue, hội tụ cả tài viết kịch và ca xướng. Phong cách riêng biệt, thanh lịch xinh đẹp, thần thái ngút trời."
+  },
+  "constellationName": {
+    "EN": "Opera Grandis",
+    "CHS": "虹章座",
+    "CHT": "虹章座",
+    "DE": "Opera Grandis",
+    "ES": "Opera Grandis",
+    "FR": "Opera Grandis",
+    "ID": "Opera Grandis",
+    "IT": "Opera Grandis",
+    "JP": "虹章座",
+    "KR": "무지개장자리",
+    "PT": "Opera Grandis",
+    "RU": "Большая Опера",
+    "TH": "Opera Grandis",
+    "TR": "Başyapıt",
+    "VI": "Cung Hồng Chương"
+  },
+  "native": {
+    "EN": "Yun-Han Opera Troupe",
+    "CHS": "云翰社",
+    "CHT": "雲翰社",
+    "DE": "Yun-Han-Operntruppe",
+    "ES": "Compañía de Ópera Yun-Han",
+    "FR": "Troupe d'opéra Yun-Han",
+    "ID": "Yun-Han Opera Troupe",
+    "IT": "Compagnia dell'opera Yun-Han",
+    "JP": "雲翰社",
+    "KR": "운한사",
+    "PT": "Trupe de Ópera Yun-Han",
+    "RU": "Оперная труппа Юнь Хань",
+    "TH": "คณะละครงิ้ว Yun-Han",
+    "TR": "Yun-Han Opera Topluluğu",
+    "VI": "Vân Hàn Xã"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Judy Alice Lee & Yang Yang"
+    },
+    {
+      "lang": "CHS",
+      "va": "贺文潇&杨扬"
+    },
+    {
+      "lang": "JP",
+      "va": "小岩井ことり & Yang Yang"
+    },
+    {
+      "lang": "KR",
+      "va": "Sah Moon-young & Yang Yang"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 893.5552,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.0272,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.5741,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

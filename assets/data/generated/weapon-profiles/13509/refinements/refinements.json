@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Timeless Dream: Eternal Stove",
+    "CHS": "非时之梦·常世灶食",
+    "CHT": "非時之夢·常世灶食",
+    "DE": "Zeitloser Traum – Ewiger Herd",
+    "ES": "Sueño atemporal: Horno eterno",
+    "FR": "Rêve intemporel : Fournaise éternelle",
+    "ID": "Timeless Dream: Eternal Stove",
+    "IT": "Sogno atemporale: Fuoco eterno",
+    "JP": "非時の夢·常世竈食",
+    "KR": "불시의 꿈·영원한 부뚜막",
+    "PT": "Sonho Atemporal: Fogão Eterno",
+    "RU": "Сон вне времени: Печь вечности",
+    "TH": "Timeless Dream: Eternal Stove",
+    "TR": "Sonsuz Rüya: Ebedi Ocak",
+    "VI": "Giấc Mơ Vĩnh Cửu - Nguyên Liệu Vĩnh Hằng"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "ATK increased by 28% of Energy Recharge over the base 100%. You can gain a maximum bonus of 80% ATK. Gain 30% Energy Recharge for 12s after using an Elemental Burst.",
+        "CHS": "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的28%，至多通过这种方式提升80%。施放元素爆发后的12秒内，元素充能效率提升30%。",
+        "CHT": "攻擊力獲得提升，提升程度相當於元素充能效率超出100%部分的28%，至多依此方式提升80%。施放元素爆發後的12秒內，元素充能效率提升30%。",
+        "DE": "Erhöht den Angriff um 28 % der Prozentpunkte über 100 % der Aufladerate. Bis zu 80 % Bonus auf diese Weise möglich. Erhöht die Aufladerate nach Anwendung von Spezialfähigkeiten 12 s lang um 30 %.",
+        "ES": "Aumenta el ATQ en un 28% de la cantidad de Recarga de Energía que el personaje tenga por encima del 100%. El ATQ puede aumentar como máximo en un 80% de esta manera. Tras usar la Habilidad Definitiva, la Recarga de Energía aumenta en un 30% durante 12 s.",
+        "FR": "#Augmente l'ATQ d'une valeur équivalant à 28 % de la part de recharge d'énergie supérieure à 100 %. L'ATQ peut être augmentée de 80 % maximum de cette manière. Après l'utilisation d'un déchaînement élémentaire, la recharge d'énergie augmente de 30 % pendant 12 s.",
+        "ID": "Mendapatkan Bonus ATK sebesar 28% dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan 80% ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar 30% selama 12 detik.",
+        "IT": "#L'ATT aumenta di un 28% della ricarica d'energia superiore a un 100%. Puoi ottenere un bonus ATT massimo di un 80%. Ricevi un 30% di ricarica d'energia per 12 s dopo l'uso del Tripudio elementale.",
+        "JP": "元素チャージ効率が100%を超えている場合、その超えた部分の28%分、攻撃力がアップする。この方法でアップできる攻撃力は最大80%まで。元素爆発を発動した後の12秒間、元素チャージ効率+30%。",
+        "KR": "원소 충전 효율이 100%를 초과할 경우, 공격력이 초과된 부분의 28%만큼 증가하며, 해당 방식을 통해 최대 80% 증가할 수 있다. 원소폭발 발동 후 12초 동안 원소 충전 효율이 30% 증가한다",
+        "PT": "O ATQ é aumentado em 28% da Recarga de Energia acima da base de 100%. Você pode receber um Bônus máximo de 80% de ATQ. Ganha 30% de Recarga de Energia por 12s depois de usar um Supremo.",
+        "RU": "Увеличивает силу атаки на 28% от показателя восстановления энергии свыше 100%. Вы можете получить бонус силы атаки до 80%. Также даёт 30% восстановления энергии на 12 сек. после активации взрыва стихии.",
+        "TH": "พลังโจมตีเพิ่มขึ้น โดยที่ระดับการเพิ่มจะเท่ากับ 28% ของส่วนที่เกินมาจาก 100% ของประสิทธิภาพการฟื้นฟูพลังงาน โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุดถึง 80% และภายในเวลา 12 วินาที หลังจากปล่อยท่าไม้ตาย ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 30%",
+        "TR": "Taban %100 Enerji Yüklemesinin üzerindeki oranın %28'i kadar Saldırı Bonusu verir. Bu şekilde en fazla %80 Saldırı Bonusu kazanılabilir. Bir Element Patlaması kullanıldığında 12 saniyeliğine %30 Enerji Yüklemesi kazanılır.",
+        "VI": "Tăng sức tấn công nhận được, mức tăng thêm tương đương 28% lượng dư ra trên 100% của Hiệu Quả Nạp Nguyên Tố, tối đa tăng 80% từ cách này. Trong 12s sau khi thi triển Kỹ Năng Nộ, tăng 30% Hiệu Quả Nạp Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "ATK increased by 35% of Energy Recharge over the base 100%. You can gain a maximum bonus of 90% ATK. Gain 35% Energy Recharge for 12s after using an Elemental Burst.",
+        "CHS": "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的35%，至多通过这种方式提升90%。施放元素爆发后的12秒内，元素充能效率提升35%。",
+        "CHT": "攻擊力獲得提升，提升程度相當於元素充能效率超出100%部分的35%，至多依此方式提升90%。施放元素爆發後的12秒內，元素充能效率提升35%。",
+        "DE": "Erhöht den Angriff um 35 % der Prozentpunkte über 100 % der Aufladerate. Bis zu 90 % Bonus auf diese Weise möglich. Erhöht die Aufladerate nach Anwendung von Spezialfähigkeiten 12 s lang um 35 %.",
+        "ES": "Aumenta el ATQ en un 35% de la cantidad de Recarga de Energía que el personaje tenga por encima del 100%. El ATQ puede aumentar como máximo en un 90% de esta manera. Tras usar la Habilidad Definitiva, la Recarga de Energía aumenta en un 35% durante 12 s.",
+        "FR": "#Augmente l'ATQ d'une valeur équivalant à 35 % de la part de recharge d'énergie supérieure à 100 %. L'ATQ peut être augmentée de 90 % maximum de cette manière. Après l'utilisation d'un déchaînement élémentaire, la recharge d'énergie augmente de 35 % pendant 12 s.",
+        "ID": "Mendapatkan Bonus ATK sebesar 35% dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan 90% ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar 35% selama 12 detik.",
+        "IT": "#L'ATT aumenta di un 35% della ricarica d'energia superiore al 100%. Puoi ottenere un bonus ATT massimo di un 90%. Ricevi un 35% di ricarica d'energia per 12 s dopo l'uso del Tripudio elementale.",
+        "JP": "元素チャージ効率が100%を超えている場合、その超えた部分の35%分、攻撃力がアップする。この方法でアップできる攻撃力は最大90%まで。元素爆発を発動した後の12秒間、元素チャージ効率+35%。",
+        "KR": "원소 충전 효율이 100%를 초과할 경우, 공격력이 초과된 부분의 35%만큼 증가하며, 해당 방식을 통해 최대 90% 증가할 수 있다. 원소폭발 발동 후 12초 동안 원소 충전 효율이 35% 증가한다",
+        "PT": "O ATQ é aumentado em 35% da Recarga de Energia acima da base de 100%. Você pode receber um Bônus máximo de 90% de ATQ. Ganha 35% de Recarga de Energia por 12s depois de usar um Supremo.",
+        "RU": "Увеличивает силу атаки на 35% от показателя восстановления энергии свыше 100%. Вы можете получить бонус силы атаки до 90%. Также даёт 35% восстановления энергии на 12 сек. после активации взрыва стихии.",
+        "TH": "พลังโจมตีเพิ่มขึ้น โดยที่ระดับการเพิ่มจะเท่ากับ 35% ของส่วนที่เกินมาจาก 100% ของประสิทธิภาพการฟื้นฟูพลังงาน โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุดถึง 90% และภายในเวลา 12 วินาที หลังจากปล่อยท่าไม้ตาย ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 35%",
+        "TR": "Taban %100 Enerji Yüklemesinin üzerindeki oranın %35'i kadar Saldırı Bonusu verir. Bu şekilde en fazla %90 Saldırı Bonusu kazanılabilir. Bir Element Patlaması kullanıldığında 12 saniyeliğine %35 Enerji Yüklemesi kazanılır.",
+        "VI": "Tăng sức tấn công nhận được, mức tăng thêm tương đương 35% lượng dư ra trên 100% của Hiệu Quả Nạp Nguyên Tố, tối đa tăng 90% từ cách này. Trong 12s sau khi thi triển Kỹ Năng Nộ, tăng 35% Hiệu Quả Nạp Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "ATK increased by 42% of Energy Recharge over the base 100%. You can gain a maximum bonus of 100% ATK. Gain 40% Energy Recharge for 12s after using an Elemental Burst.",
+        "CHS": "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的42%，至多通过这种方式提升100%。施放元素爆发后的12秒内，元素充能效率提升40%。",
+        "CHT": "攻擊力獲得提升，提升程度相當於元素充能效率超出100%部分的42%，至多依此方式提升100%。施放元素爆發後的12秒內，元素充能效率提升40%。",
+        "DE": "Erhöht den Angriff um 42 % der Prozentpunkte über 100 % der Aufladerate. Bis zu 100 % Bonus auf diese Weise möglich. Erhöht die Aufladerate nach Anwendung von Spezialfähigkeiten 12 s lang um 40 %.",
+        "ES": "Aumenta el ATQ en un 42% de la cantidad de Recarga de Energía que el personaje tenga por encima del 100%. El ATQ puede aumentar como máximo en un 100% de esta manera. Tras usar la Habilidad Definitiva, la Recarga de Energía aumenta en un 40% durante 12 s.",
+        "FR": "#Augmente l'ATQ d'une valeur équivalant à 42 % de la part de recharge d'énergie supérieure à 100 %. L'ATQ peut être augmentée de 100 % maximum de cette manière. Après l'utilisation d'un déchaînement élémentaire, la recharge d'énergie augmente de 40 % pendant 12 s.",
+        "ID": "Mendapatkan Bonus ATK sebesar 42% dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan 100% ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar 40% selama 12 detik.",
+        "IT": "#L'ATT aumenta di un 42% della ricarica d'energia superiore a un 100%. Puoi ottenere un bonus ATT massimo di un 100%. Ricevi un 40% di ricarica d'energia per 12 s dopo l'uso del Tripudio elementale.",
+        "JP": "元素チャージ効率が100%を超えている場合、その超えた部分の42%分、攻撃力がアップする。この方法でアップできる攻撃力は最大100%まで。元素爆発を発動した後の12秒間、元素チャージ効率+40%。",
+        "KR": "원소 충전 효율이 100%를 초과할 경우, 공격력이 초과된 부분의 42%만큼 증가하며, 해당 방식을 통해 최대 100% 증가할 수 있다. 원소폭발 발동 후 12초 동안 원소 충전 효율이 40% 증가한다",
+        "PT": "O ATQ é aumentado em 42% da Recarga de Energia acima da base de 100%. Você pode receber um Bônus máximo de 100% de ATQ. Ganha 40% de Recarga de Energia por 12s depois de usar um Supremo.",
+        "RU": "Увеличивает силу атаки на 42% от показателя восстановления энергии свыше 100%. Вы можете получить бонус силы атаки до 100%. Также даёт 40% восстановления энергии на 12 сек. после активации взрыва стихии.",
+        "TH": "พลังโจมตีเพิ่มขึ้น โดยที่ระดับการเพิ่มจะเท่ากับ 42% ของส่วนที่เกินมาจาก 100% ของประสิทธิภาพการฟื้นฟูพลังงาน โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุดถึง 100% และภายในเวลา 12 วินาที หลังจากปล่อยท่าไม้ตาย ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 40%",
+        "TR": "Taban %100 Enerji Yüklemesinin üzerindeki oranın %42'si kadar Saldırı Bonusu verir. Bu şekilde en fazla %100 Saldırı Bonusu kazanılabilir. Bir Element Patlaması kullanıldığında 12 saniyeliğine %40 Enerji Yüklemesi kazanılır.",
+        "VI": "Tăng sức tấn công nhận được, mức tăng thêm tương đương 42% lượng dư ra trên 100% của Hiệu Quả Nạp Nguyên Tố, tối đa tăng 100% từ cách này. Trong 12s sau khi thi triển Kỹ Năng Nộ, tăng 40% Hiệu Quả Nạp Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "ATK increased by 49% of Energy Recharge over the base 100%. You can gain a maximum bonus of 110% ATK. Gain 45% Energy Recharge for 12s after using an Elemental Burst.",
+        "CHS": "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的49%，至多通过这种方式提升110%。施放元素爆发后的12秒内，元素充能效率提升45%。",
+        "CHT": "攻擊力獲得提升，提升程度相當於元素充能效率超出100%部分的49%，至多依此方式提升110%。施放元素爆發後的12秒內，元素充能效率提升45%。",
+        "DE": "Erhöht den Angriff um 49 % der Prozentpunkte über 100 % der Aufladerate. Bis zu 110 % Bonus auf diese Weise möglich. Erhöht die Aufladerate nach Anwendung von Spezialfähigkeiten 12 s lang um 45 %.",
+        "ES": "Aumenta el ATQ en un 49% de la cantidad de Recarga de Energía que el personaje tenga por encima del 100%. El ATQ puede aumentar como máximo en un 110% de esta manera. Tras usar la Habilidad Definitiva, la Recarga de Energía aumenta en un 45% durante 12 s.",
+        "FR": "#Augmente l'ATQ d'une valeur équivalant à 49 % de la part de recharge d'énergie supérieure à 100 %. L'ATQ peut être augmentée de 110 % maximum de cette manière. Après l'utilisation d'un déchaînement élémentaire, la recharge d'énergie augmente de 45 % pendant 12 s.",
+        "ID": "Mendapatkan Bonus ATK sebesar 49% dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan 110% ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar 45% selama 12 detik.",
+        "IT": "#L'ATT aumenta di un 49% della ricarica d'energia superiore a un 100%. Puoi ottenere un bonus ATT massimo di un 110%. Ricevi un 45% di ricarica d'energia per 12 s dopo l'uso del Tripudio elementale.",
+        "JP": "元素チャージ効率が100%を超えている場合、その超えた部分の49%分、攻撃力がアップする。この方法でアップできる攻撃力は最大110%まで。元素爆発を発動した後の12秒間、元素チャージ効率+45%。",
+        "KR": "원소 충전 효율이 100%를 초과할 경우, 공격력이 초과된 부분의 49%만큼 증가하며, 해당 방식을 통해 최대 110% 증가할 수 있다. 원소폭발 발동 후 12초 동안 원소 충전 효율이 45% 증가한다",
+        "PT": "O ATQ é aumentado em 49% da Recarga de Energia acima da base de 100%. Você pode receber um Bônus máximo de 110% de ATQ. Ganha 45% de Recarga de Energia por 12s depois de usar um Supremo.",
+        "RU": "Увеличивает силу атаки на 49% от показателя восстановления энергии свыше 100%. Вы можете получить бонус силы атаки до 110%. Также даёт 45% восстановления энергии на 12 сек. после активации взрыва стихии.",
+        "TH": "พลังโจมตีเพิ่มขึ้น โดยที่ระดับการเพิ่มจะเท่ากับ 49% ของส่วนที่เกินมาจาก 100% ของประสิทธิภาพการฟื้นฟูพลังงาน โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุดถึง 110% และภายในเวลา 12 วินาที หลังจากปล่อยท่าไม้ตาย ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 45%",
+        "TR": "Taban %100 Enerji Yüklemesinin üzerindeki oranın %49'u kadar Saldırı Bonusu verir. Bu şekilde en fazla %110 Saldırı Bonusu kazanılabilir. Bir Element Patlaması kullanıldığında 12 saniyeliğine %45 Enerji Yüklemesi kazanılır.",
+        "VI": "Tăng sức tấn công nhận được, mức tăng thêm tương đương 49% lượng dư ra trên 100% của Hiệu Quả Nạp Nguyên Tố, tối đa tăng 110% từ cách này. Trong 12s sau khi thi triển Kỹ Năng Nộ, tăng 45% Hiệu Quả Nạp Nguyên Tố."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "ATK increased by 56% of Energy Recharge over the base 100%. You can gain a maximum bonus of 120% ATK. Gain 50% Energy Recharge for 12s after using an Elemental Burst.",
+        "CHS": "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的56%，至多通过这种方式提升120%。施放元素爆发后的12秒内，元素充能效率提升50%。",
+        "CHT": "攻擊力獲得提升，提升程度相當於元素充能效率超出100%部分的56%，至多依此方式提升120%。施放元素爆發後的12秒內，元素充能效率提升50%。",
+        "DE": "Erhöht den Angriff um 56 % der Prozentpunkte über 100 % der Aufladerate. Bis zu 120 % Bonus auf diese Weise möglich. Erhöht die Aufladerate nach Anwendung von Spezialfähigkeiten 12 s lang um 50 %.",
+        "ES": "Aumenta el ATQ en un 56% de la cantidad de Recarga de Energía que el personaje tenga por encima del 100%. El ATQ puede aumentar como máximo en un 120% de esta manera. Tras usar la Habilidad Definitiva, la Recarga de Energía aumenta en un 50% durante 12 s.",
+        "FR": "#Augmente l'ATQ d'une valeur équivalant à 56 % de la part de recharge d'énergie supérieure à 100 %. L'ATQ peut être augmentée de 120 % maximum de cette manière. Après l'utilisation d'un déchaînement élémentaire, la recharge d'énergie augmente de 50 % pendant 12 s.",
+        "ID": "Mendapatkan Bonus ATK sebesar 56% dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan 120% ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar 50% selama 12 detik.",
+        "IT": "#L'ATT aumenta di un 56% della ricarica d'energia superiore a un 100%. Puoi ottenere un bonus ATT massimo di un 120%. Ricevi un 50% di ricarica d'energia per 12 s dopo l'uso del Tripudio elementale.",
+        "JP": "元素チャージ効率が100%を超えている場合、その超えた部分の56%分、攻撃力がアップする。この方法でアップできる攻撃力は最大120%まで。元素爆発を発動した後の12秒間、元素チャージ効率+50%。",
+        "KR": "원소 충전 효율이 100%를 초과할 경우, 공격력이 초과된 부분의 56%만큼 증가하며, 해당 방식을 통해 최대 120% 증가할 수 있다. 원소폭발 발동 후 12초 동안 원소 충전 효율이 50% 증가한다",
+        "PT": "O ATQ é aumentado em 56% da Recarga de Energia acima da base de 100%. Você pode receber um Bônus máximo de 120% de ATQ. Ganha 50% de Recarga de Energia por 12s depois de usar um Supremo.",
+        "RU": "Увеличивает силу атаки на 56% от показателя восстановления энергии свыше 100%. Вы можете получить бонус силы атаки до 120%. Также даёт 50% восстановления энергии на 12 сек. после активации взрыва стихии.",
+        "TH": "พลังโจมตีเพิ่มขึ้น โดยที่ระดับการเพิ่มจะเท่ากับ 56% ของส่วนที่เกินมาจาก 100% ของประสิทธิภาพการฟื้นฟูพลังงาน โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุดถึง 120% และภายในเวลา 12 วินาที หลังจากปล่อยท่าไม้ตาย ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 50%",
+        "TR": "Taban %100 Enerji Yüklemesinin üzerindeki oranın %56'sı kadar Saldırı Bonusu verir. Bu şekilde en fazla %120 Saldırı Bonusu kazanılabilir. Bir Element Patlaması kullanıldığında 12 saniyeliğine %50 Enerji Yüklemesi kazanılır.",
+        "VI": "Tăng sức tấn công nhận được, mức tăng thêm tương đương 56% lượng dư ra trên 100% của Hiệu Quả Nạp Nguyên Tố, tối đa tăng 120% từ cách này. Trong 12s sau khi thi triển Kỹ Năng Nộ, tăng 50% Hiệu Quả Nạp Nguyên Tố."
+      }
+    }
+  ]
+}

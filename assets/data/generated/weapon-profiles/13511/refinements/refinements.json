@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Heat Haze at Horizon's End",
+    "CHS": "蜃气尽头的热梦",
+    "CHT": "蜃氣盡頭的熱夢",
+    "DE": "Traum am Ende des Hitzedunsts",
+    "ES": "Sueño en el horizonte",
+    "FR": "Chimère de fin de mirage",
+    "ID": "Heat Haze at Horizon's End",
+    "IT": "Foschia di calore all'orizzonte",
+    "JP": "蜃気楼の果ての熱夢",
+    "KR": "신기루 끝의 뜨거운 꿈",
+    "PT": "Sonho Ardente no Fim do Horizonte",
+    "RU": "Марево на горизонте",
+    "TH": "Heat Haze at Horizon's End",
+    "TR": "Ufuk Serabı",
+    "VI": "Giấc Mộng Cuối Chân Trời"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "The equipping character gains 52% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 28% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+        "CHS": "基于装备者元素精通的52%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的28%，获得攻击力加成，该效果至多叠加3层。",
+        "CHT": "基於裝備者元素精通的52%，獲得攻擊力加成。元素戰技命中敵人時，將產生持續10秒的「赤沙之夢」效果：基於裝備者元素精通的28%，獲得攻擊力加成，該效果至多疊加3層。",
+        "DE": "Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 52 % der Elementarkunde, die sie besitzt. Löst nach dem Treffen von Gegnern mit der Elementarfähigkeit den Effekt „Traum roter Sande“ aus, der 10 s hält: Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 28 % der Elementarkunde, die sie besitzt, dieser Effekt ist 3-fach stapelbar.",
+        "ES": "#Otorga al portador de esta arma un Bono de ATQ del 52% de su Maestría Elemental. Al golpear a un enemigo con una Habilidad Elemental, se crea durante 10 s el efecto de “sueño del desierto escarlata”, el cual otorga al personaje que porte esta arma un Bono de ATQ del 28% de su Maestría Elemental. Este efecto puede acumularse un máximo de 3 veces.",
+        "FR": "#Le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 52 % de sa maîtrise élémentaire. Lorsqu'une compétence élémentaire touche un ennemi, l'effet Rêve des sables rouges est généré pendant 10 s : le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 28 % de sa maîtrise élémentaire, cet effet pouvant être cumulé 3 fois maximum.",
+        "ID": "Mendapatkan Bonus ATK berdasarkan 52% Elemental Mastery Karakter yang mengenakan. Saat Elemental Skill mengenai musuh, akan menghasilkan efek Dream of the Scarlet Sands yang bertahan 10 detik: Mendapatkan Bonus ATK berdasarkan 28% Elemental Mastery Karakter yang mengenakan, efek ini dapat ditumpuk sampai 3 lapis.",
+        "IT": "#Il personaggio che equipaggia l'arma guadagna un bonus ATT pari a un 52% della propria maestria elementale. Quando un'abilità elementale colpisce gli avversari, si ottiene per 10 s l'effetto Sogno delle sabbie scarlatte: il personaggio che equipaggia l'arma ottiene un bonus ATT pari a un 28% della propria maestria elementale, che può accumularsi per un massimo di 3 volte.",
+        "JP": "装備したキャラクターの元素熟知の52%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の28%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+        "KR": "장착한 캐릭터 원소 마스터리의 52%에 해당하는 공격력 보너스를 획득한다. 원소전투 스킬이 적을 명중하면 10초 동안 「적색 사막의 꿈」 효과를 획득한다: 장착한 캐릭터 원소 마스터리의 28%만큼 공격력 보너스를 획득한다. 해당 효과 최대 중첩수: 3스택",
+        "PT": "Obtém Bônus de ATQ baseado em 52% da Proficiência Elemental do personagem que está com essa arma equipada. Quando a Habilidade Elemental atinge um inimigo, gera por 10s o efeito \"Sonhos de Areias Escarlates\": obtém Bônus de ATQ baseado em 28% da Proficiência Elemental do personagem que está com essa arma equipada. Esse efeito pode ser acumulado até 3 vezes.",
+        "RU": "Экипированный этим оружием персонаж получает бонус атаки, равный 52% от его мастерства стихий. Попадание по врагу элементальным навыком на 10 сек. наделяет Сном алых песков: экипированный этим оружием персонаж получает бонус атаки, равный 28% от мастерства стихий. Эффект складывается до 3 раз.",
+        "TH": "ได้รับโบนัสพลังโจมตี 52% ของความชำนาญธาตุของผู้ใช้ และเมื่อสกิลธาตุถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Dream of the Scarlet Sands เป็นเวลา 10 วินาที: ทำให้ได้รับโบนัสพลังโจมตี 28% ของความชำนาญธาตุของผู้ใช้ โดยที่เอฟเฟกต์นี้ จะซ้อนทับได้มากสุด 3 ชั้น",
+        "TR": "Kuşanan karakter Element Ustalığının %52'si kadar bonus Saldırı kazanır. Element Becerisi düşmanlara vurduğunda 10 saniyeliğine Kızıl Kum Rüyası etkisi kazanılır: Kuşanan karakter Element Ustalığının %28'i kadar bonus Saldırı kazanır. 3 kademeye kadar birikebilir.",
+        "VI": "Tăng tấn công dựa trên 52% Tinh Thông Nguyên Tố của người trang bị vũ khí này. Khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch sẽ nhận hiệu ứng \"Giấc Mộng Cát Đỏ\" duy trì 10s: Tăng tấn công dựa trên 28% Tinh Thông Nguyên Tố của người trang bị vũ khí này, hiệu quả này tối đa cộng dồn 3 tầng."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "The equipping character gains 65% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 35% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+        "CHS": "基于装备者元素精通的65%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的35%，获得攻击力加成，该效果至多叠加3层。",
+        "CHT": "基於裝備者元素精通的65%，獲得攻擊力加成。元素戰技命中敵人時，將產生持續10秒的「赤沙之夢」效果：基於裝備者元素精通的35%，獲得攻擊力加成，該效果至多疊加3層。",
+        "DE": "Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 65 % der Elementarkunde, die sie besitzt. Löst nach dem Treffen von Gegnern mit der Elementarfähigkeit den Effekt „Traum roter Sande“ aus, der 10 s hält: Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 35 % der Elementarkunde, die sie besitzt, dieser Effekt ist 3-fach stapelbar.",
+        "ES": "#Otorga al portador de esta arma un Bono de ATQ del 65% de su Maestría Elemental. Al golpear a un enemigo con una Habilidad Elemental, se crea durante 10 s el efecto de “sueño del desierto escarlata”, el cual otorga al personaje que porte esta arma un Bono de ATQ del 35% de su Maestría Elemental. Este efecto puede acumularse un máximo de 3 veces.",
+        "FR": "#Le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 65 % de sa maîtrise élémentaire. Lorsqu'une compétence élémentaire touche un ennemi, l'effet Rêve des sables rouges est généré pendant 10 s : le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 35 % de sa maîtrise élémentaire, cet effet pouvant être cumulé 3 fois maximum.",
+        "ID": "Mendapatkan Bonus ATK berdasarkan 65% Elemental Mastery Karakter yang mengenakan. Saat Elemental Skill mengenai musuh, akan menghasilkan efek Dream of the Scarlet Sands yang bertahan 10 detik: Mendapatkan Bonus ATK berdasarkan 35% Elemental Mastery Karakter yang mengenakan, efek ini dapat ditumpuk sampai 3 lapis.",
+        "IT": "#Il personaggio che equipaggia l'arma guadagna un bonus ATT pari a un 65% della propria maestria elementale. Quando un'abilità elementale colpisce gli avversari, si ottiene per 10 s l'effetto Sogno delle sabbie scarlatte: il personaggio che equipaggia l'arma ottiene un bonus ATT pari a un 35% della propria maestria elementale, che può accumularsi per un massimo di 3 volte.",
+        "JP": "装備したキャラクターの元素熟知の65%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の35%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+        "KR": "장착한 캐릭터 원소 마스터리의 65%에 해당하는 공격력 보너스를 획득한다. 원소전투 스킬이 적을 명중하면 10초 동안 「적색 사막의 꿈」 효과를 획득한다: 장착한 캐릭터 원소 마스터리의 35%만큼 공격력 보너스를 획득한다. 해당 효과 최대 중첩수: 3스택",
+        "PT": "Obtém Bônus de ATQ baseado em 65% da Proficiência Elemental do personagem que está com essa arma equipada. Quando a Habilidade Elemental atinge um inimigo, gera por 10s o efeito \"Sonhos de Areias Escarlates\": obtém Bônus de ATQ baseado em 35% da Proficiência Elemental do personagem que está com essa arma equipada. Esse efeito pode ser acumulado até 3 vezes.",
+        "RU": "Экипированный этим оружием персонаж получает бонус атаки, равный 65% от его мастерства стихий. Попадание по врагу элементальным навыком на 10 сек. наделяет Сном алых песков: экипированный этим оружием персонаж получает бонус атаки, равный 35% от мастерства стихий. Эффект складывается до 3 раз.",
+        "TH": "ได้รับโบนัสพลังโจมตี 65% ของความชำนาญธาตุของผู้ใช้ และเมื่อสกิลธาตุถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Dream of the Scarlet Sands เป็นเวลา 10 วินาที: ทำให้ได้รับโบนัสพลังโจมตี 35% ของความชำนาญธาตุของผู้ใช้ โดยที่เอฟเฟกต์นี้ จะซ้อนทับได้มากสุด 3 ชั้น",
+        "TR": "Kuşanan karakter Element Ustalığının %65'i kadar bonus Saldırı kazanır. Element Becerisi düşmanlara vurduğunda 10 saniyeliğine Kızıl Kum Rüyası etkisi kazanılır: Kuşanan karakter Element Ustalığının %35'i kadar bonus Saldırı kazanır. 3 kademeye kadar birikebilir.",
+        "VI": "Tăng tấn công dựa trên 65% Tinh Thông Nguyên Tố của người trang bị vũ khí này. Khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch sẽ nhận hiệu ứng \"Giấc Mộng Cát Đỏ\" duy trì 10s: Tăng tấn công dựa trên 35% Tinh Thông Nguyên Tố của người trang bị vũ khí này, hiệu quả này tối đa cộng dồn 3 tầng."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "The equipping character gains 78% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 42% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+        "CHS": "基于装备者元素精通的78%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的42%，获得攻击力加成，该效果至多叠加3层。",
+        "CHT": "基於裝備者元素精通的78%，獲得攻擊力加成。元素戰技命中敵人時，將產生持續10秒的「赤沙之夢」效果：基於裝備者元素精通的42%，獲得攻擊力加成，該效果至多疊加3層。",
+        "DE": "Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 78 % der Elementarkunde, die sie besitzt. Löst nach dem Treffen von Gegnern mit der Elementarfähigkeit den Effekt „Traum roter Sande“ aus, der 10 s hält: Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 42 % der Elementarkunde, die sie besitzt, dieser Effekt ist 3-fach stapelbar.",
+        "ES": "#Otorga al portador de esta arma un Bono de ATQ del 78% de su Maestría Elemental. Al golpear a un enemigo con una Habilidad Elemental, se crea durante 10 s el efecto de “sueño del desierto escarlata”, el cual otorga al personaje que porte esta arma un Bono de ATQ del 42% de su Maestría Elemental. Este efecto puede acumularse un máximo de 3 veces.",
+        "FR": "#Le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 78 % de sa maîtrise élémentaire. Lorsqu'une compétence élémentaire touche un ennemi, l'effet Rêve des sables rouges est généré pendant 10 s : le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 42 % de sa maîtrise élémentaire, cet effet pouvant être cumulé 3 fois maximum.",
+        "ID": "Mendapatkan Bonus ATK berdasarkan 78% Elemental Mastery Karakter yang mengenakan. Saat Elemental Skill mengenai musuh, akan menghasilkan efek Dream of the Scarlet Sands yang bertahan 10 detik: Mendapatkan Bonus ATK berdasarkan 42% Elemental Mastery Karakter yang mengenakan, efek ini dapat ditumpuk sampai 3 lapis.",
+        "IT": "#Il personaggio che equipaggia l'arma guadagna un bonus ATT pari a un 78% della propria maestria elementale. Quando un'abilità elementale colpisce gli avversari, si ottiene per 10 s l'effetto Sogno delle sabbie scarlatte: il personaggio che equipaggia l'arma ottiene un bonus ATT pari a un 42% della propria maestria elementale, che può accumularsi per un massimo di 3 volte.",
+        "JP": "装備したキャラクターの元素熟知の78%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の42%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+        "KR": "장착한 캐릭터 원소 마스터리의 78%에 해당하는 공격력 보너스를 획득한다. 원소전투 스킬이 적을 명중하면 10초 동안 「적색 사막의 꿈」 효과를 획득한다: 장착한 캐릭터 원소 마스터리의 42%만큼 공격력 보너스를 획득한다. 해당 효과 최대 중첩수: 3스택",
+        "PT": "Obtém Bônus de ATQ baseado em 78% da Proficiência Elemental do personagem que está com essa arma equipada. Quando a Habilidade Elemental atinge um inimigo, gera por 10s o efeito \"Sonhos de Areias Escarlates\": obtém Bônus de ATQ baseado em 42% da Proficiência Elemental do personagem que está com essa arma equipada. Esse efeito pode ser acumulado até 3 vezes.",
+        "RU": "Экипированный этим оружием персонаж получает бонус атаки, равный 78% от его мастерства стихий. Попадание по врагу элементальным навыком на 10 сек. наделяет Сном алых песков: экипированный этим оружием персонаж получает бонус атаки, равный 42% от мастерства стихий. Эффект складывается до 3 раз.",
+        "TH": "ได้รับโบนัสพลังโจมตี 78% ของความชำนาญธาตุของผู้ใช้ และเมื่อสกิลธาตุถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Dream of the Scarlet Sands เป็นเวลา 10 วินาที: ทำให้ได้รับโบนัสพลังโจมตี 42% ของความชำนาญธาตุของผู้ใช้ โดยที่เอฟเฟกต์นี้ จะซ้อนทับได้มากสุด 3 ชั้น",
+        "TR": "Kuşanan karakter Element Ustalığının %78'i kadar bonus Saldırı kazanır. Element Becerisi düşmanlara vurduğunda 10 saniyeliğine Kızıl Kum Rüyası etkisi kazanılır: Kuşanan karakter Element Ustalığının %42'si kadar bonus Saldırı kazanır. 3 kademeye kadar birikebilir.",
+        "VI": "Tăng tấn công dựa trên 78% Tinh Thông Nguyên Tố của người trang bị vũ khí này. Khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch sẽ nhận hiệu ứng \"Giấc Mộng Cát Đỏ\" duy trì 10s: Tăng tấn công dựa trên 42% Tinh Thông Nguyên Tố của người trang bị vũ khí này, hiệu quả này tối đa cộng dồn 3 tầng."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "The equipping character gains 91% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 49% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+        "CHS": "基于装备者元素精通的91%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的49%，获得攻击力加成，该效果至多叠加3层。",
+        "CHT": "基於裝備者元素精通的91%，獲得攻擊力加成。元素戰技命中敵人時，將產生持續10秒的「赤沙之夢」效果：基於裝備者元素精通的49%，獲得攻擊力加成，該效果至多疊加3層。",
+        "DE": "Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 91 % der Elementarkunde, die sie besitzt. Löst nach dem Treffen von Gegnern mit der Elementarfähigkeit den Effekt „Traum roter Sande“ aus, der 10 s hält: Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 49 % der Elementarkunde, die sie besitzt, dieser Effekt ist 3-fach stapelbar.",
+        "ES": "#Otorga al portador de esta arma un Bono de ATQ del 91% de su Maestría Elemental. Al golpear a un enemigo con una Habilidad Elemental, se crea durante 10 s el efecto de “sueño del desierto escarlata”, el cual otorga al personaje que porte esta arma un Bono de ATQ del 49% de su Maestría Elemental. Este efecto puede acumularse un máximo de 3 veces.",
+        "FR": "#Le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 91 % de sa maîtrise élémentaire. Lorsqu'une compétence élémentaire touche un ennemi, l'effet Rêve des sables rouges est généré pendant 10 s : le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 49 % de sa maîtrise élémentaire, cet effet pouvant être cumulé 3 fois maximum.",
+        "ID": "Mendapatkan Bonus ATK berdasarkan 91% Elemental Mastery Karakter yang mengenakan. Saat Elemental Skill mengenai musuh, akan menghasilkan efek Dream of the Scarlet Sands yang bertahan 10 detik: Mendapatkan Bonus ATK berdasarkan 49% Elemental Mastery Karakter yang mengenakan, efek ini dapat ditumpuk sampai 3 lapis.",
+        "IT": "#Il personaggio che equipaggia l'arma guadagna un bonus ATT pari a un 91% della propria maestria elementale. Quando un'abilità elementale colpisce gli avversari, si ottiene per 10 s l'effetto Sogno delle sabbie scarlatte: il personaggio che equipaggia l'arma ottiene un bonus ATT pari a un 49% della propria maestria elementale, che può accumularsi per un massimo di 3 volte.",
+        "JP": "装備したキャラクターの元素熟知の91%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の49%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+        "KR": "장착한 캐릭터 원소 마스터리의 91%에 해당하는 공격력 보너스를 획득한다. 원소전투 스킬이 적을 명중하면 10초 동안 「적색 사막의 꿈」 효과를 획득한다: 장착한 캐릭터 원소 마스터리의 49%만큼 공격력 보너스를 획득한다. 해당 효과 최대 중첩수: 3스택",
+        "PT": "Obtém Bônus de ATQ baseado em 91% da Proficiência Elemental do personagem que está com essa arma equipada. Quando a Habilidade Elemental atinge um inimigo, gera por 10s o efeito \"Sonhos de Areias Escarlates\": obtém Bônus de ATQ baseado em 49% da Proficiência Elemental do personagem que está com essa arma equipada. Esse efeito pode ser acumulado até 3 vezes.",
+        "RU": "Экипированный этим оружием персонаж получает бонус атаки, равный 91% от его мастерства стихий. Попадание по врагу элементальным навыком на 10 сек. наделяет Сном алых песков: экипированный этим оружием персонаж получает бонус атаки, равный 49% от мастерства стихий. Эффект складывается до 3 раз.",
+        "TH": "ได้รับโบนัสพลังโจมตี 91% ของความชำนาญธาตุของผู้ใช้ และเมื่อสกิลธาตุถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Dream of the Scarlet Sands เป็นเวลา 10 วินาที: ทำให้ได้รับโบนัสพลังโจมตี 49% ของความชำนาญธาตุของผู้ใช้ โดยที่เอฟเฟกต์นี้ จะซ้อนทับได้มากสุด 3 ชั้น",
+        "TR": "Kuşanan karakter Element Ustalığının %91'i kadar bonus Saldırı kazanır. Element Becerisi düşmanlara vurduğunda 10 saniyeliğine Kızıl Kum Rüyası etkisi kazanılır: Kuşanan karakter Element Ustalığının %49'u kadar bonus Saldırı kazanır. 3 kademeye kadar birikebilir.",
+        "VI": "Tăng tấn công dựa trên 91% Tinh Thông Nguyên Tố của người trang bị vũ khí này. Khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch sẽ nhận hiệu ứng \"Giấc Mộng Cát Đỏ\" duy trì 10s: Tăng tấn công dựa trên 49% Tinh Thông Nguyên Tố của người trang bị vũ khí này, hiệu quả này tối đa cộng dồn 3 tầng."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "The equipping character gains 104% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 56% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+        "CHS": "基于装备者元素精通的104%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的56%，获得攻击力加成，该效果至多叠加3层。",
+        "CHT": "基於裝備者元素精通的104%，獲得攻擊力加成。元素戰技命中敵人時，將產生持續10秒的「赤沙之夢」效果：基於裝備者元素精通的56%，獲得攻擊力加成，該效果至多疊加3層。",
+        "DE": "Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 104 % der Elementarkunde, die sie besitzt. Löst nach dem Treffen von Gegnern mit der Elementarfähigkeit den Effekt „Traum roter Sande“ aus, der 10 s hält: Verleiht der damit ausgerüsteten Figur einen ANG-Bonus in Höhe von 56 % der Elementarkunde, die sie besitzt, dieser Effekt ist 3-fach stapelbar.",
+        "ES": "#Otorga al portador de esta arma un Bono de ATQ del 104% de su Maestría Elemental. Al golpear a un enemigo con una Habilidad Elemental, se crea durante 10 s el efecto de “sueño del desierto escarlata”, el cual otorga al personaje que porte esta arma un Bono de ATQ del 56% de su Maestría Elemental. Este efecto puede acumularse un máximo de 3 veces.",
+        "FR": "#Le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 104 % de sa maîtrise élémentaire. Lorsqu'une compétence élémentaire touche un ennemi, l'effet Rêve des sables rouges est généré pendant 10 s : le personnage équipé de l'arme obtient un bonus d'ATQ équivalant à 56 % de sa maîtrise élémentaire, cet effet pouvant être cumulé 3 fois maximum.",
+        "ID": "Mendapatkan Bonus ATK berdasarkan 104% Elemental Mastery Karakter yang mengenakan. Saat Elemental Skill mengenai musuh, akan menghasilkan efek Dream of the Scarlet Sands yang bertahan 10 detik: Mendapatkan Bonus ATK berdasarkan 56% Elemental Mastery Karakter yang mengenakan, efek ini dapat ditumpuk sampai 3 lapis.",
+        "IT": "#Il personaggio che equipaggia l'arma guadagna un bonus ATT pari a un 104% della propria maestria elementale. Quando un'abilità elementale colpisce gli avversari, si ottiene per 10 s l'effetto Sogno delle sabbie scarlatte: il personaggio che equipaggia l'arma ottiene un bonus ATT pari a un 56% della propria maestria elementale, che può accumularsi per un massimo di 3 volte.",
+        "JP": "装備したキャラクターの元素熟知の104%を基準に攻撃力がアップする。元素スキルが敵に命中すると、継続時間10秒の「赤砂の夢」効果が発動する。「赤砂の夢」：装備したキャラクターの元素熟知の56%を基準に攻撃力がアップする、この効果は最大3層まで重ね掛け可能。",
+        "KR": "장착한 캐릭터 원소 마스터리의 104%에 해당하는 공격력 보너스를 획득한다. 원소전투 스킬이 적을 명중하면 10초 동안 「적색 사막의 꿈」 효과를 획득한다: 장착한 캐릭터 원소 마스터리의 56%만큼 공격력 보너스를 획득한다. 해당 효과 최대 중첩수: 3스택",
+        "PT": "Obtém Bônus de ATQ baseado em 104% da Proficiência Elemental do personagem que está com essa arma equipada. Quando a Habilidade Elemental atinge um inimigo, gera por 10s o efeito \"Sonhos de Areias Escarlates\": obtém Bônus de ATQ baseado em 56% da Proficiência Elemental do personagem que está com essa arma equipada. Esse efeito pode ser acumulado até 3 vezes.",
+        "RU": "Экипированный этим оружием персонаж получает бонус атаки, равный 104% от его мастерства стихий. Попадание по врагу элементальным навыком на 10 сек. наделяет Сном алых песков: экипированный этим оружием персонаж получает бонус атаки, равный 56% от мастерства стихий. Эффект складывается до 3 раз.",
+        "TH": "ได้รับโบนัสพลังโจมตี 104% ของความชำนาญธาตุของผู้ใช้ และเมื่อสกิลธาตุถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Dream of the Scarlet Sands เป็นเวลา 10 วินาที: ทำให้ได้รับโบนัสพลังโจมตี 56% ของความชำนาญธาตุของผู้ใช้ โดยที่เอฟเฟกต์นี้ จะซ้อนทับได้มากสุด 3 ชั้น",
+        "TR": "Kuşanan karakter Element Ustalığının %104'ü kadar bonus Saldırı kazanır. Element Becerisi düşmanlara vurduğunda 10 saniyeliğine Kızıl Kum Rüyası etkisi kazanılır: Kuşanan karakter Element Ustalığının %56'sı kadar bonus Saldırı kazanır. 3 kademeye kadar birikebilir.",
+        "VI": "Tăng tấn công dựa trên 104% Tinh Thông Nguyên Tố của người trang bị vũ khí này. Khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch sẽ nhận hiệu ứng \"Giấc Mộng Cát Đỏ\" duy trì 10s: Tăng tấn công dựa trên 56% Tinh Thông Nguyên Tố của người trang bị vũ khí này, hiệu quả này tối đa cộng dồn 3 tầng."
+      }
+    }
+  ]
+}

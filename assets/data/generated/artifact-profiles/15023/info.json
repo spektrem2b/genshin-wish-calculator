@@ -1,0 +1,69 @@
+{
+  "id": 15023,
+  "name": {
+    "EN": "Vermillion Hereafter",
+    "CHS": "辰砂往生录",
+    "CHT": "辰砂往生錄",
+    "DE": "Vergangenheit des Zinnobers",
+    "ES": "Deceso del Cinabrio",
+    "FR": "Au-delà cinabrin",
+    "ID": "Vermillion Hereafter",
+    "IT": "Aldilà vermiglio",
+    "JP": "辰砂往生録",
+    "KR": "진사 왕생록",
+    "PT": "Além-vida Cinábrio",
+    "RU": "Киноварное загробье",
+    "TH": "Vermillion Hereafter",
+    "TR": "Öbür Dünya Zincifresi",
+    "VI": "Thần Sa Vãng Sinh Lục"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15023/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%.",
+        "RU": "Увеличивает силу атаки на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn công tăng 18%"
+      },
+      "affixId": "2150230"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.",
+        "CHS": "施放元素爆发后，将产生持续16秒的「潜光」效果：攻击力提升8%；并在角色的生命值降低时，攻击力进一步提升10%，至多通过这种方式提升4次，每0.8秒至多触发一次。「潜光」效果将在角色退场时消失；持续期间再次施放元素爆发，将移除原有的「潜光」。",
+        "CHT": "施放元素爆發後，將產生持續16秒的「潛光」效果：攻擊力提升8%；並在角色的生命值降低時，攻擊力進一步提升10%，至多依此方式提升4次，每0.8秒至多觸發一次。「潛光」效果將在角色退場時消失；持續期間再次施放元素爆發，將移除原有的「潛光」。",
+        "DE": "Verleiht Figuren nach Anwendung von Spezialfähigkeiten den 16 s anhaltenden Effekt „Schleichlicht“: Erhöht den ANG der jeweiligen Figur anfänglich um 8 %. Erhöht den ANG der Figur bei jedem LP-Verlust zusätzlich um 10 %, 0,8 s Abklingzeit. 4 ANG-Boni auf diese Weise möglich. Beendet den Effekt „Schleichlicht“ beim Auswechseln der Figur. Entfernt bei erneuter Anwendung der Spezialfähigkeit während der Wirkungsdauer von „Schleichlicht“ den bisherigen Effekt „Schleichlicht“ vollständig.",
+        "ES": "#Al usar la Habilidad Definitiva, obtienes el efecto de “destello emergente” durante 16 s, el cual aumenta el ATQ en un 8% y, además, hace que cada vez que el personaje pierda Vida, su ATQ aumente en un 10% adicional. Este efecto solo puede aumentar el ATQ un máximo de 4 veces de esta manera y activarse una vez cada 0.8 s. Los efectos de destello emergente se disiparán si el personaje es retirado de combate. Si el personaje vuelve a usar la Habilidad Definitiva mientras dicho efecto está activo, el destello emergente original también se disipará.",
+        "FR": "Lorsqu'un personnage utilise un déchaînement élémentaire, il gagne l'effet Lumière latente pendant 16 s, augmentant son ATQ de 8 %, puis de 10 % supplémentaires à chaque fois que ses PV diminuent. Cette augmentation supplémentaire peut être cumulée 4 fois maximum et déclenchée une fois toutes les 0,8 s. L'effet Lumière latente cesse lorsque le personnage quitte le champ de bataille. Si le personnage utilise à nouveau son déchaînement élémentaire alors que la Lumière latente est en effet, l'effet original de Lumière latente est dissipé.",
+        "ID": "Setelah melancarkan Elemental Burst, Karakter tersebut akan mendapatkan efek Nascent Light yang akan meningkatkan 8% ATK-nya selama 16 detik. Saat HP Karakter tersebut berkurang, akan meningkatkan lagi 10% ATK-nya. Peningkatan yang bisa didapat dengan cara ini maksimum 4 kali. Efek dapat terpicu setiap 0,8 detik. Nascent Light akan hilang saat Karakter meninggalkan medan pertempuran. Jika Elemental Burst dilancarkan lagi saat durasi efeknya masih ada, maka efek Nascent Light awal akan hilang.",
+        "IT": "#Dopo aver usato un Tripudio elementale, il personaggio ottiene l'effetto Luce nascente, che aumenta l'ATT di un 8% per 16 s. Quando i PS del personaggio si riducono, il suo ATT aumenta di un ulteriore 10%. Questo ulteriore aumento può essere accumulato per un massimo di 4 volte. Quest'effetto può attivarsi una volta ogni 0,8 s. Quando il personaggio abbandona il campo, l'effetto Luce nascente si disperde. Usando nuovamente un Tripudio elementale quando Luce nascente è attivo, l'effetto originale si disperde.",
+        "JP": "元素爆発を発動すると、継続時間16秒の「潜光」効果が発動する。「潜光」：攻撃力+8%、キャラクターがHPを失うたびに攻撃力がさらに10%アップする。HPの損失による攻撃力アップ効果は0.8秒毎に1回のみ発動でき、最大4回重ね掛けできる。「潜光」効果はキャラクターが戦闘不能、または退場する時に解除される。「潜光」効果の継続時間中に再び元素爆発を発動すると、既存の「潜光」効果が先にクリアされる。",
+        "KR": "원소폭발 발동 후 16초 동안 「숨겨진 빛」 효과가 생성되고, 공격력이 8% 증가한다. 캐릭터 HP가 감소할 때 공격력이 10% 더 증가한다. 이러한 방식으로 최대 4회 증가할 수 있으며, 0.8초마다 1회 발동한다. 「숨겨진 빛」 효과는 캐릭터 퇴장 시 사라진다. 지속 시간 동안 다시 원소폭발 발동 시 기존의 「숨겨진 빛」이 사라진다",
+        "PT": "Depois do Supremo ser usado, será desencadeado o efeito de \"Luz Nascente\" por 16s: o ATQ será aumentado em 8% e quando a Vida do personagem diminuir, o ATQ aumentará mais 10%. Esse aumento pode ocorrer desta forma no máximo 4 vezes, e pode ser desencadeado 1 vez a cada 0.8s. O efeito de \"Luz Nascente\" desaparece quando o personagem sai do campo de batalha. Quando o personagem lança novamente o Supremo durante o efeito, o efeito original de \"Luz Nascente\" será removido.",
+        "RU": "После активации взрыва стихии на 16 сек. создаёт Скрытое сияние, которое повышает силу атаки на 8%. Сила атаки персонажа увеличивается ещё на 10%, когда он теряет HP. Этот эффект может возникнуть максимум 4 раза и не чаще, чем раз в 0,8 сек. Скрытое сияние исчезает, когда персонаж покидает поле боя. При повторной активации взрыва стихии существующее Скрытое сияние снимается.",
+        "TH": "หลังจากปล่อยท่าไม้ตาย จะเกิดเอฟเฟกต์ Nascent Light เป็นเวลา 16 วินาที: พลังโจมตีเพิ่มขึ้น 8%; และเมื่อพลังชีวิตของตัวละครลดต่ำลง พลังโจมตีจะเพิ่มขึ้นไปอีก 10% โดยจะเพิ่มด้วยวิธีนี้ได้มากสุด 4 ครั้ง และในทุก 0.8 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง เอฟเฟกต์ Nascent Light จะหายไปเมื่อตัวละครออกจากการต่อสู้; ในระหว่างช่วงเวลาต่อเนื่อง การปล่อยท่าไม้ตายอีกครั้ง จะเป็นการล้างเอฟเฟกต์ Nascent Light ที่มีอยู่เดิม",
+        "TR": "Karakter bir Element Patlaması kullandıktan sonra Saklı Işık etkisini kazanır ve 16 saniyeliğine Saldırısı %8 artar. Karakterin Canı azaldığında Saldırısı ek olarak %10 artar. Bu ek artış maksimum 4 defa gerçekleşebilir. Bu etki 0,8 saniyede bir tetiklenebilir ve etki, karakter alandan ayrıldığında kaybolur. Saklı Işık etkisi devredeyken bir Element Patlaması tekrar kullanıldığında ilk Saklı Işık etkisi kaybolur.",
+        "VI": "Sau khi thi triển kỹ năng nộ, sẽ sinh ra hiệu quả \"Ánh Sáng Ngầm\" duy trì 16s: Tăng 8% tấn công; đồng thời khi nhân vật bị giảm HP, sẽ tiếp tục tăng 10% tấn công, tối đa tăng 4 lần bằng cách này, mỗi 0.8s tối đa kích hoạt 1 lần. Hiệu quả \"Ánh Sáng Ngầm\" sẽ biến mất khi nhân vật rời trận; thi triển kỹ năng nộ lần nữa khi đang trong thời gian duy trì, sẽ xóa \"Ánh Sáng Ngầm\" đã có."
+      },
+      "affixId": "2150231"
+    }
+  ]
+}

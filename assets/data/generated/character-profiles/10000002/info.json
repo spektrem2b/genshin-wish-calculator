@@ -1,0 +1,137 @@
+{
+  "id": "10000002",
+  "name": {
+    "EN": "Kamisato Ayaka",
+    "CHS": "神里绫华",
+    "CHT": "神里綾華",
+    "DE": "Kamisato Ayaka",
+    "ES": "Kamisato Ayaka",
+    "FR": "Kamisato Ayaka",
+    "ID": "Kamisato Ayaka",
+    "IT": "Kamisato Ayaka",
+    "JP": "神里綾華",
+    "KR": "카미사토 아야카",
+    "PT": "Kamisato Ayaka",
+    "RU": "Аяка",
+    "TH": "Kamisato Ayaka",
+    "TR": "Kamisato Ayaka",
+    "VI": "Kamisato Ayaka"
+  },
+  "nameEn": "Kamisato Ayaka",
+  "element": "Cryo",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 9,
+    "day": 28
+  },
+  "release": "2021-07-20T21:00:00",
+  "icon": "generated/character-profiles/10000002/avatar.webp",
+  "fullWish": "generated/character-profiles/10000002/full_wish.webp",
+  "fullWishObjectPosition": "53.3% 27.1%",
+  "title": {
+    "EN": "Frostflake Heron",
+    "CHS": "白鹭霜华",
+    "CHT": "白鷺霜華",
+    "DE": "Eisnebelreiher",
+    "ES": "La Garza de la Escarcha",
+    "FR": "Héron de givre",
+    "ID": "Frostflake Heron",
+    "IT": "Airone dei ghiacci",
+    "JP": "白鷺氷華",
+    "KR": "눈꽃의 백로",
+    "PT": "Garça da Geada",
+    "RU": "Инеевая цапля",
+    "TH": "กระเรียนขาวกลางหิมะ",
+    "TR": "Buz Balıkçılı",
+    "VI": "Bạch Hạc Sương Hoa"
+  },
+  "description": {
+    "EN": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+    "CHS": "稻妻「社奉行」神里家的大小姐。端庄而文雅，聪慧又坚韧。",
+    "CHT": "稻妻「社奉行」神里家的大小姐。端莊而文雅，聰慧又堅韌。",
+    "DE": "Die Tochter des Kamisato-Klans der Yashiro-Verwaltung. Sie ist würdevoll und elegant, klug und stark.",
+    "ES": "La descendiente del clan Kamisato, perteneciente a la Comisión Yashiro de Inazuma. Una persona solemne, refinada, inteligente y tenaz.",
+    "FR": "Fille du Clan Kamisato de la Commission culturelle. Digne et élégante, mais aussi sage et forte.",
+    "ID": "Putri dari Klan Kamisato di Yashiro Commission. Bermartabat dan elegan, cerdas dan tangguh.",
+    "IT": "Figlia del clan Kamisato della Commissione Yashiro. Rispettabile ed elegante, nonché saggia e forte.",
+    "JP": "稲妻「社奉行」神里家の令嬢。容姿端麗で品行方正な人物。",
+    "KR": "이나즈마 「야시로 봉행」 카미사토 가문의 아가씨. 단정하고 우아하며 지혜롭고 굳건하다",
+    "PT": "Filha do Clã Kamisato da Comissão Yashiro. Solene e elegante, bem como sábia e forte.",
+    "RU": "Наследница клана Камисато комиссии Ясиро. Благородна и изящна, мудра и сильна.",
+    "TH": "คุณหนูใหญ่ของตระกูล Kamisato แห่งสำนัก Yashiro ใน Inazuma ทั้งสง่างามและมีเกียรติ เปี่ยมไปด้วยสติปัญญาและความแข็งแกร่ง",
+    "TR": "Yashiro Heyetinden Kamisato Klanının kızı. Onurlu ve zarif olmasının yanı sıra bilge ve güçlüdür.",
+    "VI": "Đại tiểu thư nhà Kamisato thuộc \"Hiệp Hội Yashiro\" Inazuma. Đoan trang thanh lịch, thông minh và mạnh mẽ."
+  },
+  "constellationName": {
+    "EN": "Grus Nivis",
+    "CHS": "雪鹤座",
+    "CHT": "雪鶴座",
+    "DE": "Grus Nivis",
+    "ES": "Grus Nivis",
+    "FR": "Grus Nivis",
+    "ID": "Grus Nivis",
+    "IT": "Grus Nivis",
+    "JP": "雪鶴座",
+    "KR": "설학자리",
+    "PT": "Grus Nivis",
+    "RU": "Снежный Журавль",
+    "TH": "Grus Nivis",
+    "TR": "Kar Turnası",
+    "VI": "Cung Tuyết Hạc"
+  },
+  "native": {
+    "EN": "Yashiro Commission",
+    "CHS": "社奉行",
+    "CHT": "社奉行",
+    "DE": "Yashiro-Verwaltung",
+    "ES": "Comisión Yashiro",
+    "FR": "Commission culturelle",
+    "ID": "Yashiro Commission",
+    "IT": "Commissione Yashiro",
+    "JP": "社奉行",
+    "KR": "야시로 봉행",
+    "PT": "Comissão de Yashiro",
+    "RU": "Комиссия Ясиро",
+    "TH": "สำนัก Yashiro",
+    "TR": "Yashiro Heyeti",
+    "VI": "Hiệp Hội Yashiro"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Erica Mendez"
+    },
+    {
+      "lang": "CHS",
+      "va": "小N"
+    },
+    {
+      "lang": "JP",
+      "va": "早見沙織"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Yoo-ri"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1000.986,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 26.6266,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 61.0266,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

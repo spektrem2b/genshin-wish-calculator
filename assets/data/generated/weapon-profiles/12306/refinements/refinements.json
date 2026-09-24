@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Courage",
+    "CHS": "勇气",
+    "CHT": "勇氣",
+    "DE": "Mut",
+    "ES": "Valentía",
+    "FR": "Courage",
+    "ID": "Courage",
+    "IT": "Coraggio",
+    "JP": "勇気",
+    "KR": "용기",
+    "PT": "Coragem",
+    "RU": "Храбрый",
+    "TH": "Courage",
+    "TR": "Cesaret",
+    "VI": "Dũng Khí"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks increase ATK by 6% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+        "CHS": "普通攻击和重击命中时，攻击力提高6%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，攻擊力提高6%，持續6秒，最多疊加四層。該效果每0.5秒只能觸發一次。",
+        "DE": "Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 6 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "Al atacar con Ataques Normales o Cargados, aumenta el ATQ en un 6% durante 6 s. Puede acumularse hasta 4 veces. Este efecto solo puede activarse una vez cada 0.5 s.",
+        "FR": "Les attaques normales et chargées augmentent l'ATQ de 6 % pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, meningkatkan 6% ATK selama 6 detik. Maksimum 4 lapis. Dapat terpicu setiap 0,5 detik.",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati aumentano l'ATT di un 6% per 6 s. Cumulabile fino a 4 volte. Si può verificare una volta ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、攻撃力+6%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 공격력이 6% 증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.5초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em 6% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+        "RU": "При попадании обычной или заряженной атакой сила атаки увеличивается на 6% в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย พลังโจมตีจะเพิ่มขึ้น 6% เป็นเวลา 6 วินาที และซ้อนทับมากสุด 4 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นเพียงหนึ่งครั้งในทุก 0.5 วินาที",
+        "TR": "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırıyı %6 artırır. 4 kademeye kadar birikir. 0,5 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, tấn công tăng 6%, kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks increase ATK by 7% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+        "CHS": "普通攻击和重击命中时，攻击力提高7%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，攻擊力提高7%，持續6秒，最多疊加四層。該效果每0.5秒只能觸發一次。",
+        "DE": "Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 7 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "Al atacar con Ataques Normales o Cargados, aumenta el ATQ en un 7% durante 6 s. Puede acumularse hasta 4 veces. Este efecto solo puede activarse una vez cada 0.5 s.",
+        "FR": "Les attaques normales et chargées augmentent l'ATQ de 7 % pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, meningkatkan 7% ATK selama 6 detik. Maksimum 4 lapis. Dapat terpicu setiap 0,5 detik.",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati aumentano l'ATT di un 7% per 6 s. Cumulabile fino a 4 volte. Si può verificare una volta ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、攻撃力+7%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 공격력이 7% 증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.5초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em 7% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+        "RU": "При попадании обычной или заряженной атакой сила атаки увеличивается на 7% в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย พลังโจมตีจะเพิ่มขึ้น 7% เป็นเวลา 6 วินาที และซ้อนทับมากสุด 4 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นเพียงหนึ่งครั้งในทุก 0.5 วินาที",
+        "TR": "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırıyı %7 artırır. 4 kademeye kadar birikir. 0,5 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, tấn công tăng 7%, kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks increase ATK by 8% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+        "CHS": "普通攻击和重击命中时，攻击力提高8%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，攻擊力提高8%，持續6秒，最多疊加四層。該效果每0.5秒只能觸發一次。",
+        "DE": "Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 8 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "Al atacar con Ataques Normales o Cargados, aumenta el ATQ en un 8% durante 6 s. Puede acumularse hasta 4 veces. Este efecto solo puede activarse una vez cada 0.5 s.",
+        "FR": "Les attaques normales et chargées augmentent l'ATQ de 8 % pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, meningkatkan 8% ATK selama 6 detik. Maksimum 4 lapis. Dapat terpicu setiap 0,5 detik.",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati aumentano l'ATT di un 8% per 6 s. Cumulabile fino a 4 volte. Si può verificare una volta ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、攻撃力+8%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 공격력이 8% 증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.5초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em 8% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+        "RU": "При попадании обычной или заряженной атакой сила атаки увеличивается на 8% в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย พลังโจมตีจะเพิ่มขึ้น 8% เป็นเวลา 6 วินาที และซ้อนทับมากสุด 4 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นเพียงหนึ่งครั้งในทุก 0.5 วินาที",
+        "TR": "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırıyı %8 artırır. 4 kademeye kadar birikir. 0,5 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, tấn công tăng 8%, kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks increase ATK by 9% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+        "CHS": "普通攻击和重击命中时，攻击力提高9%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，攻擊力提高9%，持續6秒，最多疊加四層。該效果每0.5秒只能觸發一次。",
+        "DE": "Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 9 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "Al atacar con Ataques Normales o Cargados, aumenta el ATQ en un 9% durante 6 s. Puede acumularse hasta 4 veces. Este efecto solo puede activarse una vez cada 0.5 s.",
+        "FR": "Les attaques normales et chargées augmentent l'ATQ de 9 % pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, meningkatkan 9% ATK selama 6 detik. Maksimum 4 lapis. Dapat terpicu setiap 0,5 detik.",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati aumentano l'ATT di un 9% per 6 s. Cumulabile fino a 4 volte. Si può verificare una volta ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、攻撃力+9%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 공격력이 9% 증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.5초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em 9% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+        "RU": "При попадании обычной или заряженной атакой сила атаки увеличивается на 9% в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย พลังโจมตีจะเพิ่มขึ้น 9% เป็นเวลา 6 วินาที และซ้อนทับมากสุด 4 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นเพียงหนึ่งครั้งในทุก 0.5 วินาที",
+        "TR": "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırıyı %9 artırır. 4 kademeye kadar birikir. 0,5 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, tấn công tăng 9%, kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "On hit, Normal or Charged Attacks increase ATK by 10% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+        "CHS": "普通攻击和重击命中时，攻击力提高10%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
+        "CHT": "普通攻擊和重擊命中時，攻擊力提高10%，持續6秒，最多疊加四層。該效果每0.5秒只能觸發一次。",
+        "DE": "Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 10 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+        "ES": "Al atacar con Ataques Normales o Cargados, aumenta el ATQ en un 10% durante 6 s. Puede acumularse hasta 4 veces. Este efecto solo puede activarse una vez cada 0.5 s.",
+        "FR": "Les attaques normales et chargées augmentent l'ATQ de 10 % pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+        "ID": "Saat Normal atau Charged Attack mengenai musuh, meningkatkan 10% ATK selama 6 detik. Maksimum 4 lapis. Dapat terpicu setiap 0,5 detik.",
+        "IT": "#Per colpo a segno, gli attacchi normali o caricati aumentano l'ATT di un 10% per 6 s. Cumulabile fino a 4 volte. Si può verificare una volta ogni 0,5 s.",
+        "JP": "通常攻撃または重撃が命中すると、攻撃力+10%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+        "KR": "일반 공격과 강공격 명중 시 공격력이 10% 증가한다. 지속 시간: 6초. 최대 중첩수: 4회. 해당 효과는 0.5초마다 1번 발동한다",
+        "PT": "Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em 10% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+        "RU": "При попадании обычной или заряженной атакой сила атаки увеличивается на 10% в течение 6 сек. Эффект может складываться до 4 раз. Может возникнуть раз в 0,5 сек.",
+        "TH": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมาย พลังโจมตีจะเพิ่มขึ้น 10% เป็นเวลา 6 วินาที และซ้อนทับมากสุด 4 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นเพียงหนึ่งครั้งในทุก 0.5 วินาที",
+        "TR": "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırıyı %10 artırır. 4 kademeye kadar birikir. 0,5 saniyede bir uygulanabilir.",
+        "VI": "Khi tấn công thường và trọng kích đánh trúng địch, tấn công tăng 10%, kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần."
+      }
+    }
+  ]
+}

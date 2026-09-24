@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Radiance on the Water",
+    "CHS": "翦霞照水",
+    "CHT": "翦霞照水",
+    "DE": "Sonnenspiegelung im Wasser",
+    "ES": "Arrebol sobre el agua",
+    "FR": "Éclat sur l'eau",
+    "ID": "Radiance on the Water",
+    "IT": "Acque fulgide",
+    "JP": "水上にたなびく霞",
+    "KR": "물에 비친 제비",
+    "PT": "Crepúsculo Sobre as Águas",
+    "RU": "Отблески на воде",
+    "TH": "Radiance on the Water",
+    "TR": "Sudaki Işıltı",
+    "VI": "Ánh Nước Rạng Rỡ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Mastery by 52 for 12s after Elemental Skill use. Max 2 stacks, and each stack's duration is independent of the others.",
+        "CHS": "施放元素战技后的12秒内，元素精通提升52点。该效果至多叠加2层，每层持续时间独立计算。",
+        "CHT": "施放元素戰技後的12秒內，元素精通提升52點。該效果至多疊加2層，每層持續時間獨立計算。",
+        "DE": "#Erhöht nach dem Anwenden der Elementarfähigkeit innerhalb von 12 s die Elementarkunde um 52 Punkte. Dieser Effekt ist bis zu 2-fach stapelbar, die Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental aumenta en 52 pts. durante 12 s. Este efecto puede acumularse hasta 2 veces y la duración de cada acumulación es independiente.",
+        "FR": "#Utiliser une compétence élémentaire augmente la maîtrise élémentaire de 52 pts pendant 12 s. Cet effet peut être cumulé 2 fois, la durée de chaque cumul étant calculée de façon indépendante.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery +52 poin selama 12 detik. Efek ini dapat ditumpuk sampai 2 lapis, durasi setiap lapis dihitung terpisah.",
+        "IT": "#Aumenta la maestria elementale di 52 per 12 s dopo l'utilizzo dell'abilità elementale. Massimo 2 accumuli, la durata di ciascun accumulo è indipendente.",
+        "JP": "元素スキル発動後の12秒間、元素熟知+52。この効果は最大2層まで重ね掛けでき、継続時間は層ごとに独立してカウントされる。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 원소 마스터리가 52pt 증가한다. 해당 효과는 최대 2스택까지 중첩되며, 스택마다 지속 시간은 독립적으로 계산된다",
+        "PT": "Nos 12s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 52. Esse efeito pode ser acumulado até 2 vezes, e a duração de cada acúmulo é contada separadamente.",
+        "RU": "На 12 сек. после применения элементального навыка мастерство стихий повышается на 52 ед. Эффект складывается до 2 раз. Отсчёт времени каждого уровня происходит отдельно.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 52 หน่วย เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาต่อเนื่องแยกกัน",
+        "TR": "Element Becerisini kullandıktan sonra 12 saniyeliğine Element Ustalığını 52 artırır. 2 kademeye kadar birikir ve her kademenin süresi birbirinden bağımsızdır.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 52 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, thời gian duy trì mỗi tầng tính riêng."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Mastery by 65 for 12s after Elemental Skill use. Max 2 stacks, and each stack's duration is independent of the others.",
+        "CHS": "施放元素战技后的12秒内，元素精通提升65点。该效果至多叠加2层，每层持续时间独立计算。",
+        "CHT": "施放元素戰技後的12秒內，元素精通提升65點。該效果至多疊加2層，每層持續時間獨立計算。",
+        "DE": "#Erhöht nach dem Anwenden der Elementarfähigkeit innerhalb von 12 s die Elementarkunde um 65 Punkte. Dieser Effekt ist bis zu 2-fach stapelbar, die Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental aumenta en 65 pts. durante 12 s. Este efecto puede acumularse hasta 2 veces y la duración de cada acumulación es independiente.",
+        "FR": "#Utiliser une compétence élémentaire augmente la maîtrise élémentaire de 65 pts pendant 12 s. Cet effet peut être cumulé 2 fois, la durée de chaque cumul étant calculée de façon indépendante.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery +65 poin selama 12 detik. Efek ini dapat ditumpuk sampai 2 lapis, durasi setiap lapis dihitung terpisah.",
+        "IT": "#Aumenta la maestria elementale di 65 per 12 s dopo l'utilizzo dell'abilità elementale. Massimo 2 accumuli, la durata di ciascun accumulo è indipendente.",
+        "JP": "元素スキル発動後の12秒間、元素熟知+65。この効果は最大2層まで重ね掛けでき、継続時間は層ごとに独立してカウントされる。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 원소 마스터리가 65pt 증가한다. 해당 효과는 최대 2스택까지 중첩되며, 스택마다 지속 시간은 독립적으로 계산된다",
+        "PT": "Nos 12s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 65. Esse efeito pode ser acumulado até 2 vezes, e a duração de cada acúmulo é contada separadamente.",
+        "RU": "На 12 сек. после применения элементального навыка мастерство стихий повышается на 65 ед. Эффект складывается до 2 раз. Отсчёт времени каждого уровня происходит отдельно.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 65 หน่วย เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาต่อเนื่องแยกกัน",
+        "TR": "Element Becerisini kullandıktan sonra 12 saniyeliğine Element Ustalığını 65 artırır. 2 kademeye kadar birikir ve her kademenin süresi birbirinden bağımsızdır.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 65 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, thời gian duy trì mỗi tầng tính riêng."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Mastery by 78 for 12s after Elemental Skill use. Max 2 stacks, and each stack's duration is independent of the others.",
+        "CHS": "施放元素战技后的12秒内，元素精通提升78点。该效果至多叠加2层，每层持续时间独立计算。",
+        "CHT": "施放元素戰技後的12秒內，元素精通提升78點。該效果至多疊加2層，每層持續時間獨立計算。",
+        "DE": "#Erhöht nach dem Anwenden der Elementarfähigkeit innerhalb von 12 s die Elementarkunde um 78 Punkte. Dieser Effekt ist bis zu 2-fach stapelbar, die Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental aumenta en 78 pts. durante 12 s. Este efecto puede acumularse hasta 2 veces y la duración de cada acumulación es independiente.",
+        "FR": "#Utiliser une compétence élémentaire augmente la maîtrise élémentaire de 78 pts pendant 12 s. Cet effet peut être cumulé 2 fois, la durée de chaque cumul étant calculée de façon indépendante.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery +78 poin selama 12 detik. Efek ini dapat ditumpuk sampai 2 lapis, durasi setiap lapis dihitung terpisah.",
+        "IT": "#Aumenta la maestria elementale di 78 per 12 s dopo l'utilizzo dell'abilità elementale. Massimo 2 accumuli, la durata di ciascun accumulo è indipendente.",
+        "JP": "元素スキル発動後の12秒間、元素熟知+78。この効果は最大2層まで重ね掛けでき、継続時間は層ごとに独立してカウントされる。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 원소 마스터리가 78pt 증가한다. 해당 효과는 최대 2스택까지 중첩되며, 스택마다 지속 시간은 독립적으로 계산된다",
+        "PT": "Nos 12s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 78. Esse efeito pode ser acumulado até 2 vezes, e a duração de cada acúmulo é contada separadamente.",
+        "RU": "На 12 сек. после применения элементального навыка мастерство стихий повышается на 78 ед. Эффект складывается до 2 раз. Отсчёт времени каждого уровня происходит отдельно.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 78 หน่วย เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาต่อเนื่องแยกกัน",
+        "TR": "Element Becerisini kullandıktan sonra 12 saniyeliğine Element Ustalığını 78 artırır. 2 kademeye kadar birikir ve her kademenin süresi birbirinden bağımsızdır.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 78 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, thời gian duy trì mỗi tầng tính riêng."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Mastery by 91 for 12s after Elemental Skill use. Max 2 stacks, and each stack's duration is independent of the others.",
+        "CHS": "施放元素战技后的12秒内，元素精通提升91点。该效果至多叠加2层，每层持续时间独立计算。",
+        "CHT": "施放元素戰技後的12秒內，元素精通提升91點。該效果至多疊加2層，每層持續時間獨立計算。",
+        "DE": "#Erhöht nach dem Anwenden der Elementarfähigkeit innerhalb von 12 s die Elementarkunde um 91 Punkte. Dieser Effekt ist bis zu 2-fach stapelbar, die Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental aumenta en 91 pts. durante 12 s. Este efecto puede acumularse hasta 2 veces y la duración de cada acumulación es independiente.",
+        "FR": "#Utiliser une compétence élémentaire augmente la maîtrise élémentaire de 91 pts pendant 12 s. Cet effet peut être cumulé 2 fois, la durée de chaque cumul étant calculée de façon indépendante.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery +91 poin selama 12 detik. Efek ini dapat ditumpuk sampai 2 lapis, durasi setiap lapis dihitung terpisah.",
+        "IT": "#Aumenta la maestria elementale di 91 per 12 s dopo l'utilizzo dell'abilità elementale. Massimo 2 accumuli, la durata di ciascun accumulo è indipendente.",
+        "JP": "元素スキル発動後の12秒間、元素熟知+91。この効果は最大2層まで重ね掛けでき、継続時間は層ごとに独立してカウントされる。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 원소 마스터리가 91pt 증가한다. 해당 효과는 최대 2스택까지 중첩되며, 스택마다 지속 시간은 독립적으로 계산된다",
+        "PT": "Nos 12s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 91. Esse efeito pode ser acumulado até 2 vezes, e a duração de cada acúmulo é contada separadamente.",
+        "RU": "На 12 сек. после применения элементального навыка мастерство стихий повышается на 91 ед. Эффект складывается до 2 раз. Отсчёт времени каждого уровня происходит отдельно.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 91 หน่วย เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาต่อเนื่องแยกกัน",
+        "TR": "Element Becerisini kullandıktan sonra 12 saniyeliğine Element Ustalığını 91 artırır. 2 kademeye kadar birikir ve her kademenin süresi birbirinden bağımsızdır.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 91 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, thời gian duy trì mỗi tầng tính riêng."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Mastery by 104 for 12s after Elemental Skill use. Max 2 stacks, and each stack's duration is independent of the others.",
+        "CHS": "施放元素战技后的12秒内，元素精通提升104点。该效果至多叠加2层，每层持续时间独立计算。",
+        "CHT": "施放元素戰技後的12秒內，元素精通提升104點。該效果至多疊加2層，每層持續時間獨立計算。",
+        "DE": "#Erhöht nach dem Anwenden der Elementarfähigkeit innerhalb von 12 s die Elementarkunde um 104 Punkte. Dieser Effekt ist bis zu 2-fach stapelbar, die Wirkungsdauer jeder Stapelung ist unabhängig.",
+        "ES": "#Tras usar la Habilidad Elemental, la Maestría Elemental aumenta en 104 pts. durante 12 s. Este efecto puede acumularse hasta 2 veces y la duración de cada acumulación es independiente.",
+        "FR": "#Utiliser une compétence élémentaire augmente la maîtrise élémentaire de 104 pts pendant 12 s. Cet effet peut être cumulé 2 fois, la durée de chaque cumul étant calculée de façon indépendante.",
+        "ID": "Setelah melancarkan Elemental Skill, Elemental Mastery +104 poin selama 12 detik. Efek ini dapat ditumpuk sampai 2 lapis, durasi setiap lapis dihitung terpisah.",
+        "IT": "#Aumenta la maestria elementale di 104 per 12 s dopo l'utilizzo dell'abilità elementale. Massimo 2 accumuli, la durata di ciascun accumulo è indipendente.",
+        "JP": "元素スキル発動後の12秒間、元素熟知+104。この効果は最大2層まで重ね掛けでき、継続時間は層ごとに独立してカウントされる。",
+        "KR": "원소전투 스킬 발동 후 12초 동안 원소 마스터리가 104pt 증가한다. 해당 효과는 최대 2스택까지 중첩되며, 스택마다 지속 시간은 독립적으로 계산된다",
+        "PT": "Nos 12s após lançar a Habilidade Elemental, aumenta a Proficiência Elemental em 104. Esse efeito pode ser acumulado até 2 vezes, e a duração de cada acúmulo é contada separadamente.",
+        "RU": "На 12 сек. после применения элементального навыка мастерство стихий повышается на 104 ед. Эффект складывается до 2 раз. Отсчёт времени каждого уровня происходит отдельно.",
+        "TH": "ภายใน 12 วินาที หลังจากปล่อยสกิลธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 104 หน่วย เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาต่อเนื่องแยกกัน",
+        "TR": "Element Becerisini kullandıktan sonra 12 saniyeliğine Element Ustalığını 104 artırır. 2 kademeye kadar birikir ve her kademenin süresi birbirinden bağımsızdır.",
+        "VI": "Trong 12s sau khi thi triển Kỹ Năng Nguyên Tố, Tinh Thông Nguyên Tố tăng 104 điểm. Hiệu quả này tối đa cộng dồn 2 tầng, thời gian duy trì mỗi tầng tính riêng."
+      }
+    }
+  ]
+}

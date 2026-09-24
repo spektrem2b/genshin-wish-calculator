@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "People of the Faltering Light",
+    "CHS": "微光的海渊民",
+    "CHT": "微光的海淵民",
+    "DE": "Bewohner der dunklen Tiefe",
+    "ES": "Resplandor de las profundidades",
+    "FR": "Peuple des profondeurs enténébrées",
+    "ID": "People of the Faltering Light",
+    "IT": "Popolo della luce tremolante",
+    "JP": "淡く光りし海淵の民",
+    "KR": "은은한 빛의 해연 백성",
+    "PT": "Povo das Profundezas Brilhantes",
+    "RU": "Народ мерцающих глубин",
+    "TH": "People of the Faltering Light",
+    "TR": "Titreyen Işığın Halkı",
+    "VI": "Con Dân Của Ánh Sáng Lay Lắt"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Energy Recharge by 24% for 10s after using an Elemental Skill.",
+        "CHS": "施放元素战技后，元素充能效率提升24%，持续10秒。",
+        "CHT": "施放元素戰技後，元素充能效率提升24%，持續10秒。",
+        "DE": "Erhöht bei Anwendung von Elementarfähigkeiten die Aufladerate 10 s lang um 24 %.",
+        "ES": "Tras usar la Habilidad Elemental, la Recarga de Energía aumenta en un 24% durante 10 s.",
+        "FR": "#Augmente la recharge d'énergie de 24 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Setelah melancarkan Elemental Skill, Energy Recharge akan meningkat sebesar 24% selama 10 detik.",
+        "IT": "#Aumenta la ricarica d'energia di un 24% per 10 s dopo aver usato un'abilità elementale.",
+        "JP": "元素スキルを発動すると、元素チャージ効率+24%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 후, 원소 충전 효율이 24% 증가한다. 지속 시간: 10초",
+        "PT": "Após usar a Habilidade Elemental, a Recarga de Energia aumenta em 24% por 10s.",
+        "RU": "Использование элементального навыка увеличивает восстановление энергии на 24% в течение 10 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 24% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra 10 saniyeliğine Enerji Yüklemesini %24 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố, Hiệu Quả Nạp Nguyên Tố tăng 24%, duy trì 10s."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Energy Recharge by 30% for 10s after using an Elemental Skill.",
+        "CHS": "施放元素战技后，元素充能效率提升30%，持续10秒。",
+        "CHT": "施放元素戰技後，元素充能效率提升30%，持續10秒。",
+        "DE": "Erhöht bei Anwendung von Elementarfähigkeiten die Aufladerate 10 s lang um 30 %.",
+        "ES": "Tras usar la Habilidad Elemental, la Recarga de Energía aumenta en un 30% durante 10 s.",
+        "FR": "#Augmente la recharge d'énergie de 30 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Setelah melancarkan Elemental Skill, Energy Recharge akan meningkat sebesar 30% selama 10 detik.",
+        "IT": "#Aumenta la ricarica d'energia di un 30% per 10 s dopo aver usato un'abilità elementale.",
+        "JP": "元素スキルを発動すると、元素チャージ効率+30%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 후, 원소 충전 효율이 30% 증가한다. 지속 시간: 10초",
+        "PT": "Após usar a Habilidade Elemental, a Recarga de Energia aumenta em 30% por 10s.",
+        "RU": "Использование элементального навыка увеличивает восстановление энергии на 30% в течение 10 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 30% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra 10 saniyeliğine Enerji Yüklemesini %30 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố, Hiệu Quả Nạp Nguyên Tố tăng 30%, duy trì 10s."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Energy Recharge by 36% for 10s after using an Elemental Skill.",
+        "CHS": "施放元素战技后，元素充能效率提升36%，持续10秒。",
+        "CHT": "施放元素戰技後，元素充能效率提升36%，持續10秒。",
+        "DE": "Erhöht bei Anwendung von Elementarfähigkeiten die Aufladerate 10 s lang um 36 %.",
+        "ES": "Tras usar la Habilidad Elemental, la Recarga de Energía aumenta en un 36% durante 10 s.",
+        "FR": "#Augmente la recharge d'énergie de 36 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Setelah melancarkan Elemental Skill, Energy Recharge akan meningkat sebesar 36% selama 10 detik.",
+        "IT": "#Aumenta la ricarica d'energia di un 36% per 10 s dopo aver usato un'abilità elementale.",
+        "JP": "元素スキルを発動すると、元素チャージ効率+36%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 후, 원소 충전 효율이 36% 증가한다. 지속 시간: 10초",
+        "PT": "Após usar a Habilidade Elemental, a Recarga de Energia aumenta em 36% por 10s.",
+        "RU": "Использование элементального навыка увеличивает восстановление энергии на 36% в течение 10 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 36% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra 10 saniyeliğine Enerji Yüklemesini %36 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố, Hiệu Quả Nạp Nguyên Tố tăng 36%, duy trì 10s."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Energy Recharge by 42% for 10s after using an Elemental Skill.",
+        "CHS": "施放元素战技后，元素充能效率提升42%，持续10秒。",
+        "CHT": "施放元素戰技後，元素充能效率提升42%，持續10秒。",
+        "DE": "Erhöht bei Anwendung von Elementarfähigkeiten die Aufladerate 10 s lang um 42 %.",
+        "ES": "Tras usar la Habilidad Elemental, la Recarga de Energía aumenta en un 42% durante 10 s.",
+        "FR": "#Augmente la recharge d'énergie de 42 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Setelah melancarkan Elemental Skill, Energy Recharge akan meningkat sebesar 42% selama 10 detik.",
+        "IT": "#Aumenta la ricarica d'energia di un 42% per 10 s dopo aver usato un'abilità elementale.",
+        "JP": "元素スキルを発動すると、元素チャージ効率+42%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 후, 원소 충전 효율이 42% 증가한다. 지속 시간: 10초",
+        "PT": "Após usar a Habilidade Elemental, a Recarga de Energia aumenta em 42% por 10s.",
+        "RU": "Использование элементального навыка увеличивает восстановление энергии на 42% в течение 10 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 42% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra 10 saniyeliğine Enerji Yüklemesini %42 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố, Hiệu Quả Nạp Nguyên Tố tăng 42%, duy trì 10s."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Energy Recharge by 48% for 10s after using an Elemental Skill.",
+        "CHS": "施放元素战技后，元素充能效率提升48%，持续10秒。",
+        "CHT": "施放元素戰技後，元素充能效率提升48%，持續10秒。",
+        "DE": "Erhöht bei Anwendung von Elementarfähigkeiten die Aufladerate 10 s lang um 48 %.",
+        "ES": "Tras usar la Habilidad Elemental, la Recarga de Energía aumenta en un 48% durante 10 s.",
+        "FR": "#Augmente la recharge d'énergie de 48 % pendant 10 s après l'utilisation d'une compétence élémentaire.",
+        "ID": "Setelah melancarkan Elemental Skill, Energy Recharge akan meningkat sebesar 48% selama 10 detik.",
+        "IT": "#Aumenta la ricarica d'energia di un 48% per 10 s dopo aver usato un'abilità elementale.",
+        "JP": "元素スキルを発動すると、元素チャージ効率+48%、継続時間10秒。",
+        "KR": "원소전투 스킬 발동 후, 원소 충전 효율이 48% 증가한다. 지속 시간: 10초",
+        "PT": "Após usar a Habilidade Elemental, a Recarga de Energia aumenta em 48% por 10s.",
+        "RU": "Использование элементального навыка увеличивает восстановление энергии на 48% в течение 10 сек.",
+        "TH": "หลังจากใช้สกิลธาตุ ประสิทธิภาพการฟื้นฟูพลังงานจะเพิ่มขึ้น 48% เป็นเวลา 10 วินาที",
+        "TR": "Bir Element Becerisi kullanıldıktan sonra 10 saniyeliğine Enerji Yüklemesini %48 artırır.",
+        "VI": "Sau khi thi triển Kỹ Năng Nguyên Tố, Hiệu Quả Nạp Nguyên Tố tăng 48%, duy trì 10s."
+      }
+    }
+  ]
+}

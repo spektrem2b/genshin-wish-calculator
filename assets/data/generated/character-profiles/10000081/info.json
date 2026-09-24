@@ -1,0 +1,137 @@
+{
+  "id": "10000081",
+  "name": {
+    "EN": "Kaveh",
+    "CHS": "卡维",
+    "CHT": "卡維",
+    "DE": "Kaveh",
+    "ES": "Kaveh",
+    "FR": "Kaveh",
+    "ID": "Kaveh",
+    "IT": "Kaveh",
+    "JP": "カーヴェ",
+    "KR": "카베",
+    "PT": "Kaveh",
+    "RU": "Кавех",
+    "TH": "Kaveh",
+    "TR": "Kaveh",
+    "VI": "Kaveh"
+  },
+  "nameEn": "Kaveh",
+  "element": "Dendro",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "SUMERU",
+  "birthday": {
+    "month": 7,
+    "day": 9
+  },
+  "release": "2023-05-02T15:00:00",
+  "icon": "generated/character-profiles/10000081/avatar.webp",
+  "fullWish": "generated/character-profiles/10000081/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Empyrean Reflection",
+    "CHS": "天穹之镜",
+    "CHT": "天穹之鏡",
+    "DE": "Empyreische Reflexion",
+    "ES": "El Espejo del Empíreo",
+    "FR": "Reflet empyréen",
+    "ID": "Empyrean Reflection",
+    "IT": "Riflesso empireo",
+    "JP": "天穹の鏡",
+    "KR": "천공의 거울",
+    "PT": "Refletor Empíreo",
+    "RU": "Отражение эмпирея",
+    "TH": "ม่านนภาสะท้อนปฐพี",
+    "TR": "Gök Kubbenin Yansıması",
+    "VI": "Lăng Kính Vòm Trời"
+  },
+  "description": {
+    "EN": "A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.",
+    "CHS": "须弥著名建筑设计师，对太多事物抱有过度关怀心。美学主义者，为现实所困扰。",
+    "CHT": "須彌著名建築設計師，對太多事物抱有過度關懷心。美學主義者，為現實所困擾。",
+    "DE": "Ein renommierter Architekt aus Sumeru, der sich über viele Dinge übermäßig besorgt zeigt. Ein Ästhet, der von der Realität verwirrt wird.",
+    "ES": "Un célebre arquitecto de Sumeru que se preocupa demasiado por las cosas. Es un fanático de la estética, pero está atrapado por la realidad.",
+    "FR": "Un célèbre architecte de Sumeru, excessivement préoccupé par bon nombre de choses. Prônant l'esthétisme, il est troublé par la réalité.",
+    "ID": "Seorang arsitek terkenal dari Sumeru yang memedulikan terlalu banyak hal. Pecinta estetika yang terganggu oleh realita.",
+    "IT": "Un rinomato architetto originario di Sumeru che si preoccupa esageratamente di fin troppe cose. È un esteta turbato dalla realtà.",
+    "JP": "スメールの著名建築デザイナー。多くの物事に対し、行き過ぎた思いやりの心を持つ。唯美主義者だが、現実に悩まされている。",
+    "KR": "수메르의 유명 건축 디자이너. 많은 것에 지나친 관심을 쏟는다. 심미주의자지만 현실에 시달리고 있다",
+    "PT": "Um arquiteto renomado de Sumeru, é preocupado demais com muitas coisas. Um esteta perturbado pela realidade.",
+    "RU": "Знаменитый архитектор из Сумеру, поглощённый заботами. Эстет, обеспокоенный реальностью.",
+    "TH": "สถาปนิกที่มีชื่อเสียงของ Sumeru เขาเป็นคนที่ใส่ใจเป็นห่วงเป็นใยหลายสิ่งหลายอย่างมากจนเกินไป ทั้งยังเป็นนักสุนทรียศาสตร์ ผู้มีปัญหากับความเป็นจริงอีกด้วย",
+    "TR": "Bazen birçok konuyu gereğinden fazla önemseyen, Sumerulu ünlü bir mimar. Gerçek hayatın dertlerinde boğulan bir estetik sevdalısı.",
+    "VI": "Kiến trúc sư nổi tiếng ở Sumeru, quan tâm tất cả con người và sự việc một cách thái quá. Người theo đuổi thẩm mỹ, gặp vướng mắc bởi hiện thực."
+  },
+  "constellationName": {
+    "EN": "Paradisaea",
+    "CHS": "天堂鸟座",
+    "CHT": "天堂鳥座",
+    "DE": "Paradisaea",
+    "ES": "Paradisaea",
+    "FR": "Paradisaea",
+    "ID": "Paradisaea",
+    "IT": "Paradisaea",
+    "JP": "極楽鳥座",
+    "KR": "극락조자리",
+    "PT": "Paradisaea",
+    "RU": "Райская Птица",
+    "TH": "Paradisaea",
+    "TR": "Sumru",
+    "VI": "Cung Thiên Đường Điểu"
+  },
+  "native": {
+    "EN": "Independent Design Studio",
+    "CHS": "独立设计工作室",
+    "CHT": "獨立設計工作室",
+    "DE": "Unabhängiges Architekturbüro",
+    "ES": "Estudio de diseño independiente",
+    "FR": "Studio de design indépendant",
+    "ID": "Independent Design Studio",
+    "IT": "Studio di design indipendente",
+    "JP": "個人デザインアトリエ",
+    "KR": "독립 디자인 공방",
+    "PT": "Estúdio independente de design",
+    "RU": "Независимое архитектурное бюро",
+    "TH": "ห้องทำงานออกแบบอิสระ",
+    "TR": "Bağımsız Tasarım Stüdyosu",
+    "VI": "Văn Phòng Thiết Kế Độc Lập"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Ben Balmaceda"
+    },
+    {
+      "lang": "CHS",
+      "va": "刘三木"
+    },
+    {
+      "lang": "JP",
+      "va": "内田雄馬"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Jeong-min"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ELEMENT_MASTERY",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1002.9701,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 19.5888,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.9475,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

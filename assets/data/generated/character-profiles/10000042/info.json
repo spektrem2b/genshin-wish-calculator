@@ -1,0 +1,137 @@
+{
+  "id": "10000042",
+  "name": {
+    "EN": "Keqing",
+    "CHS": "刻晴",
+    "CHT": "刻晴",
+    "DE": "Keqing",
+    "ES": "Keching",
+    "FR": "Keqing",
+    "ID": "Keqing",
+    "IT": "Keqing",
+    "JP": "刻晴",
+    "KR": "각청",
+    "PT": "Keqing",
+    "RU": "Кэ Цин",
+    "TH": "Keqing",
+    "TR": "Keqing",
+    "VI": "Keqing"
+  },
+  "nameEn": "Keqing",
+  "element": "Electro",
+  "weapon_type": "Sword",
+  "rarity": 5,
+  "region": "LIYUE",
+  "birthday": {
+    "month": 11,
+    "day": 20
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000042/avatar.webp",
+  "fullWish": "generated/character-profiles/10000042/full_wish.webp",
+  "fullWishObjectPosition": "50.6% 20.8%",
+  "title": {
+    "EN": "Driving Thunder",
+    "CHS": "霆霓快雨",
+    "CHT": "霆霓快雨",
+    "DE": "Donnerwetter",
+    "ES": "La Conductora del Trueno",
+    "FR": "Ardeur du tonnerre",
+    "ID": "Driving Thunder",
+    "IT": "Dominatrice del tuono",
+    "JP": "疾雷快雨",
+    "KR": "질뢰쾌우",
+    "PT": "Trovão Condutor",
+    "RU": "Раскаты грома",
+    "TH": "ผู้บงการสายฟ้า",
+    "TR": "Yıldırım Efendisi",
+    "VI": "Sấm Chớp Trước Cơn Mưa"
+  },
+  "description": {
+    "EN": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis's unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.",
+    "CHS": "璃月七星之一，玉衡星。对「帝君一言而决的璃月」颇有微词——但实际上，神挺欣赏她这样的人。",
+    "CHT": "璃月七星之一，玉衡星。對「帝君一言而決的璃月」頗有微詞——但實際上，神還滿欣賞她這樣的人。",
+    "DE": "Der Yuheng unter den Qixing von Liyue. Sie hat einiges zur Regentschaft von Rex Lapis, der sich nur selten zeigt, zu sagen. Man muss aber gestehen, dass Götter solche Menschen zu schätzen wissen.",
+    "ES": "El Equilibrio Terrenal de las Siete Estrellas de Liyue. Tiene su opinión sobre el gobierno de Rex Lapis en Liyue, pero, en verdad, a los dioses les gustan bastante los escépticos como ella.",
+    "FR": "L'Alioth, l'une des Sept Étoiles de Liyue. L'Alioth critique à mots couverts l'idée que Liyue suive à la lettre la parole du Souverain de la Roche, mais ce dernier apprécie justement ce genre de personnes.",
+    "ID": "Yuheng dari Liyue Qixing, dia punya banyak hal yang ingin dikatakan mengenai Rex Lapis yang memerintah Liyue- dan pada kenyataannya, para Dewa mengagumi orang-orang sepertinya.",
+    "IT": "La Yuheng delle Sette Stelle di Liyue, Keqing avrebbe molto da dire sull'approccio unilaterale di Rex Lapis ai processi decisionali di Liyue. In realtà, gli dèi ammirano parecchio gli scettici come lei.",
+    "JP": "「璃月七星」の一人、「玉衡」。「帝君の一言で決まる璃月」に不満を持っている——だが実のところ、神は彼女のような者を高く評価している。",
+    "KR": "리월 칠성 중 한 명인 옥형성. 「제군이 모든 걸 결정하는 리월」에 불만을 가지고 있다——그러나 사실 신은 이러한 그녀를 꽤 맘에 들어 한다.",
+    "PT": "A Yuheng dos Qixing de Liyue. Tem muito a dizer sobre o Rex Lapis governando Liyue com apenas uma palavra, mas na verdade, esse deus admira muito esses céticos.",
+    "RU": "Нефритовое Равновесие группировки Цисин в Ли Юэ. У неё есть что сказать против «Властелина Камня, правящего Ли Юэ лишь словом», но, оказывается, боги любят таких скептиков, как она.",
+    "TH": "Yuheng หนึ่งใน Liyue Qixing มักจะไม่พอใจกับสภาพของ \"Liyue ที่ตัดสินทุกอย่างตามคำพูดของราชา\" เสมอ—แต่ในความเป็นจริงแล้ว ท่านเทพชื่นชมคนแบบเธอมากทีเดียว",
+    "TR": "Liyue'nin Yedi Yıldızından biri olan Yuheng. Keqing, Rex Lapis'in tek taraflı Liyue politikaları hakkında söyleyecek çok fazla söze sahip. Ancak gerçekte, tanrılar onun gibi şüphecilere hayranlık duyar.",
+    "VI": "Ngọc Hành Tinh, một trong Thất Tinh Liyue. Đối với việc \"Liyue hoàn toàn được quyết định bởi Đế Quân\" có chút không hài lòng... nhưng trên thực tế, Thần cũng rất coi trọng những người như cô."
+  },
+  "constellationName": {
+    "EN": "Trulla Cementarii",
+    "CHS": "金紫定垂座",
+    "CHT": "金紫定垂座",
+    "DE": "Trulla Cementarii",
+    "ES": "Trulla Cementarii",
+    "FR": "Trulla Cementarii",
+    "ID": "Trulla Cementarii",
+    "IT": "Trulla Cementarii",
+    "JP": "紫金錘重座",
+    "KR": "금자정수자리",
+    "PT": "Trulla Cementarii",
+    "RU": "Громовой Стилет",
+    "TH": "Trulla Cementarii",
+    "TR": "Çekül",
+    "VI": "Kim Tử Định Thùy"
+  },
+  "native": {
+    "EN": "Liyue Qixing",
+    "CHS": "璃月七星",
+    "CHT": "璃月七星",
+    "DE": "Qixing von Liyue",
+    "ES": "Siete Estrellas de Liyue",
+    "FR": "Sept Étoiles de Liyue",
+    "ID": "Liyue Qixing",
+    "IT": "Sette Stelle di Liyue",
+    "JP": "璃月七星",
+    "KR": "리월 칠성",
+    "PT": "Qixing de Liyue",
+    "RU": "Цисин",
+    "TH": "Liyue Qixing",
+    "TR": "Liyue'nin Yedi Yıldızı",
+    "VI": "Thất Tinh Liyue"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Rosie Day"
+    },
+    {
+      "lang": "CHS",
+      "va": "谢莹"
+    },
+    {
+      "lang": "JP",
+      "va": "喜多村英梨"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Bo-hee"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_CRITICAL_HURT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1020.0524,
+      "growthType": "GROW_CURVE_HP_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 25.137,
+      "growthType": "GROW_CURVE_ATTACK_S5"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.2232,
+      "growthType": "GROW_CURVE_HP_S5"
+    }
+  ]
+}

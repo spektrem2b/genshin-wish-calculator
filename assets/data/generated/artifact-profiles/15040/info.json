@@ -1,0 +1,69 @@
+{
+  "id": 15040,
+  "name": {
+    "EN": "Finale of the Deep Galleries",
+    "CHS": "深廊终曲",
+    "CHT": "深廊終曲",
+    "DE": "Finale der tiefen Korridore",
+    "ES": "Réquiem del Corredor",
+    "FR": "Finale des galeries profondes",
+    "ID": "Finale of the Deep Galleries",
+    "IT": "Finale delle gallerie profonde",
+    "JP": "深廊の終曲",
+    "KR": "깊은 회랑의 피날레",
+    "PT": "Epílogo do Corredor",
+    "RU": "Финал галерей глубин",
+    "TH": "Finale of the Deep Galleries",
+    "TR": "Derin Geçitlerin Sonu",
+    "VI": "Đoạn Kết Hành Lang Sâu"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15040/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Cryo DMG Bonus +15%",
+        "CHS": "获得15%冰元素伤害加成。",
+        "CHT": "獲得15%冰元素傷害加成。",
+        "DE": "#Erhöht den Kryo-Schaden um 15 %.",
+        "ES": "Bono de Daño Cryo +15%.",
+        "FR": "Confère un bonus de DGT Cryo de 15 %.",
+        "ID": "Cryo DMG Bonus +15%",
+        "IT": "Bonus DAN da Cryo +15%.",
+        "JP": "氷元素ダメージ+15%。",
+        "KR": "얼음 원소 피해 보너스+15%",
+        "PT": "Bônus de Dano Cryo +15%",
+        "RU": "Даёт 15% бонус Крио урона.",
+        "TH": "ได้รับโบนัสความเสียหายน้ำแข็ง 15%",
+        "TR": "+%15 Buz Hasarı Bonusu.",
+        "VI": "Tăng sát thương nguyên tố Băng 15%"
+      },
+      "affixId": "2150400"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When the equipping character has 0 Elemental Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field.",
+        "CHS": "装备者的元素能量为0时，普通攻击造成的伤害提升60%，元素爆发造成的伤害提升60%。装备者的普通攻击造成伤害后，上述元素爆发伤害提升效果将失效6秒；装备者的元素爆发造成伤害后，上述普通攻击伤害提升效果将失效6秒。角色处于队伍后台也能触发。",
+        "CHT": "裝備者的元素能量為0時，普通攻擊造成的傷害提升60%，元素爆發造成的傷害提升60%。裝備者的普通攻擊造成傷害後，上述元素爆發傷害提升效果將失效6秒。裝備者的元素爆發造成傷害後，上述普通攻擊傷害提升效果將失效6秒。角色處於隊伍後臺也能觸發。",
+        "DE": "#Erhöht den mit Standardangriffen verursachten Schaden um 60 % und den mit Spezialfähigkeiten verursachten Schaden um 60 %, wenn die Elementarenergie des Trägers 0 Punkte beträgt. Macht den Schadenbonus für Spezialfähigkeiten 6 s lang unwirksam, wenn der Träger mit seinem Standardangriff Schaden verursacht. Macht den Schadensbonus für Standardangriffe 6 s lang unwirksam, wenn der Träger mit seiner Spezialfähigkeit Schaden verursacht. Kann auch ausgelöst werden, wenn sich die Figur inaktiv in der Truppe befindet.",
+        "ES": "#Cuando el portador de este conjunto tiene 0 pts. de Energía Elemental, tanto el daño de su Ataque Normal como el de su Habilidad Definitiva aumentan en un 60%. Cuando dicho portador inflige daño con su Ataque Normal, el aumento de daño de la Habilidad Definitiva se anulará durante 6 s. Después de que el portador inflija daño con su Habilidad Definitiva, el aumento de daño del Ataque Normal anteriormente mencionado se anulará durante 6 s. Este efecto puede activarse incluso cuando el personaje que lleva este conjunto está en tu equipo pero no en uso.",
+        "FR": "Lorsque le personnage équipé de l'artéfact a 0 pt d'énergie élémentaire, les DGT infligés par les attaques normales et les déchaînements élémentaires augmentent de 60 %. Le bonus ainsi accordé aux déchaînements élémentaires s'arrête pendant 6 s après que le personnage équipé de l'artéfact inflige des DGT grâce à une attaque normale. De même, le bonus ainsi accordé aux attaques normales s'arrête pendant 6 s après que le personnage équipé de l'artéfact inflige des DGT grâce à un déchaînement élémentaire. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Saat Karakter yang mengenakan memiliki 0 Energy, maka DMG Normal Attack meningkat 60% dan DMG Elemental Burst meningkat 60%. Setelah Karakter yang mengenakan mengakibatkan DMG dengan Normal Attack, maka efek peningkatan DMG Elemental Burst di atas akan hilang selama 6 detik. Setelah Karakter yang mengenakan mengakibatkan DMG dengan Elemental Burst, maka efek peningkatan DMG Normal Attack di atas akan hilang selama 6 detik. Efek-efek ini tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Quando l'energia elementale del personaggio è pari a zero, i DAN da attacco normale e da Tripudio elementale aumentano di un 60%. Dopo aver inflitto DAN da attacco normale, l'effetto relativo al Tripudio elementale si disattiva per 6 s. Allo stesso modo, dopo aver inflitto DAN da Tripudio elementale, l'effetto relativo agli attacchi normali si disattiva per la stessa quantità di tempo. L'effetto può attivarsi anche se il personaggio che equipaggia il set non è in campo.",
+        "JP": "装備者の元素エネルギーが0の時、通常攻撃ダメージ+60%、元素爆発ダメージ+60%。装備者の通常攻撃がダメージを与えた後、上記元素爆発ダメージアップ効果は6秒間無効になる。装備者の元素爆発がダメージを与えた後、上記通常攻撃ダメージアップ効果は6秒間無効になる。キャラクターが待機中でも発動できる。",
+        "KR": "장착 캐릭터의 원소 에너지가 0pt일 시, 일반 공격으로 주는 피해가 60%, 원소폭발로 주는 피해가 60% 증가한다. 장착 캐릭터가 일반 공격으로 피해를 주면 상술한 원소폭발 피해 증가 효과는 6초 동안 적용되지 않는다. 장착 캐릭터가 원소폭발로 피해를 주면 상술한 일반 공격 피해 증가 효과는 6초 동안 적용되지 않는다. 장착 캐릭터가 대기 상태 시에도 발동된다",
+        "PT": "Quando a Energia Elemental do personagem que está com esse conjunto equipado for 0, aumenta o Dano causado por seu Ataque Normal em 60%, e o Dano causado pelo Supremo em 60%. Depois que o personagem que está com esse conjunto equipado causar Dano de Ataque Normal, o efeito de aumento de Dano de Supremo desaparecerá por 6s, e o efeito de aumento de Dano de Ataque Normal também desaparecerá por 6s. Esse efeito pode ser desencadeado, ainda que o personagem não esteja ativo.",
+        "RU": "Когда энергия экипированного персонажа равна 0, урон обычной атаки и взрыва стихии повышается на 60%. После того как экипированный персонаж наносит урон обычной атакой, данный эффект на 6 сек. перестаёт применяться для взрыва стихии. После того как экипированный персонаж наносит урон взрывом стихии, данный эффект на 6 сек. перестаёт применяться для обычной атаки. Этот эффект может возникнуть, даже если экипированный персонаж вне поля боя.",
+        "TH": "เมื่อพลังงานธาตุของผู้สวมใส่เป็น 0 ความเสียหายที่เกิดจากการโจมตีปกติจะเพิ่มขึ้น 60% และความเสียหายที่เกิดจากท่าไม้ตายจะเพิ่มขึ้น 60% โดยหลังจากที่การโจมตีปกติของผู้สวมใส่สร้างความเสียหาย เอฟเฟกต์เพิ่มความเสียหายของท่าไม้ตายข้างต้นจะใช้ไม่ได้เป็นเวลา 6 วินาที; หลังจากที่ท่าไม้ตายของผู้สวมใส่สร้างความเสียหาย เอฟเฟกต์เพิ่มความเสียหายของการโจมตีปกติข้างต้นจะใช้ไม่ได้เป็นเวลา 6 วินาที ทั้งนี้เอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ตัวละครที่สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Kuşanan karakterin Element Enerjisi 0 olduğunda Normal Saldırı Hasarı ve Element Patlaması Hasarı %60 artar. Kuşanan karakter Normal Saldırı Hasarı verdiğinde Element Patlaması Hasarı bonusu 6 saniyeliğine kaldırılır. Kuşanan karakter Element Patlaması Hasarı verdiğinde Normal Saldırı Hasarı bonusu 6 saniyeliğine kaldırılır. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Khi Năng Lượng Nguyên Tố của người trang bị bằng 0, tăng 60% sát thương Tấn Công Thường, tăng 60% sát thương Kỹ Năng Nộ. Sau khi người trang bị gây sát thương Tấn Công Thường, hiệu quả tăng sát thương Kỹ Năng Nộ nêu trên sẽ mất hiệu lực trong 6s. Sau khi người trang bị gây sát thương Kỹ Năng Nộ, hiệu quả tăng sát thương Tấn Công Thường nêu trên sẽ mất hiệu lực trong 6s. Nhân vật đang dự bị cũng có thể kích hoạt hiệu quả này."
+      },
+      "affixId": "2150401"
+    }
+  ]
+}

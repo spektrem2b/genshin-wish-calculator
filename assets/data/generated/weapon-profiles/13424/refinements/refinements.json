@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Tales of the Tundra",
+    "CHS": "冰原的诸多故事",
+    "CHT": "冰原的諸多故事",
+    "DE": "Die vielen Geschichten der Eiswüste",
+    "ES": "Historias de la tundra",
+    "FR": "Contes de la toundra",
+    "ID": "Tales of the Tundra",
+    "IT": "Racconti della tundra",
+    "JP": "氷原にある数々の物語",
+    "KR": "얼음 벌판의 이야기들",
+    "PT": "Contos das Tundras",
+    "RU": "Истории тундры",
+    "TH": "Tales of the Tundra",
+    "TR": "Tundra Hikayeleri",
+    "VI": "Câu Chuyện Lãnh Nguyên"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 120.",
+        "CHS": "队伍中存在至少三种不同元素类型的角色时，元素精通提升120点。",
+        "CHT": "隊伍中存在至少三種不同元素類型的角色時，元素精通提升120點。",
+        "DE": "Erhöht die Elementarkunde um 120 Punkte, wenn sich mindestens drei Figuren verschiedener Elementartypen in der Truppe befinden.",
+        "ES": "#Cuando en el equipo hay al menos tres personajes de distinto tipo elemental, la Maestría Elemental aumenta en 120 pts.",
+        "FR": "Lorsque votre équipe contient des personnages d'au moins 3 types élémentaires différents, la maîtrise élémentaire augmente de 120 pts.",
+        "ID": "Saat ada Karakter dengan minimum tiga jenis elemen yang berbeda di dalam party, Elemental Mastery meningkat 120 poin.",
+        "IT": "Quando nel gruppo sono presenti personaggi di almeno 3 tipi elementali diversi, la maestria elementale aumenta di 120.",
+        "JP": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+120。",
+        "KR": "파티 내 각기 다른 원소 타입의 캐릭터가 3명 이상 존재할 경우, 원소 마스터리가 120pt 증가한다",
+        "PT": "Quando houver pelo menos 3 personagens de Tipos Elementais diferentes na equipe, aumenta a Proficiência Elemental em 120 pontos.",
+        "RU": "Если в отряде не менее 3 персонажей разных элементов, мастерство стихий увеличивается на 120 ед.",
+        "TH": "เมื่อในทีมมีตัวละครที่มีชนิดธาตุต่างกันอย่างน้อยสามธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 120 หน่วย",
+        "TR": "Grubunda farklı Element Türünde en az 3 karakter olduğunda Element Ustalığı 120 artar.",
+        "VI": "Khi trong đội tồn tại ít nhất 3 nhân vật không cùng loại nguyên tố, Tinh Thông Nguyên Tố tăng 120 điểm."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 150.",
+        "CHS": "队伍中存在至少三种不同元素类型的角色时，元素精通提升150点。",
+        "CHT": "隊伍中存在至少三種不同元素類型的角色時，元素精通提升150點。",
+        "DE": "Erhöht die Elementarkunde um 150 Punkte, wenn sich mindestens drei Figuren verschiedener Elementartypen in der Truppe befinden.",
+        "ES": "#Cuando en el equipo hay al menos tres personajes de distinto tipo elemental, la Maestría Elemental aumenta en 150 pts.",
+        "FR": "Lorsque votre équipe contient des personnages d'au moins 3 types élémentaires différents, la maîtrise élémentaire augmente de 150 pts.",
+        "ID": "Saat ada Karakter dengan minimum tiga jenis elemen yang berbeda di dalam party, Elemental Mastery meningkat 150 poin.",
+        "IT": "Quando nel gruppo sono presenti personaggi di almeno 3 tipi elementali diversi, la maestria elementale aumenta di 150.",
+        "JP": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+150。",
+        "KR": "파티 내 각기 다른 원소 타입의 캐릭터가 3명 이상 존재할 경우, 원소 마스터리가 150pt 증가한다",
+        "PT": "Quando houver pelo menos 3 personagens de Tipos Elementais diferentes na equipe, aumenta a Proficiência Elemental em 150 pontos.",
+        "RU": "Если в отряде не менее 3 персонажей разных элементов, мастерство стихий увеличивается на 150 ед.",
+        "TH": "เมื่อในทีมมีตัวละครที่มีชนิดธาตุต่างกันอย่างน้อยสามธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 150 หน่วย",
+        "TR": "Grubunda farklı Element Türünde en az 3 karakter olduğunda Element Ustalığı 150 artar.",
+        "VI": "Khi trong đội tồn tại ít nhất 3 nhân vật không cùng loại nguyên tố, Tinh Thông Nguyên Tố tăng 150 điểm."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 180.",
+        "CHS": "队伍中存在至少三种不同元素类型的角色时，元素精通提升180点。",
+        "CHT": "隊伍中存在至少三種不同元素類型的角色時，元素精通提升180點。",
+        "DE": "Erhöht die Elementarkunde um 180 Punkte, wenn sich mindestens drei Figuren verschiedener Elementartypen in der Truppe befinden.",
+        "ES": "#Cuando en el equipo hay al menos tres personajes de distinto tipo elemental, la Maestría Elemental aumenta en 180 pts.",
+        "FR": "Lorsque votre équipe contient des personnages d'au moins 3 types élémentaires différents, la maîtrise élémentaire augmente de 180 pts.",
+        "ID": "Saat ada Karakter dengan minimum tiga jenis elemen yang berbeda di dalam party, Elemental Mastery meningkat 180 poin.",
+        "IT": "Quando nel gruppo sono presenti personaggi di almeno 3 tipi elementali diversi, la maestria elementale aumenta di 180.",
+        "JP": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+180。",
+        "KR": "파티 내 각기 다른 원소 타입의 캐릭터가 3명 이상 존재할 경우, 원소 마스터리가 180pt 증가한다",
+        "PT": "Quando houver pelo menos 3 personagens de Tipos Elementais diferentes na equipe, aumenta a Proficiência Elemental em 180 pontos.",
+        "RU": "Если в отряде не менее 3 персонажей разных элементов, мастерство стихий увеличивается на 180 ед.",
+        "TH": "เมื่อในทีมมีตัวละครที่มีชนิดธาตุต่างกันอย่างน้อยสามธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 180 หน่วย",
+        "TR": "Grubunda farklı Element Türünde en az 3 karakter olduğunda Element Ustalığı 180 artar.",
+        "VI": "Khi trong đội tồn tại ít nhất 3 nhân vật không cùng loại nguyên tố, Tinh Thông Nguyên Tố tăng 180 điểm."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 210.",
+        "CHS": "队伍中存在至少三种不同元素类型的角色时，元素精通提升210点。",
+        "CHT": "隊伍中存在至少三種不同元素類型的角色時，元素精通提升210點。",
+        "DE": "Erhöht die Elementarkunde um 210 Punkte, wenn sich mindestens drei Figuren verschiedener Elementartypen in der Truppe befinden.",
+        "ES": "#Cuando en el equipo hay al menos tres personajes de distinto tipo elemental, la Maestría Elemental aumenta en 210 pts.",
+        "FR": "Lorsque votre équipe contient des personnages d'au moins 3 types élémentaires différents, la maîtrise élémentaire augmente de 210 pts.",
+        "ID": "Saat ada Karakter dengan minimum tiga jenis elemen yang berbeda di dalam party, Elemental Mastery meningkat 210 poin.",
+        "IT": "Quando nel gruppo sono presenti personaggi di almeno 3 tipi elementali diversi, la maestria elementale aumenta di 210.",
+        "JP": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+210。",
+        "KR": "파티 내 각기 다른 원소 타입의 캐릭터가 3명 이상 존재할 경우, 원소 마스터리가 210pt 증가한다",
+        "PT": "Quando houver pelo menos 3 personagens de Tipos Elementais diferentes na equipe, aumenta a Proficiência Elemental em 210 pontos.",
+        "RU": "Если в отряде не менее 3 персонажей разных элементов, мастерство стихий увеличивается на 210 ед.",
+        "TH": "เมื่อในทีมมีตัวละครที่มีชนิดธาตุต่างกันอย่างน้อยสามธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 210 หน่วย",
+        "TR": "Grubunda farklı Element Türünde en az 3 karakter olduğunda Element Ustalığı 210 artar.",
+        "VI": "Khi trong đội tồn tại ít nhất 3 nhân vật không cùng loại nguyên tố, Tinh Thông Nguyên Tố tăng 210 điểm."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 240.",
+        "CHS": "队伍中存在至少三种不同元素类型的角色时，元素精通提升240点。",
+        "CHT": "隊伍中存在至少三種不同元素類型的角色時，元素精通提升240點。",
+        "DE": "Erhöht die Elementarkunde um 240 Punkte, wenn sich mindestens drei Figuren verschiedener Elementartypen in der Truppe befinden.",
+        "ES": "#Cuando en el equipo hay al menos tres personajes de distinto tipo elemental, la Maestría Elemental aumenta en 240 pts.",
+        "FR": "Lorsque votre équipe contient des personnages d'au moins 3 types élémentaires différents, la maîtrise élémentaire augmente de 240 pts.",
+        "ID": "Saat ada Karakter dengan minimum tiga jenis elemen yang berbeda di dalam party, Elemental Mastery meningkat 240 poin.",
+        "IT": "Quando nel gruppo sono presenti personaggi di almeno 3 tipi elementali diversi, la maestria elementale aumenta di 240.",
+        "JP": "チーム内に異なる元素タイプのキャラクターが3名以上いる時、元素熟知+240。",
+        "KR": "파티 내 각기 다른 원소 타입의 캐릭터가 3명 이상 존재할 경우, 원소 마스터리가 240pt 증가한다",
+        "PT": "Quando houver pelo menos 3 personagens de Tipos Elementais diferentes na equipe, aumenta a Proficiência Elemental em 240 pontos.",
+        "RU": "Если в отряде не менее 3 персонажей разных элементов, мастерство стихий увеличивается на 240 ед.",
+        "TH": "เมื่อในทีมมีตัวละครที่มีชนิดธาตุต่างกันอย่างน้อยสามธาตุ ความชำนาญธาตุจะเพิ่มขึ้น 240 หน่วย",
+        "TR": "Grubunda farklı Element Türünde en az 3 karakter olduğunda Element Ustalığı 240 artar.",
+        "VI": "Khi trong đội tồn tại ít nhất 3 nhân vật không cùng loại nguyên tố, Tinh Thông Nguyên Tố tăng 240 điểm."
+      }
+    }
+  ]
+}

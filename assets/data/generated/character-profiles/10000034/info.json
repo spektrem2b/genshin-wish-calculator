@@ -1,0 +1,137 @@
+{
+  "id": "10000034",
+  "name": {
+    "EN": "Noelle",
+    "CHS": "诺艾尔",
+    "CHT": "諾艾爾",
+    "DE": "Noelle",
+    "ES": "Noelle",
+    "FR": "Noëlle",
+    "ID": "Noelle",
+    "IT": "Noelle",
+    "JP": "ノエル",
+    "KR": "노엘",
+    "PT": "Noelle",
+    "RU": "Ноэлль",
+    "TH": "Noelle",
+    "TR": "Noelle",
+    "VI": "Noelle"
+  },
+  "nameEn": "Noelle",
+  "element": "Geo",
+  "weapon_type": "Claymore",
+  "rarity": 4,
+  "region": "MONDSTADT",
+  "birthday": {
+    "month": 3,
+    "day": 21
+  },
+  "release": "2020-09-27T22:00:00",
+  "icon": "generated/character-profiles/10000034/avatar.webp",
+  "fullWish": "generated/character-profiles/10000034/full_wish.webp",
+  "fullWishObjectPosition": "50.1% 34.5%",
+  "title": {
+    "EN": "Chivalric Blossom",
+    "CHS": "未授勋之花",
+    "CHT": "未授勛之花",
+    "DE": "Knospe des Rittertums",
+    "ES": "La Heroína no Reconocida",
+    "FR": "Fleur chevaleresque",
+    "ID": "Chivalric Blossom",
+    "IT": "Fiore cavalleresco",
+    "JP": "騎士道の花咲",
+    "KR": "수여받지 못한 꽃",
+    "PT": "Flor da Cavalaria",
+    "RU": "Нераспустившийся цветок",
+    "TH": "ดอกไม้ที่หาญกล้า",
+    "TR": "Şövalye Çiçeği",
+    "VI": "Đóa Hoa Chưa Vinh Danh"
+  },
+  "description": {
+    "EN": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
+    "CHS": "「西风骑士团」的可靠女仆，梦想有一天能成为正式的骑士。",
+    "CHT": "「西風騎士團」的可靠女僕，夢想有一天能成為正式的騎士。",
+    "DE": "Eine verlässliche Magd des Ordo Favonius, die eines Tages gern ein richtiger Ritter werden will.",
+    "ES": "La criada de confianza de los Caballeros de Favonius. Sueña con convertirse algún día en una de ellos.",
+    "FR": "Une jeune fille travaillant comme servante à l'Ordre de Favonius. Elle a toujours rêvé de devenir un jour chevalier.",
+    "ID": "Seorang pelayan yang bekerja di Knights of Favonius, memiliki impian untuk menjadi seorang Knight suatu hari kelak.",
+    "IT": "Una cameriera al servizio dei Cavalieri di Favonius. Sogna di unirsi ai loro ranghi, un giorno.",
+    "JP": "「西風騎士団」の頼もしいメイド。いつか本当の騎士になることを夢見ている。",
+    "KR": "「페보니우스 기사단」의 믿음직한 메이드. 언젠가는 정식으로 기사가 되겠다는 꿈을 가지고 있다",
+    "PT": "Uma empregada em serviço dos Cavaleiros de Favonius que sonha em se juntar aos cavaleiros um dia.",
+    "RU": "Горничная Ордо Фавониус, которая страстно мечтает однажды пополнить ряды ордена.",
+    "TH": "สาวใช้ผู้เป็นที่พึ่งพาได้เสมอของ \"กองอัศวินแห่ง Favonius\" มีความฝันว่าสักวันหนึ่งจะเป็นอัศวินอย่างเต็มตัวให้ได้",
+    "TR": "Favonius Şövalyelerine sadakatle hizmet eden bir hizmetçi. Bir gün tam teşekküllü bir şövalye olmayı hayal ediyor.",
+    "VI": "Hầu gái đáng tin cậy của Đội Kỵ Sĩ Tây Phong, mơ ước một ngày nào đó sẽ trở thành kỵ sĩ chính thức."
+  },
+  "constellationName": {
+    "EN": "Parma Cordis",
+    "CHS": "心护座",
+    "CHT": "心護座",
+    "DE": "Parma Cordis",
+    "ES": "Parma Cordis",
+    "FR": "Parma Cordis",
+    "ID": "Parma Cordis",
+    "IT": "Parma Cordis",
+    "JP": "心護座",
+    "KR": "심호자리",
+    "PT": "Parma Cordis",
+    "RU": "Душевный Щит",
+    "TH": "Parma Cordis",
+    "TR": "Yüreğin Kalkanı",
+    "VI": "Cung Hộ Tâm"
+  },
+  "native": {
+    "EN": "Knights of Favonius",
+    "CHS": "西风骑士团",
+    "CHT": "西風騎士團",
+    "DE": "Ordo Favonius",
+    "ES": "Caballeros de Favonius",
+    "FR": "Ordre de Favonius",
+    "ID": "Knights of Favonius",
+    "IT": "Cavalieri di Favonius",
+    "JP": "西風騎士団",
+    "KR": "페보니우스 기사단",
+    "PT": "Cavaleiros de Favonius",
+    "RU": "Ордо Фавониус",
+    "TH": "กองอัศวินแห่ง Favonius",
+    "TR": "Favonius Şövalyeleri",
+    "VI": "Đội Kỵ Sĩ Tây Phong"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Laura Faye Smith"
+    },
+    {
+      "lang": "CHS",
+      "va": "宴宁"
+    },
+    {
+      "lang": "JP",
+      "va": "高尾奏音"
+    },
+    {
+      "lang": "KR",
+      "va": "Lee Bo-hee"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_DEFENSE_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1012.088,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.0272,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 66.95325,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

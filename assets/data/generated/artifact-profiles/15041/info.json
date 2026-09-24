@@ -1,0 +1,69 @@
+{
+  "id": 15041,
+  "name": {
+    "EN": "Night of the Sky's Unveiling",
+    "CHS": "穹境示现之夜",
+    "CHT": "穹境示現之夜",
+    "DE": "Nacht der himmlischen Enthüllung",
+    "ES": "Noche de la Revelación del Cielo",
+    "FR": "Nuit de la révélation céleste",
+    "ID": "Night of the Sky's Unveiling",
+    "IT": "Notte della rivelazione celeste",
+    "JP": "天穹の顕現せし夜",
+    "KR": "하늘 경계가 드러난 밤",
+    "PT": "Noite da Revelação do Céu",
+    "RU": "Ночь открытия неба",
+    "TH": "Night of the Sky's Unveiling",
+    "TR": "Gökyüzü Duvağının Açıldığı Gece",
+    "VI": "Đêm Trời Hé Lộ"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15041/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Elemental Mastery by 80.",
+        "CHS": "元素精通提高80点。",
+        "CHT": "元素精通提高80點。",
+        "DE": "Erhöht Elementarkunde um 80 Punkte.",
+        "ES": "Maestría Elemental +80 pts.",
+        "FR": "Augmente la maîtrise élémentaire de 80 pts.",
+        "ID": "Elemental Mastery +80 poin.",
+        "IT": "Maestria elementale +80.",
+        "JP": "元素熟知+80。",
+        "KR": "원소 마스터리+80pt",
+        "PT": "Aumenta a Proficiência Elemental em 80.",
+        "RU": "Увеличивает мастерство стихий на 80 ед.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย",
+        "TR": "Element Ustalığını 80 artırır.",
+        "VI": "Tăng 80 điểm Tinh Thông Nguyên Tố."
+      },
+      "affixId": "2150410"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When nearby party members trigger Lunar Reactions, if the equipping character is on the field, gain the Gleaming Moon: Intent effect for 4s: Increases CRIT Rate by 15%/30% when the party's Moonsign is Nascent Gleam/Ascendant Gleam. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack.",
+        "CHS": "队伍中附近的角色触发月曜反应时，若装备者在场上，将获得持续4秒的「月辉明光·蓄念」效果：队伍的月兆为初辉/满辉时，暴击率提升15%/30%。队伍中的角色每拥有一种不同的「月辉明光」效果，队伍中的所有角色触发的月曜反应造成的伤害提升10%。由「月辉明光」产生的效果无法叠加。",
+        "CHT": "隊伍中附近的角色觸發月曜反應時，若裝備者在場上，將獲得持續4秒的「月輝明光·蓄念」效果：隊伍的月兆為初輝/滿輝時，暴擊率提升15%/30%。隊伍中的角色每擁有一種不同的「月輝明光」效果，隊伍中的所有角色觸發的月曜反應造成的傷害提升10%。由「月輝明光」產生的效果無法疊加。",
+        "DE": "#Verleiht beim Auslösen der Mondleuchten-Reaktionen durch ein Truppenmitglied in der Nähe, wenn sich der Träger auf dem Feld befindet, 4 s lang den Effekt „Helles Mondlicht – Gedankensammelsurium“: Erhöht, wenn das Mondomen der Truppe „Anfänglicher Glanz“ / „Reifer Glanz“ ist, die KT um 15 % / 30 %. Erhöht für jeden unterschiedlichen Effekt des „Hellen Mondlichts“ der Truppenmitglieder den Schaden der von allen Truppenmitgliedern ausgelösten Mondleuchten-Reaktionen um 10 %. Der durch „Helles Mondlicht“ ausgelöste Effekt ist nicht stapelbar.",
+        "ES": "#Cuando un personaje cercano del equipo causa una Reacción Lunar, si el portador de este conjunto está en uso, obtiene durante 4 s el efecto de “luna refulgente: cavilación”, de manera que, cuando el presagio lunar del equipo es resplandor naciente/resplandor ascendente, la Prob. CRIT aumenta en un 15/30% respectivamente. Por cada efecto de luna refulgente diferente que tengan los personajes, el daño de las Reacciones Lunares de todos los miembros del equipo aumentará en un 10%. Los efectos producidos por luna refulgente no se pueden acumular.",
+        "FR": "Lorsqu'un personnage de l'équipe à proximité déclenche une réaction sélène alors que le personnage équipé de l'artéfact est sur le terrain, ce dernier obtient l'effet Lune étincelante « Intention » pendant 4 s : augmente le taux CRIT de 15 % ou de 30 % lorsque la signelune de l'équipe est respectivement de type Lueur naissante ou ascendante. De plus, les DGT infligés par les réactions sélènes déclenchées par tous les personnages de l'équipe augmentent de 10 % pour chaque lune étincelante de type différent des personnages de l'équipe. Les bonus accordés par l'effet Lune étincelante ne se cumulent pas.",
+        "ID": "Saat Karakter di sekitar dalam party memicu reaksi Lunar dan jika Karakter yang mengenakan berada di medan pertempuran, maka Karakter ini akan mendapatkan efek Gleaming Moon: Intent selama 4 detik. Gleaming Moon: Intent: Saat Moonsign milik party adalah Nascent Gleam/Ascendant Gleam, CRIT Rate +15%/30%. Untuk setiap efek Gleaming Moon berbeda yang dimiliki Karakter di dalam party, DMG reaksi Lunar yang diakibatkan seluruh Karakter dalam party +10%. Efek yang dihasilkan oleh Gleaming Moon tidak dapat ditumpuk.",
+        "IT": "#Se il personaggio che equipaggia il set è in campo, quando i membri vicini del gruppo innescano delle reazioni lunari si ottiene l'effetto Luna splendente: Intento per 4 s, che aumenta il tasso di CRIT di un 15%/30% quando il Presagio lunare del gruppo è Barlume nascente/Barlume ascendente. I DAN delle reazioni lunari di tutti i membri del gruppo aumentano di un 10% per ciascun tipo di effetto Luna splendente presente nel gruppo. Gli effetti di Luna splendente non sono cumulabili.",
+        "JP": "付近にいるチーム内キャラクターが月反応を起こした時に装備者がフィールドにいる場合、4秒間継続する「月輝明光・蓄念」効果を獲得する。「月輝明光・蓄念」：チームの月兆が初照/満照の時、会心率+15%/30%。チーム内キャラクターの「月輝明光」効果が1種類存在するごとに、チーム内キャラクターが起こす月反応のダメージ+10%。「月輝明光」によって生じた効果は重ね掛け不可。",
+        "KR": "주변에 있는 파티 내 캐릭터가 달빛 반응 발동 시, 장착 캐릭터가 필드 위에 있을 경우 4초 동안 지속되는 「월광·음모」 효과를 획득한다: 파티의 달빛 징조가 초승/보름인 경우, 치명타 확률이 15%/30% 증가한다. 파티 내 캐릭터가 서로 다른 「월광」 효과를 1개 보유할 때마다, 파티 내 모든 캐릭터가 발동한 달빛 반응으로 주는 피해가 10% 증가한다. 「월광」으로 생성된 효과는 중첩되지 않는다",
+        "PT": "Quando um personagem próximo da equipe desencadear Reações Lunares, se o personagem que está com esse conjunto equipado estiver ativo, obtém por 4s o efeito \"Resplandecer Lunar: Memórias Cheias\": quando o Presságio Lunar da equipe estiver no Reluzir Inicial/Cheio, aumenta a Taxa CRIT em 15%/30%. Para cada efeito Resplandecer Lunar diferente que o membro da equipe possuir, aumenta o Dano causado pelas Reações Lunares em 10% para todos os membros da equipe. O efeito gerado por Resplandecer Lunar não é acumulável.",
+        "RU": "Если персонажи отряда поблизости вызывают Лунные реакции, когда экипированный персонаж активен, на 4 сек. активируется эффект Сияющей луны: Намерение: если Лунное знамение отряда - Зарождающееся сияние/Высшее сияние, шанс крит. попадания повышается на 15%/30%. За каждый активный эффект Сияющей луны разных видов в отряде урон Лунных реакций всех персонажей отряда увеличивается на 10%. Эффекты Сияющей луны не складываются.",
+        "TH": "เมื่อตัวละครในทีมที่อยู่ใกล้เคียงทำให้เกิดปฏิกิริยาประกายจันทร์ หากผู้สวมใส่อยู่ในสนาม จะได้รับเอฟเฟกต์ Gleaming Moon: Intent เป็นเวลา 4 วินาที: เมื่อลัคนาจันทร์ของทีมเป็นแย้มแสง/จรัสแสง อัตราคริจะเพิ่มขึ้น 15%/30% ทั้งนี้ ความเสียหายของปฏิกิริยาประกายจันทร์ที่ตัวละครทั้งหมดในทีมสร้างจะเพิ่มขึ้น 10% ตามเอฟเฟกต์ Gleaming Moon แต่ละชนิดที่ตัวละครในทีมมี โดยเอฟเฟกต์ที่เกิดจาก Gleaming Moon จะไม่สามารถซ้อนทับกันได้",
+        "TR": "Yakındaki grup üyeleri Ay Tepkimeleri tetiklediğinde kuşanan karakter alandaysa 4sn boyunca Ay Parıltısı: Niyet etkisi kazanır: Ay Sembolü, İlk Parıltı/Yükselen Parıltı olduğunda 4sn boyunca Kritik Oranı %15/%30 artar. Tüm grup üyelerinin Ay Tepkimesi Hasarı, üyelerin sahip olduğu farklı her Ay Parıltısı etkisi için %10 artar. Ay Parıltısı etkileri birikmez.",
+        "VI": "Khi nhân vật trong đội ở gần kích hoạt phản ứng Nguyệt, nếu người trang bị trong trận, sẽ nhận được hiệu quả \"Trăng Sáng - Ý Niệm\" trong 4s: Khi Nguyệt Triệu của đội là Hé Sáng/Rực Sáng, sẽ tăng 15%/30% Tỷ Lệ Bạo Kích. Với mỗi hiệu quả \"Trăng Sáng\" khác nhau mà nhân vật trong đội sở hữu, tất cả nhân vật trong đội sẽ tăng 10% sát thương phản ứng Nguyệt. Hiệu quả sản sinh từ \"Trăng Sáng\" sẽ không thể cộng dồn."
+      },
+      "affixId": "2150411"
+    }
+  ]
+}

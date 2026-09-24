@@ -1,0 +1,137 @@
+{
+  "id": "10000050",
+  "name": {
+    "EN": "Thoma",
+    "CHS": "托马",
+    "CHT": "托馬",
+    "DE": "Thoma",
+    "ES": "Thoma",
+    "FR": "Thomas",
+    "ID": "Thoma",
+    "IT": "Thoma",
+    "JP": "トーマ",
+    "KR": "토마",
+    "PT": "Thoma",
+    "RU": "Тома",
+    "TH": "Thoma",
+    "TR": "Thoma",
+    "VI": "Thoma"
+  },
+  "nameEn": "Thoma",
+  "element": "Pyro",
+  "weapon_type": "Polearm",
+  "rarity": 4,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 1,
+    "day": 9
+  },
+  "release": "2021-11-02T16:00:00",
+  "icon": "generated/character-profiles/10000050/avatar.webp",
+  "fullWish": "generated/character-profiles/10000050/full_wish.webp",
+  "fullWishObjectPosition": "46.9% 24.4%",
+  "title": {
+    "EN": "Protector From Afar",
+    "CHS": "渡来介者",
+    "CHT": "渡來介者",
+    "DE": "Beschützer aus der Ferne",
+    "ES": "El Protector de Tierras Lejanas",
+    "FR": "Protecteur venu de loin",
+    "ID": "Protector From Afar",
+    "IT": "Protettore venuto da lontano",
+    "JP": "渡来介者",
+    "KR": "바다 건너온 수호자",
+    "PT": "Protetor de Longe",
+    "RU": "Защитник издалека",
+    "TH": "ผู้พิทักษ์จากแดนไกล",
+    "TR": "Uzaktan Gelen Koruyucu",
+    "VI": "Người Bảo Vệ Phương Xa"
+  },
+  "description": {
+    "EN": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma.",
+    "CHS": "神里家的家政官，活跃在稻妻的「地头蛇」。",
+    "CHT": "神里家的家政官，活躍在稻妻的「地頭蛇」。",
+    "DE": "Der Haushälter des Kamisato-Klans und ein in Inazuma bekannter „Vermittler“.",
+    "ES": "El amo de llaves del clan Kamisato y un intermediario muy activo en Inazuma.",
+    "FR": "L'employé de maison du Clan Kamisato. Un « négociateur » bien connu à Inazuma.",
+    "ID": "Pengurus rumah tangga Klan Kamisato. Seorang \"kepala\" yang terkenal di Inazuma.",
+    "IT": "Il domestico del clan Kamisato. Un rinomato \"mediatore\" d'Inazuma.",
+    "JP": "神里家の家司。稲妻で活躍する「顔役」でもある。",
+    "KR": "카미사토 가문의 가사 관리원, 이나즈마의 「유명인」이다",
+    "PT": "O Empregado do Clã Kamisato e animado Mediador de Inazuma.",
+    "RU": "Управляющий клана Камисато. Известный в Инадзуме «местный авторитет».",
+    "TH": "พ่อบ้านผู้จัดการงานต่าง ๆ ภายในคฤหาสน์ของตระกูล Kamisato \"ผู้มีอิทธิพล\" ซึ่งเคลื่อนไหวใน Inazuma",
+    "TR": "Kamisato Klanının kahyası. Inazuma'da iyi bilinen bir \"iş bitirici\".",
+    "VI": "Quản gia của nhà Kamisato, \"thổ địa\" của Inazuma."
+  },
+  "constellationName": {
+    "EN": "Rubeum Scutum",
+    "CHS": "赤楯座",
+    "CHT": "赤楯座",
+    "DE": "Rubeum Scutum",
+    "ES": "Rubeum Scuta",
+    "FR": "Rubeum Scutum",
+    "ID": "Rubeum Scutum",
+    "IT": "Rubeum Scutum",
+    "JP": "赤楯座",
+    "KR": "붉은 방패자리",
+    "PT": "Rubeum Scutum",
+    "RU": "Красный Щит",
+    "TH": "Rubeum Scutum",
+    "TR": "Kırmızı Kalkan",
+    "VI": "Cung Xích Thuẫn"
+  },
+  "native": {
+    "EN": "Yashiro Commission",
+    "CHS": "社奉行",
+    "CHT": "社奉行",
+    "DE": "Yashiro-Verwaltung",
+    "ES": "Comisión Yashiro",
+    "FR": "Commission culturelle",
+    "ID": "Yashiro Commission",
+    "IT": "Commissione Yashiro",
+    "JP": "社奉行",
+    "KR": "야시로 봉행",
+    "PT": "Comissão Yashiro",
+    "RU": "Комиссия Ясиро",
+    "TH": "สำนัก Yashiro",
+    "TR": "Yashiro Heyeti",
+    "VI": "Hiệp Hội Yashiro"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Christian Banas"
+    },
+    {
+      "lang": "CHS",
+      "va": "张沛"
+    },
+    {
+      "lang": "JP",
+      "va": "森田成一"
+    },
+    {
+      "lang": "KR",
+      "va": "Ryu Seung-kon"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 866.2015,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 16.9176,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.9475,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

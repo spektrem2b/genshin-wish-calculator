@@ -1,0 +1,48 @@
+{
+  "id": 15010,
+  "name": {
+    "EN": "Prayers for Destiny",
+    "CHS": "祭水之人",
+    "CHT": "祭水之人",
+    "DE": "Wasseropfer",
+    "ES": "Ritual del Destino",
+    "FR": "Sacrifieur Hydro",
+    "ID": "Prayers for Destiny",
+    "IT": "Sacrificio di Hydro",
+    "JP": "水祭りの人",
+    "KR": "물을 모시는 자",
+    "PT": "Orações para o Destino",
+    "RU": "Шаман воды",
+    "TH": "Prayers for Destiny",
+    "TR": "Kader Duası",
+    "VI": "Người Tế Thủy"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/15010/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Affected by Hydro for 40% less time.",
+        "CHS": "受到的水元素附着效果的持续时间减少40%。",
+        "CHT": "受到的水元素附著效果的持續時間減少40%。",
+        "DE": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Hydro-Attribut um 40 %.",
+        "ES": "Los efectos de Hydro causados sobre ti duran un 40% menos.",
+        "FR": "Diminue la durée des effets Hydro subis de 40 %.",
+        "ID": "Mengurangi 40% durasi efek Hydro yang diterima.",
+        "IT": "Riduce la durata dell'effetto di Hydro di un 40%.",
+        "JP": "受けた水元素付着の効果継続時間-40%。",
+        "KR": "받는 물 원소 부착 효과 지속 시간이 40% 감소한다",
+        "PT": "Reduz a duração dos efeitos causados por Hydro em 40%.",
+        "RU": "Уменьшает длительность полученного Гидро эффекта на 40%.",
+        "TH": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุน้ำลง 40%",
+        "TR": "Su etkisinde kalma süresini %40 kısaltır.",
+        "VI": "Thời gian duy trì hiệu quả ấn nguyên tố Thủy giảm 40%."
+      },
+      "affixId": "2150100"
+    }
+  ]
+}

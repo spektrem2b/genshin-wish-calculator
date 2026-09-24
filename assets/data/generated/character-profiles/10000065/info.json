@@ -1,0 +1,137 @@
+{
+  "id": "10000065",
+  "name": {
+    "EN": "Kuki Shinobu",
+    "CHS": "久岐忍",
+    "CHT": "久岐忍",
+    "DE": "Kuki Shinobu",
+    "ES": "Kuki Shinobu",
+    "FR": "Kuki Shinobu",
+    "ID": "Kuki Shinobu",
+    "IT": "Kuki Shinobu",
+    "JP": "久岐忍",
+    "KR": "쿠키 시노부",
+    "PT": "Kuki Shinobu",
+    "RU": "Синобу",
+    "TH": "Kuki Shinobu",
+    "TR": "Kuki Shinobu",
+    "VI": "Kuki Shinobu"
+  },
+  "nameEn": "Kuki Shinobu",
+  "element": "Electro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "INAZUMA",
+  "birthday": {
+    "month": 7,
+    "day": 27
+  },
+  "release": "2022-06-21T15:00:00",
+  "icon": "generated/character-profiles/10000065/avatar.webp",
+  "fullWish": "generated/character-profiles/10000065/full_wish.webp",
+  "fullWishObjectPosition": "48.8% 27.6%",
+  "title": {
+    "EN": "Mender of Tribulations",
+    "CHS": "烦恼刈除",
+    "CHT": "煩惱刈除",
+    "DE": "Besänftigerin des Leids",
+    "ES": "La Resolutora de Apuros",
+    "FR": "Réparatrice d'afflictions",
+    "ID": "Mender of Tribulations",
+    "IT": "Risolutrice di ogni problema",
+    "JP": "煩悩刈除",
+    "KR": "번뇌의 제거자",
+    "PT": "Erradicadora das Preocupações",
+    "RU": "Избавительница",
+    "TH": "นักแก้ปัญหามือฉมัง",
+    "TR": "Dertlere Derman",
+    "VI": "Gạt Bỏ Phiền Não"
+  },
+  "description": {
+    "EN": "The capable and reliable Arataki Gang deputy leader - Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
+    "CHS": "干练可靠的「荒泷派」的副手——特别注明：干练可靠形容的不是「荒泷派」而是副手。",
+    "CHT": "幹練可靠的「荒瀧派」的副手——特別註明：幹練可靠形容的不是「荒瀧派」而是副手。",
+    "DE": "Die fähige und zuverlässige Stellvertreterin der „Arataki-Bande“. Beachte, dass diese Bezeichnungen nicht die Arataki-Bande an sich beschreiben, sondern allein ihre stellvertretende Anführerin.",
+    "ES": "La hábil y confiable subjefa de la Banda de Arataki. Menos mal que está ella, si no, la Banda de Arataki no tendría nada de “hábil” ni “confiable”.",
+    "FR": "La fiable et talentueuse cheffe adjointe du gang Arataki... Veuillez noter que ces adjectifs ne s'appliquent pas au gang Arataki à son ensemble, mais seulement à sa cheffe adjointe.",
+    "ID": "Orang nomor dua di Geng Arataki yang hebat dan bisa diandalkan. Catatan: yang hebat dan bisa diandalkan itu si orang nomor duanya, bukan kelompoknya. Tolong jangan keliru.",
+    "IT": "La capace e affidabile vice capo della Banda di Arataki. Ricorda: capace e affidabile non sono aggettivi che generalmente si addicono ai membri della Banda di Arataki, ma solo ed esclusivamente alla loro vice capo.",
+    "JP": "有能で信頼できる「荒瀧派」の二番手——注：「有能」と「信頼できる」は「荒瀧派」ではなく、二番手のことを表している。",
+    "KR": "노련하고 믿음직한 「아라타키파」의 조수 - 특별 설명: 노련하고 믿음직한 건 「아라타키파」가 아닌 조수를 의미한다",
+    "PT": "Uma talentosa e confiável ajudante da Gangue Arataki — Nota: Talentosa e confiável descreve a ajudante, mas não a Gangue Arataki.",
+    "RU": "Способная и надёжная помощница главаря банды Аратаки. Пожалуйста, обратите внимание, что «способная и надёжная» относится не к самой банде, а именно к помощнице главаря.",
+    "TH": "รองหัวหน้าผู้มีความสามารถ และเชื่อถือได้ของ \"แก๊ง Arataki\"... หมายเหตุพิเศษ: คนที่มีความสามารถ และเชื่อถือได้ไม่ใช่ตัว \"แก๊ง Arataki\" แต่เป็นรองหัวหน้า",
+    "TR": "\"Arataki Çetesi\"nin yetenekli ve güvenilir yardımcı lideri. Bu kısım önemli: Yetenekli ve güvenilir olan \"Arataki Çetesi\" değil, yardımcı lider.",
+    "VI": "Trợ thủ của Bang Arataki có năng lực và đáng tin cậy. Lưu ý: Mô tả có năng lực và đáng tin cậy không phải là Bang Arataki mà là trợ thủ."
+  },
+  "constellationName": {
+    "EN": "Tribulatio Demptio",
+    "CHS": "烦恼刈座",
+    "CHT": "煩惱刈座",
+    "DE": "Tribulatio Demptio",
+    "ES": "Tribulatio Demptio",
+    "FR": "Tribulatio Demptio",
+    "ID": "Tribulatio Demptio",
+    "IT": "Tribulatio Demptio",
+    "JP": "煩悩刈座",
+    "KR": "번뇌제거자리",
+    "PT": "Tribulatio Demptio",
+    "RU": "Приговор Проблемам",
+    "TH": "Tribulatio Demptio",
+    "TR": "Sorun Çözücü",
+    "VI": "Cung Phiền Não Ngải"
+  },
+  "native": {
+    "EN": "Arataki Gang",
+    "CHS": "荒泷派",
+    "CHT": "荒瀧派",
+    "DE": "Arataki-Bande",
+    "ES": "Banda de Arataki",
+    "FR": "Gang Arataki",
+    "ID": "Arataki Gang",
+    "IT": "Banda di Arataki",
+    "JP": "荒瀧派",
+    "KR": "아라타키파",
+    "PT": "Gangue Arataki",
+    "RU": "Банда Аратаки",
+    "TH": "แก๊ง Arataki",
+    "TR": "Arataki Çetesi",
+    "VI": "Bang Arataki"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Kira Buckland"
+    },
+    {
+      "lang": "CHS",
+      "va": "杨凝"
+    },
+    {
+      "lang": "JP",
+      "va": "水橋かおり"
+    },
+    {
+      "lang": "KR",
+      "va": "Kim Yool"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_HP_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 1030.3239,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 17.808,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 62.9475,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

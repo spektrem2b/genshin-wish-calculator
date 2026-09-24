@@ -1,0 +1,69 @@
+{
+  "id": 15043,
+  "name": {
+    "EN": "Aubade of Morningstar and Moon",
+    "CHS": "晨星与月的晓歌",
+    "CHT": "晨星與月的曉歌",
+    "DE": "Gesang von Stern und Mond",
+    "ES": "Alborada de la Estrella del Alba y la Luna",
+    "FR": "Aubade d'astre et de lune",
+    "ID": "Aubade of Morningstar and Moon",
+    "IT": "Aubade della stella del mattino e della luna",
+    "JP": "暁の星と月の歌",
+    "KR": "샛별과 달의 여명",
+    "PT": "Serenata das Estrelas e da Lua",
+    "RU": "Рассветная песнь звезды и луны",
+    "TH": "Aubade of Morningstar and Moon",
+    "TR": "Seher Yıldızı ve Ayın Sabah Şarkısı",
+    "VI": "Khúc Ca Của Trăng Và Sao Mai"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15043/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Elemental Mastery by 80.",
+        "CHS": "元素精通提高80点。",
+        "CHT": "元素精通提高80點。",
+        "DE": "Erhöht die Elementarkunde um 80 Punkte.",
+        "ES": "Maestría Elemental +80 pts.",
+        "FR": "Augmente la maîtrise élémentaire de 80 pts.",
+        "ID": "Elemental Mastery +80 poin.",
+        "IT": "Maestria elementale +80.",
+        "JP": "元素熟知+80。",
+        "KR": "원소 마스터리+80pt",
+        "PT": "Aumenta a Proficiência Elemental em 80.",
+        "RU": "Увеличивает мастерство стихий на 80 ед.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย",
+        "TR": "Element Ustalığını 80 artırır.",
+        "VI": "Tăng 80 điểm Tinh Thông Nguyên Tố."
+      },
+      "affixId": "2150430"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "When the equipping character is off-field, Lunar Reaction DMG is increased by 20%. When the party's Moonsign Level is at least Ascendant Gleam, Lunar Reaction DMG will be further increased by 40%. This effect will disappear after the equipping character is active for 3s.",
+        "CHS": "装备者处于队伍后台时，造成的月曜反应伤害提升20%；队伍的月兆等级至少为满辉时，造成的月曜反应伤害进一步提升40%。上述效果将在装备者位于场上3秒后移除。",
+        "CHT": "裝備者處於隊伍後臺時，造成的月曜反應傷害提升20%。隊伍的月兆等級至少為滿輝時，造成的月曜反應傷害進一步提升40%。上述效果將在裝備者位於場上3秒後移除。",
+        "DE": "#Erhöht den mit Mondleuchten-Reaktionen verursachten Schaden um 20 %, wenn der Träger inaktiv in der Truppe ist. Erhöht den mit Mondleuchten-Reaktionen verursachten Schaden zusätzlich um 40 %, wenn die Mondomenstufe der Truppe mindestens Reifer Glanz ist. Dieser Effekt wird entfernt, wenn der Träger länger als 3 s aktiv auf dem Feld ist.",
+        "ES": "#Cuando el portador de este conjunto está en tu equipo pero no en uso, el daño de Reacción Lunar que inflige aumenta en un 20%. Cuando el nivel de presagio lunar del equipo es de, al menos, resplandor ascendente, el daño de Reacción Lunar aumenta en un 40% adicional. Estos efectos se anularán después de que el portador de este conjunto permanezca en el campo de batalla durante 3 s.",
+        "FR": "Lorsque le personnage équipé de l'artéfact fait partie de l'équipe mais n'est pas déployé, les DGT de réaction sélène augmentent de 20 %, et de 40 % supplémentaires si le cycle signelunaire de l'équipe est au moins « Lueur ascendante ». Cet effet prend fin 3 s après que le personnage concerné est déployé.",
+        "ID": "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, DMG reaksi Lunar yang diakibatkan meningkat 20%. Saat Level Moonsign party setidaknya adalah Ascendant Gleam, maka DMG reaksi Lunar yang diakibatkan akan meningkat 40% lagi. Efek di atas akan hilang setelah Karakter yang mengenakan berada di medan pertempuran selama 3 detik.",
+        "IT": "#Quando il personaggio che equipaggia il set non è in campo, i DAN da reazione lunare aumentano di un 20%. Quando il livello del Presagio lunare del gruppo è almeno Barlume ascendente, i DAN da reazione lunare aumentano di un ulteriore 40%. Quest'effetto scompare quando il personaggio rimane attivo per 3 s.",
+        "JP": "装備者が待機中の時、与える月反応のダメージ+20%。チーム全体の月兆レベルが満照以上の時、与える月反応のダメージがさらに+40%。上記効果は装備者がフィールド上に3秒間滞在すると解除される。",
+        "KR": "장착 캐릭터가 대기 상태일 경우, 주는 달빛 반응 피해가 20% 증가한다. 파티의 달빛 징조 레벨이 최소 보름일 경우, 주는 달빛 반응 피해가 40% 더 증가한다. 상술한 효과는 장착 캐릭터가 필드에 등장 후 3초가 지나면 사라진다",
+        "PT": "Quando o portador não é o personagem ativo, aumenta o Dano causado por Reações Lunares em 20%. Quando o nível de Presságio Lunar da equipe for pelo menos Reluzir Cheio, aumenta o Dano causado por Reações Lunares em mais 40%. Esses efeitos serão removidos 3s após o portador entrar em campo.",
+        "RU": "Когда экипированный персонаж не на поле, урон Лунных реакций увеличивается на 20%. Если Лунное знамение отряда не ниже Высшего сияния, урон Лунных реакций дополнительно увеличивается на 40%. Через 3 сек. после того, как экипированный персонаж становится активным, этот эффект исчезает.",
+        "TH": "เมื่อผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ความเสียหายที่เกิดจากปฏิกิริยาประกายจันทร์จะเพิ่มขึ้น 20%; เมื่อระดับลัคนาจันทร์ของทีมเป็นจรัสแสงเป็นอย่างน้อย ความเสียหายจากปฏิกิริยาประกายจันทร์จะเพิ่มขึ้นอีก 40% เอฟเฟกต์ข้างต้นจะถูกลบล้าง หลังจากผู้สวมใส่เข้าร่วมการต่อสู้ 3 วินาที",
+        "TR": "Kuşanan karakter alanda değilken Ay Tepkimesi Hasarı %20 artar. Grubun Ay Sembolü Seviyesi en az Yükselen Parıltıyken Ay Tepkimesi Hasarı %40 daha artar. Bu etki, kuşanan karakter 3 saniye aktif olduktan sonra kaybolur.",
+        "VI": "Khi người trang bị đang dự bị, sát thương phản ứng Nguyệt gây ra tăng 20%. Khi Nguyệt Triệu của đội tối thiểu là Rực Sáng, sát thương phản ứng Nguyệt tăng thêm 40%. Hiệu quả trên sẽ bị xóa sau 3s từ khi người trang bị ra trận."
+      },
+      "affixId": "2150431"
+    }
+  ]
+}

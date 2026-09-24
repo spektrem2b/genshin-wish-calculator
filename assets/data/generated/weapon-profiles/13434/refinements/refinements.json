@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Untainted Desire",
+    "CHS": "未染的觖望",
+    "CHT": "未染的觖望",
+    "DE": "Unbefleckte Sehnsucht",
+    "ES": "Resentimiento inmaculado",
+    "FR": "Désir pur",
+    "ID": "Untainted Desire",
+    "IT": "Desiderio incontaminato",
+    "JP": "染まらぬ渇望",
+    "KR": "아직 물들지 않은 갈망",
+    "PT": "Desejo Puro",
+    "RU": "Незапятнанное желание",
+    "TH": "Untainted Desire",
+    "TR": "Lekesiz Arzu",
+    "VI": "Mong Muốn Chưa Vấy Bẩn"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "For 6s after an Elemental Skill hits an opponent, ATK is increased by 8% and Energy Recharge is increased by 6%. Max 3 stacks. This effect can be triggered even when the equipping character is off-field.",
+        "CHS": "元素战技命中敌人后的6秒内，攻击力提升8%，元素充能效率提升6%。该效果至多叠加3层，装备者处于队伍后台时依然能触发。",
+        "CHT": "元素戰技命中敵人後的6秒內，攻擊力提升8%，元素充能效率提升6%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 8 % und die Aufladerate um 6 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 8% y la Recarga de Energía aumenta en un 6% durante 6 s. Este efecto puede acumularse hasta 3 veces y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire augmente l'ATQ de 8 % et la recharge d'énergie de 6 % pendant 6 s. Cet effet peut être cumulé 3 fois maximum et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK Karakter +8%, Energy Recharge +6% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Per 6 s dopo aver colpito un avversario con un'abilità elementale, l'ATT e la ricarica d'energia aumentano rispettivamente di un 8% e di un 6%. Massimo 3 accumuli. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "元素スキルが敵に命中した後の6秒間、攻撃力+8%、元素チャージ効率+6%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 8%, 원소 충전 효율이 6% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Nos 6s depois da Habilidade Elemental atingir o inimigo, aumenta o ATQ em 8% e a Recarga de Energia em 6%. Esse efeito pode acumular até 3 vezes, e também surtirá se o portador não for o personagem ativo.",
+        "RU": "На 6 сек. после попадания элементального навыка по противнику сила атаки повышается на 8%, а восстановление энергии - на 6%. Этот эффект складывается до 3 раз и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 6 วินาที หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 8% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 6% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %8, Enerji Yüklemesi %6 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 8%, Hiệu Quả Nạp Nguyên Tố tăng 6%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "For 6s after an Elemental Skill hits an opponent, ATK is increased by 10% and Energy Recharge is increased by 7.5%. Max 3 stacks. This effect can be triggered even when the equipping character is off-field.",
+        "CHS": "元素战技命中敌人后的6秒内，攻击力提升10%，元素充能效率提升7.5%。该效果至多叠加3层，装备者处于队伍后台时依然能触发。",
+        "CHT": "元素戰技命中敵人後的6秒內，攻擊力提升10%，元素充能效率提升7.5%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 10 % und die Aufladerate um 7,5 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 10% y la Recarga de Energía aumenta en un 7.5% durante 6 s. Este efecto puede acumularse hasta 3 veces y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire augmente l'ATQ de 10 % et la recharge d'énergie de 7,5 % pendant 6 s. Cet effet peut être cumulé 3 fois maximum et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK Karakter +10%, Energy Recharge +7,5% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Per 6 s dopo aver colpito un avversario con un'abilità elementale, l'ATT e la ricarica d'energia aumentano rispettivamente di un 10% e di un 7,5%. Massimo 3 accumuli. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "元素スキルが敵に命中した後の6秒間、攻撃力+10%、元素チャージ効率+7.5%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 10%, 원소 충전 효율이 7.5% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Nos 6s depois da Habilidade Elemental atingir o inimigo, aumenta o ATQ em 10% e a Recarga de Energia em 7.5%. Esse efeito pode acumular até 3 vezes, e também surtirá se o portador não for o personagem ativo.",
+        "RU": "На 6 сек. после попадания элементального навыка по противнику сила атаки повышается на 10%, а восстановление энергии - на 7,5%. Этот эффект складывается до 3 раз и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 6 วินาที หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 10% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 7.5% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %10, Enerji Yüklemesi %7,5 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 10%, Hiệu Quả Nạp Nguyên Tố tăng 7.5%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "For 6s after an Elemental Skill hits an opponent, ATK is increased by 12% and Energy Recharge is increased by 9%. Max 3 stacks. This effect can be triggered even when the equipping character is off-field.",
+        "CHS": "元素战技命中敌人后的6秒内，攻击力提升12%，元素充能效率提升9%。该效果至多叠加3层，装备者处于队伍后台时依然能触发。",
+        "CHT": "元素戰技命中敵人後的6秒內，攻擊力提升12%，元素充能效率提升9%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 12 % und die Aufladerate um 9 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 12% y la Recarga de Energía aumenta en un 9% durante 6 s. Este efecto puede acumularse hasta 3 veces y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire augmente l'ATQ de 12 % et la recharge d'énergie de 9 % pendant 6 s. Cet effet peut être cumulé 3 fois maximum et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK Karakter +12%, Energy Recharge +9% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Per 6 s dopo aver colpito un avversario con un'abilità elementale, l'ATT e la ricarica d'energia aumentano rispettivamente di un 12% e di un 9%. Massimo 3 accumuli. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "元素スキルが敵に命中した後の6秒間、攻撃力+12%、元素チャージ効率+9%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 12%, 원소 충전 효율이 9% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Nos 6s depois da Habilidade Elemental atingir o inimigo, aumenta o ATQ em 12% e a Recarga de Energia em 9%. Esse efeito pode acumular até 3 vezes, e também surtirá se o portador não for o personagem ativo.",
+        "RU": "На 6 сек. после попадания элементального навыка по противнику сила атаки повышается на 12%, а восстановление энергии - на 9%. Этот эффект складывается до 3 раз и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 6 วินาที หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 12% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 9% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %12, Enerji Yüklemesi %9 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 12%, Hiệu Quả Nạp Nguyên Tố tăng 9%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "For 6s after an Elemental Skill hits an opponent, ATK is increased by 14% and Energy Recharge is increased by 10.5%. Max 3 stacks. This effect can be triggered even when the equipping character is off-field.",
+        "CHS": "元素战技命中敌人后的6秒内，攻击力提升14%，元素充能效率提升10.5%。该效果至多叠加3层，装备者处于队伍后台时依然能触发。",
+        "CHT": "元素戰技命中敵人後的6秒內，攻擊力提升14%，元素充能效率提升10.5%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 14 % und die Aufladerate um 10,5 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 14% y la Recarga de Energía aumenta en un 10.5% durante 6 s. Este efecto puede acumularse hasta 3 veces y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire augmente l'ATQ de 14 % et la recharge d'énergie de 10,5 % pendant 6 s. Cet effet peut être cumulé 3 fois maximum et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK Karakter +14%, Energy Recharge +10,5% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Per 6 s dopo aver colpito un avversario con un'abilità elementale, l'ATT e la ricarica d'energia aumentano rispettivamente di un 14% e di un 10,5%. Massimo 3 accumuli. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "元素スキルが敵に命中した後の6秒間、攻撃力+14%、元素チャージ効率+10.5%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 14%, 원소 충전 효율이 10.5% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Nos 6s depois da Habilidade Elemental atingir o inimigo, aumenta o ATQ em 14% e a Recarga de Energia em 10.5%. Esse efeito pode acumular até 3 vezes, e também surtirá se o portador não for o personagem ativo.",
+        "RU": "На 6 сек. после попадания элементального навыка по противнику сила атаки повышается на 14%, а восстановление энергии - на 10,5%. Этот эффект складывается до 3 раз и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 6 วินาที หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 14% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 10.5% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %14, Enerji Yüklemesi %10,5 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 14%, Hiệu Quả Nạp Nguyên Tố tăng 10.5%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "For 6s after an Elemental Skill hits an opponent, ATK is increased by 16% and Energy Recharge is increased by 12%. Max 3 stacks. This effect can be triggered even when the equipping character is off-field.",
+        "CHS": "元素战技命中敌人后的6秒内，攻击力提升16%，元素充能效率提升12%。该效果至多叠加3层，装备者处于队伍后台时依然能触发。",
+        "CHT": "元素戰技命中敵人後的6秒內，攻擊力提升16%，元素充能效率提升12%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+        "DE": "#Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 16 % und die Aufladerate um 12 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+        "ES": "#Tras golpear a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 16% y la Recarga de Energía aumenta en un 12% durante 6 s. Este efecto puede acumularse hasta 3 veces y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+        "FR": "Toucher un ennemi avec une compétence élémentaire augmente l'ATQ de 16 % et la recharge d'énergie de 12 % pendant 6 s. Cet effet peut être cumulé 3 fois maximum et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.",
+        "ID": "Setelah Elemental Skill mengenai musuh, ATK Karakter +16%, Energy Recharge +12% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+        "IT": "#Per 6 s dopo aver colpito un avversario con un'abilità elementale, l'ATT e la ricarica d'energia aumentano rispettivamente di un 16% e di un 12%. Massimo 3 accumuli. Quest'effetto può attivarsi anche quando il personaggio non si trova in campo.",
+        "JP": "元素スキルが敵に命中した後の6秒間、攻撃力+16%、元素チャージ効率+12%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+        "KR": "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 16%, 원소 충전 효율이 12% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+        "PT": "Nos 6s depois da Habilidade Elemental atingir o inimigo, aumenta o ATQ em 16% e a Recarga de Energia em 12%. Esse efeito pode acumular até 3 vezes, e também surtirá se o portador não for o personagem ativo.",
+        "RU": "На 6 сек. после попадания элементального навыка по противнику сила атаки повышается на 16%, а восстановление энергии - на 12%. Этот эффект складывается до 3 раз и срабатывает, даже когда экипированный персонаж не на поле боя.",
+        "TH": "ภายใน 6 วินาที หลังจากที่สกิลธาตุโจมตีถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 16% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 12% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+        "TR": "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %16, Enerji Yüklemesi %12 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+        "VI": "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 16%, Hiệu Quả Nạp Nguyên Tố tăng 12%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt."
+      }
+    }
+  ]
+}
