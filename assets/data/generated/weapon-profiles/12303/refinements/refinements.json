@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Cull the Weak",
+    "CHS": "收割",
+    "CHT": "收割",
+    "DE": "Lebensentzug",
+    "ES": "Cosecha",
+    "FR": "Moissonneur",
+    "ID": "Cull the Weak",
+    "IT": "Mietitura",
+    "JP": "刈り取る",
+    "KR": "수확",
+    "PT": "Colheita",
+    "RU": "Жатва",
+    "TH": "Cull the Weak",
+    "TR": "Güçsüzlerin Hasadı",
+    "VI": "Dứt Điểm"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Defeating an opponent restores 8% HP.",
+        "CHS": "击败敌人时，恢复8%生命值。",
+        "CHT": "擊敗敵人時，恢復8%生命值。",
+        "DE": "Stellt beim Besiegen eines Gegners 8 % LP wieder her.",
+        "ES": "Restaura un 8% de Vida tras derrotar a un enemigo.",
+        "FR": "Restaure 8 % des PV après la défaite d'un ennemi.",
+        "ID": "Memulihkan 8% HP saat mengalahkan satu musuh.",
+        "IT": "Sconfiggere un avversario ripristina un 8% di PS.",
+        "JP": "敵を倒したとき、HPを8%回復する。",
+        "KR": "적을 처치하면 HP를 8% 회복한다",
+        "PT": "Derrotar um oponente recupera 8% da Vida.",
+        "RU": "Победа над противником восстанавливает 8% HP.",
+        "TH": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น 8%",
+        "TR": "Bir düşmanı yenmek %8 Can yeniler.",
+        "VI": "Khi đánh bại kẻ địch, hồi 8% HP."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Defeating an opponent restores 10% HP.",
+        "CHS": "击败敌人时，恢复10%生命值。",
+        "CHT": "擊敗敵人時，恢復10%生命值。",
+        "DE": "Stellt beim Besiegen eines Gegners 10 % LP wieder her.",
+        "ES": "Restaura un 10% de Vida tras derrotar a un enemigo.",
+        "FR": "Restaure 10 % des PV après la défaite d'un ennemi.",
+        "ID": "Memulihkan 10% HP saat mengalahkan satu musuh.",
+        "IT": "Sconfiggere un avversario ripristina un 10% di PS.",
+        "JP": "敵を倒したとき、HPを10%回復する。",
+        "KR": "적을 처치하면 HP를 10% 회복한다",
+        "PT": "Derrotar um oponente recupera 10% da Vida.",
+        "RU": "Победа над противником восстанавливает 10% HP.",
+        "TH": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น 10%",
+        "TR": "Bir düşmanı yenmek %10 Can yeniler.",
+        "VI": "Khi đánh bại kẻ địch, hồi 10% HP."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Defeating an opponent restores 12% HP.",
+        "CHS": "击败敌人时，恢复12%生命值。",
+        "CHT": "擊敗敵人時，恢復12%生命值。",
+        "DE": "Stellt beim Besiegen eines Gegners 12 % LP wieder her.",
+        "ES": "Restaura un 12% de Vida tras derrotar a un enemigo.",
+        "FR": "Restaure 12 % des PV après la défaite d'un ennemi.",
+        "ID": "Memulihkan 12% HP saat mengalahkan satu musuh.",
+        "IT": "Sconfiggere un avversario ripristina un 12% di PS.",
+        "JP": "敵を倒したとき、HPを12%回復する。",
+        "KR": "적을 처치하면 HP를 12% 회복한다",
+        "PT": "Derrotar um oponente recupera 12% da Vida.",
+        "RU": "Победа над противником восстанавливает 12% HP.",
+        "TH": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น 12%",
+        "TR": "Bir düşmanı yenmek %12 Can yeniler.",
+        "VI": "Khi đánh bại kẻ địch, hồi 12% HP."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Defeating an opponent restores 14% HP.",
+        "CHS": "击败敌人时，恢复14%生命值。",
+        "CHT": "擊敗敵人時，恢復14%生命值。",
+        "DE": "Stellt beim Besiegen eines Gegners 14 % LP wieder her.",
+        "ES": "Restaura un 14% de Vida tras derrotar a un enemigo.",
+        "FR": "Restaure 14 % des PV après la défaite d'un ennemi.",
+        "ID": "Memulihkan 14% HP saat mengalahkan satu musuh.",
+        "IT": "Sconfiggere un avversario ripristina un 14% di PS.",
+        "JP": "敵を倒したとき、HPを14%回復する。",
+        "KR": "적을 처치하면 HP를 14% 회복한다",
+        "PT": "Derrotar um oponente recupera 14% da Vida.",
+        "RU": "Победа над противником восстанавливает 14% HP.",
+        "TH": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น 14%",
+        "TR": "Bir düşmanı yenmek %14 Can yeniler.",
+        "VI": "Khi đánh bại kẻ địch, hồi 14% HP."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Defeating an opponent restores 16% HP.",
+        "CHS": "击败敌人时，恢复16%生命值。",
+        "CHT": "擊敗敵人時，恢復16%生命值。",
+        "DE": "Stellt beim Besiegen eines Gegners 16 % LP wieder her.",
+        "ES": "Restaura un 16% de Vida tras derrotar a un enemigo.",
+        "FR": "Restaure 16 % des PV après la défaite d'un ennemi.",
+        "ID": "Memulihkan 16% HP saat mengalahkan satu musuh.",
+        "IT": "Sconfiggere un avversario ripristina un 16% di PS.",
+        "JP": "敵を倒したとき、HPを16%回復する。",
+        "KR": "적을 처치하면 HP를 16% 회복한다",
+        "PT": "Derrotar um oponente recupera 16% da Vida.",
+        "RU": "Победа над противником восстанавливает 16% HP.",
+        "TH": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น 16%",
+        "TR": "Bir düşmanı yenmek %16 Can yeniler.",
+        "VI": "Khi đánh bại kẻ địch, hồi 16% HP."
+      }
+    }
+  ]
+}

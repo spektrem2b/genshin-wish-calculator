@@ -1,0 +1,69 @@
+{
+  "id": 10002,
+  "name": {
+    "EN": "Brave Heart",
+    "CHS": "勇士之心",
+    "CHT": "勇士之心",
+    "DE": "Wagemut",
+    "ES": "Corazón del Guerrero",
+    "FR": "Cœur du Brave",
+    "ID": "Brave Heart",
+    "IT": "Cuore coraggioso",
+    "JP": "勇士の心",
+    "KR": "용사의 마음",
+    "PT": "Coração Valente",
+    "RU": "Душа храбреца",
+    "TH": "Brave Heart",
+    "TR": "Cesur Yürek",
+    "VI": "Trái Tim Dũng Sĩ"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10002/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "ATK +18%.",
+        "CHS": "攻击力提高18%。",
+        "CHT": "攻擊力提高18%。",
+        "DE": "Erhöht den ANG um 18 %.",
+        "ES": "ATQ +18%.",
+        "FR": "Augmente l'ATQ de 18 %.",
+        "ID": "ATK +18%.",
+        "IT": "ATT +18%.",
+        "JP": "攻撃力+18%。",
+        "KR": "공격력+18%",
+        "PT": "ATQ +18%.",
+        "RU": "Увеличивает силу атаки на 18%.",
+        "TH": "เพิ่มพลังโจมตี 18%",
+        "TR": "+%18 Saldırı.",
+        "VI": "Tấn công tăng 18%"
+      },
+      "affixId": "2100020"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases DMG by 30% against opponents with more than 50% HP.",
+        "CHS": "对生命值高于50%的敌人，造成的伤害增加30%。",
+        "CHT": "對生命值高於50%的敵人，造成的傷害增加30%。",
+        "DE": "Erhöht den Gegnern mit mehr als 50 % LP zugefügten Schaden um 30 %.",
+        "ES": "Aumenta el daño en un 30% contra enemigos con más del 50% de Vida.",
+        "FR": "Augmente les DGT infligés aux ennemis dont les PV sont supérieurs à 50 % de 30 %.",
+        "ID": "Meningkatkan 30% DMG terhadap musuh dengan HP lebih dari 50%.",
+        "IT": "Aumenta di un 30% i DAN contro gli avversari con oltre un 50% dei PS.",
+        "JP": "HPが50%以上の敵に対するダメージ+30%。",
+        "KR": "HP가 50%를 초과하는 적에게 주는 피해가 30% 증가한다",
+        "PT": "Aumenta o Dano em 30% contra os inimigos com mais de 50% de Vida.",
+        "RU": "Увеличивает на 30% урон против врагов с HP выше 50%.",
+        "TH": "สร้างโบนัสความเสียหาย 30% แก่ศัตรูที่มี พลังชีวิตสูงกว่า 50%",
+        "TR": "Can oranı %50'nin üzerindeki düşmanlara verilen Hasarı %30 artırır.",
+        "VI": "Kẻ địch có HP cao hơn 50%, sát thương gây ra tăng 30%."
+      },
+      "affixId": "2100021"
+    }
+  ]
+}

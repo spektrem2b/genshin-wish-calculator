@@ -1,0 +1,69 @@
+{
+  "id": 14002,
+  "name": {
+    "EN": "Thundersoother",
+    "CHS": "平息鸣雷的尊者",
+    "CHT": "平息鳴雷的尊者",
+    "DE": "Donner beruhigender Weiser",
+    "ES": "Domador de Truenos",
+    "FR": "Dompteur de foudre",
+    "ID": "Thundersoother",
+    "IT": "Domatore di tuoni",
+    "JP": "雷を鎮める尊者",
+    "KR": "뇌명을 평정한 존자",
+    "PT": "Lançador de Trovões",
+    "RU": "Усмиряющий гром",
+    "TH": "Thundersoother",
+    "TR": "Yıldırım Terbiyecisi",
+    "VI": "Tôn Giả Trầm Lặng"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/14002/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Electro RES increased by 40%.",
+        "CHS": "雷元素抗性提高40%。",
+        "CHT": "雷元素抗性提高40%。",
+        "DE": "Erhöht den Elektro-WDS um 40 %.",
+        "ES": "RES Electro +40%",
+        "FR": "Augmente la RÉS Électro de 40 %.",
+        "ID": "Electro RES +40%.",
+        "IT": "RES a Electro +40%.",
+        "JP": "雷元素耐性+40%。",
+        "KR": "번개 원소 내성+40%",
+        "PT": "RES Electro +40%",
+        "RU": "Повышает Электро сопротивление на +40%.",
+        "TH": "เพิ่มความต้านทานธาตุไฟฟ้าขึ้น 40%",
+        "TR": "Elektrik Direnci %40 artar.",
+        "VI": "Kháng nguyên tố Lôi tăng 40%."
+      },
+      "affixId": "2140020"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases DMG against opponents affected by Electro by 35%.",
+        "CHS": "对处于雷元素影响下的敌人造成的伤害提升35%。",
+        "CHT": "對處於雷元素影響下的敵人造成的傷害提升35%。",
+        "DE": "Erhöht den von Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 35 %.",
+        "ES": "Aumenta el Daño contra los enemigos afectados por Electro un 35%.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par l'élément Électro de 35 %.",
+        "ID": "Meningkatkan 35% DMG terhadap musuh yang terpengaruh Electro.",
+        "IT": "Aumenta di un 35% i DAN contro gli avversari sotto l'effetto di Electro.",
+        "JP": "雷元素の影響を受けた敵に対するダメージ+35%。",
+        "KR": "번개 원소의 영향을 받은 적에게 주는 피해가 35% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Electro em 35%.",
+        "RU": "Увеличивает урон против врагов, находящихся под действием Электро, на 35%.",
+        "TH": "สร้างความเสียหายเพิ่มขึ้น 35% แก่ศัตรูที่ได้รับผลกระทบต่อธาตุไฟฟ้า",
+        "TR": "Elektrikten etkilenen düşmanlara verilen Hasarı %35 artırır.",
+        "VI": "Tăng 35% sát thương tạo thành cho kẻ địch bị ảnh hưởng nguyên tố Lôi."
+      },
+      "affixId": "2140021"
+    }
+  ]
+}

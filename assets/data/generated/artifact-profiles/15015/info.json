@@ -1,0 +1,69 @@
+{
+  "id": 15015,
+  "name": {
+    "EN": "Retracing Bolide",
+    "CHS": "逆飞的流星",
+    "CHT": "逆飛的流星",
+    "DE": "Umgekehrter Meteor",
+    "ES": "Retroceso del Meteorito",
+    "FR": "Météore inversé",
+    "ID": "Retracing Bolide",
+    "IT": "Meteorite inverso",
+    "JP": "逆飛びの流星",
+    "KR": "날아오르는 유성",
+    "PT": "Meteoro Invertido",
+    "RU": "Встречная комета",
+    "TH": "Retracing Bolide",
+    "TR": "Geri Dönen Göktaşı",
+    "VI": "Sao Băng Bay Ngược"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15015/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Shield Strength by 35%.",
+        "CHS": "护盾强效提高35%。",
+        "CHT": "護盾強效提高35%。",
+        "DE": "Erhöht die Schildeffizienz um 35 %.",
+        "ES": "Protección de Escudo +35%.",
+        "FR": "Augmente la force du bouclier de 35 %.",
+        "ID": "Meningkatkan 35% kekuatan Perisai.",
+        "IT": "Efficacia scudo +35%.",
+        "JP": "シールド強化+35%",
+        "KR": "보호막 강화 효과+35%",
+        "PT": "Aumenta a efetividade de escudos em 35%",
+        "RU": "Увеличивает прочность щита на 35%.",
+        "TH": "เพิ่มประสิทธิภาพโล่ป้องกัน 35%",
+        "TR": "Kalkan Gücünü %35 artırır.",
+        "VI": "Hiệu quả khiên tăng 35%"
+      },
+      "affixId": "2150150"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.",
+        "CHS": "处于护盾庇护下时，额外获得40%普通攻击和重击伤害加成。",
+        "CHT": "處於護盾庇護下時，額外獲得40%普通攻擊和重擊傷害加成。",
+        "DE": "Erhöht den Schaden von Standardangriffen und heftigen Schlägen bei aktivem Schild zusätzlich um 40 %.",
+        "ES": "Los Ataques Normales y Cargados obtienen un 40% de daño adicional mientras estés bajo la protección de un escudo.",
+        "FR": "Les attaques normales et chargées infligent un bonus de 40 % de DGT lorsque le personnage est sous la protection d'un bouclier.",
+        "ID": "Meningkatkan 40% Normal dan Charged Attack saat Perisai aktif.",
+        "IT": "Sotto la protezione di uno scudo, ottieni un ulteriore aumento dei DAN da attacchi normali e caricati di un 40%.",
+        "JP": "シールド状態の時、通常攻撃と重撃ダメージ+40%。",
+        "KR": "보호막이 존재 시 추가로 일반 공격과 강공격 보너스를 40% 획득한다",
+        "PT": "Ganha um adicional de 40% de Dano Normal e Carregado enquanto estiver sob a proteção de um escudo.",
+        "RU": "Под защитой щита увеличивает урон обычной и заряженной атаки на 40%.",
+        "TH": "เมื่อได้รับการป้องกันจากโล่ การโจมตีปกติ และชาร์จโจมตี สร้างความเสียหาย เพิ่มขึ้น 40%",
+        "TR": "Bir kalkan tarafından korunurken, Normal ve Yüklü Saldırı Hasarı ek olarak %40 artar.",
+        "VI": "Khi được khiên bảo vệ, nhận thêm 40% tăng sát thương của tấn công thường và trọng kích."
+      },
+      "affixId": "2150151"
+    }
+  ]
+}

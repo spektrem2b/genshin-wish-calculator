@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Bane of the Soft",
+    "CHS": "克柔",
+    "CHT": "克柔",
+    "DE": "Weicher Schlag",
+    "ES": "Antipegajoso",
+    "FR": "Anti-Blob",
+    "ID": "Hard Hitter",
+    "IT": "Flagello antimelma",
+    "JP": "スライム殺し",
+    "KR": "제유",
+    "PT": "Atacante Pesado",
+    "RU": "Бич мягкотелых",
+    "TH": "Bane of the Soft",
+    "TR": "Yumuşak Lanet",
+    "VI": "Khắc Nhu"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases DMG against slimes by 40%.",
+        "CHS": "对史莱姆类敌人造成的伤害增加40%。",
+        "CHT": "對史萊姆類敵人造成的傷害增加40%。",
+        "DE": "Erhöht den Schleimen zugefügten Schaden um 40 %.",
+        "ES": "Aumenta en un 40% el daño contra los Slimes.",
+        "FR": "Augmente les DGT infligés aux Blobs de 40 %.",
+        "ID": "Meningkatkan 40% DMG terhadap Slime.",
+        "IT": "Aumenta i DAN contro i Melmosi di un 40%.",
+        "JP": "スライムタイプの敵に対するダメージ+40%。",
+        "KR": "슬라임 타입의 적에게 주는 피해가 40% 증가한다",
+        "PT": "Aumenta o Dano contra os Slimes em 40%.",
+        "RU": "Увеличивает урон по слаймам на 40%.",
+        "TH": "สร้างโบนัสความเสียหาย แก่ศัตรูจำพวก Slime 40%",
+        "TR": "Bodurloplara verilen Hasarı %40 artırır.",
+        "VI": "Tăng 40% sát thương với kẻ địch là Slime."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases DMG against slimes by 50%.",
+        "CHS": "对史莱姆类敌人造成的伤害增加50%。",
+        "CHT": "對史萊姆類敵人造成的傷害增加50%。",
+        "DE": "Erhöht den Schleimen zugefügten Schaden um 50 %.",
+        "ES": "Aumenta en un 50% el daño contra los Slimes.",
+        "FR": "Augmente les DGT infligés aux Blobs de 50 %.",
+        "ID": "Meningkatkan 50% DMG terhadap Slime.",
+        "IT": "Aumenta i DAN contro i Melmosi di un 50%.",
+        "JP": "スライムタイプの敵に対するダメージ+50%。",
+        "KR": "슬라임 타입의 적에게 주는 피해가 50% 증가한다",
+        "PT": "O Dano causado em Slimes aumentam 50%.",
+        "RU": "Увеличивает урон по слаймам на 50%.",
+        "TH": "สร้างโบนัสความเสียหาย แก่ศัตรูจำพวก Slime 50%",
+        "TR": "Bodurloplara verilen Hasarı %50 artırır.",
+        "VI": "Tăng 50% sát thương với kẻ địch là Slime."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases DMG against slimes by 60%.",
+        "CHS": "对史莱姆类敌人造成的伤害增加60%。",
+        "CHT": "對史萊姆類敵人造成的傷害增加60%。",
+        "DE": "Erhöht den Schleimen zugefügten Schaden um 60 %.",
+        "ES": "Aumenta en un 60% el daño contra los Slimes.",
+        "FR": "Augmente les DGT infligés aux Blobs de 60 %.",
+        "ID": "Meningkatkan 60% DMG terhadap Slime.",
+        "IT": "Aumenta i DAN contro i Melmosi di un 60%.",
+        "JP": "スライムタイプの敵に対するダメージ+60%。",
+        "KR": "슬라임 타입의 적에게 주는 피해가 60% 증가한다",
+        "PT": "Aumenta o Dano contra os Slimes em 60%.",
+        "RU": "Увеличивает урон по слаймам на 60%.",
+        "TH": "สร้างโบนัสความเสียหาย แก่ศัตรูจำพวก Slime 60%",
+        "TR": "Bodurloplara verilen Hasarı %60 artırır.",
+        "VI": "Tăng 60% sát thương với kẻ địch là Slime."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases DMG against slimes by 70%.",
+        "CHS": "对史莱姆类敌人造成的伤害增加70%。",
+        "CHT": "對史萊姆類敵人造成的傷害增加70%。",
+        "DE": "Erhöht den Schleimen zugefügten Schaden um 70 %.",
+        "ES": "Aumenta en un 70% el daño contra los Slimes.",
+        "FR": "Augmente les DGT infligés aux Blobs de 70 %.",
+        "ID": "Meningkatkan 70% DMG terhadap Slime.",
+        "IT": "Aumenta i DAN contro i Melmosi di un 70%.",
+        "JP": "スライムタイプの敵に対するダメージ+70%。",
+        "KR": "슬라임 타입의 적에게 주는 피해가 70% 증가한다",
+        "PT": "Aumenta o Dano contra os Slimes em 70%.",
+        "RU": "Увеличивает урон по слаймам на 70%.",
+        "TH": "สร้างโบนัสความเสียหาย แก่ศัตรูจำพวก Slime 70%",
+        "TR": "Bodurloplara verilen Hasarı %70 artırır.",
+        "VI": "Tăng 70% sát thương với kẻ địch là Slime."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases DMG against slimes by 80%.",
+        "CHS": "对史莱姆类敌人造成的伤害增加80%。",
+        "CHT": "對史萊姆類敵人造成的傷害增加80%。",
+        "DE": "Erhöht den Schleimen zugefügten Schaden um 80 %.",
+        "ES": "Aumenta en un 80% el daño contra los Slimes.",
+        "FR": "Augmente les DGT infligés aux Blobs de 80 %.",
+        "ID": "Meningkatkan 80% DMG terhadap Slime.",
+        "IT": "Aumenta i DAN contro i Melmosi di un 80%.",
+        "JP": "スライムタイプの敵に対するダメージ+80%。",
+        "KR": "슬라임 타입의 적에게 주는 피해가 80% 증가한다",
+        "PT": "Aumenta o Dano contra os Slimes em 80%.",
+        "RU": "Увеличивает урон по слаймам на 80%.",
+        "TH": "สร้างโบนัสความเสียหาย แก่ศัตรูจำพวก Slime 80%",
+        "TR": "Bodurloplara verilen Hasarı %80 artırır.",
+        "VI": "Tăng 80% sát thương với kẻ địch là Slime."
+      }
+    }
+  ]
+}
