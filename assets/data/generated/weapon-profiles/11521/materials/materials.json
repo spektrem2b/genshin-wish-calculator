@@ -1,0 +1,56 @@
+{
+  "ascensionMaterials": [],
+  "enemyDrops": [],
+  "weaponMaterials": [],
+  "promotes": [
+    {
+      "promoteLevel": 0,
+      "unlockMaxLevel": 20,
+      "moraCost": null,
+      "requiredPlayerLevel": null,
+      "items": []
+    },
+    {
+      "promoteLevel": 1,
+      "unlockMaxLevel": 40,
+      "moraCost": null,
+      "requiredPlayerLevel": 15,
+      "items": []
+    },
+    {
+      "promoteLevel": 2,
+      "unlockMaxLevel": 50,
+      "moraCost": null,
+      "requiredPlayerLevel": 25,
+      "items": []
+    },
+    {
+      "promoteLevel": 3,
+      "unlockMaxLevel": 60,
+      "moraCost": null,
+      "requiredPlayerLevel": 30,
+      "items": []
+    },
+    {
+      "promoteLevel": 4,
+      "unlockMaxLevel": 70,
+      "moraCost": null,
+      "requiredPlayerLevel": 35,
+      "items": []
+    },
+    {
+      "promoteLevel": 5,
+      "unlockMaxLevel": 80,
+      "moraCost": null,
+      "requiredPlayerLevel": 40,
+      "items": []
+    },
+    {
+      "promoteLevel": 6,
+      "unlockMaxLevel": 90,
+      "moraCost": null,
+      "requiredPlayerLevel": 50,
+      "items": []
+    }
+  ]
+}

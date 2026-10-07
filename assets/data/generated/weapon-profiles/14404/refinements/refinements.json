@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Focus",
+    "CHS": "专注",
+    "CHT": "專注",
+    "DE": "Konzentration",
+    "ES": "Concentración",
+    "FR": "Focus",
+    "ID": "Focus",
+    "IT": "Concentrazione",
+    "JP": "集中",
+    "KR": "집중",
+    "PT": "Foco",
+    "RU": "Сосредоточенный",
+    "TH": "Focus",
+    "TR": "Odaklanma",
+    "VI": "Chuyên Chú"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks.",
+        "CHS": "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+        "CHT": "攻擊造成傷害時，暴擊率提升8%，效果最多疊加五層。攻擊造成暴擊後，移除已有的專注效果。",
+        "DE": "Erhöht die KT beim Verursachen von Schaden um 8 %, 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT.",
+        "ES": "Al dañar a un enemigo, aumenta la Prob. CRIT en un 8%. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.",
+        "FR": "Augmente le taux CRIT de 8 % à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT.",
+        "ID": "Saat mengakibatkan DMG pada musuh, meningkatkan 8% CRIT Rate. Maksimum 5 lapis, dan saat serangan CRIT terpicu, seluruh lapisan CRIT Rate hilang.",
+        "IT": "Dopo aver inflitto danni a un avversario, il tasso di CRIT aumenta di un 8%. Cumulabile fino a 5 volte. In caso di colpo CRIT, la quantità cumulata si azzera.",
+        "JP": "攻撃が敵にダメージを与えた時、会心率+8%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+        "KR": "공격으로 피해를 줄 때마다 치명타 확률이 8% 증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다",
+        "PT": "Ao atingir um oponente, aumenta a Taxa Crítica em 8%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+        "RU": "При нанесении урона противнику повышает шанс крит. попадания на 8%. Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием.",
+        "TH": "เมื่อการโจมตีก่อให้เกิดความเสียหาย อัตราคริจะเพิ่มขึ้น 8% ซ้อนทับได้มากสุด 5 ครั้ง และเมื่อโจมตีติดคริติคอลจะล้างเอฟเฟกต์ที่โฟกัสออกทั้งหมด",
+        "TR": "Bir düşmana hasar verdikten sonra Kritik Oranı %8 artar. 5 kademeye kadar birikir. Bir Kritik Vuruş yapmak tüm kademeleri tüketir.",
+        "VI": "Khi tấn công tạo thành sát thương, tăng tỷ lệ bạo kích 8%, nhiều nhất cộng dồn 5 lần. Sau khi tấn công tạo thành bạo kích, xóa hiệu quả Chuyên Chú đã có."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Upon damaging an opponent, increases CRIT Rate by 10%. Max 5 stacks. A CRIT Hit removes all stacks.",
+        "CHS": "攻击造成伤害时，暴击率提升10%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+        "CHT": "攻擊造成傷害時，暴擊率提升10%，效果最多疊加五層。攻擊造成暴擊後，移除已有的專注效果。",
+        "DE": "Erhöht die KT beim Verursachen von Schaden um 10 %, 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT.",
+        "ES": "Al dañar a un enemigo, aumenta la Prob. CRIT en un 10%. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.",
+        "FR": "Augmente le taux CRIT de 10 % à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT.",
+        "ID": "Saat mengakibatkan DMG pada musuh, meningkatkan 10% CRIT Rate. Maksimum 5 lapis, dan saat serangan CRIT terpicu, seluruh lapisan CRIT Rate hilang.",
+        "IT": "Dopo aver inflitto danni a un avversario, il tasso di CRIT aumenta di un 10%. Cumulabile fino a 5 volte. In caso di colpo CRIT, la quantità cumulata si azzera.",
+        "JP": "攻撃が敵にダメージを与えた時、会心率+10%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+        "KR": "공격으로 피해를 줄 때마다 치명타 확률이 10% 증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다",
+        "PT": "Ao atingir um oponente, aumenta a Taxa Crítica em 10%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+        "RU": "При нанесении урона противнику повышает шанс крит. попадания на 10%. Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием.",
+        "TH": "เมื่อการโจมตีก่อให้เกิดความเสียหาย อัตราคริจะเพิ่มขึ้น 10% ซ้อนทับได้มากสุด 5 ครั้ง และเมื่อโจมตีติดคริติคอลจะล้างเอฟเฟกต์ที่โฟกัสออกทั้งหมด",
+        "TR": "Bir düşmana hasar verdikten sonra Kritik Oranı %10 artar. 5 kademeye kadar birikir. Bir Kritik Vuruş yapmak tüm kademeleri tüketir.",
+        "VI": "Khi tấn công tạo thành sát thương, tăng tỷ lệ bạo kích 10%, nhiều nhất cộng dồn 5 lần. Sau khi tấn công tạo thành bạo kích, xóa hiệu quả Chuyên Chú đã có."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks.",
+        "CHS": "攻击造成伤害时，暴击率提升12%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+        "CHT": "攻擊造成傷害時，暴擊率提升12%，效果最多疊加五層。攻擊造成暴擊後，移除已有的專注效果。",
+        "DE": "Erhöht die KT beim Verursachen von Schaden um 12 %, 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT.",
+        "ES": "Al dañar a un enemigo, aumenta la Prob. CRIT en un 12%. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.",
+        "FR": "Augmente le taux CRIT de 12 % à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT.",
+        "ID": "Saat mengakibatkan DMG pada musuh, meningkatkan 12% CRIT Rate. Maksimum 5 lapis, dan saat serangan CRIT terpicu, seluruh lapisan CRIT Rate hilang.",
+        "IT": "Dopo aver inflitto danni a un avversario, il tasso di CRIT aumenta di un 12%. Cumulabile fino a 5 volte. In caso di colpo CRIT, la quantità cumulata si azzera.",
+        "JP": "攻撃が敵にダメージを与えた時、会心率+12%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+        "KR": "공격으로 피해를 줄 때마다 치명타 확률이 12% 증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다",
+        "PT": "Ao atingir um oponente, aumenta a Taxa Crítica em 12%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+        "RU": "При нанесении урона противнику повышает шанс крит. попадания на 12%. Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием.",
+        "TH": "เมื่อการโจมตีก่อให้เกิดความเสียหาย อัตราคริจะเพิ่มขึ้น 12% โดยจะซ้อนทับได้มากสุด 5 ครั้ง และเมื่อโจมตีติดคริติคอล จะล้างเอฟเฟกต์ที่โฟกัสออกทั้งหมด",
+        "TR": "Bir düşmana hasar verdikten sonra Kritik Oranı %12 artar. 5 kademeye kadar birikir. Bir Kritik Vuruş yapmak tüm kademeleri tüketir.",
+        "VI": "Khi tấn công tạo thành sát thương, tăng tỷ lệ bạo kích 12%, nhiều nhất cộng dồn 5 lần. Sau khi tấn công tạo thành bạo kích, xóa hiệu quả Chuyên Chú đã có."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Upon damaging an opponent, increases CRIT Rate by 14%. Max 5 stacks. A CRIT Hit removes all stacks.",
+        "CHS": "攻击造成伤害时，暴击率提升14%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+        "CHT": "攻擊造成傷害時，暴擊率提升14%，效果最多疊加五層。攻擊造成暴擊後，移除已有的專注效果。",
+        "DE": "Erhöht die KT beim Verursachen von Schaden um 14 %, 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT.",
+        "ES": "Al dañar a un enemigo, aumenta la Prob. CRIT en un 14%. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.",
+        "FR": "Augmente le taux CRIT de 14 % à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT.",
+        "ID": "Saat mengakibatkan DMG pada musuh, meningkatkan 14% CRIT Rate. Maksimum 5 lapis, dan saat serangan CRIT terpicu, seluruh lapisan efek akan hilang.",
+        "IT": "Dopo aver inflitto danni a un avversario, il tasso di CRIT aumenta di un 14%. Cumulabile fino a 5 volte. In caso di colpo CRIT, la quantità cumulata si azzera.",
+        "JP": "攻撃が敵にダメージを与えた時、会心率+14%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+        "KR": "공격으로 피해를 줄 때마다 치명타 확률이 14% 증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다",
+        "PT": "Ao atingir um oponente, aumenta a Taxa Crítica em 14%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+        "RU": "При нанесении урона противнику повышает шанс крит. попадания на 14%. Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием.",
+        "TH": "เมื่อการโจมตีก่อให้เกิดความเสียหาย อัตราคริจะเพิ่มขึ้น 14% ซ้อนทับได้มากสุด 5 ครั้ง และเมื่อโจมตีติดคริติคอลจะล้างเอฟเฟกต์ที่โฟกัสออกทั้งหมด",
+        "TR": "Bir düşmana hasar verdikten sonra Kritik Oranı %14 artar. 5 kademeye kadar birikir. Bir Kritik Vuruş yapmak tüm kademeleri tüketir.",
+        "VI": "Khi tấn công tạo thành sát thương, tăng tỷ lệ bạo kích 14%, nhiều nhất cộng dồn 5 lần. Sau khi tấn công tạo thành bạo kích, xóa hiệu quả Chuyên Chú đã có."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Upon damaging an opponent, increases CRIT Rate by 16%. Max 5 stacks. A CRIT Hit removes all stacks.",
+        "CHS": "攻击造成伤害时，暴击率提升16%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
+        "CHT": "攻擊造成傷害時，暴擊率提升16%，效果最多疊加五層。攻擊造成暴擊後，移除已有的專注效果。",
+        "DE": "Erhöht die KT beim Verursachen von Schaden um 16 %, 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT.",
+        "ES": "Al dañar a un enemigo, aumenta la Prob. CRIT en un 16%. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.",
+        "FR": "Augmente le taux CRIT de 16 % à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d'un coup CRIT.",
+        "ID": "Saat mengakibatkan DMG pada musuh, meningkatkan 16% CRIT Rate. Maksimum 5 lapis, dan saat serangan CRIT terpicu, seluruh lapisan efek akan hilang.",
+        "IT": "Dopo aver inflitto danni a un avversario, il tasso di CRIT aumenta di un 16%. Cumulabile fino a 5 volte. In caso di colpo CRIT, la quantità accumulata si azzera.",
+        "JP": "攻撃が敵にダメージを与えた時、会心率+16%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+        "KR": "공격으로 피해를 줄 때마다 치명타 확률이 16% 증가한다. 최대 중첩수: 5회. 공격 시 치명타가 발생하면 모든 집중 효과가 사라진다",
+        "PT": "Ao atingir um oponente, aumenta a Taxa Crítica em 16%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+        "RU": "При нанесении урона противнику повышает шанс крит. попадания на 16%. Эффект может складываться до 5 раз. Добавочный шанс крит. попадания исчезает с первым крит. попаданием.",
+        "TH": "เมื่อการโจมตีก่อให้เกิดความเสียหาย อัตราคริจะเพิ่มขึ้น 16% ซ้อนทับได้มากสุด 5 ครั้ง และเมื่อโจมตีติดคริติคอลจะล้างเอฟเฟกต์ที่โฟกัสออกทั้งหมด",
+        "TR": "Bir düşmana hasar verdikten sonra Kritik Oranı %16 artar. 5 kademeye kadar birikir. Bir Kritik Vuruş yapmak tüm kademeleri tüketir.",
+        "VI": "Khi tấn công tạo thành sát thương, tăng tỷ lệ bạo kích 16%, nhiều nhất cộng dồn 5 lần. Sau khi tấn công tạo thành bạo kích, xóa hiệu quả Chuyên Chú đã có."
+      }
+    }
+  ]
+}

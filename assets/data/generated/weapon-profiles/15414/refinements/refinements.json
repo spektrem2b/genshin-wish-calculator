@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Full Draw",
+    "CHS": "浅濑之弭",
+    "CHT": "淺瀨之弭",
+    "DE": "Totaler Stillstand",
+    "ES": "Gran jugada",
+    "FR": "Pleine allonge",
+    "ID": "Full Draw",
+    "IT": "Grande giocata",
+    "JP": "浅瀨の弭",
+    "KR": "아사세의 활고자",
+    "PT": "Grande Jogada",
+    "RU": "Ничья",
+    "TH": "Full Draw",
+    "TR": "Tam Çekiş",
+    "VI": "Dòng Chảy Tịch Diệt"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 16% and Charged Attack DMG by 12%. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
+        "CHS": "普通攻击造成的伤害提升16%，重击造成的伤害提升12%。当装备该武器的角色元素能量等于100%时，这个效果提升100%。",
+        "CHT": "普通攻擊造成的傷害提升16%，重擊造成的傷害提升12%。當裝備該武器的角色元素能量等於100%時，這個效果提升100%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 16 % und den mit heftigen Schlägen verursachten Schaden um 12 %. Verstärkt diesen Effekt bei 100 % Elementarenergie der mit dieser Waffe ausgerüsteten Figur um 100 %.",
+        "ES": "Aumenta en un 16% el daño infligido con Ataques Normales y en un 12% el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 16 % et ceux des attaques chargées de 12 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme atteint 100 %, cet effet augmente de 100 %.",
+        "ID": "Meningkatkan 16% Normal Attack DMG dan 12% Charged ATK DMG. Saat Energy dari Karakter yang menggunakan senjata ini mencapai 100%, efek meningkat 100%.",
+        "IT": "Aumenta i DAN da attacco normale di un 16% e quelli da attacco caricato di un 12%. Quando l'energia del personaggio equipaggiato con quest'arma raggiunge il massimo, l'effetto aumenta di un 100%.",
+        "JP": "通常攻撃のダメージ+16%、重撃のダメージ+12%。この武器を装備したキャラクターの元素エネルギーが満タンの場合、該当効果が2倍になる。",
+        "KR": "일반 공격으로 주는 피해가 16% 증가하고, 강공격으로 주는 피해가 12% 증가한다. 해당 무기를 장착한 캐릭터의 원소 에너지가 100%일 때, 해당 효과는 100% 증가한다",
+        "PT": "Aumenta o Dano de ATQ Normal em 16% e o Dano de ATQ Carregado em 12%. Quando a Energia Elemental do personagem equipado com essa arma é igual a 100%, esse efeito aumenta 100%.",
+        "RU": "Увеличивает урон обычной атаки на 16% и урон заряженной атаки на 12%. Когда элементальная энергия персонажа с этим оружием достигает 100%, эффект увеличивается на 100%.",
+        "TH": "การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 16% ชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น 12% และเมื่อตัวละครที่ใช้อาวุธนี้มีพลังงานธาตุ 100% เอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Normal Saldırı Hasarını %16, Yüklü Saldırı Hasarını %12 artırır. Bu silahı kuşanan karakterin Enerjisi %100'e ulaştığında, bu güçlendirme %100 artar.",
+        "VI": "Tăng 16% sát thương tấn công thường, tăng 12% sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 20% and Charged Attack DMG by 15%. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
+        "CHS": "普通攻击造成的伤害提升20%，重击造成的伤害提升15%。当装备该武器的角色元素能量等于100%时，这个效果提升100%。",
+        "CHT": "普通攻擊造成的傷害提升20%，重擊造成的傷害提升15%。當裝備該武器的角色元素能量等於100%時，這個效果提升100%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 20 % und den mit heftigen Schlägen verursachten Schaden um 15 %. Verstärkt diesen Effekt bei 100 % Elementarenergie der mit dieser Waffe ausgerüsteten Figur um 100 %.",
+        "ES": "Aumenta en un 20% el daño infligido con Ataques Normales y en un 15% el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 20 % et ceux des attaques chargées de 15 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme atteint 100 %, cet effet augmente de 100 %.",
+        "ID": "Meningkatkan 20% Normal Attack DMG dan 15% Charged ATK DMG. Saat Energy dari Karakter yang menggunakan senjata ini mencapai 100%, efek meningkat 100%.",
+        "IT": "Aumenta i DAN da attacco normale di un 20% e quelli da attacco caricato di un 15%. Quando l'energia del personaggio equipaggiato con quest'arma raggiunge il massimo, l'effetto aumenta di un 100%.",
+        "JP": "通常攻撃のダメージ+20%、重撃のダメージ+15%。この武器を装備したキャラクターの元素エネルギーが満タンの場合、該当効果が2倍になる。",
+        "KR": "일반 공격으로 주는 피해가 20% 증가하고, 강공격으로 주는 피해가 15% 증가한다. 해당 무기를 장착한 캐릭터의 원소 에너지가 100%일 때, 해당 효과는 100% 증가한다",
+        "PT": "Aumenta o Dano de ATQ Normal em 20% e o Dano de ATQ Carregado em 15%. Quando a Energia Elemental do personagem equipado com essa arma é igual a 100%, esse efeito aumenta 100%.",
+        "RU": "Увеличивает урон обычной атаки на 20% и урон заряженной атаки на 15%. Когда элементальная энергия персонажа с этим оружием достигает 100%, эффект увеличивается на 100%.",
+        "TH": "การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 20% ชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น 15% และเมื่อตัวละครที่ใช้อาวุธนี้มีพลังงานธาตุ 100% เอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Normal Saldırı Hasarını %20, Yüklü Saldırı Hasarını %15 artırır. Bu silahı kuşanan karakterin Enerjisi %100'e ulaştığında, bu güçlendirme %100 artar.",
+        "VI": "Tăng 20% sát thương tấn công thường, tăng 15% sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 24% and Charged Attack DMG by 18%. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
+        "CHS": "普通攻击造成的伤害提升24%，重击造成的伤害提升18%。当装备该武器的角色元素能量等于100%时，这个效果提升100%。",
+        "CHT": "普通攻擊造成的傷害提升24%，重擊造成的傷害提升18%。當裝備該武器的角色元素能量等於100%時，這個效果提升100%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 24 % und den mit heftigen Schlägen verursachten Schaden um 18 %. Verstärkt diesen Effekt bei 100 % Elementarenergie der mit dieser Waffe ausgerüsteten Figur um 100 %.",
+        "ES": "Aumenta en un 24% el daño infligido con Ataques Normales y en un 18% el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 24 % et ceux des attaques chargées de 18 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme atteint 100 %, cet effet augmente de 100 %.",
+        "ID": "Meningkatkan 24% Normal Attack DMG dan 18% Charged ATK DMG. Saat Energy dari Karakter yang menggunakan senjata ini mencapai 100%, efek meningkat 100%.",
+        "IT": "Aumenta i DAN da attacco normale di un 24% e quelli da attacco caricato di un 18%. Quando l'energia del personaggio equipaggiato con quest'arma raggiunge il massimo, l'effetto aumenta di un 100%.",
+        "JP": "通常攻撃のダメージ+24%、重撃のダメージ+18%。この武器を装備したキャラクターの元素エネルギーが満タンの場合、該当効果が2倍になる。",
+        "KR": "일반 공격으로 주는 피해가 24% 증가하고, 강공격으로 주는 피해가 18% 증가한다. 해당 무기를 장착한 캐릭터의 원소 에너지가 100%일 때, 해당 효과는 100% 증가한다",
+        "PT": "Aumenta o Dano de ATQ Normal em 24% e o Dano de ATQ Carregado em 18%. Quando a Energia Elemental do personagem equipado com essa arma é igual a 100%, esse efeito aumenta 100%.",
+        "RU": "Увеличивает урон обычной атаки на 24% и урон заряженной атаки на 18%. Когда элементальная энергия персонажа с этим оружием достигает 100%, эффект увеличивается на 100%.",
+        "TH": "การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 24% ชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น 18% และเมื่อตัวละครที่ใช้อาวุธนี้มีพลังงานธาตุ 100% เอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Normal Saldırı Hasarını %24, Yüklü Saldırı Hasarını %18 artırır. Bu silahı kuşanan karakterin Enerjisi %100'e ulaştığında, bu güçlendirme %100 artar.",
+        "VI": "Tăng 24% sát thương tấn công thường, tăng 18% sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 28% and Charged Attack DMG by 21%. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
+        "CHS": "普通攻击造成的伤害提升28%，重击造成的伤害提升21%。当装备该武器的角色元素能量等于100%时，这个效果提升100%。",
+        "CHT": "普通攻擊造成的傷害提升28%，重擊造成的傷害提升21%。當裝備該武器的角色元素能量等於100%時，這個效果提升100%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 28 % und den mit heftigen Schlägen verursachten Schaden um 21 %. Verstärkt diesen Effekt bei 100 % Elementarenergie der mit dieser Waffe ausgerüsteten Figur um 100 %.",
+        "ES": "Aumenta en un 28% el daño infligido con Ataques Normales y en un 21% el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 28 % et ceux des attaques chargées de 21 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme atteint 100 %, cet effet augmente de 100 %.",
+        "ID": "Meningkatkan 28% Normal Attack DMG dan 21% Charged ATK DMG. Saat Energy dari Karakter yang menggunakan senjata ini mencapai 100%, efek meningkat 100%.",
+        "IT": "Aumenta i DAN da attacco normale di un 28% e quelli da attacco caricato di un 21%. Quando l'energia del personaggio equipaggiato con quest'arma raggiunge il massimo, l'effetto aumenta di un 100%.",
+        "JP": "通常攻撃のダメージ+28%、重撃のダメージ+21%。この武器を装備したキャラクターの元素エネルギーが満タンの場合、該当効果が2倍になる。",
+        "KR": "일반 공격으로 주는 피해가 28% 증가하고, 강공격으로 주는 피해가 21% 증가한다. 해당 무기를 장착한 캐릭터의 원소 에너지가 100%일 때, 해당 효과는 100% 증가한다",
+        "PT": "Aumenta o Dano de ATQ Normal em 28% e o Dano de ATQ Carregado em 21%. Quando a Energia Elemental do personagem equipado com essa arma é igual a 100%, esse efeito aumenta 100%.",
+        "RU": "Увеличивает урон обычной атаки на 28% и урон заряженной атаки на 21%. Когда элементальная энергия персонажа с этим оружием достигает 100%, эффект увеличивается на 100%.",
+        "TH": "การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 28% ชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น 21% และเมื่อตัวละครที่ใช้อาวุธนี้มีพลังงานธาตุ 100% เอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Normal Saldırı Hasarını %28, Yüklü Saldırı Hasarını %21 artırır. Bu silahı kuşanan karakterin Enerjisi %100'e ulaştığında, bu güçlendirme %100 artar.",
+        "VI": "Tăng 28% sát thương tấn công thường, tăng 21% sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 32% and Charged Attack DMG by 24%. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
+        "CHS": "普通攻击造成的伤害提升32%，重击造成的伤害提升24%。当装备该武器的角色元素能量等于100%时，这个效果提升100%。",
+        "CHT": "普通攻擊造成的傷害提升32%，重擊造成的傷害提升24%。當裝備該武器的角色元素能量等於100%時，這個效果提升100%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 32 % und den mit heftigen Schlägen verursachten Schaden um 24 %. Verstärkt diesen Effekt bei 100 % Elementarenergie der mit dieser Waffe ausgerüsteten Figur um 100 %.",
+        "ES": "Aumenta en un 32% el daño infligido con Ataques Normales y en un 24% el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 32 % et ceux des attaques chargées de 24 %. Lorsque l'énergie élémentaire du personnage équipé de l'arme atteint 100 %, cet effet augmente de 100 %.",
+        "ID": "Meningkatkan 32% Normal Attack DMG dan 24% Charged ATK DMG. Saat Energy dari Karakter yang menggunakan senjata ini mencapai 100%, efek meningkat 100%.",
+        "IT": "Aumenta i DAN da attacco normale di un 32% e quelli da attacco caricato di un 24%. Quando l'energia del personaggio equipaggiato con quest'arma raggiunge il massimo, l'effetto aumenta di un 100%.",
+        "JP": "通常攻撃のダメージ+32%、重撃のダメージ+24%。この武器を装備したキャラクターの元素エネルギーが満タンの場合、該当効果が2倍になる。",
+        "KR": "일반 공격으로 주는 피해가 32% 증가하고, 강공격으로 주는 피해가 24% 증가한다. 해당 무기를 장착한 캐릭터의 원소 에너지가 100%일 때, 해당 효과는 100% 증가한다",
+        "PT": "Aumenta o Dano de ATQ Normal em 32% e o Dano de ATQ Carregado em 24%. Quando a Energia Elemental do personagem equipado com essa arma é igual a 100%, esse efeito aumenta 100%.",
+        "RU": "Увеличивает урон обычной атаки на 32% и урон заряженной атаки на 24%. Когда элементальная энергия персонажа с этим оружием достигает 100%, эффект увеличивается на 100%.",
+        "TH": "การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 32% ชาร์จโจมตีสร้างความเสียหายเพิ่มขึ้น 24% และเมื่อตัวละครที่ใช้อาวุธนี้มีพลังงานธาตุ 100% เอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+        "TR": "Normal Saldırı Hasarını %32, Yüklü Saldırı Hasarını %24 artırır. Bu silahı kuşanan karakterin Enerjisi %100'e ulaştığında, bu güçlendirme %100 artar.",
+        "VI": "Tăng 32% sát thương tấn công thường, tăng 24% sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này."
+      }
+    }
+  ]
+}
