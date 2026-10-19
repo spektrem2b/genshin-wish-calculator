@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Rapid Firing",
+    "CHS": "速射弓斗",
+    "CHT": "速射弓鬥",
+    "DE": "Schnellschuss",
+    "ES": "Disparo rápido",
+    "FR": "Tir rapide",
+    "ID": "Rapid Firing",
+    "IT": "Fuoco rapido",
+    "JP": "速射の弓",
+    "KR": "속사 궁술",
+    "PT": "Disparo Rápido",
+    "RU": "Быстрая стрельба",
+    "TH": "Rapid Firing",
+    "TR": "Yaylım Ateşi",
+    "VI": "Cung Tên Tốc Xạ"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 40% but decreases Charged Attack DMG by 10%.",
+        "CHS": "普通攻击造成的伤害提升40%，重击造成的伤害下降10%。",
+        "CHT": "普通攻擊造成的傷害提升40%，重擊造成的傷害下降10%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 40 % und verringert den mit heftigen Schlägen verursachten Schaden um 10 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 40% y el de Ataque Cargado disminuye en un 10%.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 40 % et diminue les DGT infligés par les attaques chargées de 10 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 40% tapi menurunkan DMG Charged Attack sebesar 10%.",
+        "IT": "Aumenta i DAN da attacchi normali di un 40%, ma riduce quelli da attacchi caricati di un 10%.",
+        "JP": "通常攻撃のダメージ+40%、重撃のダメージ-10%。",
+        "KR": "일반 공격으로 주는 피해가 40% 증가한다. 강공격으로 주는 피해가 10% 감소한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 40% mas diminui o Dano do Ataque Carregado em 10%.",
+        "RU": "Увеличивает урон обычной атаки на 40%, но понижает урон заряженной атаки на 10%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 40% และลดความเสียหายของการชาร์จโจมตีลง 10%",
+        "TR": "Normal Saldırı Hasarını %40 artırır ama Yüklü Saldırı Hasarını %10 azaltır.",
+        "VI": "Tăng 40% sát thương của tấn công thường, giảm 10% sát thương trọng kích."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 50% but decreases Charged Attack DMG by 10%.",
+        "CHS": "普通攻击造成的伤害提升50%，重击造成的伤害下降10%。",
+        "CHT": "普通攻擊造成的傷害提升50%，重擊造成的傷害下降10%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 50 % und verringert den mit heftigen Schlägen verursachten Schaden um 10 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 50% y el de Ataque Cargado disminuye en un 10%.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 50 % et diminue les DGT infligés par les attaques chargées de 10 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 50% tapi menurunkan DMG Charged Attack sebesar 10%.",
+        "IT": "Aumenta i DAN da attacchi normali di un 50%, ma riduce quelli da attacchi caricati di un 10%.",
+        "JP": "通常攻撃のダメージ+50%、重撃のダメージ-10%。",
+        "KR": "일반 공격으로 주는 피해가 50% 증가한다. 강공격으로 주는 피해가 10% 감소한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 50% mas diminui o Dano do Ataque Carregado em 10%.",
+        "RU": "Увеличивает урон обычной атаки на 50%, но понижает урон заряженной атаки на 10%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 50% และลดความเสียหายของการชาร์จโจมตีลง 10%",
+        "TR": "Normal Saldırı Hasarını %50 artırır ama Yüklü Saldırı Hasarını %10 azaltır.",
+        "VI": "Tăng 50% sát thương của tấn công thường, giảm 10% sát thương trọng kích."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 60% but decreases Charged Attack DMG by 10%.",
+        "CHS": "普通攻击造成的伤害提升60%，重击造成的伤害下降10%。",
+        "CHT": "普通攻擊造成的傷害提升60%，重擊造成的傷害下降10%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 60 % und verringert den mit heftigen Schlägen verursachten Schaden um 10 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 60% y el de Ataque Cargado disminuye en un 10%.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 60 % et diminue les DGT infligés par les attaques chargées de 10 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 60% tapi menurunkan DMG Charged Attack sebesar 10%.",
+        "IT": "Aumenta i DAN da attacchi normali di un 60%, ma riduce quelli da attacchi caricati di un 10%.",
+        "JP": "通常攻撃のダメージ+60%、重撃のダメージ-10%。",
+        "KR": "일반 공격으로 주는 피해가 60% 증가한다. 강공격으로 주는 피해가 10% 감소한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 60% mas diminui o Dano do Ataque Carregado em 10%.",
+        "RU": "Увеличивает урон обычной атаки на 60%, но понижает урон заряженной атаки на 10%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 60% และลดความเสียหายของการชาร์จโจมตีลง 10%",
+        "TR": "Normal Saldırı Hasarını %60 artırır ama Yüklü Saldırı Hasarını %10 azaltır.",
+        "VI": "Tăng 60% sát thương của tấn công thường, giảm 10% sát thương trọng kích."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 70% but decreases Charged Attack DMG by 10%.",
+        "CHS": "普通攻击造成的伤害提升70%，重击造成的伤害下降10%。",
+        "CHT": "普通攻擊造成的傷害提升70%，重擊造成的傷害下降10%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 70 % und verringert den mit heftigen Schlägen verursachten Schaden um 10 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 70% y el de Ataque Cargado disminuye en un 10%.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 70 % et diminue les DGT infligés par les attaques chargées de 10 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 70% tapi menurunkan DMG Charged Attack sebesar 10%.",
+        "IT": "Aumenta i DAN da attacchi normali di un 70%, ma riduce quelli da attacchi caricati di un 10%.",
+        "JP": "通常攻撃のダメージ+70%、重撃のダメージ-10%。",
+        "KR": "일반 공격으로 주는 피해가 70% 증가한다. 강공격으로 주는 피해가 10% 감소한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 70% mas diminui o Dano do Ataque Carregado em 10%.",
+        "RU": "Увеличивает урон обычной атаки на 70%, но понижает урон заряженной атаки на 10%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 70% และลดความเสียหายของการชาร์จโจมตีลง 10%",
+        "TR": "Normal Saldırı Hasarını %70 artırır ama Yüklü Saldırı Hasarını %10 azaltır.",
+        "VI": "Tăng 70% sát thương của tấn công thường, giảm 10% sát thương trọng kích."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 80% but decreases Charged Attack DMG by 10%.",
+        "CHS": "普通攻击造成的伤害提升80%，重击造成的伤害下降10%。",
+        "CHT": "普通攻擊造成的傷害提升80%，重擊造成的傷害下降10%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 80 % und verringert den mit heftigen Schlägen verursachten Schaden um 10 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 80% y el de Ataque Cargado disminuye en un 10%.",
+        "FR": "Augmente les DGT infligés par les attaques normales de 80 % et diminue les DGT infligés par les attaques chargées de 10 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 80% tapi menurunkan DMG Charged Attack sebesar 10%.",
+        "IT": "Aumenta i DAN da attacchi normali di un 80%, ma riduce quelli da attacchi caricati di un 10%.",
+        "JP": "通常攻撃のダメージ+80%、重撃のダメージ-10%。",
+        "KR": "일반 공격으로 주는 피해가 80% 증가한다. 강공격으로 주는 피해가 10% 감소한다",
+        "PT": "Aumenta o Dano do Ataque Normal em 80% mas diminui o Dano do Ataque Carregado em 10%.",
+        "RU": "Увеличивает урон обычной атаки на 80%, но понижает урон заряженной атаки на 10%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 80% และลดความเสียหายของการชาร์จโจมตีลง 10%",
+        "TR": "Normal Saldırı Hasarını %80 artırır ama Yüklü Saldırı Hasarını %10 azaltır.",
+        "VI": "Tăng 80% sát thương của tấn công thường, giảm 10% sát thương trọng kích."
+      }
+    }
+  ]
+}

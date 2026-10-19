@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Bane of Flame and Water",
+    "CHS": "踏火止水",
+    "CHT": "踏火止水",
+    "DE": "Bewährtheit von Feuer und Wasser",
+    "ES": "Perdición de las llamas y el agua",
+    "FR": "Fléau de feu et d'eau",
+    "ID": "Bane of Flame and Water",
+    "IT": "Flagello delle fiamme e dell'acqua",
+    "JP": "炎と水の破滅",
+    "KR": "따끈따끈 첨벙첨벙",
+    "PT": "Destruição das Chamas e Água",
+    "RU": "Погибель пламени и воды",
+    "TH": "Bane of Flame and Water",
+    "TR": "Alev ve Suyun Laneti",
+    "VI": "Diệt Hỏa Ngưng Thủy"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Pyro by 12%.",
+        "CHS": "对处于水元素或火元素影响下的敌人，造成的伤害提高12%。",
+        "CHT": "對處於水元素或火元素影響下的敵人，造成的傷害提高12%。",
+        "DE": "Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 12 %.",
+        "ES": "Aumenta en un 12% el daño contra los enemigos afectados por Hydro o Pyro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de 12 %.",
+        "ID": "Meningkatkan 12% DMG terhadap musuh yang terpengaruh Hydro atau Pyro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Pyro di un 12%.",
+        "JP": "水元素または炎元素の影響を受けた敵に対するダメージ+12%。",
+        "KR": "물 원소 또는 불 원소의 영향을 받은 적에게 주는 피해가 12% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em 12%.",
+        "RU": "Увеличивает на 12% урон против врагов, находящихся под действием Гидро или Пиро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรู ที่ได้รับผลกระทบของ ธาตุน้ำและไฟขึ้น 12%",
+        "TR": "Su veya Ateşten etkilenen düşmanlara verilen Hasarı %12 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa tăng 12%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Pyro by 15%.",
+        "CHS": "对处于水元素或火元素影响下的敌人，造成的伤害提高15%。",
+        "CHT": "對處於水元素或火元素影響下的敵人，造成的傷害提高15%。",
+        "DE": "Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 15 %.",
+        "ES": "Aumenta en un 15% el daño contra los enemigos afectados por Hydro o Pyro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de 15 %.",
+        "ID": "Meningkatkan 15% DMG terhadap musuh yang terpengaruh Hydro atau Pyro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Pyro di un 15%.",
+        "JP": "水元素または炎元素の影響を受けた敵に対するダメージ+15%。",
+        "KR": "물 원소 또는 불 원소의 영향을 받은 적에게 주는 피해가 15% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em 15%.",
+        "RU": "Увеличивает на 15% урон против врагов, находящихся под действием Гидро или Пиро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรู ที่ได้รับผลกระทบของ ธาตุน้ำและไฟขึ้น 15%",
+        "TR": "Su veya Ateşten etkilenen düşmanlara verilen Hasarı %15 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa tăng 15%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Pyro by 18%.",
+        "CHS": "对处于水元素或火元素影响下的敌人，造成的伤害提高18%。",
+        "CHT": "對處於水元素或火元素影響下的敵人，造成的傷害提高18%。",
+        "DE": "Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 18 %.",
+        "ES": "Aumenta en un 18% el daño contra los enemigos afectados por Hydro o Pyro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de 18 %.",
+        "ID": "Meningkatkan 18% DMG terhadap musuh yang terpengaruh Hydro atau Pyro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Pyro di un 18%.",
+        "JP": "水元素または炎元素の影響を受けた敵に対するダメージ+18%。",
+        "KR": "물 원소 또는 불 원소의 영향을 받은 적에게 주는 피해가 18% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em 18%.",
+        "RU": "Увеличивает на 18% урон против врагов, находящихся под действием Гидро или Пиро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรู ที่ได้รับผลกระทบของ ธาตุน้ำและไฟขึ้น 18%",
+        "TR": "Su veya Ateşten etkilenen düşmanlara verilen Hasarı %18 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa tăng 18%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Pyro by 21%.",
+        "CHS": "对处于水元素或火元素影响下的敌人，造成的伤害提高21%。",
+        "CHT": "對處於水元素或火元素影響下的敵人，造成的傷害提高21%。",
+        "DE": "Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 21 %.",
+        "ES": "Aumenta en un 21% el daño contra los enemigos afectados por Hydro o Pyro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de 21 %.",
+        "ID": "Meningkatkan 21% DMG terhadap musuh yang terpengaruh Hydro atau Pyro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Pyro di un 21%.",
+        "JP": "水元素または炎元素の影響を受けた敵に対するダメージ+21%。",
+        "KR": "물 원소 또는 불 원소의 영향을 받은 적에게 주는 피해가 21% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em 21%.",
+        "RU": "Увеличивает на 21% урон против врагов, находящихся под действием Гидро или Пиро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรู ที่ได้รับผลกระทบของ ธาตุน้ำและไฟขึ้น 21%",
+        "TR": "Su veya Ateşten etkilenen düşmanlara verilen Hasarı %21 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa tăng 21%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases DMG against opponents affected by Hydro or Pyro by 24%.",
+        "CHS": "对处于水元素或火元素影响下的敌人，造成的伤害提高24%。",
+        "CHT": "對處於水元素或火元素影響下的敵人，造成的傷害提高24%。",
+        "DE": "Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 24 %.",
+        "ES": "Aumenta en un 24% el daño contra los enemigos afectados por Hydro o Pyro.",
+        "FR": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de 24 %.",
+        "ID": "Meningkatkan 24% DMG terhadap musuh yang terpengaruh Hydro atau Pyro.",
+        "IT": "Aumenta i DAN contro gli avversari sotto l'effetto di Hydro o Pyro di un 24%.",
+        "JP": "水元素または炎元素の影響を受けた敵に対するダメージ+24%。",
+        "KR": "물 원소 또는 불 원소의 영향을 받은 적에게 주는 피해가 24% 증가한다",
+        "PT": "Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em 24%.",
+        "RU": "Увеличивает на 24% урон против врагов, находящихся под действием Гидро или Пиро элементов.",
+        "TH": "เพิ่มความเสียหายแก่ศัตรูที่ได้รับผลกระทบของธาตุน้ำและไฟขึ้น 24%",
+        "TR": "Su veya Ateşten etkilenen düşmanlara verilen Hasarı %24 artırır.",
+        "VI": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa tăng 24%."
+      }
+    }
+  ]
+}
