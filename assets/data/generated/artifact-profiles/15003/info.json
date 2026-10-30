@@ -1,0 +1,69 @@
+{
+  "id": 15003,
+  "name": {
+    "EN": "Wanderer's Troupe",
+    "CHS": "流浪大地的乐团",
+    "CHT": "流浪大地的樂團",
+    "DE": "Wanderorchester",
+    "ES": "Orquesta del Errante",
+    "FR": "Bande vagabonde",
+    "ID": "Wanderer's Troupe",
+    "IT": "Compagnia del vagabondo",
+    "JP": "大地を流浪する楽団",
+    "KR": "대지를 유랑하는 악단",
+    "PT": "Trupe Itinerante",
+    "RU": "Странствующий ансамбль",
+    "TH": "Wanderer's Troupe",
+    "TR": "Göçebe Kumpanyası",
+    "VI": "Đoàn Hát Lang Thang Đại Lục"
+  },
+  "rarityList": [
+    4,
+    5
+  ],
+  "icon": "generated/artifact-profiles/15003/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Increases Elemental Mastery by 80.",
+        "CHS": "元素精通提高80点。",
+        "CHT": "元素精通提高80點。",
+        "DE": "Erhöht Elementarkunde um 80 Punkte.",
+        "ES": "Maestría Elemental +80 pts.",
+        "FR": "Augmente la maîtrise élémentaire de 80 pts.",
+        "ID": "Elemental Mastery +80.",
+        "IT": "Maestria elementale +80.",
+        "JP": "元素熟知+80。",
+        "KR": "원소 마스터리+80pt",
+        "PT": "Proficiência Elemental +80",
+        "RU": "Увеличивает мастерство стихий на 80 ед.",
+        "TH": "ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย",
+        "TR": "Element Ustalığını 80 artırır.",
+        "VI": "Tăng 80 điểm tinh thông nguyên tố."
+      },
+      "affixId": "2150030"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.",
+        "CHS": "装备该圣遗物套装的角色为法器、弓箭角色时，角色重击造成的伤害提高35%。",
+        "CHT": "裝備該聖遺物套裝的角色為法器、弓箭角色時，角色重擊造成的傷害提高35%。",
+        "DE": "Erhöht den mit heftigen Schlägen verursachten Schaden, wenn die Figur einen Katalysator oder einen Bogen trägt, um 35 %.",
+        "ES": "Aumenta el daño de ATQ Cargado en un 35% si el personaje usa catalizador o arco.",
+        "FR": "Augmente les DGT infligés par les attaques chargées de 35 % lorsque ce set d'artéfacts est équipé par les personnages armés d'un arc ou d'un catalyseur.",
+        "ID": "Meningkatkan 35% DMG Charged Attack karakter yang menggunakan Catalyst, Bow.",
+        "IT": "Se il personaggio usa un catalizzatore o un arco, aumenta di un 35% i DAN da attacco caricato.",
+        "JP": "該当聖遺物セットを装備したキャラが法器、弓キャラの場合、キャラの重撃ダメージ+35%。",
+        "KR": "해당 성유물 세트를 장착한 캐릭터가 법구 또는 활을 사용 시 캐릭터의 강공격으로 주는 피해가 35% 증가한다",
+        "PT": "Aumenta o Dano do Ataque Carregado em 35% se o personagem estiver usando Catalisador ou Arco.",
+        "RU": "Увеличивает урон заряженной атаки на 35%, если персонаж использует катализатор или стрелковое оружие.",
+        "TH": "เมื่อตัวละครที่สวมเซ็ตอาร์ติแฟกต์เป็นผู้ใช้สื่อเวท, ธนู การชาร์จโจมตีของตัวละครจะสร้างความเสียหายเพิ่มขึ้น 35%",
+        "TR": "Karakter bir Katalizör veya Yay kullanıyorsa Yüklü Saldırı Hasarını %35 artırır.",
+        "VI": "Khi nhân vật trang bị bộ Thánh Di Vật này dùng pháp khí, cung tên, sát thương trọng kích nhân vật tạo thành tăng 35%."
+      },
+      "affixId": "2150031"
+    }
+  ]
+}

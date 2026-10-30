@@ -1,0 +1,1 @@
+function a(b,{slugs:c,routePrefix:f,idParam:g}){const h=b&&c[b['id']];return h?''+(typeof window<'u'&&window['__SITE_ROOT__']||'/')+f+'/'+h+'/':'#/'+f+'?'+g+'='+encodeURIComponent(b&&b['id']||'');}export{a as infoPageHref};

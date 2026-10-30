@@ -1,0 +1,69 @@
+{
+  "id": 10003,
+  "name": {
+    "EN": "Defender's Will",
+    "CHS": "守护之心",
+    "CHT": "守護之心",
+    "DE": "Beschützerinstinkt",
+    "ES": "Corazón del Guardián",
+    "FR": "Cœur du Gardien",
+    "ID": "Defender's Will",
+    "IT": "Volontà del difensore",
+    "JP": "守護の心",
+    "KR": "수호자의 마음",
+    "PT": "Guardião",
+    "RU": "Воля защитника",
+    "TH": "Defender's Will",
+    "TR": "Savunmacı İradesi",
+    "VI": "Trái Tim Thủ Hộ"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/10003/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "DEF +30%",
+        "CHS": "防御力提高30%。",
+        "CHT": "防禦力提高30%。",
+        "DE": "Erhöht die VTD um 30 %.",
+        "ES": "DEF +30%.",
+        "FR": "Augmente la DÉF de 30 %.",
+        "ID": "DEF +30%.",
+        "IT": "DIF +30%.",
+        "JP": "防御力+30%。",
+        "KR": "방어력+30%",
+        "PT": "DEF +30%",
+        "RU": "Увеличивает защиту на 30%.",
+        "TH": "เพิ่มพลังป้องกัน 30%",
+        "TR": "+%30 Savunma.",
+        "VI": "Phòng ngự tăng 30%."
+      },
+      "affixId": "2100030"
+    },
+    {
+      "pieces": 4,
+      "effect": {
+        "EN": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%.",
+        "CHS": "队伍里每有不同一种元素类型的自己的角色，自身获得30%相应的元素抗性。",
+        "CHT": "隊伍裡自己的角色每有不同一種的元素類型，自身獲得30%相應的元素抗性。",
+        "DE": "Erhöht für jedes unterschiedliche Element der eigenen Figuren in der Truppe den eigenen WDS des jeweiligen Elements um 30 %.",
+        "ES": "Por cada miembro de tu equipo con un tipo elemental distinto, La RES Elemental del personaje que lleve este conjunto aumenta en un 30% contra dicho elemento.",
+        "FR": "Pour chaque personnage de l'équipe ayant un élément de type différent du personnage équipé, la RÉS élémentaire correspondante est augmentée de 30 %.",
+        "ID": "Meningkatkan 30% Elemental RES diri sendiri untuk setiap jenis elemen karakter di dalam party.",
+        "IT": "Per ogni personaggio di tipo elementale diverso nel tuo gruppo, ottieni un aumento di un 30% della RES per ciascun elemento corrispondente.",
+        "JP": "チーム内の自身のキャラクターの元素タイプ1種類につき、自身にその元素の耐性+30%。",
+        "KR": "파티 내에 다른 원소 타입의 자신의 캐릭터가 1명 존재할 때마다 자신은 대응하는 원소의 내성을 30% 획득한다",
+        "PT": "Aumenta a própria RES do respectivo elemento em 30% para cada elemento diferente dos seus personagens da equipe.",
+        "RU": "За каждого члена вашего отряда с неповторяющимся элементом повышает сопротивление к соответствующему элементу на 30%.",
+        "TH": "เพิ่มความต้านทานธาตุของแต่ละธาตุที่แตกต่างกันของตัวละครของคุณในทีม ธาตุละ 30% ให้กับผู้ใช้อาร์ติแฟกต์เซ็ตนี้",
+        "TR": "Bunu kuşanan karakterin Element Direnci, grubunda bulunan her farklı element için %30 artar.",
+        "VI": "Cứ mỗi nhân vật của bản thân có 1 nguyên tố khác trong đội thì bản thân sẽ được nhận 30% kháng Nguyên Tố tương ứng."
+      },
+      "affixId": "2100031"
+    }
+  ]
+}

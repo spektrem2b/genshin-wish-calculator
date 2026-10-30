@@ -1,0 +1,1 @@
+var a=new Map();function b(d,f){const g=a['get'](d);g&&document['removeEventListener']('click',g),document['addEventListener']('click',f),a['set'](d,f);}export{b as bindGlobalClickOnce};
