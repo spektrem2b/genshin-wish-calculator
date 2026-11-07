@@ -1,0 +1,1 @@
+function b(c){const d='assets/data/generated/weapon-profiles/'+c;return Promise['all']([window['GWC']['getJson'](d+'/info.json'),window['GWC']['getJson'](d+'/materials/materials.json'),window['GWC']['getJson'](d+'/refinements/refinements.json')])['then'](([f,g,h])=>({'info':f,'materials':g,'refinement':h}));}export{b as fetchWeaponProfileRaw};

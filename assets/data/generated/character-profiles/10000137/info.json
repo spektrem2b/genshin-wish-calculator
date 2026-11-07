@@ -1,0 +1,137 @@
+{
+  "id": "10000137",
+  "name": {
+    "EN": "Valeriy",
+    "CHS": "瓦列里",
+    "CHT": "瓦列里",
+    "DE": "Valeriy",
+    "ES": "Valeri",
+    "FR": "Valeriy",
+    "ID": "Valeriy",
+    "IT": "Valeriy",
+    "JP": "バレリー",
+    "KR": "발레리",
+    "PT": "Valeriy",
+    "RU": "Валерий",
+    "TH": "Valeriy",
+    "TR": "Valeriy",
+    "VI": "Valeriy"
+  },
+  "nameEn": "Valeriy",
+  "element": "Electro",
+  "weapon_type": "Sword",
+  "rarity": 4,
+  "region": "SNEZHNAYA",
+  "birthday": {
+    "month": 3,
+    "day": 24
+  },
+  "release": "2026-11-02T22:00:00",
+  "icon": "generated/character-profiles/10000137/avatar.webp",
+  "fullWish": "generated/character-profiles/10000137/full_wish.webp",
+  "fullWishObjectPosition": "50.0% 15.0%",
+  "title": {
+    "EN": "Fort Fulguration",
+    "CHS": "霆骇军垒",
+    "CHT": "霆駭軍壘",
+    "DE": "Blitzschlagbastion",
+    "ES": "El Baluarte Atronador",
+    "FR": "Fulgurante forteresse",
+    "ID": "Fort Fulguration",
+    "IT": "Fortezza folgorante",
+    "JP": "轟雷の要塞",
+    "KR": "천둥 요새",
+    "PT": "Bastião Fulminante",
+    "RU": "Громовая крепость",
+    "TH": "ปราการสะท้านอัสนี",
+    "TR": "Yıldırım Kalesi",
+    "VI": "Sấm Rền Quân Lũy"
+  },
+  "description": {
+    "EN": "Commander of the Special Assignments Battalion. A soldier skilled at protecting key personnel and keeping operations on track.",
+    "CHS": "「特殊任务营」领队，善于保护要员和推进计划的军人。",
+    "CHT": "「特殊任務營」領隊，善於保護要員和推進計畫的軍人。",
+    "DE": "Anführer des Bataillons für Spezialaufträge, der sich auf den Schutz wichtiger Persönlichkeiten und die Umsetzung von Plänen versteht.",
+    "ES": "Capitán del Batallón de Misiones Especiales. Un militar experto en proteger a personalidades importantes y en sacar adelante cualquier plan.",
+    "FR": "Le commandant du bataillon des missions spéciales et un soldat expert dans la protection du personnel clé et le bon déroulement des opérations.",
+    "ID": "Ketua Batalyon Penugasan Khusus. Seorang prajurit yang mahir melindungi orang penting dan memastikan rencana berjalan lancar.",
+    "IT": "Il Comandante del Battaglione degli incarichi speciali. Un soldato capace sia di proteggere le personalità di rilievo che di garantire l'esecuzione puntuale delle operazioni.",
+    "JP": "「特殊任務隊」隊長。要人警護と定刻通りの予定進行に長けた将校。",
+    "KR": "「특수임무대」 대장. 요인 경호와 정확한 일정에 맞춰 계획을 추진하는 데 능한 군인이다",
+    "PT": "Comandante do Batalhão de Missões Especiais. Um soldado habilidoso em proteger pessoas importantes e manter operações em progresso.",
+    "RU": "Командир батальона специального назначения. Опытный военный, умеющий защищать важных персон и воплощать планы в жизнь.",
+    "TH": "หัวหน้า \"กองพันภารกิจพิเศษ\" นายทหารผู้เชี่ยวชาญด้านการคุ้มกันบุคคลสำคัญ และขับเคลื่อนแผนการ",
+    "TR": "Özel Operasyon Taburu Komutanı. Kilit personeli korumakta ve operasyonları rayında tutmakta usta bir asker.",
+    "VI": "Chỉ huy của Đội Nhiệm Vụ Đặc Biệt, một quân nhân giỏi trong việc bảo vệ nhân vật quan trọng và thúc đẩy kế hoạch."
+  },
+  "constellationName": {
+    "EN": "Ursus Magnus",
+    "CHS": "熊罴座",
+    "CHT": "熊羆座",
+    "DE": "Ursus Fuscus",
+    "ES": "Ursus Magnus",
+    "FR": "Ursus Magnus",
+    "ID": "Ursus Magnus",
+    "IT": "Ursus Magnus",
+    "JP": "ウルスス・マグヌス座",
+    "KR": "불곰자리",
+    "PT": "Ursus Magnus",
+    "RU": "Медведь",
+    "TH": "Ursus Magnus",
+    "TR": "Boz Ayı",
+    "VI": "Cung Hùng Bi"
+  },
+  "native": {
+    "EN": "Fatui Grenadier Guards First Regiment",
+    "CHS": "愚人众第一近卫掷弹兵团",
+    "CHT": "愚人眾第一近衛擲彈兵團",
+    "DE": "Erste Grenadiergarde der Fatui",
+    "ES": "Primer Regimiento de Bombarderos de la Guardia de los Fatui",
+    "FR": "1ers grenadiers des Fatui",
+    "ID": "Resimen Grenadier Pengawal Pertama Fatui",
+    "IT": "Primo reggimento Granatieri dei Fatui",
+    "JP": "ファデュイ第一近衛擲弾兵団",
+    "KR": "우인단 제1근위 척탄병단",
+    "PT": "1º Regimento de Artilheiros Druzhina dos Fatui",
+    "RU": "Первый гренадёрский полк Фатуи",
+    "TH": "กองทหารพลระเบิดรักษาพระองค์ที่ 1 แห่ง Fatui",
+    "TR": "Fatui Bombacı Muhafızları Birinci Alay",
+    "VI": "Lữ Đoàn Lựu Đạn Cận Vệ Số 1 Fatui"
+  },
+  "cv": [
+    {
+      "lang": "EN",
+      "va": "Jordan Reynolds"
+    },
+    {
+      "lang": "CHS",
+      "va": "淦子齐"
+    },
+    {
+      "lang": "JP",
+      "va": "古川慎"
+    },
+    {
+      "lang": "KR",
+      "va": "Park Noh-sik"
+    }
+  ],
+  "specialStat": "FIGHT_PROP_ATTACK_PERCENT",
+  "baseStats": [
+    {
+      "propType": "FIGHT_PROP_BASE_HP",
+      "initValue": 838.8477,
+      "growthType": "GROW_CURVE_HP_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "initValue": 21.3696,
+      "growthType": "GROW_CURVE_ATTACK_S4"
+    },
+    {
+      "propType": "FIGHT_PROP_BASE_DEFENSE",
+      "initValue": 58.94175,
+      "growthType": "GROW_CURVE_HP_S4"
+    }
+  ]
+}

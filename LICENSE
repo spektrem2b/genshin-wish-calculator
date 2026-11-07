@@ -1,0 +1,42 @@
+Copyright (c) 2026 Spektrem2b. All rights reserved.
+
+This notice covers only the original source code and original text created
+by the copyright holder for this project, including the original source-code
+expression implementing its calculations and features. It does not cover the
+HoYoverse/miHoYo and third-party material described below, and it does not
+claim copyright in underlying ideas, mathematical methods, algorithms, or
+functionality as such.
+
+This repository is published for viewing only. No license is granted to copy,
+modify, merge, publish, distribute, sublicense, sell, or create derivative
+works from the covered code and text, or to use them in another project,
+without prior written permission from the copyright holder. Use of the
+website itself is governed by its Terms of Use.
+
+Viewing and forking this public repository through GitHub is permitted as
+authorized by GitHub's Terms of Service and platform functionality. This
+notice grants no additional license or rights beyond those permissions, and
+the owner does not accept contributions.
+
+Not covered, HoYoverse/miHoYo material: Genshin Impact names, characters,
+artwork, icons, game data, text and other material taken from the game belong
+to HoYoverse/miHoYo and may be protected by their copyrights, trademarks and
+other rights. The copyright holder claims no ownership of, and grants no
+rights in, any of it. This is an unofficial fan project, not affiliated with
+or endorsed by HoYoverse/miHoYo.
+
+Not covered, third-party material: third-party software, libraries, fonts,
+icons, images, data and other assets used by this project, including data
+from Ambr (accessed through the ambr-py client), Ennead.cc, Hashblen and the
+Genshin Impact Wiki, and the lbpcascade_animeface cascade file by nagadomi
+(MIT License, notice retained in the file), remain under their respective
+owners' licenses and terms. The copyright holder claims no ownership of, and
+grants no rights in, any of them.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR ITS USE. NOTHING IN THIS PARAGRAPH EXCLUDES
+OR LIMITS LIABILITY TO THE EXTENT IT CANNOT LAWFULLY BE EXCLUDED OR LIMITED.

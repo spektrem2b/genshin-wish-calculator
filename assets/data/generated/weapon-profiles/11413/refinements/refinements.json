@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Undying Admiration",
+    "CHS": "无尽的渴慕",
+    "CHT": "無盡的渴慕",
+    "DE": "Endlose Bewunderung",
+    "ES": "Anhelo infinito",
+    "FR": "Soif insatiable",
+    "ID": "Undying Admiration",
+    "IT": "Ammirazione eterna",
+    "JP": "底なしの渇望",
+    "KR": "끝없는 갈망",
+    "PT": "Admiração Inabalável",
+    "RU": "Бессмертное восхищение",
+    "TH": "Undying Admiration",
+    "TR": "Sonsuz Hayranlık",
+    "VI": "Khát Vọng Vô Tận"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 16% and Elemental Skill CRIT Rate by 6%.",
+        "CHS": "元素战技造成的伤害增加16%，元素战技的暴击率提升6%。",
+        "CHT": "元素戰技造成的傷害增加16%，元素戰技的暴擊率提升6%。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 16 % und die KT von Elementarfähigkeiten um 6 %.",
+        "ES": "Aumenta en un 16% el daño de la Habilidad Elemental y en un 6% su Prob. CRIT.",
+        "FR": "Augmente les DGT de la compétence élémentaire de 16 % et son taux CRIT de 6 %.",
+        "ID": "Meningkatkan DMG Elemental Skill sebanyak 16%, dan meningkatkan CRIT Rate Elemental Skill sebanyak 6%.",
+        "IT": "Aumenta i DAN e il tasso di CRIT dell'abilità elementale rispettivamente di un 16% e di un 6%.",
+        "JP": "元素スキルのダメージ+16%、元素スキルの会心率+6%。",
+        "KR": "원소전투 스킬로 주는 피해가 16% 증가하고 원소전투 스킬의 치명타 확률이 6% 증가한다",
+        "PT": "Aumenta em 16% o Dano da Habilidade Elemental e em 6% a Taxa CRIT da Habilidade Elemental.",
+        "RU": "Увеличивает урон элементального навыка на 16%, и его шанс крит. попадания - на 6%.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 16% และอัตราคริของสกิลธาตุเพิ่มขึ้น 6%",
+        "TR": "Element Becerisi Hasarını %16 ve Element Becerisi Kritik Oranını %6 artırır.",
+        "VI": "Tăng 16% sát thương kỹ năng nguyên tố, tăng 6% tỷ lệ bạo kích của kỹ năng nguyên tố."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 20% and Elemental Skill CRIT Rate by 7.5%.",
+        "CHS": "元素战技造成的伤害增加20%，元素战技的暴击率提升7.5%。",
+        "CHT": "元素戰技造成的傷害增加20%，元素戰技的暴擊率提升7.5%。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20 % und die KT von Elementarfähigkeiten um 7.5 %.",
+        "ES": "Aumenta en un 20% el daño de la Habilidad Elemental y en un 7.5% su Prob. CRIT.",
+        "FR": "Augmente les DGT de la compétence élémentaire de 20 % et son taux CRIT de 7,5 %.",
+        "ID": "Meningkatkan DMG Elemental Skill sebanyak 20%, dan meningkatkan CRIT Rate Elemental Skill sebanyak 7.5%.",
+        "IT": "Aumenta i DAN e il tasso di CRIT dell'abilità elementale rispettivamente di un 20% e di un 7,5%.",
+        "JP": "元素スキルのダメージ+20%、元素スキルの会心率+7.5%。",
+        "KR": "원소전투 스킬로 주는 피해가 20% 증가하고 원소전투 스킬의 치명타 확률이 7.5% 증가한다",
+        "PT": "Aumenta em 20% o Dano da Habilidade Elemental e em 7.5% a Taxa CRIT da Habilidade Elemental.",
+        "RU": "Увеличивает урон элементального навыка на 20%, и его шанс крит. попадания - на 7,5%.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 20% และอัตราคริของสกิลธาตุเพิ่มขึ้น 7.5%",
+        "TR": "Element Becerisi Hasarını %20 ve Element Becerisi Kritik Oranını %7,5 artırır.",
+        "VI": "Tăng 20% sát thương kỹ năng nguyên tố, tăng 7.5% tỷ lệ bạo kích của kỹ năng nguyên tố."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 24% and Elemental Skill CRIT Rate by 9%.",
+        "CHS": "元素战技造成的伤害增加24%，元素战技的暴击率提升9%。",
+        "CHT": "元素戰技造成的傷害增加24%，元素戰技的暴擊率提升9%。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 24 % und die KT von Elementarfähigkeiten um 9 %.",
+        "ES": "Aumenta en un 24% el daño de la Habilidad Elemental y en un 9% su Prob. CRIT.",
+        "FR": "Augmente les DGT de la compétence élémentaire de 24 % et son taux CRIT de 9 %.",
+        "ID": "Meningkatkan DMG Elemental Skill sebanyak 24%, dan meningkatkan CRIT Rate Elemental Skill sebanyak 9%.",
+        "IT": "Aumenta i DAN e il tasso di CRIT dell'abilità elementale rispettivamente di un 24% e di un 9%.",
+        "JP": "元素スキルのダメージ+24%、元素スキルの会心率+9%。",
+        "KR": "원소전투 스킬로 주는 피해가 24% 증가하고 원소전투 스킬의 치명타 확률이 9% 증가한다",
+        "PT": "Aumenta em 24% o Dano da Habilidade Elemental e em 9% a Taxa CRIT da Habilidade Elemental.",
+        "RU": "Увеличивает урон элементального навыка на 24%, и его шанс крит. попадания - на 9%.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 24% และอัตราคริของสกิลธาตุเพิ่มขึ้น 9%",
+        "TR": "Element Becerisi Hasarını %24 ve Element Becerisi Kritik Oranını %9 artırır.",
+        "VI": "Tăng 24% sát thương kỹ năng nguyên tố, tăng 9% tỷ lệ bạo kích của kỹ năng nguyên tố."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 28% and Elemental Skill CRIT Rate by 10.5%.",
+        "CHS": "元素战技造成的伤害增加28%，元素战技的暴击率提升10.5%。",
+        "CHT": "元素戰技造成的傷害增加28%，元素戰技的暴擊率提升10.5%。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 28 % und die KT von Elementarfähigkeiten um 10.5 %.",
+        "ES": "Aumenta en un 28% el daño de la Habilidad Elemental y en un 10.5% su Prob. CRIT.",
+        "FR": "Augmente les DGT de la compétence élémentaire de 28 % et son taux CRIT de 10,5 %.",
+        "ID": "Meningkatkan DMG Elemental Skill sebanyak 28%, dan meningkatkan CRIT Rate Elemental Skill sebanyak 10.5%.",
+        "IT": "Aumenta i DAN e il tasso di CRIT dell'abilità elementale rispettivamente di un 28% e di un 10,5%.",
+        "JP": "元素スキルのダメージ+28%、元素スキルの会心率+10.5%。",
+        "KR": "원소전투 스킬로 주는 피해가 28% 증가하고 원소전투 스킬의 치명타 확률이 10.5% 증가한다",
+        "PT": "Aumenta em 28% o Dano da Habilidade Elemental e em 10.5% a Taxa CRIT da Habilidade Elemental.",
+        "RU": "Увеличивает урон элементального навыка на 28%, и его шанс крит. попадания - на 10,5%.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 28% และอัตราคริของสกิลธาตุเพิ่มขึ้น 10.5%",
+        "TR": "Element Becerisi Hasarını %28 ve Element Becerisi Kritik Oranını %10,5 artırır.",
+        "VI": "Tăng 28% sát thương kỹ năng nguyên tố, tăng 10.5% tỷ lệ bạo kích của kỹ năng nguyên tố."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Elemental Skill DMG by 32% and Elemental Skill CRIT Rate by 12%.",
+        "CHS": "元素战技造成的伤害增加32%，元素战技的暴击率提升12%。",
+        "CHT": "元素戰技造成的傷害增加32%，元素戰技的暴擊率提升12%。",
+        "DE": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 32 % und die KT von Elementarfähigkeiten um 12 %.",
+        "ES": "Aumenta en un 32% el daño de la Habilidad Elemental y en un 12% su Prob. CRIT.",
+        "FR": "Augmente les DGT de la compétence élémentaire de 32 % et son taux CRIT de 12 %.",
+        "ID": "Meningkatkan DMG Elemental Skill sebanyak 32%, dan meningkatkan CRIT Rate Elemental Skill sebanyak 12%.",
+        "IT": "Aumenta i DAN e il tasso di CRIT dell'abilità elementale rispettivamente di un 32% e di un 12%.",
+        "JP": "元素スキルのダメージ+32%、元素スキルの会心率+12%。",
+        "KR": "원소전투 스킬로 주는 피해가 32% 증가하고 원소전투 스킬의 치명타 확률이 12% 증가한다",
+        "PT": "Aumenta em 32% o Dano da Habilidade Elemental e em 12% a Taxa CRIT da Habilidade Elemental.",
+        "RU": "Увеличивает урон элементального навыка на 32%, и его шанс крит. попадания - на 12%.",
+        "TH": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 32% และอัตราคริของสกิลธาตุเพิ่มขึ้น 12%",
+        "TR": "Element Becerisi Hasarını %32 ve Element Becerisi Kritik Oranını %12 artırır.",
+        "VI": "Tăng 32% sát thương kỹ năng nguyên tố, tăng 12% tỷ lệ bạo kích của kỹ năng nguyên tố."
+      }
+    }
+  ]
+}

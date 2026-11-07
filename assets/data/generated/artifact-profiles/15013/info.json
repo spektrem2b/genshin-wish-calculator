@@ -1,0 +1,48 @@
+{
+  "id": 15013,
+  "name": {
+    "EN": "Prayers to Springtime",
+    "CHS": "祭冰之人",
+    "CHT": "祭冰之人",
+    "DE": "Eisopfer",
+    "ES": "Ritual de la Primavera",
+    "FR": "Sacrifieur Cryo",
+    "ID": "Prayers to Springtime",
+    "IT": "Sacrificio di Cryo",
+    "JP": "氷祭りの人",
+    "KR": "얼음을 모시는 자",
+    "PT": "Orações para a Primavera",
+    "RU": "Шаман льда",
+    "TH": "Prayers to Springtime",
+    "TR": "Bahar Duası",
+    "VI": "Người Tế Băng"
+  },
+  "rarityList": [
+    3,
+    4
+  ],
+  "icon": "generated/artifact-profiles/15013/avatar.webp",
+  "setBonuses": [
+    {
+      "pieces": 2,
+      "effect": {
+        "EN": "Affected by Cryo for 40% less time.",
+        "CHS": "受到的冰元素附着效果的持续时间减少40%。",
+        "CHT": "受到的冰元素附著效果的持續時間減少40%。",
+        "DE": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Kryo-Attribut um 40 %.",
+        "ES": "Los efectos de Cryo causados sobre ti duran un 40% menos.",
+        "FR": "Diminue la durée des effets Cryo subis de 40 %.",
+        "ID": "Mengurangi 40% durasi efek Cryo yang diterima.",
+        "IT": "Riduce la durata dell'effetto di Cryo di un 40%.",
+        "JP": "受けた氷元素付着の効果継続時間-40%。",
+        "KR": "받는 얼음 원소 부착 효과 지속 시간이 40% 감소한다",
+        "PT": "Reduz a duração dos efeitos causados por Cryo em 40%.",
+        "RU": "Уменьшает длительность полученного Крио эффекта на 40%.",
+        "TH": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุน้ำแข็งลง 40%",
+        "TR": "Buz etkisinde kalma süresini %40 kısaltır.",
+        "VI": "Thời gian duy trì hiệu quả ấn nguyên tố Băng giảm 40%."
+      },
+      "affixId": "2150130"
+    }
+  ]
+}

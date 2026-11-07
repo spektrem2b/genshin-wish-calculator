@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Sharp",
+    "CHS": "锐利",
+    "CHT": "銳利",
+    "DE": "Schärfe",
+    "ES": "Afilado",
+    "FR": "Tranchant",
+    "ID": "Sharp",
+    "IT": "Affilatezza",
+    "JP": "鋭利",
+    "KR": "예리",
+    "PT": "Acume",
+    "RU": "Зоркий",
+    "TH": "Sharp",
+    "TR": "Keskin",
+    "VI": "Sắc Bén"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 24%.",
+        "CHS": "普通攻击造成的伤害提升24%。",
+        "CHT": "普通攻擊造成的傷害提升24%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 24 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 24%.",
+        "FR": "Augmente les DGT infligés par des attaques normales de 24 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 24%.",
+        "IT": "Aumenta i DAN da attacco normale di un 24%.",
+        "JP": "通常攻撃のダメージ+24%。",
+        "KR": "일반 공격으로 주는 피해가 24% 증가한다",
+        "PT": "O Dano causado pelo Ataque Normal aumenta 24%.",
+        "RU": "Увеличивает урон обычной атаки на 24%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 24%",
+        "TR": "Normal Saldırı Hasarını %24 artırır.",
+        "VI": "Tấn công thường sát thương tăng 24%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 30%.",
+        "CHS": "普通攻击造成的伤害提升30%。",
+        "CHT": "普通攻擊造成的傷害提升30%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 30 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 30%.",
+        "FR": "Augmente les DGT infligés par des attaques normales de 30 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 30%.",
+        "IT": "Aumenta i DAN da attacco normale di un 30%.",
+        "JP": "通常攻撃のダメージ+30%。",
+        "KR": "일반 공격으로 주는 피해가 30% 증가한다",
+        "PT": "O Dano causado pelo Ataque Normal aumenta 30%.",
+        "RU": "Увеличивает урон обычной атаки на 30%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 30%",
+        "TR": "Normal Saldırı Hasarını %30 artırır.",
+        "VI": "Tấn công thường sát thương tăng 30%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 36%.",
+        "CHS": "普通攻击造成的伤害提升36%。",
+        "CHT": "普通攻擊造成的傷害提升36%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 36 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 36%.",
+        "FR": "Augmente les DGT infligés par des attaques normales de 36 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 36%.",
+        "IT": "Aumenta i DAN da attacco normale di un 36%.",
+        "JP": "通常攻撃のダメージ+36%。",
+        "KR": "일반 공격으로 주는 피해가 36% 증가한다",
+        "PT": "O Dano causado pelo Ataque Normal aumenta 36%.",
+        "RU": "Увеличивает урон обычной атаки на 36%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 36%",
+        "TR": "Normal Saldırı Hasarını %36 artırır.",
+        "VI": "Tấn công thường sát thương tăng 36%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 42%.",
+        "CHS": "普通攻击造成的伤害提升42%。",
+        "CHT": "普通攻擊造成的傷害提升42%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 42 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 42%.",
+        "FR": "Augmente les DGT infligés par des attaques normales de 42 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 42%.",
+        "IT": "Aumenta i DAN da attacco normale di un 42%.",
+        "JP": "通常攻撃のダメージ+42%。",
+        "KR": "일반 공격으로 주는 피해가 42% 증가한다",
+        "PT": "O Dano causado pelo Ataque Normal aumenta 42%.",
+        "RU": "Увеличивает урон обычной атаки на 42%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 42%",
+        "TR": "Normal Saldırı Hasarını %42 artırır.",
+        "VI": "Tấn công thường sát thương tăng 42%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "Increases Normal Attack DMG by 48%.",
+        "CHS": "普通攻击造成的伤害提升48%。",
+        "CHT": "普通攻擊造成的傷害提升48%。",
+        "DE": "Erhöht den mit Standardangriffen verursachten Schaden um 48 %.",
+        "ES": "El daño de Ataque Normal aumenta en un 48%.",
+        "FR": "Augmente les DGT infligés par des attaques normales de 48 %.",
+        "ID": "Meningkatkan DMG Normal Attack sebesar 48%.",
+        "IT": "Aumenta i DAN da attacco normale di un 48%.",
+        "JP": "通常攻撃のダメージ+48%。",
+        "KR": "일반 공격으로 주는 피해가 48% 증가한다",
+        "PT": "O Dano causado pelo Ataque Normal aumenta 48%.",
+        "RU": "Увеличивает урон обычной атаки на 48%.",
+        "TH": "เพิ่มความเสียหายของการโจมตีปกติขึ้น 48%",
+        "TR": "Normal Saldırı Hasarını %48 artırır.",
+        "VI": "Tấn công thường sát thương tăng 48%."
+      }
+    }
+  ]
+}

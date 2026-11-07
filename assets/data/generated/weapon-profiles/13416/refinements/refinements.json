@@ -1,0 +1,121 @@
+{
+  "name": {
+    "EN": "Watatsumi Wavewalker",
+    "CHS": "驭浪的海祇民",
+    "CHT": "馭浪的海祇民",
+    "DE": "Wellenbändiger von Watatsumi",
+    "ES": "Dominaolas de Watatsumi",
+    "FR": "Marchevague de Watatsumi",
+    "ID": "Watatsumi Wavewalker",
+    "IT": "Dominaonde di Watatsumi",
+    "JP": "波を統べる海祇の民",
+    "KR": "파도를 지배하는 와타츠미의 백성",
+    "PT": "Dominadora de Ondas Watatsumi",
+    "RU": "Укротитель волн Ватацуми",
+    "TH": "Watatsumi Wavewalker",
+    "TR": "Watatsumi Dalga Sürücüsü",
+    "VI": "Kẻ Cưỡi Sóng Watatsumi"
+  },
+  "levels": [
+    {
+      "refinement": 1,
+      "description": {
+        "EN": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way.",
+        "CHS": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
+        "CHT": "隊伍中所有角色的元素能量上限的總和，每1點能使裝備此武器的角色的元素爆發造成的傷害提高0.12%，依此方式，元素爆發造成的傷害至多提高40%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,12 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 40 %.",
+        "ES": "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un 0.12% por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un 40% de esta forma.",
+        "FR": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,12 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à 40 % de cette manière.",
+        "ID": "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,12% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 40%.",
+        "IT": "Per ogni punto dell'energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest'arma aumentano di uno 0,12%. In questo modo è possibile ottenere fino a un 40% di aumento dei DAN da Tripudio elementale.",
+        "JP": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.12%。この方法でアップできる元素爆発ダメージは最大40%まで。",
+        "KR": "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 0.12% 증가한다. 해당 방식을 통해 원소폭발로 주는 피해가 최대 40%까지 증가한다",
+        "PT": "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.12% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 40%.",
+        "RU": "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на 0,12% за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать 40%.",
+        "TH": "ทุก 1 หน่วย ของผลรวมพลังงานธาตุสูงสุดของตัวละครทั้งหมดในทีม จะทำให้ท่าไม้ตายของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 0.12% โดยความเสียหายท่าไม้ตายที่เพิ่มขึ้นด้วยวิธีนี้ จะเพิ่มได้มากสุด 40%",
+        "TR": "Bu silahı kuşanan karakterin Element Patlaması Hasarı, tüm grubun toplam maksimum Enerji kapasitesindeki her puan için %0,12 artar. Bu yöntemle en fazla %40 Element Patlaması Hasarı kazanılabilir.",
+        "VI": "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.12% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này gây ra. Thông qua cách này, sát thương Kỹ Năng Nộ tăng tối đa 40%."
+      }
+    },
+    {
+      "refinement": 2,
+      "description": {
+        "EN": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.15%. A maximum of 50% increased Elemental Burst DMG can be achieved this way.",
+        "CHS": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.15%，通过这种方式，元素爆发造成的伤害至多提高50%。",
+        "CHT": "隊伍中所有角色的元素能量上限的總和，每1點能使裝備此武器的角色的元素爆發造成的傷害提高0.15%，依此方式，元素爆發造成的傷害至多提高50%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,15 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 50 %.",
+        "ES": "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un 0.15% por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un 50% de esta forma.",
+        "FR": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,15 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à 50 % de cette manière.",
+        "ID": "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,15% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 50%.",
+        "IT": "Per ogni punto dell'energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest'arma aumentano di uno 0,15%. In questo modo è possibile ottenere fino a un 50% di aumento dei DAN da Tripudio elementale.",
+        "JP": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.15%。この方法でアップできる元素爆発ダメージは最大50%まで。",
+        "KR": "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 0.15% 증가한다. 해당 방식을 통해 원소폭발로 주는 피해가 최대 50%까지 증가한다",
+        "PT": "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.15% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 50%.",
+        "RU": "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на 0,15% за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать 50%.",
+        "TH": "ทุก 1 หน่วย ของผลรวมพลังงานธาตุสูงสุดของตัวละครทั้งหมดในทีม จะทำให้ท่าไม้ตายของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 0.15% โดยความเสียหายท่าไม้ตายที่เพิ่มขึ้นด้วยวิธีนี้ จะสามารถเพิ่มได้มากสุด 50%",
+        "TR": "Bu silahı kuşanan karakterin Element Patlaması Hasarı, tüm grubun toplam maksimum Enerji kapasitesindeki her puan için %0,15 artar. Bu yöntemle en fazla %50 Element Patlaması Hasarı kazanılabilir.",
+        "VI": "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.15% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 50%."
+      }
+    },
+    {
+      "refinement": 3,
+      "description": {
+        "EN": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.18%. A maximum of 60% increased Elemental Burst DMG can be achieved this way.",
+        "CHS": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.18%，通过这种方式，元素爆发造成的伤害至多提高60%。",
+        "CHT": "隊伍中所有角色的元素能量上限的總和，每1點能使裝備此武器的角色的元素爆發造成的傷害提高0.18%，依此方式，元素爆發造成的傷害至多提高60%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,18 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 60 %.",
+        "ES": "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un 0.18% por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un 60% de esta forma.",
+        "FR": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,18 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à 60 % de cette manière.",
+        "ID": "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,18% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 60%.",
+        "IT": "Per ogni punto dell'energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest'arma aumentano di uno 0,18%. In questo modo è possibile ottenere fino a un 60% di aumento dei DAN da Tripudio elementale.",
+        "JP": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.18%。この方法でアップできる元素爆発ダメージは最大60%まで。",
+        "KR": "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 0.18% 증가한다. 해당 방식을 통해 원소폭발로 주는 피해가 최대 60%까지 증가한다",
+        "PT": "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.18% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 60%.",
+        "RU": "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на 0,18% за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать 60%.",
+        "TH": "ทุก 1 หน่วย ของผลรวมพลังงานธาตุสูงสุดของตัวละครทั้งหมดในทีม จะทำให้ท่าไม้ตายของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 0.18% โดยความเสียหายท่าไม้ตายที่เพิ่มขึ้นด้วยวิธีนี้ จะสามารถเพิ่มได้มากสุด 60%",
+        "TR": "Bu silahı kuşanan karakterin Element Patlaması Hasarı, tüm grubun toplam maksimum Enerji kapasitesindeki her puan için %0,18 artar. Bu yöntemle en fazla %60 Element Patlaması Hasarı kazanılabilir.",
+        "VI": "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.18% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 60%."
+      }
+    },
+    {
+      "refinement": 4,
+      "description": {
+        "EN": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.21%. A maximum of 70% increased Elemental Burst DMG can be achieved this way.",
+        "CHS": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.21%，通过这种方式，元素爆发造成的伤害至多提高70%。",
+        "CHT": "隊伍中所有角色的元素能量上限的總和，每1點能使裝備此武器的角色的元素爆發造成的傷害提高0.21%，依此方式，元素爆發造成的傷害至多提高70%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,21 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 70 %.",
+        "ES": "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un 0.21% por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un 70% de esta forma.",
+        "FR": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,21 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à 70 % de cette manière.",
+        "ID": "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,21% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 70%.",
+        "IT": "Per ogni punto dell'energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest'arma aumentano di uno 0,21%. In questo modo è possibile ottenere fino a un 70% di aumento dei DAN da Tripudio elementale.",
+        "JP": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.21%。この方法でアップできる元素爆発ダメージは最大70%まで。",
+        "KR": "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 0.21% 증가한다. 해당 방식을 통해 원소폭발로 주는 피해가 최대 70%까지 증가한다",
+        "PT": "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.21% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 70%.",
+        "RU": "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на 0,21% за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать 70%.",
+        "TH": "ทุก 1 หน่วย ของผลรวมพลังงานธาตุสูงสุดของตัวละครทั้งหมดในทีม จะทำให้ท่าไม้ตายของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 0.21% โดยความเสียหายท่าไม้ตายที่เพิ่มขึ้นด้วยวิธีนี้ จะสามารถเพิ่มได้มากสุด 70%",
+        "TR": "Bu silahı kuşanan karakterin Element Patlaması Hasarı, tüm grubun toplam maksimum Enerji kapasitesindeki her puan için %0,21 artar. Bu yöntemle en fazla %70 Element Patlaması Hasarı kazanılabilir.",
+        "VI": "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.21% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 70%."
+      }
+    },
+    {
+      "refinement": 5,
+      "description": {
+        "EN": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.24%. A maximum of 80% increased Elemental Burst DMG can be achieved this way.",
+        "CHS": "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.24%，通过这种方式，元素爆发造成的伤害至多提高80%。",
+        "CHT": "隊伍中所有角色的元素能量上限的總和，每1點能使裝備此武器的角色的元素爆發造成的傷害提高0.24%，依此方式，元素爆發造成的傷害至多提高80%。",
+        "DE": "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,24 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 80 %.",
+        "ES": "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un 0.24% por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un 80% de esta forma.",
+        "FR": "Pour chaque point de l'énergie élémentaire combinée de tous les personnages de l'équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,24 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu'à 80 % de cette manière.",
+        "ID": "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,24% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 80%.",
+        "IT": "Per ogni punto dell'energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest'arma aumentano di uno 0,24%. In questo modo è possibile ottenere fino a un 80% di aumento dei DAN da Tripudio elementale.",
+        "JP": "チーム全員の元素エネルギー上限の合計を基に、元素爆発ダメージをアップさせる。1ポイントにつき、装備したキャラクターの元素爆発ダメージ+0.24%。この方法でアップできる元素爆発ダメージは最大80%まで。",
+        "KR": "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 0.24% 증가한다. 해당 방식을 통해 원소폭발로 주는 피해가 최대 80%까지 증가한다",
+        "PT": "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.24% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 80%.",
+        "RU": "Урон взрыва стихии экипированного этим оружием персонажа увеличивается на 0,24% за каждую единицу суммы макс. энергии каждого члена отряда. Бонус урона не может превышать 80%.",
+        "TH": "ทุก 1 หน่วย ของผลรวมพลังงานธาตุสูงสุดของตัวละครทั้งหมดในทีม จะทำให้ท่าไม้ตายของตัวละครที่ใช้อาวุธนี้ สร้างความเสียหายเพิ่มขึ้น 0.24% โดยความเสียหายท่าไม้ตายที่เพิ่มขึ้นด้วยวิธีนี้ จะสามารถเพิ่มได้มากสุด 80%",
+        "TR": "Bu silahı kuşanan karakterin Element Patlaması Hasarı, tüm grubun toplam maksimum Enerji kapasitesindeki her puan için %0,24 artar. Bu yöntemle en fazla %80 Element Patlaması Hasarı kazanılabilir.",
+        "VI": "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.24% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 80%."
+      }
+    }
+  ]
+}

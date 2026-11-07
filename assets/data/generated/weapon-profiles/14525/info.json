@@ -1,0 +1,52 @@
+{
+  "id": 14525,
+  "name": {
+    "EN": "Starsealed Edict",
+    "CHS": "秘星典谕",
+    "CHT": "秘星典諭",
+    "DE": "Geheimes Sternorakel",
+    "ES": "Edicto Selloastral",
+    "FR": "Édit d'astre secret",
+    "ID": "Starsealed Edict",
+    "IT": "Editto sigillato dalle stelle",
+    "JP": "秘星の聖典",
+    "KR": "별빛 계시",
+    "PT": "Ordens Canônicas Estelares",
+    "RU": "Звёздный указ",
+    "TH": "Starsealed Edict",
+    "TR": "Yıldız Yazgısı Hükmü",
+    "VI": "Sắc Lệnh Tinh Tú"
+  },
+  "nameEn": "Starsealed Edict",
+  "type": "Catalyst",
+  "rarity": 5,
+  "description": {
+    "EN": "A hefty tome containing the Royal Energy Commission's internal rules and procedures, with numerous entries dating back many years.",
+    "CHS": "记载皇家能源协会内部工作法则的厚重书籍，条目繁多，历史悠久。",
+    "CHT": "記載皇家能源協會內部工作法則的厚重書籍，條目繁多，歷史悠久。",
+    "DE": "Ein schweres Buch, das die internen Arbeitsregeln der zaristischen Energiegesellschaft festhält. Es enthält zahlreiche Einträge und blickt auf eine lange Geschichte zurück.",
+    "ES": "Un grueso libro que recoge las normas de trabajo internas del Real Consorcio de Energía. Cuenta con numerosos apartados y una larga historia.",
+    "FR": "Un volumineux ouvrage contenant les règles et procédures internes de la Commission énergétique impériale. Il comporte de nombreuses entrées datant de plusieurs années.",
+    "ID": "Koleksi buku tebal yang mencatat peraturan kerja internal Royal Energy Commission, dengan begitu banyak entri dan sejarah yang panjang.",
+    "IT": "Un pesante tomo che contiene le regole e le procedure interne della Commissione per l'Energia, con numerose voci risalenti a molti anni or sono.",
+    "JP": "皇立エネルギー協会の内部業務規則を記した分厚い書籍。長い歴史を持っており、項目数が非常に多い。",
+    "KR": "에너지 협회의 업무 규정이 기록되어 있는 두꺼운 서적. 오랜 역사만큼 방대한 항목을 자랑한다",
+    "PT": "Um tomo volumoso contendo as regras e procedimentos internos da Comissão de Energia Real, com inúmeros registros que datam de muitos anos atrás.",
+    "RU": "Увесистый том с внутренними правилами работы Королевской энергетической комиссии. За долгую историю в нём накопилось множество предписаний.",
+    "TH": "หนังสือเล่มหนาที่บันทึกกฎเกณฑ์การทำงาน ภายในของสมาคมพลังงานหลวง มีข้อกำหนดมากมายและประวัติศาสตร์ยาวนาน",
+    "TR": "Kraliyet Enerji Komisyonunun iç tüzüğünü ve prosedürlerini içeren, uzun yıllar öncesinden kalma çok sayıda kaydın bulunduğu kalın bir cilt.",
+    "VI": "Cuốn sách dày ghi chép các quy tắc làm việc nội bộ của Hiệp Hội Năng Lượng Hoàng Gia, với vô số điều khoản và lịch sử lâu đời."
+  },
+  "icon": "generated/weapon-profiles/14525/avatar.webp",
+  "base_atk_lvl1": 44.3358,
+  "base_atk_lvl90": 541.8,
+  "substat_type": "FIGHT_PROP_CRITICAL_HURT",
+  "substat_lvl1": 0.192,
+  "substat_lvl90": 0.882,
+  "awakenCost": [
+    2000,
+    4000,
+    8000,
+    16000
+  ]
+}
